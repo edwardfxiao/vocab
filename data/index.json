@@ -1,0 +1,13 @@
+{
+  "generated": "2026-09-30T09:18:28.491Z",
+  "collections": [
+    {
+      "id": "13000-vocabulary",
+      "label": "13000-vocabulary · 13,000 words",
+      "file": "data/13000-vocabulary/vocabulary.csv",
+      "kind": "dictionary",
+      "notes": "data/13000-vocabulary/README.md",
+      "description": "13,000 words selected from ECDICT for IELTS study: exam-tagged and everyday words in frequency order, plus Academic Word List / New Academic Word List headwords. The wordlists column marks AWL and NAWL membership. Community dictionary, MIT license. Not an official IELTS word list."
+    }
+  ]
+}
