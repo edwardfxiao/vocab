@@ -104,9 +104,10 @@ in its rating colour with the same hover card (**其他生词** toggle next to t
 `word-by-word.story-others.v1`), so a word like *pier* is not missed just because it belongs to another group.
 
 Under a story, the **Glossary** header shows the word count and a **隐藏释义 / 显示释义** toggle (remembered in
-`word-by-word.story-gloss.v1`) so you can test yourself on the list first. The **复习练习 · Quiz** section below asks
-the meaning of every story word as a four-way choice (distractors are glosses of other words in the same story), in
-shuffled by default (or in story order); keys A–D or 1–4 answer, Enter / → continues, and the summary lists the missed words with
+`word-by-word.story-gloss.v1`) so you can test yourself on the list first. The **复习练习 · Quiz** section below drills
+every story word in one of three modes (看英选中: see the word, pick the meaning; 看中选英: see the meaning, pick the
+word; 看中拼写: see the meaning, type the word, Enter submits, case-insensitive), distractors being other words of the
+same story, shuffled by default (or in story order); keys A–D or 1–4 answer, Enter / → continues, and the summary lists the missed words with
 links to their cards. The **Practice** tab (`/:dataset/practice?s=1,2`) runs the same quiz over the combined glossaries of
 any stories you tick (duplicates merged); the story page's quiz links there with that story preselected.
 The quiz's summary can export the missed words (答错和不知道的) as a CSV in the study-list format

@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState, type ReactNode } from 'react';
 import { Link, useLocation, useNavigate, useParams } from 'react-router';
-import { ArrowLeft, ArrowRight, Download } from 'lucide-react';
+import { ArrowLeft, ArrowRight, Download, ExternalLink } from 'lucide-react';
 import { Button } from '@/components/ui/button.tsx';
 import { StoryQuiz } from '@/components/StoryQuiz.tsx';
 import { WordHoverCard } from '@/components/WordHoverCard.tsx';
@@ -11,6 +11,7 @@ import type { WordEntry } from '@/lib/words.ts';
 import { entryByWord, getState, hasStories, jumpToWord, setTrail, statusOf, useAppState, type TrailEntry } from '@/state/store.ts';
 import type { ExtraWord } from '@/lib/notes.ts';
 import { exportWords } from '@/state/export.ts';
+import { withBase } from '@/lib/base.ts';
 import { cn } from '@/lib/utils.ts';
 
 const WORD_CLASS: Record<Status, string> = {
@@ -20,6 +21,8 @@ const WORD_CLASS: Record<Status, string> = {
 
 const scrollKey = (ds: string, n: number, variant: string): string => `word-by-word.story-scroll.${ds}.${n}${variant}`;
 const GLOSS_KEY = 'word-by-word.story-gloss.v1';
+const WORD_KEY = 'word-by-word.story-word.v1';
+const readShowWord = (): boolean => { try { return localStorage.getItem(WORD_KEY) !== 'hidden'; } catch { return true; } };
 const HIGHLIGHT_KEY = 'word-by-word.story-highlight.v1';
 const readHighlight = (): boolean => { try { return localStorage.getItem(HIGHLIGHT_KEY) !== 'off'; } catch { return true; } };
 const readShowGloss = (): boolean => { try { return localStorage.getItem(GLOSS_KEY) !== 'hidden'; } catch { return true; } };
@@ -92,6 +95,9 @@ export function StoryPage() {
   const trail = useAppState(s => s.trail);
   const extras = useAppState(s => s.extras);
   const [showGloss, setShowGloss] = useState(readShowGloss);
+  const [showWord, setShowWord] = useState(readShowWord);   // hide the English to recall it from the Chinese
+  const [peeked, setPeeked] = useState<ReadonlySet<string>>(new Set());   // words revealed one by one while hidden
+  const toggleWord = (): void => { setShowWord(v => { try { localStorage.setItem(WORD_KEY, v ? 'hidden' : 'shown'); } catch { /* storage unavailable */ } if (v && !showGloss) setShowGloss(true); return !v; }); setPeeked(new Set()); };
   const [highlight, setHighlight] = useState(readHighlight);   // off = plain text: no bold, colours, underlines or hover cards
   const [showOthers, setShowOthers] = useState(readShowOthers);   // underline my other Not sure / Don’t know words in the text
   const toggleOthers = (): void => { setShowOthers(v => { try { localStorage.setItem(OTHERS_KEY, v ? 'off' : 'on'); } catch { /* storage unavailable */ } return !v; }); };
@@ -106,7 +112,7 @@ export function StoryPage() {
   const dir = config?.stories;
   const available = useAppState(hasStories);
   const imported = useAppState(s => s.storiesImported);
-  useEffect(() => { setStory(undefined); setChecked(new Set()); if (config && available) void fetchStory(config.id, dir, number, variant).then(setStory); else if (config) setStory(null); }, [dir, config, available, imported, number, variant]);
+  useEffect(() => { setStory(undefined); setChecked(new Set()); setPeeked(new Set()); if (config && available) void fetchStory(config.id, dir, number, variant).then(setStory); else if (config) setStory(null); }, [dir, config, available, imported, number, variant]);
   useEffect(() => { setSiblings([]); if (config && available) void fetchStoryIndex(config.id, dir).then(i => setSiblings(i.stories.filter(s => s.n === number))); }, [config, dir, available, imported, number]);
   // Restore the reading position when coming back (in-app Back passes scrollY; browser back finds it in sessionStorage).
   useEffect(() => {
@@ -167,13 +173,16 @@ export function StoryPage() {
         <div className="flex flex-wrap items-center gap-2">
           {checked.size > 0 && <><Button size="sm" onClick={exportChecked} title="CSV in the same format as the study-list exports"><Download className="mr-1 h-3.5 w-3.5" />导出已勾选 · Export {checked.size}</Button><Button variant="outline" size="sm" onClick={() => setChecked(new Set())}>Clear</Button></>}
           <Button variant="outline" size="sm" onClick={() => setChecked(new Set(story.glossary.map(g => g.word.toLowerCase())))} disabled={checked.size === story.glossary.length}>Select all</Button>
-          <Button variant="outline" size="sm" onClick={toggleGloss} aria-pressed={!showGloss}>{showGloss ? '隐藏释义 · Hide meanings' : '显示释义 · Show meanings'}</Button>
+          <Button variant="outline" size="sm" onClick={toggleGloss} aria-pressed={!showGloss} disabled={!showWord}>{showGloss ? '隐藏释义' : '显示释义'}</Button>
+          <Button variant="outline" size="sm" onClick={toggleWord} aria-pressed={!showWord} title="Hide the English words; click a blank to peek">{showWord ? '隐藏英文' : '显示英文'}</Button>
         </div>
       </div>
       <p className="mt-1 text-sm text-muted-foreground">Tick the words that will not stick and export them as a CSV. 勾选记不住的词，导出成 CSV。</p>
       <ol className="mt-3 grid grid-cols-[repeat(auto-fill,minmax(min(280px,100%),1fr))] gap-x-6 gap-y-1.5 text-[15px]">
         {story.glossary.map(g => { const w = g.word.toLowerCase(); return (
-          <li key={g.word} className="flex items-baseline gap-2"><input type="checkbox" checked={checked.has(w)} onChange={() => toggleChecked(w)} aria-label={`Select ${g.word}`} className="relative top-0.5 shrink-0 accent-primary" /><WordToken token={g.word} target={w} entry={entryByWord(w)} zh={g.zh} status={statusFor(w)} slug={slug} onOpen={open} />{showGloss && <span className="text-muted-foreground">{g.zh}</span>}</li>
+          <li key={g.word} className="flex items-baseline gap-2"><input type="checkbox" checked={checked.has(w)} onChange={() => toggleChecked(w)} aria-label={`Select ${g.word}`} className="relative top-0.5 shrink-0 accent-primary" />{showWord ? <WordToken token={g.word} target={w} entry={entryByWord(w)} zh={g.zh} status={statusFor(w)} slug={slug} onOpen={open} /> : peeked.has(w)
+            ? <button type="button" onClick={() => setPeeked(ps => { const n = new Set(ps); n.delete(w); return n; })} className={cn('rounded px-0.5 font-semibold hover:brightness-95', WORD_CLASS[statusFor(w)])} title="Click to hide again">{g.word}</button>
+            : <span className="inline-flex items-center gap-1"><button type="button" onClick={() => setPeeked(ps => new Set(ps).add(w))} className="rounded border border-dashed px-2 text-xs text-muted-foreground hover:border-primary hover:text-primary" title="Peek">{'·'.repeat(Math.min(8, Math.max(3, g.word.length)))}</button><a href={withBase(`${slug}/w/${encodeURIComponent(g.word)}`)} target="_blank" rel="noopener" className="text-muted-foreground hover:text-primary" title="Open the card in a new tab (does not reveal the word here)" aria-label={`Open the card of this word`}><ExternalLink className="h-3.5 w-3.5" /></a></span>}{showGloss && <span className="text-muted-foreground">{g.zh}</span>}</li>
         ); })}
       </ol>
       <StoryQuiz key={`${story.n}${story.variant ?? ''}`} glossary={story.glossary} slug={slug} exportLabel={`story-${story.n}${story.variant ?? ''}-missed`} practiceHref={`/${slug}/practice?s=${story.n}`} />
