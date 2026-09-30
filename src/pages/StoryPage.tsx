@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState, type ReactNode } from 'react';
 import { Link, useLocation, useNavigate, useParams } from 'react-router';
-import { ArrowLeft, ArrowRight, Download, ExternalLink } from 'lucide-react';
+import { ArrowLeft, ArrowRight, Download, Info } from 'lucide-react';
 import { Button } from '@/components/ui/button.tsx';
 import { StoryQuiz } from '@/components/StoryQuiz.tsx';
 import { WordHoverCard } from '@/components/WordHoverCard.tsx';
@@ -11,7 +11,6 @@ import type { WordEntry } from '@/lib/words.ts';
 import { entryByWord, getState, hasStories, jumpToWord, setTrail, statusOf, useAppState, type TrailEntry } from '@/state/store.ts';
 import type { ExtraWord } from '@/lib/notes.ts';
 import { exportWords } from '@/state/export.ts';
-import { withBase } from '@/lib/base.ts';
 import { cn } from '@/lib/utils.ts';
 
 const WORD_CLASS: Record<Status, string> = {
@@ -79,6 +78,24 @@ function PlainText({ text, extras, others, targets, slug, statusFor, zhFor, onOp
   }
   if (last < text.length) parts.push(text.slice(last));
   return <>{parts}</>;
+}
+
+/** A glossary entry while the English is hidden: dots that reveal the word on click (click again to hide), plus a small
+ *  icon that opens the usual hover card in either state. */
+function HiddenWord({ word, entry, status, zh, slug, peeked, onOpen, onTogglePeek }: { word: string; entry: WordEntry | undefined; status: Status; zh: string; slug: string; peeked: boolean; onOpen: (word: string) => void; onTogglePeek: () => void }) {
+  const [open, setOpen] = useState(false);
+  const face = peeked
+    ? <button type="button" onClick={onTogglePeek} className={cn('rounded px-0.5 font-semibold hover:brightness-95', WORD_CLASS[status])} title="Click to hide again">{word}</button>
+    : <button type="button" onClick={onTogglePeek} className="rounded border border-dashed px-2 text-xs text-muted-foreground hover:border-primary hover:text-primary" title="Peek">{'·'.repeat(Math.min(8, Math.max(3, word.length)))}</button>;
+  if (!entry) return face;
+  return (
+    <span className="inline-flex items-center gap-1">
+      {face}
+      <WordHoverCard entry={entry} status={status} slug={slug} zh={zh} onOpen={() => onOpen(word)} open={open} onOpenChange={setOpen}>
+        <button type="button" onClick={() => setOpen(o => !o)} className="rounded p-0.5 text-muted-foreground hover:bg-accent/60 hover:text-primary" title="Show the card" aria-label="Show the card of this word"><Info className="h-3.5 w-3.5" /></button>
+      </WordHoverCard>
+    </span>
+  );
 }
 
 /** /:ds/stories/:n — the story text with every target word bold, coloured by your rating; hover for the meaning, click through for the card. */
@@ -180,9 +197,8 @@ export function StoryPage() {
       <p className="mt-1 text-sm text-muted-foreground">Tick the words that will not stick and export them as a CSV. 勾选记不住的词，导出成 CSV。</p>
       <ol className="mt-3 grid grid-cols-[repeat(auto-fill,minmax(min(280px,100%),1fr))] gap-x-6 gap-y-1.5 text-[15px]">
         {story.glossary.map(g => { const w = g.word.toLowerCase(); return (
-          <li key={g.word} className="flex items-baseline gap-2"><input type="checkbox" checked={checked.has(w)} onChange={() => toggleChecked(w)} aria-label={`Select ${g.word}`} className="relative top-0.5 shrink-0 accent-primary" />{showWord ? <WordToken token={g.word} target={w} entry={entryByWord(w)} zh={g.zh} status={statusFor(w)} slug={slug} onOpen={open} /> : peeked.has(w)
-            ? <button type="button" onClick={() => setPeeked(ps => { const n = new Set(ps); n.delete(w); return n; })} className={cn('rounded px-0.5 font-semibold hover:brightness-95', WORD_CLASS[statusFor(w)])} title="Click to hide again">{g.word}</button>
-            : <span className="inline-flex items-center gap-1"><button type="button" onClick={() => setPeeked(ps => new Set(ps).add(w))} className="rounded border border-dashed px-2 text-xs text-muted-foreground hover:border-primary hover:text-primary" title="Peek">{'·'.repeat(Math.min(8, Math.max(3, g.word.length)))}</button><a href={withBase(`${slug}/w/${encodeURIComponent(g.word)}`)} target="_blank" rel="noopener" className="text-muted-foreground hover:text-primary" title="Open the card in a new tab (does not reveal the word here)" aria-label={`Open the card of this word`}><ExternalLink className="h-3.5 w-3.5" /></a></span>}{showGloss && <span className="text-muted-foreground">{g.zh}</span>}</li>
+          <li key={g.word} className="flex items-baseline gap-2"><input type="checkbox" checked={checked.has(w)} onChange={() => toggleChecked(w)} aria-label={`Select ${g.word}`} className="relative top-0.5 shrink-0 accent-primary" />{showWord ? <WordToken token={g.word} target={w} entry={entryByWord(w)} zh={g.zh} status={statusFor(w)} slug={slug} onOpen={open} />
+            : <HiddenWord word={g.word} entry={entryByWord(w)} status={statusFor(w)} zh={g.zh} slug={slug} peeked={peeked.has(w)} onOpen={open} onTogglePeek={() => setPeeked(ps => { const n = new Set(ps); if (n.has(w)) n.delete(w); else n.add(w); return n; })} />}{showGloss && <span className="text-muted-foreground">{g.zh}</span>}</li>
         ); })}
       </ol>
       <StoryQuiz key={`${story.n}${story.variant ?? ''}`} glossary={story.glossary} slug={slug} exportLabel={`story-${story.n}${story.variant ?? ''}-missed`} practiceHref={`/${slug}/practice?s=${story.n}`} />
