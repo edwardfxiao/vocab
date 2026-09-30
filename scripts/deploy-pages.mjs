@@ -21,12 +21,13 @@ const base = repo.toLowerCase() === `${user.toLowerCase()}.github.io` ? '/' : `/
 const site = buildSite(base);
 
 const work = fs.mkdtempSync(path.join(os.tmpdir(), 'gh-pages-'));
+sh('git worktree prune');                                   // forget worktrees left behind by an interrupted run
 let remoteHasBranch = false;
-try { sh('git fetch origin gh-pages', { stdio: 'inherit' }); remoteHasBranch = true; } catch { /* no gh-pages yet: start one */ }
-try {
-  if (!remoteHasBranch) throw new Error('fresh');
-  sh(`git worktree add -B gh-pages "${work}" origin/gh-pages`);
-} catch {
+try { sh('git fetch origin gh-pages', { stdio: 'inherit' }); remoteHasBranch = true; } catch { /* no gh-pages on the remote yet */ }
+const localHasBranch = sh('git branch --list gh-pages') !== '';
+if (remoteHasBranch) sh(`git worktree add -B gh-pages "${work}" origin/gh-pages`);        // continue the published history
+else if (localHasBranch) sh(`git worktree add "${work}" gh-pages`);                       // a local branch from an earlier run
+else {                                                                                     // first publish: an empty orphan branch
   sh(`git worktree add --detach "${work}"`);
   sh('git checkout --orphan gh-pages', { cwd: work });
   sh('git rm -rf --quiet . || true', { cwd: work });
