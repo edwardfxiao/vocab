@@ -10,7 +10,7 @@ import { fileURLToPath } from 'node:url';
 import { buildSite } from './site.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-const sh = (cmd, opts = {}) => execSync(cmd, { cwd: ROOT, stdio: 'pipe', ...opts }).toString().trim();
+const sh = (cmd, opts = {}) => { const out = execSync(cmd, { cwd: ROOT, stdio: 'pipe', ...opts }); return out ? out.toString().trim() : ''; };   // stdio 'inherit' returns null
 
 let remote;
 try { remote = sh('git remote get-url origin'); } catch { throw new Error('No `origin` remote. Create the GitHub repository, then: git remote add origin git@github.com:<user>/<repo>.git'); }
