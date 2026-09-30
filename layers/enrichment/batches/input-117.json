@@ -1,0 +1,602 @@
+[
+{
+"word": "remonstrate",
+"pos": "vi/vt",
+"zh": "vi. 表示异议, 抗议, 责备 / vt. 抗议地说",
+"en": "v. argue in protest or opposition / v. present and urge reasons in opposition"
+},
+{
+"word": "saintly",
+"pos": "a",
+"zh": "a. 圣洁的",
+"en": "s marked by utter benignity; resembling or befitting an angel or saint"
+},
+{
+"word": "morose",
+"pos": "a",
+"zh": "a. 郁闷的, 孤僻的",
+"en": "s showing a brooding ill humor"
+},
+{
+"word": "digress",
+"pos": "vi",
+"zh": "vi. 走向岔道, 离题, 扯到枝节上",
+"en": "v. lose clarity or turn aside especially from the main subject of attention or course of argument in writing, thinking, …"
+},
+{
+"word": "porcupine",
+"pos": "n",
+"zh": "n. 豪猪",
+"en": "n. relatively large rodents with sharp erectile bristles mingled with the fur"
+},
+{
+"word": "leer",
+"pos": "n/vi",
+"zh": "n. 秋波, 媚眼, 恶意的瞥视 / vi. 送秋波, 抛媚眼, 斜睨",
+"en": "n. a suggestive or sneering look or grin / v. look suggestively or obliquely; look or gaze with a sly, immodest, or mali…"
+},
+{
+"word": "incarnate",
+"pos": "vt/a",
+"zh": "vt. 体现, 使具体化, 使实体化 / a. 化身的, 实体化的, 肉色的, 深红色的",
+"en": "v. make concrete and real / v. represent in bodily form / s. invested with a bodily form especially of a human body"
+},
+{
+"word": "scald",
+"pos": "n/v",
+"zh": "n. 烫伤, 烫洗 / v. 烫伤, 烫洗",
+"en": "n. a burn cause by hot liquid or steam / n. the act of burning with steam or hot water / v. treat with boiling water"
+},
+{
+"word": "antihistamine",
+"pos": "n",
+"zh": "n. 抗组胺药",
+"en": "n. a medicine used to treat allergies and hypersensitive reactions and colds; works by counteracting the effects of hist…"
+},
+{
+"word": "cavort",
+"pos": "vi",
+"zh": "vi. 腾跃",
+"en": "v play boisterously"
+},
+{
+"word": "interpose",
+"pos": "vt/vi",
+"zh": "vt. 使插入, 使介于二者间, 使干涉 / vi. 插嘴, 干预",
+"en": "v. be or come between / v. introduce"
+},
+{
+"word": "gargoyle",
+"pos": "n",
+"zh": "n. 滴水嘴",
+"en": "n. a spout that terminates in a grotesquely carved figure of a person or animal / n. an ornament consisting of a grotesq…"
+},
+{
+"word": "atrophy",
+"pos": "n",
+"zh": "n. 萎缩, 萎缩症 / [医] 萎缩",
+"en": "n. a decrease in size of an organ caused by disease or disuse / n. any weakening or degeneration (especially through lac…"
+},
+{
+"word": "seine",
+"pos": "n/vt/vi",
+"zh": "n. 曳网, 拖地大网 / vt. 用曳网围捕 / vi. 用曳网捕鱼",
+"en": "n. a French river that flows through the heart of Paris and then northward into the English Channel / n. a large fishnet…"
+},
+{
+"word": "thirtieth",
+"pos": "num",
+"zh": "num. 第三十, 三十分之一",
+"en": "n. position 30 in a countable series of things / s. coming next after the twenty-ninth in position"
+},
+{
+"word": "hydrant",
+"pos": "n",
+"zh": "n. 给水栓, 水龙头, 消火栓",
+"en": "n. a discharge pipe with a valve and spout at which water may be drawn from the mains of waterworks"
+},
+{
+"word": "fractious",
+"pos": "a",
+"zh": "a. 易怒的, 倔强的, 脾气不好的",
+"en": "s. stubbornly resistant to authority or control / s. unpredictably difficult in operation; likely to be troublesome"
+},
+{
+"word": "rankle",
+"pos": "vi/vt",
+"zh": "vi. 化脓, 怨恨 / vt. 使怨恨",
+"en": "v gnaw into; make resentful or angry"
+},
+{
+"word": "misshapen",
+"pos": "a",
+"zh": "a. 造型不佳的, 丑恶的, 畸形的",
+"en": "s so badly formed or out of shape as to be ugly"
+},
+{
+"word": "enmesh",
+"pos": "vt",
+"zh": "vt. 使绊住, 使陷入",
+"en": "v. entangle or catch in (or as if in) a mesh"
+},
+{
+"word": "cogent",
+"pos": "a",
+"zh": "a. 使人首肯的, 使人信服的, 中肯切题的 / [法] 有说服力的, 无法反驳的",
+"en": "s. powerfully persuasive"
+},
+{
+"word": "unfailing",
+"pos": "a",
+"zh": "a. 可靠的；经久不衰的；无穷尽的",
+"en": "s. always able to supply more / s. unceasing"
+},
+{
+"word": "opportune",
+"pos": "a",
+"zh": "a. 恰好的, 时机适宜的, 适当的",
+"en": "a. suitable or at a time that is suitable or advantageous especially for a particular purpose"
+},
+{
+"word": "lustrous",
+"pos": "a",
+"zh": "a. 有光泽的, 光辉的",
+"en": "s. brilliant"
+},
+{
+"word": "incongruity",
+"pos": "n",
+"zh": "n. 不协调, 不一致, 不合适 / [化] 异元性; 不相容性",
+"en": "n. the quality of disagreeing; being unsuitable and inappropriate"
+},
+{
+"word": "fiend",
+"pos": "n",
+"zh": "n. 魔鬼, 邪神, 能手, 成癖者",
+"en": "n a cruel wicked and inhuman person / n an evil supernatural being / n a person motivated by irrational enthusiasm (as f…"
+},
+{
+"word": "dissension",
+"pos": "n",
+"zh": "n. 意见不合, 纠纷, 争吵 / [法] 异议, 纷争",
+"en": "n disagreement among those expected to cooperate / n a conflict of people's opinions or actions or characters"
+},
+{
+"word": "haggard",
+"pos": "n/a",
+"zh": "n. 野鹰 / a. 憔悴的, 形容枯槁的, 野性的",
+"en": "n. British writer noted for romantic adventure novels (1856-1925)"
+},
+{
+"word": "acrimony",
+"pos": "n",
+"zh": "n. 严厉, 尖刻 / [医] 辛辣",
+"en": "n a rough and bitter manner"
+},
+{
+"word": "urbane",
+"pos": "a",
+"zh": "a. 彬彬有礼的",
+"en": "s showing a high degree of refinement and the assurance that comes from wide social experience"
+},
+{
+"word": "inalienable",
+"pos": "a",
+"zh": "a. 不能让与的, 不能转售的, 不能夺取的, 不可分割的",
+"en": "a. incapable of being repudiated or transferred to another"
+},
+{
+"word": "stupor",
+"pos": "n",
+"zh": "n. 无感觉, 人事不省, 麻木 / [医] 木僵, 昏呆",
+"en": "n the feeling of distress and disbelief that you have when something bad happens accidentally / n marginal consciousness"
+},
+{
+"word": "prodigal",
+"pos": "n/a",
+"zh": "n. 浪费者 / a. 浪费的, 挥霍的, 丰富的",
+"en": "n. a recklessly extravagant consumer"
+},
+{
+"word": "unspoiled",
+"pos": "a",
+"zh": "a. 未损坏的；未宠坏的",
+"en": "s not left to spoil / s not decayed or decomposed"
+},
+{
+"word": "crockery",
+"pos": "n",
+"zh": "n. 陶器, 瓦器 / [化] 土器",
+"en": "n. tableware (eating and serving dishes) collectively"
+},
+{
+"word": "annotate",
+"pos": "v",
+"zh": "v. 作注解, 注释 / [计] 注释",
+"en": "v. add explanatory notes to or supply with critical comments"
+},
+{
+"word": "alacrity",
+"pos": "n",
+"zh": "n. 敏捷, 轻快, 乐意",
+"en": "n. liveliness and eagerness"
+},
+{
+"word": "pulsate",
+"pos": "vi",
+"zh": "vi. 搏动, 悸动, 震动 / [医] 搏动",
+"en": "v. expand and contract rhythmically; beat rhythmically / v. move with or as if with a regular alternating motion"
+},
+{
+"word": "unguarded",
+"pos": "a",
+"zh": "a. 没有防卫的, 不留神的, 不小心的, 大意的",
+"en": "s. lacking protection or a guard / s. displaying or feeling no wariness"
+},
+{
+"word": "whit",
+"pos": "n",
+"zh": "n. 些微, 一点点",
+"en": "n a tiny or scarcely detectable amount"
+},
+{
+"word": "mercurial",
+"pos": "a/n",
+"zh": "a. 水星的, 敏捷的, 活泼的, 水银的 / n. 汞剂",
+"en": "a. relating to or under the (astrological) influence of the planet Mercury / a. relating to or having characteristics (e…"
+},
+{
+"word": "authenticate",
+"pos": "vt",
+"zh": "vt. 证明可信, 证实为真, 使具法律效力 / [法] 认证, 鉴定, 证明",
+"en": "v. establish the authenticity of something"
+},
+{
+"word": "figment",
+"pos": "n",
+"zh": "n. 虚构的事",
+"en": "n. a contrived or fantastic idea"
+},
+{
+"word": "seashore",
+"pos": "n",
+"zh": "n. 海岸, 海滨",
+"en": "n. the shore of a sea or ocean"
+},
+{
+"word": "arroyo",
+"pos": "n",
+"zh": "n. 干涸沟壑, 旱谷, 小河",
+"en": "n. a stream or brook"
+},
+{
+"word": "sorrowful",
+"pos": "a",
+"zh": "a. 悲伤的",
+"en": "a. experiencing or marked by or expressing sorrow especially that associated with irreparable loss"
+},
+{
+"word": "clarion",
+"pos": "n/a",
+"zh": "n. 尖音号角 / a. 清澈响亮的",
+"en": "n. a medieval brass instrument with a clear shrill tone / v. blow the clarion / v. proclaim on, or as if on, a clarion"
+},
+{
+"word": "convulse",
+"pos": "vt",
+"zh": "vt. 使震动, 使震撼, 使抽搐",
+"en": "v. make someone convulse with laughter / v. be overcome with laughter / v. move or stir about violently"
+},
+{
+"word": "esthetic",
+"pos": "a",
+"zh": "a. 审美的 / [医] 感觉的",
+"en": "n (philosophy) a philosophical theory as to what is beautiful / a concerning or characterized by an appreciation of beau…"
+},
+{
+"word": "idyll",
+"pos": "n",
+"zh": "n. 叙事诗, 田园景色, 田园诗, 田园乐曲, 牧歌",
+"en": "n. an episode of such pastoral or romantic charm as to qualify as the subject of a poetic idyll"
+},
+{
+"word": "contraband",
+"pos": "n/a",
+"zh": "n. 违禁品, 走私 / a. 禁运的, 非法买卖的",
+"en": "n. goods whose importation or exportation or possession is prohibited by law"
+},
+{
+"word": "wile",
+"pos": "n/vt",
+"zh": "n. 诡计, 狡猾 / vt. 引诱, 诱骗, 消遣",
+"en": "n the use of tricks to deceive someone (usually to extract money from them)"
+},
+{
+"word": "truss",
+"pos": "vt/n",
+"zh": "vt. 捆绑 / n. 捆, 束",
+"en": "n. (medicine) a bandage consisting of a pad and belt; worn to hold a hernia in place by pressure / n. a framework of bea…"
+},
+{
+"word": "uninitiated",
+"pos": "a",
+"zh": "a. 外行的, 缺少经验的",
+"en": "s not initiated; deficient in relevant experience"
+},
+{
+"word": "turnpike",
+"pos": "n",
+"zh": "n. 收税栅, 收税路, 收税高速公路, 公路, 大道",
+"en": "n. (from 16th to 19th centuries) gates set across a road to prevent passage until a toll had been paid / n. an expresswa…"
+},
+{
+"word": "volition",
+"pos": "n",
+"zh": "n. 行使意志, 意志力, 决定",
+"en": "n. the capability of conscious choice and decision and intention / n. the act of making a choice"
+},
+{
+"word": "inimitable",
+"pos": "a",
+"zh": "a. 无法仿效的, 独特的, 无比的",
+"en": "s. defying imitation; matchless"
+},
+{
+"word": "demure",
+"pos": "a",
+"zh": "a. 装成端庄的, 假正经的, 娴静的",
+"en": "s affectedly modest or shy especially in a playful or provocative way"
+},
+{
+"word": "flippant",
+"pos": "a",
+"zh": "a. 轻率的, 没礼貌的, 嘴碎的",
+"en": "s. showing inappropriate levity"
+},
+{
+"word": "disgorge",
+"pos": "vt/vi",
+"zh": "vt. 吐出, 流注, 被迫交出 / vi. 呕吐",
+"en": "v cause or allow (a solid substance) to flow or run out or over / v eject the contents of the stomach through the mouth"
+},
+{
+"word": "unsophisticated",
+"pos": "a",
+"zh": "a. 不懂世故的, 单纯的, 不精细的, 纯洁的",
+"en": "s. not wise in the ways of the world"
+},
+{
+"word": "trite",
+"pos": "a",
+"zh": "a. 老一套的, 陈腐的, 用坏的",
+"en": "s repeated too often; overfamiliar through overuse"
+},
+{
+"word": "vicarious",
+"pos": "a",
+"zh": "a. 代理的, 代用的, 替代的 / [医] 替代的, 错位的",
+"en": "s. experienced at secondhand / s. occurring in an abnormal part of the body instead of the usual site involved in that f…"
+},
+{
+"word": "deserter",
+"pos": "n",
+"zh": "n. 背弃者, 脱党者, 逃亡者 / [法] 逃犯, 逃亡者, 逃兵",
+"en": "n. a disloyal person who betrays or deserts his cause or religion or political party or friend etc. / n. a person who ab…"
+},
+{
+"word": "minutely",
+"pos": "adv",
+"zh": "adv. 详细地, 精密地",
+"en": "r. in minute detail"
+},
+{
+"word": "progenitor",
+"pos": "n",
+"zh": "n. 祖先, 先辈, 原本 / [医] 祖先, 祖代",
+"en": "n. an ancestor in the direct line"
+},
+{
+"word": "lectern",
+"pos": "n",
+"zh": "n. 诵经台",
+"en": "n. desk or stand with a slanted top used to hold a text at the proper height for a lecturer"
+},
+{
+"word": "finery",
+"pos": "n",
+"zh": "n. (华丽的)装饰, (华丽的)服饰, 鲜艳服装, 幽雅, 精炼炉 / [化] 木炭吹炼炉; 木炭精炼炉",
+"en": "n. elaborate or showy attire and accessories"
+},
+{
+"word": "beget",
+"pos": "vt",
+"zh": "vt. 为某人之生父, 招致, 产生, 引起",
+"en": "v. make children"
+},
+{
+"word": "thoughtless",
+"pos": "a",
+"zh": "a. 欠考虑的, 无深虑的, 轻率的",
+"en": "a. showing lack of careful thought / s. without care or thought for others; `Let them eat cake'\""
+},
+{
+"word": "scrappy",
+"pos": "a",
+"zh": "a. 杂凑的, 不连贯的, 爱打架的, 坚决的",
+"en": "s. full of fighting spirit"
+},
+{
+"word": "prostrate",
+"pos": "a/vt",
+"zh": "a. 拜倒的, 降伏的, 俯卧的, 衰竭的, 沮丧的 / vt. 弄倒, 使屈服, 使俯伏, 使平卧",
+"en": "v. get into a prostrate position, as in submission / v. render helpless or defenseless / v. throw down flat, as on the g…"
+},
+{
+"word": "minion",
+"pos": "n",
+"zh": "n. 奴才, 宠臣",
+"en": "n. a servile or fawning dependant"
+},
+{
+"word": "maul",
+"pos": "n/vt",
+"zh": "n. 大槌 / vt. 打伤, 粗手粗脚地摆弄, 抨击",
+"en": "n. a heavy long-handled hammer used to drive stakes or wedges / v. split (wood) with a maul and wedges / v. injure badly…"
+},
+{
+"word": "jibe",
+"pos": "vi/vt/n",
+"zh": "vi. 嘲笑, 一致 / vt. 转帆, 嘲笑 / n. 嘲笑",
+"en": "v. shift from one side of the ship to the other"
+},
+{
+"word": "inexhaustible",
+"pos": "a",
+"zh": "a. 用不完的, 无穷尽的, 不知疲倦的",
+"en": "s. that cannot be entirely consumed or used up / a. incapable of being entirely consumed or used up"
+},
+{
+"word": "dregs",
+"pos": "n",
+"zh": "n. 少量；渣滓；沉淀物（dreg的复数）",
+"en": "n. sediment that has settled at the bottom of a liquid"
+},
+{
+"word": "cornice",
+"pos": "n/vt",
+"zh": "n. 檐口 / vt. 给...装檐口",
+"en": "n. a decorative framework to conceal curtain fixtures at the top of a window casing / n. a molding at the corner between…"
+},
+{
+"word": "brusque",
+"pos": "a",
+"zh": "a. 唐突的, 直率的",
+"en": "s. marked by rude or peremptory shortness"
+},
+{
+"word": "pall",
+"pos": "n/vi/vt",
+"zh": "n. 棺罩, 柩衣, 遮盖物 / vi. 失去吸引力, 乏味 / vt. 覆盖, 使笼罩阴影, 使乏味",
+"en": "n. burial garment in which a corpse is wrapped / v. become less interesting or attractive / v. cover with a pall / v. ca…"
+},
+{
+"word": "shirk",
+"pos": "vi/vt",
+"zh": "vi. 溜掉, 逃避, 推卸 / vt. 逃避",
+"en": "v. avoid dealing with"
+},
+{
+"word": "icicle",
+"pos": "n",
+"zh": "n. 垂冰, 冰柱, 冷冰冰的人",
+"en": "n. ice resembling a pendent spear, formed by the freezing of dripping water"
+},
+{
+"word": "girdle",
+"pos": "n/vt",
+"zh": "n. 腰带, 围绕物 / vt. 用腰带束缚, 围绕",
+"en": "n. an encircling or ringlike structure / n. a band of material around the waist that strengthens a skirt or trousers / v…"
+},
+{
+"word": "explicable",
+"pos": "a",
+"zh": "a. 可说明的, 可解释的",
+"en": "a. capable of being explicated or accounted for"
+},
+{
+"word": "greengrocer",
+"pos": "n",
+"zh": "n. 蔬菜水果商, 菜贩",
+"en": "n. a grocer who sells fresh fruits and vegetables"
+},
+{
+"word": "exhume",
+"pos": "vt",
+"zh": "vt. 掘出, 发掘",
+"en": "v dig up for reburial or for medical investigation; of dead bodies"
+},
+{
+"word": "impresario",
+"pos": "n",
+"zh": "n. 演出者, 主持人",
+"en": "n a sponsor who books and stages public entertainments"
+},
+{
+"word": "overburden",
+"pos": "vt",
+"zh": "vt. 装载过多, 负担过多, 使过劳 / [经] 过重的货物, 重担, 过度的负担",
+"en": "n. the surface soil that must be moved away to get at coal seams and mineral deposits / v. burden with too much work or …"
+},
+{
+"word": "infantile",
+"pos": "a",
+"zh": "a. 婴儿的, 幼稚的, 初期的 / [医] 婴儿的, 幼稚的",
+"en": "a. of or relating to infants or infancy / s. being or befitting or characteristic of an infant"
+},
+{
+"word": "crustacean",
+"pos": "a/n",
+"zh": "a. 甲壳纲的 / n. 甲壳纲动物",
+"en": "n. any mainly aquatic arthropod usually having a segmented body and chitinous exoskeleton"
+},
+{
+"word": "philistine",
+"pos": "n/a",
+"zh": "n. 庸人, 门外汉, 仇敌, 俗气的人 / a. 俗气的, 无教养的",
+"en": "n. a person who is uninterested in intellectual pursuits / n. a member of an Aegean people who settled ancient Philistia…"
+},
+{
+"word": "skittish",
+"pos": "a",
+"zh": "a. 易惊的, 轻佻的, 三心二意的, 不可靠的, 羞怯的, 活泼的, 爱蹦跳的, 活跃的",
+"en": "s. unpredictably excitable (especially of horses)"
+},
+{
+"word": "rumple",
+"pos": "v/n",
+"zh": "v. 弄皱, 弄得乱七八糟 / n. 皱纹, 皱褶",
+"en": "v. become wrinkled or crumpled or creased"
+},
+{
+"word": "recompense",
+"pos": "n/vt",
+"zh": "n. 报偿, 酬金, 赔偿 / vt. 报偿, 赔偿, 报酬",
+"en": "n. payment or reward (as for service rendered) / n. the act of compensating for service or loss or injury"
+},
+{
+"word": "mechanized",
+"pos": "a",
+"zh": "a. 机械化的；呆板的",
+"en": "s. equipped with machinery / s. using vehicles"
+},
+{
+"word": "stagecoach",
+"pos": "n",
+"zh": "n. 公共马车",
+"en": "n. a large coach-and-four formerly used to carry passengers and mail on regular routes between towns"
+},
+{
+"word": "pandemonium",
+"pos": "n",
+"zh": "n. 魔窟, 地狱, 阎王殿, 无法无天, 一片混乱, 大混乱, 大吵大闹, 乌烟瘴气",
+"en": "n a state of extreme confusion and disorder"
+},
+{
+"word": "listless",
+"pos": "a",
+"zh": "a. 倦怠的, 无精打采的 / [经] 交易清淡的",
+"en": "s. lacking zest or vivacity"
+},
+{
+"word": "irksome",
+"pos": "a",
+"zh": "a. 厌恶的, 讨厌的, 令人厌烦的",
+"en": "s so lacking in interest as to cause mental weariness"
+},
+{
+"word": "hearten",
+"pos": "vt/vi",
+"zh": "vt. 使振作, 激励 / vi. 振作",
+"en": "v give encouragement to"
+}
+]

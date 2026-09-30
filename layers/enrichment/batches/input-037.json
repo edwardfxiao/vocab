@@ -1,0 +1,602 @@
+[
+{
+"word": "click",
+"pos": "n/vi/vt",
+"zh": "n. 咔哒声, 啪嗒声 / vi. 作咔哒声 / vt. 使发咔哒声 / [计] 单击",
+"en": "n. depression of a button on a computer mouse / v. make a clicking or ticking sound / v. produce a click / v. become cle…"
+},
+{
+"word": "locally",
+"pos": "adv",
+"zh": "adv. 地方性地, 局部性地, 在当地",
+"en": "r. by a particular locality / r. to a restricted area of the body"
+},
+{
+"word": "traveler",
+"pos": "n",
+"zh": "n. 旅行者, 游客, 旅客, 旅行推销员, 活动起重架, 行车, 临时记帐单",
+"en": "n. a person who changes location"
+},
+{
+"word": "insert",
+"pos": "n/vt/vi",
+"zh": "n. 插入物 / vt. 插入, 把(人造卫星)射入(轨道), 添写 / vi. 附着 / [计] 插入",
+"en": "n. a folded section placed between the leaves of another publication / n. an artifact that is inserted or is to be inser…"
+},
+{
+"word": "glory",
+"pos": "n/vi",
+"zh": "n. 光荣, 荣耀, 荣誉, 壮丽, 繁荣 / vi. 自豪",
+"en": "n. a state of high honor / n. brilliant radiant beauty / v. rejoice proudly"
+},
+{
+"word": "exit",
+"pos": "n/vi",
+"zh": "n. 出口, 退场, 离去, 去世 / vi. 退出, 脱离, 去世 / [计] 退出; DOS内部命令:本命令用于退出当前的命令处理器(COMMAND.COM) / 恢复前一个命…",
+"en": "n. an opening that permits escape or release / n. the act of going out / v. move out of or depart from / v. lose the lea…"
+},
+{
+"word": "dedicate",
+"pos": "vt",
+"zh": "vt. 献出, 贡献",
+"en": "v. open to public use, as of a highway, park, or building / v. inscribe or address by way of compliment / v. set apart t…"
+},
+{
+"word": "dull",
+"pos": "a/vt/vi",
+"zh": "a. 钝的, 无趣的, 呆滞的, 阴暗的 / vt. 使迟钝, 使阴暗, 缓和 / vi. 变迟钝, 减少",
+"en": "v. make dull in appearance / v. become dull or lusterless in appearance; lose shine or brightness / v. make dull or blun…"
+},
+{
+"word": "brave",
+"pos": "a/n/vt",
+"zh": "a. 勇敢的, 美好的, 华丽的 / n. 勇敢者 / vt. 勇敢地面对",
+"en": "n. a North American Indian warrior / n. people who are brave / a. possessing or displaying courage; able to face and dea…"
+},
+{
+"word": "backwards",
+"pos": "adv",
+"zh": "adv. 向后",
+"en": "r at or to or toward the back or rear / r in a manner or order or direction the reverse of normal"
+},
+{
+"word": "pickup",
+"pos": "n",
+"zh": "n. 拾起, 加速, 刺激, 猎物的收集, 好转, 恢复健康, 搭车者, 兴奋剂, 电视摄像 / [电] 拾音器",
+"en": "n. a light truck with an open body and low sides and a tailboard / n. a warrant to take someone into custody / n. anythi…"
+},
+{
+"word": "twentieth",
+"pos": "num",
+"zh": "num. 第二十, 二十分之一",
+"en": "n. position 20 in a countable series of things / s. coming next after the nineteenth in position"
+},
+{
+"word": "carve",
+"pos": "v",
+"zh": "v. 雕刻, 切开",
+"en": "v. form by carving / v. engrave or cut by chipping away at a surface / v. cut to pieces"
+},
+{
+"word": "pity",
+"pos": "n/vt/vi",
+"zh": "n. 遗憾, 同情, 怜悯, 憾事, 可惜 / vt. 同情, 怜悯 / vi. 觉得可怜, 有同情心",
+"en": "n. an unfortunate development"
+},
+{
+"word": "partial",
+"pos": "a/n",
+"zh": "a. 部分的, 偏袒的, 偏爱的 / n. 分音",
+"en": "s. being or affecting only a part; not total / a. showing favoritism"
+},
+{
+"word": "belly",
+"pos": "n/vt/vi",
+"zh": "n. 腹部, 食欲 / vt. 使鼓起 / vi. 鼓起, 匍匐前进",
+"en": "n. a protruding abdomen / n. a part that bulges deeply / n. the hollow inside of something / n. the underpart of the bod…"
+},
+{
+"word": "packet",
+"pos": "n/vt",
+"zh": "n. 小包, 一批信件, 大量, 信息包 / vt. 打包, 装进小包 / [计] 分组, 分组报文, 数据分组",
+"en": "n. (computer science) a message or message fragment / n. a small package or bundle"
+},
+{
+"word": "conceive",
+"pos": "vt/vi",
+"zh": "vt. 构思, 认为 / vi. 怀孕",
+"en": "v. become pregnant; undergo conception"
+},
+{
+"word": "scare",
+"pos": "n/vt/vi",
+"zh": "n. 惊吓, 恐慌 / vt. 惊吓, 使恐慌 / vi. 受惊",
+"en": "n. a sudden attack of fear"
+},
+{
+"word": "skilled",
+"pos": "a",
+"zh": "a. 熟练的 / [经] 熟练的, 有技能的",
+"en": "a. having or showing or requiring special skill"
+},
+{
+"word": "cater",
+"pos": "v",
+"zh": "v. 提供饮食及服务, 投合, 迎合",
+"en": "v. supply food ready to eat; for parties and banquets"
+},
+{
+"word": "shuttle",
+"pos": "n/v",
+"zh": "n. 穿梭, 梭子, 往返移动之物 / v. (使)穿梭移动, 往返运送",
+"en": "n. public transport that consists of a bus or train or airplane that plies back and forth between two points / n. bobbin…"
+},
+{
+"word": "invisible",
+"pos": "a",
+"zh": "a. 看不见的, 无形的 / [经] 无形的, 表面上看不见的, 未列在公开帐目的",
+"en": "a. impossible or nearly impossible to see; imperceptible by the eye"
+},
+{
+"word": "engagement",
+"pos": "n",
+"zh": "n. 诺言, 约会, 婚约, 交战 / [医] 衔接",
+"en": "n. employment for performers or performing groups that lasts for a limited period of time / n. contact by fitting togeth…"
+},
+{
+"word": "ankle",
+"pos": "n",
+"zh": "n. 踝 / [医] 踝, 踝关节",
+"en": "n. a gliding joint between the distal ends of the tibia and fibula and the proximal end of the talus"
+},
+{
+"word": "rescue",
+"pos": "n/vt",
+"zh": "n. 援救, 解救, 营救 / vt. 援救, 救出, 营救",
+"en": "n. recovery or preservation from loss or danger / v. free from harm or evil / v. take forcibly from legal custody"
+},
+{
+"word": "counterpart",
+"pos": "n",
+"zh": "n. 副本, 复本, 配对物, 相应物 / [经] 副本, 正副二份中之一",
+"en": "n. a person or thing having the same function or characteristics as another / n. a duplicate copy"
+},
+{
+"word": "severely",
+"pos": "adv",
+"zh": "adv. 严格, 尖锐, 严肃, 严重, 严厉, 朴素",
+"en": "r to a severe or serious degree / r with sternness; in a severe manner / r causing great damage or hardship"
+},
+{
+"word": "marvellous",
+"pos": "a",
+"zh": "a. 奇异的, 神奇的, 奇迹般的, 惊人的, 不可思议的, 绝妙的, 妙极的",
+"en": "s extraordinarily good or great; used especially as intensifiers / s being or having the character of a miracle / s too …"
+},
+{
+"word": "instruct",
+"pos": "vt",
+"zh": "vt. 教, 教育, 命令, 通知 / [法] 托办, 指导, 指示",
+"en": "v. give instructions or directions for some task / v. make aware of"
+},
+{
+"word": "noon",
+"pos": "n",
+"zh": "n. 正午, 中午, 全盛期",
+"en": "n. the middle of the day"
+},
+{
+"word": "happily",
+"pos": "adv",
+"zh": "adv. 幸福地, 快乐地, 幸好",
+"en": "r. in a joyous manner / r. in an unexpectedly lucky way"
+},
+{
+"word": "doll",
+"pos": "n",
+"zh": "n. 洋娃娃, 无头脑的美丽女人",
+"en": "n. a small replica of a person; used as a toy"
+},
+{
+"word": "neat",
+"pos": "a/n",
+"zh": "a. 整洁的, 巧妙的, 匀称的, 简洁的 / n. 牛",
+"en": "s. clean or organized / s. showing care in execution / s. free from what is tawdry or unbecoming / s. without water"
+},
+{
+"word": "rider",
+"pos": "n",
+"zh": "n. 骑手, (文件后的)附件, 扶手 / [化] 游码",
+"en": "n. a traveler who actively rides an animal (as a horse or camel) / n. a clause that is appended to a legislative bill / …"
+},
+{
+"word": "amid",
+"pos": "prep",
+"zh": "prep. 在其间, 在其中 / [经] 在...中",
+"en": "prep. See Amidst. / prep. In the midst or middle of; surrounded or encompassed by; /    among."
+},
+{
+"word": "opt",
+"pos": "vi",
+"zh": "vi. 选择",
+"en": "v select as an alternative over another"
+},
+{
+"word": "intensive",
+"pos": "a/n",
+"zh": "a. 加强的, 内涵的, 集中的 / n. 加强器",
+"en": "s. characterized by a high degree or intensity; often used as a combining form / a. tending to give force or emphasis / …"
+},
+{
+"word": "trader",
+"pos": "n",
+"zh": "n. 商人, 商船 / [经] 交易者, 商船",
+"en": "n. someone who purchases and maintains an inventory of goods to be sold"
+},
+{
+"word": "isolate",
+"pos": "vt/n",
+"zh": "vt. 使隔离, 使孤立, 使绝缘 / n. 隔离种群",
+"en": "v. place or set apart / v. obtain in pure form / v. separate (experiences) from the emotions relating to them"
+},
+{
+"word": "carbohydrate",
+"pos": "n",
+"zh": "n. 碳水化合物, 糖类 / [化] 糖类; 碳水化合物",
+"en": "n. an essential structural component of living cells and source of energy for animals; includes simple sugars with small…"
+},
+{
+"word": "diagnose",
+"pos": "v",
+"zh": "v. 诊断",
+"en": "v. determine or distinguish the nature of a problem or an illness through a diagnostic analysis / v. subject to a medica…"
+},
+{
+"word": "envisage",
+"pos": "vt",
+"zh": "vt. 面对, 正视, 想象",
+"en": "v form a mental image of something that is not present or that is not the case"
+},
+{
+"word": "elegant",
+"pos": "a",
+"zh": "a. 优雅的, 端庄的, 高雅的",
+"en": "a. refined and tasteful in appearance or behavior or style / s. suggesting taste, ease, and wealth / s. displaying effor…"
+},
+{
+"word": "poster",
+"pos": "n",
+"zh": "n. 海报, 招贴, 驿马",
+"en": "n. a sign posted in a public place as an advertisement"
+},
+{
+"word": "concession",
+"pos": "n",
+"zh": "n. 特许, 让步, 认可 / [经] 核准, 许可, 特殊(权)",
+"en": "n. a contract granting the right to operate a subsidiary business / n. the act of conceding or yielding / n. a point con…"
+},
+{
+"word": "crawl",
+"pos": "n/v",
+"zh": "n. 爬行, 匍匐而行, 养鱼池 / v. 爬行",
+"en": "n. a very slow movement / n. a swimming stroke; arms are moved alternately overhead accompanied by a flutter kick / n. a…"
+},
+{
+"word": "handsome",
+"pos": "a",
+"zh": "a. 英俊的, 大方的, 慷慨的, 相当可观的, 美观的, 灵敏的",
+"en": "s pleasing in appearance especially by reason of conformity to ideals of form and proportion / s given or giving freely"
+},
+{
+"word": "tutor",
+"pos": "n/vt/vi",
+"zh": "n. 家庭教师, 导师, 助教, 监护人 / vt. 当...的教师, 教, 指导, 约束, 克制 / vi. 当家庭教师, 受家庭教师的指导",
+"en": "v. be a tutor to someone; give individual instruction / v. act as a guardian to someone"
+},
+{
+"word": "lonely",
+"pos": "a",
+"zh": "a. 孤单的, 孤寂的, 荒凉的",
+"en": "s. marked by dejection from being alone / s. devoid of creatures"
+},
+{
+"word": "instinct",
+"pos": "n/a",
+"zh": "n. 本能, 直觉 / a. 充满着的",
+"en": "n. inborn pattern of behavior often responsive to specific stimuli / s. (followed by `with')deeply filled or permeated"
+},
+{
+"word": "damp",
+"pos": "n/a/vt/vi",
+"zh": "n. 潮湿, 湿气 / a. 潮湿的 / vt. 使潮湿, 使阻尼, 抑止 / vi. 变潮湿, 衰减",
+"en": "n. a slight wetness / v. restrain or discourage / s. slightly wet"
+},
+{
+"word": "donor",
+"pos": "n",
+"zh": "n. 捐赠人 / [化] 给体; 供体",
+"en": "n. person who makes a gift of property / n. (medicine) someone who gives blood or tissue or an organ to be used in anoth…"
+},
+{
+"word": "jazz",
+"pos": "n/a/vi/vt",
+"zh": "n. 爵士乐, 喧闹 / a. 爵士乐的, 喧吵的 / vi. 演奏爵士乐, 跳爵士舞, 游荡 / vt. 奏爵士乐, 使活泼",
+"en": "n. a genre of popular music that originated in New Orleans around 1900 and developed through increasingly complex styles…"
+},
+{
+"word": "eagle",
+"pos": "n",
+"zh": "n. 鹰, 鹰状标饰",
+"en": "n. any of various large keen-sighted diurnal birds of prey noted for their broad wings and strong soaring flight / n. (g…"
+},
+{
+"word": "preliminary",
+"pos": "n/a",
+"zh": "n. 初步做法, 初步措施, 预试, 预选赛 / a. 初步的, 开始的, 预备的",
+"en": "n. a minor match preceding the main event / n. something that serves as a preceding event or introduces what follows / s…"
+},
+{
+"word": "inn",
+"pos": "n/vi",
+"zh": "n. 旅馆, 客栈 / vi. 住旅馆",
+"en": "n a hotel providing overnight lodging for travelers"
+},
+{
+"word": "trainer",
+"pos": "n",
+"zh": "n. 训练员, 驯马师 / [电] 列车器",
+"en": "n. one who trains other persons or animals"
+},
+{
+"word": "diagram",
+"pos": "n",
+"zh": "n. 图表；图解",
+"en": "n. a drawing intended to explain how something works; a drawing showing the relation between the parts / v. make a schem…"
+},
+{
+"word": "vertical",
+"pos": "a",
+"zh": "a. 垂直的, 直立的 / [医] 垂直的, 顶的, 头顶的",
+"en": "n. something that is oriented vertically / a. at right angles to the plane of the horizon or a base line / a. relating t…"
+},
+{
+"word": "hug",
+"pos": "n/vt",
+"zh": "n. 紧抱, 拥抱 / vt. 紧抱, 坚持, 使沾沾自喜",
+"en": "n. a tight or amorous embrace / v. fit closely or tightly"
+},
+{
+"word": "fancy",
+"pos": "n/a/vt/vi",
+"zh": "n. 想象力, 幻想, 喜好 / a. 想象的, 精美的, 新奇的, 奇特的, 高价的, 特级的 / vt. 想象, 设想, 相信, 喜爱 / vi. 想象, 幻想",
+"en": "n. a kind of imagination that was held by Coleridge to be more casual and superficial than true imagination / v. have a …"
+},
+{
+"word": "ambulance",
+"pos": "n",
+"zh": "n. 救护车 / [医] 救护车",
+"en": "n. a vehicle that takes people to and from hospitals"
+},
+{
+"word": "pavement",
+"pos": "n",
+"zh": "n. 路面, 人行道, 铺面路, 铺路材料",
+"en": "n. the paved surface of a thoroughfare"
+},
+{
+"word": "concede",
+"pos": "vt/vi",
+"zh": "vt. 承认, 退让 / vi. 让步",
+"en": "v. admit (to a wrongdoing) / v. be willing to concede / v. give over; surrender or relinquish to the physical control of…"
+},
+{
+"word": "punish",
+"pos": "vt/vi",
+"zh": "vt. 处罚, 惩罚, 严厉对待 / vi. 惩罚",
+"en": "v. impose a penalty on; inflict punishment on"
+},
+{
+"word": "sphere",
+"pos": "n/vt",
+"zh": "n. 球, 球面, 球体, 天体, 地球仪, 范围 / vt. 包围, 使成球体, 放入球内",
+"en": "n. a particular environment or walk of life / n. any spherically shaped artifact / n. the geographical area in which one…"
+},
+{
+"word": "ray",
+"pos": "n/vi/vt",
+"zh": "n. 光线, 射线, 闪烁, 光辉 / vi. 射出光线, 浮现, 放射光线 / vt. 放射, 显出",
+"en": "n. a branch of an umbel or an umbelliform inflorescence / n. (mathematics) a straight line extending from a point / n. a…"
+},
+{
+"word": "nest",
+"pos": "n/vi/vt",
+"zh": "n. 巢, 窝, 休息所, 隐匿处 / vi. 筑巢, 找鸟巢 / vt. 为...设窝, 使套叠 / [计] 嵌套",
+"en": "n. a structure in which animals lay eggs or give birth to their young / n. a kind of gun emplacement / n. a cosy or secl…"
+},
+{
+"word": "reign",
+"pos": "v/n",
+"zh": "v. 为王，为君；当政；统治 / n. 为王，为君；当政；统治",
+"en": "n. a period during which something or somebody is dominant or powerful / n. the period during which a monarch is soverei…"
+},
+{
+"word": "parallel",
+"pos": "n/a/vt",
+"zh": "n. 平行, 对比, 相匹敌之物 / a. 平行的, 相似的 / vt. 与...平行, 与...相似, 相比, 使平行 / [计] 并联; 并行",
+"en": "n. (mathematics) one of a set of parallel geometric figures (parallel lines or planes) / v. be parallel to / v. make or …"
+},
+{
+"word": "happiness",
+"pos": "n",
+"zh": "n. 快乐, 幸运, 适当",
+"en": "n. state of well-being characterized by emotions ranging from contentment to intense joy / n. emotions experienced when …"
+},
+{
+"word": "elevator",
+"pos": "n",
+"zh": "n. 电梯, 升降机 / [化] 提升机",
+"en": "n. lifting device consisting of a platform or cage that is raised and lowered mechanically in a vertical shaft in order …"
+},
+{
+"word": "influential",
+"pos": "a",
+"zh": "a. 有影响的, 有势力的",
+"en": "a. having or exercising influence or power"
+},
+{
+"word": "statue",
+"pos": "vt/n",
+"zh": "vt. 以雕像装饰 / n. 雕像",
+"en": "n. a sculpture representing a human or animal"
+},
+{
+"word": "clash",
+"pos": "n/vi/vt",
+"zh": "n. 冲突, 撞击声, 抵触 / vi. 冲突, 抵触 / vt. 使发出撞击声 / [计] 对撞",
+"en": "n. a state of conflict between persons / n. a state of conflict between colors / v. be incompatible; be or come into con…"
+},
+{
+"word": "pursuit",
+"pos": "n",
+"zh": "n. 追踪, 追求, 追赶, 娱乐, 职业 / [法] 追捕, 追求",
+"en": "n. the act of pursuing in an effort to overtake or capture / n. a search for an alternative that meets cognitive criteri…"
+},
+{
+"word": "tropical",
+"pos": "a",
+"zh": "a. 热带的, 热情的 / [医] 热带的",
+"en": "s. relating to or situated in or characteristic of the tropics (the region on either side of the equator) / a. of or rel…"
+},
+{
+"word": "entity",
+"pos": "n",
+"zh": "n. 实体, 实存物, 存在 / [计] 实体",
+"en": "n. that which is perceived or known or inferred to have its own distinct existence (living or nonliving)"
+},
+{
+"word": "gym",
+"pos": "n",
+"zh": "n. +体育馆, 体育训练, 体育课, 体操",
+"en": "n athletic facility equipped for sports or physical training"
+},
+{
+"word": "redundancy",
+"pos": "n",
+"zh": "n. 过多, 冗长, 累赘, 多余, 冗余位, 冗余度, 冗余码, 多余信息 / [计] 冗余",
+"en": "n. repetition of messages to reduce the probability of errors in transmission / n. the attribute of being superfluous an…"
+},
+{
+"word": "disclose",
+"pos": "vt",
+"zh": "vt. 揭露, 透露 / [法] 揭发, 揭露, 公开",
+"en": "v. disclose to view as by removing a cover"
+},
+{
+"word": "liberation",
+"pos": "n",
+"zh": "n. 释放, 解放 / [化] 发出; 释放; 放出",
+"en": "n. the act of liberating someone or something / n. the attempt to achieve equal rights or status"
+},
+{
+"word": "fist",
+"pos": "n/vt",
+"zh": "n. 拳头, 手 / vt. 拳打, 握成拳, 紧握",
+"en": "n. a hand with the fingers clenched in the palm (as for hitting)"
+},
+{
+"word": "pat",
+"pos": "n/v/adv/a",
+"zh": "n. 轻拍 / v. 轻拍 / adv. 适时, 正好, 恰好, 毫不迟疑, 熟记地 / a. 恰好的, 合适的, 熟练的, 坚定的, 人为的",
+"en": "n. the sound made by a gentle blow / s. exactly suited to the occasion / r. completely or perfectly"
+},
+{
+"word": "destination",
+"pos": "n",
+"zh": "n. 目的地, 目标, 目的 / [计] 目的文件, 目的单元",
+"en": "n. the ultimate goal for which something is done"
+},
+{
+"word": "endorse",
+"pos": "vt",
+"zh": "vt. 支持, 赞同, 背书于, 签署 / [经] 赞成, 背书",
+"en": "v. sign as evidence of legal transfer"
+},
+{
+"word": "update",
+"pos": "vt/n",
+"zh": "vt. 更新, 使现代化 / n. 更新 / [计] 更新",
+"en": "n. news that updates your information / v. modernize or bring up to date / v. bring up to date; supply with recent infor…"
+},
+{
+"word": "exploration",
+"pos": "n",
+"zh": "n. 探险, 踏勘, 探测 / [医] 探察",
+"en": "n. to travel for the purpose of discovery / n. a careful systematic search / n. a systematic consideration"
+},
+{
+"word": "tray",
+"pos": "n",
+"zh": "n. 托盘, 公文盘, 满盘, 发射箱 / [化] 淋盘",
+"en": "n. an open receptacle for holding or displaying or serving articles or food"
+},
+{
+"word": "thesis",
+"pos": "n",
+"zh": "n. 论题, 论文",
+"en": "n. an unproved statement put forward as a premise in an argument"
+},
+{
+"word": "feedback",
+"pos": "n",
+"zh": "n. 反馈, 反应 / [计] 反馈",
+"en": "n. the process in which part of the output of a system is returned to its input in order to regulate its further output …"
+},
+{
+"word": "commonwealth",
+"pos": "n",
+"zh": "n. 共和国；联邦；国民整体",
+"en": "n. the official name of some states in the United States (Massachusetts and Pennsylvania and Virginia and Kentucky) and …"
+},
+{
+"word": "delegation",
+"pos": "n",
+"zh": "n. 代表团, 派遣代表团, 代表的地位(或权力) / [经] 派遣, 委任, 委托",
+"en": "n a group of representatives or delegates / n authorizing subordinates to make certain decisions"
+},
+{
+"word": "purple",
+"pos": "n/a/v",
+"zh": "n. 紫色, 帝位 / a. 紫色的, 帝王的, 华而不实的 / v. (使)成紫色",
+"en": "n. a purple color or pigment / n. of imperial status / v. become purple / v. color purple"
+},
+{
+"word": "sunlight",
+"pos": "n",
+"zh": "n. 日光 / [医] 日光, 太阳光",
+"en": "n. the rays of the sun"
+},
+{
+"word": "laser",
+"pos": "n",
+"zh": "n. 激光 / [计] 激光器",
+"en": "n. an acronym for light amplification by stimulated emission of radiation; an optical device that produces an intense mo…"
+},
+{
+"word": "bold",
+"pos": "a/n",
+"zh": "a. 大胆的 / n. 粗体 / [计] 粗体",
+"en": "a. fearless and daring / s. clear and distinct"
+},
+{
+"word": "practically",
+"pos": "adv",
+"zh": "adv. 几乎, 差不多, 事实上",
+"en": "r. almost; nearly / r. in a practical manner"
+},
+{
+"word": "subsidiary",
+"pos": "n/a",
+"zh": "n. 子公司, 附件, 辅助者 / a. 辅助的, 次要的, 津贴的",
+"en": "n an assistant subject to the authority or control of another / n a company that is completely controlled by another com…"
+}
+]

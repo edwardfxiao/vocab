@@ -1,0 +1,1536 @@
+{
+ "binary": {
+  "gloss": "二进制的，二元的；n. 二进制文件；双星",
+  "trap": "",
+  "root": {
+   "key": "bi",
+   "meaning": "二",
+   "match": "bi"
+  },
+  "confusable": [],
+  "synonyms": [
+   "dual",
+   "twofold"
+  ],
+  "antonyms": []
+ },
+ "bound": {
+  "gloss": "v. 跳跃；n. 界限；a. 一定会的，开往…的；受约束的",
+  "trap": "be bound to 一定会；bound for 开往；也是 bind 的过去分词",
+  "root": null,
+  "confusable": [
+   "bond",
+   "bounce"
+  ],
+  "synonyms": [
+   "leap",
+   "limit",
+   "obligated"
+  ],
+  "antonyms": []
+ },
+ "capitalist": {
+  "gloss": "资本家；资本主义者；a. 资本主义的",
+  "trap": "",
+  "root": {
+   "key": "cap",
+   "meaning": "拿/头",
+   "match": "cap"
+  },
+  "confusable": [],
+  "synonyms": [
+   "investor",
+   "financier"
+  ],
+  "antonyms": [
+   "socialist",
+   "communist"
+  ]
+ },
+ "characterization": {
+  "gloss": "描述，刻画；(文学)人物塑造",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "description",
+   "portrayal",
+   "depiction"
+  ],
+  "antonyms": []
+ },
+ "circa": {
+  "gloss": "(用于年份、日期前)大约",
+  "trap": "拉丁语，常缩写为 c. 或 ca.，只用于年份、日期前",
+  "root": {
+   "key": "circ",
+   "meaning": "环",
+   "match": "circ"
+  },
+  "confusable": [],
+  "synonyms": [
+   "approximately",
+   "around",
+   "about"
+  ],
+  "antonyms": [
+   "exactly"
+  ]
+ },
+ "communicative": {
+  "gloss": "健谈的，乐于交流的；交际的，沟通的",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "talkative",
+   "expressive",
+   "open"
+  ],
+  "antonyms": [
+   "reserved",
+   "reticent"
+  ]
+ },
+ "computation": {
+  "gloss": "计算；计算过程，计算结果",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "calculation",
+   "reckoning"
+  ],
+  "antonyms": []
+ },
+ "conditional": {
+  "gloss": "有条件的，附条件的；(语法)条件句的",
+  "trap": "conditional on 意为“以…为条件”",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "contingent",
+   "dependent",
+   "provisional"
+  ],
+  "antonyms": [
+   "unconditional",
+   "absolute"
+  ]
+ },
+ "conduction": {
+  "gloss": "(热、电、声的)传导",
+  "trap": "",
+  "root": {
+   "key": "duc",
+   "meaning": "引导",
+   "match": "duc"
+  },
+  "confusable": [
+   "convection",
+   "conviction"
+  ],
+  "synonyms": [
+   "transmission"
+  ],
+  "antonyms": []
+ },
+ "connector": {
+  "gloss": "连接器，接口；连接物；连接词",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "link",
+   "coupling",
+   "joint"
+  ],
+  "antonyms": []
+ },
+ "consultation": {
+  "gloss": "咨询，请教；磋商，商议；(医生的)会诊",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "discussion",
+   "conference",
+   "advice"
+  ],
+  "antonyms": []
+ },
+ "convergence": {
+  "gloss": "趋同，汇聚；(数学)收敛；(技术)融合",
+  "trap": "",
+  "root": {
+   "key": "verg",
+   "meaning": "倾向",
+   "match": "verg"
+  },
+  "confusable": [],
+  "synonyms": [
+   "merging",
+   "union",
+   "confluence"
+  ],
+  "antonyms": [
+   "divergence"
+  ]
+ },
+ "core": {
+  "gloss": "核心，要点；果核；地核；(处理器)内核；a. 核心的",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "corps",
+   "corpse",
+   "chore"
+  ],
+  "synonyms": [
+   "center",
+   "heart",
+   "nucleus",
+   "essence"
+  ],
+  "antonyms": [
+   "periphery",
+   "surface"
+  ]
+ },
+ "credibility": {
+  "gloss": "可信度，可信性；信誉",
+  "trap": "",
+  "root": {
+   "key": "cred",
+   "meaning": "相信",
+   "match": "cred"
+  },
+  "confusable": [
+   "credulity"
+  ],
+  "synonyms": [
+   "believability",
+   "trustworthiness",
+   "reliability"
+  ],
+  "antonyms": [
+   "incredibility"
+  ]
+ },
+ "criteria": {
+  "gloss": "标准，准则(criterion 的复数)",
+  "trap": "是复数，单数是 criterion；“a criteria”是错误用法",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "standards",
+   "benchmarks",
+   "yardsticks"
+  ],
+  "antonyms": []
+ },
+ "critically": {
+  "gloss": "批判性地；极其，严重地；关键地",
+  "trap": "critically ill 病危，critically acclaimed 广受好评",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "severely",
+   "crucially",
+   "analytically"
+  ],
+  "antonyms": []
+ },
+ "cyclic": {
+  "gloss": "循环的，周期性的；(化学)环状的",
+  "trap": "",
+  "root": {
+   "key": "cycl",
+   "meaning": "圆/轮",
+   "match": "cycl"
+  },
+  "confusable": [],
+  "synonyms": [
+   "periodic",
+   "recurring",
+   "circular"
+  ],
+  "antonyms": [
+   "linear",
+   "acyclic"
+  ]
+ },
+ "deflection": {
+  "gloss": "偏转，偏离；(指针的)偏移；转移(话题、指责)",
+  "trap": "",
+  "root": {
+   "key": "flect",
+   "meaning": "弯",
+   "match": "flect"
+  },
+  "confusable": [
+   "deflation",
+   "defection"
+  ],
+  "synonyms": [
+   "deviation",
+   "diversion"
+  ],
+  "antonyms": []
+ },
+ "demonstrator": {
+  "gloss": "示威者；演示者，示范者；样品，展示品",
+  "trap": "新闻中多指“示威者、游行者”，不只是“演示者”",
+  "root": {
+   "key": "monstr",
+   "meaning": "显示",
+   "match": "monstr"
+  },
+  "confusable": [],
+  "synonyms": [
+   "protester",
+   "marcher",
+   "presenter"
+  ],
+  "antonyms": []
+ },
+ "denominator": {
+  "gloss": "分母；共同特性(common denominator)",
+  "trap": "common denominator 共同点、公分母；分子是 numerator",
+  "root": {
+   "key": "nomin",
+   "meaning": "名字",
+   "match": "nomin"
+  },
+  "confusable": [],
+  "synonyms": [
+   "divisor"
+  ],
+  "antonyms": [
+   "numerator"
+  ]
+ },
+ "descriptor": {
+  "gloss": "描述词，描述符；(计算机)描述符",
+  "trap": "",
+  "root": {
+   "key": "scrib",
+   "meaning": "写",
+   "match": "scrip"
+  },
+  "confusable": [],
+  "synonyms": [
+   "label",
+   "identifier",
+   "tag"
+  ],
+  "antonyms": []
+ },
+ "developmental": {
+  "gloss": "发展的，发育的；开发阶段的",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "evolutionary",
+   "formative"
+  ],
+  "antonyms": []
+ },
+ "differentiation": {
+  "gloss": "区分，区别；分化；(数学)微分",
+  "trap": "",
+  "root": {
+   "key": "fer",
+   "meaning": "带来",
+   "match": "fer"
+  },
+  "confusable": [],
+  "synonyms": [
+   "distinction",
+   "discrimination",
+   "specialization"
+  ],
+  "antonyms": [
+   "integration",
+   "homogenization"
+  ]
+ },
+ "diffusion": {
+  "gloss": "扩散，弥散；传播，散布",
+  "trap": "",
+  "root": {
+   "key": "fus",
+   "meaning": "倾倒/流",
+   "match": "fus"
+  },
+  "confusable": [
+   "diffraction",
+   "effusion"
+  ],
+  "synonyms": [
+   "dispersion",
+   "spread",
+   "dissemination"
+  ],
+  "antonyms": [
+   "concentration"
+  ]
+ },
+ "dimensional": {
+  "gloss": "维度的，…维的(three-dimensional)；空间的",
+  "trap": "",
+  "root": {
+   "key": "mens",
+   "meaning": "测量",
+   "match": "mens"
+  },
+  "confusable": [],
+  "synonyms": [
+   "spatial"
+  ],
+  "antonyms": []
+ },
+ "dissection": {
+  "gloss": "解剖；剖析，详细分析",
+  "trap": "",
+  "root": {
+   "key": "sect",
+   "meaning": "切",
+   "match": "sect"
+  },
+  "confusable": [
+   "dissension",
+   "discretion"
+  ],
+  "synonyms": [
+   "anatomy",
+   "analysis",
+   "examination"
+  ],
+  "antonyms": []
+ },
+ "dominance": {
+  "gloss": "支配地位，优势；(遗传)显性",
+  "trap": "",
+  "root": {
+   "key": "domin",
+   "meaning": "主人/支配",
+   "match": "domin"
+  },
+  "confusable": [],
+  "synonyms": [
+   "supremacy",
+   "control",
+   "ascendancy"
+  ],
+  "antonyms": [
+   "subordination",
+   "submission"
+  ]
+ },
+ "domination": {
+  "gloss": "统治，支配，控制",
+  "trap": "dominance 指“优势地位”；domination 指“统治”行为",
+  "root": {
+   "key": "domin",
+   "meaning": "主人/支配",
+   "match": "domin"
+  },
+  "confusable": [],
+  "synonyms": [
+   "control",
+   "rule",
+   "supremacy"
+  ],
+  "antonyms": [
+   "submission",
+   "subordination"
+  ]
+ },
+ "economist": {
+  "gloss": "经济学家",
+  "trap": "",
+  "root": {
+   "key": "eco",
+   "meaning": "家/环境",
+   "match": "eco"
+  },
+  "confusable": [],
+  "synonyms": [],
+  "antonyms": []
+ },
+ "elasticity": {
+  "gloss": "弹性，弹力；灵活性，伸缩性；(经济)弹性",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "flexibility",
+   "resilience",
+   "stretchiness"
+  ],
+  "antonyms": [
+   "rigidity",
+   "stiffness"
+  ]
+ },
+ "enforcement": {
+  "gloss": "执行，实施；强制执行(law enforcement 执法)",
+  "trap": "law enforcement 指“执法(机关)”",
+  "root": {
+   "key": "fort",
+   "meaning": "强",
+   "match": "forc"
+  },
+  "confusable": [],
+  "synonyms": [
+   "implementation",
+   "execution",
+   "imposition"
+  ],
+  "antonyms": []
+ },
+ "enormously": {
+  "gloss": "极其，非常；巨大地",
+  "trap": "e(出)+norm(规范)：超出常规→巨大",
+  "root": {
+   "key": "norm",
+   "meaning": "规范",
+   "match": "norm"
+  },
+  "confusable": [],
+  "synonyms": [
+   "hugely",
+   "immensely",
+   "tremendously"
+  ],
+  "antonyms": [
+   "slightly"
+  ]
+ },
+ "epidemiology": {
+  "gloss": "流行病学",
+  "trap": "epi(在…之上)+dem(人民)：在民众中流行",
+  "root": {
+   "key": "dem",
+   "meaning": "人民",
+   "match": "dem"
+  },
+  "confusable": [],
+  "synonyms": [],
+  "antonyms": []
+ },
+ "equivalence": {
+  "gloss": "等价，等值；相等，对等",
+  "trap": "",
+  "root": {
+   "key": "equ",
+   "meaning": "相等",
+   "match": "equ"
+  },
+  "confusable": [],
+  "synonyms": [
+   "equality",
+   "parity",
+   "sameness"
+  ],
+  "antonyms": [
+   "difference",
+   "disparity"
+  ]
+ },
+ "estimation": {
+  "gloss": "估计，估算；评价，看法(in my estimation)",
+  "trap": "in my estimation 意为“依我看”",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "estimate",
+   "assessment",
+   "judgment"
+  ],
+  "antonyms": []
+ },
+ "explicitly": {
+  "gloss": "明确地，明白地；直言不讳地",
+  "trap": "对比 implicitly 含蓄地、暗含地",
+  "root": {
+   "key": "plic",
+   "meaning": "折叠",
+   "match": "plic"
+  },
+  "confusable": [],
+  "synonyms": [
+   "clearly",
+   "expressly",
+   "unambiguously"
+  ],
+  "antonyms": [
+   "implicitly",
+   "vaguely"
+  ]
+ },
+ "factorial": {
+  "gloss": "n. 阶乘；a. 因子的，阶乘的",
+  "trap": "",
+  "root": {
+   "key": "fac",
+   "meaning": "做",
+   "match": "fac"
+  },
+  "confusable": [],
+  "synonyms": [],
+  "antonyms": []
+ },
+ "fertility": {
+  "gloss": "生育能力，生育率；(土地的)肥沃；(思想的)丰富",
+  "trap": "fertility rate 是“生育率”，不只指土壤肥沃",
+  "root": {
+   "key": "fer",
+   "meaning": "带来",
+   "match": "fer"
+  },
+  "confusable": [],
+  "synonyms": [
+   "fecundity",
+   "productiveness",
+   "richness"
+  ],
+  "antonyms": [
+   "infertility",
+   "sterility",
+   "barrenness"
+  ]
+ },
+ "fetal": {
+  "gloss": "胎儿的",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "fatal",
+   "feral"
+  ],
+  "synonyms": [],
+  "antonyms": []
+ },
+ "found": {
+  "gloss": "建立，创办；以…为基础；find 的过去式",
+  "trap": "作“创立”讲时过去式是 founded；也是 find 的过去式，别混",
+  "root": null,
+  "confusable": [
+   "fund"
+  ],
+  "synonyms": [
+   "establish",
+   "set up",
+   "institute"
+  ],
+  "antonyms": [
+   "dissolve",
+   "abolish"
+  ]
+ },
+ "fundamentally": {
+  "gloss": "从根本上，基本上；本质上",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "basically",
+   "essentially",
+   "radically"
+  ],
+  "antonyms": [
+   "superficially"
+  ]
+ },
+ "globalization": {
+  "gloss": "全球化",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "internationalization"
+  ],
+  "antonyms": [
+   "localization"
+  ]
+ },
+ "helix": {
+  "gloss": "螺旋(线)，螺旋形物(DNA 双螺旋)；耳轮",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "helium"
+  ],
+  "synonyms": [
+   "spiral",
+   "coil"
+  ],
+  "antonyms": []
+ },
+ "historically": {
+  "gloss": "历史上，一向；从历史角度看",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "traditionally"
+  ],
+  "antonyms": []
+ },
+ "immigrate": {
+  "gloss": "(从外国)移入，移民入境",
+  "trap": "immigrate 移入，emigrate 移出，migrate 迁徙",
+  "root": {
+   "key": "migr",
+   "meaning": "迁移",
+   "match": "migr"
+  },
+  "confusable": [
+   "emigrate"
+  ],
+  "synonyms": [
+   "settle",
+   "relocate"
+  ],
+  "antonyms": [
+   "emigrate"
+  ]
+ },
+ "inclusion": {
+  "gloss": "包容，包含；纳入；(材料中的)夹杂物",
+  "trap": "diversity and inclusion 中指“包容性”",
+  "root": {
+   "key": "clud",
+   "meaning": "关闭",
+   "match": "clus"
+  },
+  "confusable": [],
+  "synonyms": [
+   "incorporation",
+   "involvement"
+  ],
+  "antonyms": [
+   "exclusion"
+  ]
+ },
+ "incredibly": {
+  "gloss": "极其，非常；难以置信地",
+  "trap": "口语中多为加强语气“非常”，不是“不可信地”",
+  "root": {
+   "key": "cred",
+   "meaning": "相信",
+   "match": "cred"
+  },
+  "confusable": [],
+  "synonyms": [
+   "extremely",
+   "unbelievably",
+   "remarkably"
+  ],
+  "antonyms": []
+ },
+ "individually": {
+  "gloss": "单独地，个别地；逐个地",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "separately",
+   "singly",
+   "respectively"
+  ],
+  "antonyms": [
+   "collectively",
+   "together"
+  ]
+ },
+ "industrialize": {
+  "gloss": "(使)工业化",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [],
+  "antonyms": []
+ },
+ "inequality": {
+  "gloss": "不平等，不公平；(数学)不等式",
+  "trap": "",
+  "root": {
+   "key": "equ",
+   "meaning": "相等",
+   "match": "equ"
+  },
+  "confusable": [],
+  "synonyms": [
+   "disparity",
+   "imbalance",
+   "unfairness"
+  ],
+  "antonyms": [
+   "equality"
+  ]
+ },
+ "infinity": {
+  "gloss": "无限，无穷；无穷大(∞)",
+  "trap": "",
+  "root": {
+   "key": "fin",
+   "meaning": "结束/界限",
+   "match": "fin"
+  },
+  "confusable": [],
+  "synonyms": [
+   "boundlessness",
+   "eternity"
+  ],
+  "antonyms": [
+   "finitude"
+  ]
+ },
+ "inhibition": {
+  "gloss": "抑制，阻止；(心理)拘谨，顾忌",
+  "trap": "复数 inhibitions 常指“(心理上的)拘束、放不开”",
+  "root": {
+   "key": "hab",
+   "meaning": "有/住",
+   "match": "hib"
+  },
+  "confusable": [],
+  "synonyms": [
+   "restraint",
+   "suppression",
+   "reticence"
+  ],
+  "antonyms": [
+   "disinhibition",
+   "stimulation"
+  ]
+ },
+ "initiation": {
+  "gloss": "开始，发起；入会(仪式)；入门",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "beginning",
+   "commencement",
+   "induction"
+  ],
+  "antonyms": [
+   "termination",
+   "conclusion"
+  ]
+ },
+ "integration": {
+  "gloss": "整合，融合；(种族、社会)融合；(数学)积分",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "incorporation",
+   "unification",
+   "assimilation"
+  ],
+  "antonyms": [
+   "segregation",
+   "separation"
+  ]
+ },
+ "interestingly": {
+  "gloss": "有趣的是(常作句首插入语)；有趣地",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "curiously",
+   "notably"
+  ],
+  "antonyms": []
+ },
+ "inversion": {
+  "gloss": "倒置，颠倒；(语法)倒装；(气象)逆温",
+  "trap": "",
+  "root": {
+   "key": "vert",
+   "meaning": "转",
+   "match": "vers"
+  },
+  "confusable": [],
+  "synonyms": [
+   "reversal",
+   "transposition"
+  ],
+  "antonyms": []
+ },
+ "lecturer": {
+  "gloss": "(大学)讲师；演讲者",
+  "trap": "英国大学职称，大致相当于美国的助理教授",
+  "root": {
+   "key": "leg",
+   "meaning": "法律/选择/读",
+   "match": "lect"
+  },
+  "confusable": [],
+  "synonyms": [
+   "instructor",
+   "speaker",
+   "professor"
+  ],
+  "antonyms": []
+ },
+ "longitudinal": {
+  "gloss": "纵向的；(研究)长期追踪的；经度的",
+  "trap": "longitudinal study 纵向追踪研究，对 cross-sectional",
+  "root": {
+   "key": "long",
+   "meaning": "长",
+   "match": "long"
+  },
+  "confusable": [],
+  "synonyms": [
+   "lengthwise",
+   "long-term"
+  ],
+  "antonyms": [
+   "transverse",
+   "cross-sectional",
+   "latitudinal"
+  ]
+ },
+ "manipulation": {
+  "gloss": "操纵，操控；(熟练的)操作，处理；(数据)处理",
+  "trap": "",
+  "root": {
+   "key": "man",
+   "meaning": "手",
+   "match": "man"
+  },
+  "confusable": [],
+  "synonyms": [
+   "control",
+   "handling",
+   "exploitation"
+  ],
+  "antonyms": []
+ },
+ "marker": {
+  "gloss": "标记，标志物；记号笔；(生物)标记物；里程碑",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "indicator",
+   "sign",
+   "label"
+  ],
+  "antonyms": []
+ },
+ "morphological": {
+  "gloss": "形态(学)的；(语言)词法的",
+  "trap": "",
+  "root": {
+   "key": "morph",
+   "meaning": "形状",
+   "match": "morph"
+  },
+  "confusable": [],
+  "synonyms": [
+   "structural"
+  ],
+  "antonyms": []
+ },
+ "nationalism": {
+  "gloss": "民族主义，国家主义；民族独立运动",
+  "trap": "",
+  "root": {
+   "key": "nat",
+   "meaning": "出生",
+   "match": "nat"
+  },
+  "confusable": [],
+  "synonyms": [
+   "patriotism",
+   "chauvinism"
+  ],
+  "antonyms": [
+   "internationalism",
+   "globalism"
+  ]
+ },
+ "nonlinear": {
+  "gloss": "非线性的；不按顺序的",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [],
+  "antonyms": [
+   "linear"
+  ]
+ },
+ "oscillation": {
+  "gloss": "振荡，摆动；(观点、情绪的)摇摆",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "vibration",
+   "swing",
+   "fluctuation"
+  ],
+  "antonyms": [
+   "stability"
+  ]
+ },
+ "overview": {
+  "gloss": "概述，概览，综述",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "summary",
+   "outline",
+   "synopsis"
+  ],
+  "antonyms": []
+ },
+ "oxidize": {
+  "gloss": "(使)氧化；(使)生锈",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "rust",
+   "corrode"
+  ],
+  "antonyms": [
+   "reduce"
+  ]
+ },
+ "parenthesis": {
+  "gloss": "圆括号；插入语；插曲，间歇",
+  "trap": "复数 parentheses；英式常说 brackets",
+  "root": {
+   "key": "thes",
+   "meaning": "放置",
+   "match": "thes"
+  },
+  "confusable": [],
+  "synonyms": [
+   "bracket",
+   "aside",
+   "digression"
+  ],
+  "antonyms": []
+ },
+ "phonological": {
+  "gloss": "音系的，音位学的；语音的",
+  "trap": "",
+  "root": {
+   "key": "phon",
+   "meaning": "声音",
+   "match": "phon"
+  },
+  "confusable": [],
+  "synonyms": [],
+  "antonyms": []
+ },
+ "pi": {
+  "gloss": "圆周率(π≈3.14159)；希腊字母 π",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "pie"
+  ],
+  "synonyms": [],
+  "antonyms": []
+ },
+ "pole": {
+  "gloss": "杆，柱；(地球的)极，磁极，电极；极端",
+  "trap": "poles apart 意为“截然相反”；大写 Pole 是波兰人",
+  "root": null,
+  "confusable": [
+   "poll",
+   "pool"
+  ],
+  "synonyms": [
+   "rod",
+   "post",
+   "extremity"
+  ],
+  "antonyms": []
+ },
+ "primer": {
+  "gloss": "入门书，初级读本；底漆；雷管；(生物)引物",
+  "trap": "",
+  "root": {
+   "key": "prim",
+   "meaning": "第一",
+   "match": "prim"
+  },
+  "confusable": [],
+  "synonyms": [
+   "introduction",
+   "textbook",
+   "undercoat"
+  ],
+  "antonyms": []
+ },
+ "processor": {
+  "gloss": "处理器(CPU)；加工者，加工机；(食物)料理机",
+  "trap": "",
+  "root": {
+   "key": "ced",
+   "meaning": "走",
+   "match": "cess"
+  },
+  "confusable": [],
+  "synonyms": [
+   "cpu",
+   "chip"
+  ],
+  "antonyms": []
+ },
+ "randomize": {
+  "gloss": "使随机化，随机排列(尤指实验分组)",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "shuffle",
+   "scramble"
+  ],
+  "antonyms": [
+   "order",
+   "sort"
+  ]
+ },
+ "randomly": {
+  "gloss": "随机地，任意地；胡乱地",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "arbitrarily",
+   "haphazardly",
+   "by chance"
+  ],
+  "antonyms": [
+   "systematically",
+   "deliberately"
+  ]
+ },
+ "rationality": {
+  "gloss": "理性，合理性",
+  "trap": "",
+  "root": {
+   "key": "rat",
+   "meaning": "计算/推理",
+   "match": "rat"
+  },
+  "confusable": [],
+  "synonyms": [
+   "reason",
+   "logic",
+   "sense"
+  ],
+  "antonyms": [
+   "irrationality"
+  ]
+ },
+ "reactive": {
+  "gloss": "反应性的，被动应对的；(化学)易起反应的；(医)反应的",
+  "trap": "reactive 被动应对 vs proactive 主动预防",
+  "root": {
+   "key": "act",
+   "meaning": "做",
+   "match": "act"
+  },
+  "confusable": [],
+  "synonyms": [
+   "responsive"
+  ],
+  "antonyms": [
+   "proactive",
+   "inert"
+  ]
+ },
+ "regression": {
+  "gloss": "(统计)回归；倒退，退化；(心理)退行",
+  "trap": "regression analysis 是“回归分析”，不是“退步”",
+  "root": {
+   "key": "grad",
+   "meaning": "走/步",
+   "match": "gress"
+  },
+  "confusable": [],
+  "synonyms": [
+   "reversion",
+   "decline",
+   "relapse"
+  ],
+  "antonyms": [
+   "progression",
+   "progress"
+  ]
+ },
+ "reluctance": {
+  "gloss": "不情愿，勉强；(物理)磁阻",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "unwillingness",
+   "hesitation",
+   "disinclination"
+  ],
+  "antonyms": [
+   "willingness",
+   "eagerness"
+  ]
+ },
+ "replication": {
+  "gloss": "复制；重复(实验)；(DNA)复制；(法律)答辩",
+  "trap": "科研中指“重复实验以验证结果”",
+  "root": {
+   "key": "plic",
+   "meaning": "折叠",
+   "match": "plic"
+  },
+  "confusable": [],
+  "synonyms": [
+   "duplication",
+   "copying",
+   "reproduction"
+  ],
+  "antonyms": []
+ },
+ "selective": {
+  "gloss": "有选择的，选择性的；挑剔的",
+  "trap": "selective memory 指“选择性记忆”，只记想记的",
+  "root": {
+   "key": "leg",
+   "meaning": "法律/选择/读",
+   "match": "lect"
+  },
+  "confusable": [],
+  "synonyms": [
+   "discriminating",
+   "particular",
+   "choosy"
+  ],
+  "antonyms": [
+   "indiscriminate",
+   "random"
+  ]
+ },
+ "semantic": {
+  "gloss": "语义的，词义的",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "semiotic"
+  ],
+  "synonyms": [],
+  "antonyms": [
+   "syntactic"
+  ]
+ },
+ "sexuality": {
+  "gloss": "性取向；性欲，性行为；性征",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "sexual orientation"
+  ],
+  "antonyms": []
+ },
+ "simulation": {
+  "gloss": "模拟，仿真；假装",
+  "trap": "",
+  "root": {
+   "key": "simil",
+   "meaning": "相似",
+   "match": "simul"
+  },
+  "confusable": [],
+  "synonyms": [
+   "imitation",
+   "emulation",
+   "modeling"
+  ],
+  "antonyms": []
+ },
+ "so-called": {
+  "gloss": "所谓的(表怀疑)；通称的",
+  "trap": "常含质疑：“所谓的专家”；也可中性表“通常称作”",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "alleged",
+   "supposed",
+   "self-styled"
+  ],
+  "antonyms": [
+   "genuine"
+  ]
+ },
+ "solute": {
+  "gloss": "溶质",
+  "trap": "solute 溶质、solvent 溶剂、solution 溶液",
+  "root": {
+   "key": "solv",
+   "meaning": "松开",
+   "match": "solu"
+  },
+  "confusable": [
+   "salute",
+   "solvent"
+  ],
+  "synonyms": [],
+  "antonyms": [
+   "solvent"
+  ]
+ },
+ "sophisticate": {
+  "gloss": "n. 老练世故的人；v. 使精密复杂，使世故",
+  "trap": "常见形式是 sophisticated：精密的、老练的",
+  "root": {
+   "key": "soph",
+   "meaning": "智慧",
+   "match": "soph"
+  },
+  "confusable": [],
+  "synonyms": [
+   "worldly",
+   "refine"
+  ],
+  "antonyms": []
+ },
+ "sponsorship": {
+  "gloss": "赞助，资助；担保；(签证、移民)担保",
+  "trap": "",
+  "root": {
+   "key": "spons",
+   "meaning": "承诺/担保",
+   "match": "spons"
+  },
+  "confusable": [],
+  "synonyms": [
+   "funding",
+   "backing",
+   "patronage"
+  ],
+  "antonyms": []
+ },
+ "standardize": {
+  "gloss": "使标准化，使统一",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "normalize",
+   "unify",
+   "regulate"
+  ],
+  "antonyms": [
+   "diversify",
+   "customize"
+  ]
+ },
+ "statistically": {
+  "gloss": "统计上，从统计学角度",
+  "trap": "",
+  "root": {
+   "key": "sta",
+   "meaning": "站立",
+   "match": "sta"
+  },
+  "confusable": [],
+  "synonyms": [
+   "numerically"
+  ],
+  "antonyms": []
+ },
+ "subset": {
+  "gloss": "子集；一小部分",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "part",
+   "portion",
+   "subgroup"
+  ],
+  "antonyms": [
+   "superset"
+  ]
+ },
+ "substitution": {
+  "gloss": "替代，替换；(体育)换人；替代物",
+  "trap": "",
+  "root": {
+   "key": "sta",
+   "meaning": "站立",
+   "match": "stit"
+  },
+  "confusable": [],
+  "synonyms": [
+   "replacement",
+   "swap",
+   "exchange"
+  ],
+  "antonyms": []
+ },
+ "substrate": {
+  "gloss": "基质，底物(酶作用物)；基底，衬底；基层",
+  "trap": "",
+  "root": {
+   "key": "strat",
+   "meaning": "层/铺",
+   "match": "strat"
+  },
+  "confusable": [],
+  "synonyms": [
+   "base",
+   "foundation",
+   "underlayer"
+  ],
+  "antonyms": []
+ },
+ "sustainable": {
+  "gloss": "可持续的(环境、发展)；可维持的，能持续的",
+  "trap": "可持续发展 sustainable development；不是“可承受的”",
+  "root": {
+   "key": "ten",
+   "meaning": "持有",
+   "match": "tain"
+  },
+  "confusable": [],
+  "synonyms": [
+   "renewable",
+   "viable",
+   "maintainable"
+  ],
+  "antonyms": [
+   "unsustainable"
+  ]
+ },
+ "syntactic": {
+  "gloss": "句法的，语法结构的",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "grammatical",
+   "structural"
+  ],
+  "antonyms": [
+   "semantic"
+  ]
+ },
+ "syntax": {
+  "gloss": "句法，语法(结构)；(计算机)语法规则",
+  "trap": "syn(一起)+tax(排列)：把词排在一起",
+  "root": {
+   "key": "tax",
+   "meaning": "排列",
+   "match": "tax"
+  },
+  "confusable": [],
+  "synonyms": [
+   "grammar",
+   "structure"
+  ],
+  "antonyms": []
+ },
+ "technically": {
+  "gloss": "严格来说，从技术、法律细节上讲；技术上",
+  "trap": "technically speaking “严格说来”，引出与常识不同的事实",
+  "root": {
+   "key": "techn",
+   "meaning": "技艺",
+   "match": "techn"
+  },
+  "confusable": [],
+  "synonyms": [
+   "strictly",
+   "officially",
+   "formally"
+  ],
+  "antonyms": []
+ },
+ "theorist": {
+  "gloss": "理论家",
+  "trap": "",
+  "root": {
+   "key": "theor",
+   "meaning": "观看/思考",
+   "match": "theor"
+  },
+  "confusable": [],
+  "synonyms": [
+   "thinker",
+   "philosopher"
+  ],
+  "antonyms": [
+   "practitioner",
+   "empiricist"
+  ]
+ },
+ "transcription": {
+  "gloss": "转写，抄录，(录音的)文字记录；(生物)转录；(音乐)改编",
+  "trap": "",
+  "root": {
+   "key": "scrib",
+   "meaning": "写",
+   "match": "scrip"
+  },
+  "confusable": [],
+  "synonyms": [
+   "record",
+   "copy",
+   "notation"
+  ],
+  "antonyms": []
+ },
+ "unintelligible": {
+  "gloss": "无法理解的，难以听清或辨认的",
+  "trap": "不是“不聪明的”(unintelligent)，是“无法理解、听不清的”",
+  "root": {
+   "key": "leg",
+   "meaning": "法律/选择/读",
+   "match": "lig"
+  },
+  "confusable": [
+   "unintelligent"
+  ],
+  "synonyms": [
+   "incomprehensible",
+   "indecipherable",
+   "inarticulate"
+  ],
+  "antonyms": [
+   "intelligible",
+   "clear"
+  ]
+ },
+ "uplift": {
+  "gloss": "n. 振奋，鼓舞；提升；(地质)隆起；v. 振奋，抬起",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "boost",
+   "elevate",
+   "inspire"
+  ],
+  "antonyms": [
+   "depress",
+   "downturn"
+  ]
+ }
+}

@@ -1,0 +1,1481 @@
+{
+"goalkeeper": {
+"gloss": "守门员",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"goalie",
+"keeper"
+],
+"antonyms": []
+},
+"whisk": {
+"gloss": "v. 搅打(蛋、奶油)；迅速带走；n. 打蛋器；小扫帚",
+"trap": "whisk away 是‘迅速带走’，与 whisker(胡须)无关",
+"root": null,
+"confusable": [
+"whisker",
+"whistle"
+],
+"synonyms": [
+"beat",
+"whip",
+"stir"
+],
+"antonyms": []
+},
+"pastry": {
+"gloss": "油酥面团；酥皮点心，糕点",
+"trap": "",
+"root": null,
+"confusable": [
+"pasty",
+"pastor"
+],
+"synonyms": [
+"cake",
+"pie",
+"tart"
+],
+"antonyms": []
+},
+"multimedia": {
+"gloss": "多媒体；多媒体的",
+"trap": "",
+"root": {
+"key": "medi",
+"meaning": "中",
+"match": "medi"
+},
+"confusable": [],
+"synonyms": [],
+"antonyms": []
+},
+"lesbian": {
+"gloss": "女同性恋者；女同性恋的",
+"trap": "源自希腊莱斯沃斯岛 Lesbos，女诗人萨福的故乡",
+"root": null,
+"confusable": [],
+"synonyms": [
+"gay",
+"homosexual"
+],
+"antonyms": [
+"heterosexual"
+]
+},
+"implant": {
+"gloss": "v. 植入(器官、装置)；灌输(思想)；n. 植入物，假体",
+"trap": "",
+"root": null,
+"confusable": [
+"implement",
+"implicate"
+],
+"synonyms": [
+"embed",
+"insert",
+"instil"
+],
+"antonyms": [
+"remove",
+"extract"
+]
+},
+"vintage": {
+"gloss": "a. 复古经典的，老式的；n. (葡萄酒的)年份，佳酿",
+"trap": "现在最常指‘复古、经典的’(vintage clothes)，不只是酒",
+"root": {
+"key": "vin",
+"meaning": "酒",
+"match": "vin"
+},
+"confusable": [
+"vantage"
+],
+"synonyms": [
+"classic",
+"retro",
+"antique"
+],
+"antonyms": [
+"modern"
+]
+},
+"squint": {
+"gloss": "眯着眼看；斜视；n. 斜视",
+"trap": "",
+"root": null,
+"confusable": [
+"squid",
+"squirt",
+"sprint"
+],
+"synonyms": [
+"peer",
+"narrow"
+],
+"antonyms": []
+},
+"tricky": {
+"gloss": "棘手的，难办的；狡猾的，诡计多端的",
+"trap": "现代最常指‘棘手、难处理的’，不只是‘狡猾’",
+"root": null,
+"confusable": [
+"tacky",
+"picky"
+],
+"synonyms": [
+"difficult",
+"delicate",
+"cunning",
+"sly"
+],
+"antonyms": [
+"straightforward",
+"easy"
+]
+},
+"unwanted": {
+"gloss": "不想要的，多余的；不受欢迎的",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"undesirable",
+"unwelcome",
+"superfluous"
+],
+"antonyms": [
+"desired",
+"welcome"
+]
+},
+"doorstep": {
+"gloss": "门阶；(on one's doorstep)家门口，近旁",
+"trap": "on the doorstep 常喻‘就在家门口、近在咫尺’",
+"root": null,
+"confusable": [
+"doorstop"
+],
+"synonyms": [
+"threshold"
+],
+"antonyms": []
+},
+"gateway": {
+"gloss": "入口，通道；途径，门径；(计算机)网关",
+"trap": "gateway to 常喻‘通往…的途径’",
+"root": null,
+"confusable": [],
+"synonyms": [
+"entrance",
+"portal",
+"access"
+],
+"antonyms": []
+},
+"cinnamon": {
+"gloss": "肉桂，桂皮；肉桂色",
+"trap": "",
+"root": null,
+"confusable": [
+"synonym"
+],
+"synonyms": [
+"spice"
+],
+"antonyms": []
+},
+"governance": {
+"gloss": "治理，管治(方式)；公司治理",
+"trap": "指治理的方式与体系，government 指政府机构",
+"root": null,
+"confusable": [],
+"synonyms": [
+"administration",
+"management",
+"rule"
+],
+"antonyms": []
+},
+"roster": {
+"gloss": "名单，花名册；值班表，轮值表",
+"trap": "",
+"root": null,
+"confusable": [
+"rooster",
+"roaster"
+],
+"synonyms": [
+"list",
+"register",
+"rota"
+],
+"antonyms": []
+},
+"indict": {
+"gloss": "(正式)控告，起诉；谴责",
+"trap": "读音 /ɪnˈdaɪt/，c 不发音；不是 indicate",
+"root": {
+"key": "dict",
+"meaning": "说",
+"match": "dict"
+},
+"confusable": [
+"indicate",
+"indite"
+],
+"synonyms": [
+"charge",
+"accuse",
+"prosecute"
+],
+"antonyms": [
+"acquit",
+"exonerate"
+]
+},
+"goodwill": {
+"gloss": "善意，友好；(企业的)商誉",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"benevolence",
+"friendliness"
+],
+"antonyms": [
+"hostility",
+"malice"
+]
+},
+"trio": {
+"gloss": "三人组，三重奏(唱)；三件一套",
+"trap": "",
+"root": {
+"key": "tri",
+"meaning": "三",
+"match": "tri"
+},
+"confusable": [
+"trial",
+"trip"
+],
+"synonyms": [
+"threesome",
+"triad"
+],
+"antonyms": [
+"duo",
+"solo"
+]
+},
+"comeback": {
+"gloss": "复出，东山再起；巧妙的反驳",
+"trap": "make a comeback 复出、卷土重来",
+"root": null,
+"confusable": [],
+"synonyms": [
+"return",
+"revival",
+"retort",
+"riposte"
+],
+"antonyms": []
+},
+"buffer": {
+"gloss": "缓冲物，缓冲区；起缓冲作用的人；v. 缓冲，减轻",
+"trap": "",
+"root": null,
+"confusable": [
+"buffet",
+"buff"
+],
+"synonyms": [
+"cushion",
+"shield"
+],
+"antonyms": []
+},
+"urine": {
+"gloss": "尿",
+"trap": "",
+"root": null,
+"confusable": [
+"urn"
+],
+"synonyms": [
+"pee"
+],
+"antonyms": []
+},
+"farmhouse": {
+"gloss": "农舍，农场住宅",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"homestead"
+],
+"antonyms": []
+},
+"asthma": {
+"gloss": "哮喘",
+"trap": "读音 /ˈæsmə/，th 不发音",
+"root": null,
+"confusable": [],
+"synonyms": [],
+"antonyms": []
+},
+"exchequer": {
+"gloss": "(英国)财政部；国库，财源",
+"trap": "源自中世纪用格子布(棋盘 chequer)算账的桌子",
+"root": null,
+"confusable": [
+"chequer",
+"checker"
+],
+"synonyms": [
+"treasury"
+],
+"antonyms": []
+},
+"manifesto": {
+"gloss": "宣言，(政党)竞选纲领",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"declaration",
+"platform",
+"statement"
+],
+"antonyms": []
+},
+"firearm": {
+"gloss": "枪支，火器",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"gun",
+"weapon"
+],
+"antonyms": []
+},
+"mule": {
+"gloss": "骡子；(俚)毒品运送人；固执的人；无跟拖鞋",
+"trap": "新闻里 drug mule 指‘运毒者’",
+"root": null,
+"confusable": [
+"mole",
+"mull"
+],
+"synonyms": [
+"donkey",
+"courier"
+],
+"antonyms": []
+},
+"barrister": {
+"gloss": "(英国)出庭律师，大律师",
+"trap": "英国律师分 barrister(出庭)与 solicitor(事务律师)",
+"root": null,
+"confusable": [
+"banister",
+"barista"
+],
+"synonyms": [
+"lawyer",
+"advocate",
+"counsel"
+],
+"antonyms": []
+},
+"parsley": {
+"gloss": "欧芹，香芹",
+"trap": "",
+"root": null,
+"confusable": [
+"parsnip",
+"paisley"
+],
+"synonyms": [
+"herb",
+"coriander"
+],
+"antonyms": []
+},
+"dame": {
+"gloss": "(英国)女爵士(头衔)；(美俚)女人",
+"trap": "英国 Dame 是与 Sir 对应的女性封号",
+"root": null,
+"confusable": [
+"dam",
+"damn"
+],
+"synonyms": [
+"lady"
+],
+"antonyms": []
+},
+"airfield": {
+"gloss": "(小型)飞机场，机场跑道区",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"airport",
+"airstrip",
+"aerodrome"
+],
+"antonyms": []
+},
+"admiral": {
+"gloss": "海军上将，舰队司令",
+"trap": "源自阿拉伯语 amir(埃米尔，统帅)，与 admire 无关",
+"root": null,
+"confusable": [
+"admire",
+"admirable"
+],
+"synonyms": [
+"commander"
+],
+"antonyms": []
+},
+"bipartisan": {
+"gloss": "两党的，两党共同支持的",
+"trap": "bi- 两 + partisan 党派的",
+"root": {
+"key": "part",
+"meaning": "部分/派",
+"match": "part"
+},
+"confusable": [],
+"synonyms": [
+"cross-party"
+],
+"antonyms": [
+"partisan",
+"one-sided"
+]
+},
+"artefact": {
+"gloss": "人工制品，(有历史价值的)手工艺品；(实验中的)人为误差",
+"trap": "英式拼法，美式 artifact；科研中指‘人为假象’",
+"root": {
+"key": "fac",
+"meaning": "做",
+"match": "fac"
+},
+"confusable": [
+"artifice"
+],
+"synonyms": [
+"relic",
+"antique",
+"object"
+],
+"antonyms": []
+},
+"duchess": {
+"gloss": "公爵夫人；女公爵",
+"trap": "",
+"root": {
+"key": "duc",
+"meaning": "引导",
+"match": "duc"
+},
+"confusable": [
+"dutch"
+],
+"synonyms": [],
+"antonyms": [
+"duke"
+]
+},
+"parole": {
+"gloss": "假释；v. 假释",
+"trap": "源自法语 parole‘话，誓言’——以誓言换取释放",
+"root": null,
+"confusable": [
+"patrol",
+"payroll"
+],
+"synonyms": [
+"release",
+"probation"
+],
+"antonyms": []
+},
+"ecclesiastical": {
+"gloss": "教会的，基督教会的",
+"trap": "源自希腊 ekklesia‘集会，教会’",
+"root": null,
+"confusable": [],
+"synonyms": [
+"church",
+"clerical",
+"religious"
+],
+"antonyms": [
+"secular",
+"lay"
+]
+},
+"poetic": {
+"gloss": "诗意的，富有诗情的；诗的",
+"trap": "poetic justice 指‘恶有恶报，天理昭彰’",
+"root": null,
+"confusable": [],
+"synonyms": [
+"lyrical",
+"romantic"
+],
+"antonyms": [
+"prosaic"
+]
+},
+"accountancy": {
+"gloss": "会计(工作、职业)",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"accounting",
+"bookkeeping"
+],
+"antonyms": []
+},
+"bunker": {
+"gloss": "地堡，掩体；(高尔夫)沙坑；燃料舱",
+"trap": "",
+"root": null,
+"confusable": [
+"banker",
+"bunk"
+],
+"synonyms": [
+"shelter",
+"dugout"
+],
+"antonyms": []
+},
+"vet": {
+"gloss": "v. 审查，审核(人或计划)；n. 兽医；(美)退伍军人",
+"trap": "动词‘审查’(vet candidates)最常见；美语也指退伍军人",
+"root": null,
+"confusable": [
+"vat",
+"bet"
+],
+"synonyms": [
+"screen",
+"check",
+"examine",
+"veterinarian"
+],
+"antonyms": []
+},
+"salon": {
+"gloss": "美发店，美容院；沙龙(名流聚会)；(旧)客厅",
+"trap": "",
+"root": null,
+"confusable": [
+"saloon",
+"salmon"
+],
+"synonyms": [
+"parlour",
+"boutique"
+],
+"antonyms": []
+},
+"bail": {
+"gloss": "保释(金)；v. 保释；舀水；bail out 救助，脱身",
+"trap": "bail out 现常指‘(金融)救助’，也指‘退出，脱身’",
+"root": null,
+"confusable": [
+"bale",
+"bell"
+],
+"synonyms": [
+"bond",
+"surety",
+"rescue"
+],
+"antonyms": []
+},
+"gel": {
+"gloss": "凝胶；发胶；v. 成形，定型；融洽配合",
+"trap": "动词 gel 常指计划‘成形’或团队‘合拍’",
+"root": null,
+"confusable": [
+"jelly",
+"jail"
+],
+"synonyms": [
+"jelly",
+"solidify",
+"cohere"
+],
+"antonyms": []
+},
+"shudder": {
+"gloss": "战栗，发抖(因恐惧、厌恶)；n. 战栗",
+"trap": "",
+"root": null,
+"confusable": [
+"shutter",
+"shatter"
+],
+"synonyms": [
+"shiver",
+"tremble",
+"quiver"
+],
+"antonyms": []
+},
+"lush": {
+"gloss": "(植被)繁茂的，葱郁的；华丽奢华的；n. 酒鬼",
+"trap": "",
+"root": null,
+"confusable": [
+"lash",
+"rush"
+],
+"synonyms": [
+"luxuriant",
+"verdant",
+"opulent"
+],
+"antonyms": [
+"barren",
+"sparse"
+]
+},
+"strategist": {
+"gloss": "战略家，策略师",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"planner",
+"tactician"
+],
+"antonyms": []
+},
+"homosexual": {
+"gloss": "同性恋的；同性恋者",
+"trap": "homo- 是希腊语‘相同’，不是拉丁语 homo‘人’",
+"root": {
+"key": "homo",
+"meaning": "同",
+"match": "homo"
+},
+"confusable": [],
+"synonyms": [
+"gay"
+],
+"antonyms": [
+"heterosexual"
+]
+},
+"angler": {
+"gloss": "垂钓者，钓鱼的人；(喻)谋取者",
+"trap": "是‘钓鱼的人’，angle 古义为‘鱼钩’，与‘角’无关",
+"root": null,
+"confusable": [
+"angle",
+"anger"
+],
+"synonyms": [
+"fisherman"
+],
+"antonyms": []
+},
+"median": {
+"gloss": "中位数；中间的，正中的；(美)公路中央隔离带",
+"trap": "中位数 median 不是平均数 mean，也不是众数 mode",
+"root": {
+"key": "medi",
+"meaning": "中",
+"match": "medi"
+},
+"confusable": [
+"medium",
+"mean",
+"mediate"
+],
+"synonyms": [
+"middle",
+"midpoint",
+"average"
+],
+"antonyms": []
+},
+"coconut": {
+"gloss": "椰子",
+"trap": "",
+"root": null,
+"confusable": [
+"cocoa",
+"cocoon"
+],
+"synonyms": [],
+"antonyms": []
+},
+"colon": {
+"gloss": "冒号；结肠",
+"trap": "",
+"root": null,
+"confusable": [
+"colonel",
+"colony",
+"column"
+],
+"synonyms": [],
+"antonyms": []
+},
+"lesion": {
+"gloss": "(组织、器官的)损伤，病变",
+"trap": "",
+"root": null,
+"confusable": [
+"legion",
+"lesson"
+],
+"synonyms": [
+"injury",
+"wound",
+"damage"
+],
+"antonyms": []
+},
+"ceasefire": {
+"gloss": "停火，停火协议",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"truce",
+"armistice"
+],
+"antonyms": [
+"hostilities"
+]
+},
+"premiere": {
+"gloss": "首映，首演；v. 首映，首演",
+"trap": "与 premier(首相；首要的)拼法差一个 e",
+"root": {
+"key": "prim",
+"meaning": "第一",
+"match": "prem"
+},
+"confusable": [
+"premier",
+"premium"
+],
+"synonyms": [
+"debut",
+"opening"
+],
+"antonyms": []
+},
+"dice": {
+"gloss": "骰子；v. 切成小方块；(dice with)冒险",
+"trap": "die 是单数，dice 是复数(现在也作单数用)",
+"root": null,
+"confusable": [
+"dine",
+"dive"
+],
+"synonyms": [
+"cube",
+"chop"
+],
+"antonyms": []
+},
+"landfill": {
+"gloss": "垃圾填埋场；填埋(处理)",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"dump",
+"tip"
+],
+"antonyms": []
+},
+"patio": {
+"gloss": "(房屋旁的)露台，庭院，天井",
+"trap": "",
+"root": null,
+"confusable": [
+"patriot",
+"patina"
+],
+"synonyms": [
+"terrace",
+"courtyard",
+"deck"
+],
+"antonyms": []
+},
+"dismantle": {
+"gloss": "拆开，拆卸；逐步废除(制度、体系)",
+"trap": "原义‘脱去斗篷(mantle)’，现常喻废除制度、体系",
+"root": null,
+"confusable": [
+"dismay",
+"mantle"
+],
+"synonyms": [
+"disassemble",
+"demolish",
+"abolish"
+],
+"antonyms": [
+"assemble",
+"build"
+]
+},
+"tout": {
+"gloss": "极力宣传，吹捧，兜售；n. 倒票的黄牛",
+"trap": "新闻中常见 be touted as‘被吹捧为’",
+"root": null,
+"confusable": [
+"taut",
+"tote",
+"trout"
+],
+"synonyms": [
+"promote",
+"peddle",
+"hawk",
+"praise"
+],
+"antonyms": []
+},
+"jersey": {
+"gloss": "运动衫，球衣；针织套头衫；(J-)泽西岛，泽西奶牛",
+"trap": "",
+"root": null,
+"confusable": [
+"jetty"
+],
+"synonyms": [
+"shirt",
+"sweater",
+"pullover"
+],
+"antonyms": []
+},
+"secrecy": {
+"gloss": "保密，秘密状态",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"confidentiality",
+"concealment"
+],
+"antonyms": [
+"openness",
+"transparency"
+]
+},
+"bureaucrat": {
+"gloss": "官僚，(尤指刻板的)政府官员",
+"trap": "bureau 办公桌/局 + -crat 统治者，常含贬义",
+"root": {
+"key": "crat",
+"meaning": "统治",
+"match": "crat"
+},
+"confusable": [],
+"synonyms": [
+"official",
+"administrator",
+"functionary"
+],
+"antonyms": []
+},
+"cuff": {
+"gloss": "袖口；(裤脚)翻边；(cuffs)手铐；v. 拍打，铐上",
+"trap": "off the cuff 即兴地(旧时把提示写在袖口)",
+"root": null,
+"confusable": [
+"cough",
+"chuff"
+],
+"synonyms": [
+"handcuff",
+"slap"
+],
+"antonyms": []
+},
+"sperm": {
+"gloss": "精子；精液",
+"trap": "",
+"root": null,
+"confusable": [
+"spam",
+"spurn"
+],
+"synonyms": [
+"semen"
+],
+"antonyms": [
+"egg",
+"ovum"
+]
+},
+"sedan": {
+"gloss": "(四门)轿车；轿子",
+"trap": "美语 sedan = 英语 saloon",
+"root": null,
+"confusable": [
+"sedate"
+],
+"synonyms": [
+"saloon",
+"car"
+],
+"antonyms": []
+},
+"apartheid": {
+"gloss": "种族隔离(制度)",
+"trap": "南非荷兰语‘分离’，读音 /əˈpɑːtaɪt/ 或 /-heɪt/",
+"root": null,
+"confusable": [
+"apart"
+],
+"synonyms": [
+"segregation",
+"discrimination"
+],
+"antonyms": [
+"integration"
+]
+},
+"earring": {
+"gloss": "耳环，耳饰",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"stud",
+"hoop"
+],
+"antonyms": []
+},
+"scepticism": {
+"gloss": "怀疑(态度)；怀疑论",
+"trap": "英式拼法，美式 skepticism；指对说法存疑，不是‘悲观’",
+"root": null,
+"confusable": [
+"cynicism",
+"septic"
+],
+"synonyms": [
+"doubt",
+"disbelief",
+"suspicion"
+],
+"antonyms": [
+"credulity",
+"faith"
+]
+},
+"crest": {
+"gloss": "顶峰，山顶，浪峰；(鸟)羽冠；纹章，饰章；v. 到达顶点",
+"trap": "",
+"root": null,
+"confusable": [
+"crust",
+"crease"
+],
+"synonyms": [
+"peak",
+"summit",
+"ridge",
+"emblem"
+],
+"antonyms": [
+"trough"
+]
+},
+"plaque": {
+"gloss": "牌匾，纪念牌；牙菌斑；(血管、脑中的)斑块",
+"trap": "医学中指牙菌斑或血管斑块，不是‘血小板’(platelet)",
+"root": null,
+"confusable": [
+"plague",
+"plate"
+],
+"synonyms": [
+"tablet",
+"plate"
+],
+"antonyms": []
+},
+"superstar": {
+"gloss": "超级明星",
+"trap": "",
+"root": {
+"key": "super",
+"meaning": "超过/在上",
+"match": "super"
+},
+"confusable": [],
+"synonyms": [
+"celebrity",
+"icon"
+],
+"antonyms": []
+},
+"sleek": {
+"gloss": "光滑发亮的；线条流畅时尚的；油滑的",
+"trap": "",
+"root": null,
+"confusable": [
+"slick",
+"sleet",
+"slack"
+],
+"synonyms": [
+"glossy",
+"smooth",
+"streamlined",
+"stylish"
+],
+"antonyms": [
+"rough",
+"shaggy"
+]
+},
+"deduction": {
+"gloss": "扣除，扣除额；推论，演绎",
+"trap": "deduction 演绎(由一般到个别)，induction 归纳",
+"root": {
+"key": "duc",
+"meaning": "引导",
+"match": "duc"
+},
+"confusable": [
+"induction",
+"reduction"
+],
+"synonyms": [
+"subtraction",
+"inference",
+"reasoning"
+],
+"antonyms": [
+"induction",
+"addition"
+]
+},
+"whiskey": {
+"gloss": "威士忌",
+"trap": "whiskey 多用于爱尔兰、美国产，whisky 指苏格兰产",
+"root": null,
+"confusable": [
+"whisky",
+"whisker"
+],
+"synonyms": [
+"scotch",
+"bourbon",
+"liquor"
+],
+"antonyms": []
+},
+"dune": {
+"gloss": "沙丘",
+"trap": "",
+"root": null,
+"confusable": [
+"dun",
+"tune"
+],
+"synonyms": [
+"sandhill",
+"ridge"
+],
+"antonyms": []
+},
+"vampire": {
+"gloss": "吸血鬼；吸血蝙蝠；(喻)榨取者",
+"trap": "",
+"root": null,
+"confusable": [
+"umpire",
+"empire"
+],
+"synonyms": [
+"bloodsucker"
+],
+"antonyms": []
+},
+"gypsy": {
+"gloss": "吉卜赛人(现多用 Roma)；流浪者",
+"trap": "源自误认为来自埃及(Egyptian)；现常视为冒犯，多用 Roma",
+"root": null,
+"confusable": [
+"gipsy"
+],
+"synonyms": [
+"romany",
+"traveller",
+"nomad"
+],
+"antonyms": []
+},
+"massage": {
+"gloss": "按摩；v. 按摩；(贬)篡改，美化(数据)",
+"trap": "massage the figures 指‘篡改数据’；勿混 message",
+"root": null,
+"confusable": [
+"message",
+"massive"
+],
+"synonyms": [
+"rub",
+"knead",
+"manipulate"
+],
+"antonyms": []
+},
+"authoritarian": {
+"gloss": "专制的，独裁的；专横的；n. 独裁主义者",
+"trap": "authoritarian 专制的 vs authoritative 权威的",
+"root": null,
+"confusable": [
+"authoritative"
+],
+"synonyms": [
+"dictatorial",
+"autocratic",
+"totalitarian"
+],
+"antonyms": [
+"democratic",
+"liberal"
+]
+},
+"disparity": {
+"gloss": "差距，悬殊，不平等",
+"trap": "dis 不 + par 相等 → 不相等、差距",
+"root": {
+"key": "par",
+"meaning": "相等",
+"match": "par"
+},
+"confusable": [
+"disparage",
+"dispatch"
+],
+"synonyms": [
+"gap",
+"inequality",
+"discrepancy",
+"imbalance"
+],
+"antonyms": [
+"parity",
+"equality"
+]
+},
+"dire": {
+"gloss": "极其严重的，可怕的；极端的，紧迫的",
+"trap": "dire straits 困境；常修饰 consequences/warning",
+"root": null,
+"confusable": [
+"dare",
+"dyer",
+"dial"
+],
+"synonyms": [
+"terrible",
+"grave",
+"desperate",
+"urgent"
+],
+"antonyms": [
+"mild"
+]
+},
+"peg": {
+"gloss": "挂钩，木钉；v. 钉住，固定；(经)使(价格、汇率)挂钩",
+"trap": "peg 常指把价格、汇率‘钉住/挂钩’(peg to the dollar)",
+"root": null,
+"confusable": [
+"pig",
+"beg"
+],
+"synonyms": [
+"pin",
+"hook",
+"fix",
+"fasten"
+],
+"antonyms": []
+},
+"saucepan": {
+"gloss": "(长柄)炖锅，煮锅",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"pot",
+"pan"
+],
+"antonyms": []
+},
+"informant": {
+"gloss": "提供消息者，线人，告密者；(调查的)受访者",
+"trap": "informant 中性/线人，informer 多指告密者",
+"root": {
+"key": "form",
+"meaning": "形状",
+"match": "form"
+},
+"confusable": [
+"informer"
+],
+"synonyms": [
+"source",
+"informer",
+"whistleblower"
+],
+"antonyms": []
+},
+"metro": {
+"gloss": "地铁；大都市(区)的",
+"trap": "",
+"root": null,
+"confusable": [
+"metre",
+"meter",
+"retro"
+],
+"synonyms": [
+"subway",
+"underground",
+"tube"
+],
+"antonyms": []
+},
+"crap": {
+"gloss": "(粗)废话，垃圾，屎；vi. 拉屎",
+"trap": "粗俗用语，正式场合避免",
+"root": null,
+"confusable": [
+"crab",
+"crop",
+"cramp"
+],
+"synonyms": [
+"rubbish",
+"nonsense",
+"junk"
+],
+"antonyms": []
+},
+"eleventh": {
+"gloss": "第十一(个)；十一分之一",
+"trap": "at the eleventh hour 最后一刻",
+"root": null,
+"confusable": [],
+"synonyms": [],
+"antonyms": []
+},
+"billboard": {
+"gloss": "(大型)广告牌；(Billboard)美国音乐排行榜",
+"trap": "",
+"root": null,
+"confusable": [
+"blackboard",
+"bulletin"
+],
+"synonyms": [
+"hoarding",
+"sign",
+"poster"
+],
+"antonyms": []
+},
+"pastoral": {
+"gloss": "田园的，牧歌式的；(学校)关照学生生活的；牧师的",
+"trap": "英国学校 pastoral care 指对学生的生活关怀",
+"root": {
+"key": "pastor",
+"meaning": "牧人",
+"match": "pastor"
+},
+"confusable": [
+"pastel",
+"postural"
+],
+"synonyms": [
+"rural",
+"bucolic",
+"idyllic"
+],
+"antonyms": [
+"urban"
+]
+},
+"precinct": {
+"gloss": "(美)警区，选区；(英)步行商业区；(建筑物)周围区域",
+"trap": "美剧里 precinct 指‘警察分局(辖区)’",
+"root": {
+"key": "cinct",
+"meaning": "围绕/束",
+"match": "cinct"
+},
+"confusable": [
+"precise",
+"prescient"
+],
+"synonyms": [
+"district",
+"zone",
+"ward"
+],
+"antonyms": []
+},
+"estuary": {
+"gloss": "河口，入海口",
+"trap": "源自拉丁 aestus‘潮汐’——潮水涌入的河口",
+"root": null,
+"confusable": [
+"statuary",
+"actuary"
+],
+"synonyms": [
+"mouth",
+"inlet",
+"delta"
+],
+"antonyms": []
+},
+"underway": {
+"gloss": "进行中的；(船)航行中的",
+"trap": "get underway 开始进行",
+"root": null,
+"confusable": [],
+"synonyms": [
+"ongoing",
+"afoot"
+],
+"antonyms": [
+"finished"
+]
+},
+"daft": {
+"gloss": "(英口)傻的，愚蠢的；疯狂的",
+"trap": "",
+"root": null,
+"confusable": [
+"deft",
+"draft",
+"draught"
+],
+"synonyms": [
+"silly",
+"foolish",
+"crazy"
+],
+"antonyms": [
+"sensible"
+]
+},
+"cockpit": {
+"gloss": "驾驶舱(飞机)；赛车驾驶座；(原义)斗鸡场",
+"trap": "原义‘斗鸡场’(cock 公鸡 + pit 坑)，后指狭小驾驶舱",
+"root": null,
+"confusable": [],
+"synonyms": [
+"cabin",
+"flight deck"
+],
+"antonyms": []
+},
+"pornography": {
+"gloss": "色情作品，色情内容",
+"trap": "希腊 porne 妓女 + graph 写",
+"root": {
+"key": "graph",
+"meaning": "写",
+"match": "graph"
+},
+"confusable": [],
+"synonyms": [
+"porn",
+"erotica",
+"obscenity"
+],
+"antonyms": []
+},
+"innings": {
+"gloss": "(板球)局；(喻)在位期，人生历程",
+"trap": "板球一‘局’单复同形；have a good innings 指长寿",
+"root": null,
+"confusable": [
+"inning",
+"inner"
+],
+"synonyms": [
+"round",
+"turn"
+],
+"antonyms": []
+},
+"fifteenth": {
+"gloss": "第十五(个)；十五分之一",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [],
+"antonyms": []
+},
+"writ": {
+"gloss": "(法院)令状，书面命令；writ large 明显放大的",
+"trap": "writ large 意为‘更加明显、放大版的’",
+"root": null,
+"confusable": [
+"write",
+"wit"
+],
+"synonyms": [
+"order",
+"summons",
+"warrant"
+],
+"antonyms": []
+},
+"attic": {
+"gloss": "阁楼，顶楼",
+"trap": "源自雅典所在的 Attica，指古典建筑顶部的小层",
+"root": null,
+"confusable": [
+"antic",
+"addict"
+],
+"synonyms": [
+"loft",
+"garret"
+],
+"antonyms": [
+"basement",
+"cellar"
+]
+}
+}

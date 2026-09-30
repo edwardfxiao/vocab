@@ -1,0 +1,602 @@
+[
+{
+"word": "mural",
+"pos": "a/n",
+"zh": "a. 壁的, 壁上的, 壁似的 / n. 壁画",
+"en": "n. a painting that is applied to a wall surface / a. of or relating to walls"
+},
+{
+"word": "burger",
+"pos": "n",
+"zh": "n. 汉堡包（等于hamburger）",
+"en": "n. United States jurist appointed chief justice of the United States Supreme Court by Richard Nixon (1907-1995)"
+},
+{
+"word": "glue",
+"pos": "n/vt",
+"zh": "n. 胶, 粘性物 / vt. 粘合, 胶合",
+"en": "n. cement consisting of a sticky substance that is used as an adhesive / v. join or attach with or as if with glue / v. …"
+},
+{
+"word": "chick",
+"pos": "n",
+"zh": "n. 小鸡, 小鸟, 竹帘",
+"en": "n. young bird especially of domestic fowl"
+},
+{
+"word": "cumulative",
+"pos": "a",
+"zh": "a. 累积的 / [医] 蓄积的, 累积的",
+"en": "s increasing by successive addition"
+},
+{
+"word": "burglar",
+"pos": "n",
+"zh": "n. 窃贼 / [法] 夜盗, 窃贼, 盗窃者",
+"en": "n. a thief who enters a building with intent to steal"
+},
+{
+"word": "adjourn",
+"pos": "vi/vt",
+"zh": "vi. 休会, 换地方 / vt. 使中止, 推迟",
+"en": "v. close at the end of a session / v. break from a meeting or gathering"
+},
+{
+"word": "visibility",
+"pos": "n",
+"zh": "n. 可见性, 能见度, 能见距离 / [计] 可见性",
+"en": "n. quality or fact or degree of being visible; perceptible by the eye or obvious to the eye / n. degree of exposure to p…"
+},
+{
+"word": "microscope",
+"pos": "n",
+"zh": "n. 显微镜 / [化] 显微镜",
+"en": "n. magnifier of the image of small objects"
+},
+{
+"word": "cooker",
+"pos": "n",
+"zh": "n. 炊事用具, 炉灶, 锅, 炊具, 烹饪用水果, 窜改者, 伪造者 / [化] 蒸锅",
+"en": "n. a utensil for cooking"
+},
+{
+"word": "parasite",
+"pos": "n",
+"zh": "n. 寄生生物, 寄生虫, 食客 / [医] 寄生物; 寄生胎",
+"en": "n. an animal or plant that lives in or on a host (another animal or plant); it obtains nourishment from the host without…"
+},
+{
+"word": "turbine",
+"pos": "n",
+"zh": "n. 涡轮机 / [化] 涡轮机",
+"en": "n. rotary engine in which the kinetic energy of a moving fluid is converted into mechanical energy by causing a bladed r…"
+},
+{
+"word": "frenzy",
+"pos": "n",
+"zh": "n. 疯狂, 狂暴, 狂怒 / [医] 暴怒, 狂乱",
+"en": "n state of violent mental agitation"
+},
+{
+"word": "radiator",
+"pos": "n",
+"zh": "n. 暖气装置, 散热器, 辐射体 / [化] 散热器",
+"en": "n. any object that radiates energy / n. heater consisting of a series of pipes for circulating steam or hot water to hea…"
+},
+{
+"word": "latent",
+"pos": "a/n",
+"zh": "a. 潜伏性的, 隐藏的 / n. 隐约指纹",
+"en": "s. potentially existing but not presently evident or realized / s. (pathology) not presently active"
+},
+{
+"word": "baggage",
+"pos": "n",
+"zh": "n. 行李 / [经] 行李",
+"en": "n. cases used to carry belongings when traveling / n. a worthless or immoral woman / n. the portable equipment and suppl…"
+},
+{
+"word": "veto",
+"pos": "n/vt",
+"zh": "n. 否决权 / vt. 否决, 禁止",
+"en": "n. a vote that blocks a decision / n. the power or right to prohibit or reject a proposed or intended act (especially th…"
+},
+{
+"word": "foliage",
+"pos": "n",
+"zh": "n. 树叶, 植物",
+"en": "n the main organ of photosynthesis and transpiration in higher plants / n (architecture) leaf-like architectural ornamen…"
+},
+{
+"word": "archaeology",
+"pos": "n",
+"zh": "n. 考古学",
+"en": "n the branch of anthropology that studies prehistoric people and their cultures"
+},
+{
+"word": "setback",
+"pos": "n",
+"zh": "n. 挫折, 退步, 逆流",
+"en": "n an unfortunate happening that hinders or impedes; something that is thwarting or frustrating"
+},
+{
+"word": "housework",
+"pos": "n",
+"zh": "n. 家事, 家务",
+"en": "n. the work of cleaning and running a house"
+},
+{
+"word": "repression",
+"pos": "n",
+"zh": "n. 抑制, 压抑, 制止 / [医] 压抑, 抑制",
+"en": "n. a state of forcible subjugation / n. (psychiatry) the classical defense mechanism that protects you from impulses or …"
+},
+{
+"word": "veil",
+"pos": "n/vt/vi",
+"zh": "n. 面纱, 面罩, 借口, 幕, 帐, 遮蔽物 / vt. 戴面纱, 隐藏, 遮蔽, 掩饰 / vi. 蒙上面纱",
+"en": "n. a membranous covering attached to the immature fruiting body of certain mushrooms / v. to obscure, or conceal with or…"
+},
+{
+"word": "renewable",
+"pos": "a",
+"zh": "a. 可更新的, 可恢复的, 可继续的, 可换新的, 可重复的, 可重说的 / [计] 可更新, 可再生的",
+"en": "a. that can be renewed or extended / s. capable of being renewed; replaceable"
+},
+{
+"word": "gentry",
+"pos": "n",
+"zh": "n. 贵族们",
+"en": "n. the most powerful members of a society"
+},
+{
+"word": "volcanic",
+"pos": "a/n",
+"zh": "a. 火山的, 猛烈的 / n. 火山岩",
+"en": "a. relating to or produced by or consisting of volcanoes / s. explosively unstable / s. igneous rock produced by eruptio…"
+},
+{
+"word": "deposition",
+"pos": "n",
+"zh": "n. 免职, 作证, 沉淀 / [化] 沉积",
+"en": "n. the natural process of laying down a deposit of something / n. (law) a pretrial interrogation of a witness; usually c…"
+},
+{
+"word": "numerical",
+"pos": "a",
+"zh": "a. 数字的, 数值的, 以数字表示的, 擅长于计数的 / [经] 数字的, 用数字表示的",
+"en": "a. relating to or having ability to think in or work with numbers"
+},
+{
+"word": "sunrise",
+"pos": "n",
+"zh": "n. 日出, 黎明, 拂晓",
+"en": "n. atmospheric phenomena accompanying the daily appearance of the sun / n. the daily event of the sun rising above the h…"
+},
+{
+"word": "extraordinarily",
+"pos": "adv",
+"zh": "adv. 非凡, 破例, 特别, 非常, 离奇, 使人惊奇, 惊人, 特命, 特派",
+"en": "r extremely"
+},
+{
+"word": "scripture",
+"pos": "n",
+"zh": "n. 圣经, 圣经的一节, 圣经的一句, 铭文",
+"en": "n. any writing that is regarded as sacred by a religious group"
+},
+{
+"word": "invoice",
+"pos": "n/v",
+"zh": "n. 发票, 发货单 / v. 开发票, 记清单",
+"en": "v. send an bill to"
+},
+{
+"word": "nobility",
+"pos": "n",
+"zh": "n. 贵族, 高尚, 贵族阶级",
+"en": "n. a privileged class holding hereditary titles / n. the quality of elevation of mind and exaltation of character or ide…"
+},
+{
+"word": "penal",
+"pos": "a",
+"zh": "a. 有关处罚的, 刑的, 刑罚的, 刑法上的, (课税)繁重的 / [法] 刑事的, 刑法的, 受刑罚的",
+"en": "a. of or relating to punishment / s. serving as or designed to impose punishment / s. subject to punishment by law"
+},
+{
+"word": "reconstruct",
+"pos": "vt",
+"zh": "vt. 重建, 改造 / [化] 按原样修复",
+"en": "v. reassemble mentally / v. cause somebody to adapt or reform socially or politically"
+},
+{
+"word": "ginger",
+"pos": "n/a/vt",
+"zh": "n. 姜, 精力, 姜黄色 / a. 姜黄色的 / vt. 用姜调味, 使活泼, 使有生气",
+"en": "n. perennial plants having thick branching aromatic rhizomes and leafy reedlike stems / n. dried ground gingerroot / n. …"
+},
+{
+"word": "anxiously",
+"pos": "adv",
+"zh": "adv. 忧虑地, 不安地",
+"en": "r. with anxiety or apprehension"
+},
+{
+"word": "comb",
+"pos": "n/vt/vi",
+"zh": "n. 头梳, 鸡冠 / vt. 梳头发, 梳毛 / vi. (浪)涌起",
+"en": "n. a flat device with narrow pointed teeth on one edge; disentangles or arranges hair / n. the fleshy red crest on the h…"
+},
+{
+"word": "elimination",
+"pos": "n",
+"zh": "n. 除去, 消除, 消灭 / [化] 消去; 脱去",
+"en": "n. the act of removing or getting rid of something / n. the bodily process of discharging waste matter / n. analysis of …"
+},
+{
+"word": "pancake",
+"pos": "n",
+"zh": "n. 薄烤饼, 薄煎饼, 烙饼",
+"en": "n. a flat cake of thin batter fried on both sides on a griddle"
+},
+{
+"word": "friction",
+"pos": "n",
+"zh": "n. 摩擦, 摩擦治疗, 不和 / [医] 摩擦",
+"en": "n. the resistance encountered when one body is moved in contact with another / n. effort expended in moving one object o…"
+},
+{
+"word": "aerial",
+"pos": "a/n",
+"zh": "a. 空中的, 航空的, 空气的, 空想的 / n. 天线",
+"en": "a. existing or living or growing or operating in the air"
+},
+{
+"word": "flicker",
+"pos": "n/vi/vt",
+"zh": "n. 闪烁, 闪光, 颤动 / vi. 闪动, 闪烁, 摇动, 扑动翅膀 / vt. 使摇曳, 使闪烁",
+"en": "n. a momentary flash of light / n. North American woodpecker / v. move back and forth very rapidly / v. shine unsteadily"
+},
+{
+"word": "knowledgeable",
+"pos": "a",
+"zh": "a. 聪明的, 有知识的",
+"en": "s. alert and fully informed"
+},
+{
+"word": "lateral",
+"pos": "n/a",
+"zh": "n. 侧部, 支线, 边音 / a. 侧面的, 旁边的",
+"en": "s. situated at or extending to the side / s. lying away from the median and sagittal plane of a body"
+},
+{
+"word": "cardinal",
+"pos": "n/a",
+"zh": "n. 红衣主教, 鲜红色 / a. 主要的, 深红色的",
+"en": "n. (Roman Catholic Church) one of a group of more than 100 prominent bishops in the Sacred College who advise the Pope a…"
+},
+{
+"word": "offshore",
+"pos": "a/adv",
+"zh": "a. 海面的, 吹向海面的, 近海的 / adv. 向海面",
+"en": "a. (of winds) coming from the land / s. at some distance from the shore / r. away from shore; away from land"
+},
+{
+"word": "pollutant",
+"pos": "n",
+"zh": "n. 污染物质 / [法] 污染物",
+"en": "n. waste matter that contaminates the water or air or soil"
+},
+{
+"word": "faintly",
+"pos": "adv",
+"zh": "adv. 微弱地, 模糊地, 朦胧地",
+"en": "r. to a faint degree or weakly perceived"
+},
+{
+"word": "dine",
+"pos": "vi/vt",
+"zh": "vi. 用正餐, 进餐 / vt. 宴请",
+"en": "v. have supper; eat dinner / v. give dinner to; host for dinner"
+},
+{
+"word": "dispatch",
+"pos": "vt/n",
+"zh": "vt. 派遣 / n. 派遣, 急件 / [计] 调度",
+"en": "n. an official report (usually sent in haste) / n. the act of sending off something / n. the property of being prompt an…"
+},
+{
+"word": "hatch",
+"pos": "n/vt/vi",
+"zh": "n. 孵化, 舱口 / vt. 孵, 孵出, 策划 / vi. 孵化",
+"en": "n. the production of young from an egg / n. shading consisting of multiple crossing lines / n. a movable barrier coverin…"
+},
+{
+"word": "gradient",
+"pos": "n/a",
+"zh": "n. 倾斜度, 梯度, 坡度, 斜率 / a. 渐升的, 渐降的, 步行的",
+"en": "n. a graded change in the magnitude of some physical quantity or dimension / n. the property possessed by a line or surf…"
+},
+{
+"word": "lipstick",
+"pos": "n",
+"zh": "n. 口红, 唇膏 / [机] 口红",
+"en": "n. makeup that is used to color the lips / v. form by tracing with lipstick / v. apply lipstick to"
+},
+{
+"word": "raft",
+"pos": "n/vi/vt",
+"zh": "n. 筏, 救生筏, 大量 / vi. 乘筏 / vt. 筏运, 制成筏",
+"en": "n. a flat float (usually made of logs or planks) that can be used for transport or as a platform for swimmers / v. trans…"
+},
+{
+"word": "upland",
+"pos": "n/a",
+"zh": "n. 山地, 高地, 高原 / a. 高地的, 山地的",
+"en": "a. used of high or hilly country"
+},
+{
+"word": "arthritis",
+"pos": "n",
+"zh": "n. 关节炎 / [医] 关节炎",
+"en": "n. inflammation of a joint or joints"
+},
+{
+"word": "cram",
+"pos": "vt/vi/n",
+"zh": "vt. 塞满, 填满, 猛吃 / vi. 贪吃 / n. 极度拥挤, 死记硬背",
+"en": "v. put something somewhere so that the space is completely filled / v. study intensively, as before an exam / v. prepare…"
+},
+{
+"word": "nutritional",
+"pos": "a",
+"zh": "a. 营养的, 滋养的 / [医] 营养的",
+"en": "a. of or relating to or providing nutrition"
+},
+{
+"word": "spike",
+"pos": "n/vt",
+"zh": "n. 长钉, 鞋钉, 钉状物, 尖峰状物, 穗 / vt. 以大钉钉牢, 用尖物刺穿, 阻止, 弃置不用 / [计] 尖峰信号",
+"en": "n. a transient variation in voltage or current / n. sports equipment consisting of a sharp point on the sole of a shoe w…"
+},
+{
+"word": "feminism",
+"pos": "n",
+"zh": "n. 女权主义, 男女平等主义 / [医] 男子女性",
+"en": "n. a doctrine that advocates equal rights for women"
+},
+{
+"word": "palette",
+"pos": "n",
+"zh": "n. 调色板, 颜料 / [计] 调色板",
+"en": "n. the range of colour characteristic of a particular artist or painting or school of art / n. board that provides a fla…"
+},
+{
+"word": "lament",
+"pos": "n/vt/vi",
+"zh": "n. 悲叹, 悔恨, 恸哭, 挽歌, 悼词 / vt. 哀悼 / vi. 悔恨, 悲叹",
+"en": "n. a cry of sorrow and grief / v. express grief verbally"
+},
+{
+"word": "ignite",
+"pos": "vt",
+"zh": "vt. 点燃, 使灼热, 使兴奋",
+"en": "v. cause to start burning; subject to fire or great heat"
+},
+{
+"word": "revolve",
+"pos": "v",
+"zh": "v. (使)旋转, 反复考虑, 循环出现",
+"en": "v. turn on or around an axis or a center"
+},
+{
+"word": "alternate",
+"pos": "a/v",
+"zh": "a. 交替的, 轮流的, 间隔的 / v. 轮流, (使)交替",
+"en": "v. go back and forth; swing back and forth between two states or conditions / v. exchange people temporarily to fulfill …"
+},
+{
+"word": "bully",
+"pos": "n/vt/vi/a/adv",
+"zh": "n. 欺凌弱小者, 土霸 / vt. 威胁, 恐吓, 欺负 / vi. 欺负 / a. 特好的, 第一流的 / adv. 十分",
+"en": "n. a cruel and brutal fellow / n. a hired thug"
+},
+{
+"word": "contaminate",
+"pos": "vt",
+"zh": "vt. 弄污, 弄脏, 污染, 毒害 / [化] 污染",
+"en": "v. make radioactive by adding radioactive material"
+},
+{
+"word": "geology",
+"pos": "n",
+"zh": "n. 地质学, 地质情况",
+"en": "n. a science that deals with the history of the earth as recorded in rocks"
+},
+{
+"word": "vowel",
+"pos": "n/a",
+"zh": "n. 元音 / a. 元音的",
+"en": "n. a speech sound made with the vocal tract open / n. a letter of the alphabet standing for a spoken vowel"
+},
+{
+"word": "alumnus",
+"pos": "n",
+"zh": "n. 男毕业生, 男校友",
+"en": "n. a person who has received a degree from a school (high school or college or university)"
+},
+{
+"word": "chaotic",
+"pos": "a",
+"zh": "a. 混乱的, 无秩序的 / [法] 混乱的, 混沌的",
+"en": "s. lacking a visible order or organization / s. completely unordered and unpredictable and confusing / a. of or relating…"
+},
+{
+"word": "arbitration",
+"pos": "n",
+"zh": "n. 仲裁, 公断 / [计] 仲裁",
+"en": "n. (law) the hearing and determination of a dispute by an impartial referee agreed to by both parties (often used to set…"
+},
+{
+"word": "merry",
+"pos": "a",
+"zh": "a. 快乐的, 愉快的, 嬉戏作乐的",
+"en": "s full of or showing high-spirited merriment / s offering fun and gaiety / s quick and energetic"
+},
+{
+"word": "sober",
+"pos": "a/vt/vi",
+"zh": "a. 未醉的, 稳重的, 节制的, 严肃的, 不夸大的, 合理的, 朴素的 / vt. 使醒酒, 使严肃 / vi. 从醉里醒来, 变严肃",
+"en": "v. cause to become sober / a. not affected by a chemical substance (especially alcohol)"
+},
+{
+"word": "sleepy",
+"pos": "a",
+"zh": "a. 困乏的, 欲睡的",
+"en": "s. ready to fall asleep"
+},
+{
+"word": "clasp",
+"pos": "n/v",
+"zh": "n. 扣子, 钩, 紧握 / v. 扣紧, 紧握",
+"en": "n. a fastener (as a buckle or hook) that is used to hold two things together / n. the act of grasping / v. hold firmly a…"
+},
+{
+"word": "youthful",
+"pos": "a",
+"zh": "a. 年轻的, 青年的 / [法] 青年的, 年轻的",
+"en": "s. suggestive of youth; vigorous and fresh"
+},
+{
+"word": "flatten",
+"pos": "vi/vt",
+"zh": "vi. 使...不活跃, 变平 / vt. 弄平, 打倒, 使失去光泽",
+"en": "v. make flat or flatter / v. become flat or flatter / v. lower the pitch of (musical notes)"
+},
+{
+"word": "nap",
+"pos": "n/vi/vt",
+"zh": "n. 小睡, 稍睡, 细毛, 孤注一掷 / vi. 小睡, 疏忽 / vt. 使拉毛, 打盹度过, 预测...为获胜马",
+"en": "n. a soft or fuzzy surface texture / n. sleeping for a short period of time (usually not in bed) / v. take a siesta"
+},
+{
+"word": "clone",
+"pos": "n",
+"zh": "n. 无性系 / [计] 代用件",
+"en": "n. a group of genetically identical cells or organisms derived from a single cell or individual by some kind of asexual …"
+},
+{
+"word": "impair",
+"pos": "vt",
+"zh": "vt. 损害, 减少, 削弱 / [法] 损害, 伤害, 减少",
+"en": "v. make worse or less effective"
+},
+{
+"word": "hazel",
+"pos": "n/a",
+"zh": "n. 榛子, 榛树, 淡褐色 / a. 榛树的, 淡褐色的",
+"en": "n. Australian tree grown especially for ornament and its fine-grained wood and bearing edible nuts / n. the fine-grained…"
+},
+{
+"word": "razor",
+"pos": "n/vt",
+"zh": "n. 剃刀 / vt. 剃",
+"en": "n. edge tool used in shaving / v. shave with a razor"
+},
+{
+"word": "frantic",
+"pos": "a",
+"zh": "a. 狂乱的, 疯狂的",
+"en": "s. excessively agitated; distraught with fear or other violent emotion"
+},
+{
+"word": "charcoal",
+"pos": "n",
+"zh": "n. 木炭 / [化] 木炭",
+"en": "n. a carbonaceous material obtained by heating wood or other organic matter in the absence of air / n. a stick of black …"
+},
+{
+"word": "intrinsic",
+"pos": "a",
+"zh": "a. 本质的, 原有的, 真正的 / [医] 内部的, 内在的",
+"en": "a. belonging to a thing by its very nature / s. situated within or belonging solely to the organ or body part on which i…"
+},
+{
+"word": "starve",
+"pos": "v",
+"zh": "v. (使)饿死, (使)挨饿",
+"en": "v. be hungry; go without food / v. die of food deprivation / v. deprive of food / v. deprive of a necessity and cause su…"
+},
+{
+"word": "rainforest",
+"pos": "",
+"zh": "[生态]雨林",
+"en": "n a forest with heavy annual rainfall"
+},
+{
+"word": "reclaim",
+"pos": "vt/vi",
+"zh": "vt. 开垦, 改造, 感化, 纠正, 回收 / vi. 喊叫, 抗议",
+"en": "v. claim back / v. reuse (materials from waste products) / v. make useful again; transform from a useless or uncultivate…"
+},
+{
+"word": "sewer",
+"pos": "n/vt",
+"zh": "n. 下水道, 阴沟, 裁缝师 / vt. 用下水道排, 铺设下水道于",
+"en": "n. a waste pipe that carries away sewage or surface water / n. someone who sews"
+},
+{
+"word": "fertile",
+"pos": "a",
+"zh": "a. 可繁殖的, 肥沃的, 生产多的 / [医] 能生育的",
+"en": "a. capable of reproducing"
+},
+{
+"word": "wield",
+"pos": "vt",
+"zh": "vt. 挥舞, 运用",
+"en": "v. have and exercise / v. handle effectively"
+},
+{
+"word": "timely",
+"pos": "a/adv",
+"zh": "a. 及时的, 适时的 / adv. 及时地",
+"en": "s. before a time limit expires / s. done or happening at the appropriate or proper time"
+},
+{
+"word": "disgust",
+"pos": "n/vi/vt",
+"zh": "n. 厌恶, 嫌恶 / vi. 令人厌恶 / vt. 使作呕",
+"en": "n. strong feelings of dislike / v. fill with distaste / v. cause aversion in; offend the moral sense of"
+},
+{
+"word": "doom",
+"pos": "n/vt",
+"zh": "n. 厄运, 不幸, 法律, 宣告, 判决, 死亡 / vt. 命中注定, 判决",
+"en": "n. an unpleasant or disastrous destiny / v. make certain of the failure or destruction of"
+},
+{
+"word": "larva",
+"pos": "n",
+"zh": "n. 幼虫 / [医] 幼虫(昆虫), 蚴(蠕虫)",
+"en": "n. the immature free-living form of most invertebrates and amphibians and fish which at hatching from the egg is fundame…"
+},
+{
+"word": "tentacle",
+"pos": "n",
+"zh": "n. 触须, 触手, 触角 / [医] 触角, 触须",
+"en": "n. something that acts like a tentacle in its ability to grasp and hold / n. any of various elongated tactile or prehens…"
+},
+{
+"word": "rancher",
+"pos": "n",
+"zh": "n. 大农场经营者, 牧场工人",
+"en": "n. a person who owns or operates a ranch"
+},
+{
+"word": "niece",
+"pos": "n",
+"zh": "n. 侄女, 甥女",
+"en": "n. a daughter of your brother or sister"
+}
+]

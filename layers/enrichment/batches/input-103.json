@@ -1,0 +1,602 @@
+[
+{
+"word": "melodrama",
+"pos": "n",
+"zh": "n. 音乐剧, 传奇剧, 戏剧似的事件",
+"en": "n. an extravagant comedy in which action is more salient than characterization"
+},
+{
+"word": "alcove",
+"pos": "n",
+"zh": "n. 凹室, 壁龛, 小亭",
+"en": "n. a small recess opening off a larger room"
+},
+{
+"word": "jot",
+"pos": "n/vt",
+"zh": "n. 少量, 稍许 / vt. 略记, 摘要记载下来",
+"en": "n a brief (and hurriedly handwritten) note / n a slight but appreciable amount / v write briefly or hurriedly; write a s…"
+},
+{
+"word": "besiege",
+"pos": "vt",
+"zh": "vt. 围攻, 包围",
+"en": "v. surround so as to force to give up / v. cause to feel distressed or worried / v. harass, as with questions or request…"
+},
+{
+"word": "intractable",
+"pos": "a",
+"zh": "a. 不听话的, 倔强的, 棘手的 / [医] 顽固的, 难治的",
+"en": "a. not tractable; difficult to manage or mold"
+},
+{
+"word": "rife",
+"pos": "a",
+"zh": "a. 流行的, 盛传的, 充满的",
+"en": "s most frequent or common / s excessively abundant"
+},
+{
+"word": "exuberance",
+"pos": "n",
+"zh": "n. 茂盛, 茂盛的生长物, 丰富",
+"en": "n. joyful enthusiasm / n. overflowing with eager enjoyment or approval"
+},
+{
+"word": "embroider",
+"pos": "vt/vi",
+"zh": "vt. 刺绣, 镶边, 装饰 / vi. 绣花",
+"en": "v. decorate with needlework / v. add details to"
+},
+{
+"word": "tiresome",
+"pos": "a",
+"zh": "a. 累人的, 烦人的",
+"en": "s so lacking in interest as to cause mental weariness"
+},
+{
+"word": "decode",
+"pos": "vt",
+"zh": "vt. 解码, 译解 / [计] 译码",
+"en": "v. convert code into ordinary language"
+},
+{
+"word": "snuggle",
+"pos": "vi/vt",
+"zh": "vi. 偎依 / vt. 使舒适温暖, 紧抱",
+"en": "n a close and affectionate (and often prolonged) embrace / v move or arrange oneself in a comfortable and cozy position …"
+},
+{
+"word": "foresight",
+"pos": "n",
+"zh": "n. 远见, 深谋远虑 / [法] 先见, 预见, 预见的能力",
+"en": "n. providence by virtue of planning prudently for the future"
+},
+{
+"word": "esoteric",
+"pos": "a",
+"zh": "a. 秘教的, 奥秘的, 秘传的 / [医] 体内的, 内部的, 隐的",
+"en": "a. confined to and understandable by only an enlightened inner circle"
+},
+{
+"word": "strident",
+"pos": "a",
+"zh": "a. 刺耳的, 吱吱尖叫的, 尖锐的, 刺眼的 / [医] 喘鸣性的",
+"en": "s. being sharply insistent on being heard"
+},
+{
+"word": "filament",
+"pos": "n",
+"zh": "n. 细丝, 细线, 灯丝, 单纤维 / [化] 长丝; 单丝(复丝中的单根细丝); 丝极",
+"en": "n. the stalk of a stamen / n. a threadlike structure (as a chainlike series of cells) / n. a thin wire (usually tungsten…"
+},
+{
+"word": "unfounded",
+"pos": "a",
+"zh": "a. 没有事实根据的, 没有理由的, 虚幻的, 未建立的 / [法] 无根据的, 无稽的, 没有理的",
+"en": "s without a basis in reason or fact"
+},
+{
+"word": "dignitary",
+"pos": "n",
+"zh": "n. 高贵的人, 高官, 高僧, 要人",
+"en": "n an important or influential (and often overbearing) person"
+},
+{
+"word": "douse",
+"pos": "vt/vi/n",
+"zh": "vt. 插入水中, 浇(或洒、泼)水在...上, 熄(灯、火等), 平息 / vi. 浸泡 / n. 泼洒",
+"en": "v. put out, as of a candle or a light / v. wet thoroughly / v. lower quickly / v. slacken"
+},
+{
+"word": "shelve",
+"pos": "vt/vi",
+"zh": "vt. 放置架子上, 搁置 / vi. 渐渐倾斜",
+"en": "v. place on a shelf"
+},
+{
+"word": "hush",
+"pos": "n/vt/interj",
+"zh": "n. 肃静, 安静, 沉默 / vt. (使)肃静, (使)安静, (使)缄默 / interj. 嘘, 别作声",
+"en": "n. (poetic) tranquil silence / v. become quiet or still; fall silent / v. cause to be quiet or not talk / v. wash by rem…"
+},
+{
+"word": "lukewarm",
+"pos": "a",
+"zh": "a. 微温的, 不热的, 不热情的 / [医] 微温的",
+"en": "s. moderately warm"
+},
+{
+"word": "transfix",
+"pos": "vt",
+"zh": "vt. 刺穿, 使呆住, 使固定 / [医] 贯穿, 刺通",
+"en": "v. pierce with a sharp stake or point"
+},
+{
+"word": "idyllic",
+"pos": "a",
+"zh": "a. 田园诗的, 牧歌的, 悠闲的",
+"en": "s. excellent and delightful in all respects / s. suggestive of an idyll; charmingly simple and serene"
+},
+{
+"word": "qualm",
+"pos": "n",
+"zh": "n. 晕眩, 不安, 疑虑 / [法] 疑虑, 不安, 内疚",
+"en": "n uneasiness about the fitness of an action / n a mild state of nausea"
+},
+{
+"word": "consternation",
+"pos": "n",
+"zh": "n. 惊愕, 恐怖, 惊惶失措",
+"en": "n fear resulting from the awareness of danger"
+},
+{
+"word": "defection",
+"pos": "n",
+"zh": "n. 背叛, 缺乏, 毛病 / [法] 缺点, 过失, 背叛",
+"en": "n withdrawing support or help despite allegiance or responsibility / n the state of having rejected your religious belie…"
+},
+{
+"word": "overload",
+"pos": "vt/n",
+"zh": "vt. 超载, 过载, 超过负荷 / n. 超载, 负荷过多",
+"en": "n. an electrical load that exceeds the available electrical power / n. an excessive burden / v. become overloaded / v. p…"
+},
+{
+"word": "mistrust",
+"pos": "n/v",
+"zh": "n. 不信任, 疑惑 / v. 不信任, 疑惑",
+"en": "n doubt about someone's honesty / n the trait of not trusting others / v regard as untrustworthy; regard with suspicion;…"
+},
+{
+"word": "indebted",
+"pos": "a",
+"zh": "a. 负债的, 受惠的 / [法] 负债的, 法律上有义务偿还的",
+"en": "s. owing gratitude or recognition to another for help or favors etc / s. under a legal obligation to someone"
+},
+{
+"word": "flout",
+"pos": "vt/vi/n",
+"zh": "vt. 嘲笑, 愚弄 / vi. 表示轻蔑 / n. 嘲笑, 愚弄, 轻视",
+"en": "v treat with contemptuous disregard / v laugh at with contempt and derision"
+},
+{
+"word": "scrawl",
+"pos": "vt/vi/n",
+"zh": "vt. 潦草地写 / vi. 乱写 / n. 潦草的笔迹",
+"en": "n poor handwriting / v write carelessly"
+},
+{
+"word": "tactile",
+"pos": "a",
+"zh": "a. 触觉的, 有触觉的 / [医] 触觉的",
+"en": "s. producing a sensation of touch"
+},
+{
+"word": "aloof",
+"pos": "a/adv",
+"zh": "a. 远离的, 冷淡的 / adv. 远离, 冷漠超然地",
+"en": "s. remote in manner / r. in an aloof manner"
+},
+{
+"word": "herbicide",
+"pos": "n",
+"zh": "n. 除草剂 / [化] 除草剂",
+"en": "n. a chemical agent that destroys plants or inhibits their growth"
+},
+{
+"word": "hump",
+"pos": "n/vi/vt",
+"zh": "n. 驼背, 圆形隆起物, 鸵峰 / vi. 隆起, 急速行进, 努力 / vt. 使弓起, 使烦恼, 使努力干",
+"en": "n something that bulges out or is protuberant or projects from its surroundings / v round one's back by bending forward …"
+},
+{
+"word": "elliptical",
+"pos": "a",
+"zh": "a. 椭圆的 / [医] 椭圆形的",
+"en": "s rounded like an egg / s characterized by extreme economy of expression or omission of superfluous elements"
+},
+{
+"word": "impeach",
+"pos": "vt",
+"zh": "vt. 控告, 怀疑, 检举, 弹劾 / [法] 控告, 检举, 弹劾",
+"en": "v. challenge the honesty or veracity of / v. charge (a public official) with an offense or misdemeanor committed while i…"
+},
+{
+"word": "intricacy",
+"pos": "n",
+"zh": "n. 纷乱, 复杂, 错综",
+"en": "n marked by elaborately complex detail"
+},
+{
+"word": "credence",
+"pos": "n",
+"zh": "n. 信任, 祭器台, 供桌, 凭证 / [法] 设计人, 创立人, 创设人",
+"en": "n. the mental attitude that something is believable and should be accepted as true"
+},
+{
+"word": "toothbrush",
+"pos": "n",
+"zh": "n. 牙刷",
+"en": "n. small brush; has long handle; used to clean teeth"
+},
+{
+"word": "fiat",
+"pos": "n",
+"zh": "n. 命令, 严命, 许可 / [医] 制成, 作成",
+"en": "n a legally binding command or decision entered on the court record (as if issued by a court or judge)"
+},
+{
+"word": "rebuke",
+"pos": "n/vt",
+"zh": "n. 指责, 谴责, 非难 / vt. 斥责, 指责, 制止",
+"en": "n. an act or expression of criticism and censure"
+},
+{
+"word": "antic",
+"pos": "n/a",
+"zh": "n. 滑稽动作 / a. 古怪的",
+"en": "n. a ludicrous or grotesque act done for fun and amusement / s. ludicrously odd"
+},
+{
+"word": "precept",
+"pos": "n",
+"zh": "n. 规诫, 规矩, 格言, 训令 / [经] 告诫, 指令",
+"en": "n rule of personal conduct / n a doctrine that is taught"
+},
+{
+"word": "inroad",
+"pos": "n",
+"zh": "n. 侵入, 得手, 侵害 / [法] 袭击, 侵犯, 损害",
+"en": "n. an encroachment or intrusion / n. an invasion or hostile attack"
+},
+{
+"word": "distasteful",
+"pos": "a",
+"zh": "a. 味道差的, 使人不愉快的, 讨厌的",
+"en": "s. not pleasing in odor or taste"
+},
+{
+"word": "retract",
+"pos": "v",
+"zh": "v. 缩回, 收回, 取消, 撤消",
+"en": "v. use a surgical instrument to hold open (the edges of a wound or an organ)"
+},
+{
+"word": "unscathed",
+"pos": "a",
+"zh": "a. 没有受伤的, 未受损伤的",
+"en": "s not injured"
+},
+{
+"word": "zebra",
+"pos": "n",
+"zh": "n. 斑马",
+"en": "n. any of several fleet black-and-white striped African equines"
+},
+{
+"word": "forthright",
+"pos": "adv/a/n",
+"zh": "adv. 直率地, 直接地, 马上, 立即 / a. 直接的, 直率的, 坦白的 / n. 直路",
+"en": "s characterized by directness in manner or speech; without subtlety or evasion / r directly and without evasion; not rou…"
+},
+{
+"word": "cynic",
+"pos": "n/a",
+"zh": "n. 犬儒学派的人, 玩世不恭的人, 愤世嫉俗者, 好挖苦人的人 / a. 犬儒学派的",
+"en": "n. someone who is critical of the motives of others / n. a member of a group of ancient Greek philosophers who advocated…"
+},
+{
+"word": "affront",
+"pos": "n/vt",
+"zh": "n. 公开侮辱, 轻蔑 / vt. 公开侮辱, 冒犯, 面对",
+"en": "n a deliberately offensive act or something producing the effect of deliberate disrespect / v treat, mention, or speak t…"
+},
+{
+"word": "medley",
+"pos": "n/a",
+"zh": "n. 混合, 混杂, 杂录 / a. 混合的, 拼凑的",
+"en": "n. a musical composition consisting of a series of songs or other musical pieces from various sources"
+},
+{
+"word": "illustrious",
+"pos": "a",
+"zh": "a. 著名的, 辉煌的, 明亮的",
+"en": "s. having or conferring glory"
+},
+{
+"word": "illusory",
+"pos": "a",
+"zh": "a. 产生幻觉的, 幻影的, 错觉的 / [法] 因错觉产生的, 虚幻的",
+"en": "s based on or having the nature of an illusion"
+},
+{
+"word": "grandiose",
+"pos": "a",
+"zh": "a. 宏伟的, 壮丽的, 夸张的 / [医] 夸大的",
+"en": "s. impressive because of unnecessary largeness or grandeur; used to show disapproval / s. affectedly genteel"
+},
+{
+"word": "decimate",
+"pos": "vt",
+"zh": "vt. 每十人杀一人, 大批杀害",
+"en": "v. kill one in every ten, as of mutineers in Roman armies"
+},
+{
+"word": "extravagance",
+"pos": "n",
+"zh": "n. 奢侈, 浪费, 放肆的言行",
+"en": "n. the quality of exceeding the appropriate limits of decorum or probability or truth / n. the trait of spending extrava…"
+},
+{
+"word": "unparalleled",
+"pos": "a",
+"zh": "a. 无比的, 无双的, 空前的",
+"en": "s radically distinctive and without equal"
+},
+{
+"word": "cursory",
+"pos": "a",
+"zh": "a. 匆匆忙忙的, 草率的, 粗略的",
+"en": "s hasty and without attention to detail; not thorough"
+},
+{
+"word": "tact",
+"pos": "n",
+"zh": "n. 机智, 手法, 老练 / [经] (自动加工线的)生产节拍",
+"en": "n. consideration in dealing with others and avoiding giving offense"
+},
+{
+"word": "revulsion",
+"pos": "n",
+"zh": "n. 剧变, 厌恶, 强烈反感 / [医] 诱导法",
+"en": "n intense aversion"
+},
+{
+"word": "craze",
+"pos": "n/v",
+"zh": "n. 狂热, 大流行 / v. (使)发狂, (使)开裂",
+"en": "n. state of violent mental agitation / n. a fine crack in a glaze or other surface / v. develop a fine network of cracks"
+},
+{
+"word": "urbanization",
+"pos": "n",
+"zh": "n. 都市化 / [医] 都市化, 人口城市集中",
+"en": "n. the condition of being urbanized / n. the social process whereby cities grow and societies become more urban"
+},
+{
+"word": "inflame",
+"pos": "vt/vi",
+"zh": "vt. 激怒, 点火, 激起 / vi. 着火, 激动, 发炎",
+"en": "v. cause inflammation in / v. arouse or excite feelings and passions / v. become inflamed; get sore"
+},
+{
+"word": "onus",
+"pos": "n",
+"zh": "n. 负担, 责任, 义务, 过失, 耻辱 / [法] 责任, 义务, 负担",
+"en": "n an onerous or difficult concern"
+},
+{
+"word": "bravado",
+"pos": "n",
+"zh": "n. 虚张声势",
+"en": "n. a swaggering show of courage"
+},
+{
+"word": "onerous",
+"pos": "a",
+"zh": "a. 繁重的, 负有法律责任的 / [法] 负有义务的, 艰巨的, 繁重的",
+"en": "s not easily borne; wearing; I only had to greet the guests\""
+},
+{
+"word": "impassioned",
+"pos": "a",
+"zh": "a. 充满激情的, 狂热的, 热烈的",
+"en": "s characterized by intense emotion"
+},
+{
+"word": "amble",
+"pos": "n/vi",
+"zh": "n. 马的缓行步态, 缓行漫步 / vi. 马缓行, 从容漫步",
+"en": "n. a leisurely walk (usually in some public place) / v. walk leisurely"
+},
+{
+"word": "sundry",
+"pos": "a",
+"zh": "a. 各式各样的 / [经] 杂的, 各种, 各式各样的",
+"en": "s consisting of a haphazard assortment of different kinds"
+},
+{
+"word": "inextricably",
+"pos": "adv",
+"zh": "adv. 无法摆脱地, 解不开地, 不能解决地",
+"en": "r. in an inextricable manner"
+},
+{
+"word": "foothold",
+"pos": "n",
+"zh": "n. 立足处, 据点, 根据地",
+"en": "n. a place providing support for the foot in standing or climbing"
+},
+{
+"word": "taper",
+"pos": "n/a/v",
+"zh": "n. 带子操作工, 小蜡烛, 尖细, 渐弱, 锥形, 尖塔 / a. 尖细的, 分等级的 / v. (使)一头逐渐变细, (使)逐渐减少",
+"en": "n. a convex shape that narrows toward a point / n. the property possessed by a shape that narrows toward a point (as a w…"
+},
+{
+"word": "placate",
+"pos": "vt",
+"zh": "vt. 抚慰, 平息, 使和解, 怀柔",
+"en": "v cause to be more favorably inclined; gain the good will of"
+},
+{
+"word": "hypocritical",
+"pos": "a",
+"zh": "a. 伪善的, 伪善者的",
+"en": "s. professing feelings or virtues one does not have"
+},
+{
+"word": "turquoise",
+"pos": "n",
+"zh": "n. 绿松石, 绿松石色",
+"en": "n. a blue to grey green mineral consisting of copper aluminum phosphate"
+},
+{
+"word": "countenance",
+"pos": "n",
+"zh": "n. 面容, 面部表情, 支持, 镇定",
+"en": "n. the appearance conveyed by a person's face / n. the human face (`kisser' and `smiler' and `mug' are informal terms fo…"
+},
+{
+"word": "wilful",
+"pos": "a",
+"zh": "a. 任性的, 固执的, 故意的, 存心的 / [法] 有意的, 故意的, 任性的",
+"en": "s done by design / s habitually disposed to disobedience and opposition"
+},
+{
+"word": "willful",
+"pos": "a",
+"zh": "a. 任性的, 故意的, 有意的",
+"en": "s. done by design"
+},
+{
+"word": "codify",
+"pos": "vt",
+"zh": "vt. 编成法典 / [法] 使成文法化, 编成法典, 编纂",
+"en": "v. organize into a code or system, such as a body of law"
+},
+{
+"word": "buoy",
+"pos": "n/vt",
+"zh": "n. 浮标, 航标, 救生圈 / vt. 使浮起, 鼓励",
+"en": "n. bright-colored; a float attached by rope to the seabed to mark channels in a harbor or underwater hazards / v. float …"
+},
+{
+"word": "calibrate",
+"pos": "vt",
+"zh": "vt. 测定口径, 校准, 使标准化, 调整 / [化] 校准",
+"en": "v. make fine adjustments or divide into marked intervals for optimal measuring / v. mark (the scale of a measuring instr…"
+},
+{
+"word": "checkout",
+"pos": "n",
+"zh": "n. 结帐台 / [计] 检验",
+"en": "n. the latest time for vacating a hotel room / n. a counter in a supermarket where you pay for your purchases"
+},
+{
+"word": "chubby",
+"pos": "a",
+"zh": "a. 圆胖的",
+"en": "s. sufficiently fat so as to have a pleasing fullness of figure;"
+},
+{
+"word": "galvanize",
+"pos": "vt",
+"zh": "vt. 通电, 镀锌, 使...感到震惊",
+"en": "v. cover with zinc / v. stimulate (muscles) by administering a shock"
+},
+{
+"word": "innocuous",
+"pos": "a",
+"zh": "a. 无害的, 无伤大雅的 / [医] 无害的, 良性的",
+"en": "a. not injurious to physical or mental health / s. not causing disapproval"
+},
+{
+"word": "ineffectual",
+"pos": "a",
+"zh": "a. 无效的, 无益的",
+"en": "a not producing an intended effect / s producing no result or effect / s lacking in power or forcefulness"
+},
+{
+"word": "abreast",
+"pos": "adv",
+"zh": "adv. 并肩地, 并列地",
+"en": "s. being up to particular standard or level especially in being up to date in knowledge / r. alongside each other, facin…"
+},
+{
+"word": "expound",
+"pos": "v",
+"zh": "v. 详细说明, 解释",
+"en": "v add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing / v s…"
+},
+{
+"word": "warp",
+"pos": "n/vt/vi",
+"zh": "n. 变形, 弯曲, 歪曲, 乖僻, 偏差, 偏见 / vt. 使变形, 弄歪, 使翘曲, 使不正常, 歪曲, 使有偏见 / vi. 变弯, 变歪",
+"en": "n. a shape distorted by twisting or folding / n. a moral or mental distortion / n. yarn arranged lengthways on a loom an…"
+},
+{
+"word": "graft",
+"pos": "n/v",
+"zh": "n. 嫁接, 贪污 / v. 嫁接, 移植, 贪污",
+"en": "n. (surgery) tissue or organ transplanted from a donor to a recipient; in some cases the patient can be both donor and r…"
+},
+{
+"word": "broil",
+"pos": "vi/vt/n",
+"zh": "vi. 烤, 争吵, 激动 / vt. 烤 / n. 烤, 灼热, 争吵",
+"en": "n. cooking by direct exposure to radiant heat (as over a fire or under a grill) / v. cook under a broiler / v. heat by a…"
+},
+{
+"word": "envious",
+"pos": "a",
+"zh": "a. 嫉妒的, 羡慕的",
+"en": "s showing extreme cupidity; painfully desirous of another's advantages"
+},
+{
+"word": "ambience",
+"pos": "n",
+"zh": "n. 周围环境, 气氛",
+"en": "n a particular environment or surrounding influence / n the atmosphere of an environment"
+},
+{
+"word": "comprehensible",
+"pos": "a",
+"zh": "a. 可理解的",
+"en": "a. capable of being comprehended or understood"
+},
+{
+"word": "filibuster",
+"pos": "n/vi/vt",
+"zh": "n. 阻挠议事的活动, 掠夺兵, 暴兵, 海盗 / vi. 掠夺 / vt. (以冗长的演说)阻碍议案通过",
+"en": "n. a legislator who gives long speeches in an effort to delay or obstruct legislation that he (or she) opposes / n. (law…"
+},
+{
+"word": "collate",
+"pos": "vt",
+"zh": "vt. 校对, 校勘 / [计] 整理",
+"en": "v. compare critically; of texts / v. to assemble in proper sequence"
+},
+{
+"word": "fidget",
+"pos": "vi/vt/n",
+"zh": "vi. 坐卧不安, 摆弄 / vt. 使烦乱, 使不安 / n. 烦躁不安, 坐立不安的人",
+"en": "n. a feeling of agitation expressed in continual motion / v. move restlessly"
+},
+{
+"word": "sumptuous",
+"pos": "a",
+"zh": "a. 奢侈的, 华丽的",
+"en": "s rich and superior in quality"
+}
+]

@@ -1,0 +1,602 @@
+[
+{
+"word": "favour",
+"pos": "n/vt",
+"zh": "n. 好感, 偏爱, 喜爱, 相信, 庇护, 赞同, 支持, 信赖, 善行, 恩惠, 徽章, 礼物 / vt. 赞成, 帮助, 支持, 喜爱, 偏袒, 关切, 赐与, 给与, 有利…",
+"en": "n a feeling of favorable regard / n an inclination to approve / n an advantage to the benefit of someone or something / …"
+},
+{
+"word": "bench",
+"pos": "n",
+"zh": "n. 长椅子 / [机] 台",
+"en": "n. a long seat for more than one person / n. the magistrate or judge or judges sitting in court in judicial capacity to …"
+},
+{
+"word": "raw",
+"pos": "n/a/vt",
+"zh": "n. 擦伤处, 半成品 / a. 生的, 未加工的, 生疏的, 不成熟的, 阴冷的, 刺痛的, 擦掉皮的 / vt. 擦伤 / [计] 写后读",
+"en": "n. informal terms for nakedness / s. having the surface exposed and painful / a. not treated with heat to prepare it for…"
+},
+{
+"word": "economics",
+"pos": "n",
+"zh": "n. 经济学 / [经] 经济学",
+"en": "n. the branch of social science that deals with the production and distribution and consumption of goods and services an…"
+},
+{
+"word": "secondly",
+"pos": "adv",
+"zh": "adv. 第二, 其次",
+"en": "r in the second place"
+},
+{
+"word": "deck",
+"pos": "n/vt",
+"zh": "n. 甲板, (汽车后部的)行李仓 / vt. 装饰, 打扮, 装甲板 / [计] 纸牌背面图案",
+"en": "n. any of various platforms built into a vessel / n. street name for a packet of illegal drugs / n. a porch that resembl…"
+},
+{
+"word": "determination",
+"pos": "n",
+"zh": "n. 决心, 果断 / [化] 判定; 测定",
+"en": "n. the act of determining the properties of something, usually by research or calculation / n. the quality of being dete…"
+},
+{
+"word": "silly",
+"pos": "a",
+"zh": "a. 愚蠢的, 糊涂的",
+"en": "n. a word used for misbehaving children"
+},
+{
+"word": "testify",
+"pos": "v",
+"zh": "v. 证明, 作证, 声明, 表明",
+"en": "v. give testimony in a court of law / v. provide evidence for"
+},
+{
+"word": "newly",
+"pos": "adv",
+"zh": "adv. 重新, 最近",
+"en": "r. very recently"
+},
+{
+"word": "residential",
+"pos": "a",
+"zh": "a. 住宅的, 与居住有关的 / [法] 有关居住的, 房产的:居所的, 适于居住的",
+"en": "a. used or designed for residence or limited to residences / a. of or relating to or connected with residence"
+},
+{
+"word": "dialogue",
+"pos": "n/vi/vt",
+"zh": "n. 对话 / vi. 对话 / vt. 用对话表达",
+"en": "n. a conversation between two persons / n. the lines spoken by characters in drama or fiction / n. a literary compositio…"
+},
+{
+"word": "rugby",
+"pos": "n",
+"zh": "n. 橄榄球, 橄榄球赛",
+"en": "n. a form of football played with an oval ball"
+},
+{
+"word": "unity",
+"pos": "n",
+"zh": "n. 一致, 联合, 单一(性), 个体 / [经] 统一",
+"en": "n an undivided or unbroken completeness or totality with nothing wanting / n the smallest whole number or a numeral repr…"
+},
+{
+"word": "turnover",
+"pos": "n/a",
+"zh": "n. 翻倒, 翻转, 半圆酥饼, 营业额, 流通, 周转 / a. 可翻转的",
+"en": "n. a dish made by folding a piece of pastry over a filling"
+},
+{
+"word": "squad",
+"pos": "n/vt",
+"zh": "n. 班, 小队, 小集团 / vt. 编成班",
+"en": "n. a smallest army unit"
+},
+{
+"word": "furthermore",
+"pos": "adv",
+"zh": "adv. 此外, 而且",
+"en": "r. in addition; furthermore, their quality is improving\"; moreover, mice nested there\""
+},
+{
+"word": "mutual",
+"pos": "a",
+"zh": "a. 相互的, 共有的 / [经] 相互的",
+"en": "s common to or shared by two or more parties / a concerning each of two or more persons or things; especially given or d…"
+},
+{
+"word": "founder",
+"pos": "n/vt/vi",
+"zh": "n. 创立者, 建立者 / vt. 使沉没, 使摔倒, 弄跛, 浸水, 破坏 / vi. 沉没, 摔到, 变跛, 倒塌, 失败",
+"en": "n. a person who founds or establishes some institution / n. a worker who makes metal castings / v. sink below the surfac…"
+},
+{
+"word": "bush",
+"pos": "n",
+"zh": "n. 矮树丛 / [化] 管衬",
+"en": "n. a large wilderness area / n. 43rd President of the United States; son of George Herbert Walker Bush (born in 1946) / …"
+},
+{
+"word": "pride",
+"pos": "n/vt",
+"zh": "n. 骄傲, 自尊心, 自豪, 精华, 勇气 / vt. 以...自豪",
+"en": "n. a feeling of self-respect and personal worth / n. satisfaction with your (or another's) achievements / n. the trait o…"
+},
+{
+"word": "percent",
+"pos": "n",
+"zh": "n. 百分比, 百分数, 部分 / [机] 百分率",
+"en": "n a proportion in relation to a whole (which is usually the amount per hundred)"
+},
+{
+"word": "deliberately",
+"pos": "adv",
+"zh": "adv. 故意地",
+"en": "r with intention; in an intentional manner / r in a deliberate unhurried manner"
+},
+{
+"word": "freeze",
+"pos": "vi/vt/n",
+"zh": "vi. 冻结, 冷冻, 僵硬, 楞住 / vt. 使结冰, 使冻住, 使呆住 / n. 结冰, 凝固 / [计] 冻结",
+"en": "n. the withdrawal of heat to change something from a liquid to a solid / n. weather cold enough to cause freezing / n. a…"
+},
+{
+"word": "sensible",
+"pos": "a",
+"zh": "a. 有感觉的, 敏感的, 明智的 / [医] 可感觉的",
+"en": "a. able to feel or perceive / s. readily perceived by the senses / s. aware intuitively or intellectually of something s…"
+},
+{
+"word": "bake",
+"pos": "vt/vi/n",
+"zh": "vt. 烘焙, 烤 / vi. 烤面包 / n. 烘焙, 烤",
+"en": "v. cook and make edible by putting in a hot oven / v. prepare with dry heat in an oven / v. be very hot, due to hot weat…"
+},
+{
+"word": "diverse",
+"pos": "a",
+"zh": "a. 不同的, 变化多的",
+"en": "s. distinctly dissimilar or unlike"
+},
+{
+"word": "brick",
+"pos": "n/a/vt",
+"zh": "n. 砖块, 积木 / a. 用砖做的 / vt. 用砖造, 用砖砌",
+"en": "n. rectangular block of clay baked by the sun or in a kiln; used as a building or paving material / n. a good fellow; he…"
+},
+{
+"word": "automatically",
+"pos": "adv",
+"zh": "adv. 自动地, 机械地",
+"en": "r. in a reflex manner"
+},
+{
+"word": "adapt",
+"pos": "vt/vi",
+"zh": "vt. 使适应, 改编 / vi. 适应",
+"en": "v. make fit for, or change to suit a new purpose"
+},
+{
+"word": "joy",
+"pos": "n/vt/vi",
+"zh": "n. 欢喜, 乐事, 高兴 / vt. 使快乐, 令人高兴 / vi. 欢喜",
+"en": "n. the emotion of great happiness / n. something or someone that provides a source of happiness"
+},
+{
+"word": "headquarters",
+"pos": "n",
+"zh": "n. 总部, 司令部, 总部人员 / [经] 本部, 总部, 总署",
+"en": "n. (usually plural) the office that serves as the administrative center of an enterprise / n. the military installation …"
+},
+{
+"word": "reward",
+"pos": "n/vt",
+"zh": "n. 报酬, 酬谢, 赏金 / vt. 奖赏, 酬谢, 给...应有报应",
+"en": "n. payment made in return for a service rendered / n. an act performed to strengthen approved behavior / n. the offer of…"
+},
+{
+"word": "conservation",
+"pos": "n",
+"zh": "n. 保护, 保存 / [医] 保存",
+"en": "n. an occurrence of improvement by virtue of preventing loss or injury or other change / n. the preservation and careful…"
+},
+{
+"word": "evolve",
+"pos": "vi/vt",
+"zh": "vi. 进展, 进化, 展开 / vt. 使发展, 使推断出, 使进化",
+"en": "v. work out / v. undergo development or evolution"
+},
+{
+"word": "corridor",
+"pos": "n",
+"zh": "n. 走廊, 回廊, 人口密集地带",
+"en": "n. an enclosed passageway; rooms usually open onto it"
+},
+{
+"word": "singer",
+"pos": "n",
+"zh": "n. 歌手",
+"en": "n. a person who sings / n. United States inventor of an improved chain-stitch sewing machine (1811-1875) / n. United Sta…"
+},
+{
+"word": "ban",
+"pos": "n/vt",
+"zh": "n. 禁令 / vt. 禁止, 取缔",
+"en": "n. 100 bani equal 1 leu in Moldova / n. 100 bani equal 1 leu in Romania / n. an official prohibition or edict against so…"
+},
+{
+"word": "announcement",
+"pos": "n",
+"zh": "n. 公告, 发表, 告知 / [经] 通告, 布告, 公告",
+"en": "n. a formal public statement / n. a public statement containing information about an event that has happened or is going…"
+},
+{
+"word": "consult",
+"pos": "vi/vt",
+"zh": "vi. 商讨, 商量, 协商, 会诊 / vt. 向...请教, 查阅, 考虑",
+"en": "v. get or ask advice from / v. seek information from / v. advise professionally"
+},
+{
+"word": "comfort",
+"pos": "n/vt",
+"zh": "n. 舒适, 安慰, 安慰者 / vt. 安慰",
+"en": "n. a state of being relaxed and feeling no pain / n. a feeling of freedom from worry or disappointment / n. satisfaction…"
+},
+{
+"word": "imagination",
+"pos": "n",
+"zh": "n. 想像, 听觉, 想像力 / [医] 想像",
+"en": "n. the formation of a mental image of something that is not perceived as real and is not present to the senses / n. the …"
+},
+{
+"word": "counter",
+"pos": "n/a/adv",
+"zh": "n. 计算器, 计算者, 柜台, 筹码 / a. 反方向的, 相反的 / adv. 反方向地, 相反地 / [计] 计数器; 计数字",
+"en": "n. table consisting of a horizontal surface over which business is transacted / n. game equipment (as a piece of wood, p…"
+},
+{
+"word": "unemployed",
+"pos": "a",
+"zh": "a. 失业的, 未被利用的 / [经] 没有被雇用的, 失业的, 没有被利用的",
+"en": "a. not engaged in a gainful occupation"
+},
+{
+"word": "potentially",
+"pos": "adv",
+"zh": "adv. 可能地, 潜在地",
+"en": "r. with a possibility of becoming actual"
+},
+{
+"word": "tongue",
+"pos": "n/vt/vi",
+"zh": "n. 舌, 语言能力, 讲话方式, 语言 / vt. 舔, 斥责, 发...的音 / vi. 使用舌头, 吹管乐器",
+"en": "n. a mobile mass of muscular tissue covered with mucous membrane and located in the oral cavity / n. any long thin proje…"
+},
+{
+"word": "till",
+"pos": "prep/conj/vt/n",
+"zh": "prep. 直到, 在...以前, 迄 / conj. 直到...为止 / vt. 耕种 / n. 放钱的抽屉, 备用现金, 冰碛",
+"en": "n. unstratified soil deposited by a glacier; consists of sand and clay and gravel and boulders mixed together / v. work …"
+},
+{
+"word": "crash",
+"pos": "n/v/a",
+"zh": "n. 哗啦声, 猛撞, 崩溃, 粗布 / v. 撞碎, 破碎, (使)...坠毁 / a. 速成的 / [计] 崩溃",
+"en": "n. a serious accident (usually involving one or more vehicles) / n. a sudden large decline of business or the prices of …"
+},
+{
+"word": "inevitable",
+"pos": "a",
+"zh": "a. 不可避免的, 必然的 / [法] 不可避免的, 无法规避的, 必然的",
+"en": "n. an unavoidable event / a. incapable of being avoided or prevented / s. invariably occurring or appearing"
+},
+{
+"word": "outline",
+"pos": "n/vt",
+"zh": "n. 大纲, 轮廓, 概要 / vt. 描画轮廓, 描述要点 / n. 大纲, 分级, 轮廓 / [计] 大纲, 分级, 轮廓",
+"en": "n. the line that appears to bound an object / n. a sketchy summary of the main points of an argument or theory / n. a sc…"
+},
+{
+"word": "politically",
+"pos": "adv",
+"zh": "adv. 政治上",
+"en": "r. with regard to social relationships involving authority / r. with regard to government"
+},
+{
+"word": "craft",
+"pos": "n/vt",
+"zh": "n. 技艺, 手艺, 诡计 / vt. 精心制作",
+"en": "n. a vehicle designed for navigation in or on water or air or through outer space / n. people who perform a particular k…"
+},
+{
+"word": "reinforce",
+"pos": "vt/vi/n",
+"zh": "vt. 加强, 增援, 补充 / vi. 求援, 得到增援 / n. 加固材料",
+"en": "v. make stronger / v. strengthen and support with rewards"
+},
+{
+"word": "conviction",
+"pos": "n",
+"zh": "n. 定罪, 信服, 坚信 / [法] 定罪, 证明有罪, 判罪",
+"en": "n. an unshakable belief in something without need for proof or evidence / n. (criminal law) a final judgment of guilty i…"
+},
+{
+"word": "insight",
+"pos": "n",
+"zh": "n. 察看, 洞察力, 见识 / [医] 自知力, 洞察, 顿悟",
+"en": "n. a feeling of understanding / n. the clear (and often sudden) understanding of a complex situation / n. grasping the i…"
+},
+{
+"word": "terrorist",
+"pos": "n",
+"zh": "n. 恐怖分子 / [法] 恐怖份子, 恐怖主义",
+"en": "n. a radical who employs terror as a political weapon; usually organizes with other terrorists in small cells; often use…"
+},
+{
+"word": "tap",
+"pos": "n/vt/vi",
+"zh": "n. 轻打, 水龙头 / vt. 轻打, 轻敲, 敲打出, 选择, 装上嘴子, 使流出, 开发, 分接, 向...乞讨 / vi. 轻叩, 轻拍, 啪塔啪塔地走 / [计] 接头",
+"en": "n. a small metal plate that attaches to the toe or heel of a shoe (as in tap dancing) / n. a tool for cutting female (in…"
+},
+{
+"word": "magistrate",
+"pos": "n",
+"zh": "n. 长官, 法官, 推事 / [法] 司法行政官, 治安法官, 地方法官",
+"en": "n. a lay judge or civil authority who administers the law (especially one who conducts a court dealing with minor offens…"
+},
+{
+"word": "mouse",
+"pos": "n/vi/vt",
+"zh": "n. 老鼠, 胆小羞怯的人, 鼠标 / vi. 捕鼠, 窥探 / vt. 探出 / [计] 鼠标",
+"en": "n. any of numerous small rodents typically resembling diminutive rats having pointed snouts and small ears on elongated …"
+},
+{
+"word": "episode",
+"pos": "n",
+"zh": "n. 插曲, 插话, 有趣的事件, 一段情节 / [医] 插话, 插曲, 发作",
+"en": "n. a happening that is distinctive in a series of related events / n. a brief section of a literary or dramatic work tha…"
+},
+{
+"word": "tennis",
+"pos": "n",
+"zh": "n. 网球",
+"en": "n. a game played with rackets by two or four players who hit a ball back and forth over a net that divides the court"
+},
+{
+"word": "readily",
+"pos": "adv",
+"zh": "adv. 迅速地, 轻易地, 乐意地",
+"en": "r. without much difficulty"
+},
+{
+"word": "swim",
+"pos": "n/vi/vt",
+"zh": "n. 游泳, 漂浮, 潮流, 眩晕 / vi. 游泳, 游, 漂浮, 浸, 覆盖, 充溢, 大量拥有, 旋转, 眩晕 / vt. 游过, 使浮起",
+"en": "v. travel through water / v. be dizzy or giddy / v. be covered with or submerged in a liquid / v. move as if gliding thr…"
+},
+{
+"word": "tire",
+"pos": "n/vt/vi",
+"zh": "n. 轮胎, 头饰 / vt. 使疲倦, 使厌烦, 打扮 / vi. 疲劳, 厌倦",
+"en": "n. hoop that covers a wheel / v. lose interest or become bored with something or somebody / v. exhaust or get tired thro…"
+},
+{
+"word": "loose",
+"pos": "n/a/vt/vi/adv",
+"zh": "n. 发射, 放任, 放纵 / a. 宽松的, 松的, 宽的, 不牢固的, 散漫的, 自由的, 不精确的 / vt. 释放, 放枪, 开船 / vi. 变松, 开火 / adv. …",
+"en": "a. not compact or dense in structure or arrangement / s. (of a ball in sport) not in the possession or control of any pl…"
+},
+{
+"word": "highlight",
+"pos": "n/vt",
+"zh": "n. 加亮区, 精彩场面 / vt. 加亮, 使显著, 以强光照射, 突出 / [计] 突出",
+"en": "n. the most interesting or memorable part / n. an area of lightness in a picture / v. apply a highlighter to one's cheek…"
+},
+{
+"word": "prior",
+"pos": "a/n",
+"zh": "a. 更重要的, 较早的, 在先的 / n. 小隐修院院长, 大隐修院副院长",
+"en": "n. the head of a religious order; in an abbey the prior is next below the abbot"
+},
+{
+"word": "intellectual",
+"pos": "n/a",
+"zh": "n. 有知识者, 知识分子, 凭理智做事者 / a. 智力的, 用脑力的, 聪明的",
+"en": "n. a person who uses the mind creatively / s. of or associated with or requiring the use of the mind / a. appealing to o…"
+},
+{
+"word": "characterize",
+"pos": "vt",
+"zh": "vt. 描绘...的特性, 刻划...的性格",
+"en": "v. be characteristic of"
+},
+{
+"word": "assault",
+"pos": "n/vt/vi",
+"zh": "n. 攻击, 袭击 / vt. 袭击, 攻击 / vi. 发动攻击",
+"en": "n. close fighting during the culmination of a military attack / n. a threatened or attempted physical attack by someone …"
+},
+{
+"word": "adventure",
+"pos": "n/v",
+"zh": "n. 冒险, 冒险经历 / v. 冒险",
+"en": "n. a wild and exciting undertaking (not necessarily lawful)"
+},
+{
+"word": "monetary",
+"pos": "a",
+"zh": "a. 货币的, 金钱的 / [经] 货币的, 金融的",
+"en": "a. relating to or involving money"
+},
+{
+"word": "stair",
+"pos": "n",
+"zh": "n. 梯级, 楼梯, 阶梯",
+"en": "n support consisting of a place to rest the foot while ascending or descending a stairway"
+},
+{
+"word": "amendment",
+"pos": "n",
+"zh": "n. 修订, 改善, 改良, 改正 / [化] 调理剂; 修正",
+"en": "n. the act of amending or correcting / n. a statement that is added to or revises or improves a proposal or document (a …"
+},
+{
+"word": "shrug",
+"pos": "n/v",
+"zh": "n. 耸肩 / v. 耸肩",
+"en": "n. a gesture involving the shoulders / v. raise one's shoulders to indicate indifference or resignation"
+},
+{
+"word": "weakness",
+"pos": "n",
+"zh": "n. 虚弱, 薄弱, 弱点 / [经] 欲振乏力",
+"en": "n. the property of lacking physical or mental strength; liability to failure under pressure or stress or strain / n. the…"
+},
+{
+"word": "trace",
+"pos": "n/vt/vi",
+"zh": "n. 痕迹, 踪迹, 微量, 迹线, 缰绳 / vt. 追踪, 回溯, 描绘 / vi. 追溯, 沿路走",
+"en": "n. a just detectable amount / n. an indication that something has been present / n. either of two lines that connect a h…"
+},
+{
+"word": "dirty",
+"pos": "a/vt/vi",
+"zh": "a. 肮脏的, 卑鄙的 / vt. 弄脏 / vi. 变脏",
+"en": "v. make soiled, filthy, or dirty / a. soiled or likely to soil with dirt or grime / a. (of behavior or especially langua…"
+},
+{
+"word": "violation",
+"pos": "n",
+"zh": "n. 违反, 违背, 妨碍 / [法] 违犯, 违背, 违反",
+"en": "n. an act that disregards an agreement or a right"
+},
+{
+"word": "license",
+"pos": "n/vt",
+"zh": "n. 执照, 许可证, 特许 / vt. 许可, 特许",
+"en": "n. a legal document giving official permission to do something / n. freedom to deviate deliberately from normally applic…"
+},
+{
+"word": "rid",
+"pos": "vt",
+"zh": "vt. 免除, 以...清除, 使获自由, 使摆脱 / [法] 免除, 清除, 摆脱",
+"en": "v. relieve from"
+},
+{
+"word": "shelter",
+"pos": "n/vt/vi",
+"zh": "n. 庇护所, 避难所, 庇护, 隐蔽处, 掩蔽 / vt. 庇护, 保护, 隐匿 / vi. 躲避",
+"en": "n. a structure that provides privacy and protection from danger / n. protective covering that provides protection from t…"
+},
+{
+"word": "rub",
+"pos": "n/vt/vi",
+"zh": "n. 摩擦, 困难, 障碍, 磨损处 / vt. 擦, 搓, 摩擦, 惹怒 / vi. 摩擦, 擦破",
+"en": "n. the act of rubbing or wiping / v. move over something with pressure / v. cause friction / v. scrape or rub as if to r…"
+},
+{
+"word": "controversy",
+"pos": "n",
+"zh": "n. 论争, 辩论, 论战, 争论 / [法] 论战, 争论, 争吵",
+"en": "n. a contentious speech act; a dispute where there is strong disagreement"
+},
+{
+"word": "sail",
+"pos": "n/vi/vt",
+"zh": "n. 帆, 篷, 帆船, 航程, 帆状物 / vi. 航行, 启航, 张帆而行 / vt. 航行于, 驾船",
+"en": "n. a large piece of fabric (usually canvas fabric) by means of which wind is used to propel a sailing vessel / n. any st…"
+},
+{
+"word": "fourteen",
+"pos": "num",
+"zh": "num. 十四, 十四个",
+"en": "n. the cardinal number that is the sum of thirteen and one / s. being one more than thirteen"
+},
+{
+"word": "absorb",
+"pos": "vt",
+"zh": "vt. 吸收, 使全神贯注, 同化, 买进, 理解, 承受, 忍受, 承担 / [医] 吸收",
+"en": "v. become imbued / v. take up mentally / v. take up, as of debts or payments / v. take in, also metaphorically"
+},
+{
+"word": "pleasant",
+"pos": "a",
+"zh": "a. 愉快的, 可爱的, 活泼的, 亲切的",
+"en": "a. affording pleasure; being in harmony with your taste or likings / s. (of persons) having pleasing manners or behavior"
+},
+{
+"word": "defensive",
+"pos": "a/n",
+"zh": "a. 防卫的, 防备用的, 自卫的 / n. 守势, 防卫姿势, 防卫物",
+"en": "n. an attitude of defensiveness (especially in the phrase `on the defensive') / a. intended or appropriate for defending…"
+},
+{
+"word": "fade",
+"pos": "vi/vt/n/a",
+"zh": "vi. 褪色, 消失, 凋谢 / vt. 使褪色 / n. 淡入, 淡出 / a. 平淡的",
+"en": "n. gradually ceasing to be visible / v. become less clearly visible or distinguishable; disappear gradually or seemingly…"
+},
+{
+"word": "pit",
+"pos": "n/vt/vi",
+"zh": "n. 深坑, 矿井, 果核, 地窖, 深渊, 绝境, 陷阱 / vt. 窖藏, 使凹下, 使有麻点, 去...之核, 使留疤痕, 使相斗, 使竞争 / vi. 起凹点, 凹陷",
+"en": "n. a sizeable hole (usually in the ground) / n. a concavity in a surface (especially an anatomical depression) / n. an e…"
+},
+{
+"word": "gesture",
+"pos": "n/vi",
+"zh": "n. 手势, 姿态 / vi. 作手势, 作姿态",
+"en": "n. motion of hands or body to emphasize or help to express a thought or feeling / n. the use of movements (especially of…"
+},
+{
+"word": "tragedy",
+"pos": "n",
+"zh": "n. 悲剧, 惨案, 悲剧作品 / [法] 惨事, 灾难, 不辛",
+"en": "n. drama in which the protagonist is overcome by some superior force or circumstance; excites terror or pity"
+},
+{
+"word": "funeral",
+"pos": "n",
+"zh": "n. 葬礼, 出殡",
+"en": "n. a ceremony at which a dead person is buried or cremated"
+},
+{
+"word": "pretend",
+"pos": "v",
+"zh": "v. 假装, 伪称, 自命, 自称",
+"en": "v. put forward a claim and assert right or possession of"
+},
+{
+"word": "entitle",
+"pos": "vt",
+"zh": "vt. 给...权利, 取名为, 给予名称, 叫做 / [法] 给...权利, 使有资格, 称呼",
+"en": "v. give the right to / v. give a title to"
+},
+{
+"word": "grateful",
+"pos": "a",
+"zh": "a. 感谢的, 感激的, 令人快意的, 受欢迎的",
+"en": "a. feeling or showing gratitude / s. affording comfort or pleasure"
+},
+{
+"word": "venture",
+"pos": "n/vt/vi",
+"zh": "n. 冒险, 风险 / vt. 敢于, 冒...的危险 / vi. 冒险",
+"en": "n. any venturesome undertaking especially one with an uncertain outcome / n. a commercial undertaking that risks a loss …"
+},
+{
+"word": "sixteen",
+"pos": "num",
+"zh": "num. 十六, 十六个",
+"en": "n. the cardinal number that is the sum of fifteen and one / s. being one more than fifteen"
+},
+{
+"word": "architect",
+"pos": "n",
+"zh": "n. 建筑师, 设计者, 缔造者",
+"en": "n. someone who creates plans to be used in making something (such as buildings)"
+}
+]

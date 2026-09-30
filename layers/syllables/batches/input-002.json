@@ -1,0 +1,604 @@
+[
+ {
+  "word": "remarkably",
+  "split": "re·mark·ably",
+  "source": "pyphen",
+  "ref": 4,
+  "ipa": "ri'mɑ:kәbli"
+ },
+ {
+  "word": "enquire",
+  "split": "en·quire",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "in'kwaiә"
+ },
+ {
+  "word": "reminder",
+  "split": "re·minder",
+  "source": "pyphen",
+  "ref": 3,
+  "ipa": "ri'maindә"
+ },
+ {
+  "word": "tourism",
+  "split": "tour·ism",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'tuәrizm"
+ },
+ {
+  "word": "uncover",
+  "split": "un·cover",
+  "source": "moby",
+  "ref": 3,
+  "ipa": ".ʌn'kʌvә"
+ },
+ {
+  "word": "km",
+  "split": "km",
+  "source": "pyphen",
+  "ref": 0,
+  "ipa": ""
+ },
+ {
+  "word": "openly",
+  "split": "open·ly",
+  "source": "pyphen",
+  "ref": 3,
+  "ipa": "'әjpәnli"
+ },
+ {
+  "word": "journalism",
+  "split": "jour·nal·ism",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "'dʒә:nәlizm"
+ },
+ {
+  "word": "elaborate",
+  "split": "e·lab·o·rate",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "i'læbәreit"
+ },
+ {
+  "word": "emotionally",
+  "split": "e·mo·tion·al·ly",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "i'mәuʃәnәli"
+ },
+ {
+  "word": "jewellery",
+  "split": "jew·el·ler·y",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'dʒu:әlri"
+ },
+ {
+  "word": "ironically",
+  "split": "i·ron·i·cal·ly",
+  "source": "moby",
+  "ref": 4,
+  "ipa": ""
+ },
+ {
+  "word": "sovereignty",
+  "split": "sov·er·eign·ty",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'sɒvrәnti"
+ },
+ {
+  "word": "economically",
+  "split": "e·co·nom·i·cal·ly",
+  "source": "moby",
+  "ref": 5,
+  "ipa": "i:kә'nɔmikәli"
+ },
+ {
+  "word": "ideally",
+  "split": "i·de·al·ly",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "ai'diәli"
+ },
+ {
+  "word": "vacuum",
+  "split": "vac·u·um",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "''vækjuәm"
+ },
+ {
+  "word": "beloved",
+  "split": "be·lov·ed",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "bi'lʌvd"
+ },
+ {
+  "word": "beautifully",
+  "split": "beau·ti·ful·ly",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'bju:tifuli"
+ },
+ {
+  "word": "choir",
+  "split": "choir",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'kwaiә"
+ },
+ {
+  "word": "sour",
+  "split": "sour",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'sauә"
+ },
+ {
+  "word": "optimism",
+  "split": "op·ti·mism",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "'ɒptimizm"
+ },
+ {
+  "word": "settler",
+  "split": "set·tler",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'setlә"
+ },
+ {
+  "word": "fireplace",
+  "split": "fire·place",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'faiәpleis"
+ },
+ {
+  "word": "aluminium",
+  "split": "al·u·min·i·um",
+  "source": "moby",
+  "ref": 4,
+  "ipa": ".ælju'miniәm"
+ },
+ {
+  "word": "unreasonable",
+  "split": "un·rea·son·a·ble",
+  "source": "moby",
+  "ref": 4,
+  "ipa": ".ʌn'ri:znәbl"
+ },
+ {
+  "word": "principally",
+  "split": "prin·ci·pal·ly",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'prinsәpәli"
+ },
+ {
+  "word": "communism",
+  "split": "com·mun·ism",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "'kɒmjunizm"
+ },
+ {
+  "word": "cafe",
+  "split": "cafe",
+  "source": "pyphen",
+  "ref": 2,
+  "ipa": "kɑ:'fei"
+ },
+ {
+  "word": "sophomore",
+  "split": "soph·o·more",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'sɒfәmɒ:"
+ },
+ {
+  "word": "recycling",
+  "split": "re·cy·cling",
+  "source": "pyphen",
+  "ref": 4,
+  "ipa": ""
+ },
+ {
+  "word": "honourable",
+  "split": "hon·ourable",
+  "source": "pyphen",
+  "ref": 4,
+  "ipa": "'ɒnәrәbl"
+ },
+ {
+  "word": "miniature",
+  "split": "min·ia·ture",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "'miniәtʃә"
+ },
+ {
+  "word": "beneficiary",
+  "split": "ben·e·fi·ciar·y",
+  "source": "moby",
+  "ref": 6,
+  "ipa": ".beni'fiʃәri"
+ },
+ {
+  "word": "dial",
+  "split": "dial",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'daiәl"
+ },
+ {
+  "word": "realism",
+  "split": "re·al·ism",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "'riәlizm"
+ },
+ {
+  "word": "decorative",
+  "split": "dec·o·ra·tive",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'dekәreitiv"
+ },
+ {
+  "word": "stereo",
+  "split": "stereo",
+  "source": "pyphen",
+  "ref": 3,
+  "ipa": "'stiәriәu"
+ },
+ {
+  "word": "tidy",
+  "split": "tidy",
+  "source": "pyphen",
+  "ref": 2,
+  "ipa": "'taidi"
+ },
+ {
+  "word": "invaluable",
+  "split": "in·val·u·a·ble",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "in'væljuәbl"
+ },
+ {
+  "word": "morally",
+  "split": "moral·ly",
+  "source": "pyphen",
+  "ref": 3,
+  "ipa": "'mɒrәli"
+ },
+ {
+  "word": "radically",
+  "split": "rad·i·cal·ly",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'rædikәli"
+ },
+ {
+  "word": "cruelty",
+  "split": "cru·el·ty",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'kru:әlti"
+ },
+ {
+  "word": "complementary",
+  "split": "com·ple·men·ta·ry",
+  "source": "moby",
+  "ref": 4,
+  "ipa": ".kɒmpli'mentәri"
+ },
+ {
+  "word": "contender",
+  "split": "con·tender",
+  "source": "pyphen",
+  "ref": 3,
+  "ipa": "kәn'tendә(r)"
+ },
+ {
+  "word": "cyclist",
+  "split": "cy·clist",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'saiklist"
+ },
+ {
+  "word": "genetically",
+  "split": "ge·net·i·cal·ly",
+  "source": "moby",
+  "ref": 4,
+  "ipa": ""
+ },
+ {
+  "word": "postgraduate",
+  "split": "post·grad·u·ate",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'pәust'^rædjuit, 'pәust'^rædʒuit"
+ },
+ {
+  "word": "skepticism",
+  "split": "skep·ti·cism",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "'skeptisizm"
+ },
+ {
+  "word": "systematically",
+  "split": "sys·tem·at·i·cal·ly",
+  "source": "pyphen",
+  "ref": 5,
+  "ipa": ".sisti'mætikli"
+ },
+ {
+  "word": "sovereign",
+  "split": "sov·er·eign",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'sɒvrin"
+ },
+ {
+  "word": "foliage",
+  "split": "fo·li·age",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'fәuliidʒ"
+ },
+ {
+  "word": "renewable",
+  "split": "re·new·able",
+  "source": "pyphen",
+  "ref": 4,
+  "ipa": "ri'nju(:)әbl"
+ },
+ {
+  "word": "feminism",
+  "split": "fem·i·nism",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "'feminizm"
+ },
+ {
+  "word": "indifferent",
+  "split": "in·dif·fer·ent",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "in'difәrәnt"
+ },
+ {
+  "word": "phd",
+  "split": "phd",
+  "source": "moby",
+  "ref": 3,
+  "ipa": ""
+ },
+ {
+  "word": "psyche",
+  "split": "psyche",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'psaiki"
+ },
+ {
+  "word": "temperament",
+  "split": "tem·per·a·ment",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'temprәmәnt"
+ },
+ {
+  "word": "aspirin",
+  "split": "as·pi·rin",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'æspәrin"
+ },
+ {
+  "word": "glacier",
+  "split": "glac·i·er",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'gleiʃә"
+ },
+ {
+  "word": "yoga",
+  "split": "yoga",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'jәugә"
+ },
+ {
+  "word": "patriotism",
+  "split": "pat·ri·ot·ism",
+  "source": "moby",
+  "ref": 5,
+  "ipa": "'peitriәtizm"
+ },
+ {
+  "word": "porcelain",
+  "split": "porce·lain",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'pɒ:slin"
+ },
+ {
+  "word": "awfully",
+  "split": "aw·ful·ly",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'ɒ:fuli"
+ },
+ {
+  "word": "satisfactorily",
+  "split": "sat·is·fac·to·ri·ly",
+  "source": "moby",
+  "ref": 5,
+  "ipa": ".sætis'fæktәrili"
+ },
+ {
+  "word": "devour",
+  "split": "de·vour",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "di'vauә"
+ },
+ {
+  "word": "enthusiastically",
+  "split": "en·thu·si·as·ti·cal·ly",
+  "source": "moby",
+  "ref": 6,
+  "ipa": "in.θju:zi'æstikli"
+ },
+ {
+  "word": "dazzling",
+  "split": "daz·zling",
+  "source": "pyphen",
+  "ref": 3,
+  "ipa": "'dæzliŋ"
+ },
+ {
+  "word": "meteor",
+  "split": "meteor",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'mi:tiә"
+ },
+ {
+  "word": "accompaniment",
+  "split": "ac·com·pa·ni·ment",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "ә'kʌmpәnimәnt"
+ },
+ {
+  "word": "vista",
+  "split": "vista",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'vistә"
+ },
+ {
+  "word": "visualize",
+  "split": "vis·u·al·ize",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'viʒuәlaiz"
+ },
+ {
+  "word": "professionalism",
+  "split": "pro·fes·sion·al·ism",
+  "source": "moby",
+  "ref": 6,
+  "ipa": "prә'feʃәnә,lizәm"
+ },
+ {
+  "word": "conservatory",
+  "split": "con·serv·a·tory",
+  "source": "moby",
+  "ref": 5,
+  "ipa": "kәn'sә:vәtәri"
+ },
+ {
+  "word": "symbolism",
+  "split": "sym·bol·ism",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "'simbәlizm"
+ },
+ {
+  "word": "lineage",
+  "split": "line·age",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'liniidʒ"
+ },
+ {
+  "word": "conservatism",
+  "split": "con·serv·a·tism",
+  "source": "moby",
+  "ref": 5,
+  "ipa": "kәn'sә:vәtizәm"
+ },
+ {
+  "word": "fluorescent",
+  "split": "flu·o·res·cent",
+  "source": "moby",
+  "ref": 3,
+  "ipa": ".fluә'resәnt"
+ },
+ {
+  "word": "metabolism",
+  "split": "me·tab·o·lism",
+  "source": "moby",
+  "ref": 5,
+  "ipa": "mi'tæbәlizm"
+ },
+ {
+  "word": "ultraviolet",
+  "split": "ultra·violet",
+  "source": "moby",
+  "ref": 5,
+  "ipa": ".ʌltrә'vaiәlit"
+ },
+ {
+  "word": "videotape",
+  "split": "video·tape",
+  "source": "pyphen",
+  "ref": 4,
+  "ipa": ""
+ },
+ {
+  "word": "resilience",
+  "split": "re·sil·ience",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "ri'ziliәns"
+ },
+ {
+  "word": "temperate",
+  "split": "tem·per·ate",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'tempәrәt"
+ },
+ {
+  "word": "antagonism",
+  "split": "an·tag·o·nism",
+  "source": "moby",
+  "ref": 5,
+  "ipa": "æn'tægәnizm"
+ },
+ {
+  "word": "veterinarian",
+  "split": "vet·er·i·nar·i·an",
+  "source": "moby",
+  "ref": 5,
+  "ipa": ".vetәri'nєәriәn"
+ },
+ {
+  "word": "forte",
+  "split": "forte",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "fɔ:t"
+ },
+ {
+  "word": "sarcasm",
+  "split": "sar·casm",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'sɑ:kæzm"
+ }
+]

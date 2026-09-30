@@ -1,0 +1,602 @@
+[
+{
+"word": "throng",
+"pos": "n/a/vi/vt",
+"zh": "n. 群, 人群, 群集, 众多 / a. 拥挤的 / vi. 群集, 蜂拥 / vt. 在...群集, 使拥塞",
+"en": "v. press tightly together or cram"
+},
+{
+"word": "sanity",
+"pos": "n",
+"zh": "n. 神智健全, 头脑清楚, 通情达理 / [医] 精神健全",
+"en": "n. normal or sound powers of mind"
+},
+{
+"word": "conscientious",
+"pos": "a",
+"zh": "a. 有责任心的, 负责的, 本着良心的 / [法] 凭良心做的, 有道德感的",
+"en": "s. characterized by extreme care and great effort / a. guided by or in accordance with conscience or sense of right and …"
+},
+{
+"word": "fraught",
+"pos": "a",
+"zh": "a. 含有...的, 伴着...的, 充满...的",
+"en": "s. marked by distress / s. filled with or attended with"
+},
+{
+"word": "innumerable",
+"pos": "a",
+"zh": "a. 无数的, 数不清的",
+"en": "s too numerous to be counted"
+},
+{
+"word": "baffle",
+"pos": "vt/vi/n",
+"zh": "vt. 困惑, 为难, 使挫折 / vi. 徒作挣扎 / n. 迷惑, 挡板",
+"en": "n. a flat plate that controls or directs the flow of fluid or energy / v. check the emission of (sound)"
+},
+{
+"word": "meticulous",
+"pos": "a",
+"zh": "a. 一丝不苟的, 精确的, 过细的",
+"en": "s. marked by precise accordance with details / s. marked by extreme care in treatment of details"
+},
+{
+"word": "concerted",
+"pos": "a",
+"zh": "a. 商定的, 协定的, 一致的 / [法] 一致的, 协力的, 共同的",
+"en": "s. involving the joint activity of two or more"
+},
+{
+"word": "beset",
+"pos": "vt",
+"zh": "vt. 围绕, 使苦恼, 镶嵌",
+"en": "v. assail or attack on all sides: \"The zebra was beset by leopards\""
+},
+{
+"word": "extinguish",
+"pos": "vt",
+"zh": "vt. 熄灭, 使消亡, 压制, 使减色 / [医] 消灭",
+"en": "v. terminate, end, or take out"
+},
+{
+"word": "pastime",
+"pos": "n",
+"zh": "n. 消遣, 娱乐, 游戏",
+"en": "n. a diversion that occupies one's time and thoughts (usually pleasantly)"
+},
+{
+"word": "submerge",
+"pos": "vt/vi",
+"zh": "vt. 使浸水, 使陷入, 淹没 / vi. 潜入水中",
+"en": "v. sink below the surface; go under or as if under water / v. cover completely or make imperceptible / v. put under wate…"
+},
+{
+"word": "strenuous",
+"pos": "a",
+"zh": "a. 奋发的, 费劲的, 艰苦的",
+"en": "s. characterized by or performed with much energy or force"
+},
+{
+"word": "saturate",
+"pos": "vt/a/n",
+"zh": "vt. 使渗透, 浸透, 使充满, 使饱和 / a. 浸透的, 饱和度高的, 深颜色的 / n. 饱和化合物, 饱和脂肪酸",
+"en": "v. cause (a chemical compound, vapour, solution, magnetic material) to unite with the greatest possible amount of anothe…"
+},
+{
+"word": "consign",
+"pos": "vt",
+"zh": "vt. 交付, 储蓄, 委托, 寄存 / [经] 托卖, 寄存, 寄销",
+"en": "v. commit forever; commit irrevocably / v. give over to another for care or safekeeping / v. send to an address"
+},
+{
+"word": "vindicate",
+"pos": "vt",
+"zh": "vt. 辩护, 证明...无辜, 维护 / [法] 辩护, 辩解, 辩明",
+"en": "v. maintain, uphold, or defend / v. clear of accusation, blame, suspicion, or doubt with supporting proof"
+},
+{
+"word": "bookshelf",
+"pos": "n",
+"zh": "n. 书架",
+"en": "n. a shelf on which to keep books"
+},
+{
+"word": "cumbersome",
+"pos": "a",
+"zh": "a. 笨重的, 麻烦的, 累赘的",
+"en": "s. difficult to handle or use especially because of size or weight"
+},
+{
+"word": "repel",
+"pos": "vt/vi",
+"zh": "vt. 逐退, 抵制, 使厌恶, 抗御 / vi. 使厌恶, 相互排斥",
+"en": "v. cause to move back by force or influence / v. be repellent to; cause aversion in / v. force or drive back"
+},
+{
+"word": "ferocious",
+"pos": "a",
+"zh": "a. 残忍的, 凶猛的, 可怕的",
+"en": "s. marked by extreme and violent energy"
+},
+{
+"word": "rehabilitate",
+"pos": "vt",
+"zh": "vt. 恢复原状, 修复, 使康复 / [法] 恢复, 使恢复心理健康, 修复",
+"en": "v. help to readapt, as to a former state of health or good repute / v. reinstall politically / v. restore to a state of …"
+},
+{
+"word": "cashier",
+"pos": "n",
+"zh": "n. 出纳员 / [经] 司库, 出纳员, 收支员",
+"en": "n. a person responsible for receiving payments for goods and services (as in a shop or restaurant) / v. discard or do aw…"
+},
+{
+"word": "seismic",
+"pos": "a",
+"zh": "a. 地震的",
+"en": "s. subject to or caused by an earthquake or earth vibration"
+},
+{
+"word": "itinerary",
+"pos": "n/a",
+"zh": "n. 旅程, 旅行指南, 游记 / a. 巡回的, 旅程的",
+"en": "n an established line of travel or access / n a guidebook for travelers / n a proposed route of travel"
+},
+{
+"word": "nibble",
+"pos": "n/v",
+"zh": "n. 少量食物, 细咬, 轻咬, 啃 / v. 一点一点地咬, 细咬, 吹毛求疵 / [计] 半字节",
+"en": "n. gentle biting / v. bite off very small pieces / v. bite gently / v. eat intermittently; take small bites of"
+},
+{
+"word": "gush",
+"pos": "n/v",
+"zh": "n. 涌出, 滔滔不绝地讲话 / v. 涌出, 迸出, 滔滔不绝的讲话",
+"en": "n a sudden rapid flow (as of water) / n an unrestrained expression of emotion / v gush forth in a sudden stream or jet /…"
+},
+{
+"word": "overrun",
+"pos": "n/vt/vi",
+"zh": "n. 蔓延, 风行一时, 超过限度 / vt. 蔓延, 蹂躏, 超过, 泛滥 / vi. 泛滥, 超载限度 / [计] 超限",
+"en": "v. seize the position of and defeat / v. run beyond or past"
+},
+{
+"word": "barricade",
+"pos": "n/vt",
+"zh": "n. 路障, 障碍 / vt. 设路障于, 阻碍",
+"en": "n. a barrier (usually thrown up hastily) to impede the advance of an enemy / v. render unsuitable for passage / v. preve…"
+},
+{
+"word": "dormant",
+"pos": "a",
+"zh": "a. 睡眠状态的, 静止的 / [医] 休眠的, 不活动的, 休止的",
+"en": "s. in a condition of biological rest or suspended animation / a. (of e.g. volcanos) not erupting and not extinct / s. ly…"
+},
+{
+"word": "madden",
+"pos": "vt/vi",
+"zh": "vt. 使发狂, 激怒 / vi. 发狂, 发怒",
+"en": "v. cause to go crazy; cause to lose one's mind / v. drive up the wall; go on someone's nerves / v. make mad"
+},
+{
+"word": "sporadic",
+"pos": "a",
+"zh": "a. 偶尔发生的, 零星发生的, 分散的 / [医] 散在的, 散发的",
+"en": "a. recurring in scattered and irregular or unpredictable instances"
+},
+{
+"word": "intermittent",
+"pos": "a",
+"zh": "a. 间歇的, 断断续续的 / [化] 间歇的; 间断的",
+"en": "s. stopping and starting at irregular intervals"
+},
+{
+"word": "substantiate",
+"pos": "vt",
+"zh": "vt. 使实体化, 证实 / [经] 确证",
+"en": "v. solidify, firm, or strengthen"
+},
+{
+"word": "trample",
+"pos": "n/v",
+"zh": "n. 践踏(声), 蹂躏 / v. 践踏, 无视",
+"en": "n. the sound of heavy treading or stomping / v. injure by trampling or as if by trampling"
+},
+{
+"word": "degenerate",
+"pos": "a/vi/vt",
+"zh": "a. 堕落的 / vi. 退化, 堕落 / vt. 使变质, 使退化",
+"en": "n a person whose behavior deviates from what is acceptable especially in sexual behavior / v grow worse / s unrestrained…"
+},
+{
+"word": "concise",
+"pos": "a",
+"zh": "a. 简洁的, 简明的",
+"en": "a. expressing much in few words"
+},
+{
+"word": "symposium",
+"pos": "n",
+"zh": "n. 讨论会, 座谈会, 专题报告会, 专题论文集",
+"en": "n. a meeting or conference for the public discussion of some topic especially one in which the participants form an audi…"
+},
+{
+"word": "forerunner",
+"pos": "n",
+"zh": "n. 先驱, 前兆",
+"en": "n a person who goes before or announces the coming of another / n something that precedes and indicates the approach of …"
+},
+{
+"word": "doze",
+"pos": "vi/vt/n",
+"zh": "vi. 打瞌睡, 假寐 / vt. 打瞌睡度过 / n. 瞌睡",
+"en": "n. a light fitful sleep"
+},
+{
+"word": "janitor",
+"pos": "n",
+"zh": "n. 守卫, 门警, 管理人 / [医] 幽门",
+"en": "n. someone employed to clean and maintain a building"
+},
+{
+"word": "adjoin",
+"pos": "v",
+"zh": "v. 邻接, 毗连",
+"en": "v. attach or add"
+},
+{
+"word": "kernel",
+"pos": "n",
+"zh": "n. 核心, 中心, 精髓, 内核 / [计] 内核",
+"en": "n. the inner and usually edible part of a seed or grain or nut or fruit stone / n. a single whole grain of a cereal / n.…"
+},
+{
+"word": "inertia",
+"pos": "n",
+"zh": "n. 惯性, 惰性, 迟钝 / [化] 惯性",
+"en": "n. (physics) the tendency of a body to maintain its state of rest or uniform motion unless acted upon by an external for…"
+},
+{
+"word": "torrent",
+"pos": "n",
+"zh": "n. 奔流, 倾盆大雨, 倾注, 迸发",
+"en": "n. a violently fast stream of water (or other liquid)"
+},
+{
+"word": "incite",
+"pos": "vt",
+"zh": "vt. 刺激, 激励, 引诱 / [法] 鼓动, 煽动",
+"en": "v. provoke or stir up"
+},
+{
+"word": "forfeit",
+"pos": "n/vt/a",
+"zh": "n. 没收物, 罚金, 丧失 / vt. 没收, 丧失 / a. 丧失了的",
+"en": "n. something that is lost or surrendered as a penalty;  / n. a penalty for a fault or mistake that involves losing or gi…"
+},
+{
+"word": "coerce",
+"pos": "vt",
+"zh": "vt. 强制, 强迫",
+"en": "v. to cause to do through pressure or necessity, by physical, moral or intellectual means :\"She forced him to take a job…"
+},
+{
+"word": "electrician",
+"pos": "n",
+"zh": "n. 电学家, 电气技师, 电工 / [化] 电工; 电气工人",
+"en": "n. a person who installs or repairs electrical or telephone lines"
+},
+{
+"word": "antagonism",
+"pos": "n",
+"zh": "n. 对立, 敌对, 敌意 / [化] 拮抗作用; 消效作用",
+"en": "n. the relation between opposing principles or forces or factors / n. an actively expressed feeling of dislike and hosti…"
+},
+{
+"word": "overrule",
+"pos": "vt",
+"zh": "vt. 统治, 威压, 打败, 驳回 / [法] 否决, 驳回, 批驳",
+"en": "v. rule against"
+},
+{
+"word": "detriment",
+"pos": "n",
+"zh": "n. 损害, 损害物 / [法] 损害, 伤害, 危害",
+"en": "n. a damage or loss"
+},
+{
+"word": "pervade",
+"pos": "vt",
+"zh": "vt. 弥漫于, 遍及于, 流行于, 蔓延, 渗透于, 充满",
+"en": "v spread or diffuse through"
+},
+{
+"word": "tributary",
+"pos": "a/n",
+"zh": "a. 支流的, 纳贡的, 从属的, 辅助的 / n. 支流, 纳贡者, 属国",
+"en": "s. (of a stream) flowing into a larger stream / s. paying tribute"
+},
+{
+"word": "outcry",
+"pos": "n/vi/vt",
+"zh": "n. 尖叫, 倒彩, 强烈抗议, 喊价 / vi. 喊叫 / vt. 叫得比...响",
+"en": "n a loud utterance; often in protest or opposition / v shout louder than / v utter aloud; often with surprise, horror, o…"
+},
+{
+"word": "allot",
+"pos": "vt",
+"zh": "vt. 分配, 分摊指定 / [经] (按股或按规定)分配, 配(拨)给, 规(派)定",
+"en": "v give out / v allow to have / v administer or bestow, as in small portions"
+},
+{
+"word": "plunder",
+"pos": "n/v",
+"zh": "n. 抢夺, 掠夺品, 战利品 / v. 掠夺, 抢劫, 抢夺",
+"en": "v. steal goods; take as spoils"
+},
+{
+"word": "coward",
+"pos": "n",
+"zh": "n. 懦弱的人, 胆小的人",
+"en": "n. a person who shows fear or timidity / n. English dramatist and actor and composer noted for his witty and sophisticat…"
+},
+{
+"word": "haphazard",
+"pos": "n/a/adv",
+"zh": "n. 偶然性, 偶然事件 / a. 无计划的, 偶然的, 随便的 / adv. 偶然地",
+"en": "s. dependent upon or characterized by chance / s. marked by great carelessness / r. without care; in a slapdash manner"
+},
+{
+"word": "clockwise",
+"pos": "a/adv",
+"zh": "a. 顺时针方向的 / adv. 顺时针方向地",
+"en": "a. in the same direction as the rotating hands of a clock / r. in the direction that the hands of a clock move"
+},
+{
+"word": "hasty",
+"pos": "a",
+"zh": "a. 匆匆的, 轻率的, 性怠的",
+"en": "s. excessively quick / s. done with very great haste and without due deliberation"
+},
+{
+"word": "treatise",
+"pos": "n",
+"zh": "n. 论文, 专著",
+"en": "n. a formal exposition"
+},
+{
+"word": "purge",
+"pos": "n/v",
+"zh": "n. 净化, 清除, 泻药 / v. (使)净化, 清除, (使)通便 / [计] 服务器文件删除实用程序",
+"en": "n. the act of clearing yourself (or another) from some stigma or charge / n. an act of removing by cleansing; ridding of…"
+},
+{
+"word": "maiden",
+"pos": "n/a",
+"zh": "n. 年轻未婚女子, 少女, 处女 / a. 未婚的, 处女的, 初次的, 无经验的",
+"en": "n an unmarried girl (especially a virgin) / n (cricket) an over in which no runs are scored / s serving to set in motion"
+},
+{
+"word": "malice",
+"pos": "n",
+"zh": "n. 恶意, 蓄意害人, 怨恨 / [法] 预谋, 蓄意, 恶意",
+"en": "n. feeling a need to see others suffer"
+},
+{
+"word": "vigilant",
+"pos": "a",
+"zh": "a. 警觉的, 警戒的, 警惕的 / [法] 警醒的, 警戒的, 注意的",
+"en": "s carefully observant or attentive; on the lookout for possible danger"
+},
+{
+"word": "momentous",
+"pos": "a",
+"zh": "a. 重大的, 重要的",
+"en": "s. of very great significance"
+},
+{
+"word": "enlighten",
+"pos": "vt",
+"zh": "vt. 教育, 启发, 启蒙, 开导, 教导",
+"en": "v. make understand / v. give spiritual insight to; in religion"
+},
+{
+"word": "troupe",
+"pos": "n/vi",
+"zh": "n. 团, 班, 一伙 / vi. 巡回演出",
+"en": "n organization of performers and associated personnel (especially theatrical)"
+},
+{
+"word": "onlooker",
+"pos": "n",
+"zh": "n. 旁观者, 袖手旁观者",
+"en": "n. someone who looks on"
+},
+{
+"word": "veterinarian",
+"pos": "n",
+"zh": "n. 兽医 / [医] 兽医",
+"en": "n. a doctor who practices veterinary medicine"
+},
+{
+"word": "dreary",
+"pos": "a",
+"zh": "a. 沉闷的",
+"en": "s lacking in liveliness or charm or surprise / s causing dejection"
+},
+{
+"word": "omen",
+"pos": "n/vt",
+"zh": "n. 预兆, 前兆, 征兆 / vt. 预示, 有...的前兆, 显出...的预兆",
+"en": "n. a sign of something about to happen"
+},
+{
+"word": "superstition",
+"pos": "n",
+"zh": "n. 迷信 / [法] 迷信",
+"en": "n. an irrational belief arising from ignorance or fear"
+},
+{
+"word": "layman",
+"pos": "n",
+"zh": "n. 俗人, 门外汉, 凡人 / [医] 外行, 业外人",
+"en": "n. someone who is not a clergyman or a professional person"
+},
+{
+"word": "evict",
+"pos": "vt",
+"zh": "vt. 逐出, 赶出, 驱逐 / [法] 逐出, 驱逐, 没收",
+"en": "v. expel or eject without recourse to legal process / v. expel from one's property or force to move out by a legal proce…"
+},
+{
+"word": "sabotage",
+"pos": "n/vi/vt",
+"zh": "n. 怠工, 破坏活动, 破坏 / vi. 从事破坏活动 / vt. 妨害, 破坏",
+"en": "n. a deliberate act of destruction or disruption in which equipment is damaged / v. destroy property or hinder normal op…"
+},
+{
+"word": "subdue",
+"pos": "vt",
+"zh": "vt. 使服从, 压制, 减弱, 抑制, 克制",
+"en": "v put down by force or intimidation / v to put down by force or authority / v hold within limits and control / v get on …"
+},
+{
+"word": "pompous",
+"pos": "a",
+"zh": "a. 爱炫耀的, 虚夸的, 盛大的",
+"en": "a. characterized by pomp and ceremony and stately display"
+},
+{
+"word": "subtitle",
+"pos": "n",
+"zh": "n. 副标题",
+"en": "n. translation of foreign dialogue of a movie or TV program; usually displayed at the bottom of the screen / n. secondar…"
+},
+{
+"word": "fluctuate",
+"pos": "vi/vt",
+"zh": "vi. 变动, 起伏, 动摇 / vt. 使波动, 使动摇",
+"en": "v. cause to fluctuate or move in a wavelike pattern / v. move or sway in a rising and falling or wavelike pattern / v. b…"
+},
+{
+"word": "conqueror",
+"pos": "n",
+"zh": "n. 征服者, 胜利者",
+"en": "n. someone who is victorious by force of arms"
+},
+{
+"word": "commotion",
+"pos": "n",
+"zh": "n. 骚动, 暴乱 / [医] 震荡",
+"en": "n. the act of making a noisy disturbance"
+},
+{
+"word": "weld",
+"pos": "n/vt/vi",
+"zh": "n. 焊接处, 焊接 / vt. 焊接, 使密接, 使结合, 使成整体 / vi. 焊牢",
+"en": "n. United States abolitionist (1803-1895) / n. a metal joint formed by softening with heat and fusing or hammering toget…"
+},
+{
+"word": "scorn",
+"pos": "n/vt",
+"zh": "n. 轻蔑, 藐视, 嘲笑, 被嘲弄的人 / vt. 轻蔑, 不屑做",
+"en": "n lack of respect accompanied by a feeling of intense dislike / n open disrespect for a person or thing / v look down on…"
+},
+{
+"word": "etiquette",
+"pos": "n",
+"zh": "n. 礼仪, 礼节, 成规 / [法] 规则, 成规, 礼节",
+"en": "n. rules governing socially acceptable behavior"
+},
+{
+"word": "miscarriage",
+"pos": "n",
+"zh": "n. 失败, 误送, 流产 / [医] 流产",
+"en": "n. failure of a plan"
+},
+{
+"word": "queer",
+"pos": "n/a/vt",
+"zh": "n. 怪人, 同性恋者 / a. 奇怪的, 不舒服的, 可疑的 / vt. 搞糟",
+"en": "v. put in a dangerous, disadvantageous, or difficult position"
+},
+{
+"word": "diffuse",
+"pos": "v/a",
+"zh": "v. 散播, 传播 / a. 散开的, 弥漫的",
+"en": "v. move outward / s. spread out; not concentrated in one place / s. lacking conciseness"
+},
+{
+"word": "sanitary",
+"pos": "a/n",
+"zh": "a. 卫生的 / n. 公共厕所",
+"en": "a. free from filth and pathogens"
+},
+{
+"word": "wither",
+"pos": "vt/vi",
+"zh": "vt. 使凋谢, 使消亡, 使畏缩 / vi. 枯萎, 衰退",
+"en": "v wither, as with a loss of moisture / v lose freshness, vigor, or vitality"
+},
+{
+"word": "pounce",
+"pos": "n/vi/vt",
+"zh": "n. 猛扑, 爪 / vi. 猛扑, 突袭 / vt. 扑住",
+"en": "n. the act of pouncing / v. move down on as if in an attack"
+},
+{
+"word": "obligatory",
+"pos": "a",
+"zh": "a. 义务的, 必须的, 强制性的 / [法] 有拘束的, 强制的, 必须的",
+"en": "a. morally or legally constraining or binding / s. required by obligation or compulsion or convention"
+},
+{
+"word": "desolate",
+"pos": "a",
+"zh": "a. 荒凉的",
+"en": "s. crushed by grief"
+},
+{
+"word": "ransom",
+"pos": "n/vt",
+"zh": "n. 赎金, 赎身, 赎回 / vt. 赎, 赎身, 赎回, 勒索赎金",
+"en": "n. money demanded for the return of a captured person / n. payment for the release of someone / n. the act of freeing fr…"
+},
+{
+"word": "indignant",
+"pos": "a",
+"zh": "a. 愤怒的, 愤慨的",
+"en": "s. angered at something unjust or wrong"
+},
+{
+"word": "neurotic",
+"pos": "n/a",
+"zh": "n. 神经症患者 / a. 神经质的, 神经症的",
+"en": "n. a person suffering from neurosis / a. characteristic of or affected by neurosis / a. affected with emotional disorder"
+},
+{
+"word": "blot",
+"pos": "n/vt/vi",
+"zh": "n. 污点, 墨水渍 / vt. 乱涂, 使模糊, 吸干 / vi. 弄上墨渍, 吸墨水",
+"en": "n. an act that brings discredit to the person who does it / v. dry (ink) with blotting paper"
+},
+{
+"word": "tacit",
+"pos": "a",
+"zh": "a. 沉默寡言的, 不苟言笑的, 缄默的",
+"en": "s implied by or inferred from actions or statements"
+},
+{
+"word": "protrude",
+"pos": "vi/vt",
+"zh": "vi. 伸出, 突出 / vt. 使伸出, 使突出",
+"en": "v extend out or project in space / v bulge outward / v swell or protrude outwards"
+},
+{
+"word": "trifle",
+"pos": "n/vt/vi",
+"zh": "n. 琐事, 少量 / vt. 浪费 / vi. 开玩笑, 翻弄, 虚度光阴",
+"en": "n. a cold pudding made of layers of sponge cake spread with fruit or jelly; may be decorated with nuts, cream, or chocol…"
+}
+]

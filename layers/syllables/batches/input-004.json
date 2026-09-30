@@ -1,0 +1,583 @@
+[
+ {
+  "word": "quagmire",
+  "split": "quag·mire",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'kwæ^maiә"
+ },
+ {
+  "word": "firefly",
+  "split": "fire·fly",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'faiәflai"
+ },
+ {
+  "word": "sapphire",
+  "split": "sap·phire",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'sæfaiә"
+ },
+ {
+  "word": "sporadically",
+  "split": "spo·rad·i·cal·ly",
+  "source": "moby",
+  "ref": 4,
+  "ipa": ""
+ },
+ {
+  "word": "sentient",
+  "split": "sen·ti·ent",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'senʃәnt"
+ },
+ {
+  "word": "inasmuch",
+  "split": "inas·much",
+  "source": "pyphen",
+  "ref": 3,
+  "ipa": ".inәz'mʌtʃ"
+ },
+ {
+  "word": "cannibalism",
+  "split": "can·ni·bal·ism",
+  "source": "moby",
+  "ref": 5,
+  "ipa": "'kænibәlizm"
+ },
+ {
+  "word": "organically",
+  "split": "or·gan·i·cal·ly",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "ɒ:'gænikli"
+ },
+ {
+  "word": "neurotransmitter",
+  "split": "neu·ro·trans·mit·ter",
+  "source": "pyphen",
+  "ref": 0,
+  "ipa": ",njuәrәtræns'mitә"
+ },
+ {
+  "word": "schism",
+  "split": "schism",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'sizm"
+ },
+ {
+  "word": "ascetic",
+  "split": "ascetic",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "ә'setik"
+ },
+ {
+  "word": "cubism",
+  "split": "cub·ism",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'kju:bizm"
+ },
+ {
+  "word": "lithosphere",
+  "split": "lith·o·sphere",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'liθәu.sfiә"
+ },
+ {
+  "word": "wiretap",
+  "split": "wire·tap",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'waiәtæp"
+ },
+ {
+  "word": "plagiarism",
+  "split": "pla·gia·rism",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "'pleidʒiәrizm"
+ },
+ {
+  "word": "temperamental",
+  "split": "tem·per·a·men·tal",
+  "source": "moby",
+  "ref": 4,
+  "ipa": ".temprә'mentl"
+ },
+ {
+  "word": "narcissism",
+  "split": "nar·cis·sism",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "nɑ:'sisizm"
+ },
+ {
+  "word": "windbreaker",
+  "split": "wind·break·er",
+  "source": "moby",
+  "ref": 1,
+  "ipa": "'wind.breikә"
+ },
+ {
+  "word": "gaiety",
+  "split": "gai·e·ty",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'geiәti"
+ },
+ {
+  "word": "chauvinism",
+  "split": "chau·vin·ism",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "'ʃәuvinizm"
+ },
+ {
+  "word": "semicircle",
+  "split": "sem·i·cir·cle",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'semi.sә:kl"
+ },
+ {
+  "word": "naysayer",
+  "split": "naysay·er",
+  "source": "pyphen",
+  "ref": 3,
+  "ipa": ""
+ },
+ {
+  "word": "personage",
+  "split": "per·son·age",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'pә:snidʒ"
+ },
+ {
+  "word": "subspecies",
+  "split": "sub·spe·cies",
+  "source": "moby",
+  "ref": 1,
+  "ipa": "'sʌb.spi:ʃi:z"
+ },
+ {
+  "word": "alias",
+  "split": "alias",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'eiliæs"
+ },
+ {
+  "word": "sinuous",
+  "split": "sin·u·ous",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'sinjuәs"
+ },
+ {
+  "word": "cranial",
+  "split": "cra·ni·al",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'kreiniәl"
+ },
+ {
+  "word": "aphorism",
+  "split": "aph·o·rism",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "'æfәrizm"
+ },
+ {
+  "word": "erratically",
+  "split": "er·rat·i·cal·ly",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "i'rætikәli"
+ },
+ {
+  "word": "corporeal",
+  "split": "cor·po·re·al",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "kɒ:'pɒ:riәl"
+ },
+ {
+  "word": "leniency",
+  "split": "le·ni·en·cy",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'li:njәnsi"
+ },
+ {
+  "word": "saleswoman",
+  "split": "sales·woman",
+  "source": "pyphen",
+  "ref": 3,
+  "ipa": "'seilzwumәn"
+ },
+ {
+  "word": "assiduous",
+  "split": "as·sid·u·ous",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "ә'sidjuәs"
+ },
+ {
+  "word": "videocassette",
+  "split": "video·cas·sette",
+  "source": "pyphen",
+  "ref": 5,
+  "ipa": "ˌvɪdɪəʊkə'set"
+ },
+ {
+  "word": "fatalism",
+  "split": "fa·tal·ism",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "'feitәlizm"
+ },
+ {
+  "word": "topographical",
+  "split": "topo·graph·i·cal",
+  "source": "pyphen",
+  "ref": 0,
+  "ipa": ",tɔpә'^ræfikәl"
+ },
+ {
+  "word": "impetuous",
+  "split": "im·pet·u·ous",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "im'petʃuәs"
+ },
+ {
+  "word": "physiotherapist",
+  "split": "phys·i·o·ther·a·pist",
+  "source": "moby",
+  "ref": 0,
+  "ipa": ""
+ },
+ {
+  "word": "playgroup",
+  "split": "play·group",
+  "source": "pyphen",
+  "ref": 0,
+  "ipa": ""
+ },
+ {
+  "word": "camcorder",
+  "split": "cam·corder",
+  "source": "pyphen",
+  "ref": 3,
+  "ipa": "kæm'kɔ:dә"
+ },
+ {
+  "word": "notoriety",
+  "split": "no·to·ri·ety",
+  "source": "pyphen",
+  "ref": 5,
+  "ipa": ".nәutә'raiәti"
+ },
+ {
+  "word": "pragmatism",
+  "split": "prag·ma·tism",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "'prægmәtizm"
+ },
+ {
+  "word": "gruelling",
+  "split": "gru·el·ling",
+  "source": "moby",
+  "ref": 0,
+  "ipa": ""
+ },
+ {
+  "word": "holidaymaker",
+  "split": "hol·i·day·mak·er",
+  "source": "pyphen",
+  "ref": 3,
+  "ipa": "'hɒlәdi.meikә"
+ },
+ {
+  "word": "furore",
+  "split": "fu·rore",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "fju:'rɔ:ri"
+ },
+ {
+  "word": "homophobia",
+  "split": "ho·mo·pho·bia",
+  "source": "pyphen",
+  "ref": 5,
+  "ipa": ",hәumә'fәubiә"
+ },
+ {
+  "word": "mackerel",
+  "split": "macke·rel",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'mækәrәl"
+ },
+ {
+  "word": "karaoke",
+  "split": "karaoke",
+  "source": "pyphen",
+  "ref": 4,
+  "ipa": "'kærә.әuki. kærә'әuki"
+ },
+ {
+  "word": "dynamism",
+  "split": "dy·na·mism",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "'dainәmizm"
+ },
+ {
+  "word": "captaincy",
+  "split": "cap·tain·cy",
+  "source": "moby",
+  "ref": 0,
+  "ipa": ""
+ },
+ {
+  "word": "promiscuous",
+  "split": "pro·mis·cu·ous",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "prә'miskjuәs"
+ },
+ {
+  "word": "microchip",
+  "split": "mi·crochip",
+  "source": "pyphen",
+  "ref": 3,
+  "ipa": "'maikrәjtʃip"
+ },
+ {
+  "word": "courgette",
+  "split": "cour·gette",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "ku:ә'ʒet"
+ },
+ {
+  "word": "aromatherapy",
+  "split": "aro·mather·a·py",
+  "source": "pyphen",
+  "ref": 6,
+  "ipa": "ərəʊmə'θerəpɪ"
+ },
+ {
+  "word": "franchisee",
+  "split": "fran·chisee",
+  "source": "pyphen",
+  "ref": 3,
+  "ipa": ".fræntʃai'zi:"
+ },
+ {
+  "word": "workaholic",
+  "split": "worka·holic",
+  "source": "pyphen",
+  "ref": 4,
+  "ipa": ".wә:kә'hɒlik"
+ },
+ {
+  "word": "fluoride",
+  "split": "flu·o·ride",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'flu(:)әraid"
+ },
+ {
+  "word": "javelin",
+  "split": "jave·lin",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'dʒævlin"
+ },
+ {
+  "word": "cellulite",
+  "split": "cel·lulite",
+  "source": "pyphen",
+  "ref": 3,
+  "ipa": "ˈseljulaɪt"
+ },
+ {
+  "word": "iconographic",
+  "split": "i·con·o·graph·ic",
+  "source": "moby",
+  "ref": 1,
+  "ipa": "ai.kɔnә'ɡræfik"
+ },
+ {
+  "word": "cataclysm",
+  "split": "cat·a·clysm",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "'kætәklizm"
+ },
+ {
+  "word": "nihilism",
+  "split": "ni·hil·ism",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "'naiilizm"
+ },
+ {
+  "word": "filial",
+  "split": "fil·ial",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'filiәl"
+ },
+ {
+  "word": "reptilian",
+  "split": "rep·til·i·an",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "rep'tiliәn"
+ },
+ {
+  "word": "facelift",
+  "split": "facelift",
+  "source": "pyphen",
+  "ref": 2,
+  "ipa": ""
+ },
+ {
+  "word": "ruffian",
+  "split": "ruf·fi·an",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'rʌfiәn"
+ },
+ {
+  "word": "nepotism",
+  "split": "nep·o·tism",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "'nepәtizm"
+ },
+ {
+  "word": "multifarious",
+  "split": "mul·ti·far·i·ous",
+  "source": "moby",
+  "ref": 4,
+  "ipa": ".mʌlti'fєәriәs"
+ },
+ {
+  "word": "seabed",
+  "split": "seabed",
+  "source": "pyphen",
+  "ref": 2,
+  "ipa": "'si:bed"
+ },
+ {
+  "word": "marionette",
+  "split": "mar·i·on·ette",
+  "source": "moby",
+  "ref": 3,
+  "ipa": ".mæriә'net"
+ },
+ {
+  "word": "stickler",
+  "split": "stick·ler",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'stiklә"
+ },
+ {
+  "word": "fascia",
+  "split": "fas·ci·a",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'feiʃiә"
+ },
+ {
+  "word": "discomfiture",
+  "split": "dis·com·fi·ture",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "-fitʃә"
+ },
+ {
+  "word": "cabinetmaker",
+  "split": "cab·i·net·mak·er",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'kæbinit.meikә"
+ },
+ {
+  "word": "dogmatism",
+  "split": "dog·ma·tism",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "'dɒgmәtizm"
+ },
+ {
+  "word": "pyre",
+  "split": "pyre",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'paiә"
+ },
+ {
+  "word": "firebrand",
+  "split": "fire·brand",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'faiәbrænd"
+ },
+ {
+  "word": "ennui",
+  "split": "en·nui",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'ɒnwi:"
+ },
+ {
+  "word": "empiricism",
+  "split": "em·pir·i·cism",
+  "source": "moby",
+  "ref": 5,
+  "ipa": "em'pirisizm"
+ },
+ {
+  "word": "algorithm",
+  "split": "al·go·rithm",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "'ælgәriðm"
+ },
+ {
+  "word": "factorial",
+  "split": "fac·to·ri·al",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "fæk'tɒ:riәl"
+ },
+ {
+  "word": "globalization",
+  "split": "glob·al·iza·tion",
+  "source": "pyphen",
+  "ref": 5,
+  "ipa": ",^lәjbәlai'zeiʃәn;-li'z-"
+ },
+ {
+  "word": "nationalism",
+  "split": "na·tion·al·ism",
+  "source": "moby",
+  "ref": 5,
+  "ipa": "'næʃәnәlizm"
+ }
+]

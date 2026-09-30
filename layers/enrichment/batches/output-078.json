@@ -1,0 +1,1686 @@
+{
+ "custodian": {
+  "gloss": "保管人，监护人；(大楼的)管理员，看门人",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "guardian",
+   "keeper",
+   "caretaker",
+   "janitor"
+  ],
+  "antonyms": []
+ },
+ "detest": {
+  "gloss": "憎恶，厌恶",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "detect"
+  ],
+  "synonyms": [
+   "hate",
+   "loathe",
+   "abhor",
+   "despise"
+  ],
+  "antonyms": [
+   "adore",
+   "love"
+  ]
+ },
+ "upkeep": {
+  "gloss": "维护，保养；维修费，养护费",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "maintenance",
+   "preservation"
+  ],
+  "antonyms": [
+   "neglect"
+  ]
+ },
+ "everlasting": {
+  "gloss": "永恒的，永久的；没完没了的",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "eternal",
+   "perpetual",
+   "endless"
+  ],
+  "antonyms": [
+   "temporary",
+   "transient",
+   "fleeting"
+  ]
+ },
+ "palatable": {
+  "gloss": "可口的；(想法、建议)可接受的",
+  "trap": "常用比喻义“可接受的”，不只是“好吃”；palpable 是“明显的”",
+  "root": null,
+  "confusable": [
+   "palpable"
+  ],
+  "synonyms": [
+   "tasty",
+   "acceptable",
+   "agreeable"
+  ],
+  "antonyms": [
+   "unpalatable",
+   "distasteful"
+  ]
+ },
+ "optic": {
+  "gloss": "眼睛的，视觉的；光学的；n. 镜片，光纤",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "visual",
+   "ocular"
+  ],
+  "antonyms": []
+ },
+ "supposition": {
+  "gloss": "假定，假设；推测",
+  "trap": "",
+  "root": {
+   "key": "pos",
+   "meaning": "放置",
+   "match": "pos"
+  },
+  "confusable": [
+   "superstition"
+  ],
+  "synonyms": [
+   "assumption",
+   "hypothesis",
+   "conjecture",
+   "presumption"
+  ],
+  "antonyms": [
+   "fact",
+   "certainty"
+  ]
+ },
+ "tenacious": {
+  "gloss": "顽强的，坚持不懈的；紧握不放的；(记忆)持久的",
+  "trap": "",
+  "root": {
+   "key": "ten",
+   "meaning": "持有",
+   "match": "ten"
+  },
+  "confusable": [],
+  "synonyms": [
+   "persistent",
+   "stubborn",
+   "dogged",
+   "determined"
+  ],
+  "antonyms": [
+   "yielding",
+   "irresolute"
+  ]
+ },
+ "pretentious": {
+  "gloss": "自命不凡的，装腔作势的，矫饰的",
+  "trap": "不是“假装的”(pretended)，是“装腔作势、自命不凡的”",
+  "root": {
+   "key": "tend",
+   "meaning": "伸展",
+   "match": "ten"
+  },
+  "confusable": [],
+  "synonyms": [
+   "pompous",
+   "ostentatious",
+   "showy",
+   "affected"
+  ],
+  "antonyms": [
+   "modest",
+   "unpretentious"
+  ]
+ },
+ "reproach": {
+  "gloss": "责备，指责；n. 耻辱，丢脸",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "approach",
+   "reprove"
+  ],
+  "synonyms": [
+   "rebuke",
+   "blame",
+   "scold",
+   "censure"
+  ],
+  "antonyms": [
+   "praise",
+   "commend"
+  ]
+ },
+ "fallacy": {
+  "gloss": "谬论，谬误；错误的推理",
+  "trap": "与 fall(落下)无关，来自拉丁 fallere“欺骗”(同 false)",
+  "root": {
+   "key": "fall",
+   "meaning": "欺骗",
+   "match": "fall"
+  },
+  "confusable": [],
+  "synonyms": [
+   "misconception",
+   "myth",
+   "delusion",
+   "error"
+  ],
+  "antonyms": [
+   "truth",
+   "fact"
+  ]
+ },
+ "piecemeal": {
+  "gloss": "零碎地，一点一点地；零散的，不系统的",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "gradual",
+   "fragmentary",
+   "incremental"
+  ],
+  "antonyms": [
+   "wholesale",
+   "comprehensive"
+  ]
+ },
+ "pester": {
+  "gloss": "纠缠，烦扰，不断打扰",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "pastor",
+   "poster"
+  ],
+  "synonyms": [
+   "bother",
+   "harass",
+   "nag",
+   "badger"
+  ],
+  "antonyms": []
+ },
+ "escalator": {
+  "gloss": "自动扶梯",
+  "trap": "escalate“升级、加剧”是由此词逆构而来",
+  "root": {
+   "key": "scal",
+   "meaning": "梯子/攀登",
+   "match": "scal"
+  },
+  "confusable": [
+   "elevator"
+  ],
+  "synonyms": [],
+  "antonyms": []
+ },
+ "discord": {
+  "gloss": "不和，争执；(音乐)不和谐音",
+  "trap": "dis(分)+cord(心)→不同心；Discord 也是聊天软件名",
+  "root": {
+   "key": "cord",
+   "meaning": "心",
+   "match": "cord"
+  },
+  "confusable": [
+   "discard"
+  ],
+  "synonyms": [
+   "conflict",
+   "disagreement",
+   "strife",
+   "dissension"
+  ],
+  "antonyms": [
+   "harmony",
+   "concord",
+   "accord"
+  ]
+ },
+ "exasperate": {
+  "gloss": "激怒，使恼火",
+  "trap": "不是“使恶化”(exacerbate)，是“激怒”",
+  "root": null,
+  "confusable": [
+   "exacerbate"
+  ],
+  "synonyms": [
+   "infuriate",
+   "irritate",
+   "annoy",
+   "enrage"
+  ],
+  "antonyms": [
+   "soothe",
+   "calm",
+   "placate"
+  ]
+ },
+ "barometer": {
+  "gloss": "气压计；(比喻)晴雨表，风向标",
+  "trap": "",
+  "root": {
+   "key": "metr",
+   "meaning": "测量",
+   "match": "meter"
+  },
+  "confusable": [
+   "thermometer"
+  ],
+  "synonyms": [
+   "gauge",
+   "indicator"
+  ],
+  "antonyms": []
+ },
+ "gist": {
+  "gloss": "要点，主旨，大意",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "jest",
+   "gust"
+  ],
+  "synonyms": [
+   "essence",
+   "substance",
+   "core",
+   "point"
+  ],
+  "antonyms": []
+ },
+ "deft": {
+  "gloss": "灵巧的，熟练的，娴熟的",
+  "trap": "daft 是“傻的”，deft 是“灵巧的”",
+  "root": null,
+  "confusable": [
+   "daft",
+   "deaf"
+  ],
+  "synonyms": [
+   "skillful",
+   "adroit",
+   "dexterous",
+   "nimble"
+  ],
+  "antonyms": [
+   "clumsy",
+   "awkward"
+  ]
+ },
+ "mercenary": {
+  "gloss": "雇佣兵；唯利是图的，只为钱的",
+  "trap": "",
+  "root": {
+   "key": "merc",
+   "meaning": "交易/报酬",
+   "match": "merc"
+  },
+  "confusable": [
+   "merciful",
+   "missionary"
+  ],
+  "synonyms": [
+   "greedy",
+   "venal",
+   "materialistic"
+  ],
+  "antonyms": [
+   "altruistic",
+   "selfless"
+  ]
+ },
+ "mannerism": {
+  "gloss": "(个人的)习惯性小动作，怪癖；矫揉造作；风格主义",
+  "trap": "指个人特有的小动作、口头禅，不是“礼貌”(manners)",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "habit",
+   "quirk",
+   "idiosyncrasy",
+   "affectation"
+  ],
+  "antonyms": []
+ },
+ "expedient": {
+  "gloss": "权宜之计；权宜的，图方便(而非正当)的；适宜的",
+  "trap": "ex+ped(脚)：把脚解开→便利；常含只图方便不顾原则之意",
+  "root": {
+   "key": "ped",
+   "meaning": "脚",
+   "match": "ped"
+  },
+  "confusable": [],
+  "synonyms": [
+   "convenient",
+   "advantageous",
+   "practical",
+   "pragmatic"
+  ],
+  "antonyms": [
+   "inexpedient",
+   "principled"
+  ]
+ },
+ "intelligible": {
+  "gloss": "可理解的，明白易懂的；(语音)清晰可辨的",
+  "trap": "不是“聪明的”(intelligent)，是“可理解的”",
+  "root": {
+   "key": "leg",
+   "meaning": "法律/选择/读",
+   "match": "lig"
+  },
+  "confusable": [],
+  "synonyms": [
+   "comprehensible",
+   "understandable",
+   "clear",
+   "lucid"
+  ],
+  "antonyms": [
+   "unintelligible",
+   "incomprehensible"
+  ]
+ },
+ "incipient": {
+  "gloss": "初期的，刚开始的，萌芽的",
+  "trap": "别与 insipid(乏味的)混；in+cip(拿)→着手",
+  "root": {
+   "key": "cap",
+   "meaning": "拿/头",
+   "match": "cip"
+  },
+  "confusable": [
+   "insipid"
+  ],
+  "synonyms": [
+   "initial",
+   "nascent",
+   "embryonic",
+   "budding"
+  ],
+  "antonyms": [
+   "mature",
+   "full-blown"
+  ]
+ },
+ "sterilize": {
+  "gloss": "消毒，灭菌；使绝育；使无效",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "disinfect",
+   "sanitize",
+   "neuter"
+  ],
+  "antonyms": [
+   "contaminate",
+   "infect"
+  ]
+ },
+ "maniac": {
+  "gloss": "疯子，狂人；(某事的)狂热者；疯狂的",
+  "trap": "",
+  "root": {
+   "key": "mania",
+   "meaning": "狂",
+   "match": "mania"
+  },
+  "confusable": [],
+  "synonyms": [
+   "lunatic",
+   "madman",
+   "fanatic",
+   "psychopath"
+  ],
+  "antonyms": []
+ },
+ "invincible": {
+  "gloss": "不可战胜的，无敌的",
+  "trap": "in(不)+vinc(征服)；不是“看不见的”(invisible)",
+  "root": {
+   "key": "vinc",
+   "meaning": "征服",
+   "match": "vinc"
+  },
+  "confusable": [
+   "invisible"
+  ],
+  "synonyms": [
+   "unbeatable",
+   "unconquerable",
+   "indomitable"
+  ],
+  "antonyms": [
+   "vulnerable",
+   "beatable"
+  ]
+ },
+ "dingy": {
+  "gloss": "昏暗肮脏的，破旧的，邋遢的",
+  "trap": "dinghy 是“小艇”，dingy 是“昏暗肮脏的”",
+  "root": null,
+  "confusable": [
+   "dinghy",
+   "dingo"
+  ],
+  "synonyms": [
+   "drab",
+   "shabby",
+   "grimy",
+   "gloomy"
+  ],
+  "antonyms": [
+   "bright",
+   "clean"
+  ]
+ },
+ "gaudy": {
+  "gloss": "俗艳的，花哨的，华而不实的",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "gawky"
+  ],
+  "synonyms": [
+   "garish",
+   "flashy",
+   "showy",
+   "tacky"
+  ],
+  "antonyms": [
+   "tasteful",
+   "plain",
+   "subtle"
+  ]
+ },
+ "tranquility": {
+  "gloss": "宁静，平静，安宁",
+  "trap": "英式拼写 tranquillity(双 l)",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "calm",
+   "peace",
+   "serenity",
+   "quiet"
+  ],
+  "antonyms": [
+   "turmoil",
+   "chaos",
+   "agitation"
+  ]
+ },
+ "genial": {
+  "gloss": "亲切的，和蔼的，友好的；(气候)温和宜人的",
+  "trap": "不是“天才的”(genius)，是“和蔼的”；医学义“颏的”极少用",
+  "root": {
+   "key": "gen",
+   "meaning": "产生/种族",
+   "match": "gen"
+  },
+  "confusable": [
+   "genuine"
+  ],
+  "synonyms": [
+   "friendly",
+   "affable",
+   "cordial",
+   "amiable"
+  ],
+  "antonyms": [
+   "unfriendly",
+   "surly"
+  ]
+ },
+ "secondhand": {
+  "gloss": "二手的，旧的；间接得来的；间接地",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "used",
+   "preowned",
+   "indirect"
+  ],
+  "antonyms": [
+   "new",
+   "firsthand"
+  ]
+ },
+ "placard": {
+  "gloss": "标语牌，海报，布告；张贴(海报)",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "placate",
+   "placid"
+  ],
+  "synonyms": [
+   "poster",
+   "sign",
+   "notice",
+   "banner"
+  ],
+  "antonyms": []
+ },
+ "negotiable": {
+  "gloss": "可协商的；(支票等)可转让、可流通的；可通行的",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "adjustable",
+   "transferable",
+   "flexible"
+  ],
+  "antonyms": [
+   "nonnegotiable",
+   "fixed"
+  ]
+ },
+ "elated": {
+  "gloss": "兴高采烈的，欢欣鼓舞的",
+  "trap": "",
+  "root": {
+   "key": "lat",
+   "meaning": "携带",
+   "match": "lat"
+  },
+  "confusable": [
+   "belated"
+  ],
+  "synonyms": [
+   "overjoyed",
+   "ecstatic",
+   "exultant",
+   "thrilled"
+  ],
+  "antonyms": [
+   "dejected",
+   "depressed"
+  ]
+ },
+ "repent": {
+  "gloss": "悔改，忏悔，后悔",
+  "trap": "与 penalty 同源：为过错“付出代价”→悔改",
+  "root": {
+   "key": "pen",
+   "meaning": "惩罚/懊悔",
+   "match": "pen"
+  },
+  "confusable": [
+   "repel"
+  ],
+  "synonyms": [
+   "regret",
+   "rue",
+   "atone"
+  ],
+  "antonyms": []
+ },
+ "scalpel": {
+  "gloss": "手术刀，解剖刀",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "scalp",
+   "scallop"
+  ],
+  "synonyms": [
+   "knife",
+   "lancet"
+  ],
+  "antonyms": []
+ },
+ "circumference": {
+  "gloss": "圆周，周长；周边，外围",
+  "trap": "",
+  "root": {
+   "key": "circ",
+   "meaning": "环",
+   "match": "circ"
+  },
+  "confusable": [],
+  "synonyms": [
+   "perimeter",
+   "periphery",
+   "boundary"
+  ],
+  "antonyms": [
+   "center"
+  ]
+ },
+ "paraphernalia": {
+  "gloss": "(某活动的)全套用具，装备；随身物品",
+  "trap": "原义是新娘嫁妆之外的“私人财产”",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "equipment",
+   "gear",
+   "apparatus",
+   "accessories"
+  ],
+  "antonyms": []
+ },
+ "obsess": {
+  "gloss": "使着迷，使心神不宁；be obsessed with 沉迷于",
+  "trap": "ob(对着)+sess(坐)：像鬼魂坐在你面前不走→纠缠",
+  "root": {
+   "key": "sed",
+   "meaning": "坐",
+   "match": "sess"
+  },
+  "confusable": [
+   "possess",
+   "abscess"
+  ],
+  "synonyms": [
+   "preoccupy",
+   "haunt",
+   "consume",
+   "fixate"
+  ],
+  "antonyms": []
+ },
+ "holocaust": {
+  "gloss": "大屠杀；(the Holocaust)纳粹屠犹；大浩劫",
+  "trap": "holo(全)+caust(烧)：原指“全烧祭”",
+  "root": {
+   "key": "holo",
+   "meaning": "全部",
+   "match": "holo"
+  },
+  "confusable": [],
+  "synonyms": [
+   "massacre",
+   "genocide",
+   "carnage",
+   "catastrophe"
+  ],
+  "antonyms": []
+ },
+ "cola": {
+  "gloss": "可乐(饮料)；可乐果(树)",
+  "trap": "colon(结肠)的复数也拼作 cola，但日常几乎只指可乐",
+  "root": null,
+  "confusable": [
+   "colon",
+   "koala"
+  ],
+  "synonyms": [
+   "soda"
+  ],
+  "antonyms": []
+ },
+ "potion": {
+  "gloss": "药水，魔药；(一剂)饮剂",
+  "trap": "来自拉丁 potare“喝”(同 potable)；不是 portion(部分)",
+  "root": null,
+  "confusable": [
+   "portion"
+  ],
+  "synonyms": [
+   "elixir",
+   "brew",
+   "draught"
+  ],
+  "antonyms": []
+ },
+ "caustic": {
+  "gloss": "腐蚀性的；(言语)刻薄的，尖刻的；腐蚀剂",
+  "trap": "",
+  "root": {
+   "key": "caust",
+   "meaning": "烧",
+   "match": "caust"
+  },
+  "confusable": [
+   "cautious"
+  ],
+  "synonyms": [
+   "corrosive",
+   "sarcastic",
+   "biting",
+   "acerbic"
+  ],
+  "antonyms": [
+   "mild",
+   "gentle"
+  ]
+ },
+ "alphabetical": {
+  "gloss": "按字母顺序的",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [],
+  "antonyms": []
+ },
+ "lenient": {
+  "gloss": "宽容的，宽大的，仁慈的",
+  "trap": "",
+  "root": {
+   "key": "len",
+   "meaning": "柔软/温和",
+   "match": "len"
+  },
+  "confusable": [],
+  "synonyms": [
+   "tolerant",
+   "permissive",
+   "merciful",
+   "indulgent"
+  ],
+  "antonyms": [
+   "strict",
+   "harsh",
+   "severe"
+  ]
+ },
+ "appreciable": {
+  "gloss": "可观的，相当大的；可察觉的",
+  "trap": "常指“可观的、明显的”(差异/数量)，不是“值得欣赏的”",
+  "root": {
+   "key": "prec",
+   "meaning": "价格",
+   "match": "prec"
+  },
+  "confusable": [],
+  "synonyms": [
+   "noticeable",
+   "considerable",
+   "significant",
+   "substantial"
+  ],
+  "antonyms": [
+   "negligible",
+   "imperceptible"
+  ]
+ },
+ "engross": {
+  "gloss": "使全神贯注，吸引住；正式誊写；囤积",
+  "trap": "be engrossed in 沉浸于；源于“大字誊写”(en gros)",
+  "root": null,
+  "confusable": [
+   "engorge"
+  ],
+  "synonyms": [
+   "absorb",
+   "captivate",
+   "preoccupy",
+   "immerse"
+  ],
+  "antonyms": [
+   "bore",
+   "distract"
+  ]
+ },
+ "perplex": {
+  "gloss": "使困惑，使迷惑不解",
+  "trap": "",
+  "root": {
+   "key": "plic",
+   "meaning": "折叠",
+   "match": "plex"
+  },
+  "confusable": [
+   "complex"
+  ],
+  "synonyms": [
+   "confuse",
+   "puzzle",
+   "baffle",
+   "bewilder"
+  ],
+  "antonyms": [
+   "enlighten",
+   "clarify"
+  ]
+ },
+ "pivot": {
+  "gloss": "枢轴，支点；核心，关键；(公司)战略转向；(使)旋转",
+  "trap": "商业语境常指“转型、调整方向”",
+  "root": null,
+  "confusable": [
+   "pilot"
+  ],
+  "synonyms": [
+   "axis",
+   "hinge",
+   "hub",
+   "turn"
+  ],
+  "antonyms": []
+ },
+ "sectional": {
+  "gloss": "部分的，局部的；派系的，地方性的；截面的；n. 组合沙发",
+  "trap": "",
+  "root": {
+   "key": "sect",
+   "meaning": "切",
+   "match": "sect"
+  },
+  "confusable": [],
+  "synonyms": [
+   "partial",
+   "regional",
+   "factional"
+  ],
+  "antonyms": [
+   "national",
+   "whole"
+  ]
+ },
+ "annihilate": {
+  "gloss": "彻底消灭，歼灭；(比赛)彻底击败",
+  "trap": "an(使)+nihil(无)→化为乌有",
+  "root": {
+   "key": "nihil",
+   "meaning": "无",
+   "match": "nihil"
+  },
+  "confusable": [],
+  "synonyms": [
+   "destroy",
+   "obliterate",
+   "exterminate",
+   "eradicate"
+  ],
+  "antonyms": [
+   "create",
+   "preserve"
+  ]
+ },
+ "indelible": {
+  "gloss": "难以磨灭的，永久的；(墨水)擦不掉的",
+  "trap": "in(不)+del(擦去，同 delete)+ible→擦不掉的",
+  "root": {
+   "key": "del",
+   "meaning": "擦去",
+   "match": "del"
+  },
+  "confusable": [
+   "inedible"
+  ],
+  "synonyms": [
+   "permanent",
+   "lasting",
+   "ineradicable",
+   "unforgettable"
+  ],
+  "antonyms": [
+   "erasable",
+   "fleeting"
+  ]
+ },
+ "jeer": {
+  "gloss": "嘲笑，讥讽，奚落",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "cheer",
+   "sneer"
+  ],
+  "synonyms": [
+   "mock",
+   "taunt",
+   "ridicule",
+   "scoff"
+  ],
+  "antonyms": [
+   "cheer",
+   "applaud",
+   "praise"
+  ]
+ },
+ "gaunt": {
+  "gloss": "(因病、饿)骨瘦如柴的，憔悴的；(地方)荒凉的",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "gauntlet",
+   "jaunt"
+  ],
+  "synonyms": [
+   "emaciated",
+   "haggard",
+   "skeletal",
+   "bony"
+  ],
+  "antonyms": [
+   "plump",
+   "robust"
+  ]
+ },
+ "urchin": {
+  "gloss": "顽童，(衣衫褴褛的)小流浪儿；海胆(sea urchin)",
+  "trap": "原义“刺猬”，故海胆叫 sea urchin",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "waif",
+   "ragamuffin",
+   "brat"
+  ],
+  "antonyms": []
+ },
+ "synchronize": {
+  "gloss": "使同步；(计算机、手表)同步；同时发生",
+  "trap": "",
+  "root": {
+   "key": "chron",
+   "meaning": "时间",
+   "match": "chron"
+  },
+  "confusable": [],
+  "synonyms": [
+   "coordinate",
+   "align",
+   "match"
+  ],
+  "antonyms": []
+ },
+ "abbreviation": {
+  "gloss": "缩写，缩略语；缩短",
+  "trap": "",
+  "root": {
+   "key": "brev",
+   "meaning": "短",
+   "match": "brev"
+  },
+  "confusable": [],
+  "synonyms": [
+   "acronym",
+   "contraction",
+   "shortening"
+  ],
+  "antonyms": [
+   "expansion"
+  ]
+ },
+ "phobia": {
+  "gloss": "恐惧症；极度恐惧，厌恶",
+  "trap": "后缀 -phobia：claustrophobia 幽闭恐惧症",
+  "root": {
+   "key": "phob",
+   "meaning": "恐惧",
+   "match": "phob"
+  },
+  "confusable": [],
+  "synonyms": [
+   "fear",
+   "dread",
+   "aversion",
+   "terror"
+  ],
+  "antonyms": [
+   "philia"
+  ]
+ },
+ "barter": {
+  "gloss": "以物易物，物物交换",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "batter",
+   "banter"
+  ],
+  "synonyms": [
+   "trade",
+   "exchange",
+   "swap"
+  ],
+  "antonyms": []
+ },
+ "oscillate": {
+  "gloss": "摆动，振荡；(想法、态度)摇摆不定，犹豫",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "vacillate"
+  ],
+  "synonyms": [
+   "swing",
+   "fluctuate",
+   "vacillate",
+   "waver"
+  ],
+  "antonyms": [
+   "stabilize"
+  ]
+ },
+ "chisel": {
+  "gloss": "凿子；凿，雕刻；(俚)欺骗，骗取",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "carve",
+   "sculpt",
+   "cut"
+  ],
+  "antonyms": []
+ },
+ "sieve": {
+  "gloss": "筛子，滤网；筛，过滤；(比喻)筛选",
+  "trap": "memory like a sieve：记性差，“漏得像筛子”",
+  "root": null,
+  "confusable": [
+   "siege"
+  ],
+  "synonyms": [
+   "strainer",
+   "filter",
+   "sift",
+   "screen"
+  ],
+  "antonyms": []
+ },
+ "sightseeing": {
+  "gloss": "观光，游览",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "tourism",
+   "touring"
+  ],
+  "antonyms": []
+ },
+ "steadfast": {
+  "gloss": "坚定不移的，忠诚的；固定不动的",
+  "trap": "stead(位置)+fast(牢固，如 hold fast)→站得牢",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "firm",
+   "resolute",
+   "unwavering",
+   "loyal"
+  ],
+  "antonyms": [
+   "fickle",
+   "wavering"
+  ]
+ },
+ "kangaroo": {
+  "gloss": "袋鼠",
+  "trap": "kangaroo court 私设的非法法庭",
+  "root": null,
+  "confusable": [],
+  "synonyms": [],
+  "antonyms": []
+ },
+ "superstructure": {
+  "gloss": "上层建筑；(船的)上层结构；(建筑)上部结构",
+  "trap": "",
+  "root": {
+   "key": "struct",
+   "meaning": "建造",
+   "match": "struct"
+  },
+  "confusable": [],
+  "synonyms": [],
+  "antonyms": [
+   "infrastructure",
+   "base"
+  ]
+ },
+ "defraud": {
+  "gloss": "诈骗，骗取(钱财)",
+  "trap": "",
+  "root": {
+   "key": "fraud",
+   "meaning": "欺骗",
+   "match": "fraud"
+  },
+  "confusable": [],
+  "synonyms": [
+   "swindle",
+   "cheat",
+   "con",
+   "fleece"
+  ],
+  "antonyms": []
+ },
+ "prologue": {
+  "gloss": "序言，开场白；序幕，前奏",
+  "trap": "pro(前)+logue(说)；反义 epilogue 尾声",
+  "root": {
+   "key": "log",
+   "meaning": "说/学",
+   "match": "log"
+  },
+  "confusable": [],
+  "synonyms": [
+   "preface",
+   "introduction",
+   "preamble",
+   "foreword"
+  ],
+  "antonyms": [
+   "epilogue"
+  ]
+ },
+ "decompose": {
+  "gloss": "(使)腐烂；分解",
+  "trap": "",
+  "root": {
+   "key": "pos",
+   "meaning": "放置",
+   "match": "pos"
+  },
+  "confusable": [],
+  "synonyms": [
+   "rot",
+   "decay",
+   "disintegrate"
+  ],
+  "antonyms": [
+   "compose",
+   "synthesize"
+  ]
+ },
+ "neurosis": {
+  "gloss": "神经症，神经官能症；(泛指)过分焦虑",
+  "trap": "-osis 表病态/状态：psychosis 精神病",
+  "root": {
+   "key": "neur",
+   "meaning": "神经",
+   "match": "neur"
+  },
+  "confusable": [
+   "psychosis"
+  ],
+  "synonyms": [
+   "anxiety",
+   "obsession"
+  ],
+  "antonyms": []
+ },
+ "fickle": {
+  "gloss": "善变的，反复无常的；(感情)不专一的",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "pickle",
+   "tickle"
+  ],
+  "synonyms": [
+   "capricious",
+   "changeable",
+   "volatile",
+   "inconstant"
+  ],
+  "antonyms": [
+   "steadfast",
+   "loyal",
+   "constant"
+  ]
+ },
+ "westerner": {
+  "gloss": "西方人；(美国)西部人",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [],
+  "antonyms": [
+   "easterner"
+  ]
+ },
+ "badminton": {
+  "gloss": "羽毛球运动",
+  "trap": "源自英国 Badminton 庄园名；球本身叫 shuttlecock",
+  "root": null,
+  "confusable": [],
+  "synonyms": [],
+  "antonyms": []
+ },
+ "recline": {
+  "gloss": "斜倚，躺卧；(座椅)可向后倾斜",
+  "trap": "",
+  "root": {
+   "key": "clin",
+   "meaning": "倾斜",
+   "match": "clin"
+  },
+  "confusable": [],
+  "synonyms": [
+   "lean",
+   "lie",
+   "lounge",
+   "repose"
+  ],
+  "antonyms": [
+   "stand"
+  ]
+ },
+ "outdo": {
+  "gloss": "胜过，超过",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "surpass",
+   "exceed",
+   "outperform",
+   "beat"
+  ],
+  "antonyms": []
+ },
+ "mirage": {
+  "gloss": "海市蜃楼；幻想，妄想",
+  "trap": "",
+  "root": {
+   "key": "mir",
+   "meaning": "惊奇/看",
+   "match": "mir"
+  },
+  "confusable": [],
+  "synonyms": [
+   "illusion",
+   "hallucination",
+   "delusion",
+   "fantasy"
+  ],
+  "antonyms": [
+   "reality"
+  ]
+ },
+ "constrict": {
+  "gloss": "压缩，使收缩；束缚，限制",
+  "trap": "",
+  "root": {
+   "key": "strict",
+   "meaning": "拉紧/束",
+   "match": "strict"
+  },
+  "confusable": [
+   "construct"
+  ],
+  "synonyms": [
+   "compress",
+   "tighten",
+   "narrow",
+   "restrict"
+  ],
+  "antonyms": [
+   "dilate",
+   "expand",
+   "loosen"
+  ]
+ },
+ "invert": {
+  "gloss": "使颠倒，使反转；倒置",
+  "trap": "",
+  "root": {
+   "key": "vert",
+   "meaning": "转",
+   "match": "vert"
+  },
+  "confusable": [
+   "invest"
+  ],
+  "synonyms": [
+   "reverse",
+   "flip",
+   "overturn",
+   "transpose"
+  ],
+  "antonyms": []
+ },
+ "downpour": {
+  "gloss": "倾盆大雨",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "deluge",
+   "cloudburst",
+   "torrent",
+   "rainstorm"
+  ],
+  "antonyms": [
+   "drizzle"
+  ]
+ },
+ "pseudonym": {
+  "gloss": "笔名，假名，化名",
+  "trap": "pseudo(假)+onym(名)；pseudo- 前缀“伪”",
+  "root": {
+   "key": "onym",
+   "meaning": "名字",
+   "match": "onym"
+  },
+  "confusable": [],
+  "synonyms": [
+   "alias",
+   "moniker"
+  ],
+  "antonyms": []
+ },
+ "surcharge": {
+  "gloss": "附加费，额外费用；收取附加费；超载",
+  "trap": "sur- 表“在上、超过”：surplus, surpass",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "fee",
+   "levy",
+   "premium"
+  ],
+  "antonyms": [
+   "discount",
+   "rebate"
+  ]
+ },
+ "nautical": {
+  "gloss": "航海的，海上的，船员的",
+  "trap": "astronaut“星际水手”同源",
+  "root": {
+   "key": "naut",
+   "meaning": "船/水手",
+   "match": "naut"
+  },
+  "confusable": [],
+  "synonyms": [
+   "maritime",
+   "marine",
+   "naval",
+   "seafaring"
+  ],
+  "antonyms": []
+ },
+ "slag": {
+  "gloss": "矿渣，炉渣；(英俚)诋毁(slag off)；(英俚)荡妇",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "slug",
+   "sag"
+  ],
+  "synonyms": [
+   "dross",
+   "scum",
+   "waste"
+  ],
+  "antonyms": []
+ },
+ "yoke": {
+  "gloss": "轭；束缚，枷锁；给…套轭，把…结合；(衣服)肩部拼接",
+  "trap": "yolk 是“蛋黄”，yoke 是“轭、束缚”",
+  "root": null,
+  "confusable": [
+   "yolk",
+   "joke"
+  ],
+  "synonyms": [
+   "bond",
+   "burden",
+   "harness",
+   "couple"
+  ],
+  "antonyms": [
+   "freedom"
+  ]
+ },
+ "antecedent": {
+  "gloss": "先前的事物，前因；(语法)先行词；先前的",
+  "trap": "ante(前)+ced(走)→走在前面的；ante 不是 anti(反)",
+  "root": {
+   "key": "ced",
+   "meaning": "走",
+   "match": "ced"
+  },
+  "confusable": [],
+  "synonyms": [
+   "precursor",
+   "forerunner",
+   "predecessor",
+   "precedent"
+  ],
+  "antonyms": [
+   "consequent",
+   "subsequent"
+  ]
+ },
+ "glossary": {
+  "gloss": "术语表，词汇表(附释义)",
+  "trap": "来自希腊 glossa“舌头、词”；此 gloss 是“注释”，非“光泽”",
+  "root": {
+   "key": "gloss",
+   "meaning": "词/舌",
+   "match": "gloss"
+  },
+  "confusable": [],
+  "synonyms": [
+   "lexicon",
+   "vocabulary"
+  ],
+  "antonyms": []
+ },
+ "touchy": {
+  "gloss": "易怒的，敏感的；(话题)棘手的，需谨慎对待的",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "tetchy"
+  ],
+  "synonyms": [
+   "sensitive",
+   "irritable",
+   "delicate",
+   "tricky"
+  ],
+  "antonyms": [
+   "easygoing"
+  ]
+ },
+ "goad": {
+  "gloss": "刺激，驱使，激将；赶牛棒",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "goat"
+  ],
+  "synonyms": [
+   "prod",
+   "spur",
+   "provoke",
+   "incite"
+  ],
+  "antonyms": [
+   "deter",
+   "discourage"
+  ]
+ },
+ "misrepresent": {
+  "gloss": "歪曲，误传，不如实陈述",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "distort",
+   "falsify",
+   "misstate",
+   "twist"
+  ],
+  "antonyms": []
+ },
+ "deluge": {
+  "gloss": "洪水，暴雨；(涌来的)大量事物；淹没，使应接不暇",
+  "trap": "be deluged with 被(大量来信)淹没；delude 是“欺骗”",
+  "root": null,
+  "confusable": [
+   "delude"
+  ],
+  "synonyms": [
+   "flood",
+   "downpour",
+   "torrent",
+   "inundate"
+  ],
+  "antonyms": [
+   "drought",
+   "trickle"
+  ]
+ },
+ "wager": {
+  "gloss": "赌注，打赌；下注；(I'd wager)断言",
+  "trap": "wage 是“工资”，wager 是“赌注”；二者同源(抵押物)",
+  "root": null,
+  "confusable": [
+   "wage",
+   "wagon"
+  ],
+  "synonyms": [
+   "bet",
+   "gamble",
+   "stake"
+  ],
+  "antonyms": []
+ },
+ "languid": {
+  "gloss": "懒洋洋的，无精打采的；(时间)悠闲缓慢的",
+  "trap": "与 language 无关；同源 languish(衰弱、憔悴)",
+  "root": null,
+  "confusable": [
+   "liquid"
+  ],
+  "synonyms": [
+   "listless",
+   "lethargic",
+   "sluggish",
+   "lazy"
+  ],
+  "antonyms": [
+   "energetic",
+   "vigorous",
+   "lively"
+  ]
+ },
+ "amphibian": {
+  "gloss": "两栖动物；两栖的；水陆两用车(或飞机)",
+  "trap": "amphi(两)+bi(生命)→过两种生活",
+  "root": {
+   "key": "bio",
+   "meaning": "生命",
+   "match": "bi"
+  },
+  "confusable": [],
+  "synonyms": [],
+  "antonyms": []
+ },
+ "kindle": {
+  "gloss": "点燃；激起(兴趣、感情)；Kindle 电子书阅读器",
+  "trap": "与 kind(种类/善良)无关；Kindle 阅读器取“点燃阅读热情”义",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "ignite",
+   "light",
+   "arouse",
+   "spark"
+  ],
+  "antonyms": [
+   "extinguish",
+   "quench",
+   "douse"
+  ]
+ },
+ "penicillin": {
+  "gloss": "青霉素，盘尼西林",
+  "trap": "来自 Penicillium 青霉菌(拉丁“小刷子”，同 pencil)",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "antibiotic"
+  ],
+  "antonyms": []
+ },
+ "monsoon": {
+  "gloss": "季风；(印度等地的)雨季；季风雨",
+  "trap": "来自阿拉伯语 mawsim“季节”",
+  "root": null,
+  "confusable": [],
+  "synonyms": [],
+  "antonyms": []
+ },
+ "exorbitant": {
+  "gloss": "(价格、要求)过高的，离谱的",
+  "trap": "ex(出)+orbit(轨道)→出格的；专指价格/费用高得离谱",
+  "root": {
+   "key": "orb",
+   "meaning": "圆/轨道",
+   "match": "orb"
+  },
+  "confusable": [],
+  "synonyms": [
+   "excessive",
+   "extortionate",
+   "outrageous",
+   "steep"
+  ],
+  "antonyms": [
+   "reasonable",
+   "moderate"
+  ]
+ },
+ "frugal": {
+  "gloss": "节俭的，省钱的；(饭菜)简单便宜的",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "fragile"
+  ],
+  "synonyms": [
+   "thrifty",
+   "economical",
+   "sparing",
+   "prudent"
+  ],
+  "antonyms": [
+   "extravagant",
+   "wasteful",
+   "lavish"
+  ]
+ },
+ "remittance": {
+  "gloss": "汇款；汇款额",
+  "trap": "re(回)+mit(送)→把钱寄回；移民寄回家的钱也叫 remittance",
+  "root": {
+   "key": "mit",
+   "meaning": "送",
+   "match": "mit"
+  },
+  "confusable": [],
+  "synonyms": [
+   "payment",
+   "transfer"
+  ],
+  "antonyms": []
+ }
+}

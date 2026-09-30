@@ -1,0 +1,602 @@
+[
+{
+"word": "neurology",
+"pos": "n",
+"zh": "n. 神经病学 / [医] 神经病学",
+"en": "n. the branch of medical science that deals with the nervous system / n. (neurology) the branch of medicine that deals w…"
+},
+{
+"word": "sartorial",
+"pos": "a",
+"zh": "a. 裁缝匠的, 缝工的, 裁缝的",
+"en": "a. of or relating to the sartorius muscle / a. of or relating to a tailor or to tailoring"
+},
+{
+"word": "probity",
+"pos": "n",
+"zh": "n. 诚实, 正直",
+"en": "n. complete and confirmed integrity; having strong moral principles"
+},
+{
+"word": "nauseate",
+"pos": "vi/vt",
+"zh": "vi. 作呕, 产生恶感, 厌恶 / vt. 使厌恶, 使恶心",
+"en": "v upset and make nauseated / v cause aversion in; offend the moral sense of"
+},
+{
+"word": "opulence",
+"pos": "n",
+"zh": "n. 富裕, 丰富, 大量",
+"en": "n wealth as evidenced by sumptuous living"
+},
+{
+"word": "mollify",
+"pos": "vt",
+"zh": "vt. 平息, 缓和, 减轻, 使变软",
+"en": "v. make less rigid or softer"
+},
+{
+"word": "invidious",
+"pos": "a",
+"zh": "a. 引起反感的, 惹人不快的, 不公平的, 诽谤的",
+"en": "s containing or implying a slight or showing prejudice"
+},
+{
+"word": "fittingly",
+"pos": "adv",
+"zh": "adv. 适切地, 适合地",
+"en": "r in an appropriate manner"
+},
+{
+"word": "unearthly",
+"pos": "a",
+"zh": "a. 非世间的, 神秘的, 怪异的",
+"en": "s concerned with or affecting the spirit or soul / s suggesting the operation of supernatural influences"
+},
+{
+"word": "maven",
+"pos": "n",
+"zh": "n. 内行, 专家",
+"en": "n someone who is dazzlingly skilled in any field"
+},
+{
+"word": "aplomb",
+"pos": "n",
+"zh": "n. 沉着, 泰然自若, 垂直",
+"en": "n. great coolness and composure under strain"
+},
+{
+"word": "missive",
+"pos": "n/a",
+"zh": "n. 公文, 书信 / a. 送出的",
+"en": "n a written message addressed to a person or organization"
+},
+{
+"word": "loathsome",
+"pos": "a",
+"zh": "a. 讨厌的, 可恶的, 令人憎恶的",
+"en": "s causing or able to cause nausea / s highly offensive; arousing aversion or disgust"
+},
+{
+"word": "bigoted",
+"pos": "a",
+"zh": "a. 盲从的, 固执己见的, 执迷的, 顽固的",
+"en": "s. blindly and obstinately attached to some creed or opinion and intolerant toward others"
+},
+{
+"word": "gesticulate",
+"pos": "v",
+"zh": "v. 用手势谈话, 用姿势表达",
+"en": "v. show, express or direct through movement"
+},
+{
+"word": "bane",
+"pos": "n",
+"zh": "n. 祸根, 毒药, 灭亡的原因, 灭亡 / [医] 毒物, 毒, 毒药",
+"en": "n. something causing misery or death"
+},
+{
+"word": "academician",
+"pos": "n",
+"zh": "n. 学会会员, 院士, 学究, 大学生, 学者",
+"en": "n. someone elected to honorary membership in an academy / n. a scholar who is skilled in academic disputation / n. an ed…"
+},
+{
+"word": "skimp",
+"pos": "vt/vi/a",
+"zh": "vt. 少给, 克扣 / vi. 吝啬 / a. 少的, 不足的",
+"en": "v. work hastily or carelessly; deal with inadequately and superficially"
+},
+{
+"word": "flay",
+"pos": "vt",
+"zh": "vt. 剥皮, 去皮, 抢夺 / [医] 剥皮, 剥兽皮",
+"en": "v. strip the skin off"
+},
+{
+"word": "despot",
+"pos": "n",
+"zh": "n. 专制君主, 暴君 / [法] 暴君, 专制君主",
+"en": "n a cruel and oppressive dictator"
+},
+{
+"word": "hornet",
+"pos": "n",
+"zh": "n. 大黄蜂",
+"en": "n. large stinging paper wasp"
+},
+{
+"word": "spoof",
+"pos": "n/v/a",
+"zh": "n. 幽默的讽刺诗文, 愚弄, 戏弄 / v. 对...作幽默讽刺, 戏弄, 哄骗 / a. 哄骗认的",
+"en": "v. make a parody of"
+},
+{
+"word": "tawdry",
+"pos": "a/n",
+"zh": "a. 廉价而俗丽的 / n. 廉价而俗丽之物",
+"en": "s tastelessly showy / s cheap and shoddy"
+},
+{
+"word": "chrysanthemum",
+"pos": "n",
+"zh": "n. 菊花",
+"en": "n. the flower of a chrysanthemum plant / n. any of numerous perennial Old World herbs having showy brightly colored flow…"
+},
+{
+"word": "singe",
+"pos": "v",
+"zh": "v. 烧焦, 烤焦",
+"en": "v. burn superficially or lightly"
+},
+{
+"word": "overreach",
+"pos": "vt/vi",
+"zh": "vt. 扩展...以上, 过度伸张, 走过头 / vi. 伸得过远, 过分, 过火",
+"en": "v. fail by aiming too high or trying too hard"
+},
+{
+"word": "omniscient",
+"pos": "a/n",
+"zh": "a. 全知的, 无所不知的 / n. 无所不知者, 上帝",
+"en": "s infinitely wise"
+},
+{
+"word": "toothache",
+"pos": "n",
+"zh": "n. 牙痛 / [医] 牙痛",
+"en": "n. an ache localized in or around a tooth"
+},
+{
+"word": "underling",
+"pos": "n",
+"zh": "n. 部下, 下手, 下属",
+"en": "n an assistant subject to the authority or control of another"
+},
+{
+"word": "gangly",
+"pos": "a",
+"zh": "a. 身材瘦长的",
+"en": "s tall and thin and having long slender limbs / s tall and thin"
+},
+{
+"word": "slippage",
+"pos": "n",
+"zh": "n. 滑移, 滑动, 滑程 / [经] 延误",
+"en": "n. a decrease of transmitted power in a mechanical system caused by slipping / n. decline from a standard level of perfo…"
+},
+{
+"word": "aberrant",
+"pos": "a",
+"zh": "a. 偏离正路的, 偏离常轨的, 畸变的 / [化] 异常的",
+"en": "n. one whose behavior departs substantially from the norm of a group / s. markedly different from an accepted norm"
+},
+{
+"word": "flange",
+"pos": "n/vt",
+"zh": "n. 边缘, 轮缘, 凸缘 / vt. 装凸缘",
+"en": "n. a projection used for strength or for attaching to another object"
+},
+{
+"word": "uncommitted",
+"pos": "a",
+"zh": "a. 未遂的, 不受约束的, 独立于...的, 自由的, 不负义务的, 未被监禁的 / [经] 不受约束的",
+"en": "a. not bound or pledged"
+},
+{
+"word": "carrion",
+"pos": "n/a",
+"zh": "n. 死肉, 腐肉 / a. 腐肉的, 似腐肉的, 吃腐肉的",
+"en": "n. the dead and rotting body of an animal; unfit for human food"
+},
+{
+"word": "fatalism",
+"pos": "n",
+"zh": "n. 宿命论",
+"en": "n. a submissive mental attitude resulting from acceptance of the doctrine that everything that happens is predetermined …"
+},
+{
+"word": "charlatan",
+"pos": "n",
+"zh": "n. 庸医 / [医] 庸医, 江湖医",
+"en": "n a flamboyant deceiver; one who attracts customers with tricks or jokes"
+},
+{
+"word": "demarcate",
+"pos": "vt",
+"zh": "vt. 定界, 分开, 区别",
+"en": "v. separate clearly, as if by boundaries / v. set, mark, or draw the boundaries of something"
+},
+{
+"word": "benediction",
+"pos": "n",
+"zh": "n. 祝福",
+"en": "n. a ceremonial prayer invoking divine protection"
+},
+{
+"word": "fulsome",
+"pos": "a",
+"zh": "a. 过度的, 过分的, 令人生厌的",
+"en": "s unpleasantly and excessively suave or ingratiating in manner or speech"
+},
+{
+"word": "frivolity",
+"pos": "n",
+"zh": "n. 轻薄, 轻率, 不足取的事",
+"en": "n. the trait of being frivolous; not serious or sensible"
+},
+{
+"word": "snobbish",
+"pos": "a",
+"zh": "a. 自命不凡的, 势利的",
+"en": "s befitting or characteristic of those who incline to social exclusiveness and who rebuff the advances of people conside…"
+},
+{
+"word": "interlock",
+"pos": "v/n",
+"zh": "v. (使)连结, (使)连锁 / n. 连锁, 连结 / [计] 相关; 互锁",
+"en": "n. a device that prevents an automotive engine from starting / v. coordinate in such a way that all parts work together …"
+},
+{
+"word": "stodgy",
+"pos": "a",
+"zh": "a. 易吃饱的, 塞满的, 平凡的, 庸俗的, 步履艰难的",
+"en": "s. heavy and starchy and hard to digest / s. excessively conventional and unimaginative and hence dull"
+},
+{
+"word": "declaim",
+"pos": "v",
+"zh": "v. 慷慨陈词, 演讲, 朗读",
+"en": "v. recite in elocution / v. speak against in an impassioned manner"
+},
+{
+"word": "bluster",
+"pos": "vt/vi/n",
+"zh": "vt. 风狂吹, 咆哮, 汹涌 / vi. 咆哮着说出, 恐吓 / n. 狂风声, 巨浪声, 夸口, 大话",
+"en": "n. noisy confusion and turbulence / n. a violent gusty wind / v. blow hard; be gusty, as of wind"
+},
+{
+"word": "thrall",
+"pos": "n",
+"zh": "n. 奴隶, 束缚, 奴役",
+"en": "n. someone held in bondage"
+},
+{
+"word": "obstinacy",
+"pos": "n",
+"zh": "n. 倔强, 顽固, 固执行为, (疼痛等)难治",
+"en": "n the trait of being difficult to handle or overcome / n resolute adherence to your own ideas or desires"
+},
+{
+"word": "luxuriant",
+"pos": "a",
+"zh": "a. 繁茂的, 丰富的, 肥沃的, 华丽的 / [医] 过盛的, 过多的",
+"en": "s marked by complexity and richness of detail / s displaying luxury and furnishing gratification to the senses / s produ…"
+},
+{
+"word": "restive",
+"pos": "a",
+"zh": "a. 不愿向前走的, 倔强的, 难驾御的",
+"en": "s. impatient especially under restriction or delay"
+},
+{
+"word": "cornucopia",
+"pos": "n",
+"zh": "n. 丰盛 / [医] 外侧隐窝(第四脑室)",
+"en": "n a goat's horn filled with grain and flowers and fruit symbolizing prosperity / n the property of being extremely abund…"
+},
+{
+"word": "postmaster",
+"pos": "n",
+"zh": "n. 邮政局长 / [计] 邮件主管员",
+"en": "n. the person in charge of a post office"
+},
+{
+"word": "guzzle",
+"pos": "v",
+"zh": "v. 狂饮, 暴食, 喝酒化掉(钱)",
+"en": "v. drink greedily or as if with great thirst"
+},
+{
+"word": "reprove",
+"pos": "vt",
+"zh": "vt. 责备, 责骂, 非难 / [法] 共和国, 共和政体, 社团; 责骂, 谴责, 指责",
+"en": "v take to task"
+},
+{
+"word": "pastiche",
+"pos": "n",
+"zh": "n. 模仿作品, 东拼西凑的杂烩",
+"en": "n. a work of art that imitates the style of some previous work"
+},
+{
+"word": "acclimate",
+"pos": "vt/vi",
+"zh": "vt. 使适应, 使服水土 / vi. 服水土, 适应新环境",
+"en": "v get used to a certain climate"
+},
+{
+"word": "savant",
+"pos": "n",
+"zh": "n. 学者, 专家",
+"en": "n someone who has been admitted to membership in a scholarly field"
+},
+{
+"word": "salve",
+"pos": "n/vt",
+"zh": "n. 油膏, 药膏, 安慰, 奉承话 / vt. 涂油膏于, 安慰, 缓和, 抢救, 打捞",
+"en": "n. anything that remedies or heals or soothes / v. apply a salve to, usually for the purpose of healing"
+},
+{
+"word": "newsreel",
+"pos": "n",
+"zh": "n. 新闻影片",
+"en": "n. a short film and commentary about current events"
+},
+{
+"word": "virile",
+"pos": "a",
+"zh": "a. 男性的 / [医] 男性的, 有男性征的",
+"en": "s. characterized by energy and vigor"
+},
+{
+"word": "lint",
+"pos": "n",
+"zh": "n. 绷带用麻布, 皮棉 / [医] 绒布(外科用布)",
+"en": "n. fine ravellings of cotton or linen fibers / n. cotton or linen fabric with the nap raised on one side; used to dress …"
+},
+{
+"word": "conjugal",
+"pos": "a",
+"zh": "a. 婚姻的, 配偶的 / [医] 夫妇的",
+"en": "a. of or relating to marriage or to the relationship between a wife and husband"
+},
+{
+"word": "rostrum",
+"pos": "n",
+"zh": "n. 讲坛, 演讲台, 演讲, 演讲者 / [医] 嘴, 喙",
+"en": "n a platform raised above the surrounding level to give prominence to the person on it / n beaklike projection of the an…"
+},
+{
+"word": "walkout",
+"pos": "n",
+"zh": "n. 罢工, 退席, 恋爱关系 / [经] 罢工",
+"en": "n. a strike in which the workers walk out / n. the act of walking out (of a meeting or organization) as a sign of protes…"
+},
+{
+"word": "ditty",
+"pos": "n",
+"zh": "n. 小调, 小曲",
+"en": "n. a short simple song (or the words of a poem intended to be sung)"
+},
+{
+"word": "mimicry",
+"pos": "n",
+"zh": "n. 模仿 / [医] 拟态(生物), 模仿, 模拟",
+"en": "n. the resemblance of an animal species to another species or to natural objects; provides concealment and protection fr…"
+},
+{
+"word": "fitful",
+"pos": "a",
+"zh": "a. 断断续续的, 一阵阵的, 间歇的",
+"en": "s. occurring in spells and often abruptly / s. intermittently stopping and starting"
+},
+{
+"word": "medicate",
+"pos": "vt",
+"zh": "vt. 用药治疗 / [医] 用药治疗, 投药, 加药, 使含药",
+"en": "v. impregnate with a medicinal substance / v. treat medicinally, treat with medicine"
+},
+{
+"word": "disheveled",
+"pos": "a",
+"zh": "a. 凌乱的,不整洁的",
+"en": "s. in disarray; extremely disorderly"
+},
+{
+"word": "sluice",
+"pos": "n/vt/vi",
+"zh": "n. 水门, 水闸, 蓄水 / vt. 泄洪, 冲洗 / vi. 奔流",
+"en": "n. conduit that carries a rapid flow of water controlled by a sluicegate / v. pour as if from a sluice / v. irrigate wit…"
+},
+{
+"word": "boggle",
+"pos": "vi/vt/n",
+"zh": "vi. 犹豫, 踌躇, 吃惊, 搪塞 / vt. 搞坏 / n. 犹豫, 吃惊",
+"en": "v. startle with amazement or fear / v. hesitate when confronted with a problem, or when in doubt or fear"
+},
+{
+"word": "auger",
+"pos": "n",
+"zh": "n. 螺旋钻, 木螺钻 / [机] 木螺钻",
+"en": "n. hand tool for boring holes"
+},
+{
+"word": "splint",
+"pos": "n/vt",
+"zh": "n. 薄木片, 细木梗, 夹板, 薄金属片 / vt. 用夹板固定",
+"en": "n. a thin sliver of wood / n. an orthopedic mechanical device used to immobilize and protect a part of the body (as a br…"
+},
+{
+"word": "hooray",
+"pos": "interj/n/v",
+"zh": "interj. 万岁 / n. 万岁 / v. 呼万岁",
+"en": "n a victory cheer"
+},
+{
+"word": "derange",
+"pos": "vt",
+"zh": "vt. 扰乱, 使发狂",
+"en": "v derange mentally, throw out of mental balance; make insane / v throw into great confusion or disorder"
+},
+{
+"word": "solicitous",
+"pos": "a",
+"zh": "a. 关心的, 渴望的, 热切期望的, 十分讲究的",
+"en": "s. full of anxiety and concern / s. showing hovering attentiveness"
+},
+{
+"word": "downcast",
+"pos": "a",
+"zh": "a. 气馁的, 沮丧的",
+"en": "n. a ventilation shaft through which air enters a mine / s. directed downward"
+},
+{
+"word": "sprightly",
+"pos": "a/adv",
+"zh": "a. 活泼的, 愉快的 / adv. 活泼地, 愉快地",
+"en": "s. full of spirit and vitality"
+},
+{
+"word": "intransigent",
+"pos": "a/n",
+"zh": "a. 非妥协性的 / n. 不妥协的人",
+"en": "s impervious to pleas, persuasion, requests, reason; she would have none of him\"- W.Churchill"
+},
+{
+"word": "doyen",
+"pos": "n",
+"zh": "n. 老资格, 首席, 老前辈 / [法] 领袖, 首席",
+"en": "n a man who is the senior member of a group"
+},
+{
+"word": "declassify",
+"pos": "vt",
+"zh": "vt. (文件)解密, 从机密表删除",
+"en": "v. lift the restriction on and make available again"
+},
+{
+"word": "commiserate",
+"pos": "v",
+"zh": "v. 怜悯, 同情",
+"en": "v. to feel or express sympathy or compassion"
+},
+{
+"word": "pithy",
+"pos": "a",
+"zh": "a. 有髓的, 由髓组成的, 简洁有力的",
+"en": "s. concise and full of meaning"
+},
+{
+"word": "chimera",
+"pos": "n",
+"zh": "n. 客迈拉(狮头、羊身、蛇尾的吐火女怪), 假想的妖怪, 妄想 / [医] 嵌合体",
+"en": "n. (Greek mythology) fire-breathing female monster with a lion's head and a goat's body and a serpent's tail; daughter o…"
+},
+{
+"word": "rectitude",
+"pos": "n",
+"zh": "n. 正直, 纯正, 正确 / [法] 公正, 正直, 严正",
+"en": "n righteousness as a consequence of being honorable and honest"
+},
+{
+"word": "capillary",
+"pos": "n/a",
+"zh": "n. 毛细管 / a. 毛状的, 毛细管的",
+"en": "n. a tube of small internal diameter; holds liquid by capillary action / n. any of the minute blood vessels connecting a…"
+},
+{
+"word": "inane",
+"pos": "a/n",
+"zh": "a. 空虚的, 愚蠢的, 空洞的 / n. 空洞乏物",
+"en": "s devoid of intelligence"
+},
+{
+"word": "surrealism",
+"pos": "n",
+"zh": "n. 超现实主义 / [法] 超现实主义",
+"en": "n. a 20th century movement of artists and writers (developing out of dadaism) who used fantastic images and incongruous …"
+},
+{
+"word": "harangue",
+"pos": "n/vt",
+"zh": "n. 演讲, 热烈讨论, 长篇大论, 夸夸其谈 / vt. 向...夸夸其谈地讲话",
+"en": "n. a loud bombastic declamation expressed with strong emotion / v. deliver a harangue to; address forcefully"
+},
+{
+"word": "topographical",
+"pos": "a",
+"zh": "a. 地形的, 地形学的, 地形测量的",
+"en": "a. concerned with topography"
+},
+{
+"word": "retrenchment",
+"pos": "n",
+"zh": "n. 紧缩, 节省, 删节 / [医] 赘余组织切除术",
+"en": "n. entrenchment consisting of an additional interior fortification to prolong the defense / n. the reduction of expendit…"
+},
+{
+"word": "injurious",
+"pos": "a",
+"zh": "a. 有害的, 不公正的 / [法] 伤害的, 有害的, 不公平的",
+"en": "s harmful to living things"
+},
+{
+"word": "impetuous",
+"pos": "a",
+"zh": "a. 冲动的, 猛烈的, 轻率的, 狂暴的",
+"en": "s. marked by violent force"
+},
+{
+"word": "indoctrinate",
+"pos": "vt",
+"zh": "vt. 教训, 教导, 灌输",
+"en": "v. teach doctrines to; teach uncritically"
+},
+{
+"word": "contrite",
+"pos": "a",
+"zh": "a. 悔悟了的, 后悔的, 痛悔的",
+"en": "s. feeling or expressing pain or sorrow for sins or offenses"
+},
+{
+"word": "bromide",
+"pos": "n",
+"zh": "n. 溴化物, 庸俗的人 / [化] 溴化物",
+"en": "n. any of the salts of hydrobromic acid; formerly used as a sedative but now generally replaced by safer drugs"
+},
+{
+"word": "ulterior",
+"pos": "a",
+"zh": "a. 隐秘不明的, 在特定界限以外的, 将来的, 隐蔽的 / [法] 进一步的, 日后的, 将来的",
+"en": "s. beyond or outside an area of immediate interest; remote"
+},
+{
+"word": "spasmodic",
+"pos": "a",
+"zh": "a. 痉挛的, 痉挛性的, 由痉挛引起的, 抽搐的, 间歇的, 突发性的, 一阵阵的 / [医] 痉挛的",
+"en": "s affected by involuntary jerky muscular contractions; resembling a spasm / s occurring in spells and often abruptly"
+},
+{
+"word": "ultrasonic",
+"pos": "n/a",
+"zh": "n. 超声波 / a. 超音速的",
+"en": "s having frequencies above those of audible sound"
+},
+{
+"word": "ensign",
+"pos": "n",
+"zh": "n. 旗, 海军少尉, 徽章",
+"en": "n. a person who holds a commissioned rank in the United States Navy or the United States Coast Guard; below lieutenant j…"
+}
+]

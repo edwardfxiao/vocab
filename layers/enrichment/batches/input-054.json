@@ -1,0 +1,602 @@
+[
+{
+"word": "loosen",
+"pos": "vt/vi",
+"zh": "vt. 放松, 松开, 解除 / vi. 变松, 松弛",
+"en": "v. make loose or looser / v. make less dense / v. become loose or looser or less tight"
+},
+{
+"word": "lottery",
+"pos": "n",
+"zh": "n. 奖券, 彩票, 运气 / [经] 抽彩给奖法",
+"en": "n. something that is regarded as a chance event / n. players buy (or are given) chances and prizes are distributed by ca…"
+},
+{
+"word": "chore",
+"pos": "n",
+"zh": "n. 零工, 家务 / [经] 零工",
+"en": "n a specific piece of work required to be done as a duty or for a specific fee"
+},
+{
+"word": "cellar",
+"pos": "n",
+"zh": "n. 地窖, 地下室, 藏酒",
+"en": "n. storage space where wines are stored"
+},
+{
+"word": "procession",
+"pos": "n",
+"zh": "n. 队伍, 连续, 列队行进, 涌出",
+"en": "n. the group action of a collection of people or animals or vehicles moving ahead in more or less regular formation"
+},
+{
+"word": "royalty",
+"pos": "n",
+"zh": "n. 皇室, 王族成员, 王权, 特权阶层, 庄严 / [经] 特许权, 使用费, 使用税",
+"en": "n. payment to the holder of a patent or copyright or resource for the right to use their property / n. royal persons col…"
+},
+{
+"word": "honourable",
+"pos": "a",
+"zh": "a. 值得尊敬的, 荣耀的, 高贵的 / [法] 荣誉的, 正直的, 体面的",
+"en": "a worthy of being honored; entitled to honor and respect / s adhering to ethical and moral principles"
+},
+{
+"word": "sticky",
+"pos": "a",
+"zh": "a. 粘的, 有粘性的, 顽固的",
+"en": "s. moist as with undried perspiration and with clothing sticking to the body / s. covered with an adhesive material"
+},
+{
+"word": "appliance",
+"pos": "n",
+"zh": "n. 器械, 用具, 应用 / [医] 矫正器; 器",
+"en": "n. a device or control that is very useful for a particular job / n. durable goods for home or office use"
+},
+{
+"word": "circus",
+"pos": "n",
+"zh": "n. 马戏团, 马戏, 竞技场",
+"en": "n. a travelling company of entertainers; including trained animals / n. a performance given by a traveling company of ac…"
+},
+{
+"word": "infinite",
+"pos": "n/a",
+"zh": "n. 无限, 神 / a. 无穷的, 无限的, 极大的",
+"en": "a. having no limits or boundaries in time or space or extent or magnitude / a. of verbs; having neither person nor numbe…"
+},
+{
+"word": "gauge",
+"pos": "n/vt",
+"zh": "n. 标准度量, 计量器 / vt. 精确计量, 估计 / [计] 线规",
+"en": "n. a measuring instrument for measuring and indicating a quantity such as the thickness of wire or the amount of rain et…"
+},
+{
+"word": "plaster",
+"pos": "n/vt",
+"zh": "n. 石膏, 灰泥, 安慰(缓解)用品, 膏药 / vt. 涂以灰泥, 敷以膏药, 掩饰, 使平服, 彻底击败, 减轻, 粘贴",
+"en": "n. a mixture of lime or gypsum with sand and water; hardens into a smooth solid; used to cover walls and ceilings / n. a…"
+},
+{
+"word": "gossip",
+"pos": "n/vi",
+"zh": "n. 闲聊, 随笔, 流言, 爱讲闲话的人 / vi. 说闲话, 闲聊",
+"en": "n. a report (often malicious) about the behavior of other people / n. a person given to gossiping and divulging personal…"
+},
+{
+"word": "apprentice",
+"pos": "n/vt",
+"zh": "n. 学徒, 生手 / vt. 使做学徒",
+"en": "n. works for an expert to learn a trade / v. be or work as an apprentice"
+},
+{
+"word": "proprietor",
+"pos": "n",
+"zh": "n. 所有者 / [经] 所有人, 资本主, 业主",
+"en": "n (law) someone who owns (is legal possessor of) a business"
+},
+{
+"word": "inhabit",
+"pos": "vt",
+"zh": "vt. 居住于, 占据, 栖息",
+"en": "v. be present in"
+},
+{
+"word": "pigeon",
+"pos": "n",
+"zh": "n. 鸽子, 易上当受骗的人, 年轻女子",
+"en": "n. wild and domesticated birds having a heavy body and short legs"
+},
+{
+"word": "hospitality",
+"pos": "n",
+"zh": "n. 款待, 亲切, 殷勤",
+"en": "n kindness in welcoming guests or strangers"
+},
+{
+"word": "injustice",
+"pos": "n",
+"zh": "n. 不公平, 非正义的行为 / [法] 不公正, 不公平, 权利侵害",
+"en": "n. an unjust act / n. the practice of being unjust or unfair"
+},
+{
+"word": "dentist",
+"pos": "n",
+"zh": "n. 牙科医生 / [医] 牙医师",
+"en": "n. a person qualified to practice dentistry"
+},
+{
+"word": "deprivation",
+"pos": "n",
+"zh": "n. 剥夺, 剥夺官职, 免职 / [医] 丧失, 剥夺, 缺乏",
+"en": "n a state of extreme poverty / n the disadvantage that results from losing something / n act of depriving someone of foo…"
+},
+{
+"word": "excerpt",
+"pos": "n/v",
+"zh": "n. 摘录 / v. 引用, 摘录",
+"en": "n. a passage selected from a larger work / v. take out of a literary work in order to cite or copy"
+},
+{
+"word": "detain",
+"pos": "vt",
+"zh": "vt. 扣留, 扣押, 耽搁 / [法] 拘留, 扣押, 留住",
+"en": "v deprive of freedom; take into confinement / v stop or halt / v cause to be slowed down or delayed"
+},
+{
+"word": "motorcycle",
+"pos": "n",
+"zh": "n. 摩托车 / [机] 机动车, 机踏车, 摩托车",
+"en": "n. a motor vehicle with two wheels and a strong frame"
+},
+{
+"word": "soy",
+"pos": "n",
+"zh": "n. 酱油, 大豆 / [医] 大豆; 酱油",
+"en": "n. a source of oil; used for forage and soil improvement and as food / n. erect bushy hairy annual herb having trifoliat…"
+},
+{
+"word": "armour",
+"pos": "n",
+"zh": "n. 甲胄, 装甲, 潜水服",
+"en": "n a military unit consisting of armored fighting vehicles / n protective covering made of metal and used in combat / n t…"
+},
+{
+"word": "miniature",
+"pos": "n/a",
+"zh": "n. 缩图, 小画像 / a. 小规模的, 纤小的",
+"en": "n. painting or drawing included in a book (especially in illuminated medieval manuscripts) / n. a copy that reproduces a…"
+},
+{
+"word": "solitary",
+"pos": "n/a",
+"zh": "n. 独居者 / a. 孤独的, 独居的",
+"en": "n confinement of a prisoner in isolation from other prisoners / n one who lives in solitude / s characterized by or pref…"
+},
+{
+"word": "oversight",
+"pos": "n",
+"zh": "n. 勘漏, 失察, 失败, 照料 / [经] 监督权",
+"en": "n. an unintentional omission resulting from failure to notice something / n. a mistake resulting from inattention"
+},
+{
+"word": "dub",
+"pos": "vt/n",
+"zh": "vt. 配音, 轻点, 授予称号, 击 / n. 一下击鼓声, 笨蛋",
+"en": "n. the new sounds added by dubbing / v. give a nickname to / v. provide (movies) with a soundtrack of a foreign language"
+},
+{
+"word": "reunion",
+"pos": "n",
+"zh": "n. 团圆, 重聚 / [医] 再连合, 复连[合]",
+"en": "n. a party of former associates who have come together again / n. the act of coming together again"
+},
+{
+"word": "curiously",
+"pos": "adv",
+"zh": "adv. 好奇地",
+"en": "r. in a manner differing from the usual or expected / r. with curiosity"
+},
+{
+"word": "ripe",
+"pos": "a",
+"zh": "a. 成熟的, 熟练的, 成年的 / [医] 成熟的",
+"en": "a. fully developed or matured and ready to be eaten or used / s. fully prepared or eager / s. at the highest point of de…"
+},
+{
+"word": "photographic",
+"pos": "a",
+"zh": "a. 照相的, 摄影用的, 详细记录的, 逼真的, 酷似的",
+"en": "a. relating to photography or obtained by using photography / s. representing people or nature with the exactness and fi…"
+},
+{
+"word": "unbelievable",
+"pos": "a",
+"zh": "a. 难以置信的",
+"en": "a beyond belief or understanding / s having a probability too low to inspire belief"
+},
+{
+"word": "trolley",
+"pos": "n/vt/vi",
+"zh": "n. 电车, 手推车, 台车 / vt. 用手推车运 / vi. 乘电车",
+"en": "n a wheeled vehicle that runs on rails and is propelled by electricity"
+},
+{
+"word": "coordination",
+"pos": "n",
+"zh": "n. 同等, 协调 / [计] 协调; 进程协调",
+"en": "n. the skillful and effective interaction of movements / n. the regulation of diverse elements into an integrated and ha…"
+},
+{
+"word": "jewel",
+"pos": "n/vt",
+"zh": "n. 珠宝, 贵重物, 镶珠宝的饰物 / vt. 饰以珠宝, 镶以宝石",
+"en": "n. a precious or semiprecious stone incorporated into a piece of jewelry / n. a person who is as brilliant and precious …"
+},
+{
+"word": "slogan",
+"pos": "n",
+"zh": "n. 呐喊声, 标语, 口号",
+"en": "n a favorite saying of a sect or political group"
+},
+{
+"word": "outrageous",
+"pos": "a",
+"zh": "a. 暴虐的, 极无礼的, 可恶的",
+"en": "s grossly offensive to decency or morality; causing horror / s greatly exceeding bounds of reason or moderation"
+},
+{
+"word": "nominal",
+"pos": "a/n",
+"zh": "a. 名义上的, 名字的, 有名无实的, 稍许的 / n. 名词性词",
+"en": "a. relating to or constituting or bearing or giving a name / s. insignificantly small; a matter of form only (`tokenish'…"
+},
+{
+"word": "hen",
+"pos": "n",
+"zh": "n. 母鸡, 雌禽",
+"en": "n. adult female chicken / n. adult female bird / n. flesh of an older chicken suitable for stewing / n. female of certai…"
+},
+{
+"word": "buffalo",
+"pos": "n",
+"zh": "n. 水牛 / [机] 水牛",
+"en": "n. a city on Lake Erie in western New York (near Niagara Falls) / n. meat from an American bison / v. intimidate or over…"
+},
+{
+"word": "perch",
+"pos": "n/v",
+"zh": "n. 栖木, 高位, 杆, 河鲈 / v. (使)栖息, 就位, 位于, (使)暂歇",
+"en": "n. support consisting of a branch or rod that serves as a resting place (especially for a bird) / n. a linear measure of…"
+},
+{
+"word": "tract",
+"pos": "n",
+"zh": "n. 大片土地, 地带, 小册子 / [医] 束, 道",
+"en": "n. an extended area of land / n. a system of body parts that together serve some particular purpose / n. a brief treatis…"
+},
+{
+"word": "shrine",
+"pos": "n/vt",
+"zh": "n. 圣地, 神龛, 庙 / vt. 将...置于神龛内",
+"en": "n. a place of worship hallowed by association with some sacred thing or person"
+},
+{
+"word": "bureaucratic",
+"pos": "a",
+"zh": "a. 官僚的 / [经] 机僚化的",
+"en": "a. of or relating to or resembling a bureaucrat or bureaucracy"
+},
+{
+"word": "disposition",
+"pos": "n",
+"zh": "n. 性情, 处置, 处理, 布置 / [医] 素因, 性情",
+"en": "n. your usual mood / n. a natural or acquired habit or characteristic tendency in a person or thing"
+},
+{
+"word": "beneficiary",
+"pos": "n/a",
+"zh": "n. 受惠者, 受益人 / a. 受封的",
+"en": "n. the recipient of funds or other benefits / a. having or arising from a benefice"
+},
+{
+"word": "mold",
+"pos": "n/v",
+"zh": "n. 模子, 模型, 霉 / v. 形成, 塑造, 发霉",
+"en": "n. container into which liquid is poured to create a given shape when it hardens / n. loose soil rich in organic matter …"
+},
+{
+"word": "nickname",
+"pos": "n/vt",
+"zh": "n. 绰号, 昵称 / vt. 给...取绰号, 叫错名字 / [计] 绰号",
+"en": "n. a familiar name for a person (often a shortened version of a person's given name) / n. a descriptive name for a place…"
+},
+{
+"word": "addict",
+"pos": "vt/n",
+"zh": "vt. 使沉溺, 使上瘾 / n. 入迷的人, 上瘾者",
+"en": "n. someone who is so ardently devoted to something that it resembles an addiction / n. someone who is physiologically de…"
+},
+{
+"word": "siege",
+"pos": "n/vt",
+"zh": "n. 包围, 围攻, 再三的努力 / vt. 包围, 围攻",
+"en": "n. the action of an armed force that surrounds a fortified place and isolates it while continuing to attack"
+},
+{
+"word": "cushion",
+"pos": "n/vt",
+"zh": "n. 垫子, 橡皮软垫 / vt. 加垫褥, 缓冲, 掩盖",
+"en": "n. the layer of air that supports a hovercraft or similar vehicle / n. a soft bag filled with air or a mass of padding s…"
+},
+{
+"word": "dial",
+"pos": "n/v",
+"zh": "n. 刻度盘, 钟面, 转盘 / v. 拨",
+"en": "n. the face of a timepiece; graduated to show the hours / n. the control on a radio or television set that is used for t…"
+},
+{
+"word": "bacon",
+"pos": "n",
+"zh": "n. 熏猪肉 / [机] 腌肉",
+"en": "n. back and sides of a hog salted and dried or smoked; usually sliced thin and fried / n. English scientist and Francisc…"
+},
+{
+"word": "mustard",
+"pos": "n",
+"zh": "n. 芥末, 芥菜, 强烈的兴趣 / [医] 芥子; 芥属植物",
+"en": "n. any of several cruciferous plants of the genus Brassica / n. pungent powder or paste prepared from ground mustard see…"
+},
+{
+"word": "berry",
+"pos": "n/vi",
+"zh": "n. 浆果 / vi. 采集浆果",
+"en": "n. any of numerous small and pulpy edible fruits; used as desserts or in making jams and jellies and preserves / n. a sm…"
+},
+{
+"word": "ramp",
+"pos": "n/vi/vt",
+"zh": "n. 斜坡, 坡道, 敲诈 / vi. 狂跳乱撞, 乱冲, 敲诈, 蔓延 / vt. 使有斜面, 敲诈",
+"en": "n. an inclined surface connecting two levels / n. North American perennial having a slender bulb and whitish flowers / n…"
+},
+{
+"word": "villager",
+"pos": "n",
+"zh": "n. 村民",
+"en": "n. one who has lived in a village most of their life"
+},
+{
+"word": "hail",
+"pos": "n/vt/vi/interj",
+"zh": "n. 冰雹, 致敬, 欢呼, 招呼 / vt. 向...欢呼, 致敬, 招呼, 使象下雹样落下 / vi. 招呼, 下雹 / interj. 万岁, 欢迎",
+"en": "n. precipitation of ice pellets when there are strong rising air currents / n. many objects thrown forcefully through th…"
+},
+{
+"word": "realism",
+"pos": "n",
+"zh": "n. 写实主义, 现实, 实在论 / [法] 现实主义",
+"en": "n. the attribute of accepting the facts of life and favoring practicality and literal truth / n. (philosophy) the philos…"
+},
+{
+"word": "indoor",
+"pos": "a",
+"zh": "a. 户内的, 室内的",
+"en": "a. located, suited for, or taking place within a building / s. within doors"
+},
+{
+"word": "secretly",
+"pos": "adv",
+"zh": "adv. 秘密地, 背地里",
+"en": "r. in secrecy; not openly / r. not openly; inwardly"
+},
+{
+"word": "continuation",
+"pos": "n",
+"zh": "n. 继续, 续集, 补编 / [医] 连续",
+"en": "n the act of continuing an activity without interruption / n a part added to a book or play that continues and extends i…"
+},
+{
+"word": "naive",
+"pos": "a",
+"zh": "a. 天真的, 纯真的, 幼稚的",
+"en": "a. marked by or showing unaffected simplicity and lack of guile or worldly experience / s. inexperienced"
+},
+{
+"word": "slab",
+"pos": "n/vt",
+"zh": "n. 平板, 厚片 / vt. 切成厚板, 以平板盖上",
+"en": "n. block consisting of a thick piece of something"
+},
+{
+"word": "arctic",
+"pos": "a/n",
+"zh": "a. 北极的, 极寒的 / n. 北极圈, 北极",
+"en": "n. the regions to the north of the Arctic Circle centered on the North Pole / n. a waterproof overshoe that protects sho…"
+},
+{
+"word": "decorative",
+"pos": "a",
+"zh": "a. 装饰性的",
+"en": "s serving an esthetic rather than a useful purpose"
+},
+{
+"word": "zoo",
+"pos": "n",
+"zh": "n. 动物园",
+"en": "n the facility where wild animals are housed for exhibition"
+},
+{
+"word": "compartment",
+"pos": "n",
+"zh": "n. 分隔间, 卧车包房, 防水舱隔 / [医] 隔室, 隔间",
+"en": "n. a space into which an area is subdivided / n. a partitioned section, chamber, or separate room within a larger enclos…"
+},
+{
+"word": "boiler",
+"pos": "n",
+"zh": "n. 煮器, 汽锅, 锅炉 / [化] 锅炉",
+"en": "n. sealed vessel where water is converted to steam"
+},
+{
+"word": "kindergarten",
+"pos": "n",
+"zh": "n. 幼稚园",
+"en": "n. a preschool for children age 4 to 6 to prepare them for primary school"
+},
+{
+"word": "boulder",
+"pos": "n",
+"zh": "n. 大圆石 / [机] 圆石, 漂石",
+"en": "n. a large smooth mass of rock detached from its place of origin / n. a town in north central Colorado; Rocky Mountains …"
+},
+{
+"word": "fracture",
+"pos": "n/v",
+"zh": "n. 破碎, 骨折 / v. (使)破碎, (使)破裂",
+"en": "n. breaking of hard tissue such as bone / n. the act of cracking something / v. violate or abuse / v. interrupt, break, …"
+},
+{
+"word": "prose",
+"pos": "n/v/a",
+"zh": "n. 散文 / v. 写散文 / a. 散文的, 平凡的",
+"en": "n. ordinary writing as distinguished from verse / n. matter of fact, commonplace, or dull expression"
+},
+{
+"word": "quilt",
+"pos": "n/vt/vi",
+"zh": "n. 棉被 / vt. 加软衬料后缝制, 东拼西凑地编 / vi. 缝被子",
+"en": "n. bedding made of two layers of cloth filled with stuffing and stitched together / v. stitch or sew together / v. creat…"
+},
+{
+"word": "pyramid",
+"pos": "n/v",
+"zh": "n. 角锥, 金字塔 / v. (使)成金字塔状, (使)渐增, (使)上涨",
+"en": "n. a polyhedron having a polygonal base and triangular sides with a common vertex / n. (stock market) a series of transa…"
+},
+{
+"word": "utter",
+"pos": "a/vt",
+"zh": "a. 全然的, 绝对的, 完全的 / vt. 发出声音, 做声, 发表, 发射, 流通",
+"en": "v. express audibly; utter sounds (not necessarily words) / v. put into circulation"
+},
+{
+"word": "bachelor",
+"pos": "n",
+"zh": "n. 单身汉, 学士 / [法] 学士, 单身汉",
+"en": "n. a man who has never been married / v. lead a bachelor's existence"
+},
+{
+"word": "tomb",
+"pos": "n/vt",
+"zh": "n. 坟墓, 死亡 / vt. 埋葬",
+"en": "n a place for the burial of a corpse (especially beneath the ground and marked by a tombstone)"
+},
+{
+"word": "victor",
+"pos": "n/a",
+"zh": "n. 胜利者 / a. 胜利的",
+"en": "n. a combatant who is able to defeat rivals"
+},
+{
+"word": "detection",
+"pos": "n",
+"zh": "n. 发现, 察觉, 探测 / [计] 检波; 检测",
+"en": "n. the perception that something has occurred or some state exists / n. the act of detecting something; catching sight o…"
+},
+{
+"word": "unrest",
+"pos": "n",
+"zh": "n. 不安的状态, 动荡的局面 / [医] 不安",
+"en": "n. a feeling of restless agitation"
+},
+{
+"word": "proudly",
+"pos": "adv",
+"zh": "adv. 傲慢地, 自大地, 得意洋洋地",
+"en": "r. with pride; in a proud manner"
+},
+{
+"word": "consolidate",
+"pos": "vt/vi",
+"zh": "vt. 巩固, 使联合, 统一 / vi. 巩固 / [计] 合并计算",
+"en": "v. unite into one / v. make firm or secure; strengthen / v. bring together into a single whole or system / v. form into …"
+},
+{
+"word": "descendant",
+"pos": "n/a",
+"zh": "n. 后裔, 子孙 / a. 传下的, 下降的",
+"en": "n. a person considered as descended from some ancestor or race / s. going or coming down / s. proceeding by descent from…"
+},
+{
+"word": "scarf",
+"pos": "n/vt",
+"zh": "n. 围巾, 头巾, 领带, 领巾, 嵌接 / vt. 用围巾围, 嵌接",
+"en": "n. a garment worn around the head or neck or shoulders for warmth or decoration / v. masturbate while strangling oneself…"
+},
+{
+"word": "shrub",
+"pos": "n",
+"zh": "n. 矮树, 灌木, 果汁甜酒",
+"en": "n. a low woody perennial plant usually having several major stems"
+},
+{
+"word": "seasonal",
+"pos": "a",
+"zh": "a. 季节的, 依照季节的, 周期性的 / [经] 季节性的, 季节的",
+"en": "a. occurring at or dependent on a particular season"
+},
+{
+"word": "freeway",
+"pos": "n",
+"zh": "n. 高速公路",
+"en": "n a broad highway designed for high-speed traffic"
+},
+{
+"word": "upward",
+"pos": "a/adv",
+"zh": "a. 向上的 / adv. 以上",
+"en": "s. directed up"
+},
+{
+"word": "livestock",
+"pos": "n",
+"zh": "n. 家畜 / [经] 牲畜, 家畜",
+"en": "n. any animals kept for use or profit"
+},
+{
+"word": "ham",
+"pos": "n/a/v",
+"zh": "n. 火腿, 后腿, 笨拙演员 / a. 过火的, 做作的 / v. 演得过火",
+"en": "n. meat cut from the thigh of a hog (usually smoked) / n. (Old Testament) son of Noah / n. a licensed amateur radio oper…"
+},
+{
+"word": "denote",
+"pos": "vt",
+"zh": "vt. 指示, 表示",
+"en": "v. be a sign or indication of / v. have as a meaning"
+},
+{
+"word": "pumpkin",
+"pos": "n",
+"zh": "n. 南瓜",
+"en": "n. a coarse vine widely cultivated for its large pulpy round orange fruit with firm orange skin and numerous seeds; subs…"
+},
+{
+"word": "imitate",
+"pos": "vt",
+"zh": "vt. 模仿, 效法, 冒充, 仿造",
+"en": "v. reproduce someone's behavior or looks / v. appear like, as in behavior or appearance / v. make a reproduction or copy…"
+},
+{
+"word": "twelfth",
+"pos": "num",
+"zh": "num. 第十二, 十二分之一",
+"en": "n. position 12 in a countable series of things / s. coming next after the eleventh and just before the thirteenth in pos…"
+},
+{
+"word": "fellowship",
+"pos": "n",
+"zh": "n. 伙伴关系, 共同参与, 团体, 奖学金, 友谊 / [经] 合伙关系, 研究员薪金, 研究员基金",
+"en": "n. money granted (by a university or foundation or other agency) for advanced study or research"
+}
+]

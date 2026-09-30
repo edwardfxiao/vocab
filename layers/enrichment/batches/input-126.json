@@ -1,0 +1,602 @@
+[
+{
+"word": "avowed",
+"pos": "a",
+"zh": "a. 坦率承认的, 公开宣布的 / [法] 公开承认的, 公开宣布的, 公认的",
+"en": "s. openly declared as such"
+},
+{
+"word": "constabulary",
+"pos": "a/n",
+"zh": "a. 警察的, 警官的 / n. 警官队, 警察",
+"en": "n the force of policemen and officers"
+},
+{
+"word": "watercress",
+"pos": "n",
+"zh": "n. 水田芥, 西洋菜",
+"en": "n. any of several water-loving cresses / n. cresses that grow in clear ponds and streams"
+},
+{
+"word": "wholehearted",
+"pos": "a",
+"zh": "a. 一心一意的, 诚恳的",
+"en": "s with unconditional and enthusiastic devotion"
+},
+{
+"word": "ostentatious",
+"pos": "a",
+"zh": "a. 装饰表面的, 铺张的, 夸示的, 华美的, 显眼的",
+"en": "a. intended to attract notice and impress others / s. (of a display) tawdry or vulgar"
+},
+{
+"word": "shag",
+"pos": "n/vt/vi",
+"zh": "n. 粗毛, 蓬乱一团 / vt. 使蓬松, 使杂乱 / vi. 蓬松",
+"en": "n. a strong coarse tobacco that has been shredded / n. a matted tangle of hair or fiber / n. a fabric with long coarse n…"
+},
+{
+"word": "breadcrumb",
+"pos": "n",
+"zh": "n. 面包屑",
+"en": "n. crumb of bread; used especially for coating or thickening"
+},
+{
+"word": "aground",
+"pos": "adv",
+"zh": "adv. 搁浅地, 地面上",
+"en": "a. stuck in a place where a ship can no longer float / r. with the bottom lodged on the ground"
+},
+{
+"word": "twang",
+"pos": "n/vi/vt",
+"zh": "n. 弦声, 砰然一声, 鼻音 / vi. 砰然响, 发拨弦声, 带鼻音讲话 / vt. 用鼻音讲, 使发拨弦声",
+"en": "n. a sharp vibrating sound (as of a plucked string) / n. exaggerated nasality in speech (as in some regional dialects) /…"
+},
+{
+"word": "emir",
+"pos": "n",
+"zh": "n. 埃米尔(穆斯林国家酋长等的称号)",
+"en": "n. an independent ruler or chieftain (especially in Africa or Arabia)"
+},
+{
+"word": "haddock",
+"pos": "n",
+"zh": "n. 黑斑鳕",
+"en": "n. lean white flesh of fish similar to but smaller than cod; usually baked or poached or as fillets sauteed or fried / n…"
+},
+{
+"word": "castrate",
+"pos": "vt",
+"zh": "vt. 阉割, 删除, 使丧失力量(或效果) / [医] 去生殖腺者, 阉者, 阉, 阉割",
+"en": "n a man who has been castrated and is incapable of reproduction / v deprive of strength or vigor / v edit by omitting or…"
+},
+{
+"word": "blackcurrant",
+"pos": "n",
+"zh": "n. 黑醋栗",
+"en": ""
+},
+{
+"word": "damsel",
+"pos": "n",
+"zh": "n. 少女, 闺女",
+"en": "n. a young unmarried woman"
+},
+{
+"word": "astrologer",
+"pos": "n",
+"zh": "n. 占星家",
+"en": "n. someone who predicts the future by the positions of the planets and sun and Moon"
+},
+{
+"word": "eponymous",
+"pos": "a",
+"zh": "a. 齐名的",
+"en": "a. being or relating to or bearing the name of an eponym"
+},
+{
+"word": "grail",
+"pos": "n",
+"zh": "n. 长期以来梦寐以求的东西",
+"en": "n. the object of any prolonged endeavor / n. (legend) chalice used by Christ at the Last Supper"
+},
+{
+"word": "eczema",
+"pos": "n",
+"zh": "n. 湿疹 / [医] 湿疹",
+"en": "n. generic term for inflammatory conditions of the skin; particularly with vesiculation in the acute stages"
+},
+{
+"word": "jangle",
+"pos": "v/n",
+"zh": "v. 吵架, (使)发出刺耳声 / n. 吵嚷, 刺耳声, 空谈",
+"en": "n a metallic sound / v make a sound typical of metallic objects"
+},
+{
+"word": "follicle",
+"pos": "n",
+"zh": "n. 小囊, 滤泡 / [医] 滤泡, 小囊; 卵泡; ńň(植)",
+"en": "n. any small spherical group of cells containing a cavity"
+},
+{
+"word": "freebie",
+"pos": "n",
+"zh": "n. 免费的东西；免费赠品（尤指戏院赠券）",
+"en": "n. something that is free (usually provided as part of a promotional scheme)"
+},
+{
+"word": "whinge",
+"pos": "vi/n",
+"zh": "vi. 喋喋不休地抱怨; 哭诉 / n. 抱怨不止",
+"en": "v. i. To whine."
+},
+{
+"word": "progesterone",
+"pos": "n",
+"zh": "n. 孕酮, 孕激素 / [化] 孕甾酮",
+"en": "n. a steroid hormone (trade name Lipo-Lutin) produced in the ovary; prepares and maintains the uterus for pregnancy"
+},
+{
+"word": "dramatist",
+"pos": "n",
+"zh": "n. 剧作家",
+"en": "n. someone who writes plays"
+},
+{
+"word": "snigger",
+"pos": "vi/n",
+"zh": "vi. 窃笑 / n. 窃笑, 暗笑",
+"en": "n a disrespectful laugh / v laugh quietly"
+},
+{
+"word": "javelin",
+"pos": "n",
+"zh": "n. 标枪",
+"en": "n. an athletic competition in which a javelin is thrown as far as possible / n. a spear thrown as a weapon or in competi…"
+},
+{
+"word": "storyline",
+"pos": "n",
+"zh": "n. 故事情节",
+"en": "n. the plot of a book or play or film"
+},
+{
+"word": "nigh",
+"pos": "a/adv/prep",
+"zh": "a. 在附近的 / adv. 在附近地 / prep. 近于",
+"en": "a not far distant in time or space or degree or circumstances / s being on the left side / r near in time or place or re…"
+},
+{
+"word": "flamenco",
+"pos": "n",
+"zh": "n. 弗拉曼柯舞, 弗拉曼柯舞曲",
+"en": "n. guitar music composed for dancing the flamenco / n. a style of dancing characteristic of the Andalusian Gypsies; vigo…"
+},
+{
+"word": "slop",
+"pos": "n/vi/vt",
+"zh": "n. 外衣, 工作服, 泥浆, 污水, 过分热情, 口若悬河 / vi. 溅出, 踏着泥泞前进 / vt. 使溢出, 使溅出, 弄脏",
+"en": "n. wet feed (especially for pigs) consisting of mostly kitchen waste mixed with water or skimmed or sour milk / n. deep …"
+},
+{
+"word": "cellulite",
+"pos": "n",
+"zh": "n. （胖女人臀腿部的）脂肪团",
+"en": "n. lumpy deposits of body fat especially on women's thighs etc."
+},
+{
+"word": "fizz",
+"pos": "vi/n",
+"zh": "vi. 嘶嘶响, 显示兴奋 / n. 嘶嘶声, 兴奋, 活力",
+"en": "n. an effervescent beverage (usually alcoholic)"
+},
+{
+"word": "marksman",
+"pos": "n",
+"zh": "n. 射手, 狙击兵, 神射手 / [法] 按手印者, 不能用笔署名者",
+"en": "n. someone skilled in shooting"
+},
+{
+"word": "levitate",
+"pos": "v",
+"zh": "v. (使)轻轻浮起, (使)飘浮空中",
+"en": "v. cause to rise in the air and float, as if in defiance of gravity / v. be suspended in the air, as if in defiance of g…"
+},
+{
+"word": "bimbo",
+"pos": "n",
+"zh": "n. 男人(尤指彪形大汉), 女人",
+"en": "n. a young woman indulged by rich and powerful older men"
+},
+{
+"word": "sunbathe",
+"pos": "n",
+"zh": "n. 日光浴",
+"en": "v expose one's body to the sun"
+},
+{
+"word": "offside",
+"pos": "n",
+"zh": "n. 外侧, 越位",
+"en": "n. (sport) the mistake of occupying an illegal position on the playing field (in football, soccer, ice hockey, field hoc…"
+},
+{
+"word": "banknote",
+"pos": "n",
+"zh": "n. 钞票",
+"en": "n a piece of paper money (especially one issued by a central bank)"
+},
+{
+"word": "titillate",
+"pos": "vt",
+"zh": "vt. 呵...痒, 使觉得痒, 使兴奋, 使高兴, 使愉快",
+"en": "v. excite pleasurably or erotically"
+},
+{
+"word": "ante",
+"pos": "n/v",
+"zh": "n. 赌注 / v. 下赌注",
+"en": "n. (poker) the initial contribution that each player makes to the pot / v. place one's stake"
+},
+{
+"word": "fuchsia",
+"pos": "n",
+"zh": "n. 倒挂金钟属植物",
+"en": "n. any of various tropical shrubs widely cultivated for their showy drooping purplish or reddish or white flowers; Centr…"
+},
+{
+"word": "thoroughbred",
+"pos": "a/n",
+"zh": "a. 受过严格训练的, 良种的 / n. 受过严格训练的人, 良种动物",
+"en": "n. a well-bred person / n. a racehorse belonging to a breed that originated from a cross between Arabian stallions and E…"
+},
+{
+"word": "guardsman",
+"pos": "n",
+"zh": "n. 卫兵, (英)近卫兵, (美)国民警卫队士兵",
+"en": "n. a soldier who is a member of a unit called `the guard' or `guards'"
+},
+{
+"word": "hovel",
+"pos": "n",
+"zh": "n. 简陋小屋, 杂物间, 家畜小屋",
+"en": "n. small crude shelter used as a dwelling"
+},
+{
+"word": "potpourri",
+"pos": "n",
+"zh": "n. 混合物, 杂曲, 混成曲, 杂集, 大杂烩",
+"en": "n. a jar of mixed flower petals and spices used as perfume"
+},
+{
+"word": "swill",
+"pos": "vt/vi/n",
+"zh": "vt. 冲洗, 痛饮 / vi. 大口地喝, 冲刷 / n. 涮, 冲洗, 痛饮, 泔脚",
+"en": "v. drink large quantities of (liquid, especially alcoholic drink)"
+},
+{
+"word": "chortle",
+"pos": "vi/n",
+"zh": "vi. 咯咯笑 / n. 咯咯的欢笑(声)",
+"en": "n. a soft partly suppressed laugh"
+},
+{
+"word": "xenophobia",
+"pos": "n",
+"zh": "n. 无端畏惧和憎恨外国人/陌生人, 对外国人的畏惧和憎恨 / [医] 生客恐怖",
+"en": "n. a fear of foreigners or strangers"
+},
+{
+"word": "ineffable",
+"pos": "a",
+"zh": "a. 无法形容的, 不可言喻的, 避讳的",
+"en": "s. too sacred to be uttered"
+},
+{
+"word": "iconographic",
+"pos": "a",
+"zh": "a. 图像材料的；肖像学的；肖像的；图示法的象征",
+"en": "a. Of or pertaining to iconography. / a. Representing by means of pictures or diagrams; as, an /    icongraphic encyclop…"
+},
+{
+"word": "supine",
+"pos": "a",
+"zh": "a. 仰卧的, 掌心向上的, 懒散的 / [医] 仰卧的, 旋后的",
+"en": "s. lying face upward"
+},
+{
+"word": "abscond",
+"pos": "vi",
+"zh": "vi. 潜逃, 逃匿 / [经] (为躲避罪责,债务等)潜逃",
+"en": "v. run away; usually includes taking something or somebody along"
+},
+{
+"word": "wizardry",
+"pos": "n",
+"zh": "n. 巫术",
+"en": "n exceptional creative ability"
+},
+{
+"word": "doodle",
+"pos": "vi/n",
+"zh": "vi. 涂鸦, 混时间 / n. 傻子",
+"en": "v. make a doodle; draw aimlessly"
+},
+{
+"word": "abrogate",
+"pos": "vt",
+"zh": "vt. 废除, 取消 / [经] 取消, 废除, 不生效(的法令)",
+"en": "v. revoke formally"
+},
+{
+"word": "squeamish",
+"pos": "a",
+"zh": "a. 过于拘谨的, 神经质的, 易呕吐的",
+"en": "s excessively fastidious and easily disgusted"
+},
+{
+"word": "homespun",
+"pos": "a/n",
+"zh": "a. 家里纺的, 家里做的, 简朴的, 不做作的, 平凡的, 朴素的, 朴实的, 粗陋的 / n. 土布",
+"en": "n. a rough loosely woven fabric originally made with yarn that was spun at home / s. of textiles; having a rough surface…"
+},
+{
+"word": "emboss",
+"pos": "vt",
+"zh": "vt. 浮雕, 加以浮饰, 装饰 / [化] 压印",
+"en": "v. raise in a relief"
+},
+{
+"word": "animus",
+"pos": "n",
+"zh": "n. 基本态度, 敌意, 意向 / [医] 男性意象(精神分析用词)",
+"en": "n a feeling of ill will arousing active hostility"
+},
+{
+"word": "stratagem",
+"pos": "n",
+"zh": "n. 策略, 计谋",
+"en": "n a maneuver in a game or conversation / n an elaborate or deceitful scheme contrived to deceive or evade"
+},
+{
+"word": "epilogue",
+"pos": "n",
+"zh": "n. 结语, 尾声, 收场白 / [计] 收尾程序",
+"en": "n. a short speech (often in verse) addressed directly to the audience by an actor at the end of a play / n. a short pass…"
+},
+{
+"word": "brackish",
+"pos": "a",
+"zh": "a. 有盐味的, 令人不快的 / [机] 微有碱味的",
+"en": "s. distasteful and unpleasant; spoiled by mixture / s. slightly salty (especially from containing a mixture of seawater …"
+},
+{
+"word": "inveterate",
+"pos": "a",
+"zh": "a. 根深的, 成癖的, 积习的 / [医] 慢性顽固性的, 绵延难治的",
+"en": "s habitual / r in a habitual and longstanding manner"
+},
+{
+"word": "ignominious",
+"pos": "a",
+"zh": "a. 可耻的, 不名誉的, 下流的",
+"en": "s (used of conduct or character) deserving or bringing disgrace or shame"
+},
+{
+"word": "grovel",
+"pos": "vi",
+"zh": "vi. 趴, 匍匐, 卑躬屈膝",
+"en": "v show submission or fear"
+},
+{
+"word": "gild",
+"pos": "vt",
+"zh": "vt. 镀金, 虚饰, 装饰, 供给钱",
+"en": "v. decorate with, or as if with, gold leaf or liquid gold"
+},
+{
+"word": "fledge",
+"pos": "vt/vi",
+"zh": "vt. 喂养, 用羽毛盖上, 装上羽毛 / vi. 长羽毛",
+"en": "v. feed, care for, and rear young birds for flight / v. decorate with feathers / v. grow feathers"
+},
+{
+"word": "outermost",
+"pos": "a",
+"zh": "a. 最外面的, 最远离中心的",
+"en": "s. situated at the farthest possible point from a center"
+},
+{
+"word": "dowdy",
+"pos": "a/n",
+"zh": "a. 过时的, 懒散的 / n. 懒散女人, 邋遢女人",
+"en": "n. deep-dish apple dessert covered with a rich crust / s. lacking in smartness or taste / s. primly out of date"
+},
+{
+"word": "blurb",
+"pos": "n/vt",
+"zh": "n. 推荐广告 / vt. 推荐吹捧",
+"en": "n a promotional statement (as found on the dust jackets of books)"
+},
+{
+"word": "quixotic",
+"pos": "a",
+"zh": "a. 堂吉诃德式的, 愚侠的, 狂热而侠义的, 理想而不实际的, 充满幻想的",
+"en": "s. not sensible about practical matters; idealistic and unrealistic"
+},
+{
+"word": "fritter",
+"pos": "vt/n",
+"zh": "vt. 浪费, 细切, 剁碎 / n. 细片, 屑",
+"en": "n. small quantity of fried batter containing fruit or meat or vegetables / v. spend frivolously and unwisely"
+},
+{
+"word": "asymmetric",
+"pos": "a",
+"zh": "a. 不对称的, 偏位的 / [计] 非对称的, 不对称的, 不平衡的",
+"en": "a characterized by asymmetry in the spatial arrangement or placement of parts or components"
+},
+{
+"word": "bugle",
+"pos": "n/v",
+"zh": "n. 喇叭, 号角 / v. 吹号",
+"en": "n. a brass instrument without valves; used for military calls and fanfares / n. any of various low-growing annual or per…"
+},
+{
+"word": "consular",
+"pos": "a",
+"zh": "a. 领事的 / [经] 领事的",
+"en": "a. having to do with a consul or his office or duties"
+},
+{
+"word": "hibernate",
+"pos": "vi",
+"zh": "vi. 过冬, 冬眠, 避寒",
+"en": "v. sleep during winter / v. be in an inactive or dormant state"
+},
+{
+"word": "harpoon",
+"pos": "n/vt",
+"zh": "n. 鱼叉 / vt. 用鱼叉叉, 用鱼叉捕获",
+"en": "n. a spear with a shaft and barbed point for throwing; used for catching large fish or whales; a strong line is attached…"
+},
+{
+"word": "depredation",
+"pos": "n",
+"zh": "n. 掠夺, 破坏",
+"en": "n. an act of plundering and pillaging and marauding"
+},
+{
+"word": "offhand",
+"pos": "a/adv",
+"zh": "a. 即时的, 即席的, 无准备的, 随便的, 简慢的, 不友好的 / adv. 即时地, 即席地, 随便地",
+"en": "s. casually thoughtless or inconsiderate / r. without previous thought or preparation / r. in a casually inconsiderate m…"
+},
+{
+"word": "concurrence",
+"pos": "n",
+"zh": "n. 赞同, 意见一致, 协力 / [法] 协力, 同时发生, 一致",
+"en": "n. agreement of results or opinions / n. acting together, as agents or circumstances or events / n. a state of cooperati…"
+},
+{
+"word": "armistice",
+"pos": "n",
+"zh": "n. 休战, 停战 / [法] 休战, 停战, 停火",
+"en": "n. a state of peace agreed to between opponents so they can discuss peace terms"
+},
+{
+"word": "peremptory",
+"pos": "a",
+"zh": "a. 断然的, 俨然的, 强制的, 不容置疑的, 急迫的 / [法] 绝对的, 最后决定的, 断然的",
+"en": "s. not allowing contradiction or refusal / s. putting an end to all debate or action"
+},
+{
+"word": "proximate",
+"pos": "a",
+"zh": "a. 最近的, 将临的, 近似的 / [医] 近接的, 邻近的",
+"en": "a. closest in degree or order (space or time) especially in a chain of causes and effects / s. very close in space or ti…"
+},
+{
+"word": "winnow",
+"pos": "vt/vi/n",
+"zh": "vt. 簸, 扬(谷), 吹掉, 把挑出来, 精选 / vi. 扬谷, 分出好坏, 飞翔 / n. 扬谷, 扬谷器",
+"en": "n. the act of separating grain from chaff / v. separate the chaff from by using air currents / v. blow on"
+},
+{
+"word": "convalescent",
+"pos": "a/n",
+"zh": "a. 恢复健康的, 恢复期的, 渐愈的, 康复的 / n. 恢复中的病人, 康复的人",
+"en": "n. a person who is recovering from illness / s. returning to health after illness or debility"
+},
+{
+"word": "woodcut",
+"pos": "n",
+"zh": "n. 木刻, 木刻印版",
+"en": "n. a print made from a woodcut / n. engraving consisting of a block of wood with a design cut into it; used to make prin…"
+},
+{
+"word": "flax",
+"pos": "n",
+"zh": "n. 亚麻, 麻布, 亚麻织品 / [医] 亚麻",
+"en": "n. fiber of the flax plant that is made into thread and woven into linen fabric / n. plant of the genus Linum that is cu…"
+},
+{
+"word": "mote",
+"pos": "n",
+"zh": "n. 尘埃, 微粒",
+"en": "n (nontechnical usage) a tiny piece of anything"
+},
+{
+"word": "sloop",
+"pos": "n",
+"zh": "n. 单桅帆船",
+"en": "n. a sailing vessel with a single mast set about one third of the boat's length aft of the bow"
+},
+{
+"word": "herbaceous",
+"pos": "a",
+"zh": "a. 草本的, 叶状的, 绿色的 / [医] 草的",
+"en": "s. characteristic of a nonwoody herb or plant part"
+},
+{
+"word": "frisky",
+"pos": "a",
+"zh": "a. 乱跳的, 欢闹的",
+"en": "s playful like a lively kitten"
+},
+{
+"word": "meridian",
+"pos": "n/a",
+"zh": "n. 子午线, 经线, 顶点 / a. 子午线的, 最高点的, 顶点的",
+"en": "n. a town in eastern Mississippi / n. an imaginary great circle on the surface of the earth passing through the north an…"
+},
+{
+"word": "expunge",
+"pos": "vt",
+"zh": "vt. 擦掉, 删掉, 除去",
+"en": "v remove by erasing or crossing out or as if by drawing a line"
+},
+{
+"word": "laceration",
+"pos": "n",
+"zh": "n. 划破, 割破, 裂伤撕碎 / [医] 撕裂, 裂伤",
+"en": "n. a torn ragged wound / n. the act of lacerating"
+},
+{
+"word": "permeable",
+"pos": "a",
+"zh": "a. 有渗透性的, 能透过的 / [化] 渗透性的; 可渗透的",
+"en": "a. allowing fluids or gases to pass or diffuse through"
+},
+{
+"word": "anticipatory",
+"pos": "a",
+"zh": "a. 期待着的, 先行的, 提早发生的 / [计] 先行",
+"en": "s. in anticipation"
+},
+{
+"word": "quiescent",
+"pos": "a",
+"zh": "a. 静止的, 不活动的, 寂静的 / [医] 静息的, 静止的",
+"en": "s. not active or activated / s. marked by a state of tranquil repose / s. being quiet or still or inactive"
+},
+{
+"word": "cataclysm",
+"pos": "n",
+"zh": "n. 大洪水, 地震, (社会政治的)大变动 / [医] 渗出, 渗液, 猝变, 聚变",
+"en": "n a sudden violent change in the earth's surface / n an event resulting in great loss and misfortune"
+},
+{
+"word": "defray",
+"pos": "vt",
+"zh": "vt. 支付, 支出 / [经] 支付或准备支付",
+"en": "v. bear the expenses of"
+},
+{
+"word": "irreducible",
+"pos": "a",
+"zh": "a. 不能复归的, 不能削减的, 不可约的 / [医] 不能复位的, 不能还原的",
+"en": "a. incapable of being made smaller or simpler"
+}
+]

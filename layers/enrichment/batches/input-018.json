@@ -1,0 +1,602 @@
+[
+{
+"word": "sixty",
+"pos": "num",
+"zh": "num. 六十, 六十个",
+"en": "n. the cardinal number that is the product of ten and six / s. being ten more than fifty"
+},
+{
+"word": "theme",
+"pos": "n",
+"zh": "n. 主题, 话题, 题目",
+"en": "n. a unifying idea that is a recurrent element in literary or artistic work / n. (music) melodic subject of a musical co…"
+},
+{
+"word": "publication",
+"pos": "n",
+"zh": "n. 出版物, 出版, 公布 / [经] 发布",
+"en": "n. a copy of a printed work offered for distribution / n. the communication of something to the public; making informati…"
+},
+{
+"word": "storm",
+"pos": "n/vi/vt",
+"zh": "n. 暴风雨, 骚动, 风波, 风暴, 猛攻 / vi. 起风, 猛冲, 怒吼 / vt. 猛攻",
+"en": "n. a violent weather condition with winds 64-72 knots (11 on the Beaufort scale) and precipitation and thunder and light…"
+},
+{
+"word": "expenditure",
+"pos": "n",
+"zh": "n. 开支, 费用, 用光, 消费额 / [经] 支出, 费用, 消费",
+"en": "n money paid out; an amount spent / n the act of spending money for goods or services / n the act of consuming something"
+},
+{
+"word": "desk",
+"pos": "n",
+"zh": "n. 书桌, 办公桌, 工作台",
+"en": "n. a piece of furniture with a writing surface and usually drawers or other compartments"
+},
+{
+"word": "treaty",
+"pos": "n",
+"zh": "n. 条约, 谈判 / [经] 协议, 协定, 协商",
+"en": "n. a written agreement between two states or sovereigns"
+},
+{
+"word": "slow",
+"pos": "a/adv/v",
+"zh": "a. 慢的, 缓慢的, 迟缓的, 迟钝的, 冷漠的, 落后的 / adv. 慢地, 迟缓地 / v. (使)慢下来",
+"en": "v. become slow or slower / v. cause to proceed more slowly / a. not moving quickly; taking a comparatively long time / a…"
+},
+{
+"word": "fruit",
+"pos": "n",
+"zh": "n. 水果, 果类, 结果 / [医] 果实, 种实",
+"en": "n. the ripened reproductive body of a seed plant / n. the consequence of some effort or action / v. cause to bear fruit …"
+},
+{
+"word": "journey",
+"pos": "n/vi/vt",
+"zh": "n. 旅程, 旅行, 行程 / vi. 旅行 / vt. 游历",
+"en": "n. the act of traveling from one place to another"
+},
+{
+"word": "yellow",
+"pos": "n/a",
+"zh": "n. 黄色 / a. 黄色的",
+"en": "n. yellow color or pigment; the chromatic color resembling the hue of sunflowers or ripe lemons / v. turn yellow / s. of…"
+},
+{
+"word": "noise",
+"pos": "n/vt/vi",
+"zh": "n. 噪音, 杂音, 响声, 喧闹 / vt. 谣传 / vi. 喧闹 / [计] 噪声",
+"en": "n. sound of any kind (especially unintelligible or dissonant sound) / n. the auditory experience of sound that lacks mus…"
+},
+{
+"word": "shadow",
+"pos": "n/vt/vi",
+"zh": "n. 阴影, 荫, 影子, 影像, 阴暗, 幽灵, 少许, 隐蔽处, 庇护 / vt. 遮蔽, 使朦胧, 预示, 尾随 / vi. 渐变, 变阴暗 / [计] 阴影",
+"en": "n. shade within clear boundaries / n. a premonition of something adverse / n. refuge from danger or observation / n. a d…"
+},
+{
+"word": "struggle",
+"pos": "n/vi",
+"zh": "n. 斗争, 努力, 奋斗 / vi. 努力, 奋斗, 挣扎",
+"en": "n. an energetic attempt to achieve something / n. strenuous effort / v. to exert strenuous effort against opposition"
+},
+{
+"word": "conclude",
+"pos": "vt/vi",
+"zh": "vt. 结束, 作结论, 推断 / vi. 结束, 推断",
+"en": "v. bring to a close / v. reach a conclusion after a discussion or deliberation / v. come to a close / v. reach agreement…"
+},
+{
+"word": "dance",
+"pos": "n/v",
+"zh": "n. 跳舞, 舞蹈, 舞会 / v. 跳舞",
+"en": "n. an artistic form of nonverbal communication / n. a party of people assembled for dancing / n. a party for social danc…"
+},
+{
+"word": "sum",
+"pos": "n/vt/vi",
+"zh": "n. 总数, 总和, 金额, 概要, 顶点 / vt. 总计, 概括 / vi. 合计 / [计] 系统实用程序和维护",
+"en": "n. a quantity of money / n. a quantity obtained by the addition of a group of numbers / n. the final aggregate / n. the …"
+},
+{
+"word": "analyst",
+"pos": "n",
+"zh": "n. 分析者, 精神分析学家 / [化] 分析员; 化验员",
+"en": "n. someone who is skilled at analyzing data / n. an expert who studies financial data (on credit or securities or sales …"
+},
+{
+"word": "organise",
+"pos": "vt",
+"zh": "vt. 组织, 有机化, 给予生机",
+"en": "v bring order and organization to / v create (as an entity) / v form or join a union / v cause to be structured or order…"
+},
+{
+"word": "imply",
+"pos": "vt",
+"zh": "vt. 暗示, 意味 / [计] 隐含",
+"en": "v. express or state indirectly / v. suggest as a logically necessary consequence; in logic / v. have as a necessary feat…"
+},
+{
+"word": "illustrate",
+"pos": "vt/vi",
+"zh": "vt. 举例说明, 作图解, 阐明 / vi. 举例说明",
+"en": "v. depict with an illustration / v. supply with illustrations"
+},
+{
+"word": "captain",
+"pos": "n/vt",
+"zh": "n. 船长, 指挥官, 海军上校, 首领 / vt. 率领, 指挥",
+"en": "n. an officer holding a rank below a major but above a lieutenant / n. the naval officer in command of a military ship /…"
+},
+{
+"word": "shift",
+"pos": "n/vt/vi",
+"zh": "n. 变化, 移动, 轮班, 手段, 应急办法, 移位 / vt. 替换, 转移, 改变, 推卸, 变速 / vi. 转换, 移动, 转变, 推托, 变速 / [计] DOS内部命…",
+"en": "n. an event in which something is displaced without rotation / n. the time period during which you are at work / n. the …"
+},
+{
+"word": "revenue",
+"pos": "n",
+"zh": "n. 收入, 岁入, 税收, 税务局 / [经] 岁入, 税收, 税务局",
+"en": "n the entire amount of income before any deductions are made / n government income due to taxation"
+},
+{
+"word": "locate",
+"pos": "vt/vi",
+"zh": "vt. 找出, 设于, 位于 / vi. 定居",
+"en": "v. discover the location of; determine the place of; find by searching or examining / v. assign a location to"
+},
+{
+"word": "phase",
+"pos": "n/vt",
+"zh": "n. 时期, 局面, 方面, 位相, 相, 阶段 / vt. 使调整相位, 使定相, 使一致, 逐步执行, 实行 / [计] 阶段",
+"en": "n. any distinct time period in a sequence of events / n. (physical chemistry) a distinct state of matter in a system; ma…"
+},
+{
+"word": "display",
+"pos": "n/vt",
+"zh": "n. 显示, 陈列, 炫耀, 显示器 / vt. 陈列, 显示, 表现, 夸示 / [计] 显示器; 显示",
+"en": "n. something intended to communicate a particular impression / n. something shown to the public / n. a visual representa…"
+},
+{
+"word": "initiative",
+"pos": "n/a",
+"zh": "n. 主动行动, 首创精神, 主动权 / a. 自发的, 起始的",
+"en": "n readiness to embark on bold new ventures / n the first of a series of actions / s serving to set in motion"
+},
+{
+"word": "basically",
+"pos": "adv",
+"zh": "adv. 基本上, 主要地",
+"en": "r. in essence; at bottom or by one's (or its) very nature"
+},
+{
+"word": "sequence",
+"pos": "n/vt",
+"zh": "n. 序列, 续发事件, 顺序, 连续 / vt. 按顺序排好 / [计] 顺序",
+"en": "n. serial arrangement in which things follow in logical order or a recurrent pattern / n. a following of one thing after…"
+},
+{
+"word": "generate",
+"pos": "vt",
+"zh": "vt. 产生, 发生, 导致 / [电] 产生",
+"en": "v. bring into existence / v. produce (energy)"
+},
+{
+"word": "widely",
+"pos": "adv",
+"zh": "adv. 广泛地",
+"en": "r. to a great degree / r. so as to leave much space or distance between"
+},
+{
+"word": "assumption",
+"pos": "n",
+"zh": "n. 假定, 自负, 担任, 假装 / [经] 假定, 承担",
+"en": "n. a hypothesis that is taken for granted / n. the act of taking possession of or power over something / n. celebration …"
+},
+{
+"word": "curriculum",
+"pos": "n",
+"zh": "n. 课程 / [医] 课程, 学程",
+"en": "n an integrated course of academic studies"
+},
+{
+"word": "escape",
+"pos": "n/vi/vt",
+"zh": "n. 逃亡, 避难设备, 逃跑 / vi. 逃脱, 避开, 溜走 / vt. 逃避, 避免, 被...忘掉",
+"en": "n. the act of escaping physically / n. an inclination to retreat from unpleasant realities through diversion or fantasy …"
+},
+{
+"word": "trend",
+"pos": "n/vi",
+"zh": "n. 趋势, 倾向, 走向 / vi. 倾向, 转向 / [计] 趋势",
+"en": "n a general direction in which something tends to move / n general line of orientation / n a general tendency to change …"
+},
+{
+"word": "comfortable",
+"pos": "a/n",
+"zh": "a. 舒服的, 轻松的 / n. 盖被",
+"en": "a. providing or experiencing physical well-being or relief (`comfy' is informal) / a. free from stress or conducive to m…"
+},
+{
+"word": "angry",
+"pos": "a",
+"zh": "a. 生气的, 愤怒的",
+"en": "a. feeling or showing anger / s. (of the elements) as if showing violent anger / s. severely inflamed and painful"
+},
+{
+"word": "crew",
+"pos": "n",
+"zh": "n. 全体人员, 一群人, 全体队员 / crow的过去式",
+"en": "n. the men and women who man a vehicle (ship, aircraft, etc.) / n. the team of men manning a racing shell / v. serve as …"
+},
+{
+"word": "gate",
+"pos": "n/vt",
+"zh": "n. 门, 牌楼, 大门, 通道, 闸 / vt. 装门于 / [计] 门; 栅",
+"en": "n. a movable barrier in a fence or wall / n. a computer circuit with several inputs but only one output that can be acti…"
+},
+{
+"word": "investigate",
+"pos": "v",
+"zh": "v. 调查, 审查",
+"en": "v. investigate scientifically / v. conduct an inquiry or investigation of"
+},
+{
+"word": "cat",
+"pos": "n/vi",
+"zh": "n. 猫, 恶妇 / vi. 呕吐 / 计算机辅助教育, 计算机辅助测试, 计算机辅助翻译, 计算机辅助排版 / [计] 计算机辅助教学, 计算机辅助翻译, 计算机辅助排字, 计算…",
+"en": "n. feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats / n. a spiteful woman gos…"
+},
+{
+"word": "muscle",
+"pos": "n",
+"zh": "n. 肌肉, 臂力 / [医] 肌",
+"en": "n. one of the contractile organs of the body / n. animal tissue consisting predominantly of contractile cells / n. autho…"
+},
+{
+"word": "gallery",
+"pos": "n",
+"zh": "n. 走廊, 最高楼座, 画廊, 收集, 图库 / [计] 图库",
+"en": "n. spectators at a golf or tennis match / n. a room or series of rooms where works of art are exhibited / n. a long usua…"
+},
+{
+"word": "notion",
+"pos": "n",
+"zh": "n. 概念, 观念, 想法, 打算, 别致的小东西 / [经] 概念, 打算, 想法",
+"en": "n. a general inclusive concept / n. an odd or fanciful or capricious idea / n. (usually plural) small personal articles …"
+},
+{
+"word": "capture",
+"pos": "n/vt",
+"zh": "n. 抓取, 战利品, 捕获之物 / vt. 抓取, 获得, 迷住 / [计] 截获命令",
+"en": "n. the act of forcibly dispossessing an owner of property / n. a process whereby a star or planet holds an object in its…"
+},
+{
+"word": "closely",
+"pos": "adv",
+"zh": "adv. 接近地",
+"en": "r. in a close relation or position in time or space / r. in a close manner"
+},
+{
+"word": "chest",
+"pos": "n",
+"zh": "n. 胸, 胸部, 衣柜, 箱子 / [医] 胸, 胸廓",
+"en": "n. box with a lid; used for storage; usually large and sturdy"
+},
+{
+"word": "ministry",
+"pos": "n",
+"zh": "n. 部, 内阁, 服务 / [经] 部",
+"en": "n. religious ministers collectively (especially Presbyterian) / n. building where the business of a government departmen…"
+},
+{
+"word": "emphasis",
+"pos": "n",
+"zh": "n. 强调, 加强, 重点, 强语气",
+"en": "n. special importance or significance / n. special and significant stress by means of position or repetition e.g."
+},
+{
+"word": "truly",
+"pos": "adv",
+"zh": "adv. 真实地, 不假",
+"en": "r. in accordance with truth or fact or reality"
+},
+{
+"word": "neither",
+"pos": "adv/a/pron/conj",
+"zh": "adv. 皆不, 两个都不 / a. (两者)都不的 / pron. 两者都不 / conj. 既非, 既不",
+"en": "s. not either; not one or the other"
+},
+{
+"word": "thick",
+"pos": "a/adv/n",
+"zh": "a. 厚的, 粗壮的, 浓的, 迟钝的, 浑浊的, 多雾的, 过分的, 口齿不清的 / adv. 厚地, 密地, 浓浓地 / n. 最浓处, 最厚处, 最密集处 / [计] 暗, …",
+"en": "a. not thin; of a specific thickness or of relatively great extent from one surface to the opposite usually in the small…"
+},
+{
+"word": "afford",
+"pos": "vt",
+"zh": "vt. 买得起, 足以, 给予",
+"en": "v. be able to spare or give up / v. have the financial means to do something or buy something / v. afford access to"
+},
+{
+"word": "beauty",
+"pos": "n",
+"zh": "n. 美, 美人",
+"en": "n. the qualities that give pleasure to the senses / n. an outstanding example of its kind"
+},
+{
+"word": "prospect",
+"pos": "n/vt/vi",
+"zh": "n. 景色, 展望 / vt. 勘探, 勘察 / vi. 勘探, 有前途",
+"en": "n. the possibility of future success / v. search for something desirable / v. explore for useful or valuable things or s…"
+},
+{
+"word": "emergency",
+"pos": "n",
+"zh": "n. 紧急状况, 紧急事件, 紧急需要 / [化] 紧急情况",
+"en": "n. a sudden unforeseen crisis (usually involving danger) that requires immediate action / n. a state in which martial la…"
+},
+{
+"word": "narrow",
+"pos": "n/a/vi/vt",
+"zh": "n. 狭窄部分, 隘路 / a. 狭窄的, 仔细的, 有限的, 勉强的, 狭隘的, 手紧的 / vi. 变窄 / vt. 使变狭窄",
+"en": "n. a narrow strait connecting two bodies of water / v. make or become more narrow or restricted / a. not wide / s. limit…"
+},
+{
+"word": "inform",
+"pos": "vt/vi",
+"zh": "vt. 通知, 使了解, 使充满 / vi. 提供资料, 告发",
+"en": "v. impart knowledge of some fact, state or affairs, or event to / v. give character or essence to / v. act as an informe…"
+},
+{
+"word": "unique",
+"pos": "a",
+"zh": "a. 独一无二的, 独特的, 稀罕的",
+"en": "s. (followed by `to') applying exclusively to a given category or condition or locality / s. highly unusual or rare but …"
+},
+{
+"word": "advise",
+"pos": "vt/vi",
+"zh": "vt. 劝告, 给...出主意, 通知, 建议 / vi. 提意见, 商量",
+"en": "v. inform (somebody) of something"
+},
+{
+"word": "ethnic",
+"pos": "a",
+"zh": "a. 人种的, 种族的 / [医] 人种的",
+"en": "n. a person who is a member of an ethnic group"
+},
+{
+"word": "priority",
+"pos": "n",
+"zh": "n. 优先权, 优先 / [计] 优先级",
+"en": "n. preceding in time"
+},
+{
+"word": "stress",
+"pos": "n/vt",
+"zh": "n. 压力, 紧迫, 强调, 重音, 重点, 应力 / vt. 加压力于, 着重, 重读",
+"en": "n. the relative prominence of a syllable or musical note (especially with regard to stress or pitch) / n. special emphas…"
+},
+{
+"word": "combination",
+"pos": "n",
+"zh": "n. 组合, 合并, 联合 / [计] 组合图",
+"en": "n. a collection of things that have been combined; an assemblage of separate parts or qualities / n. a coordinated seque…"
+},
+{
+"word": "rely",
+"pos": "vi",
+"zh": "vi. 信赖, 依赖, 信任",
+"en": "v have confidence or faith in"
+},
+{
+"word": "root",
+"pos": "n/vt/vi",
+"zh": "n. 根, 根本, 根源, 基础, 底部 / vt. 使扎根, 使固定, 根除, 肃清, 搜出, 用鼻拱 / vi. 生根, 固定, 源于, 用鼻拱土, 寻找, 捧场, 支持",
+"en": "n. (botany) the usually underground organ that lacks buds or leaves or nodes; absorbs water and mineral salts; usually i…"
+},
+{
+"word": "nose",
+"pos": "n/vt/vi",
+"zh": "n. 鼻子, 突出部分, 嗅觉 / vt. 嗅到, 探出, 用鼻子触 / vi. 闻, 嗅, 探听, 告密",
+"en": "n. the organ of smell and entrance to the respiratory tract; the prominent part of the face of man or other mammals / n.…"
+},
+{
+"word": "fifteen",
+"pos": "num",
+"zh": "num. 十五, 十五个",
+"en": "n. the cardinal number that is the sum of fourteen and one / s. being one more than fourteen"
+},
+{
+"word": "liberal",
+"pos": "n/a",
+"zh": "n. 自由主义者 / a. 慷慨的, 不拘泥的, 宽大的, 自由主义的",
+"en": "n. a person who favors a political philosophy of progress and reform and the protection of civil liberties / n. a person…"
+},
+{
+"word": "appreciate",
+"pos": "vt/vi",
+"zh": "vt. 赏识, 鉴别, 为...而感激, 领会, 欣赏 / vi. 增值, 涨价",
+"en": "v. recognize with gratitude; be grateful for / v. be fully aware of; realize fully / v. gain in value / v. increase the …"
+},
+{
+"word": "succeed",
+"pos": "vi/vt",
+"zh": "vi. 成功, 继承, 继续 / vt. 继承, 接替",
+"en": "v. attain success or reach a desired goal / v. be the successor (of)"
+},
+{
+"word": "upper",
+"pos": "a/n",
+"zh": "a. 上面的, 较高的, 上级的, 上院的, 穿在外面的, 北部的, 地表的, 后期的 / n. 鞋帮, 上齿",
+"en": "n. piece of leather or synthetic material that forms the part of a shoe or boot above the sole that encases the foot / s…"
+},
+{
+"word": "interpretation",
+"pos": "n",
+"zh": "n. 解释, 演出, 翻译 / [计] 插值; 插值法; 解释",
+"en": "n. a mental representation of the meaning or significance of something / n. an explanation that results from interpretin…"
+},
+{
+"word": "sick",
+"pos": "n/a/vt",
+"zh": "n. 病人 / a. 不舒服, 有病的, 恶心的, 厌恶的, 渴望的, 病态的 / vt. 呕吐, 追击, 使(狗)去攻击",
+"en": "n. people who are sick / s. deeply affected by a strong feeling"
+},
+{
+"word": "outcome",
+"pos": "n",
+"zh": "n. 结果, 出口",
+"en": "n something that results / n a phenomenon that follows and is caused by some previous phenomenon"
+},
+{
+"word": "tooth",
+"pos": "n/vt/vi",
+"zh": "n. 牙齿, 齿状物, 爱好 / vt. 装以齿, 将...切成齿状 / vi. 啮合",
+"en": "n. hard bonelike structures in the jaws of vertebrates; used for biting and chewing or for attack and defense / n. somet…"
+},
+{
+"word": "ad",
+"pos": "n",
+"zh": "n. 广告 / [计] 地址, 模拟-数字",
+"en": "n. a public promotion of some product or service / r. in the Christian era; used before dates after the supposed year Ch…"
+},
+{
+"word": "defend",
+"pos": "vt",
+"zh": "vt. 防护, 辩护, 防卫 / [法] 作...的辩护律师, 辩护, 为...答辩",
+"en": "v. argue or speak in defense of / v. be on the defensive; act against an attack / v. protect against a challenge or atta…"
+},
+{
+"word": "alternative",
+"pos": "n/a",
+"zh": "n. 两者择一, 供替代的选择 / a. 两者择一的, 供选择的 / [计] 选择对象",
+"en": "s. necessitating a choice between mutually exclusive possibilities / s. pertaining to unconventional choices"
+},
+{
+"word": "busy",
+"pos": "a/vt/vi",
+"zh": "a. 忙碌的, 热闹的, 没空的 / vt. 使忙 / vi. 忙碌 / [计] 忙; 忙碌",
+"en": "v. keep busy with / a. actively or fully engaged or occupied / s. overcrowded or cluttered with detail / s. crowded with…"
+},
+{
+"word": "wing",
+"pos": "n/vt/vi",
+"zh": "n. 翅膀, 翼, 机翼, 派别 / vt. 给...装上翼, 飞过, 使飞, 空运, 增加...速度 / vi. 飞行",
+"en": "n. a movable organ for flying (one of a pair) / n. one of the horizontal airfoils on either side of the fuselage of an a…"
+},
+{
+"word": "catholic",
+"pos": "n/a",
+"zh": "n. 天主教徒 / a. 天主教的, 普遍的, 广泛的, 宽宏大量的",
+"en": "n. a member of a Catholic church / a. of or relating to or supporting Catholicism / s. free from provincial prejudices o…"
+},
+{
+"word": "lane",
+"pos": "n",
+"zh": "n. 小路, 巷, 弄, 单行道",
+"en": "n. a narrow way or road / n. a well-defined track or path; for e.g. swimmers or lines of traffic"
+},
+{
+"word": "flow",
+"pos": "n/vi/vt",
+"zh": "n. 流程, 流动, 流量, 洋溢, 泛滥, 涨潮 / vi. 流动, 流泄, 畅流, 川流不息, 飘扬, 涌出 / vt. 使流动, 淹没, 流出",
+"en": "n. the motion characteristic of fluids (liquids or gases) / n. the amount of fluid that flows in a given time / n. the a…"
+},
+{
+"word": "mix",
+"pos": "n/vt/vi",
+"zh": "n. 混合物, 混乱, 糊涂 / vt. 使混合, 弄混, 使结合, 混淆 / vi. 相混合, 交往, 参与",
+"en": "n. a commercially prepared mixture of dry ingredients / n. an event that combines things in a mixture / n. the act of mi…"
+},
+{
+"word": "crown",
+"pos": "n/vt",
+"zh": "n. 王冠, 王权, 顶点 / vt. 使成王, 加冕, 居...之顶",
+"en": "n. the Crown (or the reigning monarch) as the symbol of the power and authority of a monarchy / n. the part of a tooth a…"
+},
+{
+"word": "coal",
+"pos": "n/v",
+"zh": "n. 煤, 木炭 / v. 加煤",
+"en": "n. fossil fuel consisting of carbonized vegetable matter deposited in the Carboniferous period / v. supply with coal / v…"
+},
+{
+"word": "approve",
+"pos": "vt/vi",
+"zh": "vt. 赞同, 核准, 为...提供证据 / vi. 赞许",
+"en": "v. give sanction to / v. judge to be right or commendable; think well of"
+},
+{
+"word": "bloody",
+"pos": "a",
+"zh": "a. 血腥的, 嗜杀的, 有血的",
+"en": "v. cover with blood / a. having or covered with or accompanied by blood / r. extremely"
+},
+{
+"word": "zone",
+"pos": "n/vt/vi",
+"zh": "n. 地带, 带, 地区 / vt. 环绕, 使分成地带 / vi. 分成区 / [计] 卡片顶部的三行区; 区; 区域",
+"en": "n. a locally circumscribed place characterized by some distinctive features / n. any of the regions of the surface of th…"
+},
+{
+"word": "variation",
+"pos": "n",
+"zh": "n. 变更, 变化, 变种, 变奏 / [医] 变异, 变易; 变度",
+"en": "n. an instance of change; the rate or magnitude of change / n. an activity that varies from a norm or standard / n. a re…"
+},
+{
+"word": "wake",
+"pos": "vt/vi/n",
+"zh": "vt. 叫醒, 激发 / vi. 醒来, 醒着, 觉醒, 活跃起来 / n. 守侯, 守夜, 尾迹, 痕迹",
+"en": "n. the wave that spreads behind a boat as it moves forward / n. a vigil held over a corpse the night before burial / v. …"
+},
+{
+"word": "airport",
+"pos": "n",
+"zh": "n. 飞机场 / [机] 航空站, 机场",
+"en": "n. an airfield equipped with control tower and hangars as well as accommodations for passengers and cargo"
+},
+{
+"word": "castle",
+"pos": "n/vt",
+"zh": "n. 城堡, 象棋中的车 / vt. 置于城堡中, 盘踞于",
+"en": "n. a large building formerly occupied by a ruler and fortified against attack / n. (chess) the piece that can move any n…"
+},
+{
+"word": "ourselves",
+"pos": "pron",
+"zh": "pron. 我们自己",
+"en": "pl.  of Myself / pron. ; sing. Ourself (/). An emphasized form of the /    pronoun of the first person plural; -- used a…"
+},
+{
+"word": "motion",
+"pos": "n/v",
+"zh": "n. 移动, 手势, 动作, 意向, 请求, 提议 / v. 打手势",
+"en": "n. a change of position that does not entail a change of location / n. a state of change / n. a formal proposal for acti…"
+},
+{
+"word": "brown",
+"pos": "n/a/v",
+"zh": "n. 褐色 / a. 褐色的 / v. (使)变褐色",
+"en": "n. an orange of low brightness and saturation / n. Scottish botanist who first observed the movement of small particles …"
+},
+{
+"word": "apparent",
+"pos": "a",
+"zh": "a. 清晰可见的, 显然的, 表面上的 / [电] 外在的",
+"en": "s. clearly revealed to the mind or the senses or judgment / s. appearing as such but not necessarily so"
+},
+{
+"word": "membership",
+"pos": "n",
+"zh": "n. 会员的资格, 全体会员, 会员数目 / [法] 会员资格, 成员资格, 会籍",
+"en": "n. the body of members of an organization or group / n. the state of being a member"
+}
+]

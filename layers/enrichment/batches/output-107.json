@@ -1,0 +1,1796 @@
+{
+"reprieve": {
+"gloss": "暂缓(处罚、执行)，缓刑；(困境的)暂时解脱",
+"trap": "",
+"root": null,
+"confusable": [
+"retrieve",
+"reprove"
+],
+"synonyms": [
+"respite",
+"stay",
+"postponement",
+"pardon"
+],
+"antonyms": []
+},
+"invocation": {
+"gloss": "(函数、程序的)调用；祈求，祷告；援引(法律、权力)",
+"trap": "编程语境中是‘调用’，不只是‘祈祷’",
+"root": {
+"key": "voc",
+"meaning": "声音/叫",
+"match": "voc"
+},
+"confusable": [
+"evocation",
+"provocation"
+],
+"synonyms": [
+"prayer",
+"call",
+"appeal"
+],
+"antonyms": []
+},
+"kinetic": {
+"gloss": "运动的，动力的；(艺术)动态的",
+"trap": "",
+"root": {
+"key": "kine",
+"meaning": "动",
+"match": "kine"
+},
+"confusable": [
+"genetic"
+],
+"synonyms": [
+"dynamic",
+"moving"
+],
+"antonyms": [
+"static"
+]
+},
+"demented": {
+"gloss": "疯狂的，失去理智的；(医)痴呆的",
+"trap": "de- 离开 + ment 心智 → 失去理智",
+"root": {
+"key": "ment",
+"meaning": "心智",
+"match": "ment"
+},
+"confusable": [
+"demeaned",
+"dented"
+],
+"synonyms": [
+"insane",
+"crazy",
+"deranged"
+],
+"antonyms": [
+"sane"
+]
+},
+"assail": {
+"gloss": "猛烈攻击，抨击；(疑虑、问题)困扰",
+"trap": "与 sail 无关，和 assault 同源(跳向)",
+"root": {
+"key": "sal",
+"meaning": "跳",
+"match": "sail"
+},
+"confusable": [
+"assault",
+"sail"
+],
+"synonyms": [
+"attack",
+"assault",
+"besiege"
+],
+"antonyms": [
+"defend"
+]
+},
+"pelt": {
+"gloss": "n. 毛皮，兽皮；v. 连续投掷，(雨)倾盆而下，飞奔",
+"trap": "",
+"root": null,
+"confusable": [
+"belt",
+"pellet"
+],
+"synonyms": [
+"hurl",
+"bombard",
+"hide",
+"fur"
+],
+"antonyms": []
+},
+"heinous": {
+"gloss": "十恶不赦的，令人发指的",
+"trap": "",
+"root": null,
+"confusable": [
+"hideous"
+],
+"synonyms": [
+"atrocious",
+"monstrous",
+"wicked",
+"abominable"
+],
+"antonyms": [
+"admirable"
+]
+},
+"disservice": {
+"gloss": "损害，帮倒忙(do sb a disservice)",
+"trap": "",
+"root": {
+"key": "serv",
+"meaning": "服务/保持",
+"match": "serv"
+},
+"confusable": [],
+"synonyms": [
+"harm",
+"injury"
+],
+"antonyms": [
+"service",
+"favor"
+]
+},
+"avenge": {
+"gloss": "为…报仇，替…伸张正义",
+"trap": "avenge 为正义报仇，revenge 多指泄私愤",
+"root": null,
+"confusable": [
+"revenge"
+],
+"synonyms": [
+"retaliate",
+"requite"
+],
+"antonyms": [
+"forgive"
+]
+},
+"fleck": {
+"gloss": "斑点，小点；使有斑点",
+"trap": "",
+"root": null,
+"confusable": [
+"flick",
+"flake",
+"freckle"
+],
+"synonyms": [
+"spot",
+"speck",
+"dot"
+],
+"antonyms": []
+},
+"rescind": {
+"gloss": "废除，撤销(法律、协议、决定)",
+"trap": "",
+"root": {
+"key": "scind",
+"meaning": "分裂",
+"match": "scind"
+},
+"confusable": [
+"rescue"
+],
+"synonyms": [
+"revoke",
+"repeal",
+"annul",
+"cancel"
+],
+"antonyms": [
+"enact",
+"uphold"
+]
+},
+"twine": {
+"gloss": "麻线，细绳；缠绕，盘绕",
+"trap": "",
+"root": null,
+"confusable": [
+"twin",
+"twig",
+"twinge"
+],
+"synonyms": [
+"string",
+"cord",
+"entwine",
+"coil"
+],
+"antonyms": []
+},
+"moron": {
+"gloss": "傻瓜，蠢货(骂人话)",
+"trap": "",
+"root": null,
+"confusable": [
+"moral",
+"morose"
+],
+"synonyms": [
+"idiot",
+"fool",
+"imbecile"
+],
+"antonyms": [
+"genius"
+]
+},
+"pernicious": {
+"gloss": "有害的，恶性的(尤指不易察觉地)",
+"trap": "",
+"root": null,
+"confusable": [
+"precious",
+"perfidious"
+],
+"synonyms": [
+"harmful",
+"destructive",
+"insidious",
+"malignant"
+],
+"antonyms": [
+"beneficial",
+"harmless"
+]
+},
+"corny": {
+"gloss": "老套的，陈腐的；(玩笑、情话)肉麻的、俗气的",
+"trap": "不是‘玉米的’，是‘老掉牙的、肉麻的’",
+"root": null,
+"confusable": [
+"horny"
+],
+"synonyms": [
+"banal",
+"trite",
+"cheesy",
+"hackneyed"
+],
+"antonyms": [
+"original",
+"fresh"
+]
+},
+"fatten": {
+"gloss": "使长肥，育肥；使(利润等)增大",
+"trap": "",
+"root": null,
+"confusable": [
+"flatten",
+"fasten"
+],
+"synonyms": [
+"plump",
+"feed",
+"swell"
+],
+"antonyms": [
+"slim",
+"thin"
+]
+},
+"turnip": {
+"gloss": "芜菁，大头菜",
+"trap": "",
+"root": null,
+"confusable": [
+"parsnip",
+"tulip"
+],
+"synonyms": [
+"radish",
+"swede"
+],
+"antonyms": []
+},
+"permissive": {
+"gloss": "放任的，纵容的；宽松的，许可的",
+"trap": "",
+"root": {
+"key": "mit",
+"meaning": "送",
+"match": "miss"
+},
+"confusable": [
+"submissive"
+],
+"synonyms": [
+"lenient",
+"indulgent",
+"tolerant",
+"lax"
+],
+"antonyms": [
+"strict",
+"restrictive"
+]
+},
+"edict": {
+"gloss": "法令，敕令；正式命令",
+"trap": "e- 出 + dict 说 → 官方发布的话",
+"root": {
+"key": "dict",
+"meaning": "说",
+"match": "dict"
+},
+"confusable": [
+"addict",
+"edit"
+],
+"synonyms": [
+"decree",
+"proclamation",
+"order",
+"mandate"
+],
+"antonyms": []
+},
+"blockage": {
+"gloss": "堵塞，阻塞(物)",
+"trap": "",
+"root": null,
+"confusable": [
+"blockade"
+],
+"synonyms": [
+"obstruction",
+"clog",
+"jam"
+],
+"antonyms": [
+"clearance",
+"flow"
+]
+},
+"confidant": {
+"gloss": "知己，密友(可倾诉秘密的人)",
+"trap": "confidant 是名词‘知己’，confident 是形容词‘自信的’",
+"root": {
+"key": "fid",
+"meaning": "信任",
+"match": "fid"
+},
+"confusable": [
+"confident"
+],
+"synonyms": [
+"intimate",
+"companion"
+],
+"antonyms": [
+"stranger"
+]
+},
+"springboard": {
+"gloss": "跳板；(事业、发展的)起点、跳板",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"launchpad",
+"catalyst",
+"platform"
+],
+"antonyms": []
+},
+"locust": {
+"gloss": "蝗虫；刺槐(树)",
+"trap": "",
+"root": null,
+"confusable": [
+"locus",
+"locate"
+],
+"synonyms": [
+"grasshopper"
+],
+"antonyms": []
+},
+"sadistic": {
+"gloss": "虐待狂的，以折磨他人为乐的",
+"trap": "源自萨德侯爵(de Sade)，与 sad(悲伤)无关",
+"root": null,
+"confusable": [
+"sad",
+"masochistic"
+],
+"synonyms": [
+"cruel",
+"brutal",
+"vicious"
+],
+"antonyms": [
+"masochistic",
+"kind"
+]
+},
+"genteel": {
+"gloss": "文雅的，有教养的；(贬)装斯文的",
+"trap": "",
+"root": {
+"key": "gen",
+"meaning": "产生/种族",
+"match": "gen"
+},
+"confusable": [
+"gentle",
+"gentile"
+],
+"synonyms": [
+"refined",
+"polite",
+"elegant",
+"well-bred"
+],
+"antonyms": [
+"vulgar",
+"coarse"
+]
+},
+"frightful": {
+"gloss": "可怕的；(口语)糟透的，极大的",
+"trap": "",
+"root": null,
+"confusable": [
+"fretful",
+"fruitful"
+],
+"synonyms": [
+"dreadful",
+"terrible",
+"awful",
+"horrible"
+],
+"antonyms": [
+"pleasant"
+]
+},
+"philanthropic": {
+"gloss": "慈善的，博爱的",
+"trap": "phil 爱 + anthrop 人 → 爱人类，慈善",
+"root": {
+"key": "anthrop",
+"meaning": "人",
+"match": "anthrop"
+},
+"confusable": [
+"philosophic"
+],
+"synonyms": [
+"charitable",
+"benevolent",
+"humanitarian"
+],
+"antonyms": [
+"selfish",
+"misanthropic"
+]
+},
+"unanimity": {
+"gloss": "全体一致，一致同意",
+"trap": "un- 是‘一’(unus)不是否定，anim 心 → 一条心",
+"root": {
+"key": "anim",
+"meaning": "生命/心",
+"match": "anim"
+},
+"confusable": [
+"anonymity"
+],
+"synonyms": [
+"consensus",
+"agreement",
+"accord"
+],
+"antonyms": [
+"disagreement",
+"dissent"
+]
+},
+"acupuncture": {
+"gloss": "针灸，针刺疗法",
+"trap": "",
+"root": {
+"key": "punct",
+"meaning": "刺/点",
+"match": "punct"
+},
+"confusable": [
+"puncture"
+],
+"synonyms": [
+"needling"
+],
+"antonyms": []
+},
+"colt": {
+"gloss": "小公马(四岁以下)；生手；柯尔特手枪",
+"trap": "",
+"root": null,
+"confusable": [
+"cult",
+"bolt",
+"cold"
+],
+"synonyms": [
+"foal"
+],
+"antonyms": [
+"filly",
+"stallion"
+]
+},
+"slough": {
+"gloss": "蜕(皮)，摆脱(slough off)；泥沼；(情绪)低谷",
+"trap": "两读音：泥沼 /slaʊ/，蜕皮 /slʌf/",
+"root": null,
+"confusable": [
+"slouch",
+"sloth"
+],
+"synonyms": [
+"shed",
+"discard",
+"swamp",
+"bog"
+],
+"antonyms": []
+},
+"slimy": {
+"gloss": "黏滑的，黏糊糊的；(人)谄媚讨厌的，虚伪的",
+"trap": "",
+"root": null,
+"confusable": [
+"slim"
+],
+"synonyms": [
+"slippery",
+"sticky",
+"oily",
+"smarmy"
+],
+"antonyms": [
+"dry"
+]
+},
+"grasshopper": {
+"gloss": "蚱蜢，蝗虫",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"locust",
+"cricket"
+],
+"antonyms": []
+},
+"pander": {
+"gloss": "迎合，投其所好(pander to，贬义)；拉皮条者",
+"trap": "",
+"root": null,
+"confusable": [
+"panda",
+"ponder",
+"pamper"
+],
+"synonyms": [
+"cater",
+"indulge",
+"gratify"
+],
+"antonyms": [
+"defy"
+]
+},
+"consequential": {
+"gloss": "重大的，影响深远的；随之发生的，间接的",
+"trap": "常表‘重要的’，不只是‘作为结果的’",
+"root": {
+"key": "sequ",
+"meaning": "跟随",
+"match": "sequ"
+},
+"confusable": [],
+"synonyms": [
+"significant",
+"momentous",
+"important",
+"resulting"
+],
+"antonyms": [
+"inconsequential",
+"trivial"
+]
+},
+"citadel": {
+"gloss": "城堡，要塞；(比喻)堡垒",
+"trap": "源自 city，‘小城’ → 城中要塞",
+"root": {
+"key": "civ",
+"meaning": "公民/城",
+"match": "cit"
+},
+"confusable": [
+"cathedral"
+],
+"synonyms": [
+"fortress",
+"stronghold",
+"bastion",
+"fort"
+],
+"antonyms": []
+},
+"wistful": {
+"gloss": "惆怅的，怀念而伤感的",
+"trap": "带淡淡忧伤的‘渴望’，不是单纯的‘想要’",
+"root": null,
+"confusable": [
+"wishful",
+"willful"
+],
+"synonyms": [
+"nostalgic",
+"yearning",
+"melancholy",
+"pensive"
+],
+"antonyms": [
+"cheerful"
+]
+},
+"mutton": {
+"gloss": "羊肉",
+"trap": "",
+"root": null,
+"confusable": [
+"button",
+"mutter"
+],
+"synonyms": [
+"lamb"
+],
+"antonyms": []
+},
+"altruism": {
+"gloss": "利他主义，无私",
+"trap": "",
+"root": {
+"key": "alter",
+"meaning": "另一，其他",
+"match": "altr"
+},
+"confusable": [
+"autism",
+"atheism"
+],
+"synonyms": [
+"selflessness",
+"benevolence",
+"generosity"
+],
+"antonyms": [
+"selfishness",
+"egoism"
+]
+},
+"retriever": {
+"gloss": "寻回犬(拉布拉多、金毛等)；取回者",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"gundog",
+"labrador"
+],
+"antonyms": []
+},
+"pauper": {
+"gloss": "穷人，赤贫者；(旧)靠救济度日的人",
+"trap": "",
+"root": null,
+"confusable": [
+"pamper",
+"paper"
+],
+"synonyms": [
+"beggar",
+"destitute"
+],
+"antonyms": [
+"millionaire",
+"tycoon"
+]
+},
+"denunciation": {
+"gloss": "公开谴责，痛斥；告发；(条约)废止",
+"trap": "",
+"root": {
+"key": "nunc",
+"meaning": "报告，说",
+"match": "nunc"
+},
+"confusable": [
+"renunciation",
+"enunciation"
+],
+"synonyms": [
+"condemnation",
+"censure",
+"accusation"
+],
+"antonyms": [
+"praise",
+"endorsement"
+]
+},
+"ethereal": {
+"gloss": "空灵的，缥缈的，超凡的；轻盈精致的；(化)醚的",
+"trap": "",
+"root": null,
+"confusable": [
+"ethical",
+"eternal"
+],
+"synonyms": [
+"delicate",
+"airy",
+"heavenly",
+"celestial"
+],
+"antonyms": [
+"earthly",
+"substantial"
+]
+},
+"intrepid": {
+"gloss": "无畏的，勇敢的",
+"trap": "in- 不 + trepid 颤抖(trepidation) → 不发抖",
+"root": {
+"key": "trepid",
+"meaning": "颤抖",
+"match": "trepid"
+},
+"confusable": [
+"insipid",
+"tepid"
+],
+"synonyms": [
+"fearless",
+"bold",
+"brave",
+"daring"
+],
+"antonyms": [
+"timid",
+"cowardly"
+]
+},
+"neoclassical": {
+"gloss": "新古典主义的(艺术、建筑、经济学)",
+"trap": "",
+"root": {
+"key": "neo",
+"meaning": "新",
+"match": "neo"
+},
+"confusable": [],
+"synonyms": [
+"classical"
+],
+"antonyms": [
+"modernist"
+]
+},
+"cobbler": {
+"gloss": "补鞋匠；水果馅饼(美式甜点)",
+"trap": "",
+"root": null,
+"confusable": [
+"gobbler"
+],
+"synonyms": [
+"shoemaker"
+],
+"antonyms": []
+},
+"scavenger": {
+"gloss": "食腐动物；拾荒者；(化)清除剂",
+"trap": "",
+"root": null,
+"confusable": [
+"passenger"
+],
+"synonyms": [
+"vulture",
+"forager",
+"hyena"
+],
+"antonyms": [
+"predator"
+]
+},
+"panoramic": {
+"gloss": "全景的；全面的",
+"trap": "pan 全 + orama 景 → 全景",
+"root": {
+"key": "pan",
+"meaning": "全",
+"match": "pan"
+},
+"confusable": [
+"paranoiac"
+],
+"synonyms": [
+"sweeping",
+"comprehensive",
+"wide"
+],
+"antonyms": [
+"narrow"
+]
+},
+"queasy": {
+"gloss": "恶心想吐的；不安的，忐忑的",
+"trap": "",
+"root": null,
+"confusable": [
+"uneasy",
+"cheesy"
+],
+"synonyms": [
+"nauseous",
+"sick",
+"uneasy"
+],
+"antonyms": [
+"settled",
+"calm"
+]
+},
+"condescending": {
+"gloss": "居高临下的，屈尊俯就的，傲慢的",
+"trap": "现多为贬义‘摆架子’，不是‘谦逊的’",
+"root": {
+"key": "scend",
+"meaning": "爬",
+"match": "scend"
+},
+"confusable": [
+"descending",
+"condensing"
+],
+"synonyms": [
+"patronizing",
+"superior",
+"snobbish"
+],
+"antonyms": [
+"respectful",
+"humble"
+]
+},
+"diminution": {
+"gloss": "减少，缩减；(音乐)减值",
+"trap": "",
+"root": {
+"key": "min",
+"meaning": "小",
+"match": "min"
+},
+"confusable": [
+"dimension",
+"domination"
+],
+"synonyms": [
+"reduction",
+"decrease",
+"decline"
+],
+"antonyms": [
+"increase",
+"augmentation"
+]
+},
+"grisly": {
+"gloss": "血腥恐怖的，令人毛骨悚然的",
+"trap": "grisly 恐怖的 vs grizzly 灰熊、灰白的",
+"root": null,
+"confusable": [
+"grizzly",
+"gristly"
+],
+"synonyms": [
+"gruesome",
+"ghastly",
+"horrific",
+"macabre"
+],
+"antonyms": [
+"pleasant"
+]
+},
+"mirth": {
+"gloss": "欢笑，欢乐",
+"trap": "",
+"root": null,
+"confusable": [
+"myrrh",
+"birth"
+],
+"synonyms": [
+"merriment",
+"laughter",
+"glee",
+"hilarity"
+],
+"antonyms": [
+"gloom",
+"sorrow"
+]
+},
+"incredulity": {
+"gloss": "不相信，怀疑",
+"trap": "incredulous 不肯相信的 vs incredible 难以置信的",
+"root": {
+"key": "cred",
+"meaning": "相信",
+"match": "cred"
+},
+"confusable": [
+"incredibility"
+],
+"synonyms": [
+"disbelief",
+"skepticism",
+"doubt"
+],
+"antonyms": [
+"credulity",
+"belief"
+]
+},
+"vaccinate": {
+"gloss": "给…接种疫苗",
+"trap": "源自 vacca 牛：最早的疫苗是牛痘",
+"root": {
+"key": "vacc",
+"meaning": "牛",
+"match": "vacc"
+},
+"confusable": [
+"evacuate",
+"fascinate"
+],
+"synonyms": [
+"inoculate",
+"immunize"
+],
+"antonyms": []
+},
+"fragmentary": {
+"gloss": "零碎的，不完整的",
+"trap": "",
+"root": {
+"key": "frag",
+"meaning": "打碎",
+"match": "frag"
+},
+"confusable": [],
+"synonyms": [
+"incomplete",
+"partial",
+"piecemeal",
+"scrappy"
+],
+"antonyms": [
+"complete",
+"whole"
+]
+},
+"elucidate": {
+"gloss": "阐明，解释清楚",
+"trap": "e 出 + luc 光 → 照亮，讲明白",
+"root": {
+"key": "luc",
+"meaning": "光",
+"match": "luc"
+},
+"confusable": [
+"elude",
+"lucid"
+],
+"synonyms": [
+"clarify",
+"explain",
+"illuminate",
+"expound"
+],
+"antonyms": [
+"obscure",
+"confuse"
+]
+},
+"dowry": {
+"gloss": "嫁妆",
+"trap": "",
+"root": null,
+"confusable": [
+"dowdy",
+"dowager"
+],
+"synonyms": [
+"endowment",
+"portion"
+],
+"antonyms": []
+},
+"dainty": {
+"gloss": "小巧精致的；(食物)美味的；挑剔的",
+"trap": "",
+"root": null,
+"confusable": [
+"deity"
+],
+"synonyms": [
+"delicate",
+"exquisite",
+"petite",
+"fastidious"
+],
+"antonyms": [
+"clumsy",
+"coarse"
+]
+},
+"informer": {
+"gloss": "告密者，线人",
+"trap": "informer 告密者(贬)，informant 提供信息者(中性)",
+"root": {
+"key": "form",
+"meaning": "形状",
+"match": "form"
+},
+"confusable": [
+"informant"
+],
+"synonyms": [
+"snitch",
+"whistleblower",
+"spy"
+],
+"antonyms": []
+},
+"upstart": {
+"gloss": "暴发户，新贵；狂妄的新手；新兴的(公司)",
+"trap": "",
+"root": null,
+"confusable": [
+"startup",
+"upstage"
+],
+"synonyms": [
+"parvenu",
+"newcomer",
+"arriviste"
+],
+"antonyms": [
+"veteran"
+]
+},
+"agonize": {
+"gloss": "苦苦思索，焦虑不安(agonize over)；使痛苦",
+"trap": "",
+"root": {
+"key": "agon",
+"meaning": "竞争/挣扎",
+"match": "agon"
+},
+"confusable": [
+"antagonize",
+"organize"
+],
+"synonyms": [
+"worry",
+"fret",
+"anguish",
+"struggle"
+],
+"antonyms": []
+},
+"nemesis": {
+"gloss": "死对头，宿敌；克星，报应",
+"trap": "现多指‘宿敌、克星’，不只是复仇女神",
+"root": null,
+"confusable": [
+"genesis"
+],
+"synonyms": [
+"archenemy",
+"rival",
+"bane",
+"retribution"
+],
+"antonyms": [
+"ally"
+]
+},
+"parson": {
+"gloss": "教区牧师",
+"trap": "与 person 同源，教区里‘那个人’",
+"root": null,
+"confusable": [
+"person",
+"parsnip",
+"pardon"
+],
+"synonyms": [
+"priest",
+"clergyman",
+"vicar",
+"minister"
+],
+"antonyms": []
+},
+"precocious": {
+"gloss": "早熟的，(儿童)少年老成的",
+"trap": "pre 提前 + coc 煮熟 → 早熟",
+"root": {
+"key": "coc",
+"meaning": "煮/熟",
+"match": "coc"
+},
+"confusable": [
+"precious",
+"precarious"
+],
+"synonyms": [
+"advanced",
+"gifted",
+"forward"
+],
+"antonyms": [
+"backward",
+"slow"
+]
+},
+"awning": {
+"gloss": "遮阳篷，雨篷",
+"trap": "",
+"root": null,
+"confusable": [
+"owning",
+"yawning"
+],
+"synonyms": [
+"canopy",
+"shade",
+"sunshade"
+],
+"antonyms": []
+},
+"giraffe": {
+"gloss": "长颈鹿",
+"trap": "",
+"root": null,
+"confusable": [
+"gaffe"
+],
+"synonyms": [],
+"antonyms": []
+},
+"reversion": {
+"gloss": "回复，倒退(到旧状态)；(法)财产归复权",
+"trap": "",
+"root": {
+"key": "vert",
+"meaning": "转",
+"match": "vers"
+},
+"confusable": [
+"reverence"
+],
+"synonyms": [
+"return",
+"regression",
+"relapse"
+],
+"antonyms": [
+"progression",
+"advance"
+]
+},
+"mauve": {
+"gloss": "淡紫色(的)",
+"trap": "",
+"root": null,
+"confusable": [
+"move",
+"mousse"
+],
+"synonyms": [
+"lilac",
+"violet",
+"lavender"
+],
+"antonyms": []
+},
+"sleazy": {
+"gloss": "低俗下流的，肮脏可疑的；(旧)质地薄劣的",
+"trap": "",
+"root": null,
+"confusable": [
+"sleepy",
+"greasy",
+"sleek"
+],
+"synonyms": [
+"sordid",
+"seedy",
+"disreputable",
+"squalid"
+],
+"antonyms": [
+"respectable",
+"upscale"
+]
+},
+"cottonwood": {
+"gloss": "三角叶杨(北美杨树)",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"poplar"
+],
+"antonyms": []
+},
+"putative": {
+"gloss": "推定的，假定的，公认的",
+"trap": "与 put(放)无关，来自 putare 认为",
+"root": {
+"key": "put",
+"meaning": "思考/认为",
+"match": "put"
+},
+"confusable": [
+"punitive",
+"purgative"
+],
+"synonyms": [
+"supposed",
+"presumed",
+"alleged",
+"reputed"
+],
+"antonyms": [
+"proven",
+"actual"
+]
+},
+"bottleneck": {
+"gloss": "瓶颈，(交通、生产的)阻塞点；(使)受阻",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"obstacle",
+"constraint",
+"chokepoint",
+"jam"
+],
+"antonyms": []
+},
+"spout": {
+"gloss": "壶嘴，喷口；喷出；滔滔不绝地说",
+"trap": "",
+"root": null,
+"confusable": [
+"sprout",
+"spurt"
+],
+"synonyms": [
+"nozzle",
+"gush",
+"squirt",
+"jet"
+],
+"antonyms": []
+},
+"purification": {
+"gloss": "净化，提纯；涤罪",
+"trap": "",
+"root": {
+"key": "pur",
+"meaning": "纯",
+"match": "pur"
+},
+"confusable": [
+"putrefaction",
+"pacification"
+],
+"synonyms": [
+"cleansing",
+"refinement",
+"filtration"
+],
+"antonyms": [
+"contamination",
+"pollution"
+]
+},
+"schematic": {
+"gloss": "示意图，电路图；示意性的，简略的",
+"trap": "",
+"root": {
+"key": "schem",
+"meaning": "形状/图式",
+"match": "schem"
+},
+"confusable": [
+"systematic",
+"thematic"
+],
+"synonyms": [
+"diagram",
+"blueprint",
+"diagrammatic"
+],
+"antonyms": [
+"detailed"
+]
+},
+"luster": {
+"gloss": "光泽，光彩；荣耀(英式 lustre)",
+"trap": "lackluster 黯淡无光、平庸",
+"root": {
+"key": "luc",
+"meaning": "光",
+"match": "lus"
+},
+"confusable": [
+"lust",
+"cluster",
+"bluster"
+],
+"synonyms": [
+"sheen",
+"gloss",
+"shine",
+"brilliance"
+],
+"antonyms": [
+"dullness"
+]
+},
+"munition": {
+"gloss": "军火，弹药(常用复数 munitions)",
+"trap": "",
+"root": {
+"key": "mun",
+"meaning": "防御/职责",
+"match": "mun"
+},
+"confusable": [
+"ammunition"
+],
+"synonyms": [
+"ammunition",
+"arms",
+"weaponry",
+"ordnance"
+],
+"antonyms": []
+},
+"relent": {
+"gloss": "让步，心软；(风雨等)减弱",
+"trap": "relentless 无情的、不停的 ← 不肯让步",
+"root": {
+"key": "lent",
+"meaning": "柔软/缓慢",
+"match": "lent"
+},
+"confusable": [
+"repent",
+"resent"
+],
+"synonyms": [
+"yield",
+"soften",
+"capitulate",
+"abate"
+],
+"antonyms": [
+"persist",
+"harden"
+]
+},
+"octopus": {
+"gloss": "章鱼",
+"trap": "oct 八 + pus 脚 → 八爪鱼",
+"root": {
+"key": "oct",
+"meaning": "八",
+"match": "oct"
+},
+"confusable": [
+"platypus"
+],
+"synonyms": [
+"squid",
+"cephalopod"
+],
+"antonyms": []
+},
+"musty": {
+"gloss": "发霉味的，霉臭的；陈旧过时的",
+"trap": "",
+"root": null,
+"confusable": [
+"dusty",
+"mushy"
+],
+"synonyms": [
+"moldy",
+"stale",
+"fusty",
+"dank"
+],
+"antonyms": [
+"fresh"
+]
+},
+"sardine": {
+"gloss": "沙丁鱼；(like sardines)挤得像沙丁鱼罐头",
+"trap": "",
+"root": null,
+"confusable": [
+"sardonic"
+],
+"synonyms": [
+"pilchard",
+"herring"
+],
+"antonyms": []
+},
+"babble": {
+"gloss": "含糊不清地说，喋喋不休；(婴儿)牙牙学语；潺潺声",
+"trap": "",
+"root": null,
+"confusable": [
+"bubble",
+"bauble",
+"dabble"
+],
+"synonyms": [
+"chatter",
+"prattle",
+"gabble",
+"jabber"
+],
+"antonyms": []
+},
+"scorpion": {
+"gloss": "蝎子；天蝎座",
+"trap": "",
+"root": null,
+"confusable": [
+"scallion"
+],
+"synonyms": [
+"arachnid"
+],
+"antonyms": []
+},
+"renege": {
+"gloss": "食言，违约(renege on)",
+"trap": "re + neg 否认 → 否定承诺",
+"root": {
+"key": "neg",
+"meaning": "否认",
+"match": "neg"
+},
+"confusable": [
+"renegade",
+"revenge"
+],
+"synonyms": [
+"default",
+"backtrack",
+"withdraw",
+"welsh"
+],
+"antonyms": [
+"honor",
+"fulfill"
+]
+},
+"compatriot": {
+"gloss": "同胞，同国人",
+"trap": "com 共同 + patri 祖国 → 同一祖国的人",
+"root": {
+"key": "pat",
+"meaning": "父",
+"match": "pat"
+},
+"confusable": [
+"expatriate",
+"patriot"
+],
+"synonyms": [
+"countryman",
+"national"
+],
+"antonyms": [
+"foreigner"
+]
+},
+"minibus": {
+"gloss": "小型公共汽车，中巴",
+"trap": "",
+"root": {
+"key": "min",
+"meaning": "小",
+"match": "min"
+},
+"confusable": [],
+"synonyms": [
+"van",
+"shuttle"
+],
+"antonyms": []
+},
+"stanza": {
+"gloss": "(诗的)节，诗节",
+"trap": "指诗的一节，不是‘立场’(stance)",
+"root": {
+"key": "sta",
+"meaning": "站立",
+"match": "sta"
+},
+"confusable": [
+"stance",
+"stanch"
+],
+"synonyms": [
+"verse",
+"strophe",
+"canto"
+],
+"antonyms": []
+},
+"emigrant": {
+"gloss": "移居国外者，(迁出的)移民",
+"trap": "emigrant 迁出者 vs immigrant 迁入者",
+"root": {
+"key": "migr",
+"meaning": "迁移",
+"match": "migr"
+},
+"confusable": [
+"immigrant",
+"migrant"
+],
+"synonyms": [
+"expatriate",
+"migrant"
+],
+"antonyms": [
+"immigrant"
+]
+},
+"sardonic": {
+"gloss": "讥讽的，冷嘲的",
+"trap": "传说源自撒丁岛(Sardinia)一种令人狂笑而死的草",
+"root": null,
+"confusable": [
+"sardine",
+"sarcastic"
+],
+"synonyms": [
+"sarcastic",
+"mocking",
+"cynical",
+"scornful"
+],
+"antonyms": [
+"sincere"
+]
+},
+"hearsay": {
+"gloss": "传闻，道听途说；(法)传闻证据",
+"trap": "",
+"root": null,
+"confusable": [
+"heresy"
+],
+"synonyms": [
+"rumor",
+"gossip",
+"report"
+],
+"antonyms": [
+"evidence",
+"fact"
+]
+},
+"furor": {
+"gloss": "公愤，轩然大波；狂热",
+"trap": "",
+"root": null,
+"confusable": [
+"furrow"
+],
+"synonyms": [
+"uproar",
+"outcry",
+"commotion",
+"frenzy"
+],
+"antonyms": [
+"calm"
+]
+},
+"lichen": {
+"gloss": "地衣；(医)苔藓病",
+"trap": "读 /ˈlaɪkən/，与 liken 同音",
+"root": null,
+"confusable": [
+"liken",
+"kitchen"
+],
+"synonyms": [
+"moss"
+],
+"antonyms": []
+},
+"particulate": {
+"gloss": "颗粒物(如 PM2.5)；微粒的",
+"trap": "",
+"root": {
+"key": "part",
+"meaning": "部分",
+"match": "part"
+},
+"confusable": [
+"particular",
+"articulate"
+],
+"synonyms": [
+"particle",
+"dust",
+"aerosol"
+],
+"antonyms": []
+},
+"morsel": {
+"gloss": "一小口，一小块(食物)；少量",
+"trap": "mors 咬 → 一口的量",
+"root": {
+"key": "mord",
+"meaning": "咬",
+"match": "mors"
+},
+"confusable": [
+"moral",
+"mortal"
+],
+"synonyms": [
+"bite",
+"bit",
+"scrap",
+"crumb"
+],
+"antonyms": []
+},
+"voluminous": {
+"gloss": "(衣物)宽大的；篇幅长的，大量的",
+"trap": "",
+"root": {
+"key": "volv",
+"meaning": "卷",
+"match": "volu"
+},
+"confusable": [
+"luminous"
+],
+"synonyms": [
+"bulky",
+"capacious",
+"copious",
+"extensive"
+],
+"antonyms": [
+"scanty",
+"skimpy"
+]
+},
+"aviator": {
+"gloss": "飞行员(旧称)；飞行员墨镜",
+"trap": "",
+"root": {
+"key": "avi",
+"meaning": "鸟",
+"match": "avi"
+},
+"confusable": [
+"avatar",
+"aviary"
+],
+"synonyms": [
+"pilot",
+"airman",
+"flyer"
+],
+"antonyms": []
+},
+"ballerina": {
+"gloss": "芭蕾舞女演员；芭蕾平底鞋",
+"trap": "",
+"root": null,
+"confusable": [
+"ballad"
+],
+"synonyms": [
+"dancer"
+],
+"antonyms": []
+},
+"multifaceted": {
+"gloss": "多方面的，多层面的",
+"trap": "",
+"root": {
+"key": "multi",
+"meaning": "多",
+"match": "multi"
+},
+"confusable": [],
+"synonyms": [
+"multidimensional",
+"complex",
+"versatile",
+"many-sided"
+],
+"antonyms": [
+"one-dimensional",
+"simple"
+]
+},
+"montage": {
+"gloss": "蒙太奇，(影片、照片)剪辑；拼贴画",
+"trap": "",
+"root": {
+"key": "mont",
+"meaning": "登上/组装",
+"match": "mont"
+},
+"confusable": [
+"mortgage"
+],
+"synonyms": [
+"collage",
+"compilation",
+"assemblage"
+],
+"antonyms": []
+}
+}

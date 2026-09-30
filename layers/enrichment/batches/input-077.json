@@ -1,0 +1,602 @@
+[
+{
+"word": "trustworthy",
+"pos": "a",
+"zh": "a. 可信赖的 / [法] 可信任的, 可靠的, 可信赖的",
+"en": "a. worthy of trust or belief / s. taking responsibility for one's conduct and obligations"
+},
+{
+"word": "helpline",
+"pos": "n",
+"zh": "n. 热线服务电话",
+"en": ""
+},
+{
+"word": "ovation",
+"pos": "n",
+"zh": "n. 热烈欢迎, 大喝采, 小凯旋式",
+"en": "n. enthusiastic recognition (especially one accompanied by loud applause)"
+},
+{
+"word": "phonetic",
+"pos": "a",
+"zh": "a. 语音的, 语音学的, 表示语音的, 语音差异的 / [医] 语音的",
+"en": "a. of or relating to speech sounds / a. of or relating to the scientific study of speech sounds"
+},
+{
+"word": "din",
+"pos": "n/v",
+"zh": "n. 喧嚣 / v. 絮絮不休地说, 喧闹",
+"en": "v. instill (into a person) by constant repetition"
+},
+{
+"word": "decimal",
+"pos": "a/n",
+"zh": "a. 十进位的, 小数的 / n. 十进制, 小数 / [计] 十进制, 小数点",
+"en": "n. a number in the decimal system / s. numbered or proceeding by tens; based on ten"
+},
+{
+"word": "semblance",
+"pos": "n",
+"zh": "n. 外表, 伪装, 假象, 少量",
+"en": "n. an outward or token appearance or form that is deliberately misleading"
+},
+{
+"word": "memento",
+"pos": "n",
+"zh": "n. 纪念物, 令人回忆的东西",
+"en": "n. a reminder of past events"
+},
+{
+"word": "gaily",
+"pos": "adv",
+"zh": "adv. 华丽地, 欢乐地",
+"en": "r. in a gay manner"
+},
+{
+"word": "healthcare",
+"pos": "n",
+"zh": "n. 医疗保健；卫生保健；健康护理, 健康服务",
+"en": "n. the preservation of mental and physical health by preventing or treating illness through services offered by the heal…"
+},
+{
+"word": "increment",
+"pos": "n",
+"zh": "n. 增加, 增值, 盈余 / [计] 增量",
+"en": "n a process of becoming larger or longer or more numerous or more important / n the amount by which something increases"
+},
+{
+"word": "calorie",
+"pos": "n",
+"zh": "n. 卡路里（热量单位）",
+"en": "n. a unit of heat equal to the amount of heat required to raise the temperature of one kilogram of water by one degree a…"
+},
+{
+"word": "postscript",
+"pos": "n",
+"zh": "n. 附言 / [计] PostScript页面描述语言",
+"en": "n. a note appended to a letter after the signature"
+},
+{
+"word": "impromptu",
+"pos": "n/a/adv",
+"zh": "n. 即席演出, 即兴曲 / a. 即席的 / adv. 即席",
+"en": "n. an extemporaneous speech or remark / n. a short musical passage that seems to have been made spontaneously without ad…"
+},
+{
+"word": "pamper",
+"pos": "vt",
+"zh": "vt. 放纵, 使吃饱, 使过量",
+"en": "v. treat with excessive indulgence"
+},
+{
+"word": "piston",
+"pos": "n",
+"zh": "n. 活塞, 活塞阀键 / [医] 活塞(如注射器的)",
+"en": "n. United States neoclassical composer (1894-1976) / n. mechanical device that has a plunging or thrusting motion"
+},
+{
+"word": "lull",
+"pos": "n/vt/vi",
+"zh": "n. 暂停, 间歇, 稍息, 使人安静的东西 / vt. 使平静, 哄骗, 使安静 / vi. 变平静",
+"en": "n. a period of calm weather / v. calm by deception / v. become quiet or less intensive"
+},
+{
+"word": "flaunt",
+"pos": "n/v",
+"zh": "n. 炫耀, 飘扬 / v. 炫耀, 飘扬",
+"en": "n. the act of displaying something ostentatiously / v. display proudly; act ostentatiously or pretentiously"
+},
+{
+"word": "overture",
+"pos": "n/vt",
+"zh": "n. 主动表示, 事件的开端, 序言, 提议, 提案, 初步交涉 / vt. 提议, 为...奏前奏曲",
+"en": "n. orchestral music played at the beginning of an opera or oratorio / n. a tentative suggestion designed to elicit the r…"
+},
+{
+"word": "chasm",
+"pos": "n",
+"zh": "n. 陷窟, 裂口",
+"en": "n. a deep opening in the earth's surface"
+},
+{
+"word": "pretext",
+"pos": "n/v",
+"zh": "n. 借口, 托词 / v. 以...为借口",
+"en": "n. something serving to conceal plans; a fictitious reason that is concocted in order to conceal the real reason"
+},
+{
+"word": "starch",
+"pos": "n/vt",
+"zh": "n. 淀粉, 浆糊, 刻板 / vt. 浆硬",
+"en": "n. a complex carbohydrate found chiefly in seeds, fruits, tubers, roots and stem pith of plants, notably in corn, potato…"
+},
+{
+"word": "condolence",
+"pos": "n",
+"zh": "n. 哀悼, 吊唁",
+"en": "n. an expression of sympathy with another's grief"
+},
+{
+"word": "porous",
+"pos": "a",
+"zh": "a. 多孔的, 有气孔的, 多孔性的, 能渗透的 / [医] 多孔的",
+"en": "s. able to absorb fluids / a. full of pores or vessels or holes"
+},
+{
+"word": "melancholy",
+"pos": "n/a",
+"zh": "n. 忧郁, 悲哀, 愁思 / a. 忧郁的, 使人悲伤的, 愁思的",
+"en": "n. a feeling of thoughtful sadness / n. a constitutional tendency to be gloomy and depressed / s. characterized by or ca…"
+},
+{
+"word": "piracy",
+"pos": "n",
+"zh": "n. 海盗行为, 海上劫掠, 剽窃, 著作权侵害, 非法翻印 / [法] 海盗行为, 海上掠夺, 海盗罪",
+"en": "n. hijacking on the high seas or in similar contexts; taking a ship or plane away from the control of those who are lega…"
+},
+{
+"word": "deflate",
+"pos": "vt/vi",
+"zh": "vt. 放气, 抽出空气, 使缩小 / vi. 缩小",
+"en": "v. collapse by releasing contained air or gas / v. release contained air or gas from / v. reduce or lessen the size or i…"
+},
+{
+"word": "crevice",
+"pos": "n",
+"zh": "n. 裂缝 / [医] 缝",
+"en": "n. a long narrow depression in a surface"
+},
+{
+"word": "tarnish",
+"pos": "n/vt/vi",
+"zh": "n. 失泽, 失泽膜, 污点 / vt. 使失去光泽, 玷污 / vi. 失去光泽, 被玷污",
+"en": "n. discoloration of metal surface caused by oxidation / v. make dirty or spotty, as by exposure to air; also used metaph…"
+},
+{
+"word": "propriety",
+"pos": "n",
+"zh": "n. 礼貌, 规矩, 适当 / [计] 专有权",
+"en": "n. correct or appropriate behavior"
+},
+{
+"word": "condense",
+"pos": "vt/vi",
+"zh": "vt. 使浓缩, 使压缩, 缩短 / vi. 浓缩, 凝结",
+"en": "v. undergo condensation; change from a gaseous to a liquid state and fall in drops / v. remove water from / v. cause a g…"
+},
+{
+"word": "outstrip",
+"pos": "vt",
+"zh": "vt. 追过, 胜过, 凌驾",
+"en": "v be or do something to a greater degree / v go far ahead of"
+},
+{
+"word": "superfluous",
+"pos": "a",
+"zh": "a. 多余的, 过剩的",
+"en": "s serving no useful purpose; having no excuse for being / s more than is needed, desired, or required"
+},
+{
+"word": "avail",
+"pos": "vi/vt/n",
+"zh": "vi. 有用, 有利 / vt. 有利于 / n. 效用, 利益",
+"en": "n. a means of serving / v. use to one's advantage / v. be of use to, be useful to / v. take or use"
+},
+{
+"word": "slang",
+"pos": "n/v",
+"zh": "n. 俚语 / v. 辱骂, 用俚语说",
+"en": "n. informal language consisting of words and expressions that are not considered appropriate for formal occasions; often…"
+},
+{
+"word": "monotonous",
+"pos": "a",
+"zh": "a. 单调的, 无变化的",
+"en": "s tediously repetitious or lacking in variety; all work and no play\" / s sounded or spoken in a tone unvarying in pitch"
+},
+{
+"word": "eyesight",
+"pos": "n",
+"zh": "n. 视力, 目力",
+"en": "n. normal use of the faculty of vision"
+},
+{
+"word": "muddle",
+"pos": "vt/vi/n",
+"zh": "vt. 混合, 使微醉, 使咬字不清晰 / vi. 胡乱对付 / n. 困惑, 混浊状态",
+"en": "v. make into a puddle"
+},
+{
+"word": "persevere",
+"pos": "vi",
+"zh": "vi. 坚持, 孜孜不倦, 不屈不挠, (辩论中)固执己见",
+"en": "v. be persistent, refuse to stop"
+},
+{
+"word": "treble",
+"pos": "n/a/vt/vi",
+"zh": "n. 最高声部, 三倍 / a. 三倍的, 最高声部的 / vt. 使增为三倍 / vi. 成为三倍",
+"en": "v. sing treble / s. three times as great or many"
+},
+{
+"word": "painstaking",
+"pos": "n/a",
+"zh": "n. 辛苦, 苦心, 工夫 / a. 辛苦的, 勤勉的, 小心的",
+"en": "s characterized by extreme care and great effort"
+},
+{
+"word": "tolerable",
+"pos": "a",
+"zh": "a. 可容忍的, 可以的",
+"en": "a. capable of being borne or endured"
+},
+{
+"word": "puncture",
+"pos": "n/vt/vi",
+"zh": "n. 刺痕, 穿刺 / vt. 刺穿, 刺, 揭穿 / vi. 被刺穿",
+"en": "n. loss of air pressure in a tire when a hole is made by some sharp object / n. a small hole made by a sharp object / n.…"
+},
+{
+"word": "safari",
+"pos": "n",
+"zh": "n. 旅行, 旅行队, 科学考察",
+"en": "n an overland journey by hunters (especially in Africa)"
+},
+{
+"word": "exhort",
+"pos": "v",
+"zh": "v. 劝诫, 忠告",
+"en": "v spur on or encourage especially by cheers and shouts / v force or impel in an indicated direction"
+},
+{
+"word": "physique",
+"pos": "n",
+"zh": "n. 体格, 体形 / [医] 体格",
+"en": "n. constitution of the human body"
+},
+{
+"word": "obnoxious",
+"pos": "a",
+"zh": "a. 可憎的, 使人不愉快的, 令人讨厌的",
+"en": "s causing disapproval or protest"
+},
+{
+"word": "malnutrition",
+"pos": "n",
+"zh": "n. 营养失调, 营养不良 / [医] 营养不良",
+"en": "n. a state of poor nutrition; can result from insufficient or excessive or unbalanced diet or from inability to absorb f…"
+},
+{
+"word": "oblique",
+"pos": "a",
+"zh": "a. 斜的, 倾斜的, 间接的, 不光明正大的, 躲躲闪闪的 / [医] 斜的",
+"en": "n. any grammatical case other than the nominative / a. slanting or inclined in direction or course or position--neither …"
+},
+{
+"word": "affix",
+"pos": "vt/n",
+"zh": "vt. 使附于, 署名, 粘贴, 盖印于 / n. 附加物, 词缀",
+"en": "n. a linguistic element added to a word to produce an inflected or derived form / v. attach to / v. attach or become att…"
+},
+{
+"word": "perpendicular",
+"pos": "n/a",
+"zh": "n. 垂直线, 垂直的位置, 直立(姿势), 刚正, 垂规 / a. 垂直的, 直立的, 陡峭的",
+"en": "n. a straight line at right angles to another line / n. a Gothic style in 14th and 15th century England; characterized b…"
+},
+{
+"word": "percussion",
+"pos": "n",
+"zh": "n. 敲打, 碰撞, 叩击, 叩诊, 击发, 打击, 打击乐器组 / [医] 叩诊",
+"en": "n. the act of playing a percussion instrument / n. the act of exploding a percussion cap / n. tapping a part of the body…"
+},
+{
+"word": "rupture",
+"pos": "n/v",
+"zh": "n. 破裂, 断裂, 裂开, 决裂, 不和 / v. (使)破裂",
+"en": "n. state of being torn or burst open / n. a personal or social separation (as between opposing factions) / n. the act of…"
+},
+{
+"word": "inept",
+"pos": "a",
+"zh": "a. 不适当的, 不理智的, 笨拙的 / [法] 不称职者, 无能的, 不符要求的",
+"en": "s. revealing lack of perceptiveness or judgment or finesse"
+},
+{
+"word": "considerate",
+"pos": "a",
+"zh": "a. 体贴的, 体谅的, 考虑周到的",
+"en": "a. showing concern for the rights and feelings of others"
+},
+{
+"word": "paternity",
+"pos": "n",
+"zh": "n. 父亲身份, 父系血统, 创始人(身份), 来源, 出处 / [医] 父权, 亲权; 父系",
+"en": "n. the state of being a father"
+},
+{
+"word": "outlying",
+"pos": "a",
+"zh": "a. 在外的, 边远的, 偏僻的, 题外的",
+"en": "s. relatively far from a center or middle"
+},
+{
+"word": "auxiliary",
+"pos": "n/a",
+"zh": "n. 辅助者, 辅助物, 附属机构, 助动词 / a. 辅助的, 备用的",
+"en": "s. functioning in a supporting capacity"
+},
+{
+"word": "ultimatum",
+"pos": "n",
+"zh": "n. 最后通牒, 基本原理 / [法] 最后通牒, 哀的美敦书, 最后结论",
+"en": "n. a final peremptory demand"
+},
+{
+"word": "dearth",
+"pos": "n",
+"zh": "n. 缺乏, 粮食不足, 饥馑",
+"en": "n. an acute insufficiency / n. an insufficient quantity or number"
+},
+{
+"word": "resonant",
+"pos": "a",
+"zh": "a. 共鸣的, 反响的, 洪亮的, 共振的 / [医] 反响的, 叩响的, 共鸣的, 共振的",
+"en": "s. characterized by resonance"
+},
+{
+"word": "fervent",
+"pos": "a",
+"zh": "a. 热的, 炎热的, 热心的",
+"en": "s. extremely hot"
+},
+{
+"word": "grudge",
+"pos": "n/vt",
+"zh": "n. 怨恨, 恶意 / vt. 怀恨, 嫉妒, 吝惜",
+"en": "n. a resentment strong enough to justify retaliation / v. accept or admit unwillingly"
+},
+{
+"word": "outcast",
+"pos": "a/n",
+"zh": "a. 被逐出的, 被遗弃的, 无家可归的 / n. 被驱逐的人, 流浪者",
+"en": "n. a person who is rejected (from society or home)"
+},
+{
+"word": "meek",
+"pos": "a",
+"zh": "a. 温顺的, 逆来顺受的",
+"en": "s. humble in spirit or manner; suggesting retiring mildness or even cowed submissiveness / s. very docile / s. evidencin…"
+},
+{
+"word": "mishap",
+"pos": "n",
+"zh": "n. 不幸之事, 灾祸, 恶运",
+"en": "n. an instance of misfortune"
+},
+{
+"word": "posterity",
+"pos": "n",
+"zh": "n. 子孙, 后裔 / [法] 子嗣, 后代, 后裔",
+"en": "n. all future generations"
+},
+{
+"word": "fruition",
+"pos": "n",
+"zh": "n. 成就, 实现, 结果实",
+"en": "n. the condition of bearing fruit / n. enjoyment derived from use or possession"
+},
+{
+"word": "scorch",
+"pos": "n/v",
+"zh": "n. 烧焦, 枯萎 / v. 烧焦, 拷焦, (使)枯萎, 讽刺",
+"en": "n. a surface burn / n. a plant disease that produces a browning or scorched appearance of plant tissues / n. a discolora…"
+},
+{
+"word": "tinge",
+"pos": "n/vt",
+"zh": "n. 色调, 色彩, 气味, 气息 / vt. 染, 使带气息",
+"en": "v. affect as in thought or feeling"
+},
+{
+"word": "septic",
+"pos": "a/n",
+"zh": "a. 腐败的, 脓毒性的 / n. 引起腐败的物质",
+"en": "a. containing or resulting from disease-causing organisms / a. of or relating to or caused by putrefaction"
+},
+{
+"word": "noxious",
+"pos": "a",
+"zh": "a. 有害的, 有毒的, 使道德败坏的 / [医] 有害的, 有毒的",
+"en": "a. injurious to physical or mental health"
+},
+{
+"word": "ephemeral",
+"pos": "a",
+"zh": "a. 朝生暮死的, 短命的, 短暂的 / [医] 暂时的",
+"en": "s. lasting a very short time"
+},
+{
+"word": "unconvincing",
+"pos": "a",
+"zh": "a. 不足以令人相信的",
+"en": "a. not convincing"
+},
+{
+"word": "rainwater",
+"pos": "n",
+"zh": "n. 雨水",
+"en": "n drops of fresh water that fall as precipitation from clouds"
+},
+{
+"word": "diligent",
+"pos": "a",
+"zh": "a. 勤勉的, 用功的",
+"en": "s. quietly and steadily persevering especially in detail or exactness / a. characterized by care and perseverance in car…"
+},
+{
+"word": "obedient",
+"pos": "a",
+"zh": "a. 服从的, 顺从的, 孝顺的 / [法] 服从的, 顺从的, 忠顺的",
+"en": "a. dutifully complying with the commands or instructions of those in authority; the refractory remain unburdened\"- Edmun…"
+},
+{
+"word": "laborious",
+"pos": "a",
+"zh": "a. 艰苦的, 费劲的, 勤劳的",
+"en": "s characterized by effort to the point of exhaustion; especially physical effort"
+},
+{
+"word": "sustenance",
+"pos": "n",
+"zh": "n. 生活资料, 生计, 食物, 支持 / [法] 营养物, 维持, 支持",
+"en": "n. the act of sustaining life by food or providing a means of subsistence"
+},
+{
+"word": "instantaneous",
+"pos": "a",
+"zh": "a. 即时的, 瞬间的, 猝发的 / [机] 瞬时的",
+"en": "s. occurring with no delay"
+},
+{
+"word": "prodigious",
+"pos": "a",
+"zh": "a. 庞大的, 惊人的, 异常的",
+"en": "s so great in size or force or extent as to elicit awe / s of momentous or ominous significance / s far beyond what is u…"
+},
+{
+"word": "trespass",
+"pos": "n/vi",
+"zh": "n. 擅自进入, 非法侵入, 侵害 / vi. 侵害, 侵入, 打扰, 冒犯",
+"en": "n. a wrongful interference with the possession of property (personal property as well as realty), or the action institut…"
+},
+{
+"word": "morbid",
+"pos": "a",
+"zh": "a. 致病的, 病态的, 疾病的, 可怕的 / [医] 病的",
+"en": "s. suggesting an unhealthy mental state"
+},
+{
+"word": "entangle",
+"pos": "vt",
+"zh": "vt. 使纠缠, 卷入, 使混乱",
+"en": "v. entrap / v. twist together or entwine into a confusing mass"
+},
+{
+"word": "apologetic",
+"pos": "a",
+"zh": "a. 道歉的, 急于认错的, 辩护的 / [法] 辩护的, 辩解的, 道歉的",
+"en": "a. offering or expressing apology"
+},
+{
+"word": "nourishment",
+"pos": "n",
+"zh": "n. 滋养品, 养料, 营养 / [医] 营养, 营养品",
+"en": "n. the act of nourishing"
+},
+{
+"word": "gape",
+"pos": "n/vi",
+"zh": "n. 裂口, 张嘴, 打哈欠 / vi. 裂开, 张嘴, 打哈欠",
+"en": "n. an expression of openmouthed astonishment / n. a stare of amazement (usually with the mouth open) / v. be wide open"
+},
+{
+"word": "incongruous",
+"pos": "a",
+"zh": "a. 不协调的, 不一致的, 不合适的",
+"en": "a. lacking in harmony or compatibility or appropriateness"
+},
+{
+"word": "photocopy",
+"pos": "n/v",
+"zh": "n. 影印, 复印件 / v. 影印",
+"en": "n. a photographic copy of written or printed or graphic work / v. reproduce by xerography"
+},
+{
+"word": "sociable",
+"pos": "a/n",
+"zh": "a. 好交际的, 社交的, 过社会生活的 / n. 联谊会",
+"en": "n. a party of people assembled to promote sociability and communal activity / a. inclined to or conducive to companionsh…"
+},
+{
+"word": "lucid",
+"pos": "a",
+"zh": "a. 明晰的, 清澈的, 透明的, 透彻的 / [医] 清明的, 透明的, 清醒的",
+"en": "s. having a clear mind"
+},
+{
+"word": "distil",
+"pos": "vt/vi",
+"zh": "vt.vi. 蒸馏, 提取...的精华, 用蒸馏法提取 / vi. 滴下, 渗出",
+"en": "v undergo condensation; change from a gaseous to a liquid state and fall in drops / v extract by the process of distilla…"
+},
+{
+"word": "predisposition",
+"pos": "n",
+"zh": "n. 爱好, 素质, 癖性, 天性, 倾向, 易感受性 / [医] 素因, 素质",
+"en": "n. an inclination beforehand to interpret statements in a particular way / n. a disposition in advance to react in a par…"
+},
+{
+"word": "rivet",
+"pos": "n/vt",
+"zh": "n. 铆钉 / vt. 用铆钉固定, 敲进去, 注目, 吸引住",
+"en": "n. heavy pin having a head at one end and the other end being hammered flat after being passed through holes in the piec…"
+},
+{
+"word": "shimmer",
+"pos": "n/vi/vt",
+"zh": "n. 微光, 闪光 / vi. 闪烁 / vt. 使闪烁",
+"en": "n. a weak and tremulous light / v. shine with a weak or fitful light / v. give off a shimmering reflection, as of silk"
+},
+{
+"word": "cordial",
+"pos": "n/a",
+"zh": "n. 兴奋剂, 补品 / a. 热忱的, 诚恳的, 有兴奋作用的",
+"en": "s. politely warm and friendly / s. sincerely or intensely felt"
+},
+{
+"word": "microcosm",
+"pos": "n",
+"zh": "n. 小宇宙, 小世界, 人类",
+"en": "n. a miniature model of something"
+},
+{
+"word": "oar",
+"pos": "n/vi/vt",
+"zh": "n. 桨, 桨手, 搅棒 / vi. 划桨 / vt. 划动",
+"en": "n. an implement used to propel or steer a boat"
+},
+{
+"word": "irrespective",
+"pos": "a",
+"zh": "a. 不顾的, 无关的, 没关系的",
+"en": "r in spite of everything; without regard to drawbacks"
+},
+{
+"word": "brood",
+"pos": "n/vt",
+"zh": "n. 一窝, 一伙 / vt. 孵, 沉思",
+"en": "n. the young of an animal cared for at one time / v. think moodily or anxiously about something / v. hang over, as of so…"
+}
+]

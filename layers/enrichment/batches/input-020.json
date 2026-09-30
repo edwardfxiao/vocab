@@ -1,0 +1,602 @@
+[
+{
+"word": "aside",
+"pos": "n/adv",
+"zh": "n. 小声说的话, 旁白 / adv. 在一边, 离开, 另外",
+"en": "n. a line spoken by an actor to the audience but not intended for others on the stage / r. on or to one side / r. out of…"
+},
+{
+"word": "servant",
+"pos": "n",
+"zh": "n. 仆人, 有用物, 公务员, 雇员 / [法] 受雇人, 服务者, 公务员",
+"en": "n. a person working in the service of another (especially in the household)"
+},
+{
+"word": "anywhere",
+"pos": "adv",
+"zh": "adv. 无论何处",
+"en": "r. at or in or to any place; (`anyplace' is used informally for `anywhere')"
+},
+{
+"word": "roof",
+"pos": "n/vt",
+"zh": "n. 屋顶, 室顶 / vt. 给...盖屋顶, 遮蔽",
+"en": "n. a protective covering that covers or forms the top of a building / n. protective covering on top of a motor vehicle /…"
+},
+{
+"word": "advance",
+"pos": "n/vi/vt/a",
+"zh": "n. 前进, 进展, 行过的路程 / vi. 前进, 进展, 提高, 上涨 / vt. 使前进, 促进, 提出, 提高, 使提前, 预付 / a. 前面的, 预先的",
+"en": "n. an amount paid before it is earned / n. increase in price or value / v. move forward, also in the metaphorical sense …"
+},
+{
+"word": "bond",
+"pos": "n/vt/vi",
+"zh": "n. 捆绑物, 结合, 债券, 契约, 粘合剂, 保证人, 键, 关栈保留 / vt. 存入关栈, 使黏合 / vi. 结合",
+"en": "n. a certificate of debt (usually interest-bearing or discounted) that is issued by a government or corporation in order…"
+},
+{
+"word": "milk",
+"pos": "n/vt/vi",
+"zh": "n. 奶, 乳状物 / vt. 挤乳, 榨取 / vi. 产乳",
+"en": "n. a white nutritious liquid secreted by mammals and used as food by human beings / n. produced by mammary glands of fem…"
+},
+{
+"word": "welfare",
+"pos": "n/a",
+"zh": "n. 福利, 安宁, 幸福, 福利事业 / a. 福利的",
+"en": "n governmental provision of economic assistance to persons in need / n something that aids or promotes well-being / n a …"
+},
+{
+"word": "era",
+"pos": "n",
+"zh": "n. 时代, 纪元, 时期",
+"en": "n. a period marked by distinctive character or reckoned from a fixed point or event / n. a major division of geological …"
+},
+{
+"word": "bind",
+"pos": "vt/vi",
+"zh": "vt. 绑, 约束, 装订, 包扎, 使结合 / vi. 凝固, 有约束力 / [计] 赋值, 绑定",
+"en": "n. something that hinders as if with bonds / v. create social or emotional ties / v. make fast; tie or secure, with or a…"
+},
+{
+"word": "fun",
+"pos": "n/vi/a",
+"zh": "n. 乐趣, 玩笑, 娱乐 / vi. 开玩笑 / a. 供娱乐用的",
+"en": "n. activities that are enjoyable or amusing / n. verbal wit or mockery (often at another's expense but not to be taken s…"
+},
+{
+"word": "engineer",
+"pos": "n/vt",
+"zh": "n. 工程师, 工兵 / vt. 设计, 监造, 精明地处理, 策划",
+"en": "n. a person who uses scientific knowledge to solve practical problems / n. the operator of a railway locomotive / v. des…"
+},
+{
+"word": "beneath",
+"pos": "prep/adv",
+"zh": "prep. 在...下方 / adv. 在...下方",
+"en": "r in or to a place that is lower"
+},
+{
+"word": "expectation",
+"pos": "n",
+"zh": "n. 期待, 指望, 展望 / [化] 期望值",
+"en": "n. belief about (or mental picture of) the future / n. the feeling that something is about to happen"
+},
+{
+"word": "accuse",
+"pos": "vt/vi",
+"zh": "vt. 指责, 控告, 归咎于 / vi. 指责, 控告",
+"en": "v. bring an accusation against; level a charge against"
+},
+{
+"word": "motor",
+"pos": "n/a/vt/vi",
+"zh": "n. 马达, 发动机, 原动力, 汽车 / a. 马达的, 发动机的, 汽车的, 发动的 / vt. 推动, 以汽车载运 / vi. 乘汽车, 驾车",
+"en": "n. machine that converts other forms of energy into mechanical energy and so imparts motion / n. a nonspecific agent tha…"
+},
+{
+"word": "somewhat",
+"pos": "n/adv",
+"zh": "n. 某物, 几分 / adv. 多少, 几分",
+"en": "r to a small degree or extent / r to a moderately sufficient extent or degree"
+},
+{
+"word": "origin",
+"pos": "n",
+"zh": "n. 起源, 起因, 出身, 开端 / [计] 原点; 起始地址; 信件来源的相关数据",
+"en": "n. properties attributable to your ancestry / n. an event that is a beginning; a first part or stage of subsequent event…"
+},
+{
+"word": "pour",
+"pos": "n/vt/vi",
+"zh": "n. 流出, 倾泻, 骤雨 / vt. 倒, 灌, 注, 倾泻, 诉说, 倾吐 / vi. 倾泻, 蜂涌而来, 下大雨",
+"en": "v. cause to run / v. move in large numbers / v. flow in a spurt / v. supply in large amounts or quantities"
+},
+{
+"word": "grey",
+"pos": "n/a/v",
+"zh": "n. 灰色 / a. 灰色的, 阴沉的 / v. (使)成灰色",
+"en": "n. United States writer of western adventure novels (1875-1939) / n. Queen of England for nine days in 1553; she was qui…"
+},
+{
+"word": "stir",
+"pos": "n/vt/vi",
+"zh": "n. 骚动, 轰动, 搅动, 监狱 / vt. 移动, 摇动, 激起, 惹起, 搅拌 / vi. 走动, 传播, 搅拌",
+"en": "n. a prominent or sensational but short-lived news event / n. emotional agitation and excitement / v. move an implement …"
+},
+{
+"word": "beach",
+"pos": "n",
+"zh": "n. 海滩",
+"en": "n. an area of sand sloping down to the water of a sea or lake / v. land on a beach"
+},
+{
+"word": "negotiation",
+"pos": "n",
+"zh": "n. 谈判, 磋商, 交涉 / [经] 谈判, 协商",
+"en": "n. a discussion intended to produce an agreement / n. the activity or business of negotiating an agreement; coming to te…"
+},
+{
+"word": "accompany",
+"pos": "vt/vi",
+"zh": "vt. 陪伴, 伴随, 补充, 为...伴奏 / vi. 伴奏, 伴唱",
+"en": "v. go or travel along with"
+},
+{
+"word": "beer",
+"pos": "n",
+"zh": "n. 啤酒 / [化] 啤酒",
+"en": "n. a general name for alcoholic beverages made by fermenting a cereal (or mixture of cereals) flavored with hops"
+},
+{
+"word": "establishment",
+"pos": "n",
+"zh": "n. 确立, 制定, 设施 / [经] 企业, 公司, 商店",
+"en": "n. a public or private structure (business or governmental or educational) including buildings and equipment for busines…"
+},
+{
+"word": "hence",
+"pos": "adv",
+"zh": "adv. 因此, 从此",
+"en": "r. from this place / r. from this time"
+},
+{
+"word": "nineteen",
+"pos": "num",
+"zh": "num. 十九, 十九个",
+"en": "n. the cardinal number that is the sum of eighteen and one / s. being one more than eighteen"
+},
+{
+"word": "liability",
+"pos": "n",
+"zh": "n. 责任, 债务, 倾向 / [经] 责任, 义务, 负债",
+"en": "n. the state of being legally obliged and responsible / n. the quality of being something that holds you back"
+},
+{
+"word": "unfortunately",
+"pos": "adv",
+"zh": "adv. 恐怕, 不幸的是",
+"en": "r. by bad luck"
+},
+{
+"word": "hero",
+"pos": "n",
+"zh": "n. 英雄, 超越常人者, 男主角",
+"en": "n. a man distinguished by exceptional courage and nobility and strength / n. the principal character in a play or movie …"
+},
+{
+"word": "minor",
+"pos": "n/a/vi",
+"zh": "n. 未成年人, 副修科目 / a. 较小的, 二流的, 未成年的 / vi. 副修 / [计] 次要",
+"en": "a. of lesser importance or stature or rank / a. lesser in scope or effect / a. inferior in number or size or amount / a.…"
+},
+{
+"word": "height",
+"pos": "n",
+"zh": "n. 高度, 海拔, 高地, 顶点 / [化] 高度",
+"en": "n. the vertical dimension of extension; distance from the base of something to the top"
+},
+{
+"word": "cloud",
+"pos": "n/vt/vi",
+"zh": "n. 云, 阴暗, 烟雾, 疑团 / vt. 以云遮敝, 笼罩, 使黯然 / vi. 乌云密布, 阴沉",
+"en": "n. any collection of particles (e.g., smoke or dust) or gases that is visible / n. a visible mass of water or ice partic…"
+},
+{
+"word": "constant",
+"pos": "n/a",
+"zh": "n. 常数, 恒量 / a. 不变的, 一定的, 时常的 / [计] 常量; 常数; 恒值",
+"en": "n. a quantity that does not vary / n. a number representing a quantity assumed to have a fixed value in a specified math…"
+},
+{
+"word": "stretch",
+"pos": "n/a/vt/vi",
+"zh": "n. 伸展, 张开, 连绵, 一段路, 一段时间 / a. 可伸缩的, 弹性的 / vt. 伸展, 张开, 曲解, 使过度伸展 / vi. 伸展, 延伸 / [计] 伸展",
+"en": "n. a large and unbroken expanse or distance / n. a straightaway section of a racetrack / n. exercise designed to extend …"
+},
+{
+"word": "ideal",
+"pos": "n/a",
+"zh": "n. 理想, 典范, 观念, 思想, 最后目标 / a. 理想的, 完美的, 空想的, 观念的, 唯心论的",
+"en": "n. the idea of something that is perfect; something that one hopes to attain / n. model of excellence or perfection of a…"
+},
+{
+"word": "expense",
+"pos": "n",
+"zh": "n. 费用, 代价, 开支, 损失 / [经] 费用, 开支, 将支出转为费用",
+"en": "n. amounts paid for goods and services that may be currently tax deductible (as opposed to capital expenditures) / n. a …"
+},
+{
+"word": "seed",
+"pos": "n/vt/vi",
+"zh": "n. 种子, 籽, 萌芽, 子孙, 精液 / vt. 在...播种, 催...发育, 脱...籽 / vi. 结实, 播种",
+"en": "n. a small hard fruit / n. a mature fertilized plant ovule consisting of an embryo and its food source and having a prot…"
+},
+{
+"word": "withdraw",
+"pos": "vt/vi",
+"zh": "vt. 撤回, 取回, 撤消, 使撤退, 拉开, 移开 / vi. 撤退, 离开",
+"en": "v. pull back or move away or backward / v. remove (a commodity) from (a supply source)"
+},
+{
+"word": "significance",
+"pos": "n",
+"zh": "n. 重要性, 意义, 意味 / [计] 有效; 有效性",
+"en": "n. the quality of being significant / n. a meaning that is not expressly stated but can be inferred"
+},
+{
+"word": "pepper",
+"pos": "n",
+"zh": "n. 胡椒粉, 胡椒, 辣椒 / [化] 胡椒; 辣椒; 花椒",
+"en": "n. climber having dark red berries (peppercorns) when fully ripe; southern India and Sri Lanka; naturalized in northern …"
+},
+{
+"word": "severe",
+"pos": "a",
+"zh": "a. 严格的, 尖锐的, 严肃的, 严重的, 严厉的, 朴素的 / [法] 严厉的, 苛刻的, 严重的",
+"en": "s. intensely or extremely bad or unpleasant in degree or quality / s. unsparing and uncompromising in discipline or judg…"
+},
+{
+"word": "intervention",
+"pos": "n",
+"zh": "n. 插入, 介入, 调停 / [经] 干预",
+"en": "n. the act of intervening (as to mediate a dispute, etc.) / n. a policy of intervening in the affairs of other countries…"
+},
+{
+"word": "terrible",
+"pos": "a",
+"zh": "a. 可怕的, 令人恐惧的, 极坏的",
+"en": "s causing fear or dread or terror / s exceptionally bad or displeasing / s intensely or extremely bad or unpleasant in d…"
+},
+{
+"word": "tip",
+"pos": "n/vt/vi",
+"zh": "n. 顶, 尖端, 梢, 末端, 倾斜, 垃圾场, 小费, 轻击, 指点, 秘密消息 / vt. 装顶端, 使倾斜, 使翻倒, 泄露, 告诫, 暗示, 给...小费, 轻击 / v…",
+"en": "n. the extreme end of something; especially something pointed / n. an indication of potential opportunity / v. cause to …"
+},
+{
+"word": "cite",
+"pos": "vt",
+"zh": "vt. 引用, 引证, 表彰 / [建] 引证, 指引",
+"en": "n a short note recognizing a source of information or of a quoted passage / v make reference to / v commend / v refer to…"
+},
+{
+"word": "prisoner",
+"pos": "n",
+"zh": "n. 囚犯, 犯人, 战俘 / [法] 犯人, 囚犯, 扣押犯",
+"en": "n. a person who is confined; especially a prisoner of war"
+},
+{
+"word": "vegetable",
+"pos": "n/a",
+"zh": "n. 蔬菜, 植物, 无精打采之人 / a. 蔬菜的, 植物的",
+"en": "n. edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant / …"
+},
+{
+"word": "dish",
+"pos": "n",
+"zh": "n. 盘子, 碟, 菜肴 / [医] 皿, 碟",
+"en": "n. a piece of dishware normally used as a container for holding or serving food / n. a particular item of prepared food …"
+},
+{
+"word": "palace",
+"pos": "n",
+"zh": "n. 宫, 宫殿, 华丽大厦",
+"en": "n. a large and stately mansion / n. the governing group of a kingdom / n. a large ornate exhibition hall / n. official r…"
+},
+{
+"word": "vast",
+"pos": "a",
+"zh": "a. 巨大的, 广大的, 非常的, 大量的",
+"en": "s unusually great in size or amount or degree or especially extent or scope"
+},
+{
+"word": "champion",
+"pos": "n/vt/a",
+"zh": "n. 冠军, 拥护者, 战士 / vt. 保卫, 拥护 / a. 优胜的",
+"en": "n. someone who has won first place in a competition / n. someone who fights for a cause / v. protect or fight for as a c…"
+},
+{
+"word": "everywhere",
+"pos": "adv",
+"zh": "adv. 各处, 到处",
+"en": "r. to or in any or all places; (`everyplace' is used informally for `everywhere')"
+},
+{
+"word": "gray",
+"pos": "n/a/v",
+"zh": "n. 灰色, 暗淡 / a. 灰色的, 灰白的, 面色苍白的, 年老的, 老练的, 阴沉的 / v. (使)变灰色",
+"en": "n. a neutral achromatic color midway between white and black / n. the SI unit of energy absorbed from ionizing radiation…"
+},
+{
+"word": "exclude",
+"pos": "vt",
+"zh": "vt. 除外, 排除, 排斥 / [医] 除外(诊断)",
+"en": "v. prevent from being included or considered or accepted / v. prevent from entering; shut out / v. lack or fail to inclu…"
+},
+{
+"word": "eighty",
+"pos": "num",
+"zh": "num. 八十, 八十个",
+"en": "n. the cardinal number that is the product of ten and eight / s. being ten more than seventy"
+},
+{
+"word": "oppose",
+"pos": "vt/vi",
+"zh": "vt. 反对, 以...对抗, 抗争 / vi. 反对",
+"en": "v. be against; express opposition to / v. contrast with equal weight or force / v. be resistant to"
+},
+{
+"word": "contemporary",
+"pos": "n/a",
+"zh": "n. 同时代的人 / a. 同时代的, 属于同一时期的",
+"en": "n. a person of nearly the same age as another / s. characteristic of the present / s. belonging to the present time"
+},
+{
+"word": "convention",
+"pos": "n",
+"zh": "n. 大会, 协定, 惯例, 约定 / [计] 约定",
+"en": "n. a large formal assembly / n. something regarded as a normative example / n. (diplomacy) an international agreement / …"
+},
+{
+"word": "multiple",
+"pos": "n/a",
+"zh": "n. 倍数, 并联 / a. 多样的, 许多的, 多功能的",
+"en": "n. the product of a quantity by an integer / a. having or involving or consisting of more than one part or entity or ind…"
+},
+{
+"word": "ninety",
+"pos": "num",
+"zh": "num. 九十, 九十个",
+"en": "n. the cardinal number that is the product of ten and nine / s. being ten more than eighty"
+},
+{
+"word": "afterwards",
+"pos": "adv",
+"zh": "adv. 然后, 后来",
+"en": "r happening at a time subsequent to a reference time"
+},
+{
+"word": "switch",
+"pos": "n/vt/vi",
+"zh": "n. 开关, 电闸, 转换, 软枝, 鞭子, 道岔 / vt. 转变, 切换, 摆动, 转换, 使转轨 / vi. 转换, 变换, 摆动 / [计] 开关; 翻转; 转移",
+"en": "n. control consisting of a mechanical or electrical or electronic device for making or breaking or changing the connecti…"
+},
+{
+"word": "criminal",
+"pos": "n/a",
+"zh": "n. 罪犯, 犯人, 刑事 / a. 犯了罪的, 刑事的, 有罪的",
+"en": "n. someone who has committed a crime or has been legally convicted of a crime / s. guilty of crime or serious offense / …"
+},
+{
+"word": "ill",
+"pos": "n/a/adv",
+"zh": "n. 疾病, 坏事, 罪恶, 灾难 / a. 生病的, 邪恶的, 不吉利的, 敌意的, 不良的, 不顺利的 / adv. 有害地, 不幸地, 几乎不",
+"en": "a. affected by an impairment of normal physical or mental function / s. resulting in suffering or adversity / s. distres…"
+},
+{
+"word": "rush",
+"pos": "n/vi/vt/a",
+"zh": "n. 匆促, 冲进, 急流, 灯心草 / vi. 冲, 奔, 闯, 赶紧, 匆促行事, 涌现 / vt. 使冲, 匆忙地做, 突袭, 飞跃, 用灯心草做 / a. 紧急的",
+"en": "n. a sudden forceful flow / n. grasslike plants growing in wet places and having cylindrical often hollow stems / n. phy…"
+},
+{
+"word": "knock",
+"pos": "n/v",
+"zh": "n. 敲, 敲打, 敲门 / v. 敲击, 互撞, 攻击",
+"en": "n. the sound of knocking (as on a door or in an engine or bearing) / n. negative criticism / n. a vigorous blow / n. a b…"
+},
+{
+"word": "specifically",
+"pos": "adv",
+"zh": "adv. 特定地, 明确地, 按特性",
+"en": "r. in distinction from others"
+},
+{
+"word": "justify",
+"pos": "vt/vi",
+"zh": "vt. 替...辩护, 证明 / vi. 证明合法 / [计] 段落重排, 两端对齐",
+"en": "v. show to be reasonable or provide adequate ground for / v. show to be right by providing justification or proof / v. a…"
+},
+{
+"word": "tired",
+"pos": "a",
+"zh": "a. 疲累的, 疲乏的, 厌倦的",
+"en": "a. depleted of strength or energy"
+},
+{
+"word": "signal",
+"pos": "n/vt/vi/a",
+"zh": "n. 信号, 暗号, 近因, 导火线 / vt. 向...作信号, 标志, 用信号通知 / vi. 发信号 / a. 作为信号的, 显著的 / [计] 信号",
+"en": "n. any nonverbal action or gesture that encodes a message / n. any incitement to action / n. an electric quantity (volta…"
+},
+{
+"word": "rail",
+"pos": "n/vt/vi",
+"zh": "n. 横杆, 围栏, 栏杆, 铁轨, 扶手, 秧鸡 / vt. 以横木围栏, 给...铺铁轨 / vi. 责骂, 抱怨",
+"en": "n. short for railway / n. a horizontal bar (usually of wood or metal) / n. any of numerous widely distributed small wadi…"
+},
+{
+"word": "diet",
+"pos": "n/vt/vi",
+"zh": "n. 日常饮食, 议会 / vt. 照规定饮食 / vi. 忌食",
+"en": "n. a prescribed selection of foods / n. a legislative assembly in certain countries (e.g., Japan) / n. the usual food an…"
+},
+{
+"word": "strongly",
+"pos": "adv",
+"zh": "adv. 强有力地, 坚强地, 激烈地",
+"en": "r. with strength or in a strong manner"
+},
+{
+"word": "rapidly",
+"pos": "adv",
+"zh": "adv. 飞快地, 迅速地, 赶紧地",
+"en": "r with rapid movements"
+},
+{
+"word": "comparison",
+"pos": "n",
+"zh": "n. 比较, 对照, 比喻 / [经] 比较, 对比",
+"en": "n. the act of examining resemblances / n. relation based on similarities and differences / n. qualities that are compara…"
+},
+{
+"word": "resolution",
+"pos": "n",
+"zh": "n. 解析, 决心, 坚定, 决定, 决议, 消除, 解答, 分解 / n. 图形分辨率 / [计] 图形分辨率",
+"en": "n. a formal expression by a meeting; agreed to by a vote / n. finding a solution to a problem / n. analysis into clear-c…"
+},
+{
+"word": "abortion",
+"pos": "n",
+"zh": "n. 流产, 堕胎, 失败, 夭折, 中止 / [医] 流产, 小产; 顿挫",
+"en": "n. termination of pregnancy"
+},
+{
+"word": "witness",
+"pos": "n/vt/vi",
+"zh": "n. 证人, 目击者, 证据, 证词 / vt. 目击, 作证, 证明, 表明 / vi. 作证人, 作为证据",
+"en": "n. someone who sees an event and reports what happened / n. testimony by word or deed to your religious faith / n. (law)…"
+},
+{
+"word": "apart",
+"pos": "adv/a",
+"zh": "adv. 成零碎, 成距离, 分别地, 分离着 / a. 分离的",
+"en": "s. remote and separate physically or socially / s. having characteristics not shared by others / r. separated or at a di…"
+},
+{
+"word": "mine",
+"pos": "n/vt/vi/pron",
+"zh": "n. 矿, 矿藏, 地雷 / vt. 挖掘, 开采, 在...布雷, 破坏 / vi. 开矿, 埋设地雷 / pron. 我的",
+"en": "n. excavation in the earth from which ores and minerals are extracted / n. explosive device that explodes on contact; de…"
+},
+{
+"word": "barely",
+"pos": "adv",
+"zh": "adv. 几乎不",
+"en": "r. only a very short time before"
+},
+{
+"word": "emphasize",
+"pos": "vt",
+"zh": "vt. 强调, 加强语气, 着重",
+"en": "v to stress, single out as important / v give extra weight to (a communication)"
+},
+{
+"word": "harry",
+"pos": "vt",
+"zh": "vt. 掠夺, 使苦恼, 强使前行, 折磨, 骚扰",
+"en": "v. make a pillaging or destructive raid on (a place), as in wartimes"
+},
+{
+"word": "plenty",
+"pos": "n/a",
+"zh": "n. 充分, 很多, 丰富 / a. 很多的, 足够的, 丰富的",
+"en": "n. a full supply"
+},
+{
+"word": "achievement",
+"pos": "n",
+"zh": "n. 完成, 成就, 功业",
+"en": "n the action of accomplishing something"
+},
+{
+"word": "proud",
+"pos": "a",
+"zh": "a. 骄傲的, 自大的, 自豪的, 辉煌的, 壮丽的",
+"en": "a. feeling self-respect or pleasure in something by which you measure your self-worth; or being a reason for pride"
+},
+{
+"word": "faculty",
+"pos": "n",
+"zh": "n. 才能, 能力, 全体教员, (大学的)系 / [医] 能力, [大学]院系",
+"en": "n. one of the inherent cognitive or perceptual powers of the mind"
+},
+{
+"word": "gap",
+"pos": "n/vt/vi",
+"zh": "n. 缝隙, 缺口, 间断, 间距, 通用汇编程序 / vt. 打开缺口, 造成缝隙 / vi. 豁开 / [计] 通用汇编程序, 图形应用程序, 间距",
+"en": "n. a conspicuous disparity or difference as between two figures / n. a narrow opening / n. a difference (especially an u…"
+},
+{
+"word": "weak",
+"pos": "a",
+"zh": "a. 不牢固的, 弱的, 虚弱的, 软弱的, 无力的, 无权力的, (论据等)不充分的 / [经] 疲软的",
+"en": "a. wanting in physical strength / s. tending downward in price / s. deficient or lacking in some skill / s. (used of ver…"
+},
+{
+"word": "definitely",
+"pos": "adv",
+"zh": "adv. 明确无疑地, 清楚地",
+"en": "r without question and beyond doubt"
+},
+{
+"word": "occupy",
+"pos": "vt",
+"zh": "vt. 占领, 占(时间、空间等), 住进, 担任, 使从事, 使全神贯注 / [法] 占领, 占据, 占有",
+"en": "v. live (in a certain place) / v. occupy the whole of"
+},
+{
+"word": "bomb",
+"pos": "n/vt/vi",
+"zh": "n. 炸弹 / vt. 轰炸, 投弹于 / vi. 失败",
+"en": "n. an explosive device fused to explode under specific conditions"
+},
+{
+"word": "permanent",
+"pos": "a/n",
+"zh": "a. 永久的, 不变的, 固定的, 持久的 / n. 烫发 / [计] 永久的",
+"en": "a. continuing or enduring without marked change in status or condition or place / s. not capable of being reversed or re…"
+},
+{
+"word": "enormous",
+"pos": "a",
+"zh": "a. 巨大的, 庞大的",
+"en": "s. extraordinarily large in size or extent or amount or power or degree; that a whole civilization should be dependent o…"
+},
+{
+"word": "originally",
+"pos": "adv",
+"zh": "adv. 本来, 原来, 最初, 就起源而论, 独创地",
+"en": "r. in an original manner"
+},
+{
+"word": "complaint",
+"pos": "n",
+"zh": "n. 诉苦, 抱怨, 控诉 / [医] 陈诉; 病",
+"en": "n. (formerly) a loud cry (or repeated cries) of pain or rage or sorrow / n. an expression of grievance or resentment / n…"
+},
+{
+"word": "massive",
+"pos": "a",
+"zh": "a. 大而重的, 宽大的, 宏伟的 / [医] 大块的, 整块的, 大量的",
+"en": "s. imposing in size or bulk or solidity / s. being the same substance throughout / s. imposing in scale or scope or degr…"
+},
+{
+"word": "amongst",
+"pos": "prep",
+"zh": "prep. 在...当中, 在...之间, 在...之中",
+"en": "prep. Mixed or mingled; surrounded by. / prep. Conjoined, or associated with, or making part of the /    number of; in t…"
+}
+]

@@ -1,0 +1,602 @@
+[
+{
+"word": "protect",
+"pos": "vt",
+"zh": "vt. 防卫, 保护, 警戒 / [法] 庇护, 保护, 警戒",
+"en": "v. shield from danger, injury, destruction, or damage / v. use tariffs to favor domestic industry"
+},
+{
+"word": "nice",
+"pos": "a",
+"zh": "a. 美好的, 和蔼的, 正派的, 做得好的, 精密的, 细微的, 挑剔的, 谨慎的",
+"en": "n. a city in southeastern France on the Mediterranean; the leading resort on the French Riviera / a. pleasant or pleasin…"
+},
+{
+"word": "manage",
+"pos": "vi/vt",
+"zh": "vi. 处理 / vt. 管理, 控制, 维持, 达成, 经营, 运用",
+"en": "v. be in charge of, act on, or dispose of"
+},
+{
+"word": "dog",
+"pos": "n/vt",
+"zh": "n. 狗, 坏蛋 / vt. 跟踪, 尾随",
+"en": "n. a member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehist…"
+},
+{
+"word": "affect",
+"pos": "vt/n",
+"zh": "vt. 影响, 感动, 假装, 模仿, 爱好, 倾向于 / n. 自觉感情",
+"en": "n. the conscious subjective aspect of feeling or emotion / v. have an effect upon / v. act physically on; have an effect…"
+},
+{
+"word": "fund",
+"pos": "n/vt",
+"zh": "n. 基金, 资金, 存款, 财源, 贮藏 / vt. 提供资金, 积累",
+"en": "n. a reserve of money set aside for some purpose / v. convert (short-term floating debt) into long-term debt that bears …"
+},
+{
+"word": "serious",
+"pos": "a",
+"zh": "a. 严肃的, 认真的, 重要的, 严重的 / [电] 严重的",
+"en": "a. concerned with work or important matters rather than play or trivialities / s. of great consequence / s. requiring ef…"
+},
+{
+"word": "identify",
+"pos": "vt/vi",
+"zh": "vt. 识别, 认为...等同于, 确定, 使参与 / vi. 一致, 认同",
+"en": "v. recognize as being; establish the identity of someone or something / v. consider (oneself) as similar to somebody els…"
+},
+{
+"word": "media",
+"pos": "n",
+"zh": "n. 媒体 / [计] 媒质",
+"en": "n a means or instrumentality for storing or communicating information / n the surrounding environment / n an intervening…"
+},
+{
+"word": "please",
+"pos": "adv/vt/vi",
+"zh": "adv. 请 / vt. 使高兴, 合...的心意, 取悦 / vi. 使人满意, 讨好, 愿意, 敬请",
+"en": "v. give pleasure to or be pleasing to / v. be the will of or have the will (to) / v. give satisfaction / r. used in poli…"
+},
+{
+"word": "ready",
+"pos": "n/a/adv/vt",
+"zh": "n. 预备好的状态, 现款 / a. 准备好的, 备用的, 可以使用的 / adv. 预先, 迅速 / vt. 使准备好",
+"en": "n. poised for action / a. completely prepared or in condition for immediate action or use or progress / s. (of especiall…"
+},
+{
+"word": "sign",
+"pos": "n/vt/vi",
+"zh": "n. 符号, 招牌, 征兆, 正负号, 手势 / vt. 签名, 打手势表达 / vi. 签名 / [计] 正负号; 符号; 符号字符",
+"en": "n. a perceptible indication of something not immediately apparent (as a visible clue that something has happened) / n. a…"
+},
+{
+"word": "whatever",
+"pos": "pron",
+"zh": "pron. 无论什么",
+"en": "s one or some or every or all without specification"
+},
+{
+"word": "difficulty",
+"pos": "n",
+"zh": "n. 困难, 难点",
+"en": "n. a factor causing trouble in achieving a positive result or tending to produce a negative result / n. a condition or s…"
+},
+{
+"word": "machine",
+"pos": "n/vt",
+"zh": "n. 机器, 机械装置, 机构, 自动售货机, 机械般工作的人 / vt. 以机器制造",
+"en": "n. any mechanical or electrical device that transmits or modifies energy to perform or assist in the performance of huma…"
+},
+{
+"word": "modern",
+"pos": "n/a",
+"zh": "n. 现代人, 有思想的人 / a. 现代的, 时髦的",
+"en": "n. a contemporary person / n. a typeface (based on an 18th century design by Gianbattista Bodoni) distinguished by regul…"
+},
+{
+"word": "degree",
+"pos": "n",
+"zh": "n. 程度, 度数, 学位, 度 / [医] 度, 程度",
+"en": "n. a position on a scale of intensity or amount or quality / n. a specific identifiable position in a continuum or serie…"
+},
+{
+"word": "legal",
+"pos": "a",
+"zh": "a. 法律的, 法定的, 合法的 / [经] 法定权利; 法律(上)的, 合法的",
+"en": "a. established by or founded upon law or official or accepted rules / a. of or relating to jurisprudence / s. having leg…"
+},
+{
+"word": "answer",
+"pos": "n/vt/vi",
+"zh": "n. 答案, 回答, 回报, 答辩 / vt. 回答, 反驳, 适应, 响应, 符合 / vi. 回答, 答应, 负责, 符合, 成功 / [计] 用户问题及答案新闻组",
+"en": "n. a statement (either spoken or written) that is made to reply to a question or request or criticism or accusation / n.…"
+},
+{
+"word": "cell",
+"pos": "n",
+"zh": "n. 单元, 细胞, 电池 / [计] 单元",
+"en": "n. any small compartment / n. (biology) the basic structural and functional unit of all organisms; they may exist as ind…"
+},
+{
+"word": "resource",
+"pos": "n",
+"zh": "n. 资源, 财力, 办法, 策略, 急智, 消遣 / [计] 资源",
+"en": "n. available source of wealth; a new or reserve supply that can be drawn upon when needed / n. a source of aid or suppor…"
+},
+{
+"word": "growth",
+"pos": "n",
+"zh": "n. 生长, 栽培, 增长 / [计] 等比级数",
+"en": "n. (biology) the process of an individual organism growing organically; a purely biological unfolding of events involved…"
+},
+{
+"word": "mile",
+"pos": "n",
+"zh": "n. 英里, 很大距离 / [机] 英里, 哩",
+"en": "n. a unit of length equal to 1,760 yards or 5,280 feet; exactly 1609.344 meters / n. a large distance / n. an ancient Ro…"
+},
+{
+"word": "compare",
+"pos": "vt/vi/n",
+"zh": "vt. 比较, 比喻, 对照 / vi. 相比 / n. 比较 / [计] 比较",
+"en": "v. examine and note the similarities or differences of / v. be comparable / v. consider or describe as similar, equal, o…"
+},
+{
+"word": "determine",
+"pos": "v",
+"zh": "v. 决定, 决心",
+"en": "v. establish after a calculation, investigation, experiment, survey, or study / v. shape or influence; give direction to…"
+},
+{
+"word": "lady",
+"pos": "n",
+"zh": "n. 淑女, 夫人, 女士, 贵妇",
+"en": "n. a polite name for any woman / n. a woman of the peerage in Britain"
+},
+{
+"word": "prepare",
+"pos": "vt/vi",
+"zh": "vt. 准备, 筹备, 使在思想上有准备, 制造, 调制 / vi. 预备",
+"en": "v. to prepare verbally, either for written or spoken delivery / v. educate for a future role or function / v. lead up to…"
+},
+{
+"word": "disease",
+"pos": "n",
+"zh": "n. 疾病, 弊病 / [医] [疾]病",
+"en": "n. an impairment of health or a condition of abnormal functioning"
+},
+{
+"word": "whom",
+"pos": "pron",
+"zh": "pron. 谁",
+"en": "pron. The objective case of who. See Who."
+},
+{
+"word": "final",
+"pos": "n/a",
+"zh": "n. 期末考试, 结局, 决赛 / a. 最后的, 终极的, 决定性的",
+"en": "n. the final match between the winners of all previous matches in an elimination tournament / s. conclusive in a process…"
+},
+{
+"word": "recognize",
+"pos": "vt/vi",
+"zh": "vt. 认出, 认可, 承认, 公认, 识别, 赏识 / vi. 承认, 具结",
+"en": "v. be fully aware or cognizant of / v. perceive to be the same / v. exhibit recognition for (an antigen or a substrate) …"
+},
+{
+"word": "task",
+"pos": "n/vt",
+"zh": "n. 工作, 任务, 作业, 困难的工作 / vt. 派给...工作, 使辛劳 / [计] 任务",
+"en": "v. assign a task to"
+},
+{
+"word": "function",
+"pos": "n/vi",
+"zh": "n. 官能, 职务, 功能, 函数 / vi. 活动, 运行, 行使职责 / [计] 功能, 函数",
+"en": "n. (mathematics) a mathematical relation such that each element of a given set (the domain of the function) is associate…"
+},
+{
+"word": "ability",
+"pos": "n",
+"zh": "n. 能力, 才干 / [经] 能力, 才能",
+"en": "n. the quality of being able to perform; a quality that permits or facilitates achievement or accomplishment / n. posses…"
+},
+{
+"word": "provision",
+"pos": "n/vt",
+"zh": "n. (政府提供的)钱和设备, 准备, 供应品, 规定, 条款 / vt. 供给...食物及必需品",
+"en": "n. a stipulated condition / n. the activity of supplying or providing something / n. a store or supply of something (esp…"
+},
+{
+"word": "county",
+"pos": "n",
+"zh": "n. 县, 郡",
+"en": "n. (United Kingdom) a region created by territorial division for the purpose of local government / n. (United States) th…"
+},
+{
+"word": "indicate",
+"pos": "vt",
+"zh": "vt. 显示, 象征, 指示, 指出 / [医] 指示",
+"en": "v. indicate a place, direction, person, or thing; either spatially or figuratively / v. to state or express briefly / v.…"
+},
+{
+"word": "character",
+"pos": "n",
+"zh": "n. 个性, 字符, 人物, 性质, 品格, 资格 / [计] 字符",
+"en": "n. the inherent complex of attributes that determines a persons moral and ethical actions and reactions / n. an actor's …"
+},
+{
+"word": "behaviour",
+"pos": "n",
+"zh": "n. 行为, 举止 / [计] 特性, 性能, 特点, 行为, 动作, 状态",
+"en": "n the action or reaction of something (as a machine or substance) under specified circumstances / n (behavioral attribut…"
+},
+{
+"word": "defence",
+"pos": "n",
+"zh": "n. 防卫, 防卫设备 / [经] (诉讼程序中的)辩护",
+"en": "n (psychiatry) an unconscious process that tries to reduce the anxiety associated with instinctive desires / n (sports) …"
+},
+{
+"word": "style",
+"pos": "n/vt",
+"zh": "n. 风格, 时尚, 文体, 风度, 字体, 类型 / vt. 称呼, (根据新款式)设计, 使合潮流 / n. 风格, 样式 / [计] 风格, 样式",
+"en": "n. a particular kind (as to appearance) / n. (botany) the narrow elongated part of the pistil between the ovary and the …"
+},
+{
+"word": "wonder",
+"pos": "n/vt/vi",
+"zh": "n. 奇迹, 惊奇, 惊愕 / vt. 惊奇, 想知道 / vi. 惊讶, 怀疑",
+"en": "n. the feeling aroused by something strange and surprising / n. something that causes feelings of wonder / v. have a wis…"
+},
+{
+"word": "attack",
+"pos": "n/vt/vi",
+"zh": "n. 攻击, 抨击 / vt. 攻击, 抨击, 动手干 / vi. 攻击",
+"en": "n. (military) an offensive against an enemy (using weapons) / n. an offensive move in a sport or game / n. the act of at…"
+},
+{
+"word": "obtain",
+"pos": "vt/vi",
+"zh": "vt. 获得, 达到 / vi. 流行, 得到公认",
+"en": "v. come into possession of"
+},
+{
+"word": "science",
+"pos": "n",
+"zh": "n. 科学, 学科, 学问, 自然科学 / [医] 科学",
+"en": "n. a particular branch of scientific knowledge"
+},
+{
+"word": "television",
+"pos": "n",
+"zh": "n. 电视 / [电] 电视",
+"en": "n. broadcasting visual images of stationary or moving objects / n. a telecommunication system that transmits images of o…"
+},
+{
+"word": "announce",
+"pos": "vt/vi",
+"zh": "vt. 宣布, 声称, 显示, 预告 / vi. 当报幕员, 宣布参加竞选",
+"en": "v. make known; make an announcement / v. announce publicly or officially / v. give the names of / v. foreshadow or presa…"
+},
+{
+"word": "box",
+"pos": "n/vt/vi",
+"zh": "n. 盒子, 箱, 方框, 一巴掌 / vt. 装...入盒中, 装箱, 打耳光 / vi. 拳击 / [计] 方框",
+"en": "n. a (usually rectangular) container; may have a lid / n. private area in a theater or grandstand where a small group ca…"
+},
+{
+"word": "pretty",
+"pos": "a/adv",
+"zh": "a. 漂亮的, 优美的, 机灵的, 狡猾的, 恰当的 / adv. 相当, 颇",
+"en": "s. pleasing by delicacy or grace; not imposing / s. (used ironically) unexpectedly bad"
+},
+{
+"word": "everybody",
+"pos": "pron",
+"zh": "pron. 每个人, 人人",
+"en": "n. Every person."
+},
+{
+"word": "hall",
+"pos": "n",
+"zh": "n. 门厅, 走廊, 会堂",
+"en": "n. a large room for gatherings or entertainment / n. English writer whose novel about a lesbian relationship was banned …"
+},
+{
+"word": "skill",
+"pos": "n",
+"zh": "n. 技术, 技巧, 技能, 熟练, 熟练工人 / [化] 技能",
+"en": "n. an ability that has been acquired by training / n. ability to produce solutions in some problem domain"
+},
+{
+"word": "physical",
+"pos": "a/n",
+"zh": "a. 身体的, 物质的, 自然的, 物理学的, 好色的 / n. 体格检查",
+"en": "a. involving the body as distinguished from the mind or spirit / a. relating to the sciences dealing with matter and ene…"
+},
+{
+"word": "horse",
+"pos": "n/vi/vt",
+"zh": "n. 马, 骑兵, 脚架 / vi. 骑马, 取笑 / vt. 使骑马, 系马于",
+"en": "n. solid-hoofed herbivorous quadruped domesticated since prehistoric times / n. a padded gymnastic apparatus on legs / v…"
+},
+{
+"word": "user",
+"pos": "n",
+"zh": "n. 使用者 / [计] 用户",
+"en": "n. a person who makes use of a thing; someone who uses or employs something"
+},
+{
+"word": "message",
+"pos": "n/vt/vi",
+"zh": "n. 消息, 通讯, 讯息, 教训, 预言, 广告词 / vt. 通知 / vi. 通报, 报告, 报信 / [计] 报文; 消息; 信息",
+"en": "n. a communication (usually brief) that is written or spoken or signaled / n. what a communication that is about somethi…"
+},
+{
+"word": "outside",
+"pos": "n/a/adv",
+"zh": "n. 外面, 外表, 外界 / a. 外面的, 外表的, 外界的 / adv. 外面, 外表, 外界",
+"en": "n. the region that is outside of something / n. the outer side or surface of something / a. relating to or being on or n…"
+},
+{
+"word": "nor",
+"pos": "conj",
+"zh": "conj. 也不, 也没有 / [计] 或非",
+"en": "conj. A negative connective or particle, introducing the second /    member or clause of a negative proposition, followi…"
+},
+{
+"word": "normal",
+"pos": "n/a",
+"zh": "n. 常态, 标准, 正常, 普通 / a. 正常的, 正规的, 标准的, 师范的, 正态的 / [计] 标准, 普通",
+"en": "a. conforming with or constituting a norm or standard or level or type or social norm; not abnormal / a. in accordance w…"
+},
+{
+"word": "forget",
+"pos": "vt/vi",
+"zh": "vt. 忘记, 忽略, 忘 / vi. 忘记",
+"en": "v. dismiss from the mind; stop remembering / v. be unable to remember / v. forget to do something / v. leave behind unin…"
+},
+{
+"word": "sex",
+"pos": "n/vt",
+"zh": "n. 性别, 性欲 / vt. 区别...的性别, 引起...的性欲",
+"en": "n. either of the two categories (male or female) into which most organisms are divided / n. all of the feelings resultin…"
+},
+{
+"word": "investment",
+"pos": "n",
+"zh": "n. 投资 / [医] 包埋料, 围模料, 包埋法, 围模法",
+"en": "n. money that is invested with an expectation of profit / n. the commitment of something other than money (time, energy,…"
+},
+{
+"word": "lawyer",
+"pos": "n",
+"zh": "n. 律师 / [经] 律师",
+"en": "n. a professional person authorized to practice law; conducts lawsuits or gives legal advice"
+},
+{
+"word": "army",
+"pos": "n",
+"zh": "n. 军队, 陆军",
+"en": "n. a permanent organization of the military land forces of a nation or state / n. a large number of people united for so…"
+},
+{
+"word": "environmental",
+"pos": "a",
+"zh": "a. 周围的, 环境的 / [经] 环境的, 环保的",
+"en": "a. of or relating to the external conditions or surroundings / a. concerned with the ecological effects of altering the …"
+},
+{
+"word": "glass",
+"pos": "n/vt/vi",
+"zh": "n. 玻璃, 玻璃杯, 透镜 / vt. 装玻璃于, 反射, 反映 / vi. 成玻璃状",
+"en": "n. a brittle transparent solid with irregular atomic structure / n. a container for holding liquids while drinking / n. …"
+},
+{
+"word": "suffer",
+"pos": "vt/vi",
+"zh": "vt. 遭受, 经历, 忍受 / vi. 受痛苦, 受损害",
+"en": "v. undergo or be subjected to / v. undergo (as of injuries and illnesses) / v. experience (emotional) pain / v. get wors…"
+},
+{
+"word": "sister",
+"pos": "n/vt",
+"zh": "n. 姐妹, 姐, 妹, 护士, 修女 / vt. 姐妹般对待",
+"en": "n. a female person who has the same parents as another person / n. (Roman Catholic Church) a title given to a nun (and u…"
+},
+{
+"word": "previous",
+"pos": "a",
+"zh": "a. 早先的, 前面的, 过急的 / [法] 以前的, 生前的, 前述的",
+"en": "s. just preceding something else in time or order / s. too soon or too hasty"
+},
+{
+"word": "maintain",
+"pos": "vt",
+"zh": "vt. 维持, 维修, 保持, 坚持, 供养, 主张 / [化] 维修",
+"en": "v. state or assert"
+},
+{
+"word": "professor",
+"pos": "n",
+"zh": "n. 教授",
+"en": "n. someone who is a member of the faculty at a college or university"
+},
+{
+"word": "crime",
+"pos": "n",
+"zh": "n. 犯罪, 罪行, 罪恶 / [法] 犯罪, 罪, 罪恶",
+"en": "n. (criminal law) an act punishable by law; usually considered an evil act / n. an evil act not necessarily punishable b…"
+},
+{
+"word": "publish",
+"pos": "vt/vi",
+"zh": "vt. 出版, 发行, 公开, 发表, 宣传, 公布 / vi. 出版, 发行",
+"en": "v. prepare and issue for public distribution or sale / v. have (one's written work) issued for publication"
+},
+{
+"word": "responsibility",
+"pos": "n",
+"zh": "n. 责任, 职责, 负担, 可靠性 / [化] 职责",
+"en": "n. a form of trustworthiness; the trait of being answerable to someone for something or being responsible for one's cond…"
+},
+{
+"word": "total",
+"pos": "a/vt/vi/n/adv",
+"zh": "a. 全体的, 总的, 全然的 / vt. 计算...的总和, 共计为 / vi. 合计 / n. 总数, 全体, 合计 / adv. 统统",
+"en": "v. add up in number or quantity / v. determine the sum of / v. damage beyond the point of repair"
+},
+{
+"word": "argument",
+"pos": "n",
+"zh": "n. 争论, 论证, 论据, 自变量 / [计] 参数",
+"en": "n. a fact or assertion offered as evidence that something is true / n. a discussion in which reasons are advanced for an…"
+},
+{
+"word": "miss",
+"pos": "n/vt/vi",
+"zh": "n. 失误, 避免, 失败, 小姐 / vt. 未得到, 未达到, 未听到, 未觉察, 逃脱, 遗漏, 错过, 思念 / vi. 失败, 击不中",
+"en": "n. a failure to hit (or meet or find etc) / n. a form of address for an unmarried woman / v. fail to perceive or to catc…"
+},
+{
+"word": "anyway",
+"pos": "adv",
+"zh": "adv. 无论如何, 至少",
+"en": "r used to indicate that a statement explains or supports a previous statement; anyhow, they're quiet\"; anyway, it's gone…"
+},
+{
+"word": "avoid",
+"pos": "vt",
+"zh": "vt. 避免, 防止, 撤消 / [法] 避免, 回避, 躲开",
+"en": "v. stay clear from; keep away from; keep out of the way of someone or something / v. refrain from doing something"
+},
+{
+"word": "bill",
+"pos": "n/vt",
+"zh": "n. 帐单, 清单, 钞票, 鸟嘴, 广告, 法案, 票据 / vt. 开帐单, (用招贴)宣布",
+"en": "n. a statute in draft before it becomes law / n. an itemized statement of money owed for goods shipped or services rende…"
+},
+{
+"word": "prime",
+"pos": "n/a/v",
+"zh": "n. 最佳部分, 初期, 全盛期 / a. 主要的, 最初的, 根本的 / v. 加油启动, 灌注, 填装",
+"en": "n. a number that has no factor but itself and 1 / n. the second canonical hour; about 6 a.m. / n. the time of maturity w…"
+},
+{
+"word": "express",
+"pos": "n/a/vt",
+"zh": "n. 快车, 快递, 专使 / a. 明确的, 丝毫不差的, 专门的, 快的 / vt. 表达, 表示, 表露",
+"en": "n. mail that is distributed by a rapid and efficient system / n. public transport consisting of a fast train or bus that…"
+},
+{
+"word": "gun",
+"pos": "n",
+"zh": "n. 枪 / [医] 枪",
+"en": "n. a weapon that discharges a missile at high velocity (especially from a metal tube or barrel) / n. the discharge of a …"
+},
+{
+"word": "suppose",
+"pos": "vt/vi",
+"zh": "vt. 推想, 假设, 以为, 想像, 假定 / vi. 料想",
+"en": "v. express a supposition"
+},
+{
+"word": "blue",
+"pos": "n/a/vt/vi",
+"zh": "n. 蓝色 / a. 蓝色的, 下流的, 忧郁的 / vt. 染成蓝色 / vi. 变蓝",
+"en": "n. blue color or pigment; resembling the color of the clear sky in the daytime / n. blue clothing / n. any organization …"
+},
+{
+"word": "finish",
+"pos": "n/vt/vi",
+"zh": "n. 完成, 结束, 末道漆, 磨光, 完美 / vt. 完成, 结束, 用完, 毁掉 / vi. 结束 / [计] 完成",
+"en": "n. the place designated as the end (as of a race or journey) / n. designated event that concludes a contest (especially …"
+},
+{
+"word": "element",
+"pos": "n",
+"zh": "n. 元件, 元素, 要素 / [计] 部分; 成分; 单元; 码元; 元件; 元素; 单元",
+"en": "n. the most favorable environment for a plant or animal / n. one of four substances thought in ancient and medieval cosm…"
+},
+{
+"word": "strategy",
+"pos": "n",
+"zh": "n. 战略, 策略 / [经] 战略, 策略",
+"en": "n. the branch of military science dealing with military command and the planning and conduct of a war"
+},
+{
+"word": "duty",
+"pos": "n",
+"zh": "n. 责任, 关税, 职务, 尊敬 / [化] 职责",
+"en": "n. the social force that binds you to the courses of action demanded by that force; every opportunity, an obligation; ev…"
+},
+{
+"word": "tend",
+"pos": "vi/vt",
+"zh": "vi. 走向, 有某种的倾向, 易于, 照顾, 注意 / vt. 照料, 护理",
+"en": "v. have a tendency or disposition to do or be something; be inclined / v. have care of or look after / v. manage or run"
+},
+{
+"word": "truth",
+"pos": "n",
+"zh": "n. 事实, 实情 / [法] 真实, 真相, 事实",
+"en": "n. a fact that has been verified / n. conformity to reality or actuality / n. a true statement / n. United States abolit…"
+},
+{
+"word": "leg",
+"pos": "n/vi",
+"zh": "n. 腿, 假腿, 路程 / vi. 走, 跑",
+"en": "n. a human limb; commonly used to refer to a whole limb but technically only the part of the limb between the knee and a…"
+},
+{
+"word": "song",
+"pos": "n",
+"zh": "n. 歌, 曲, 鸣声, 歌唱, 歌曲, 诗歌",
+"en": "n. a short musical composition with words / n. a distinctive or characteristic sound / n. the act of singing / n. a very…"
+},
+{
+"word": "democratic",
+"pos": "a",
+"zh": "a. 民主的 / [法] 民主的, 民主政体的, 平民的",
+"en": "a. characterized by or advocating or based upon the principles of democracy or social equality / a. belong to or relatin…"
+},
+{
+"word": "park",
+"pos": "n/vt/vi",
+"zh": "n. 公园, 停车处 / vt. 停车, 置于 / vi. 停车",
+"en": "n. a large area of land preserved in its natural state as public property / n. a piece of open land for recreational use…"
+},
+{
+"word": "check",
+"pos": "n/vt/vi",
+"zh": "n. 检查, 支票, 阻止物, 寄物牌, 象棋中将军 / vt. 检查, 阻止, 核对, 寄存, 托运 / vi. 逐项相符, 开支票 / [计] 复选",
+"en": "n. a written order directing a bank to pay money / n. the bill in a restaurant / n. the act of inspecting or verifying /…"
+},
+{
+"word": "suddenly",
+"pos": "adv",
+"zh": "adv. 突然, 意外, 忽然, 迅速, 即席作成, 即刻, 急速",
+"en": "r. happening unexpectedly"
+},
+{
+"word": "title",
+"pos": "n/vt",
+"zh": "n. 头衔, 名称, 标题, 书名, 扉页, 权利, 资格, 冠军, 字幕 / vt. 授予头衔, 加标题于 / [计] 标题",
+"en": "n. a heading that names a statute or legislative bill; may give a brief summary of the matters it deals with / n. the na…"
+},
+{
+"word": "treat",
+"pos": "n/vt/vi",
+"zh": "n. 宴请, 款待 / vt. 视为, 对待, 论述, 治疗, 款待 / vi. 讨论, 谈判, 作东",
+"en": "n. an occurrence that causes special pleasure or delight / v. interact in a certain way / v. provide treatment for / v. …"
+},
+{
+"word": "dark",
+"pos": "n/a",
+"zh": "n. 黑暗, 夜, 黄昏, 模糊 / a. 黑暗的, 暗的, 深色的, 隐密的, 模糊的, 无知的",
+"en": "n. absence of light or illumination / n. an unenlightened state / a. devoid of or deficient in light or brightness; shad…"
+}
+]

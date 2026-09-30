@@ -1,0 +1,602 @@
+[
+{
+"word": "denouement",
+"pos": "n",
+"zh": "n. 结局, 终场",
+"en": "n. the outcome of a complex sequence of events / n. the final resolution of the main complication of a literary or drama…"
+},
+{
+"word": "glasshouse",
+"pos": "n",
+"zh": "n. 温室, 玻璃工场, 禁闭房",
+"en": "n a building with glass walls and roof; for the cultivation and exhibition of plants under controlled conditions"
+},
+{
+"word": "vacillate",
+"pos": "vi",
+"zh": "vi. 游移不定, 踌躇, 犹豫, 摇摆",
+"en": "v be undecided about something; waver between conflicting positions or courses of action / v move or sway in a rising an…"
+},
+{
+"word": "disburse",
+"pos": "vt",
+"zh": "vt. 支付, 支出, 分配 / [经] 支付, 支出, 偿付",
+"en": "v. expend, as from a fund"
+},
+{
+"word": "aver",
+"pos": "vt",
+"zh": "vt. 断言, 坚称 / [法] 立证, 证明, 确证",
+"en": "v report or maintain / v to declare or affirm solemnly and formally as true"
+},
+{
+"word": "backache",
+"pos": "n",
+"zh": "n. 背痛",
+"en": "n. an ache localized in the back"
+},
+{
+"word": "seditious",
+"pos": "a",
+"zh": "a. 煽动性的, 妨害治安的 / [法] 妨害治安罪的, 煽动性的, 危及治安的",
+"en": "s arousing to action or rebellion / s in opposition to a civil authority or government"
+},
+{
+"word": "miscellany",
+"pos": "n",
+"zh": "n. 杂集, 杂录, 混杂",
+"en": "n a collection containing a variety of sorts of things / n an anthology of short literary pieces and poems and ballads e…"
+},
+{
+"word": "wingspan",
+"pos": "n",
+"zh": "n. 翼展",
+"en": "n. linear distance between the extremities of an airfoil"
+},
+{
+"word": "foment",
+"pos": "vt",
+"zh": "vt. 热敷, 煽动",
+"en": "v. bathe with warm water or medicated lotions"
+},
+{
+"word": "depreciate",
+"pos": "vi/vt",
+"zh": "vi. 贬值 / vt. 降价, 贬低",
+"en": "v. lower the value of something / v. lose in value"
+},
+{
+"word": "frolic",
+"pos": "n/vi/a",
+"zh": "n. 嬉戏 / vi. 嬉戏 / a. 嬉戏的, 欢乐的",
+"en": "v. play boisterously"
+},
+{
+"word": "pygmy",
+"pos": "n/a",
+"zh": "n. 矮人, 侏儒 / a. 矮小的",
+"en": "n. an unusually small individual / n. any member of various peoples having an average height of less than five feet"
+},
+{
+"word": "revelry",
+"pos": "n",
+"zh": "n. 闹饮, 狂欢",
+"en": "n unrestrained merrymaking"
+},
+{
+"word": "certitude",
+"pos": "n",
+"zh": "n. 确实性, 确信",
+"en": "n. total certainty or greater certainty than circumstances warrant"
+},
+{
+"word": "facelift",
+"pos": "n",
+"zh": "n. 除去面部皱纹的整容手术",
+"en": "n plastic surgery to remove wrinkles and other signs of aging from your face; an incision is made near the hair line and…"
+},
+{
+"word": "ruffian",
+"pos": "n/a",
+"zh": "n. 恶棍, 无赖 / a. 凶恶的, 残忍的, 残暴的",
+"en": "n a cruel and brutal fellow"
+},
+{
+"word": "stolid",
+"pos": "a",
+"zh": "a. 缺乏热情的, 神经麻木的",
+"en": "s having or revealing little emotion or sensibility; not easily aroused or excited"
+},
+{
+"word": "walrus",
+"pos": "n",
+"zh": "n. 海象",
+"en": "n. either of two large northern marine mammals having ivory tusks and tough hide over thick blubber"
+},
+{
+"word": "atone",
+"pos": "vi",
+"zh": "vi. 补偿, 弥补 / [法] 赔偿, 补偿, 偿还",
+"en": "v make amends for / v turn away from sin or do penitence"
+},
+{
+"word": "sate",
+"pos": "vt",
+"zh": "vt. 充分满足, 过分满意, 使厌腻",
+"en": "v fill to satisfaction"
+},
+{
+"word": "amoral",
+"pos": "a",
+"zh": "a. 不属于道德范畴的, 无从区分是非的",
+"en": ""
+},
+{
+"word": "malfeasance",
+"pos": "n",
+"zh": "n. 不正当, 不法行为, 坏事, 渎职 / [经] 不法行为, 违法乱纪",
+"en": "n. wrongful conduct by a public official"
+},
+{
+"word": "idiocy",
+"pos": "n",
+"zh": "n. 白痴, 极端愚蠢 / [医] 白痴",
+"en": "n. extreme mental retardation"
+},
+{
+"word": "encumber",
+"pos": "vt",
+"zh": "vt. 妨害, 阻塞, 拖累 / [经] 使负(债等), 负有义务",
+"en": "v hold back"
+},
+{
+"word": "defrost",
+"pos": "vt/vi",
+"zh": "vt. 除霜 / vi. 解冻",
+"en": "v. make or become free of frost or ice"
+},
+{
+"word": "prevaricate",
+"pos": "vi",
+"zh": "vi. 支吾其辞, 搪塞",
+"en": "v be deliberately ambiguous or unclear in order to mislead or withhold information"
+},
+{
+"word": "nepotism",
+"pos": "n",
+"zh": "n. 偏袒亲属, 起用亲戚",
+"en": "n. favoritism shown to relatives or close friends by those in power (as by giving them jobs)"
+},
+{
+"word": "pincers",
+"pos": "n",
+"zh": "n. 钳子, 镊子, 钳形运动, 螯 / [医] 镊子, 乳牙(马)",
+"en": "n a hand tool for holding consisting of a compound lever for grasping / n a grasping structure on the limb of a crustace…"
+},
+{
+"word": "pillory",
+"pos": "n/vt",
+"zh": "n. 颈手枷, 笑柄, 示众 / vt. 上颈手枷, 使惹人嘲笑, 使受众辱, 将...示众",
+"en": "n. a wooden instrument of punishment on a post with holes for the wrists and neck; offenders were locked in and so expos…"
+},
+{
+"word": "earplug",
+"pos": "n",
+"zh": "n. 耳塞 / [医] 耳塞",
+"en": "n. an earphone that is inserted into the ear canal / n. a plug of cotton, wax, or rubber that is fitted into the ear can…"
+},
+{
+"word": "garbled",
+"pos": "a",
+"zh": "a. 断章取义的, 曲解的, 篡改的, 歪曲事实的, 混淆不清的 / [计] 错乱的",
+"en": "v make false by mutilation or addition; as of a message or story / s lacking orderly continuity"
+},
+{
+"word": "jamb",
+"pos": "n",
+"zh": "n. 门窗侧壁, 侧柱",
+"en": "n. upright consisting of a vertical side member of a door or window frame"
+},
+{
+"word": "vibrancy",
+"pos": "n",
+"zh": "n. 振动, 振响, 活力",
+"en": "n having the character of a loud deep sound; the quality of being resonant"
+},
+{
+"word": "aspirant",
+"pos": "n/a",
+"zh": "n. 怀抱大志者, 野心家 / a. 上进的, 有野心的",
+"en": "n. an ambitious and aspiring young person / s. desiring or striving for recognition or advancement"
+},
+{
+"word": "apotheosis",
+"pos": "n",
+"zh": "n. 尊崇为神, 神化, 美化",
+"en": "n model of excellence or perfection of a kind; one having no equal / n the elevation of a person (as to the status of a …"
+},
+{
+"word": "etymology",
+"pos": "n",
+"zh": "n. 语源, 语源学",
+"en": "n. a history of a word / n. the study of the sources and development of words"
+},
+{
+"word": "deform",
+"pos": "vt/vi",
+"zh": "vt. 使残缺, 使变形 / vi. 变形",
+"en": "v. make formless / v. become misshapen / v. alter the shape of (something) by stress"
+},
+{
+"word": "tourniquet",
+"pos": "n",
+"zh": "n. 止血器, 压脉器 / [医] 止血带, 压脉器",
+"en": "n bandage that stops the flow of blood from an artery by applying pressure"
+},
+{
+"word": "multifarious",
+"pos": "a",
+"zh": "a. 多种的, 各种各样的, 许多的",
+"en": "s having many aspects"
+},
+{
+"word": "aglow",
+"pos": "a/adv",
+"zh": "a. 发光的, 通红的 / adv. 发光地",
+"en": "s. softly bright or radiant"
+},
+{
+"word": "fortieth",
+"pos": "num",
+"zh": "num. 第四十, 四十分之一",
+"en": "n. position 40 in a countable series of things / s. the ordinal number of forty in counting order"
+},
+{
+"word": "occidental",
+"pos": "n/a",
+"zh": "n. 欧美人, 西方人 / a. 欧美的, 西方的, 西方国家的",
+"en": "n. a native inhabitant of the Occident / n. an artificial language / s. denoting or characteristic of countries of Europ…"
+},
+{
+"word": "stratify",
+"pos": "vt",
+"zh": "vt. (使)成层 / [经] 分层",
+"en": "v. divide society into social classes or castes / v. form layers or strata / v. develop different social levels, classes…"
+},
+{
+"word": "heckle",
+"pos": "vt/n",
+"zh": "vt. 诘问, 以麻梳梳理, 激烈质问 / n. 针排",
+"en": "v. comb with a heckle / v. challenge aggressively"
+},
+{
+"word": "ravishing",
+"pos": "a",
+"zh": "a. 引人入胜的",
+"en": "s. stunningly beautiful"
+},
+{
+"word": "wallop",
+"pos": "vi/vt/n",
+"zh": "vi. 乱窜, 猛冲 / vt. 猛击, 击溃 / n. 重击, 冲击力, 快感",
+"en": "n. a severe blow / v. defeat soundly and utterly"
+},
+{
+"word": "acquisitive",
+"pos": "a",
+"zh": "a. 渴望获得的, 贪婪的 / [法] 取得的, 获得的, 贪得无厌的",
+"en": "a. eager to acquire and possess things especially material possessions or ideas"
+},
+{
+"word": "infinitesimal",
+"pos": "a/n",
+"zh": "a. 极小的, 极微的, 无限小的 / n. 极小量, 极微量, 无限小",
+"en": "n. (mathematics) a variable that has zero as its limit / s. infinitely or immeasurably small"
+},
+{
+"word": "nadir",
+"pos": "n",
+"zh": "n. 天底, 最低点",
+"en": "n. an extreme state of adversity; the lowest point of anything / n. the point below the observer that is directly opposi…"
+},
+{
+"word": "egocentric",
+"pos": "a/n",
+"zh": "a. 自我中心的, 利己主义的 / n. 利己主义者",
+"en": "n. a self-centered person with little regard for others"
+},
+{
+"word": "winkle",
+"pos": "n/vt/vi",
+"zh": "n. 滨螺, 食用螺 / vt. 剔出, 逐出 / vi. 闪耀",
+"en": "v. remove or displace from a position"
+},
+{
+"word": "arraign",
+"pos": "vt",
+"zh": "vt. 提讯, 传讯, 责难 / [法] 传讯, 提审, 控告",
+"en": "v. call before a court to answer an indictment / v. accuse of a wrong or an inadequacy"
+},
+{
+"word": "cohabit",
+"pos": "vi",
+"zh": "vi. 同居 / [法] 同居",
+"en": "v. share living quarters; usually said of people who are not married and live together as a couple"
+},
+{
+"word": "appellation",
+"pos": "n",
+"zh": "n. 名称, 称号 / [法] 称呼, 名称, 名目",
+"en": "n. identifying word or words by which someone or something is called and classified or distinguished from others"
+},
+{
+"word": "unrequited",
+"pos": "a",
+"zh": "a. 无报答的, 没有受到报复的 / [法] 无报酬的, 得不到报答的, 无报复的",
+"en": "s not returned in kind"
+},
+{
+"word": "quart",
+"pos": "n",
+"zh": "n. 夸脱 / [医] 夸脱(四分之一加仑)",
+"en": "n. a United States liquid unit equal to 32 fluid ounces; four quarts equal one gallon / n. a British imperial capacity m…"
+},
+{
+"word": "despotic",
+"pos": "a",
+"zh": "a. 专制的, 专横的, 暴虐的 / [法] 专制的, 专横的",
+"en": "a. belonging to or having the characteristics of a despot / s. ruled by or characteristic of a despot"
+},
+{
+"word": "skulk",
+"pos": "vi",
+"zh": "vi. 偷偷隐躲, 偷懒",
+"en": "v. move stealthily"
+},
+{
+"word": "seabed",
+"pos": "n",
+"zh": "n. 海底, 海床",
+"en": "n the bottom of a sea or ocean"
+},
+{
+"word": "colonnade",
+"pos": "n",
+"zh": "n. 柱廊",
+"en": "n. structure consisting of a row of evenly spaced columns"
+},
+{
+"word": "serendipity",
+"pos": "n",
+"zh": "n. 偶然发现珍宝的运气/才能, 易遇奇缘的运气",
+"en": "n. good luck in making unexpected and fortunate discoveries"
+},
+{
+"word": "pharmacology",
+"pos": "n",
+"zh": "n. 药理学, 药物学 / [化] 药理学",
+"en": "n. the science or study of drugs: their preparation and properties and uses and effects"
+},
+{
+"word": "comport",
+"pos": "vt/vi",
+"zh": "vt. 举动, 表现 / vi. 相称, 适合",
+"en": "v behave well or properly / v behave in a certain manner"
+},
+{
+"word": "measly",
+"pos": "a",
+"zh": "a. 患麻疹的 / [医] 米珠的, 含囊尾蚴的",
+"en": "s. contemptibly small in amount"
+},
+{
+"word": "knell",
+"pos": "n/v",
+"zh": "n. 丧钟声, 哀伤的声音, 凶兆 / v. 鸣丧钟",
+"en": "n. the sound of a bell rung slowly to announce a death or a funeral or the end of something / v. ring as in announcing d…"
+},
+{
+"word": "refrigerant",
+"pos": "a/n",
+"zh": "a. 冷冻的, 冷却的, 清凉的 / n. 清凉剂, 冷却剂, 冷冻剂 / [计] 致冷剂",
+"en": "n. any substance used to provide cooling (as in a refrigerator) / s. causing cooling or freezing"
+},
+{
+"word": "emancipate",
+"pos": "vt",
+"zh": "vt. 释放, 解放",
+"en": "v. give equal rights to; of women and minorities"
+},
+{
+"word": "bumble",
+"pos": "vi",
+"zh": "vi. 结结巴巴地说, 犯大错, 踉跄, 跌倒",
+"en": "v. speak haltingly"
+},
+{
+"word": "marionette",
+"pos": "n",
+"zh": "n. 牵线木偶",
+"en": "n a small figure of a person operated from above with strings by a puppeteer"
+},
+{
+"word": "cosset",
+"pos": "n/vt",
+"zh": "n. 供玩赏的小动物, 爱畜 / vt. 宠爱, 珍爱, 溺爱",
+"en": "v treat with excessive indulgence"
+},
+{
+"word": "portentous",
+"pos": "a",
+"zh": "a. 前兆的, 不吉的, 可惊的, 自大的",
+"en": "s. of momentous or ominous significance"
+},
+{
+"word": "apprise",
+"pos": "vt",
+"zh": "vt. 通知",
+"en": "v inform (somebody) of something / v make aware of / v gain in value / v increase the value of"
+},
+{
+"word": "internecine",
+"pos": "a",
+"zh": "a. 互相残杀的, 两败俱伤的, 致命的 / [法] 互相残杀的, 两败俱伤的, 杀人的",
+"en": "s. (of conflict) within a group or organization / s. characterized by bloodshed and carnage for both sides"
+},
+{
+"word": "laxative",
+"pos": "a/n",
+"zh": "a. 通便的, 轻度腹泻的 / n. 通泻剂, 缓泻药",
+"en": "n. a mild cathartic / a. stimulating evacuation of feces"
+},
+{
+"word": "trenchant",
+"pos": "a",
+"zh": "a. 锐利的, 尖锐的, 有力的, 鲜明的, 清晰的",
+"en": "s having keenness and forcefulness and penetration in thought, expression, or intellect / s characterized by or full of …"
+},
+{
+"word": "loam",
+"pos": "n/vt",
+"zh": "n. 壤土 / vt. 用土填",
+"en": "n. a rich soil consisting of a mixture of sand and clay and decaying organic materials"
+},
+{
+"word": "millionth",
+"pos": "a/n",
+"zh": "a. 第一百万的, 百万分之一的 / n. 第一百万, 百万分之一",
+"en": "n. position 1,000,000 in a countable series of things / s. the ordinal number of one million in counting order"
+},
+{
+"word": "lampshade",
+"pos": "n",
+"zh": "n. 灯罩",
+"en": "n. a protective ornamental shade used to screen a light bulb from direct view"
+},
+{
+"word": "exultant",
+"pos": "a",
+"zh": "a. 非常高兴的, 欢欣的",
+"en": "s. joyful and proud especially because of triumph or success"
+},
+{
+"word": "sallow",
+"pos": "a/v/n",
+"zh": "a. 灰黄色的, 土色的, 气色不好的 / v. (使)成土色 / n. 黄华柳, 黄华柳细枝",
+"en": "n. any of several Old World shrubby broad-leaved willows having large catkins; some are important sources for tanbark an…"
+},
+{
+"word": "curdle",
+"pos": "vt/vi",
+"zh": "vt. 使凝结, 使凝固, 使变质 / vi. 凝结, 凝固, 变质",
+"en": "v. turn into curds / v. go bad or sour / v. turn from a liquid to a solid mass"
+},
+{
+"word": "equine",
+"pos": "n/a",
+"zh": "n. 马 / a. 马的, 象马的",
+"en": "n. hoofed mammals having slender legs and a flat coat with a narrow mane along the back of the neck / a. resembling a ho…"
+},
+{
+"word": "convalesce",
+"pos": "vi",
+"zh": "vi. 渐渐康复, 渐愈",
+"en": "v get over an illness or shock"
+},
+{
+"word": "peripatetic",
+"pos": "a/n",
+"zh": "a. 徒步的, 漫游的 / n. 走来走去的人, 游历",
+"en": "n. a person who walks from place to place / s. traveling especially on foot"
+},
+{
+"word": "approbation",
+"pos": "n",
+"zh": "n. 认可, 满意 / [经] 许可, 认可, 批准",
+"en": "n. official approval / n. official recognition or approval"
+},
+{
+"word": "cantankerous",
+"pos": "a",
+"zh": "a. 专爱唱反调的, 爱吵架的",
+"en": "s. having a difficult and contrary disposition"
+},
+{
+"word": "agnostic",
+"pos": "n",
+"zh": "n. 不可知论者",
+"en": "n. someone who is doubtful or noncommittal about something / n. a person who claims that they cannot have true knowledge…"
+},
+{
+"word": "pomposity",
+"pos": "n",
+"zh": "n. 炫耀",
+"en": "n lack of elegance as a consequence of being pompous and puffed up with vanity"
+},
+{
+"word": "pedlar",
+"pos": "n",
+"zh": "n. 沿街叫卖的小贩, (流言)传播者 / [经] 小贩, 商贩, 货郎",
+"en": "n someone who travels about selling his wares (as on the streets or at carnivals)"
+},
+{
+"word": "motherland",
+"pos": "n",
+"zh": "n. 祖国",
+"en": "n the country where you were born"
+},
+{
+"word": "homogenize",
+"pos": "vi/vt",
+"zh": "vi. 变均匀 / vt. 使均匀",
+"en": "v. cause to become equal or homogeneous as by mixing / v. break up the fat globules of / v. become homogeneous or simila…"
+},
+{
+"word": "rapacious",
+"pos": "a",
+"zh": "a. 强夺的, 贪欲的, 贪婪的",
+"en": "s. excessively greedy and grasping"
+},
+{
+"word": "deign",
+"pos": "vi/vt",
+"zh": "vi. 屈尊 / vt. 赐予",
+"en": "v do something that one considers to be below one's dignity"
+},
+{
+"word": "ragtime",
+"pos": "n/a",
+"zh": "n. 雷格泰姆旋律, 散拍乐 / a. 滑稽的",
+"en": "n. music with a syncopated melody (usually for the piano)"
+},
+{
+"word": "buffoon",
+"pos": "n",
+"zh": "n. 小丑",
+"en": "n a rude or vulgar fool / n a person who amuses others by ridiculous behavior"
+},
+{
+"word": "incriminate",
+"pos": "vt",
+"zh": "vt. 连累, 暗示...有罪, 控告 / [法] 控告, 使入罪, 连累",
+"en": "v. suggest that someone is guilty"
+},
+{
+"word": "stickler",
+"pos": "n",
+"zh": "n. 坚持要求某种品质的人, 坚持要求一丝不苟者, 难题, 费解的事物",
+"en": "n. someone who insists on something"
+},
+{
+"word": "fascia",
+"pos": "n",
+"zh": "n. 带, 招牌 / [医] 筋膜, 绷带",
+"en": "n. a sheet or band of fibrous connective tissue separating or binding together muscles and organs etc"
+},
+{
+"word": "myopia",
+"pos": "n",
+"zh": "n. 近视 / [医] 近视",
+"en": "n. (ophthalmology) eyesight abnormality resulting from the eye's faulty refractive ability; distant objects appear blurr…"
+}
+]

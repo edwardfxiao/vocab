@@ -1,0 +1,602 @@
+[
+{
+"word": "papyrus",
+"pos": "n",
+"zh": "n. 纸草, 草制成之纸",
+"en": "n. paper made from the papyrus plant by cutting it in strips and pressing it flat; used by ancient Egyptians and Greeks …"
+},
+{
+"word": "vitiate",
+"pos": "vt",
+"zh": "vt. 使变质, 污染, 使堕落, 败坏, 使失效 / [法] 败坏, 污损, 污染",
+"en": "v corrupt morally or by intemperance or sensuality / v make imperfect / v take away the legal force of or render ineffec…"
+},
+{
+"word": "bumblebee",
+"pos": "n",
+"zh": "n. [动]大黄蜂",
+"en": "n. robust hairy social bee of temperate regions"
+},
+{
+"word": "centaur",
+"pos": "n",
+"zh": "n. 半人半马的怪物, 半人马座",
+"en": "n. (classical mythology) a mythical being that is half man and half horse"
+},
+{
+"word": "isthmus",
+"pos": "n",
+"zh": "n. 地峡, 峡部 / [医] 峡",
+"en": "n. a relatively narrow strip of land (with water on both sides) connecting two larger land areas / n. a cord-like tissue…"
+},
+{
+"word": "boardinghouse",
+"pos": "n",
+"zh": "n. 寄宿处",
+"en": "n a private house that provides accommodations and meals for paying guests"
+},
+{
+"word": "decentralize",
+"pos": "vt",
+"zh": "vt. 使分散, 下放(权力), 疏散(人口) / [经] 分权",
+"en": "v. make less central"
+},
+{
+"word": "magisterial",
+"pos": "a",
+"zh": "a. 长官的, 威严的, 有权威的 / [法] 长官的, 有权威的, 专横的",
+"en": "a. of or relating to a magistrate"
+},
+{
+"word": "gardenia",
+"pos": "n",
+"zh": "n. 栀子",
+"en": "n. any of various shrubs and small trees of the genus Gardenia having large fragrant white or yellow flowers"
+},
+{
+"word": "superlative",
+"pos": "a/n",
+"zh": "a. 最上的, 无比的, 过度的 / n. 最好的人(物), 最高程度, 最高级",
+"en": "n. an exaggerated expression (usually of praise) / n. the superlative form of an adjective or adverb"
+},
+{
+"word": "supercilious",
+"pos": "a",
+"zh": "a. 傲慢的, 自大的, 目空一切的",
+"en": "s. expressive of contempt"
+},
+{
+"word": "chromatic",
+"pos": "a",
+"zh": "a. 彩色的, 色品的, 易染色的 / [医] 色的, 易染的, 核染质的",
+"en": "a. able to refract light without spectral color separation / a. based on a scale consisting of 12 semitones / a. being o…"
+},
+{
+"word": "lampoon",
+"pos": "n/vt",
+"zh": "n. 讽刺文 / vt. 讽刺",
+"en": "n a composition that imitates or misrepresents somebody's style, usually in a humorous way / v ridicule with satire"
+},
+{
+"word": "discomfiture",
+"pos": "n",
+"zh": "n. 失败, 狼狈, 困窘, 挫败, 败北",
+"en": "n. anxious embarrassment"
+},
+{
+"word": "hypodermic",
+"pos": "a/n",
+"zh": "a. 皮下的, 真皮的 / n. 皮下注射, 皮下注射器",
+"en": "a. relating to or located below the epidermis"
+},
+{
+"word": "thresh",
+"pos": "vt/vi",
+"zh": "vt. 打谷, 摔打, 反复研究, 推敲 / vi. 打谷, 鞭打, 剧烈扭动",
+"en": "v move or stir about violently / v move like a flail; thresh about / v beat the seeds out of a grain / v give a thrashin…"
+},
+{
+"word": "limpid",
+"pos": "a",
+"zh": "a. 清澈的, 透明的, 平静的",
+"en": "s. (of language) transparently clear; easily understandable"
+},
+{
+"word": "specious",
+"pos": "a",
+"zh": "a. 徒有其表的, 似是而非的, 外表美观的",
+"en": "s. plausible but false"
+},
+{
+"word": "carapace",
+"pos": "n",
+"zh": "n. 甲壳, 壳 / [医] 甲, 甲壳, 介",
+"en": "n. hard outer covering or case of certain organisms such as arthropods and turtles"
+},
+{
+"word": "daguerreotype",
+"pos": "n/v",
+"zh": "n. 达盖尔银板照相法 / v. 用达盖尔银板法照相",
+"en": "n. a photograph made by an early photographic process; the image was produced on a silver plate sensitized to iodine and…"
+},
+{
+"word": "gangrene",
+"pos": "n/vi/vt",
+"zh": "n. 坏疽, 腐败堕落 / vi. 生坏疽, 腐败 / vt. 使生坏疽",
+"en": "n. necrotic tissue; a mortified or gangrenous part or mass"
+},
+{
+"word": "pith",
+"pos": "n/vt",
+"zh": "n. 木髓, 骨髓, 要旨, 重要性, 力量, 核心, 意义, 精华 / vt. 从(植物茎)中取髓, 刺毁(动物的)脑脊髓",
+"en": "n. soft spongelike central cylinder of the stems of most flowering plants / v. remove the pith from (a plant)"
+},
+{
+"word": "defame",
+"pos": "vt",
+"zh": "vt. 诽谤, 中伤, 破坏名誉 / [法] 诽谤, 中伤, 诋毁名誉",
+"en": "v. charge falsely or with malicious intent; attack the good name and reputation of someone"
+},
+{
+"word": "compunction",
+"pos": "n",
+"zh": "n. 良心的责备, 后悔, 悔恨",
+"en": "n. a feeling of deep regret (usually for some misdeed)"
+},
+{
+"word": "chaff",
+"pos": "n/v",
+"zh": "n. 谷壳, 糠, 揶揄 / v. 开玩笑, 戏弄",
+"en": "n. material consisting of seed coverings and small pieces of stem or leaves that have been separated from the seeds / n.…"
+},
+{
+"word": "delimit",
+"pos": "vt",
+"zh": "vt. 定界限, 划界 / [计] 定界",
+"en": "v determine the essential quality of / v be opposite to; of angles and sides, in geometry / v set, mark, or draw the bou…"
+},
+{
+"word": "cabinetmaker",
+"pos": "n",
+"zh": "n. 家具师, 细工木匠",
+"en": "n. a woodworker who specializes in making furniture"
+},
+{
+"word": "askance",
+"pos": "adv",
+"zh": "adv. 怀疑地, 斜眼看",
+"en": "s. (used especially of glances) directed to one side with or as if with doubt or suspicion or envy / r. with suspicion o…"
+},
+{
+"word": "droll",
+"pos": "a",
+"zh": "a. 好笑的, 滑稽的, 逗趣的",
+"en": "s. comical in an odd or whimsical manner"
+},
+{
+"word": "rollicking",
+"pos": "a",
+"zh": "a. 欢乐的；喧闹的",
+"en": "v play boisterously / s given to merry frolicking"
+},
+{
+"word": "forfeiture",
+"pos": "n",
+"zh": "n. 没收物, 罚金, 丧失 / [经] 没收, 没收物, 罚金",
+"en": "n something that is lost or surrendered as a penalty;  / n a penalty for a fault or mistake that involves losing or givi…"
+},
+{
+"word": "inborn",
+"pos": "a",
+"zh": "a. 天生的；先天的",
+"en": "s present at birth but not necessarily hereditary; acquired during fetal development / s normally existing at birth"
+},
+{
+"word": "logjam",
+"pos": "n",
+"zh": "n. 拥挤, 行不通, 为许多圆木材所阻",
+"en": "n. any stoppage attributable to unusual activity / n. an immovable mass of logs blocking a river"
+},
+{
+"word": "knave",
+"pos": "n",
+"zh": "n. 恶棍, 骗徒, (纸牌的)杰克 / [法] 流氓行为, 无赖, 恶棍",
+"en": "n a deceitful and unreliable scoundrel / n one of four face cards in a deck bearing a picture of a young prince"
+},
+{
+"word": "eviscerate",
+"pos": "vt/vi",
+"zh": "vt. 取出内脏, 除去精华, 切除(病人)器官 / vi. (因手术不良)内脏凸出",
+"en": "v. remove the contents of / v. take away a vital or essential part of / s. having been disembowelled"
+},
+{
+"word": "drawbridge",
+"pos": "n",
+"zh": "n. (可开闭的)吊桥",
+"en": "n. a bridge that can be raised to block passage or to allow boats or ships to pass beneath it"
+},
+{
+"word": "gridiron",
+"pos": "n",
+"zh": "n. 烤架, 格状物",
+"en": "n a cooking utensil of parallel metal bars; used to grill fish or meat / n the playing field on which football is played"
+},
+{
+"word": "lode",
+"pos": "n",
+"zh": "n. 矿脉, 水路, 排水沟",
+"en": "n. a deposit of valuable ore occurring within definite boundaries separating it from surrounding rocks"
+},
+{
+"word": "tambourine",
+"pos": "n",
+"zh": "n. 小手鼓",
+"en": "n. a shallow drum with a single drumhead and with metallic disks in the sides"
+},
+{
+"word": "acerbic",
+"pos": "a",
+"zh": "a. 酸的, 尖刻的",
+"en": "s sour or bitter in taste / s harsh or corrosive in tone"
+},
+{
+"word": "bauble",
+"pos": "n",
+"zh": "n. 美观而无价值的东西, 玩具, 小玩意",
+"en": "n. a mock scepter carried by a court jester"
+},
+{
+"word": "ringlet",
+"pos": "n",
+"zh": "n. 长鬈发, 小圈, 小环",
+"en": "n. a small ring / n. any of various butterflies belonging to the family Satyridae"
+},
+{
+"word": "gyrate",
+"pos": "a/vi",
+"zh": "a. 旋涡状的 / vi. 旋转, 不停地转动",
+"en": "v. to wind or move in a spiral course"
+},
+{
+"word": "optometrist",
+"pos": "n",
+"zh": "n. 验光师, 配镜师 / [医] 验光师",
+"en": "n. a person skilled in testing for defects of vision in order to prescribe corrective glasses"
+},
+{
+"word": "plaudit",
+"pos": "n",
+"zh": "n. 拍手喝彩, 称赞, 赞美",
+"en": "n enthusiastic approval"
+},
+{
+"word": "mope",
+"pos": "vi/vt/n",
+"zh": "vi. 忧郁, 闲荡 / vt. 使忧郁 / n. 忧郁的人",
+"en": "v. move around slowly and aimlessly / v. be apathetic, gloomy, or dazed"
+},
+{
+"word": "chipmunk",
+"pos": "n",
+"zh": "n. 金花鼠",
+"en": "n. a burrowing ground squirrel of western America and Asia; has cheek pouches and a light and dark stripe running down t…"
+},
+{
+"word": "imbibe",
+"pos": "vt/vi",
+"zh": "vt. 饮, 吸取, 吸入 / vi. 喝, 吸收水分",
+"en": "v. receive into the mind and retain"
+},
+{
+"word": "foist",
+"pos": "vt",
+"zh": "vt. 硬卖给, 偷偷插入, 使混入",
+"en": "v. to force onto another / v. insert surreptitiously or without warrant"
+},
+{
+"word": "extradite",
+"pos": "vt",
+"zh": "vt. 引渡, 获取(逃犯等)的引渡 / [法] 引渡, 使被引渡",
+"en": "v. hand over to the authorities of another country"
+},
+{
+"word": "pestilence",
+"pos": "n",
+"zh": "n. 瘟疫, 散布毒害的事物, 罪恶 / [医] 疫病, 疫病流行",
+"en": "n. a pernicious and malign influence that is hard to get rid of"
+},
+{
+"word": "sleight",
+"pos": "n",
+"zh": "n. 技巧, 诡计, 熟练",
+"en": "n adroitness in using the hands"
+},
+{
+"word": "facetious",
+"pos": "a",
+"zh": "a. 滑稽的, 爱开玩笑的",
+"en": "s cleverly amusing in tone"
+},
+{
+"word": "decamp",
+"pos": "vi",
+"zh": "vi. 撤营, 逃走, 逃亡 / [法] 撤退, 逃走, 逃亡",
+"en": "v. leave a camp / v. leave suddenly"
+},
+{
+"word": "sonorous",
+"pos": "n",
+"zh": "n. 宏亮的, 响亮的, 作响的 / [医] 响声的, 作响的",
+"en": "s full and loud and deep"
+},
+{
+"word": "obtuse",
+"pos": "a",
+"zh": "a. 钝的, 不锋利的, 愚钝的 / [医] 钝形的, 迟钝的(智力)",
+"en": "a. of an angle; between 90 and 180 degrees / s. (of a leaf shape) rounded at the apex / s. lacking in insight or discern…"
+},
+{
+"word": "jocular",
+"pos": "a",
+"zh": "a. 诙谐的",
+"en": "s characterized by jokes and good humor / r with humor"
+},
+{
+"word": "dogmatism",
+"pos": "n",
+"zh": "n. 武断, 教条主义",
+"en": "n the intolerance and prejudice of a bigot"
+},
+{
+"word": "snowdrift",
+"pos": "n",
+"zh": "n. (被风刮在一起的)雪堆, 随风飘飞的雪",
+"en": "n. a mass of snow heaped up by the wind"
+},
+{
+"word": "caulk",
+"pos": "vt",
+"zh": "vt. 填...以防漏",
+"en": "n. a waterproof filler and sealant that is used in building and repair to make watertight / v. seal with caulking"
+},
+{
+"word": "agape",
+"pos": "a/adv",
+"zh": "a. 张口发呆的, 目瞪口呆的 / adv. 张口发呆地, 目瞪口呆地",
+"en": "n. (Christian theology) the love of God or Christ for mankind / n. selfless love of one person for another without sexua…"
+},
+{
+"word": "rayon",
+"pos": "n",
+"zh": "n. 人造丝 / [化] 人造纤维; 人造丝",
+"en": "n. a synthetic silklike fabric"
+},
+{
+"word": "cavalcade",
+"pos": "n",
+"zh": "n. 行列, 骑马行列, 一系列",
+"en": "n. a procession of people traveling on horseback"
+},
+{
+"word": "warble",
+"pos": "n/v",
+"zh": "n. 用颤音唱的歌, 鸟啭, 颤声 / v. 鸟鸣, 用柔和的颤声唱",
+"en": "n. a lumpy abscess under the hide of domestic mammals caused by larvae of a botfly or warble fly / v. sing or play with …"
+},
+{
+"word": "pyre",
+"pos": "n",
+"zh": "n. (火葬用)柴堆",
+"en": "n. wood heaped for burning a dead body as a funeral rite"
+},
+{
+"word": "thermodynamics",
+"pos": "n",
+"zh": "n. 热力学 / [化] 热力学",
+"en": "n. the branch of physics concerned with the conversion of different forms of energy"
+},
+{
+"word": "liquefy",
+"pos": "v",
+"zh": "v. (使)溶解, (使)液化",
+"en": "v. become liquid / v. make (a solid substance) liquid, as by heating / v. become liquid or fluid when heated"
+},
+{
+"word": "ballpoint",
+"pos": "n",
+"zh": "n. 圆珠笔",
+"en": "n. a pen that has a small metal ball as the point of transfer of ink to paper"
+},
+{
+"word": "meritorious",
+"pos": "a",
+"zh": "a. 有功绩的, 有价值的, 可称赞的 / [法] 有功的, 值得称赞的, 善意的",
+"en": "s. deserving reward or praise"
+},
+{
+"word": "mockingbird",
+"pos": "n",
+"zh": "n. 嘲鸫",
+"en": "n. long-tailed grey-and-white songbird of the southern United States able to mimic songs of other birds"
+},
+{
+"word": "pronghorn",
+"pos": "n",
+"zh": "n. 叉角羚",
+"en": "n. fleet antelope-like ruminant of western North American plains with small branched horns"
+},
+{
+"word": "lactic",
+"pos": "a",
+"zh": "a. 乳的, 乳汁的, 由乳汁取得的 / [医] 乳的",
+"en": "a. of or relating to or obtained from milk (especially sour milk or whey)"
+},
+{
+"word": "ocular",
+"pos": "a/n",
+"zh": "a. 眼睛的, 用眼的, 凭视觉的, 目击的 / n. 目镜",
+"en": "a. of or relating to or resembling the eye / a. relating to or using sight / s. visible; give me the ocular proof\"- Shak…"
+},
+{
+"word": "paean",
+"pos": "n",
+"zh": "n. 凯歌, 欢乐歌, 赞美歌",
+"en": "n. (ancient Greece) a hymn of praise (especially one sung in ancient Greece to invoke or thank a deity)"
+},
+{
+"word": "tensile",
+"pos": "a",
+"zh": "a. 可拉长的, 可伸长的, 张力的, 拉力的 / [机] 拉的",
+"en": "a. of or relating to tension"
+},
+{
+"word": "cryogenic",
+"pos": "a",
+"zh": "a. 低温学的 / [医] 降温的, 产低温的",
+"en": "a. of or relating to very low temperatures"
+},
+{
+"word": "firebrand",
+"pos": "n",
+"zh": "n. 火把, 在燃烧的木柴, 煽动叛乱者",
+"en": "n a piece of wood that has been burned or is burning / n someone who deliberately foments trouble"
+},
+{
+"word": "solder",
+"pos": "n/v",
+"zh": "n. 焊接剂, 接合物 / v. 施以焊接, 焊合, 联结",
+"en": "n. an alloy (usually of lead and tin) used when melted to join two metal surfaces / v. join or fuse with solder"
+},
+{
+"word": "landlocked",
+"pos": "a",
+"zh": "a. 被陆地围住的",
+"en": "s. surrounded entirely or almost entirely by land"
+},
+{
+"word": "omnipotent",
+"pos": "a",
+"zh": "a. 全能的, 无所不能的, 彻头彻尾的, 臭名昭著的",
+"en": "s having unlimited power"
+},
+{
+"word": "filigree",
+"pos": "n",
+"zh": "n. 金银细丝工艺, 精致华丽而不很坚固的物品, 金丝的细工饰品 / [医] 银丝网",
+"en": "n. delicate and intricate ornamentation (usually in gold or silver or other fine twisted wire) / v. make filigree, as wi…"
+},
+{
+"word": "ennui",
+"pos": "n",
+"zh": "n. 倦怠, 厌倦 / [医] 厌倦",
+"en": "n the feeling of being bored by something tedious"
+},
+{
+"word": "irascible",
+"pos": "a",
+"zh": "a. 易怒的, 暴躁的",
+"en": "s quickly aroused to anger / s characterized by anger"
+},
+{
+"word": "efface",
+"pos": "vt",
+"zh": "vt. 抹去, 消除, 忘却",
+"en": "v. make inconspicuous"
+},
+{
+"word": "impertinence",
+"pos": "n",
+"zh": "n. 不切题, 鲁莽, 无礼, 不恰当 / [法] 不切题, 不对题, 不适合",
+"en": "n. inappropriate playfulness"
+},
+{
+"word": "empiricism",
+"pos": "n",
+"zh": "n. 经验主义, 庸医的医术, 经验论 / [医] 经验[主义]医学",
+"en": "n. (philosophy) the doctrine that knowledge derives from experience / n. the application of empirical methods in any art…"
+},
+{
+"word": "gramme",
+"pos": "n",
+"zh": "n. 克 / [医] 克",
+"en": "n a metric unit of weight equal to one thousandth of a kilogram"
+},
+{
+"word": "denture",
+"pos": "n",
+"zh": "n. 一副假牙, 一副牙齿, 齿列 / [医] 托牙, 牙列",
+"en": "n. a dental appliance that artificially replaces missing teeth"
+},
+{
+"word": "softwood",
+"pos": "n",
+"zh": "n. 软木材",
+"en": "n. wood that is easy to saw (from conifers such as pine or fir)"
+},
+{
+"word": "laminate",
+"pos": "vt/vi/a/n",
+"zh": "vt. 制成薄板, 制成箔 / vi. 分成薄片 / a. 薄板状的 / n. 层积塑胶板, 薄片制品 / [计] 层压",
+"en": "n. a sheet of material made by bonding two or more sheets or layers / v. create laminate by bonding sheets of material w…"
+},
+{
+"word": "abdominal",
+"pos": "a",
+"zh": "a. 腹部的, 有腹鳍的 / [医] 腹[部]的",
+"en": "n. the muscles of the abdomen / a. of or relating to or near the abdomen"
+},
+{
+"word": "administrate",
+"pos": "vt",
+"zh": "vt. 管理, 支配",
+"en": "v work in an administrative capacity; supervise or be in charge of"
+},
+{
+"word": "algorithm",
+"pos": "n",
+"zh": "n. 算法 / [计] 算法",
+"en": "n. a precise rule (or set of rules) specifying how to solve some problem"
+},
+{
+"word": "allocation",
+"pos": "n",
+"zh": "n. 配置, 分配, 拨给 / [经] 分配, 拨款, 分摊",
+"en": "n. (computer science) the assignment of particular areas of a magnetic disk to particular data or instructions"
+},
+{
+"word": "amino",
+"pos": "a",
+"zh": "a. 氨基的 / [医] 氨基",
+"en": "n. the radical -NH2 / a. pertaining to or containing any of a group of organic compounds of nitrogen derived from ammoni…"
+},
+{
+"word": "append",
+"pos": "vt",
+"zh": "vt. 附加, 增补, 盖章 / [计] DOS外部命令:为数据文件(非执行文件)设定一个或多个磁盘路径 / 当程序执行时, DOS将在所设定的磁盘路径中查找不在当前路径下的文件",
+"en": "v. add to the very end / v. fix to; attach"
+},
+{
+"word": "approximation",
+"pos": "n",
+"zh": "n. 接近, 近似值 / [医] 接近; 近似",
+"en": "n. the quality of coming near to identity (especially close in quantity) / n. an imprecise or incomplete account / n. th…"
+},
+{
+"word": "bacteria",
+"pos": "",
+"zh": "pl. 细菌 / [医] 细菌, [无芽胞]杆菌",
+"en": "n. (microbiology) single-celled or noncellular spherical or spiral or rod-shaped organisms lacking chlorophyll that repr…"
+},
+{
+"word": "bacterial",
+"pos": "a",
+"zh": "a. 细菌的 / [医] 细菌的, [无芽胞]杆菌的",
+"en": "a. relating to or caused by bacteria"
+},
+{
+"word": "behavioral",
+"pos": "a",
+"zh": "a. 行为的",
+"en": "a. of or relating to behavior"
+}
+]

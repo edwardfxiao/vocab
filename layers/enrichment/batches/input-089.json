@@ -1,0 +1,602 @@
+[
+{
+"word": "reinstate",
+"pos": "vt",
+"zh": "vt. 使复原, 使恢复, 使复立",
+"en": "v. restore to the previous state or rank"
+},
+{
+"word": "assent",
+"pos": "n/vi",
+"zh": "n. 赞成 / vi. 同意",
+"en": "n. agreement with a statement or proposal to do something / v. to agree or express agreement"
+},
+{
+"word": "receptive",
+"pos": "a",
+"zh": "a. 能接纳的 / [医] 接受的, 感受的",
+"en": "s. open to arguments, ideas, or change / a. ready or willing to receive favorably / s. able to absorb liquid (not repell…"
+},
+{
+"word": "seminary",
+"pos": "n",
+"zh": "n. 神学院, 发源地",
+"en": "n. a private place of education for the young / n. a theological school for training ministers or priests or rabbis"
+},
+{
+"word": "tack",
+"pos": "n/vt",
+"zh": "n. 平头钉, 大头钉, 粗缝针脚, 行动方针, 食物 / vt. 以大头针钉住, 附加",
+"en": "n. the heading or position of a vessel relative to the trim of its sails / n. a short nail with a sharp point and a larg…"
+},
+{
+"word": "bathtub",
+"pos": "n",
+"zh": "n. 浴缸",
+"en": "n. a relatively large open container that you fill with water and use to wash the body"
+},
+{
+"word": "leftover",
+"pos": "n/a",
+"zh": "n. 剩货, 残留物, 剩饭 / a. 残余的",
+"en": "n. a small part or portion that remains after the main part no longer exists / s. not used up"
+},
+{
+"word": "compulsion",
+"pos": "n",
+"zh": "n. 强迫, 强制 / [医] 强迫",
+"en": "n. an urge to do or say something that might be better left undone or unsaid / n. an irrational motive for performing tr…"
+},
+{
+"word": "splendour",
+"pos": "n",
+"zh": "n. 光辉, 壮丽, 显赫",
+"en": "n a quality that outshines the usual / n the quality of being magnificent or splendid or grand"
+},
+{
+"word": "drizzle",
+"pos": "n/v",
+"zh": "n. 细雨 / v. 下毛毛雨",
+"en": "n. very light rain; stronger than mist but less than a shower / v. rain lightly / v. moisten with fine drops"
+},
+{
+"word": "stately",
+"pos": "a",
+"zh": "a. 庄严的, 宏伟的",
+"en": "s. of size and dignity suggestive of a statue"
+},
+{
+"word": "walkway",
+"pos": "n",
+"zh": "n. 走道, 人行道",
+"en": "n a path set aside for walking"
+},
+{
+"word": "sombre",
+"pos": "a",
+"zh": "a. 昏暗的, 阴沉的, 阴暗的, 忧郁的, 暗淡的, 浅黑的",
+"en": "s lacking brightness or color; dull / s grave or even gloomy in character"
+},
+{
+"word": "rigour",
+"pos": "n",
+"zh": "n. 严格, 严厉, 苛刻, 严酷, 严密, 精确",
+"en": "n the quality of being valid and rigorous / n something hard to endure / n excessive sternness"
+},
+{
+"word": "finale",
+"pos": "n",
+"zh": "n. 结局, 最后乐章, 终曲",
+"en": "n. the closing section of a musical composition / n. the concluding part of any performance"
+},
+{
+"word": "stout",
+"pos": "a/n",
+"zh": "a. 结实的；矮胖的；勇敢的；激烈的 / n. 矮胖子；烈性啤酒",
+"en": "n. a strong very dark heavy-bodied ale made from pale malt and roasted unmalted barley and (often) caramel malt with hop…"
+},
+{
+"word": "indignation",
+"pos": "n",
+"zh": "n. 愤怒, 愤慨, 义愤",
+"en": "n. a feeling of righteous anger"
+},
+{
+"word": "locale",
+"pos": "n",
+"zh": "n. 现场, 场所 / [计] 场所",
+"en": "n the scene of any event or action (especially the place of a meeting)"
+},
+{
+"word": "combustion",
+"pos": "n",
+"zh": "n. 燃烧, 骚动 / [化] 燃烧",
+"en": "n. a process in which a substance reacts with oxygen to give heat and light / n. a state of violent disturbance and exci…"
+},
+{
+"word": "tradesman",
+"pos": "n",
+"zh": "n. 零售商, 工匠 / [经] 商人, 店主, 零售商",
+"en": "n a merchant who owns or manages a shop"
+},
+{
+"word": "tenet",
+"pos": "n",
+"zh": "n. 信条, 教义, 宗旨, 原则",
+"en": "n a religious doctrine that is proclaimed as true without proof"
+},
+{
+"word": "straddle",
+"pos": "n/v",
+"zh": "n. 跨坐, 观望 / v. 跨坐, 两腿叉开坐, 观望",
+"en": "n. a noncommittal or equivocal position / n. a gymnastic exercise performed with a leg on either side of the parallel ba…"
+},
+{
+"word": "foreman",
+"pos": "n",
+"zh": "n. 领班, 工头, 陪审长 / [经] 领班, 工头",
+"en": "n. a person who exercises control over workers / n. a man who is foreperson of a jury"
+},
+{
+"word": "luncheon",
+"pos": "n",
+"zh": "n. 午宴, 午餐会",
+"en": "n a midday meal"
+},
+{
+"word": "cornerstone",
+"pos": "n",
+"zh": "n. 奠基石, 基础",
+"en": "n. a stone in the exterior of a large and important building; usually carved with a date and laid with appropriate cerem…"
+},
+{
+"word": "ingenuity",
+"pos": "n",
+"zh": "n. 心灵手巧, 精巧, 精巧设计",
+"en": "n. the property of being ingenious"
+},
+{
+"word": "rustic",
+"pos": "n/a",
+"zh": "n. 乡下人, 乡巴佬 / a. 乡村的, 纯朴的, 手工粗糙的",
+"en": "n. an unsophisticated country person"
+},
+{
+"word": "seductive",
+"pos": "a",
+"zh": "a. 诱惑的, 引人注意的, 有魅力的",
+"en": "a. tending to entice into a desired action or state"
+},
+{
+"word": "unbearable",
+"pos": "a",
+"zh": "a. 无法忍受的, 承受不住的",
+"en": "a incapable of being put up with"
+},
+{
+"word": "rigor",
+"pos": "n",
+"zh": "n. 严格, 严厉, 苛刻, 严酷, 严密, 精确 / [医] 寒战, 强直, 僵硬",
+"en": "n something hard to endure / n the quality of being valid and rigorous / n excessive sternness"
+},
+{
+"word": "involuntary",
+"pos": "a",
+"zh": "a. 自然而然的, 无意识的, 不知不觉的, 偶然的, 不随意的 / [医] 不随意的",
+"en": "a. not subject to the control of the will / a. controlled by the autonomic nervous system; without conscious control"
+},
+{
+"word": "connotation",
+"pos": "n",
+"zh": "n. 含蓄, 内涵",
+"en": "n. an idea that is implied or suggested"
+},
+{
+"word": "sling",
+"pos": "n/vt",
+"zh": "n. 投石器, 抛掷, 吊索, 吊钩 / vt. 用投石器投掷, 用吊钩吊上, 吊起",
+"en": "n. a highball with liquor and water with sugar and lemon or lime juice / n. a simple weapon consisting of a looped strap…"
+},
+{
+"word": "warhead",
+"pos": "n",
+"zh": "n. 弹头",
+"en": "n. the front part of a guided missile or rocket or torpedo that carries the nuclear or explosive charge or the chemical …"
+},
+{
+"word": "wreath",
+"pos": "n",
+"zh": "n. 花圈, 花环, 圈状物 / [医] 花冠, 花冠体(细胞核分裂的一时期)",
+"en": "n. flower arrangement consisting of a circular band of foliage or flowers for ornamental purposes"
+},
+{
+"word": "beggar",
+"pos": "n/vt",
+"zh": "n. 乞丐 / vt. 使贫穷, 使成乞丐",
+"en": "n. a pauper who lives by begging / v. be beyond the resources of / v. reduce to beggary"
+},
+{
+"word": "millimetre",
+"pos": "n",
+"zh": "n. 毫米 / [机] 公厘",
+"en": "n a metric unit of length equal to one thousandth of a meter"
+},
+{
+"word": "hideous",
+"pos": "a",
+"zh": "a. 丑恶的, 可憎的, 令人沮丧的",
+"en": "s. grossly offensive to decency or morality; causing horror / s. so extremely ugly as to be terrifying"
+},
+{
+"word": "graveyard",
+"pos": "n",
+"zh": "n. 墓地",
+"en": "n a tract of land used for burials"
+},
+{
+"word": "almighty",
+"pos": "a",
+"zh": "a. 万能的, 全能的",
+"en": "s. having unlimited power"
+},
+{
+"word": "scribble",
+"pos": "n/v",
+"zh": "n. 潦草的写法, 潦草写成的东西, 拙劣的作品 / v. 潦草地书写, 乱写, 滥写",
+"en": "n. poor handwriting / n. an aimless drawing / v. write down quickly without much attention to detail / v. write careless…"
+},
+{
+"word": "renounce",
+"pos": "vt/vi/n",
+"zh": "vt. 拒绝, 放弃, 否认, 垫牌 / vi. 垫牌, 声明放弃权利 / n. 垫牌",
+"en": "v give up, such as power, as of monarchs and emperors, or duties and obligations / v leave (a job, post, or position) vo…"
+},
+{
+"word": "stamina",
+"pos": "n",
+"zh": "n. 精力, 活力, 耐力, 雄蕊 / [医] 耐力, 精力; 雄蕊",
+"en": "n. enduring strength and energy"
+},
+{
+"word": "flop",
+"pos": "n/vi/vt/adv",
+"zh": "n. 砰然落下, 拍击声, 失败 / vi. 笨重地摔, 猛落 / vt. 笨拙地抛下 / adv. 噗通",
+"en": "n. someone who is unsuccessful / n. a complete failure / n. the act of throwing yourself down / v. fall loosely"
+},
+{
+"word": "revel",
+"pos": "n/vi/vt",
+"zh": "n. 作乐, 狂欢 / vi. 狂欢作乐, 陶醉, 着迷 / vt. 耗费",
+"en": "n. unrestrained merrymaking / v. celebrate noisily, often indulging in drinking; engage in uproarious festivities"
+},
+{
+"word": "dysfunctional",
+"pos": "a",
+"zh": "a. 功能失调的",
+"en": "s. impaired in function; especially of a bodily system or organ / s. (of a trait or condition) failing to serve an adjus…"
+},
+{
+"word": "subtlety",
+"pos": "n",
+"zh": "n. 微妙, 精明",
+"en": "n. the quality of being difficult to detect or analyze"
+},
+{
+"word": "clothe",
+"pos": "vt",
+"zh": "vt. 给...穿衣, 盖上, 赋予",
+"en": "v. cover as if with clothing"
+},
+{
+"word": "lagoon",
+"pos": "n",
+"zh": "n. 环礁湖, 近海岸的浅水区, 泻湖, 咸水湖",
+"en": "n. a body of water cut off from a larger body by a reef of sand or coral"
+},
+{
+"word": "ambivalence",
+"pos": "n",
+"zh": "n. 矛盾情绪 / [医] 矛盾情绪(两种情感互相冲突)",
+"en": "n. mixed feelings or emotions"
+},
+{
+"word": "blizzard",
+"pos": "n",
+"zh": "n. 大风雪, 暴风雪",
+"en": "n. a storm with widespread snowfall accompanied by strong winds"
+},
+{
+"word": "decor",
+"pos": "n",
+"zh": "n. 装饰, 布置",
+"en": "n decoration consisting of the layout and furnishings of a livable interior"
+},
+{
+"word": "divisive",
+"pos": "a",
+"zh": "a. 区分的, 制造分裂的, 造成不和的",
+"en": "s dissenting (especially dissenting with the majority opinion)"
+},
+{
+"word": "buyout",
+"pos": "n",
+"zh": "n. 全部买下; 买下（公司或产业）",
+"en": "n. acquisition of a company by purchasing a controlling percentage of its stock"
+},
+{
+"word": "melon",
+"pos": "n",
+"zh": "n. 瓜, 甜瓜, 红利, 赃物 / [化] 三聚二氰亚胺",
+"en": "n. any of numerous fruits of the gourd family having a hard rind and sweet juicy flesh / n. any of various fruit of cucu…"
+},
+{
+"word": "supremacy",
+"pos": "n",
+"zh": "n. 至高无上, 霸权地位, 优势, 至上 / [法] 至高权力, 无上权力, 霸权",
+"en": "n power to dominate or defeat"
+},
+{
+"word": "wrath",
+"pos": "n",
+"zh": "n. 愤怒, 激怒, 愤怒的举动, (自然现象等)严酷",
+"en": "n. intense anger (usually on an epic scale) / n. belligerence aroused by a real or supposed wrong (personified as one of…"
+},
+{
+"word": "soundtrack",
+"pos": "n",
+"zh": "n. 声迹, 声槽, 声带",
+"en": "n. sound recording on a narrow strip of a motion picture film"
+},
+{
+"word": "condominium",
+"pos": "n",
+"zh": "n. 共同统治 / [经] 财产共有权",
+"en": "n. one of the dwelling units in a condominium / n. housing consisting of a complex of dwelling units (as an apartment ho…"
+},
+{
+"word": "dummy",
+"pos": "n/a",
+"zh": "n. 傀儡, 假人, 仿制品 / a. 虚设的, 假的, 名义上的",
+"en": "n. a person who does not talk / n. a figure representing the human form / v. make a dummy of / s. having the appearance …"
+},
+{
+"word": "bonfire",
+"pos": "n",
+"zh": "n. 大篝火, 营火",
+"en": "n. a large outdoor fire that is lighted as a signal or in celebration"
+},
+{
+"word": "flinch",
+"pos": "vi/n",
+"zh": "vi. 畏缩, 退缩, 畏首畏尾 / n. 退缩, 弗林奇戏",
+"en": "v. draw back, as with fear or pain"
+},
+{
+"word": "bereavement",
+"pos": "n",
+"zh": "n. 丧亲, 丧友",
+"en": "n state of sorrow over the death or departure of a loved one"
+},
+{
+"word": "pulpit",
+"pos": "n",
+"zh": "n. 讲道坛",
+"en": "n a platform raised above the surrounding level to give prominence to the person on it"
+},
+{
+"word": "downplay",
+"pos": "vt",
+"zh": "vt. 不予重视",
+"en": "v represent as less significant or important / v understate the importance or quality of"
+},
+{
+"word": "waterfront",
+"pos": "n",
+"zh": "n. 水边, 滨水区, 滩, 海滨, 江边",
+"en": "n. the area of a city (such as a harbor or dockyard) alongside a body of water"
+},
+{
+"word": "levee",
+"pos": "n/vt",
+"zh": "n. 早朝, 大堤 / vt. 为...筑堤",
+"en": "n. a formal reception of visitors or guests (as at a royal court) / n. a pier that provides a landing place on a river /…"
+},
+{
+"word": "resultant",
+"pos": "a/n",
+"zh": "a. 结果的, 合成的 / n. 结果, 合力, 生成物",
+"en": "n. the final point in a process"
+},
+{
+"word": "logistics",
+"pos": "n",
+"zh": "n. 后勤学, 后勤 / [医] 后勤学",
+"en": "n. handling an operation that involves providing labor and materials be supplied as needed"
+},
+{
+"word": "tart",
+"pos": "a/vt/n",
+"zh": "a. 酸的, 辛辣的, 尖酸的 / vt. 妖艳打扮 / n. 果馅饼, 妓女",
+"en": "n. a small open pie with a fruit filling / n. a pastry cup with a filling of fruit or custard and no top crust"
+},
+{
+"word": "ethos",
+"pos": "n",
+"zh": "n. 气质；民族精神；社会思潮",
+"en": "n. (anthropology) the distinctive spirit of a culture or an era"
+},
+{
+"word": "clergyman",
+"pos": "n",
+"zh": "n. 牧师",
+"en": "n. a member of the clergy and a spiritual leader of the Christian Church"
+},
+{
+"word": "disseminate",
+"pos": "vt/vi",
+"zh": "vt. 散播, 传播, 宣传 / vi. 广为传播",
+"en": "v cause to become widely known"
+},
+{
+"word": "earmark",
+"pos": "n/vt",
+"zh": "n. 耳上记号, 特征, 记号, 标记 / vt. 在耳朵上做记号, 标记, 指定...作特定用途",
+"en": "n. identification mark on the ear of a domestic animal"
+},
+{
+"word": "anaesthetic",
+"pos": "n/a",
+"zh": "n. 麻醉剂, 麻药 / a. 麻木的, 麻醉的",
+"en": "a. relating to or producing insensibility"
+},
+{
+"word": "hostess",
+"pos": "n",
+"zh": "n. 女主人, 女房东, 女老板",
+"en": "n. a woman host / n. a woman innkeeper"
+},
+{
+"word": "ordnance",
+"pos": "n",
+"zh": "n. 大炮, 军械, 武器",
+"en": "n military supplies / n large but transportable armament"
+},
+{
+"word": "childbirth",
+"pos": "n",
+"zh": "n. 分娩 / [医] 分娩, 生产",
+"en": "n. the parturition process in human beings; having a baby; the process of giving birth to a child"
+},
+{
+"word": "photon",
+"pos": "n",
+"zh": "n. 光子, 光量子, 光度 / [化] 光量子; 光子",
+"en": "n. a quantum of electromagnetic radiation; an elementary particle that is its own antiparticle"
+},
+{
+"word": "acquit",
+"pos": "vt",
+"zh": "vt. 无罪释放, 表现, 使履行 / [法] 开释, 释放, 免",
+"en": "v. pronounce not guilty of criminal charges"
+},
+{
+"word": "ballistic",
+"pos": "a",
+"zh": "a. 弹道的 / [医] 射击的, 冲击的",
+"en": "a. relating to or characteristic of the motion of objects moving under their own momentum and the force of gravity"
+},
+{
+"word": "runaway",
+"pos": "n/a",
+"zh": "n. 逃跑, 逃走的人, 逃亡, 压倒性的优胜 / a. 逃亡的, 逃走的",
+"en": "n. an easy victory / s. completely out of control"
+},
+{
+"word": "envoy",
+"pos": "n",
+"zh": "n. 外交使节, 特使 / [法] 使者, 代表, 使节",
+"en": "n. a diplomat having less authority than an ambassador / n. a brief stanza concluding certain forms of poetry"
+},
+{
+"word": "coexist",
+"pos": "vi",
+"zh": "vi. 共存",
+"en": "v. coexist peacefully, as of nations / v. exist together"
+},
+{
+"word": "savour",
+"pos": "n/vi/vt",
+"zh": "n. 滋味, 气味, 食欲 / vi. 有...的滋味 / vt. 品味, 加调味品于, 使有风味, 尝到",
+"en": "n the taste experience when a savoury condiment is taken into the mouth / v have flavor; taste of something / v give tas…"
+},
+{
+"word": "treacherous",
+"pos": "a",
+"zh": "a. 不可信任的, 危险的, 背叛的, 不可靠的 / [法] 奸诈的, 背叛的, 背信弃义的",
+"en": "s. dangerously unstable and unpredictable"
+},
+{
+"word": "espouse",
+"pos": "vt",
+"zh": "vt. 支持, 赞成, 嫁, 娶 / [法] 娶, 出嫁, 信奉",
+"en": "v. take up the cause, ideology, practice, method, of someone and use it as one's own"
+},
+{
+"word": "adherence",
+"pos": "n",
+"zh": "n. 依附, 固执, 坚持 / [化] 粘合",
+"en": "n faithful support for a cause or political party or religion / n the property of sticking together (as of glue and wood…"
+},
+{
+"word": "telegram",
+"pos": "n",
+"zh": "n. 电报, 一封电报 / [计] 电报",
+"en": "n. a message transmitted by telegraph"
+},
+{
+"word": "showdown",
+"pos": "n",
+"zh": "n. 摊牌, 暴露, 紧要关头",
+"en": "n a hostile disagreement face-to-face"
+},
+{
+"word": "benevolent",
+"pos": "a",
+"zh": "a. 善意的, 慈善的",
+"en": "a. intending or showing kindness / s. generous in providing aid to others"
+},
+{
+"word": "sunscreen",
+"pos": "n",
+"zh": "n. (防晒油中的)遮光剂",
+"en": "n. a cream spread on the skin; contains a chemical (as PABA) to filter out ultraviolet light and so protect from sunburn"
+},
+{
+"word": "rodent",
+"pos": "a/n",
+"zh": "a. 咬的, 啮齿类的 / n. 啮齿动物",
+"en": "n. relatively small placental mammals having a single pair of constantly growing incisor teeth specialized for gnawing"
+},
+{
+"word": "journalistic",
+"pos": "a",
+"zh": "a. 新闻业的, 新闻工作者的, 报刊特有的, 新闻工作的",
+"en": "a. of or relating to or having the characteristics of journalism"
+},
+{
+"word": "iceberg",
+"pos": "n",
+"zh": "n. 冰山, 冷冰冰的人",
+"en": "n. a large mass of ice floating at sea; usually broken off of a polar glacier"
+},
+{
+"word": "posh",
+"pos": "a/interj",
+"zh": "a. 豪华的, 漂亮的, 优雅的, 极好的 / interj. 呸",
+"en": "s elegant and fashionable"
+},
+{
+"word": "lighthouse",
+"pos": "n",
+"zh": "n. 灯塔",
+"en": "n a tower with a light that gives warning of shoals to passing ships"
+},
+{
+"word": "mafia",
+"pos": "n",
+"zh": "n. 黑手党, 秘密政党",
+"en": "n. a crime syndicate in the United States; organized in families; believed to have important relations to the Sicilian M…"
+},
+{
+"word": "therein",
+"pos": "adv",
+"zh": "adv. 在其中, 在那里, 在那一点上",
+"en": "r. (formal) in or into that thing or place"
+},
+{
+"word": "provocation",
+"pos": "n",
+"zh": "n. 激怒, 刺激, 挑拨 / [医] 激发[作用]",
+"en": "n. needed encouragement"
+}
+]

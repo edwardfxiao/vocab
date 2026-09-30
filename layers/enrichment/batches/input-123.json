@@ -1,0 +1,602 @@
+[
+{
+"word": "hairstyle",
+"pos": "n",
+"zh": "n. 发型",
+"en": "n the arrangement of the hair (especially a woman's hair)"
+},
+{
+"word": "huff",
+"pos": "vt/vi/n",
+"zh": "vt. 激怒, 发怒, 提高价格, 吹胀 / vi. 吹气, 恫吓, 发怒 / n. 发怒",
+"en": "n. a state of irritation or annoyance / v. inhale recreational drugs"
+},
+{
+"word": "businesslike",
+"pos": "a",
+"zh": "a. 有条理的, 有效率的",
+"en": "s. exhibiting methodical and systematic characteristics that would be useful in business / s. not distracted by anything…"
+},
+{
+"word": "greenery",
+"pos": "n",
+"zh": "n. 绿叶, 绿树, 装饰用的绿树枝或叶",
+"en": "n. green foliage"
+},
+{
+"word": "grub",
+"pos": "n/v",
+"zh": "n. 幼虫, 乏味之人 / v. 寻找, 翻掘",
+"en": "n. a soft thick wormlike larva of certain beetles and other insects / v. search about busily"
+},
+{
+"word": "throb",
+"pos": "n/vi",
+"zh": "n. 跳动, 搏动 / vi. 博动, 抽动, 颤动",
+"en": "n. a deep pulsating type of pain / n. an instance of rapid strong pulsation (of the heart) / v. pulsate or pound with ab…"
+},
+{
+"word": "extravaganza",
+"pos": "n",
+"zh": "n. 狂文, 铺张华丽的表演, 狂行, 狂言, 狂剧, 狂曲, 狂诗",
+"en": "n. any lavishly staged or spectacular entertainment"
+},
+{
+"word": "cataract",
+"pos": "n",
+"zh": "n. 大瀑布, 奔流, 暴雨, 白内障 / [医] 内障, 白内障",
+"en": "n. an eye disease that involves the clouding or opacification of the natural lens of the eye / n. a large waterfall; vio…"
+},
+{
+"word": "upturn",
+"pos": "n/v",
+"zh": "n. 情况好转, 向上趋势 / v. (使)向上, 转朝上, 翻转",
+"en": "n. an upward movement or trend as in business activity"
+},
+{
+"word": "autocratic",
+"pos": "a",
+"zh": "a. 独裁的, 专制的",
+"en": "s. offensively self-assured or given to exercising usually unwarranted power"
+},
+{
+"word": "opportunistic",
+"pos": "a",
+"zh": "a. 机会主义的, 投机取巧的",
+"en": "s taking immediate advantage, often unethically, of any circumstance of possible benefit"
+},
+{
+"word": "hawthorn",
+"pos": "n",
+"zh": "n. 山楂",
+"en": "n. a spring-flowering shrub or small tree of the genus Crataegus"
+},
+{
+"word": "roundup",
+"pos": "n",
+"zh": "n. 驱集, 集拢, 综述",
+"en": "n. the activity of gathering livestock together so that they can be counted or branded or sold / n. a summary list; as i…"
+},
+{
+"word": "geriatric",
+"pos": "a",
+"zh": "a. 老年病学的, 衰老的, 老年的 / [医] 老年医学的, 老年病学的, 老人学的",
+"en": "a. of or relating to the aged / a. of or relating to or practicing geriatrics"
+},
+{
+"word": "blip",
+"pos": "n",
+"zh": "n. 光点, 清脆的短音 / [电] 小粒",
+"en": "n. a sudden minor shock or meaningless interruption / n. a radar echo displayed so as to show the position of a reflecti…"
+},
+{
+"word": "beret",
+"pos": "n",
+"zh": "n. 贝雷帽",
+"en": "n. a cap with no brim or bill; made of soft cloth"
+},
+{
+"word": "bayonet",
+"pos": "n",
+"zh": "n. 刺刀",
+"en": "n. a knife that can be fixed to the end of a rifle and used as a weapon / v. stab or kill someone with a bayonet"
+},
+{
+"word": "poplar",
+"pos": "n",
+"zh": "n. 杨树, 杨木 / [医] 杨属植物(通常指白杨)",
+"en": "n. soft light-colored non-durable wood of the poplar / n. any of numerous trees of north temperate regions having light …"
+},
+{
+"word": "pelvic",
+"pos": "a",
+"zh": "a. 骨盆的 / [医] 骨盆的",
+"en": "a. of or relating to the pelvis"
+},
+{
+"word": "parkland",
+"pos": "n",
+"zh": "n. 公用场地；有树丛的开阔草地",
+"en": "n a large area of land preserved in its natural state as public property"
+},
+{
+"word": "ovary",
+"pos": "n",
+"zh": "n. 卵巢, 子房, 果核 / [医] 卵巢, 子房",
+"en": "n. the organ that bears the ovules of a flower / n. (vertebrates) one of usually two organs that produce ova and secrete…"
+},
+{
+"word": "horrid",
+"pos": "a",
+"zh": "a. 可怕的, 极讨厌的, 毛骨悚然的",
+"en": "s. exceedingly bad"
+},
+{
+"word": "traumatize",
+"pos": "vt",
+"zh": "vt. 使受损伤, 使受精神创伤",
+"en": "v. inflict a trauma upon"
+},
+{
+"word": "gauntlet",
+"pos": "n",
+"zh": "n. 铁手套, 长手套, 夹击 / [医] 手套形绷带",
+"en": "n. to offer or accept a challenge / n. a glove of armored leather; protects the hand / n. a glove with long sleeve / n. …"
+},
+{
+"word": "hemp",
+"pos": "n",
+"zh": "n. 大麻烟卷, 大麻, 麻类植物 / [医] 大麻",
+"en": "n. a plant fiber"
+},
+{
+"word": "enviable",
+"pos": "a",
+"zh": "a. 令人羡慕的, 可羡慕的",
+"en": "s. causing envy"
+},
+{
+"word": "offshoot",
+"pos": "n",
+"zh": "n. 分支, 旁系, 衍生事物",
+"en": "n a natural consequence of development"
+},
+{
+"word": "slalom",
+"pos": "n",
+"zh": "n. 障碍滑雪",
+"en": "n. a downhill race over a winding course defined by upright poles / v. race on skis around obstacles"
+},
+{
+"word": "wrest",
+"pos": "n/vt",
+"zh": "n. 扭, 拧 / vt. 夺取, 猛扭, 歪曲, 费力取得",
+"en": "v. obtain by seizing forcibly or violently, also metaphorically"
+},
+{
+"word": "chug",
+"pos": "n/vi",
+"zh": "n. 嘎嚓声 / vi. 发出嘎嚓声, 嘎嚓响着前进",
+"en": "n. the dull explosive noise made by an engine / v. make a dull, explosive sound"
+},
+{
+"word": "truffle",
+"pos": "n",
+"zh": "n. 块菌",
+"en": "n. any of various highly prized edible subterranean fungi of the genus Tuber; grow naturally in southwestern Europe / n.…"
+},
+{
+"word": "holidaymaker",
+"pos": "n",
+"zh": "n. 度假者",
+"en": "n someone who travels for pleasure"
+},
+{
+"word": "frill",
+"pos": "n/vi/vt",
+"zh": "n. (衣饰上的)皱边, 皱边纸饰 / vi. 起边皱 / vt. 折成皱边",
+"en": "n. (paleontology) a bony plate that curves upward behind the skull of many ceratopsian dinosaurs / n. an external body p…"
+},
+{
+"word": "rosette",
+"pos": "n",
+"zh": "n. 蔷薇结, 蔷薇花饰, 装饰圆窗 / [医] 玫瑰花形, 丝球, 染色质纽",
+"en": "n. an ornament or pattern resembling a rose that is worn as a badge of office or as recognition of having won an honor /…"
+},
+{
+"word": "lingerie",
+"pos": "n",
+"zh": "n. 女式内衣",
+"en": "n. women's underwear and nightclothes"
+},
+{
+"word": "furore",
+"pos": "n",
+"zh": "n. 轰动, 勃然大怒, 公众的骚动, 狂热",
+"en": "n an interest followed with exaggerated zeal / n a sudden outburst (as of protest)"
+},
+{
+"word": "bemoan",
+"pos": "vt",
+"zh": "vt. 哀悼, 惋惜, 认为遗憾, 哀叹",
+"en": "v regret strongly"
+},
+{
+"word": "peppermint",
+"pos": "n",
+"zh": "n. 薄荷, 薄荷油, 胡椒薄荷, 薄荷糖 / [化] 薄荷",
+"en": "n. herb with downy leaves and small purple or white flowers that yields a pungent oil used as a flavoring / n. a candy f…"
+},
+{
+"word": "bogey",
+"pos": "n",
+"zh": "n. 妖怪, 可怕的人(物) / [电] 标准",
+"en": "n. an evil spirit / n. (golf) a score of one stroke over par on a hole / v. to shoot in one stroke over par"
+},
+{
+"word": "homophobia",
+"pos": "n",
+"zh": "n. 对同性恋的憎恶（或恐惧）",
+"en": "n. prejudice against (fear or dislike of) homosexual people and homosexuality"
+},
+{
+"word": "claret",
+"pos": "n/a",
+"zh": "n. 红葡萄酒, 深紫红色 / a. 深紫红色的",
+"en": "n. a dark purplish-red color / n. dry red Bordeaux or Bordeaux-like wine / v. drink claret"
+},
+{
+"word": "hoot",
+"pos": "n/vi/vt",
+"zh": "n. 叫嚣, 嘲骂声, 鸣响 / vi. 大声叫嚣, 鸣响, 猫头鹰叫 / vt. 呵斥, 轰赶",
+"en": "n. a loud raucous cry (as of an owl) / v. to utter a loud clamorous shout / v. utter the characteristic sound of owls"
+},
+{
+"word": "splutter",
+"pos": "n/vi",
+"zh": "n. 喷溅声 / vi.vt. 急促而慌乱地说 / vi. 发出吐唾沫声",
+"en": "v. spit up in an explosive manner"
+},
+{
+"word": "tome",
+"pos": "n",
+"zh": "n. 册, 卷, 大本书",
+"en": "n. a (usually) large and scholarly book"
+},
+{
+"word": "louse",
+"pos": "n",
+"zh": "n. 虱子, 寄生虫 / [医] 虱",
+"en": "n. wingless usually flattened bloodsucking insect parasitic on warm-blooded animals"
+},
+{
+"word": "foetus",
+"pos": "n",
+"zh": "n. 胚胎, 胎儿 / [医] 胎, 胎儿",
+"en": "n an unborn or unhatched vertebrate in the later stages of development showing the main recognizable features of the mat…"
+},
+{
+"word": "crucify",
+"pos": "vt",
+"zh": "vt. 十字架上钉死",
+"en": "v. kill by nailing onto a cross"
+},
+{
+"word": "hundredth",
+"pos": "a",
+"zh": "a. 第一百的",
+"en": "n. position 100 in a countable series of things / s. the ordinal number of one hundred in counting order"
+},
+{
+"word": "poodle",
+"pos": "n/vt",
+"zh": "n. 鬈毛狗, 追随者 / vt. 把(狗)的毛修剪成拳曲状",
+"en": "n. an intelligent dog with a heavy curly solid-colored coat that is usually clipped; an old breed sometimes trained as s…"
+},
+{
+"word": "cyst",
+"pos": "n",
+"zh": "n. 包囊, 囊肿 / [医] 囊肿; [包]囊",
+"en": "n. a closed sac that develops abnormally in some body structure"
+},
+{
+"word": "wart",
+"pos": "n",
+"zh": "n. 疣, 瘤 / [医] 疣, 肉赘",
+"en": "n. any small rounded protuberance (as on certain plants or animals) / n. an imperfection in someone or something that is…"
+},
+{
+"word": "uptown",
+"pos": "n/a",
+"zh": "n. 非中心区, 住宅区 / a. 住宅区的",
+"en": "n. a residential part of town away from the central commercial district / a. of or located in the upper part of a town /…"
+},
+{
+"word": "unfurl",
+"pos": "vt/vi",
+"zh": "vt. 展开, 展示, 公开, 使临风招展 / vi. 打开, 展开, 显露",
+"en": "v. unroll, unfold, or spread out or be unrolled, unfolded, or spread out from a furled state"
+},
+{
+"word": "warplane",
+"pos": "n",
+"zh": "n. 军用飞机",
+"en": "n. an aircraft designed and used for combat"
+},
+{
+"word": "hypnosis",
+"pos": "n",
+"zh": "n. 催眠状态, 催眠术 / [医] 催眠, 催眠状态",
+"en": "n. a state that resembles sleep but that is induced by suggestion"
+},
+{
+"word": "measles",
+"pos": "n",
+"zh": "n. 麻疹, 风疹, 家畜囊尾蚴病, 米珠 / [医] 麻疹, 囊尾蚴病(家畜)",
+"en": "n. an acute and highly contagious viral disease marked by distinct red spots followed by a rash; occurs primarily in chi…"
+},
+{
+"word": "mousse",
+"pos": "n",
+"zh": "n. 奶油冻 / [化] 摩丝(日化)",
+"en": "n. a rich, frothy, creamy dessert made with whipped egg whites and heavy cream / n. a light creamy dish made from fish o…"
+},
+{
+"word": "mastermind",
+"pos": "n/vt",
+"zh": "n. 优秀策划者, 才子 / vt. 指导, 主持, 策划",
+"en": "v. plan and direct (a complex undertaking)"
+},
+{
+"word": "stoppage",
+"pos": "n",
+"zh": "n. 停止, 中止, 阻塞, 阻碍, 堵塞, 故障, 停付, 扣除, 扣留, 停工, 罢工 / [化] 停机",
+"en": "n the state of inactivity following an interruption / n an obstruction in a pipe or tube / n the act of stopping somethi…"
+},
+{
+"word": "swish",
+"pos": "n/vi/vt/a",
+"zh": "n. 嗖嗖声 / vi. 发嗖嗖声, 嗖地挥动 / vt. 嗖地挥动 / a. 漂亮的, 时髦的",
+"en": "n. a brushing or rustling sound"
+},
+{
+"word": "proportionate",
+"pos": "a/vt",
+"zh": "a. 相称的, 成比例的, 适当的 / vt. 使相称, 使成比例",
+"en": "a. being in due proportion / s. agreeing in amount, magnitude, or degree"
+},
+{
+"word": "vigilante",
+"pos": "n",
+"zh": "n. 警戒会会员",
+"en": "n. member of a vigilance committee"
+},
+{
+"word": "hardback",
+"pos": "a/n",
+"zh": "a. 硬封面的 / n. 精装本",
+"en": "n. a book with cardboard or cloth or leather covers"
+},
+{
+"word": "overgrown",
+"pos": "a",
+"zh": "a. 发育过度的, 生长过大的, 不合身的, 植被蔓生的 / overgrow的过去分词",
+"en": "s. covered with growing plants / s. abounding in usually unwanted vegetation"
+},
+{
+"word": "euthanasia",
+"pos": "n",
+"zh": "n. 安乐死 / [医] 安死术",
+"en": "n. the act of killing someone painlessly (especially someone suffering from an incurable illness)"
+},
+{
+"word": "jumbo",
+"pos": "n/a",
+"zh": "n. 庞然大物 / a. 巨大的",
+"en": "s of great mass; huge and bulky"
+},
+{
+"word": "reborn",
+"pos": "a",
+"zh": "a. 再生的, 更新的",
+"en": "s spiritually reborn or converted"
+},
+{
+"word": "launder",
+"pos": "n/v",
+"zh": "n. 流水槽 / v. 洗衣, 烫衣",
+"en": "v. convert illegally obtained funds into legal ones"
+},
+{
+"word": "purr",
+"pos": "v/n",
+"zh": "v. 呼噜呼噜叫, 发出喉音 / n. 呼噜呼噜声",
+"en": "n. a low vibrating sound typical of a contented cat / v. indicate pleasure by purring; characteristic of cats"
+},
+{
+"word": "sulk",
+"pos": "n/vi",
+"zh": "n. 闹情绪, 闷闷不乐 / vi. 不高兴, 闷闷不乐, 不悦, 生气, 愠怒",
+"en": "n. a mood or display of sullen aloofness or withdrawal / v. be in a huff and display one's displeasure"
+},
+{
+"word": "siphon",
+"pos": "n/vt/vi",
+"zh": "n. 虹吸管 / vt. 用虹吸管吸出, 抽取 / vi. 通过虹吸管",
+"en": "n. a tube running from the liquid in a vessel to a lower level outside the vessel so that atmospheric pressure forces th…"
+},
+{
+"word": "mackerel",
+"pos": "n",
+"zh": "n. 鲭",
+"en": "n. flesh of very important usually small (to 18 in) fatty Atlantic fish / n. any of various fishes of the family Scombri…"
+},
+{
+"word": "conspirator",
+"pos": "n",
+"zh": "n. 同谋者, 阴谋者, 反叛者 / [法] 共谋者, 阴谋家",
+"en": "n. a member of a conspiracy"
+},
+{
+"word": "consulate",
+"pos": "n",
+"zh": "n. 领事, 领事任期, 领事馆 / [经] 领事馆",
+"en": "n. diplomatic building that serves as the residence or workplace of a consul"
+},
+{
+"word": "bulkhead",
+"pos": "n",
+"zh": "n. 隔壁, 防水壁",
+"en": "n. a partition that divides a ship or plane into compartments"
+},
+{
+"word": "sickle",
+"pos": "n",
+"zh": "n. 镰刀",
+"en": "n. an edge tool for cutting grass or crops; has a curved blade and a short handle"
+},
+{
+"word": "meteorological",
+"pos": "a",
+"zh": "a. 气象的, 气象学的",
+"en": "a of or pertaining to atmospheric phenomena, especially weather and weather conditions"
+},
+{
+"word": "testimonial",
+"pos": "n/a",
+"zh": "n. 证明书, 介绍信, 奖品, 奖金, 奖状, 感谢信, 表扬信 / a. (有关)证明书的, 鉴定书的, 表扬的, 褒奖的",
+"en": "a. expressing admiration or appreciation / a. of or relating to or constituting testimony"
+},
+{
+"word": "epilepsy",
+"pos": "n",
+"zh": "n. 癫痫症 / [医] 癫痫(羊痫疯)",
+"en": "n. a disorder of the central nervous system characterized by loss of consciousness and convulsions"
+},
+{
+"word": "unsold",
+"pos": "a",
+"zh": "a. 未售出的 / [经] 未售出的",
+"en": "a. not disposed of by purchase"
+},
+{
+"word": "chalet",
+"pos": "n",
+"zh": "n. 瑞士山中的牧人小屋",
+"en": "n. a Swiss house with a sloping roof and wide eaves or a house built in this style"
+},
+{
+"word": "riff",
+"pos": "n",
+"zh": "n. 连复段",
+"en": "n. a Berber living in northern Morocco / n. a jazz ostinato; usually provides a background for a solo improvisation / v.…"
+},
+{
+"word": "carnation",
+"pos": "n",
+"zh": "n. 康乃馨, 粉红色 / [医] 肉色, 天然肉色",
+"en": "n. Eurasian plant with pink to purple-red spice-scented usually double flowers; widely cultivated in many varieties and …"
+},
+{
+"word": "waltz",
+"pos": "n/a/vi/vt",
+"zh": "n. 华尔兹舞, 圆舞曲 / a. 华尔兹舞的, 圆舞曲的 / vi. 跳华尔兹舞, 轻快地走动 / vt. 与...跳华尔兹舞, 硬拖",
+"en": "n. music composed in triple time for waltzing / n. a ballroom dance in triple time with a strong accent on the first bea…"
+},
+{
+"word": "deconstruct",
+"pos": "vt",
+"zh": "vt. 解构（文学作品等）; 拆析",
+"en": "v. interpret (a text or an artwork) by the method of deconstructing"
+},
+{
+"word": "sortie",
+"pos": "n",
+"zh": "n. 出击, 突围",
+"en": "n. a military action in which besieged troops burst forth from their position / n. (military) an operational flight by a…"
+},
+{
+"word": "subconscious",
+"pos": "n/a",
+"zh": "n. 潜在意识, 下意识 / a. 下意识的, 潜意识的",
+"en": "s. just below the level of consciousness"
+},
+{
+"word": "bereaved",
+"pos": "a",
+"zh": "a. 丧失亲人的 / bereave的过去式和过去分词",
+"en": "n. a person who has suffered the death of someone they loved / s. sorrowful through loss or deprivation"
+},
+{
+"word": "downgrade",
+"pos": "vt/n/a/adv",
+"zh": "vt. 降低, 贬低 / n. 下坡 / a. 下坡 / adv. 下坡",
+"en": "n. the property possessed by a slope or surface that descends / v. rate lower; lower in value or esteem"
+},
+{
+"word": "dill",
+"pos": "n",
+"zh": "n. 莳萝, 莳萝叶 / [医] 莳罗",
+"en": "n. aromatic Old World herb having aromatic threadlike foliage and seeds used as seasoning / n. aromatic threadlike folia…"
+},
+{
+"word": "momma",
+"pos": "n",
+"zh": "n. 妈咪",
+"en": "n informal terms for a mother"
+},
+{
+"word": "restaurateur",
+"pos": "n",
+"zh": "n. 餐馆老板",
+"en": "n. the proprietor of a restaurant"
+},
+{
+"word": "anchovy",
+"pos": "n",
+"zh": "n. 凤尾鱼；鳀鱼",
+"en": "n. tiny fishes usually canned or salted; used for hors d'oeuvres or as seasoning in sauces / n. small herring-like plank…"
+},
+{
+"word": "geranium",
+"pos": "n",
+"zh": "n. 老鹳草属植物, 天竺葵 / [化] 老鹳草",
+"en": "n. any of numerous plants of the family Geraniaceae"
+},
+{
+"word": "bridesmaid",
+"pos": "n",
+"zh": "n. 女傧相",
+"en": "n. an unmarried woman who attends the bride at a wedding"
+},
+{
+"word": "vicarage",
+"pos": "n",
+"zh": "n. 教区牧师的住宅",
+"en": "n an official residence provided by a church for its parson or vicar or rector"
+},
+{
+"word": "mucus",
+"pos": "n",
+"zh": "n. 粘液 / [化] 粘液",
+"en": "n. protective secretion of the mucus membranes; in the gut it lubricates the passage of food and protects the epithelial…"
+},
+{
+"word": "coastguard",
+"pos": "n",
+"zh": "n. 海岸警备队, 海岸警备队队员",
+"en": "n. a military service responsible for the safety of maritime traffic in coastal waters"
+},
+{
+"word": "sizzle",
+"pos": "vi/vt/n",
+"zh": "vi. 发出嘶嘶声 / vt. 烧灼 / n. 咝咝声",
+"en": "n. a sizzling noise / v. make a sound like frying fat / v. seethe with deep anger or resentment / v. burn or sear with a…"
+},
+{
+"word": "terracotta",
+"pos": "n",
+"zh": "n. 赤土, 赤陶器, 赤陶, 赤褐色, 一种带褐色的柑子",
+"en": ""
+}
+]

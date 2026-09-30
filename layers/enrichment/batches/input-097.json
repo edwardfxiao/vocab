@@ -1,0 +1,602 @@
+[
+{
+"word": "rudimentary",
+"pos": "a",
+"zh": "a. 基本的, 起码的, 初步的, 发展不完全的, 残留的, 退化的 / [医] 原基的, 未成熟的; 残遗的, 已退化的",
+"en": "s. being in the earliest stages of development"
+},
+{
+"word": "dissect",
+"pos": "v",
+"zh": "v. 解剖, 切开",
+"en": "v. cut open or cut apart"
+},
+{
+"word": "abyss",
+"pos": "n",
+"zh": "n. 深渊, 深邃, 地狱",
+"en": "n. a bottomless gulf or pit; any unfathomable (or apparently unfathomable) cavity or chasm or void extending below (ofte…"
+},
+{
+"word": "attrition",
+"pos": "n",
+"zh": "n. 摩擦, 磨损 / [医] 擦除术; 磨耗",
+"en": "n. sorrow for sin arising from fear of damnation / n. a wearing down to weaken or destroy / n. the act of rubbing togeth…"
+},
+{
+"word": "rout",
+"pos": "n/vt/vi",
+"zh": "n. 溃败, 大败, 乌合之众, 盛大晚会 / vt. 使溃败, 使败逃, 打垮, 用鼻拱, 挖起, 搜, 唤起 / vi. 用鼻拱地, 搜",
+"en": "n. an overwhelming defeat / v. cause to flee / v. dig with the snout / v. make a groove in"
+},
+{
+"word": "anterior",
+"pos": "a",
+"zh": "a. 前面的, 先前的 / [医] 前的",
+"en": "a. of or near the head end or toward the front plane of a body / s. earlier in time"
+},
+{
+"word": "grocer",
+"pos": "n",
+"zh": "n. 食品商",
+"en": "n. a retail merchant who sells foodstuffs (and some household supplies)"
+},
+{
+"word": "prick",
+"pos": "vt/vi/n/a",
+"zh": "vt. 刺, 戳, 刺痛, 使竖起 / vi. 刺, 竖起 / n. 扎, 一刺, 刺痛 / a. 竖起的",
+"en": "n. the act of puncturing with a small point / v. cause a stinging pain / v. to cause a sharp emotional pain"
+},
+{
+"word": "clandestine",
+"pos": "a",
+"zh": "a. 偷偷摸摸的 / [法] 秘密的, 暗中的",
+"en": "s. conducted with or marked by hidden aims or methods"
+},
+{
+"word": "weaponry",
+"pos": "n",
+"zh": "n. 武器, 军备, 武器设计研制学",
+"en": "n. weapons considered collectively"
+},
+{
+"word": "armament",
+"pos": "n",
+"zh": "n. 军备, 军队, 武器 / [机] 武器",
+"en": "n. weaponry used by military or naval force"
+},
+{
+"word": "hind",
+"pos": "n/a",
+"zh": "n. 雌鹿 / a. 后部的, 在后的",
+"en": "n. any of several mostly spotted fishes that resemble groupers / n. a female deer, especially an adult female red deer"
+},
+{
+"word": "ancillary",
+"pos": "a",
+"zh": "a. 从属的, 辅助的, 副的 / [经] 辅助的, 附属的, 助手",
+"en": "s furnishing added support"
+},
+{
+"word": "allure",
+"pos": "vt/n",
+"zh": "vt. 引诱, 吸引 / n. 魅力, 诱惑力",
+"en": "n. the power to entice or attract through personal charm"
+},
+{
+"word": "distraught",
+"pos": "a",
+"zh": "a. 烦恼的, 心烦意乱的, 发狂的",
+"en": "s. deeply agitated especially from emotion"
+},
+{
+"word": "unruly",
+"pos": "a",
+"zh": "a. 难控制的, 无法无天的, 任性的",
+"en": "s noisy and lacking in restraint or discipline / s unwilling to submit to authority / s of persons"
+},
+{
+"word": "wag",
+"pos": "vt/vi/n",
+"zh": "vt. 摇摆, 摇动, 饶舌 / vi. 摆动, 喋喋不休 / n. 摇摆, 爱说笑打趣的人",
+"en": "n. a witty amusing person who makes jokes / n. causing to move repeatedly from side to side / v. move from side to side"
+},
+{
+"word": "eschew",
+"pos": "vt",
+"zh": "vt. 避开, 远避",
+"en": "v avoid and stay away from deliberately; stay clear of"
+},
+{
+"word": "fiasco",
+"pos": "n",
+"zh": "n. 惨败, 大失败",
+"en": "n a sudden and violent collapse"
+},
+{
+"word": "cuddle",
+"pos": "n/vt/vi",
+"zh": "n. 搂抱, 拥抱 / vt. 抚抱, 抱着睡, 拥抱 / vi. 依偎, 依偎着躺在一起",
+"en": "n. a close and affectionate (and often prolonged) embrace / v. move or arrange oneself in a comfortable and cozy positio…"
+},
+{
+"word": "opium",
+"pos": "n",
+"zh": "n. 鸦片 / [化] 阿片; 鸦片",
+"en": "n. an addictive narcotic extracted from seed capsules of the opium poppy"
+},
+{
+"word": "otter",
+"pos": "n",
+"zh": "n. 水獭, 水獭皮",
+"en": "n. the fur of an otter / n. freshwater carnivorous mammal having webbed and clawed feet and dark brown fur"
+},
+{
+"word": "solace",
+"pos": "n/vt",
+"zh": "n. 安慰, 安慰之物 / vt. 安慰, 抚慰, 给与安慰, 使轻松",
+"en": "n. comfort in disappointment or misery"
+},
+{
+"word": "carnival",
+"pos": "n",
+"zh": "n. 嘉年华会, 狂欢节, 饮宴狂欢",
+"en": "n. a festival marked by merrymaking and processions / n. a traveling show; having sideshows and rides and games of skill…"
+},
+{
+"word": "brit",
+"pos": "n",
+"zh": "n. 小海生动物, 小鲱鱼",
+"en": "n. the young of a herring or sprat or similar fish / n. minute crustaceans forming food for right whales"
+},
+{
+"word": "purify",
+"pos": "vi/vt",
+"zh": "vi. 变纯净 / vt. 使纯净, 净化, 提纯, 精炼",
+"en": "v. remove impurities from, increase the concentration of, and separate through the process of distillation / v. make pur…"
+},
+{
+"word": "gallant",
+"pos": "a",
+"zh": "a. 英勇的, 壮丽的, 华丽的",
+"en": "s. unflinching in battle or action / s. having or displaying great dignity or nobility"
+},
+{
+"word": "reconnaissance",
+"pos": "n",
+"zh": "n. 侦察, 勘察队 / [电] 勘查",
+"en": "n. the act of reconnoitring (especially to gain information about an enemy or potential enemy)"
+},
+{
+"word": "perpetrate",
+"pos": "vt",
+"zh": "vt. 做(恶), 犯(罪), 胡说, 恶劣地做 / [法] 犯, 作, 行",
+"en": "v. perform an act, usually with a negative connotation"
+},
+{
+"word": "leopard",
+"pos": "n",
+"zh": "n. 豹, 美洲豹",
+"en": "n. the pelt of a leopard / n. large feline of African and Asian forests usually having a tawny coat with black spots"
+},
+{
+"word": "accomplice",
+"pos": "n",
+"zh": "n. 共犯, 同谋 / [医] 协同菌",
+"en": "n. a person who joins with another in carrying out some plan (especially an unethical or illegal plan)"
+},
+{
+"word": "screech",
+"pos": "n/vt/vi",
+"zh": "n. 尖声喊叫, 尖叫声, 煞车声 / vt. 尖声讲 / vi. 发出尖声",
+"en": "n. a high-pitched noise resembling a human cry"
+},
+{
+"word": "waistcoat",
+"pos": "n",
+"zh": "n. 西装背心, 马甲",
+"en": "n a man's sleeveless garment worn underneath a coat"
+},
+{
+"word": "circumvent",
+"pos": "vt",
+"zh": "vt. 绕行, 陷害, 包围, 智取",
+"en": "v surround so as to force to give up / v beat through cleverness and wit / v avoid or try to avoid fulfilling, answering…"
+},
+{
+"word": "uphill",
+"pos": "a/adv",
+"zh": "a. 上坡的, 向上的 / adv. 往上坡, 向上地",
+"en": "n. the upward slope of a hill / r. against difficulties / r. upward on a hill or incline"
+},
+{
+"word": "bystander",
+"pos": "n",
+"zh": "n. 旁观者, 目击者 / [法] 候补陪审员, 旁观者",
+"en": "n. a nonparticipant spectator"
+},
+{
+"word": "flannel",
+"pos": "n",
+"zh": "n. 法兰绒, 法兰绒衣服",
+"en": "n. a soft light woolen fabric; used for clothing / n. (usually in the plural) trousers made of flannel or gabardine or t…"
+},
+{
+"word": "porridge",
+"pos": "n",
+"zh": "n. 粥, 糊",
+"en": "n. soft food made by boiling oatmeal or other meal or legumes in water or milk until thick"
+},
+{
+"word": "momentary",
+"pos": "a",
+"zh": "a. 瞬间的, 刹那间的",
+"en": "s lasting for a markedly brief time"
+},
+{
+"word": "gent",
+"pos": "n",
+"zh": "n. 绅士",
+"en": "n. informal abbreviation of `gentleman' / n. port city in northwestern Belgium and industrial center; famous for cloth i…"
+},
+{
+"word": "mash",
+"pos": "n/vt",
+"zh": "n. 碎麦芽, 饲料, 糊状物 / vt. 调情, 捣碎",
+"en": "n. a mixture of mashed malt grains and hot water; used in brewing / n. mixture of ground animal feeds"
+},
+{
+"word": "endemic",
+"pos": "n/a",
+"zh": "n. 地方病 / a. 某地(或某些人中)流行的, 地方的",
+"en": "n. a disease that is constantly present to a greater or lesser degree in people of a certain class or in people living i…"
+},
+{
+"word": "temp",
+"pos": "n",
+"zh": "n. [口]临时雇员",
+"en": "n. a worker (especially in an office) hired on a temporary basis"
+},
+{
+"word": "blackboard",
+"pos": "n",
+"zh": "n. 黑板",
+"en": "n. sheet of slate; for writing with chalk"
+},
+{
+"word": "requisite",
+"pos": "n/a",
+"zh": "n. 必需品, 要素, 必要物品 / a. 必要的, 需要的",
+"en": "n anything indispensable / s necessary for relief or supply"
+},
+{
+"word": "latch",
+"pos": "n/vi/vt",
+"zh": "n. 门闩 / vi. 上闩, 抓住, 占有 / vt. 闩上 / [计] 门闩线路; 锁存器",
+"en": "n. spring-loaded doorlock that can only be opened from the outside with a key / n. catch for fastening a door or gate; a…"
+},
+{
+"word": "blackmail",
+"pos": "n/vt",
+"zh": "n. 勒索 / vt. 勒索",
+"en": "n. extortion of money by threats to divulge discrediting information / v. exert pressure on someone through threats / v.…"
+},
+{
+"word": "munch",
+"pos": "v",
+"zh": "v. 用力咀嚼, 大声咀嚼",
+"en": "n. Norwegian painter (1863-1944) / n. a large bite"
+},
+{
+"word": "cabaret",
+"pos": "n",
+"zh": "n. 卡巴莱(有歌舞表演的餐馆或夜总会), 卡巴莱歌舞表演",
+"en": "n. a spot that is open late at night and that provides entertainment (as singers or dancers) as well as dancing and food…"
+},
+{
+"word": "paramilitary",
+"pos": "a",
+"zh": "a. 辅助军事的",
+"en": "n. a group of civilians organized in a military fashion (especially to operate in place of or to assist regular army tro…"
+},
+{
+"word": "annex",
+"pos": "n/vt",
+"zh": "n. 附加物, 附属建筑物 / vt. 附加, 盖(印), 并吞",
+"en": "n. an addition that extends a main building / v. take (territory) as if by conquest / v. attach to"
+},
+{
+"word": "whisker",
+"pos": "n",
+"zh": "n. 腮须, 胡须, 一丝儿 / [化] 晶须",
+"en": "n. a long stiff hair growing from the snout or brow of most mammals as e.g. a cat"
+},
+{
+"word": "prune",
+"pos": "n/vt/vi",
+"zh": "n. 洋李, 李子干, 深紫红色, 傻瓜 / vt. 修剪, 砍掉, 删除 / vi. 删除, 删节",
+"en": "n. dried plum"
+},
+{
+"word": "mockery",
+"pos": "n",
+"zh": "n. 嘲弄, 笑柄, 歪曲",
+"en": "n showing your contempt by derision / n a composition that imitates or misrepresents somebody's style, usually in a humo…"
+},
+{
+"word": "tunic",
+"pos": "n",
+"zh": "n. 束腰外衣 / [医] 膜, 被膜",
+"en": "n. an enveloping or covering membrane or layer of body tissue / n. any of a variety of loose fitting cloaks extending to…"
+},
+{
+"word": "masonry",
+"pos": "n",
+"zh": "n. (建筑物的)砖石部分",
+"en": "n. structure built of stone or brick by a mason / n. the craft of a mason"
+},
+{
+"word": "compulsive",
+"pos": "a",
+"zh": "a. 强制的, 强迫的 / [医] 强迫性的",
+"en": "n. a person with a compulsive disposition; someone who feels compelled to do certain things / s. caused by or suggestive…"
+},
+{
+"word": "postoperative",
+"pos": "a",
+"zh": "a. 手术后的 / [医] 手术后的",
+"en": "s. happening or done after a surgical operation"
+},
+{
+"word": "lark",
+"pos": "n/vi/vt",
+"zh": "n. 云雀, 百灵鸟, 欢乐, 嬉耍 / vi. 嬉耍, 骑马玩乐 / vt. 愚弄",
+"en": "n. any of numerous predominantly Old World birds noted for their singing"
+},
+{
+"word": "snug",
+"pos": "a/vt",
+"zh": "a. 舒适的, 温暖的, 整洁的, 紧身的, 隐藏的 / vt. 使整洁干净, 使紧身, 隐藏",
+"en": "s. offering safety; well protected or concealed / s. well and tightly constructed"
+},
+{
+"word": "venom",
+"pos": "n/vt",
+"zh": "n. 毒液, 恶意 / vt. 放毒, 使有毒",
+"en": "n. toxin secreted by animals; secreted by certain snakes and poisonous insects (e.g., spiders and scorpions)"
+},
+{
+"word": "incense",
+"pos": "n/vi/vt",
+"zh": "n. 香, 香气, 奉承 / vi. 焚香 / vt. 用香焚, 使发怒",
+"en": "n. a substance that produces a fragrant odor when burned / n. the pleasing scent produced when incense is burned"
+},
+{
+"word": "vile",
+"pos": "a",
+"zh": "a. 恶劣的, 肮脏的, 低廉的, 卑鄙的 / [法] 极坏的, 恶劣的, 卑鄙的",
+"en": "s morally reprehensible / s causing or able to cause nausea"
+},
+{
+"word": "serviceman",
+"pos": "n",
+"zh": "n. 军人, 维修人员 / [化] 机械师; 维修人员",
+"en": "n. someone who serves in the armed forces; a member of a military force"
+},
+{
+"word": "harp",
+"pos": "n/vi",
+"zh": "n. 竖琴 / vi. 弹奏竖琴, 不停地说",
+"en": "n. a chordophone that has a triangular frame consisting of a sounding board and a pillar and a curved neck; the strings …"
+},
+{
+"word": "plush",
+"pos": "n/a",
+"zh": "n. 长毛绒, 长毛绒裤 / a. 长毛绒制的, 豪华的",
+"en": "n. a fabric with a nap that is longer and softer than velvet"
+},
+{
+"word": "devolve",
+"pos": "vt/vi",
+"zh": "vt. 转移, 下放(权力等), 委托 / vi. 被移交",
+"en": "v. pass on or delegate to another / v. grow worse"
+},
+{
+"word": "chrome",
+"pos": "n",
+"zh": "n. 铬, 铬合金 / [医] 铬(24号元素)",
+"en": "n. another word for chromium when it is used in dyes or pigments / v. plate with chromium / v. treat with a chromium com…"
+},
+{
+"word": "itch",
+"pos": "n/vi",
+"zh": "n. 痒, 渴望, 疥疮 / vi. 发痒, 渴望",
+"en": "n. an irritating cutaneous sensation that produces a desire to scratch / v. have or perceive an itch / v. cause to perce…"
+},
+{
+"word": "reactionary",
+"pos": "n/a",
+"zh": "n. 反动分子 / a. 反动的, 反动主义的, 反对改革的",
+"en": "n. an extreme conservative; an opponent of progress or liberalism / s. extremely conservative"
+},
+{
+"word": "wherein",
+"pos": "adv",
+"zh": "adv. 在哪方面, 在那方面",
+"en": "adv. In which; in which place, thing, time, respect, or the /    like; -- used relatively. / adv. In what; -- used inter…"
+},
+{
+"word": "vulture",
+"pos": "n",
+"zh": "n. 秃鹫, 贪婪的人 / [法] 贪婪而残酷者, 劫掠成性者",
+"en": "n. any of various large diurnal birds of prey having naked heads and weak claws and feeding chiefly on carrion"
+},
+{
+"word": "figurative",
+"pos": "a",
+"zh": "a. 比喻的, 象征的, 修饰丰富的",
+"en": "a. (used of the meanings of words or text) not literal; using figures of speech"
+},
+{
+"word": "spectral",
+"pos": "a",
+"zh": "a. 光谱的, 鬼怪的, 幻觉的 / [医] 光谱的",
+"en": "a. of or relating to a spectrum"
+},
+{
+"word": "clamor",
+"pos": "n/v",
+"zh": "n. 喧闹, 叫嚷, 大声的要求 / v. 喧嚷, 大声地要求",
+"en": "n. loud and persistent outcry from many people / v. make loud demands / v. utter or proclaim insistently and noisily"
+},
+{
+"word": "wean",
+"pos": "vt/n",
+"zh": "vt. 使断奶, 使丢弃, 使断念 / n. 小儿",
+"en": "v. gradually deprive (infants and young mammals) of mother's milk / v. detach the affections of"
+},
+{
+"word": "instill",
+"pos": "vt",
+"zh": "vt. 滴注, 慢慢地灌输",
+"en": "v. impart gradually / v. enter drop by drop"
+},
+{
+"word": "daffodil",
+"pos": "n/a",
+"zh": "n. 水仙花 / a. 水仙花色的",
+"en": "n. any of numerous varieties of Narcissus plants having showy often yellow flowers with a trumpet-shaped central crown"
+},
+{
+"word": "shrill",
+"pos": "n/a/vt/vi",
+"zh": "n. 尖声 / a. 尖锐的, 刺耳的 / vt. 尖声说出 / vi. 发出刺耳声",
+"en": "s. having or emitting a high-pitched and sharp tone or tones / s. of colors that are bright and gaudy"
+},
+{
+"word": "skew",
+"pos": "a/n/vi/vt",
+"zh": "a. 斜的, 歪的 / n. 歪斜, 偏态家庭关系 / vi. 歪斜, 侧转 / vt. 使歪斜, 曲解 / [计] 扭斜; 歪斜; 偏斜",
+"en": "v. turn or place at an angle / s. having an oblique or slanting direction or position"
+},
+{
+"word": "bombardment",
+"pos": "n",
+"zh": "n. 炮击 / [化] 轰击",
+"en": "n. the act (or an instance) of subjecting a body or substance to the impact of high-energy particles (as electrons or al…"
+},
+{
+"word": "jesuit",
+"pos": "n",
+"zh": "n. 耶稣会信徒, 阴险的人, 阴谋家",
+"en": "n. a member of the Jesuit order"
+},
+{
+"word": "vandal",
+"pos": "n",
+"zh": "n. 蓄意破坏者",
+"en": "n. someone who willfully destroys or defaces property / n. a member of the Germanic people who overran Gaul and Spain an…"
+},
+{
+"word": "retaliate",
+"pos": "vt/vi",
+"zh": "vt. 报复, 回敬 / vi. 报复, 以牙还牙",
+"en": "v. make a counterattack and return like for like, especially evil for evil"
+},
+{
+"word": "sceptic",
+"pos": "n",
+"zh": "n. 怀疑论者",
+"en": "n someone who habitually doubts accepted beliefs"
+},
+{
+"word": "meteorite",
+"pos": "n",
+"zh": "n. 陨星 / [化] 陨石; 陨铁",
+"en": "n. stony or metallic object that is the remains of a meteoroid that has reached the earth's surface"
+},
+{
+"word": "repressed",
+"pos": "a",
+"zh": "a. 被镇压的, 受约束的, 被抑制的",
+"en": "v put down by force or intimidation / v conceal or hide / v put out of one's consciousness / v block the action of / s c…"
+},
+{
+"word": "muffled",
+"pos": "a",
+"zh": "a. 听不清的；蒙住的",
+"en": "s. wrapped up especially for protection or secrecy"
+},
+{
+"word": "whiff",
+"pos": "n/vi/vt",
+"zh": "n. 一吹, 一吸, 一阵, 一点点, 一口烟 / vi. 轻轻地吹, 喷气, 三击不中出局, 垂钓 / vt. 吹送, 喷出, 吸, 使三击不中出局",
+"en": "n. a lefteye flounder found in coastal waters from New England to Brazil / n. a strikeout resulting from the batter swin…"
+},
+{
+"word": "chariot",
+"pos": "n",
+"zh": "n. 二轮战车",
+"en": "n. a light four-wheel horse-drawn ceremonial carriage / n. a two-wheeled horse-drawn battle vehicle; used in war and rac…"
+},
+{
+"word": "typify",
+"pos": "vt",
+"zh": "vt. 代表, 象征, 为...之典型",
+"en": "v. embody the essential characteristics of or be a typical example of / v. express indirectly by an image, form, or mode…"
+},
+{
+"word": "ashtray",
+"pos": "n",
+"zh": "n. 烟灰缸",
+"en": "n. a receptacle for the ash from smokers' cigars or cigarettes"
+},
+{
+"word": "lunatic",
+"pos": "n/a",
+"zh": "n. 疯人, 癫狂者, 愚蠢的人 / a. 疯癫的, 愚蠢的, 丧心病狂的, 精神错乱的",
+"en": "n. an insane person / s. insane and believed to be affected by the phases of the moon"
+},
+{
+"word": "prophetic",
+"pos": "a",
+"zh": "a. 预言的, 先知的, 预示的",
+"en": "a. foretelling events as if by supernatural intervention"
+},
+{
+"word": "sculpt",
+"pos": "v",
+"zh": "v. 雕刻, 造型",
+"en": "v. create by shaping stone or wood or any other hard material / v. shape (a material like stone or wood) by whittling aw…"
+},
+{
+"word": "chauffeur",
+"pos": "n",
+"zh": "n. 司机",
+"en": "n. a man paid to drive a privately owned car"
+},
+{
+"word": "hangar",
+"pos": "n",
+"zh": "n. 棚厂, 飞机库",
+"en": "n a large structure at an airport where aircraft can be stored and maintained"
+},
+{
+"word": "upsurge",
+"pos": "vi/n",
+"zh": "vi. 高涨, 涌起 / n. 增长, 高潮",
+"en": "n a sudden forceful flow / n a sudden or abrupt strong increase"
+},
+{
+"word": "prise",
+"pos": "vt",
+"zh": "vt. 撬, 撬开, 撬动",
+"en": "v to move or force, especially in an effort to get something open / v make an uninvited or presumptuous inquiry / v rega…"
+},
+{
+"word": "kerb",
+"pos": "n",
+"zh": "n. 街头的边石 / [经] 路边",
+"en": "n an edge between a sidewalk and a roadway consisting of a line of curbstones (usually forming part of a gutter)"
+}
+]

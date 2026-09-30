@@ -1,0 +1,602 @@
+[
+{
+"word": "caterpillar",
+"pos": "n",
+"zh": "n. 毛虫 / [机] 履带车",
+"en": "n. a wormlike and often brightly colored and hairy or spiny larva of a butterfly or moth / n. a large tracked vehicle th…"
+},
+{
+"word": "spew",
+"pos": "vi/vt/n",
+"zh": "vi. 呕吐, 喷涌 / vt. 呕出, 喷 / n. 呕吐物, 喷涌物",
+"en": "v. eject or send out in large quantities, also metaphorical"
+},
+{
+"word": "expatriate",
+"pos": "n/vt/vi",
+"zh": "n. 移居国外者, 侨民, 被流放者, 背井离乡者 / vt. 逐出国外, 脱离国籍, 放逐 / vi. 移居国外",
+"en": "v. expel from a country / v. move away from one's native country and adopt a new residence abroad"
+},
+{
+"word": "parable",
+"pos": "n",
+"zh": "n. 寓言, 隐晦的比较",
+"en": "n. (New Testament) any of the stories told by Jesus to convey his religious message"
+},
+{
+"word": "postulate",
+"pos": "n/vt",
+"zh": "n. 假定, 基本条件 / vt. 要求, 假定",
+"en": "n. (logic) a proposition that is accepted as true in order to provide a basis for logical reasoning / v. take as a given…"
+},
+{
+"word": "confound",
+"pos": "vt",
+"zh": "vt. 使混淆, 使狼狈, 挫败",
+"en": "v be confusing or perplexing to; cause to be unable to think clearly / v mistake one thing for another"
+},
+{
+"word": "surreal",
+"pos": "a",
+"zh": "a. 超现实主义的；离奇的；不真实的",
+"en": "s characterized by fantastic imagery and incongruous juxtapositions / s resembling a dream"
+},
+{
+"word": "cleanse",
+"pos": "vt",
+"zh": "vt. 使清洁, 净化, 使纯净 / [建] 纯化, 净化, 精炼",
+"en": "v. clean one's body or parts thereof, as by washing / v. purge of an ideology, bad thoughts, or sins"
+},
+{
+"word": "cannabis",
+"pos": "n",
+"zh": "n. 大麻 / [化] 大麻",
+"en": "n. any plant of the genus Cannabis; a coarse bushy annual with palmate leaves and clusters of small green flowers; yield…"
+},
+{
+"word": "viscount",
+"pos": "n",
+"zh": "n. 子爵",
+"en": "n. (in various countries) a son or younger brother or a count / n. a British peer who ranks below an earl and above a ba…"
+},
+{
+"word": "picket",
+"pos": "n/vt/vi",
+"zh": "n. 桩, 尖桩, 警戒哨, 巡逻艇, 纠察队 / vt. 围住, 警戒, 派...担任纠察 / vi. 担任纠察",
+"en": "n. a detachment of troops guarding an army from surprise attack / n. a protester posted by a labor organization outside …"
+},
+{
+"word": "cadre",
+"pos": "n",
+"zh": "n. 框架, 干部 / [经] 干部",
+"en": "n. a nucleus of military personnel capable of expansion"
+},
+{
+"word": "encircle",
+"pos": "vt",
+"zh": "vt. 环绕, 围绕, 包围",
+"en": "v. form a circle around"
+},
+{
+"word": "confiscate",
+"pos": "vt/a",
+"zh": "vt. 没收, 把...充公, 查抄 / a. 被没收的",
+"en": "s. surrendered as a penalty"
+},
+{
+"word": "sod",
+"pos": "n/vt",
+"zh": "n. 草地, (铺草坪用的)草皮, 故乡 / vt. 铺上草皮, 以生草土覆盖",
+"en": "n. an informal British term for a youth or man / v. cover with sod"
+},
+{
+"word": "arable",
+"pos": "a",
+"zh": "a. 适于耕种的, 可耕的",
+"en": "s. (of farmland) capable of being farmed productively"
+},
+{
+"word": "hydraulic",
+"pos": "a",
+"zh": "a. 与水有关的, 水力的, 水压的 / [电] 水力的",
+"en": "a. moved or operated or effected by liquid (water or oil) / a. of or relating to the study of hydraulics"
+},
+{
+"word": "rink",
+"pos": "n/vi",
+"zh": "n. 溜冰场, 室内溜冰场 / vi. 溜冰",
+"en": "n. building that contains a surface for ice skating or roller skating"
+},
+{
+"word": "rafter",
+"pos": "n/vt",
+"zh": "n. 椽, 筏夫 / vt. 装椽于",
+"en": "n. one of several parallel sloping beams that support a roof / v. provide (a ceiling) with rafters"
+},
+{
+"word": "resurrect",
+"pos": "vi/vt",
+"zh": "vi. 复活 / vt. 使复活, 复兴, 恢复, 盗掘",
+"en": "v. cause to become alive again / v. return from the dead"
+},
+{
+"word": "backfire",
+"pos": "n/vi",
+"zh": "n. 逆火, 回火, 放火 / vi. 放逆火, 预先放火, 发生意外",
+"en": "n. a loud noise made by the explosion of fuel in the manifold or exhaust of an internal combustion engine / n. a fire th…"
+},
+{
+"word": "downright",
+"pos": "a/adv",
+"zh": "a. 明白的, 率直的, 十足的 / adv. 全然, 彻底, 完全",
+"en": "s. characterized by plain blunt honesty / r. thoroughgoing"
+},
+{
+"word": "menopause",
+"pos": "n",
+"zh": "n. 绝经期 / [医] 绝经",
+"en": "n. the time in a woman's life in which the menstrual cycle ends"
+},
+{
+"word": "thrush",
+"pos": "n",
+"zh": "n. 鸫, 鹅口疮, 蹄叉腐烂 / [医] 鹅口疮, 真菌性口炎; 口炎性腹泻; 铸道(牙)",
+"en": "n. candidiasis of the oral cavity; seen mostly in infants or debilitated adults / n. a woman who sings popular songs / n…"
+},
+{
+"word": "derail",
+"pos": "vt/n",
+"zh": "vt. 使出轨 / n. 脱轨器 / [计] 转移指令",
+"en": "v. cause to run off the tracks / v. run off or leave the rails"
+},
+{
+"word": "revitalize",
+"pos": "vt",
+"zh": "vt. 使恢复生气, 使复活, 使复兴",
+"en": "v. give new life or vigor to"
+},
+{
+"word": "impediment",
+"pos": "n",
+"zh": "n. 妨碍, 障碍, 阻止, 口吃 / [经] 对履行义务的阻碍",
+"en": "n something immaterial that interferes with or delays action or progress / n any structure that makes progress difficult"
+},
+{
+"word": "overcoat",
+"pos": "n",
+"zh": "n. 外套大衣",
+"en": "n. an additional protective coating (as of paint or varnish)"
+},
+{
+"word": "electromagnetic",
+"pos": "a",
+"zh": "a. 电磁的, 由电磁石产生的 / [电] 电磁的",
+"en": "a. pertaining to or exhibiting magnetism produced by electric charge in motion"
+},
+{
+"word": "stricture",
+"pos": "n",
+"zh": "n. 狭窄, 指责, 束缚 / [医] 狭窄",
+"en": "n. severe criticism"
+},
+{
+"word": "electrode",
+"pos": "n",
+"zh": "n. 电极 / [化] 电极; 焊条; 电焊条",
+"en": "n. a conductor used to make electrical contact with some part of a circuit"
+},
+{
+"word": "remission",
+"pos": "n",
+"zh": "n. 宽恕, 豁免, 免罪, 缓和, 减轻 / [医] 缓解, 弛张",
+"en": "n. an abatement in intensity or degree (as in the manifestations of a disease) / n. (law) the act of remitting (especial…"
+},
+{
+"word": "ornate",
+"pos": "a",
+"zh": "a. 装饰的, 华丽的",
+"en": "s marked by elaborate rhetoric and elaborated with decorative details"
+},
+{
+"word": "caress",
+"pos": "n/vt",
+"zh": "n. 爱抚, 拥抱 / vt. 爱抚, 抱, 宠爱",
+"en": "n. a gentle affectionate stroking (or something resembling it) / v. touch or stroke lightly in a loving or endearing man…"
+},
+{
+"word": "funky",
+"pos": "a",
+"zh": "a. 畏缩的, 怯懦的, 恶臭的",
+"en": "s. (of jazz) having the soulful feeling of early blues / s. stylish and modern in an unconventional way / s. in a state …"
+},
+{
+"word": "viral",
+"pos": "a",
+"zh": "a. 病毒的, 病毒引起的 / [医] 病毒的",
+"en": "a. relating to or caused by a virus"
+},
+{
+"word": "eggplant",
+"pos": "n",
+"zh": "n. 茄子",
+"en": "n. egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow / n. hairy upright he…"
+},
+{
+"word": "toad",
+"pos": "n",
+"zh": "n. 蟾蜍, 癞蛤蟆, 讨厌的家伙",
+"en": "n any of various tailless stout-bodied amphibians with long hind limbs for leaping; semiaquatic and terrestrial species"
+},
+{
+"word": "thunderstorm",
+"pos": "n",
+"zh": "n. 雷暴雨",
+"en": "n. a storm resulting from strong rising air currents; heavy rain or hail along with thunder and lightning"
+},
+{
+"word": "barman",
+"pos": "n",
+"zh": "n. 酒吧间男招待",
+"en": "n an employee who mixes and serves alcoholic drinks at a bar"
+},
+{
+"word": "patriot",
+"pos": "n",
+"zh": "n. 爱国者, 爱国主义者",
+"en": "n. one who loves and defends his or her country"
+},
+{
+"word": "grassland",
+"pos": "n",
+"zh": "n. 牧草地, 草原",
+"en": "n. land where grass or grasslike vegetation grows and is the dominant form of plant life"
+},
+{
+"word": "stronghold",
+"pos": "n",
+"zh": "n. 要塞, 堡垒, 大本营",
+"en": "n. a strongly fortified defensive structure"
+},
+{
+"word": "goldfish",
+"pos": "n",
+"zh": "n. 金鱼",
+"en": "n. small golden or orange-red freshwater fishes of Eurasia used as pond or aquarium fishes"
+},
+{
+"word": "skyscraper",
+"pos": "n",
+"zh": "n. 摩天楼, 三角形天帆",
+"en": "n. a very tall building with many stories"
+},
+{
+"word": "settee",
+"pos": "n",
+"zh": "n. 长靠背椅",
+"en": "n. a small sofa"
+},
+{
+"word": "eel",
+"pos": "n",
+"zh": "n. 鳗鱼, 鳝鱼",
+"en": "n. the fatty flesh of eel; an elongate fish found in fresh water in Europe and America; large eels are usually smoked or…"
+},
+{
+"word": "resilient",
+"pos": "a",
+"zh": "a. 弹回的, 有弹力的 / [医] 回弹的, 回能的",
+"en": "s. recovering readily from adversity, depression, or the like"
+},
+{
+"word": "primacy",
+"pos": "n",
+"zh": "n. 第一, 首位, 卓越",
+"en": "n. the state of being first in importance"
+},
+{
+"word": "chloride",
+"pos": "n",
+"zh": "n. 氯化物 / [化] 氯化物; 盐酸盐",
+"en": "n. any compound containing a chlorine atom / n. any salt of hydrochloric acid (containing the chloride ion)"
+},
+{
+"word": "syringe",
+"pos": "n/vt",
+"zh": "n. 注射器, 洗涤器 / vt. 注射, 洗涤",
+"en": "n. a medical instrument used to inject or withdraw fluids / v. spray or irrigate (a body part) with a syringe"
+},
+{
+"word": "taunt",
+"pos": "n/vt/a",
+"zh": "n. 辱骂, 嘲弄 / vt. 嘲弄, 奚落 / a. 很高的",
+"en": "n aggravation by deriding or mocking or criticizing / v harass with persistent criticism or carping"
+},
+{
+"word": "lattice",
+"pos": "n/vt",
+"zh": "n. 格子, 组合格子, 格子状东西 / vt. 制做格子, 使成格子状 / [计] 格",
+"en": "n. an arrangement of points or particles or objects in a regular periodic pattern in 2 or 3 dimensions / n. framework co…"
+},
+{
+"word": "envelop",
+"pos": "vt/n",
+"zh": "vt. 包封, 遮盖, 包围 / n. 信封",
+"en": "v. enclose or enfold completely with or as if with a covering"
+},
+{
+"word": "handshake",
+"pos": "n",
+"zh": "n. 握手",
+"en": "n. grasping and shaking a person's hand (as to acknowledge an introduction or to agree on a contract)"
+},
+{
+"word": "revere",
+"pos": "vt",
+"zh": "vt. 崇敬, 敬畏, 尊敬",
+"en": "n. American silversmith remembered for his midnight ride (celebrated in a poem by Longfellow) to warn the colonists in L…"
+},
+{
+"word": "intonation",
+"pos": "n",
+"zh": "n. 朗诵, 语调, 唱 / [化] 声调",
+"en": "n. rise and fall of the voice pitch / n. singing by a soloist of the opening piece of plainsong / n. the act of singing …"
+},
+{
+"word": "potassium",
+"pos": "n",
+"zh": "n. 钾 / [化] 钾K",
+"en": "n. a light soft silver-white metallic element of the alkali metal group; oxidizes rapidly in air and reacts violently wi…"
+},
+{
+"word": "wiggle",
+"pos": "v/n",
+"zh": "v. 扭动着行进, 摆动 / n. 扭动, 摆动",
+"en": "n. the act of wiggling"
+},
+{
+"word": "overstate",
+"pos": "vt",
+"zh": "vt. 夸大的叙述, 夸张, 过分强调 / [经] 多计, 高估",
+"en": "v. to enlarge beyond bounds or the truth"
+},
+{
+"word": "cringe",
+"pos": "n/vi",
+"zh": "n. 畏缩, 奉承 / vi. 畏缩, 抖缩, 阿谀",
+"en": "v draw back, as with fear or pain / v show submission or fear"
+},
+{
+"word": "lore",
+"pos": "n",
+"zh": "n. 知识, 眼光",
+"en": "n. knowledge gained through tradition or anecdote"
+},
+{
+"word": "memorabilia",
+"pos": "n",
+"zh": "n. 值得纪念的事物, 大事记",
+"en": "n. a record of things worth remembering"
+},
+{
+"word": "gag",
+"pos": "n/vt/vi",
+"zh": "n. 箝口物, 箝制言论, 讨论终结 / vt. 阻塞, 压制言论自由, 使窒息, 使呕吐, 插科打浑, 欺骗 / vi. 窒息, 作呕, 欺骗, 插科打浑",
+"en": "n. restraint put into a person's mouth to prevent speaking or shouting / v. prevent from speaking out / v. tie a gag aro…"
+},
+{
+"word": "brigadier",
+"pos": "n",
+"zh": "n. 陆军准将, 准将",
+"en": "n. a general officer ranking below a major general"
+},
+{
+"word": "proclamation",
+"pos": "n",
+"zh": "n. 宣言, 公布, 布告, 公告 / [法] 宣告, 宣布, 布告",
+"en": "n. the formal act of proclaiming; giving public notice"
+},
+{
+"word": "bellow",
+"pos": "v",
+"zh": "v. 怒吼",
+"en": "n. a very loud utterance (like the sound of an animal) / n. United States author (born in Canada) whose novels influence…"
+},
+{
+"word": "ambivalent",
+"pos": "a",
+"zh": "a. 矛盾的, 模棱两可的 / [医] 矛盾情绪的",
+"en": "s. uncertain or unable to decide about what course to follow"
+},
+{
+"word": "caliber",
+"pos": "n",
+"zh": "n. 口径, 才干, 水准 / [医] 管径, 口径",
+"en": "n a degree or grade of excellence or worth / n diameter of a tube or gun barrel"
+},
+{
+"word": "humid",
+"pos": "a",
+"zh": "a. 潮湿的, 湿润的, 多湿气的",
+"en": "s. containing or characterized by a great deal of water vapor"
+},
+{
+"word": "trudge",
+"pos": "n/vi/vt",
+"zh": "n. 沉重的步伐, 长途跋涉 / vi. 步履艰难地走, 蹒跚地走 / vt. 跋涉",
+"en": "n. a long difficult walk"
+},
+{
+"word": "glean",
+"pos": "v",
+"zh": "v. 拾落穗, 收集",
+"en": "v gather, as of natural products"
+},
+{
+"word": "suggestive",
+"pos": "a",
+"zh": "a. 提示性的, 影射的, 暗示的 / [医] 暗示的",
+"en": "s. tending to suggest something improper or indecent"
+},
+{
+"word": "faucet",
+"pos": "n",
+"zh": "n. 龙头, 开关, 旋塞",
+"en": "n. a regulator for controlling the flow of a liquid from a reservoir"
+},
+{
+"word": "worldly",
+"pos": "a",
+"zh": "a. 世间的, 世俗的, 世上的",
+"en": "a. characteristic of or devoted to the temporal world as opposed to the spiritual world"
+},
+{
+"word": "stash",
+"pos": "vt/n",
+"zh": "vt. 藏起来 / n. 隐藏处, 隐藏物",
+"en": "n a secret store of valuables or money / v save up as for future use"
+},
+{
+"word": "parry",
+"pos": "vt/n",
+"zh": "vt. 挡开, 回避, 闪避的回答 / n. 挡开, 回避, 闪避的回答",
+"en": "n. (fencing) blocking a lunge or deflecting it with a circular motion of the sword / v. impede the movement of (an oppon…"
+},
+{
+"word": "shard",
+"pos": "n",
+"zh": "n. 陶瓷碎片, 鞘翅, 薄硬壳",
+"en": "n. a broken piece of a brittle artifact"
+},
+{
+"word": "fillet",
+"pos": "n/vt",
+"zh": "n. 头带, 带子 / vt. 用带缚",
+"en": "n. a boneless steak cut from the tenderloin of beef / n. a longitudinal slice or boned side of a fish / n. fastener cons…"
+},
+{
+"word": "arid",
+"pos": "a",
+"zh": "a. 干燥的, 不毛的",
+"en": "s. lacking sufficient water or rainfall / s. lacking vitality or spirit; lifeless"
+},
+{
+"word": "effluent",
+"pos": "a/n",
+"zh": "a. 流出的, 射出的 / n. 流出物, 由河湖等流出之水流",
+"en": "n. water mixed with waste matter / s. that is flowing outward"
+},
+{
+"word": "ratification",
+"pos": "n",
+"zh": "n. 批准, 承认, 认可 / [经] 追认, 批准",
+"en": "n. making something valid by formally ratifying or confirming it"
+},
+{
+"word": "jade",
+"pos": "n/a/v",
+"zh": "n. 玉, 翡翠, 老马 / a. 绿色的, 玉制的 / v. (使)疲倦",
+"en": "n. a semiprecious gemstone that takes a high polish; is usually green but sometimes whitish; consists of jadeite or neph…"
+},
+{
+"word": "maggot",
+"pos": "n",
+"zh": "n. 狂想, 空想, 蛆 / [医] 蛆",
+"en": "n. the larva of the housefly and blowfly commonly found in decaying organic matter"
+},
+{
+"word": "patriarch",
+"pos": "n",
+"zh": "n. 创办人, 家长, 元老, 教长, (天主教)教皇 / [法] 家长, 族长, 创始人",
+"en": "n. title for the heads of the Eastern Orthodox Churches (in Istanbul and Alexandria and Moscow and Jerusalem) / n. the m…"
+},
+{
+"word": "snarl",
+"pos": "vi/vt/n",
+"zh": "vi. 吼叫, 怒骂, 缠结 / vt. 咆哮着说, 搞乱, 使缠结 / n. 咆哮, 吼叫, 怒骂, 缠结, 混乱",
+"en": "n. a vicious angry growl / n. an angry vicious expression / v. make a snarling noise or move with a snarling noise / v. …"
+},
+{
+"word": "primate",
+"pos": "n",
+"zh": "n. 大主教, 灵长目动物 / [医] 灵长类",
+"en": "n. any placental mammal of the order Primates; has good eyesight and flexible hands and feet"
+},
+{
+"word": "loot",
+"pos": "n/v",
+"zh": "n. 赃物, 洗劫, 抢夺 / v. 洗劫, 抢夺",
+"en": "n. goods or money obtained illegally / v. take illegally; of intellectual property"
+},
+{
+"word": "caricature",
+"pos": "n/vt",
+"zh": "n. 讽刺画, 漫画, 漫画手法 / vt. 画成漫画讽刺",
+"en": "n. a representation of a person that is exaggerated for comic effect / v. represent in or produce a caricature of"
+},
+{
+"word": "cholera",
+"pos": "n",
+"zh": "n. 霍乱 / [医] 霍乱",
+"en": "n. an acute intestinal infection caused by ingestion of contaminated water or food"
+},
+{
+"word": "suffrage",
+"pos": "n",
+"zh": "n. 投票, 选举权, 参政权, 代祷 / [法] 选举权, 投票权, 参政权",
+"en": "n a legal right guaranteed by the 15th amendment to the US Constitution; guaranteed to women by the 19th amendment"
+},
+{
+"word": "evergreen",
+"pos": "n/a",
+"zh": "n. 常绿树, 常绿植物 / a. 常绿的",
+"en": "n. a plant having foliage that persists and remains green throughout the year / a. (of plants and shrubs) bearing foliag…"
+},
+{
+"word": "attire",
+"pos": "n/vt",
+"zh": "n. 服装, 盛装 / vt. 使穿衣, 打扮",
+"en": "n. clothing of a distinctive style or for a particular occasion"
+},
+{
+"word": "cleavage",
+"pos": "n",
+"zh": "n. 劈开, 裂片, 分裂 / [化] 解理",
+"en": "n. the state of being split or cleft / n. the breaking of a chemical bond in a molecule resulting in smaller molecules /…"
+},
+{
+"word": "gulp",
+"pos": "vt/vi/n",
+"zh": "vt. 吞, 大口大口地吸气, 吸收, 抑制 / vi. 吞咽 / n. 吞咽 / [计] 字节组",
+"en": "n. a large and hurried swallow / n. a spasmodic reflex of the throat made as if in swallowing / v. to swallow hurriedly …"
+},
+{
+"word": "combatant",
+"pos": "n",
+"zh": "n. 争斗者, 格斗者 / [法] 战斗者, 参战者",
+"en": "n. someone who fights (or is fighting) / s. engaging in or ready for combat"
+},
+{
+"word": "twirl",
+"pos": "vt/n",
+"zh": "vt. (使)快速转动, 捻弄 / n. 转动, 万能钥匙, 旋转的东西",
+"en": "v. turn in a twisting or spinning motion"
+},
+{
+"word": "splendor",
+"pos": "n",
+"zh": "n. 光辉, 壮丽, 显赫",
+"en": "n a quality that outshines the usual / n the quality of being magnificent or splendid or grand"
+},
+{
+"word": "blatant",
+"pos": "a",
+"zh": "a. 喧嚣的, 吵闹的, 俗丽的, 炫耀的",
+"en": "s. without any attempt at concealment; completely obvious / s. conspicuously and offensively loud; given to vehement out…"
+},
+{
+"word": "scrum",
+"pos": "n",
+"zh": "n. (橄榄球中)扭夺, 并列争球",
+"en": "n. (rugby) the method of beginning play in which the forwards of each team crouch side by side with locked arms; play st…"
+}
+]

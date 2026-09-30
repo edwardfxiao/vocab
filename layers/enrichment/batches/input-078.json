@@ -1,0 +1,602 @@
+[
+{
+"word": "custodian",
+"pos": "n",
+"zh": "n. 管理人, 保管人, 监护人 / [经] 保管人, 管理人",
+"en": "n. one having charge of buildings or grounds or animals"
+},
+{
+"word": "detest",
+"pos": "vt",
+"zh": "vt. 厌恶, 憎恨",
+"en": "v dislike intensely; feel antipathy or aversion towards"
+},
+{
+"word": "upkeep",
+"pos": "n",
+"zh": "n. 维持, 维修费 / [经] 维修费, 养护费, 保养",
+"en": "n activity involved in maintaining something in good working order / n the act of sustaining life by food or providing a…"
+},
+{
+"word": "everlasting",
+"pos": "a/n",
+"zh": "a. 永恒的, 持久的 / n. 上帝, 神",
+"en": "n. any of various plants of various genera of the family Compositae having flowers that can be dried without loss of for…"
+},
+{
+"word": "palatable",
+"pos": "a",
+"zh": "a. 美味的, 好吃的, 可口的 / [医] 适口的, 味美的",
+"en": "a. acceptable to the taste or mind"
+},
+{
+"word": "optic",
+"pos": "a/n",
+"zh": "a. 眼睛的, 视觉的, 光学的 / n. 镜片",
+"en": "n the organ of sight / a of or relating to or resembling the eye / a relating to or using sight"
+},
+{
+"word": "supposition",
+"pos": "n",
+"zh": "n. 想像, 推测, 推想 / [法] 假定, 推定, 推测",
+"en": "n. the cognitive process of supposing"
+},
+{
+"word": "tenacious",
+"pos": "a",
+"zh": "a. 紧握的, 固执的, 不屈不挠的, 黏着力强的 / [医] 坚韧的",
+"en": "a good at remembering / s stubbornly unyielding / s sticking together"
+},
+{
+"word": "pretentious",
+"pos": "a",
+"zh": "a. 自负的, 自命不凡的, 夸耀的",
+"en": "a. making claim to or creating an appearance of (often undeserved) importance or distinction"
+},
+{
+"word": "reproach",
+"pos": "n/vt",
+"zh": "n. 责备, 耻辱 / vt. 责备, 申斥, 使丢脸",
+"en": "n. a mild rebuke or criticism / n. disgrace or shame / v. express criticism towards"
+},
+{
+"word": "fallacy",
+"pos": "n",
+"zh": "n. 错误的观念(或信念), 谬见, 谬论 / [医] 错觉, 幻觉, 虚妄",
+"en": "n. a misconception resulting from incorrect reasoning"
+},
+{
+"word": "piecemeal",
+"pos": "adv/a/n",
+"zh": "adv. 一件一件地, 逐个地, 零碎地 / a. 一片一片的, 逐渐的, 零碎的 / n. 断片",
+"en": "r. a little bit at a time"
+},
+{
+"word": "pester",
+"pos": "vt",
+"zh": "vt. 不断打扰, 纠缠",
+"en": "v annoy persistently"
+},
+{
+"word": "escalator",
+"pos": "n",
+"zh": "n. 电动扶梯, 自动扶梯 / [机] 升降阶梯",
+"en": "n. a stairway whose steps move continuously on a circulating belt"
+},
+{
+"word": "discord",
+"pos": "n/vi",
+"zh": "n. 不调和, 不和 / vi. 不一致, (声音)刺耳",
+"en": "n. lack of agreement or harmony / n. disagreement among those expected to cooperate / n. strife resulting from a lack of…"
+},
+{
+"word": "exasperate",
+"pos": "vt/a",
+"zh": "vt. 使恼怒, 激怒, 恶化 / a. 糙面的, 恼怒的, 激怒的",
+"en": "v exasperate or irritate / v make furious / v make worse"
+},
+{
+"word": "barometer",
+"pos": "n",
+"zh": "n. 气压计 / [化] 气压计",
+"en": "n. an instrument that measures atmospheric pressure"
+},
+{
+"word": "gist",
+"pos": "n",
+"zh": "n. 要点, 要旨, 依据 / [法] 依据, 要旨, 要点",
+"en": "n the central meaning or theme of a speech or literary work / n the choicest or most essential or most vital part of som…"
+},
+{
+"word": "deft",
+"pos": "a",
+"zh": "a. 敏捷熟练的, 灵巧的",
+"en": "s. skillful in physical movements; especially of the hands"
+},
+{
+"word": "mercenary",
+"pos": "n/a",
+"zh": "n. 唯利是图者, 雇佣兵 / a. 为钱而工作的, 被雇的, 图利的",
+"en": "n. a person hired to fight for another country than their own / s. serving for wages in a foreign army"
+},
+{
+"word": "mannerism",
+"pos": "n",
+"zh": "n. 矫揉造作, 习性 / [医] 装相, 作态",
+"en": "n a behavioral attribute that is distinctive and peculiar to an individual / n a deliberate pretense or exaggerated disp…"
+},
+{
+"word": "expedient",
+"pos": "n/a",
+"zh": "n. 权宜之计 / a. 权宜的, 方便的, 有用的",
+"en": "n. a means to an end; not necessarily a principled or ethical one / a. serving to promote your interest / s. appropriate…"
+},
+{
+"word": "intelligible",
+"pos": "a",
+"zh": "a. 可理解的, 易理解的, 纯概念性的",
+"en": "a. well articulated or enunciated, and loud enough to be heard distinctly"
+},
+{
+"word": "incipient",
+"pos": "a",
+"zh": "a. 起初的, 发端的, 初期的 / [医] 初发的, 初期的",
+"en": "s. only partly in existence; imperfectly formed"
+},
+{
+"word": "sterilize",
+"pos": "vt",
+"zh": "vt. 使成不毛, 使绝育, 杀菌, 使不起作用 / [医] 灭菌, 消毒; 绝育",
+"en": "v. make free from bacteria / v. make infertile"
+},
+{
+"word": "maniac",
+"pos": "a/n",
+"zh": "a. 发狂的, 癫狂的, 疯狂的 / n. 狂人, 疯子",
+"en": "n. a person who has an obsession with or excessive enthusiasm for something"
+},
+{
+"word": "invincible",
+"pos": "a",
+"zh": "a. 不能征服的, 无敌的",
+"en": "s. incapable of being overcome or subdued"
+},
+{
+"word": "dingy",
+"pos": "a",
+"zh": "a. 暗淡的, 昏暗的, 邋遢的",
+"en": "s thickly covered with ingrained dirt or soot / s (of color) discolored by impurities; not bright and clear / s causing …"
+},
+{
+"word": "gaudy",
+"pos": "a/n",
+"zh": "a. 俗丽的, 华而不实的 / n. 盛大宴会",
+"en": "n. (Britain) a celebratory reunion feast or entertainment held a college"
+},
+{
+"word": "tranquility",
+"pos": "n",
+"zh": "n. 宁静",
+"en": "n a disposition free from stress or emotion / n an untroubled state; free from disturbances / n a state of peace and qui…"
+},
+{
+"word": "genial",
+"pos": "a",
+"zh": "a. 和蔼的, 亲切的, 友善的 / [医] 颏的",
+"en": "a. of or relating to the chin or median part of the lower jaw"
+},
+{
+"word": "secondhand",
+"pos": "a/adv",
+"zh": "a. 间接获得的, 旧的, 二手的, 做旧货买卖的 / adv. 间接地, 间接听来, 以旧货",
+"en": "s. derived from what is primary or original; not firsthand / s. previously used or owned by another / r. by indirect mea…"
+},
+{
+"word": "placard",
+"pos": "n/vt",
+"zh": "n. 公告, 布告, 小牌, 海报 / vt. 公布, 布告, 张帖, 贴海报于",
+"en": "v. post in a public place / v. publicize or announce by placards"
+},
+{
+"word": "negotiable",
+"pos": "a",
+"zh": "a. 可磋商的, 可转让的, 可通行的 / [经] 可流通的, 可转让的",
+"en": "s. capable of being passed or negotiated / s. able to be negotiated or arranged by compromise"
+},
+{
+"word": "elated",
+"pos": "a",
+"zh": "a. 兴高采烈的",
+"en": "a. exultantly proud and joyful; in high spirits / s. full of high-spirited delight"
+},
+{
+"word": "repent",
+"pos": "vi/vt/a",
+"zh": "vi. 后悔, 懊悔, 忏悔 / vt. 后悔 / a. 匍匐生根的",
+"en": "v. turn away from sin or do penitence / v. feel remorse for; feel sorry for; be contrite about"
+},
+{
+"word": "scalpel",
+"pos": "n/vt",
+"zh": "n. 解剖刀 / vt. 用解剖刀切开",
+"en": "n. a thin straight surgical knife used in dissection and surgery"
+},
+{
+"word": "circumference",
+"pos": "n",
+"zh": "n. 圆周, 周缘, 胸围 / [医] 周缘, 环状面",
+"en": "n. the size of something as given by the distance around it / n. the boundary line encompassing an area or object / n. t…"
+},
+{
+"word": "paraphernalia",
+"pos": "n",
+"zh": "n. 随身用具",
+"en": "n equipment consisting of miscellaneous articles needed for a particular operation or sport etc."
+},
+{
+"word": "obsess",
+"pos": "vt",
+"zh": "vt. 迷住, 使困扰",
+"en": "v. be preoccupied with something"
+},
+{
+"word": "holocaust",
+"pos": "n",
+"zh": "n. 大屠杀, 大火灾, 毁灭, 大规模烧杀",
+"en": "n. an act of mass destruction and loss of life (especially in war or by fire) / n. the mass murder of Jews under the Ger…"
+},
+{
+"word": "cola",
+"pos": "",
+"zh": "结肠, 冒号, 科朗 / [化] 可乐果; 可乐果属; 可乐果干子叶",
+"en": "n. large genus of African trees bearing kola nuts / n. carbonated drink flavored with extract from kola nuts (`dope' is …"
+},
+{
+"word": "potion",
+"pos": "n",
+"zh": "n. 饮剂, 饮料, 一次饮用量, 一服, 一剂 / [医] 饮剂",
+"en": "n. a medicinal or magical or poisonous beverage"
+},
+{
+"word": "caustic",
+"pos": "n/a",
+"zh": "n. 腐蚀剂 / a. 腐蚀性的",
+"en": "n. any chemical substance that burns or destroys living tissue / s. of a substance, especially a strong acid; capable of…"
+},
+{
+"word": "alphabetical",
+"pos": "a",
+"zh": "a. 依字母顺序的, 字母的",
+"en": "a relating to or expressed by a writing system that uses an alphabet / a arranged in order according to the alphabet"
+},
+{
+"word": "lenient",
+"pos": "a",
+"zh": "a. 宽大的, 温和的, 慈悲为怀的 / [法] 宽大的, 仁慈的",
+"en": "s. not strict / s. characterized by tolerance and mercy"
+},
+{
+"word": "appreciable",
+"pos": "a",
+"zh": "a. 可感知的, 可评估的",
+"en": "s. enough to be estimated or measured"
+},
+{
+"word": "engross",
+"pos": "vt",
+"zh": "vt. 用大字体书写, 独占(市场), 使全神贯注 / [法] 正式誊写, 以大字写, 囤积",
+"en": "v devote (oneself) fully to / v consume all of one's attention or time"
+},
+{
+"word": "perplex",
+"pos": "vt",
+"zh": "vt. 使困惑, 使复杂化, 使为难 / [法] 困惑, 使复杂化, 使纠缠不清",
+"en": "v. be a mystery or bewildering to"
+},
+{
+"word": "pivot",
+"pos": "n/a/vi/vt",
+"zh": "n. 枢轴, 支点, 旋转运动, 中枢, 关键人物 / a. 枢轴的, (如)在枢轴上转动的 / vi. 在枢轴上转动, 随着转移 / vt. 装枢轴于, 以...为中心旋转 / …",
+"en": "n. the person in a rank around whom the others wheel and maneuver / n. axis consisting of a short shaft that supports so…"
+},
+{
+"word": "sectional",
+"pos": "a/n",
+"zh": "a. 部分的, 部门的, 节的, 截面的 / n. 组合式家具",
+"en": "n. a piece of furniture made up of sections that can be arranged individually or together / a. relating to or based upon…"
+},
+{
+"word": "annihilate",
+"pos": "vt",
+"zh": "vt. 消灭, 废止",
+"en": "v kill in large numbers"
+},
+{
+"word": "indelible",
+"pos": "a",
+"zh": "a. 难以消除的, 不能拭除的, 难忘的",
+"en": "s. cannot be removed or erased"
+},
+{
+"word": "jeer",
+"pos": "n/v",
+"zh": "n. 嘲笑, 讥讽, 戏弄 / v. 嘲弄, 揶揄, 戏弄",
+"en": "n. showing your contempt by derision / v. laugh at with contempt and derision"
+},
+{
+"word": "gaunt",
+"pos": "a",
+"zh": "a. 瘦削的, 憔悴的, 荒凉的",
+"en": "s very thin especially from disease or hunger or cold"
+},
+{
+"word": "urchin",
+"pos": "n",
+"zh": "n. 淘气鬼, 顽童",
+"en": "n. poor and often mischievous city child"
+},
+{
+"word": "synchronize",
+"pos": "vt/vi",
+"zh": "vt. 使同步, 使合拍 / vi. 同时发生 / [计] 同步",
+"en": "v. make synchronous and adjust in time or manner / v. happen at the same time / v. make (motion picture sound) exactly s…"
+},
+{
+"word": "abbreviation",
+"pos": "n",
+"zh": "n. 缩写词, 缩写, 缩短, 节略",
+"en": "n. a shortened form of a word or phrase / n. shortening something by omitting parts of it"
+},
+{
+"word": "phobia",
+"pos": "n",
+"zh": "n. 恐怖病, 恐惧症, 惧怕, 憎恶 / [医] 恐怖[症]",
+"en": "n. an anxiety disorder characterized by extreme and irrational fear of simple things or social situations"
+},
+{
+"word": "barter",
+"pos": "n/v",
+"zh": "n. 物物交换, 实物交易 / v. 物物交换, 交换",
+"en": "n. an equal exchange / v. exchange goods without involving money"
+},
+{
+"word": "oscillate",
+"pos": "vi/vt",
+"zh": "vi. 振动, 彷徨, 犹豫 / vt. 使振动, 使动摇",
+"en": "v. move or swing from side to side regularly"
+},
+{
+"word": "chisel",
+"pos": "n/v",
+"zh": "n. 凿子 / v. 凿, 刻, 雕凿, 欺骗",
+"en": "n. an edge tool with a flat steel blade with a cutting edge / v. carve with a chisel"
+},
+{
+"word": "sieve",
+"pos": "n/vt",
+"zh": "n. 筛子, 滤网 / vt. 筛, 滤",
+"en": "n. a strainer for separating lumps from powdered material or grading particles / v. check and sort carefully / v. distin…"
+},
+{
+"word": "sightseeing",
+"pos": "n/a",
+"zh": "n. 观光, 游览 / a. 观光的, 游览的",
+"en": "n. going about to look at places of interest"
+},
+{
+"word": "steadfast",
+"pos": "a",
+"zh": "a. 坚定的, 踏实的, 固定的, 不变的",
+"en": "s. firm and dependable especially in loyalty"
+},
+{
+"word": "kangaroo",
+"pos": "n",
+"zh": "n. 袋鼠 / [医] 袋鼠(澳洲产)",
+"en": "n. any of several herbivorous leaping marsupials of Australia and New Guinea having large powerful hind legs and a long …"
+},
+{
+"word": "superstructure",
+"pos": "n",
+"zh": "n. 上部构造, 上层建筑 / [化] 超结构",
+"en": "n. structure consisting of the part of a ship above the main deck"
+},
+{
+"word": "defraud",
+"pos": "vt",
+"zh": "vt. 欺骗 / [经] 骗取, 诈取, 欺骗",
+"en": "v deprive of by deceit"
+},
+{
+"word": "prologue",
+"pos": "n/vt",
+"zh": "n. 开场白, 序言, 序幕 / vt. 为...作序, 加上...前言",
+"en": "n. an introduction to a play"
+},
+{
+"word": "decompose",
+"pos": "v",
+"zh": "v. 分解, (使)腐烂",
+"en": "v. separate (substances) into constituent elements or parts / v. break down"
+},
+{
+"word": "neurosis",
+"pos": "n",
+"zh": "n. 神经症, 神经机能病 / [医] 神经机能病, 神经[官能]症",
+"en": "n. a mental or personality disturbance not attributable to any known neurological or organic dysfunction"
+},
+{
+"word": "fickle",
+"pos": "a",
+"zh": "a. 变幻无常的, 浮燥的, 薄情的",
+"en": "s. marked by erratic changeableness in affections or attachments"
+},
+{
+"word": "westerner",
+"pos": "n",
+"zh": "n. 西方人, 西洋人",
+"en": "n. an inhabitant of a western area; especially of the U.S."
+},
+{
+"word": "badminton",
+"pos": "n",
+"zh": "n. 羽毛球运动",
+"en": "n. a game played on a court with light long-handled rackets used to volley a shuttlecock over a net"
+},
+{
+"word": "recline",
+"pos": "vt/vi",
+"zh": "vt. 使斜靠 / vi. 靠, 斜倚, 依赖",
+"en": "v. cause to recline"
+},
+{
+"word": "outdo",
+"pos": "vt",
+"zh": "vt. 超越, 胜过, 战胜",
+"en": "v. get the better of"
+},
+{
+"word": "mirage",
+"pos": "n",
+"zh": "n. 海市蜃楼, 幻景, 妄想",
+"en": "n. an optical illusion in which atmospheric refraction by a layer of hot air distorts or inverts reflections of distant …"
+},
+{
+"word": "constrict",
+"pos": "vt/vi",
+"zh": "vt. 压缩, 束紧, 使收缩 / vi. 收缩",
+"en": "v. become tight or as if tight"
+},
+{
+"word": "invert",
+"pos": "a/vt/n",
+"zh": "a. 转化的 / vt. 使反转, 使颠倒, 使转化 / n. 颠倒的事物 / [计] 倒置; 反转",
+"en": "v. make an inversion (in a musical composition) / v. reverse the position, order, relation, or condition of"
+},
+{
+"word": "downpour",
+"pos": "n",
+"zh": "n. 倾盆大雨；注下",
+"en": "n. a heavy rain"
+},
+{
+"word": "pseudonym",
+"pos": "n",
+"zh": "n. 假名, 笔名 / [法] 笔名, 假名",
+"en": "n. a fictitious name used when the person performs a particular social role"
+},
+{
+"word": "surcharge",
+"pos": "n/vt",
+"zh": "n. 装载过多, 超载, 追加罚款, 附加税 / vt. 使装载过多, 追加罚款, 收附加税",
+"en": "n. an additional charge (as for items previously omitted or as a penalty for failure to exercise common caution or commo…"
+},
+{
+"word": "nautical",
+"pos": "a",
+"zh": "a. 海上的, 航海的, 船员的",
+"en": "a. relating to or involving ships or shipping or navigation or seamen"
+},
+{
+"word": "slag",
+"pos": "n/vt/vi",
+"zh": "n. 熔渣, 矿渣, 无足轻重的人 / vt. 使变成熔渣 / vi. 变熔渣",
+"en": "n. the scum formed by oxidation at the surface of molten metals / v. convert into slag"
+},
+{
+"word": "yoke",
+"pos": "n/vt/vi",
+"zh": "n. 轭, 牛轭, 束缚 / vt. 给...上轭, 连接, 结合, 使匹配 / vi. 结合, 匹配 / [计] 磁轭; 磁头组; 偏转线圈",
+"en": "n. fabric comprising a fitted part at the top of a garment / n. an oppressive power / n. a pair of draft animals joined …"
+},
+{
+"word": "antecedent",
+"pos": "n/a",
+"zh": "n. 前情, 先行词 / a. 先前的, 先行的",
+"en": "n. a preceding occurrence or cause or event / n. anything that precedes something similar in time / n. the referent of a…"
+},
+{
+"word": "glossary",
+"pos": "n",
+"zh": "n. 专业词典, 术语集, 词表 / [计] 图文集",
+"en": "n. an alphabetical list of technical terms in some specialized field of knowledge; usually published as an appendix to a…"
+},
+{
+"word": "touchy",
+"pos": "a",
+"zh": "a. 易怒的, 难以取悦的, 过于敏感的",
+"en": "s quick to take offense / s difficult to handle; requiring great tact"
+},
+{
+"word": "goad",
+"pos": "n/vt",
+"zh": "n. 赶牛棒, 激励, 刺激 / vt. 用刺棒驱赶, 激励, 刺激, 唆使, 煽动",
+"en": "n. a verbalization that encourages you to attempt something / v. urge with or as if with a goad / v. stab or urge on as …"
+},
+{
+"word": "misrepresent",
+"pos": "vt",
+"zh": "vt. 不如实地叙述(或说明), 不称职地代表",
+"en": "v. represent falsely"
+},
+{
+"word": "deluge",
+"pos": "n/vt",
+"zh": "n. 大洪水, 泛滥 / vt. 使泛滥",
+"en": "v. fill quickly beyond capacity; as with a liquid"
+},
+{
+"word": "wager",
+"pos": "n/vt/vi",
+"zh": "n. 赌注, 赌博, 赌物 / vt. 下赌注, 向...保证 / vi. 打赌",
+"en": "n the act of gambling / n the money risked on a gamble / v stake on the outcome of an issue / v maintain with or as if w…"
+},
+{
+"word": "languid",
+"pos": "a",
+"zh": "a. 疲倦的, 无力的, 阴沉的",
+"en": "s lacking spirit or liveliness"
+},
+{
+"word": "amphibian",
+"pos": "a/n",
+"zh": "a. 两栖类的, 水陆两用的 / n. 两栖动物, 水旱两生植物, 水陆两用飞机",
+"en": "n. a flat-bottomed motor vehicle that can travel on land or water / n. an airplane designed to take off and land on wate…"
+},
+{
+"word": "kindle",
+"pos": "vt/vi",
+"zh": "vt. 点燃, 使着火, 引起, 照亮 / vi. 着火, 激动, 发亮",
+"en": "v. catch fire / v. cause to start burning"
+},
+{
+"word": "penicillin",
+"pos": "n",
+"zh": "n. 盘尼西林, 青霉素 / [化] 青霉素",
+"en": "n. any of various antibiotics obtained from Penicillium molds (or produced synthetically) and used in the treatment of v…"
+},
+{
+"word": "monsoon",
+"pos": "n",
+"zh": "n. 季风, 吹季风的季节, 雨季",
+"en": "n. a seasonal wind in southern Asia; blows from the southwest (bringing rain) in summer and from the northeast in winter…"
+},
+{
+"word": "exorbitant",
+"pos": "a",
+"zh": "a. 过度的, 过高的, 过分的",
+"en": "s. greatly exceeding bounds of reason or moderation"
+},
+{
+"word": "frugal",
+"pos": "a",
+"zh": "a. 节俭的, 朴素的",
+"en": "s avoiding waste"
+},
+{
+"word": "remittance",
+"pos": "n",
+"zh": "n. 汇款 / [经] 汇款, 寄款, 支付(金额)",
+"en": "n. a payment of money sent to a person in another place"
+}
+]

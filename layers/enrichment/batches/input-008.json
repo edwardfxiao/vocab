@@ -1,0 +1,602 @@
+[
+{
+"word": "benefit",
+"pos": "n/vt/vi",
+"zh": "n. 利益 / vt. 有益于 / vi. 受益",
+"en": "n. financial assistance in time of need / n. something that aids or promotes well-being / n. a performance to raise mone…"
+},
+{
+"word": "defense",
+"pos": "n",
+"zh": "n. 防卫, 防卫物 / [医] 防御",
+"en": "n. (military) military action or resources protecting a country against potential enemies / n. protection from harm / n.…"
+},
+{
+"word": "behavior",
+"pos": "n",
+"zh": "n. 行为, 举止 / [医] 行为",
+"en": "n. manner of acting or controlling yourself / n. the action or reaction of something (as a machine or substance) under s…"
+},
+{
+"word": "page",
+"pos": "n/vt/vi",
+"zh": "n. 页, 记录, 事件, 专栏, 男侍 / vt. 标明...的页数, 翻...的书页, 分页排版, 呼叫, 侍候 / vi. 翻书页, 侍侯 / [计] 页; 页面",
+"en": "n. one side of one leaf (of a book or magazine or newspaper or letter etc.) or the written or pictorial matter it contai…"
+},
+{
+"word": "anyone",
+"pos": "pron",
+"zh": "pron. 任何人",
+"en": "n. One taken at random rather than by selection; anybody. /    [Commonly written as two words.]"
+},
+{
+"word": "fine",
+"pos": "n/a/vt/vi/adv",
+"zh": "n. 罚款, 罚金, 晴天, 精细 / a. 好的, 晴朗的, 健康的, 细小的, 精细的 / vt. 罚款, 精炼, 澄清 / vi. 变清, 变细 / adv. 很好 / [计…",
+"en": "n. money extracted as a penalty / s. minutely precise especially in differences in meaning / s. thin in thickness or dia…"
+},
+{
+"word": "discuss",
+"pos": "vt",
+"zh": "vt. 讨论, 论述 / [医] 讨论, 辩论",
+"en": "n an athletic competition in which a disk-shaped object is thrown as far as possible / n a disk used in throwing competi…"
+},
+{
+"word": "myself",
+"pos": "pron",
+"zh": "pron. 我自己, 我亲自, 我独自",
+"en": "pron. I or me in person; -- used for emphasis, my own self or /    person; as I myself will do it; I have done it myself…"
+},
+{
+"word": "west",
+"pos": "n/a/adv",
+"zh": "n. 西方, 西部 / a. 西方的, 向西的 / adv. 向西, 自西方, 在西方",
+"en": "n. the countries of (originally) Europe and (now including) North America and South America / n. the cardinal compass po…"
+},
+{
+"word": "factor",
+"pos": "n",
+"zh": "n. 因素, 因数, 系数, 基因, 代理人 / [计] 因式",
+"en": "n. anything that contributes causally to a result / n. any of the numbers (or symbols) that form a product when multipli…"
+},
+{
+"word": "sport",
+"pos": "n/a/vi/vt",
+"zh": "n. 运动, 游戏, 娱乐, 消遣, 玩笑 / a. 运动的, 户外穿戴的 / vi. 游戏, 参加体育运动, 戏弄, 产生变种 / vt. 炫耀, 使产生变种",
+"en": "n. an active diversion requiring physical exertion and competition / n. the occupation of athletes who compete for pay /…"
+},
+{
+"word": "per",
+"pos": "prep",
+"zh": "prep. 每一, 通过, 经, 按照 / [经] 每, 按照",
+"en": "prep. Through; by means of; through the agency of; by; for; for /    each; as, per annum; per capita, by heads, or accor…"
+},
+{
+"word": "prove",
+"pos": "vt/vi",
+"zh": "vt. 证明, 查验, 检验, 勘探, 显示 / vi. 证明是",
+"en": "v. be shown or be found to be / v. establish the validity of something, as by an example, explanation or experiment / v.…"
+},
+{
+"word": "rest",
+"pos": "n/vi/vt",
+"zh": "n. 休息, 睡眠, 安息, 稍息, 静止, 支架, 休息处, 其余者, 剩余部分 / vi. 休息, 睡, 长眠, 安心, 静止, 停止, 安置, 依赖 / vt. 使休息, 使…",
+"en": "n. freedom from activity (work or strain or responsibility) / n. a state of inaction / n. euphemisms for death (based on…"
+},
+{
+"word": "argue",
+"pos": "vi/vt",
+"zh": "vi. 提出理由, 争论, 辩论 / vt. 主张, 辩论, 证明, 说服",
+"en": "v. present reasons and arguments / v. have an argument about something / v. give evidence of"
+},
+{
+"word": "charge",
+"pos": "n/vt/vi",
+"zh": "n. 指控, 费用, 冲锋, 电荷, 炸药, 主管, 被托管人, 命令 / vt. 控诉, 加罪于, 使充满, 使充电, 使承担 / vi. 冲锋, 要价, 收费",
+"en": "n. an impetuous rush toward someone or something / n. (criminal law) a pleading describing some wrong or offense / n. th…"
+},
+{
+"word": "performance",
+"pos": "n",
+"zh": "n. 施行, 工作情况, 成绩, 行为, 表现, 演出 / [电] 绩效, 性能",
+"en": "n. a dramatic or musical entertainment / n. the act of presenting a play or a piece of music or other entertainment / n.…"
+},
+{
+"word": "fight",
+"pos": "n/v",
+"zh": "n. 打架, 争吵, 斗志 / v. 对抗, 打架",
+"en": "n. the act of fighting; any contest or struggle / n. an intense verbal dispute / n. a boxing or wrestling match / v. fig…"
+},
+{
+"word": "pattern",
+"pos": "n/vt/vi",
+"zh": "n. 模范, 典型, 式样, 样品, 图案, 格调, 模式 / vt. 模仿, 仿造, 以图案装饰 / vi. 形成图案 / [计] 模式, 图案",
+"en": "n. a model considered worthy of imitation / v. form a pattern"
+},
+{
+"word": "throw",
+"pos": "vt/vi/n",
+"zh": "vt. 投, 掷, 抛, 发射, 摔下, 匆匆穿上(或脱下), 抛弃, 摆脱 / vi. 丢, 掷, 抛 / n. 投掷, 掷骰子, 冒险",
+"en": "n. the act of throwing (propelling something with a rapid movement of the arm and wrist) / n. a single chance or instanc…"
+},
+{
+"word": "present",
+"pos": "n/a/vt/vi",
+"zh": "n. 现在, 礼品, 瞄准 / a. 现在的, 出席的 / vt. 介绍, 引见, 赠送, 提出, 呈现, 上演 / vi. 举枪瞄准",
+"en": "n. the period of time that is happening now; any continuous stretch of time including the moment of speech / n. somethin…"
+},
+{
+"word": "top",
+"pos": "n/a/vt/vi",
+"zh": "n. 顶部, 顶端, 极点, 上面, 上部, 顶篷, 最高地位, 首位, 陀螺 / a. 最高的, 顶上的, 头等的 / vt. 盖, 加以顶, 高达, 超越 / vi. 结束, …",
+"en": "n. the upper part of anything / n. the highest or uppermost side of anything / n. the first half of an inning; while the…"
+},
+{
+"word": "design",
+"pos": "n/v",
+"zh": "n. 设计, 图样, 方案, 企图 / v. 设计, 计划",
+"en": "n. the act of working out the form of something (as by making a sketch or outline or plan) / n. an arrangement scheme / …"
+},
+{
+"word": "quickly",
+"pos": "adv",
+"zh": "adv. 很快地",
+"en": "r. with rapid movements"
+},
+{
+"word": "past",
+"pos": "n/a/prep",
+"zh": "n. 过去, 昔时, 往事, 早年经历, 过去时 / a. 过去的, 结束的, 卸任的, 过去时的 / prep. 越过, 晚于, 超越, 超出...的可能性(能力、范围等) / …",
+"en": "n. the time that has elapsed / n. a earlier period in someone's life (especially one that they have reason to keep secre…"
+},
+{
+"word": "goal",
+"pos": "n/vi",
+"zh": "n. 目标, 终点, 得分, 球门, 守门员 / vi. 攻门, 射门得分",
+"en": "n. the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achi…"
+},
+{
+"word": "royal",
+"pos": "n/a",
+"zh": "n. 王室, 皇族 / a. 王室的, 皇家的, 盛大的, 庄严的",
+"en": "n. a sail set next above the topgallant on a royal mast / n. stag with antlers of 12 or more branches / a. of or relatin…"
+},
+{
+"word": "author",
+"pos": "n",
+"zh": "n. 作家, 作家的著作, 创始人 / [法] 作者, 著作人, 本人",
+"en": "v. be the author of"
+},
+{
+"word": "enjoy",
+"pos": "vt",
+"zh": "vt. 享受, 喜欢, 欣赏 / [法] 享受, 享有, 获得某种利益",
+"en": "v. derive or receive pleasure from; get enjoyment from; take pleasure in / v. have benefit from / v. have for one's bene…"
+},
+{
+"word": "despite",
+"pos": "n/prep",
+"zh": "n. 轻视, 憎恨 / prep. 虽然, 尽管",
+"en": "n. contemptuous disregard"
+},
+{
+"word": "fill",
+"pos": "vt/vi/n",
+"zh": "vt. 装满, 填充, 弥漫, 供给, 满足, 供应 / vi. 充满, 变得沉重 / n. 满足, 装满, 充分, 填方 / vt. 填充 / vi. 填充 / [计] 填充",
+"en": "n. a quantity sufficient to satisfy / v. make full, also in a metaphorical sense / v. become full / v. assume, as of pos…"
+},
+{
+"word": "pressure",
+"pos": "n/vt",
+"zh": "n. 压, 榨, 按, 强制, 压力, 压迫, 压强 / vt. 迫使, 使增压, 密封",
+"en": "n. the force applied to a unit area of surface; measured in pascals (SI unit) or in dynes (cgs unit) / n. a force that c…"
+},
+{
+"word": "focus",
+"pos": "n/vi/vt",
+"zh": "n. 焦点, 焦距 / vi. 聚焦, 注视 / vt. 使聚焦, 调焦, 集中 / [计] 焦点",
+"en": "n. the concentration of attention or energy on something / n. maximum clarity or distinctness of an image rendered by an…"
+},
+{
+"word": "knowledge",
+"pos": "n",
+"zh": "n. 知识, 学问, 认识, 知道",
+"en": "n the psychological result of perception and learning and reasoning"
+},
+{
+"word": "drop",
+"pos": "n/vi/vt",
+"zh": "n. 滴, 微量, 落下, 空投 / vi. 放下, 掉下, 下降 / vt. 使滴下, 放下, 丢失, 遗漏 / [计] 投入, 投入点, 接入点, 分接点",
+"en": "n. a shape that is spherical and small / n. a small indefinite quantity (especially of a liquid) / n. a sudden sharp dec…"
+},
+{
+"word": "blood",
+"pos": "n/vt",
+"zh": "n. 血, 血统, 流血, 气质, 生命 / vt. 使出血, 用血涂",
+"en": "n. the fluid (red in vertebrates) that is pumped through the body by the heart and contains plasma, blood cells, and pla…"
+},
+{
+"word": "agency",
+"pos": "n",
+"zh": "n. 代理机构, 经销商, 中介 / [化] 办事处",
+"en": "n. an administrative unit of government / n. a business that serves other businesses / n. the state of being in action o…"
+},
+{
+"word": "basis",
+"pos": "n",
+"zh": "n. 基础, 主要成分 / [化] 基底",
+"en": "n. the fundamental assumptions from which something is begun or developed or calculated or explained / n. the most impor…"
+},
+{
+"word": "march",
+"pos": "n/vi/vt",
+"zh": "n. 三月, 进行, 行军, 步伐, 长途跋涉, 进行曲, 边界 / vi. 进军, 前进, 交界 / vt. 使行军, 使行进",
+"en": "n. the month following February and preceding April / n. the act of marching; walking with regular steps (especially in …"
+},
+{
+"word": "push",
+"pos": "n/vt/vi",
+"zh": "n. 推, 推动, 奋斗, 攻击, 进取心 / vt. 推, 推动, 使伸出, 推行, 逼迫, 增加 / vi. 推, 推进, 增加, 努力争取",
+"en": "n. the act of applying force in order to move something away / n. the force used in pushing / n. an effort to advance / …"
+},
+{
+"word": "color",
+"pos": "n/vt/vi",
+"zh": "n. 颜色, 面色, 颜料, 外貌 / vt. 把...涂上颜色, 粉饰, 使脸红, 歪曲 / vi. 变色",
+"en": "n. a visual attribute of things that results from the light they emit or transmit or reflect / n. interest and variety a…"
+},
+{
+"word": "size",
+"pos": "n/vt/vi/a",
+"zh": "n. 大小, 尺寸, 规模, 尺码, 能力, 浆料 / vt. 上浆, 依大小排列 / vi. 可比拟 / a. 一定大小的, 一定尺寸的",
+"en": "n. the physical magnitude of something (how big it is) / n. the property resulting from being one of a series of graduat…"
+},
+{
+"word": "introduce",
+"pos": "vt",
+"zh": "vt. 介绍, 引入, 采用, 输入 / [法] 引进, 输入, 介绍",
+"en": "v. cause to come to know personally / v. bring something new to an environment / v. bring in or establish in a new place…"
+},
+{
+"word": "recently",
+"pos": "adv",
+"zh": "adv. 最近",
+"en": "r. in the recent past"
+},
+{
+"word": "series",
+"pos": "n",
+"zh": "n. 串联, 序列, 连续, 系列, 丛书, 套, 级数, 组 / [计] 系列",
+"en": "n. similar things placed in order or happening one after another / n. a periodical that appears at scheduled times / n. …"
+},
+{
+"word": "garden",
+"pos": "n/vi/vt/a",
+"zh": "n. 花园, 果园, 菜园 / vi. 栽培花木 / vt. 造园 / a. 花园的, 普通的",
+"en": "n. a plot of ground where plants are cultivated / n. the flowers or vegetables or fruits or herbs that are cultivated in…"
+},
+{
+"word": "store",
+"pos": "n/vt/vi/a",
+"zh": "n. 商店, 贮藏, 仓库, 备用品, 存储器 / vt. 储存, 贮藏, 供给 / vi. 贮藏 / a. 贮藏的, 现成的 / [计] 存储器操作; 存储",
+"en": "n. a supply of something available for future use / v. keep or lay aside for future use / v. find a place for and put aw…"
+},
+{
+"word": "environment",
+"pos": "n",
+"zh": "n. 环境, 外界, 围绕 / [计] 环境",
+"en": "n. the totality of surrounding conditions / n. the area in which something exists or lives"
+},
+{
+"word": "sound",
+"pos": "n/a/adv/vi/vt",
+"zh": "n. 声音, 语音, 吵闹, 声调, 听力范围, 探条, 海峡 / a. 健全的, 可靠的, 合理的, 健康的, 彻底的, 资金充实的 / adv. 彻底地, 充分地 / vi. …",
+"en": "n. the particular auditory effect produced by a given cause / n. the subjective sensation of hearing something / n. mech…"
+},
+{
+"word": "note",
+"pos": "n/vt",
+"zh": "n. 笔记, 记录, 注解, 票据, 符号, 显要, 注重, 便笺, 照会 / vt. 记录, 注解, 注意",
+"en": "n. a brief written record / n. a short personal letter / n. a notation representing the pitch and duration of a musical …"
+},
+{
+"word": "success",
+"pos": "n",
+"zh": "n. 成功, 成就, 胜利",
+"en": "n. an event that accomplishes its intended purpose / n. an attainment that is successful / n. a state of prosperity or f…"
+},
+{
+"word": "enter",
+"pos": "vt/vi",
+"zh": "vt. 进入, 参加, 开始, 输入, 回车 / vi. 进去, 参加 / [计] 输入, 回车",
+"en": "v. to come or go into / v. become a participant; be involved in / v. come on stage"
+},
+{
+"word": "near",
+"pos": "a/adv/prep/v",
+"zh": "a. 近的, 近亲的, 近似的 / adv. 接近, 亲近 / prep. 靠近, 近似于 / v. 接近, 走近",
+"en": "a. not far distant in time or space or degree or circumstances / s. being on the left side / s. closely resembling the g…"
+},
+{
+"word": "analysis",
+"pos": "n",
+"zh": "n. 分析 / [计] 分析机; 分析员; 分析; 分析程序",
+"en": "n. an investigation of the component parts of a whole and their relations in making up the whole / n. the abstract separ…"
+},
+{
+"word": "arrive",
+"pos": "vi",
+"zh": "vi. 到达, 抵达",
+"en": "v. reach a destination; arrive by movement or progress / v. succeed in a big way; get to the top"
+},
+{
+"word": "natural",
+"pos": "n/a",
+"zh": "n. 白痴 / a. 自然的, 自然界的, 本能的, 天然的, 物质的, 正常的, 原始的, 自然数的",
+"en": "n. someone regarded as certain to succeed / n. a notation cancelling a previous sharp or flat / n. (craps) a first roll …"
+},
+{
+"word": "ensure",
+"pos": "vt",
+"zh": "vt. 确定, 保证, 担保, 保护 / [经] 确保, 确定",
+"en": "v make certain of / v be careful or certain to do something; make certain of something"
+},
+{
+"word": "region",
+"pos": "n",
+"zh": "n. 区域, 地带, 地区, 领域, 范围, 区 / [计] 区, 区域",
+"en": "n. the extended spatial location of something / n. a large indefinite location on the surface of the Earth / n. the appr…"
+},
+{
+"word": "list",
+"pos": "n/vt/vi",
+"zh": "n. 目录, 名单, 明细表, 布条, 条纹, 列表, 序列, 数据清单 / vt. 列出, 列于表上, 记入名单内, 装布条 / vi. 列于表上 / [计] 列表, 序列, 数…",
+"en": "n. a database containing an ordered array of items (names or topics) / v. give or make a list of; name individually; giv…"
+},
+{
+"word": "race",
+"pos": "n/vi/vt",
+"zh": "n. 种族, 人种, 赛跑, 比赛, 急流, 人类, 同道, 姜根 / vi. 赛跑, 竞赛, 疾走 / vt. 与...赛跑, 使疾走, 使猛转 / [计] 竞争; 追赶; 欧州…",
+"en": "n. any competition / n. a contest of speed / n. people who are believed to belong to the same genetic stock / v. compete…"
+},
+{
+"word": "concern",
+"pos": "n/vt",
+"zh": "n. 关心, 忧虑 / vt. 与...有关, 使担心, 使挂念",
+"en": "n. something that interests you because it is important or affects you / n. an anxious feeling / n. a feeling of sympath…"
+},
+{
+"word": "statement",
+"pos": "n",
+"zh": "n. 陈述, 指令, 声明 / [计] 程序语句; 语句",
+"en": "n. a message that is stated or declared; a communication (oral or written) setting forth particulars or facts etc / n. (…"
+},
+{
+"word": "relation",
+"pos": "n",
+"zh": "n. 关系, 联系, 叙述, 故事, 家属, 亲戚 / [计] 关系",
+"en": "n. an abstraction belonging to or characteristic of two entities or parts together / n. an act of narration / n. (usuall…"
+},
+{
+"word": "significant",
+"pos": "a",
+"zh": "a. 重要的, 有效的, 有含义的, 暗示的, 值得注意的",
+"en": "a. important in effect or meaning / s. fairly large / a. too closely correlated to be attributed to chance and therefore…"
+},
+{
+"word": "hot",
+"pos": "a/adv",
+"zh": "a. 热的, 热心的, 辣的, 热情的, 激动的, 猛烈的, 紧迫的 / adv. 热, 紧迫地",
+"en": "a. used of physical heat; having a high or higher than desirable temperature or giving off heat or feeling or causing a …"
+},
+{
+"word": "sea",
+"pos": "n",
+"zh": "n. 海, 海洋, 海浪, 大量 / [法] 海, 海洋",
+"en": "n. a division of an ocean or a large body of salt water partially enclosed by land / n. turbulent water with swells of c…"
+},
+{
+"word": "principle",
+"pos": "n",
+"zh": "n. 原则, 原理, 主义 / [化] 原理",
+"en": "n. a basic generalization that is accepted as true and that can be used as a basis for reasoning or conduct / n. a rule …"
+},
+{
+"word": "demand",
+"pos": "n/v",
+"zh": "n. 要求, 需求, 需要 / v. 要求, 查询",
+"en": "n. an urgent or peremptory request / n. the ability and desire to purchase goods and services / n. the act of demanding …"
+},
+{
+"word": "labour",
+"pos": "n/vi/vt",
+"zh": "n. 劳动, 努力, 工作, 劳工, 分娩 / vi. 劳动, 努力, 苦干 / vt. 详细分析, 使厌烦",
+"en": "n a social class comprising those who do manual labor or work for wages / n concluding state of pregnancy; from the onse…"
+},
+{
+"word": "response",
+"pos": "n",
+"zh": "n. 反应, 回答, 响应 / [计] 应答",
+"en": "n. a result / n. a phrase recited or sung by the congregation following a versicle by the priest or minister / n. the ma…"
+},
+{
+"word": "dead",
+"pos": "a/n/adv",
+"zh": "a. 死的, 不活泼的, 麻木的, 熄灭的 / n. 死者 / adv. 完全地, 直接地",
+"en": "n. people who are no longer living / n. a time when coldness (or some other quality associated with death) is intense / …"
+},
+{
+"word": "refer",
+"pos": "vt/vi",
+"zh": "vt. 提交, 归诸于, 把...提交, 使求助于 / vi. 提到, 涉及, 查阅, 查询, 咨询",
+"en": "v. be relevant to / v. think of, regard, or classify under a subsuming principle or with a general group or in relation …"
+},
+{
+"word": "capital",
+"pos": "n/a",
+"zh": "n. 首都, 大写字母, 资本 / a. 首都的, 重要的",
+"en": "n. assets available for use in the production of further assets / n. wealth in the form of money or property owned by a …"
+},
+{
+"word": "decade",
+"pos": "n",
+"zh": "n. 十年, 十",
+"en": "n. a period of 10 years"
+},
+{
+"word": "round",
+"pos": "n/a/prep/adv/vt/vi",
+"zh": "n. 圆, 圆形物, 巡回, 循环, 一轮, 一回合, 一局, 范围, 轮唱 / a. 圆的, 球形的, 丰满的, 肥胖的, 完全的, 大概的, 完美的, 圆润的 / prep. …",
+"en": "n. a charge of ammunition for a single shot / n. (often plural) a series of professional calls (usually in a set order) …"
+},
+{
+"word": "article",
+"pos": "n",
+"zh": "n. 文章, 冠词, 物品, 物件, 条款, 契约 / [计] 信件",
+"en": "n. nonfictional prose forming an independent part of a publication / n. one of a class of artifacts / n. a separate sect…"
+},
+{
+"word": "hotel",
+"pos": "n",
+"zh": "n. 旅馆, 客栈",
+"en": "n. a building where travelers can pay for lodging and meals and other services"
+},
+{
+"word": "shoot",
+"pos": "n/vt/vi",
+"zh": "n. 射击, 狩猎, 芽, 射伤, 发射, 发芽, 急流, 推力, 摄影, 急送, 滑运道, 浪费 / vt. 射击, 射中, 损毁, 拍摄, 喷出, 投射, 挥出, 飞速行进, …",
+"en": "n. a new branch / n. the act of shooting at targets / v. hit with a missile from a weapon / v. kill by firing a missile"
+},
+{
+"word": "above",
+"pos": "prep/adv/a",
+"zh": "prep. 在上方, 超出 / adv. 在上面 / a. 上述的, 上面的",
+"en": "n. an earlier section of a written text / s. appearing earlier in the same text / r. at an earlier place / r. in or to a…"
+},
+{
+"word": "east",
+"pos": "n/a/adv",
+"zh": "n. 东方, 东 / a. 东方的, 向东的 / adv. 向东方, 朝东方",
+"en": "n. the cardinal compass point that is at 90 degrees / n. the countries of Asia / n. the region of the United States lyin…"
+},
+{
+"word": "forward",
+"pos": "a/vt/adv",
+"zh": "a. 向前的, 早的, 迅速的, 在前的, 进步的 / vt. 促进...的生长, 转寄, 运送 / adv. 向前地 / [计] 前推, 转信",
+"en": "n. the person who plays the position of forward in certain games, such as basketball, soccer, or hockey / n. a position …"
+},
+{
+"word": "save",
+"pos": "n/vt/vi/prep",
+"zh": "n. 救球 / vt. 解救, 挽救, 储蓄, 保存, 节省, 保留 / vi. 挽救, 节省, 救球 / prep. 除...之外 / [计] 保存",
+"en": "n. (sports) the act of preventing the opposition from scoring / v. to keep up and reserve for personal or special use / …"
+},
+{
+"word": "village",
+"pos": "n/a",
+"zh": "n. 村庄 / a. 乡村的, 村庄的",
+"en": "n. a community of people smaller than a town / n. a settlement smaller than a town"
+},
+{
+"word": "artist",
+"pos": "n",
+"zh": "n. 艺术家, 画家",
+"en": "n. a person whose creative work shows sensitivity and imagination"
+},
+{
+"word": "station",
+"pos": "n/vt",
+"zh": "n. 车站, 站, 局, 驻地, 位置, 身分, 地位 / vt. 安置, 配置, 驻扎 / [计] 站",
+"en": "n. a facility equipped with special equipment and personnel for a particular purpose / n. (nautical) the location to whi…"
+},
+{
+"word": "nine",
+"pos": "num",
+"zh": "num. 九, 九个",
+"en": "n. the cardinal number that is the sum of eight and one / s. denoting a quantity consisting of one more than eight and o…"
+},
+{
+"word": "individual",
+"pos": "n/a",
+"zh": "n. 人, 个人, 个体 / a. 个别的, 个人的, 独特的",
+"en": "n. a single organism / a. being or characteristic of a single thing or person / s. separate and distinct from others of …"
+},
+{
+"word": "scene",
+"pos": "n",
+"zh": "n. 场, 情景, 镜头, 发生地点, 道具, 布景, 景色 / [化] 现场",
+"en": "n. the place where some action occurs / n. an incident (real or imaginary) / n. a consecutive series of pictures that co…"
+},
+{
+"word": "attempt",
+"pos": "n/vt",
+"zh": "n. 尝试, 企图 / vt. 尝试, 企图",
+"en": "n. earnest and conscientious activity intended to do or accomplish something"
+},
+{
+"word": "stock",
+"pos": "n/a/vt/vi",
+"zh": "n. 树干, 祖先, 血统, 原料, 备料, 库存, 牲畜, 股票, 股份, 保留剧目 / a. 存货的, 常备的, 平凡的, 普通的, 股票的, 保留剧目的, 繁殖用的 / vt…",
+"en": "n. the capital raised by a corporation through the issue of shares entitling holders to an ownership interest (equity) /…"
+},
+{
+"word": "career",
+"pos": "n",
+"zh": "n. 事业, 生涯, 成功 / [法] 职业, 专业, 履历",
+"en": "n. the particular occupation for which you are trained / n. the general progression of your working or professional life…"
+},
+{
+"word": "feature",
+"pos": "n/vt/vi",
+"zh": "n. 面孔的一部分(如眼、口等), 特征, 容貌, 特色, 特写 / vt. 是...的特色, 特写, 放映 / vi. 起重要作用 / [计] 特性",
+"en": "n. a prominent attribute or aspect of something / n. the characteristic parts of a person's face: eyes and nose and mout…"
+},
+{
+"word": "association",
+"pos": "n",
+"zh": "n. 协会 / [计] 关联",
+"en": "n. a formal organization of people or groups of people / n. the act of consorting with or joining with others / n. the s…"
+},
+{
+"word": "income",
+"pos": "n",
+"zh": "n. 收入, 收益, 流入 / [经] 收益",
+"en": "n. the financial gain (earned or unearned) accruing over a given period of time"
+},
+{
+"word": "treatment",
+"pos": "n",
+"zh": "n. 治疗, 待遇, 处理 / [医] 疗法, 治疗; 处理",
+"en": "n. care provided to improve a situation (especially medical procedures or applications that are intended to relieve illn…"
+},
+{
+"word": "beyond",
+"pos": "prep/adv/n",
+"zh": "prep. 超过, 在那一边, 迟于 / adv. 在远处 / n. 更远处",
+"en": "r. farther along in space or time or degree / r. on the farther side from the observer / r. in addition"
+},
+{
+"word": "happy",
+"pos": "a",
+"zh": "a. 快乐的, 幸福的, 愉快的, 恰当的",
+"en": "a. enjoying or showing or marked by joy or pleasure / s. well expressed and to the point"
+},
+{
+"word": "relate",
+"pos": "vt/vi",
+"zh": "vt. 讲, 叙述, 使互相关联 / vi. 有关, 符合, 相处得好",
+"en": "v. give an account of / v. be in a relationship with / v. have or establish a relationship to"
+},
+{
+"word": "exactly",
+"pos": "adv",
+"zh": "adv. 确切地, 精确地, 恰好, 完全地, 确实, 恰恰正是, 确实如此",
+"en": "r indicating exactness or preciseness / r just as it should be / r in a precise manner"
+},
+{
+"word": "cup",
+"pos": "n/vt",
+"zh": "n. 杯子, 茶杯, 优胜杯 / vt. 使成杯状, 为...拔火罐",
+"en": "n. a small open container usually used for drinking; usually has a handle / n. the quantity a cup will hold / n. any cup…"
+}
+]

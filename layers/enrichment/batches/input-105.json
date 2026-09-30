@@ -1,0 +1,602 @@
+[
+{
+"word": "bequeath",
+"pos": "vt",
+"zh": "vt. 遗赠, 遗留 / [法] 遗赠, 遗留...给",
+"en": "v. leave or give by will after one's death"
+},
+{
+"word": "epitome",
+"pos": "n",
+"zh": "n. 概要, 缩影, 象征",
+"en": "n. a brief abstract (as of an article or book)"
+},
+{
+"word": "apportion",
+"pos": "vt",
+"zh": "vt. 分配, 分摊, 分派 / [法] 分派, 分摊, 分配",
+"en": "v distribute according to a plan or set apart for a special purpose / v give out as one's portion or share"
+},
+{
+"word": "husk",
+"pos": "n/vt",
+"zh": "n. 外壳, 皮, 无价值之物 / vt. 剥...的壳, 削皮",
+"en": "n. outer membranous covering of some fruits or seeds / v. remove the husks from"
+},
+{
+"word": "peruse",
+"pos": "vt",
+"zh": "vt. 熟读, 精读, 阅读, 仔细研究",
+"en": "v. examine or consider with attention and in detail"
+},
+{
+"word": "salutary",
+"pos": "a",
+"zh": "a. 有益的, 有用的, 有益健康的 / [医] 适于健康的",
+"en": "s tending to promote physical well-being; beneficial to health"
+},
+{
+"word": "insecticide",
+"pos": "n",
+"zh": "n. 杀虫剂 / [化] 杀虫剂",
+"en": "n. a chemical used to kill insects"
+},
+{
+"word": "forebear",
+"pos": "n",
+"zh": "n. 祖先, 祖宗",
+"en": "n. a person from whom you are descended"
+},
+{
+"word": "abet",
+"pos": "vt",
+"zh": "vt. 教唆, 煽动, 怂恿, 帮助, 支持",
+"en": "v. assist or encourage, usually in some wrongdoing"
+},
+{
+"word": "balm",
+"pos": "n",
+"zh": "n. 镇痛软膏, 香膏 / [化] 香树膏; 香脂",
+"en": "n. any of various aromatic resinous substances used for healing and soothing"
+},
+{
+"word": "penultimate",
+"pos": "a",
+"zh": "a. 倒数第二的",
+"en": "s. next to the last"
+},
+{
+"word": "inkling",
+"pos": "n",
+"zh": "n. 暗示, 微微觉得",
+"en": "n. a slight suggestion or vague understanding"
+},
+{
+"word": "extol",
+"pos": "vt",
+"zh": "vt. 颂扬, 称赞, 吹捧",
+"en": "v praise, glorify, or honor"
+},
+{
+"word": "clamour",
+"pos": "n/v",
+"zh": "n. 喧闹 / v. 大声地要求",
+"en": "n loud and persistent outcry from many people / v utter or proclaim insistently and noisily / v make loud demands"
+},
+{
+"word": "flit",
+"pos": "n/vi",
+"zh": "n. 掠过, 迁徙 / vi. 掠过, 迁徙",
+"en": "n. a sudden quick movement / n. a secret move (to avoid paying debts) / v. move along rapidly and lightly; skim or dart"
+},
+{
+"word": "reciprocate",
+"pos": "vt/vi",
+"zh": "vt. 回报, 互换, 交换, 报答, 使往复运动 / vi. 往复运动, 回报, 互换, 酬答",
+"en": "v. act, feel, or give mutually or in return / v. alternate the direction of motion of"
+},
+{
+"word": "brawl",
+"pos": "n/vi",
+"zh": "n. 争吵 / vi. 争吵, 哗哗地流水",
+"en": "n. a noisy fight in a crowd / v. to quarrel noisily, angrily or disruptively"
+},
+{
+"word": "cryptic",
+"pos": "a",
+"zh": "a. 神秘的, 含义模糊的, 隐藏的 / [医] 隐蔽的",
+"en": "s. of an obscure nature / s. having a puzzling terseness"
+},
+{
+"word": "somatic",
+"pos": "a",
+"zh": "a. 身体的, 肉体的, 壁体的 / [医] 躯体的, 体壁的",
+"en": "s affecting or characteristic of the body as opposed to the mind or spirit"
+},
+{
+"word": "hospitable",
+"pos": "a",
+"zh": "a. 好客的, 招待周到的",
+"en": "a. favorable to life and growth / a. disposed to treat guests and strangers with cordiality and generosity / s. having a…"
+},
+{
+"word": "unmoved",
+"pos": "a",
+"zh": "a. 没有动过的, 不动摇的, 坚决的, 冷静的",
+"en": "a. emotionally unmoved"
+},
+{
+"word": "supple",
+"pos": "a/vt",
+"zh": "a. 柔软的, 逢迎的, 顺从的 / vt. 使柔软, 使顺从",
+"en": "v. make pliant and flexible"
+},
+{
+"word": "deceit",
+"pos": "n",
+"zh": "n. 欺骗, 谎言 / [经] 诈骗, 欺骗",
+"en": "n the quality of being fraudulent / n a misleading falsehood / n the act of deceiving"
+},
+{
+"word": "crafty",
+"pos": "a",
+"zh": "a. 狡诈的, 诡计多端的, 巧妙的",
+"en": "s. marked by skill in deception"
+},
+{
+"word": "conciliatory",
+"pos": "a",
+"zh": "a. 安抚的, 和好的, 调和的",
+"en": "a. intended to placate"
+},
+{
+"word": "subterranean",
+"pos": "a/n",
+"zh": "a. 地下的, 秘密的 / n. 地下室, 地下工作者",
+"en": "s. being or operating under the surface of the earth / s. lying beyond what is openly revealed or avowed (especially bei…"
+},
+{
+"word": "enunciate",
+"pos": "vt/vi",
+"zh": "vt. 明确地叙述, 表明 / vi. 发音",
+"en": "v speak, pronounce, or utter in a certain way / v express or state clearly"
+},
+{
+"word": "virulent",
+"pos": "a",
+"zh": "a. 剧毒的, 致命的, 刻毒的, 恶毒的, 恶性的, 有病毒的, 过强的 / [医] 有毒力的, 毒性的",
+"en": "a. infectious; having the ability to cause disease"
+},
+{
+"word": "reek",
+"pos": "n/vi/vt",
+"zh": "n. 烟, 水蒸气, 臭气散发 / vi. 冒烟, 发臭气, 散发 / vt. 用烟熏, 散发",
+"en": "v. smell badly and offensively / v. be wet with sweat or blood, as of one's face / v. give off smoke, fumes, warm vapour…"
+},
+{
+"word": "meld",
+"pos": "v",
+"zh": "v. 混合, 合并",
+"en": "v. announce for a score; of cards in a card game"
+},
+{
+"word": "copious",
+"pos": "a",
+"zh": "a. 很多的, 丰富的, 内容丰富的",
+"en": "s. large in number or quantity (especially of discourse)"
+},
+{
+"word": "retainer",
+"pos": "n",
+"zh": "n. 家臣, 侍从, 保持者 / [化] 保持器; 定位器; 隔栅; 隔环; 护圈; 止动器; 止动装置",
+"en": "n. a fee charged in advance to retain the services of someone / n. a dental appliance that holds teeth (or a prosthesis)…"
+},
+{
+"word": "forsake",
+"pos": "vt",
+"zh": "vt. 放弃, 断念, 抛弃 / [法] 遗弃, 抛弃, 摒绝",
+"en": "v leave someone who needs or counts on you; leave in the lurch"
+},
+{
+"word": "accede",
+"pos": "vi",
+"zh": "vi. 同意, 正式加入, 就任, 继任",
+"en": "v. take on duties or office"
+},
+{
+"word": "seethe",
+"pos": "vi/vt/n",
+"zh": "vi. 冒泡, 沸腾 / vt. 使煮沸, 使浸透 / n. 翻腾",
+"en": "v. be in an agitated emotional state / v. foam as if boiling / v. boil vigorously"
+},
+{
+"word": "embroil",
+"pos": "vt",
+"zh": "vt. 使卷入, 牵连",
+"en": "v. force into some kind of situation, condition, or course of action"
+},
+{
+"word": "playmate",
+"pos": "n",
+"zh": "n. 玩伴, 游伴",
+"en": "n. a companion at play"
+},
+{
+"word": "stereotyped",
+"pos": "a",
+"zh": "a. 用铅版印的, 老一套的, 套用老调的, 千篇一律的, 已成陈规的",
+"en": "s. lacking spontaneity or originality or individuality"
+},
+{
+"word": "consummate",
+"pos": "vt/a",
+"zh": "vt. 完成, 使完美 / a. 无上的, 至上的, 完美的",
+"en": "v. fulfill sexually / v. make perfect; bring to perfection / s. having or revealing supreme mastery or skill"
+},
+{
+"word": "obviate",
+"pos": "vt",
+"zh": "vt. 除去, 排除, 使成为不必要, 避免",
+"en": "v. do away with"
+},
+{
+"word": "dabble",
+"pos": "vi/vt",
+"zh": "vi. 玩水, 拨弄, 涉猎 / vt. 溅湿",
+"en": "v. dip a foot or hand briefly into a liquid / v. play in or as if in water, as of small children / v. work with in an am…"
+},
+{
+"word": "sear",
+"pos": "a/vt/vi",
+"zh": "a. 枯萎的, 凋谢的 / vt. 烤焦, 使枯萎 / vi. 凋谢, 干枯",
+"en": "v. make very hot and dry"
+},
+{
+"word": "accolade",
+"pos": "n",
+"zh": "n. 荣誉, 赞美, 骑士爵位的授予礼, 连谱号",
+"en": "n a tangible symbol signifying approval or distinction"
+},
+{
+"word": "absolve",
+"pos": "vt",
+"zh": "vt. 宣告...无罪, 赦免, 免除 / [经] 免偿(债务), 解除",
+"en": "v. let off the hook"
+},
+{
+"word": "nomad",
+"pos": "n/a",
+"zh": "n. 游牧部落一员, 流浪者 / a. 游牧的, 流浪的",
+"en": "n. a member of a people who have no permanent home but move about according to the seasons"
+},
+{
+"word": "stocky",
+"pos": "a",
+"zh": "a. 矮胖的, 健壮结实的",
+"en": "s having a short and solid form or stature"
+},
+{
+"word": "bohemian",
+"pos": "n/a",
+"zh": "n. 波希米亚人, 波希米亚语, 放浪者 / a. 波希米亚人的, 放浪的, 波希米亚语的",
+"en": "n. a native or inhabitant of Bohemia in the Czech Republic / n. a nonconformist writer or artist who lives an unconventi…"
+},
+{
+"word": "spurt",
+"pos": "n/vt/vi",
+"zh": "n. 喷射, 冲刺 / vt. 喷射 / vi. 喷出, 迸发, 冲刺",
+"en": "v. gush forth in a sudden stream or jet"
+},
+{
+"word": "skunk",
+"pos": "n/vt",
+"zh": "n. 臭鼬, 臭鼬皮, 讨厌鬼 / vt. 使惨败, 欺骗",
+"en": "n. American musteline mammal typically ejecting an intensely malodorous fluid when startled; in some classifications put…"
+},
+{
+"word": "archipelago",
+"pos": "n",
+"zh": "n. 群岛, 多岛屿的海",
+"en": "n. a group of many islands in a large body of water"
+},
+{
+"word": "connoisseur",
+"pos": "n",
+"zh": "n. 鉴赏家, 鉴定家, 内行",
+"en": "n. an expert able to appreciate a field; especially in the fine arts"
+},
+{
+"word": "tingle",
+"pos": "vi/vt/n",
+"zh": "vi. 激动, 感到刺痛, 抖动 / vt. 使感刺痛 / n. 刺痛, 震颤, 耳鸣",
+"en": "v. cause a stinging or tingling sensation"
+},
+{
+"word": "genealogy",
+"pos": "n",
+"zh": "n. 系谱, 宗谱, 家系, 世系, 血统 / [医] 家系, 血统, 家系学",
+"en": "n. successive generations of kin / n. the study or investigation of ancestry and family history"
+},
+{
+"word": "emblazon",
+"pos": "vt",
+"zh": "vt. 用纹章装饰, 盛饰, 颂扬",
+"en": "v. decorate with heraldic arms"
+},
+{
+"word": "anathema",
+"pos": "n",
+"zh": "n. 令人厌恶的人, 强烈的遣责, 诅咒, 咒逐, 革出教门",
+"en": "n. a detested person / n. a formal ecclesiastical curse accompanied by excommunication"
+},
+{
+"word": "soot",
+"pos": "n/vt",
+"zh": "n. 煤烟, 炭黑色 / vt. 熏以煤烟",
+"en": "v. coat with soot"
+},
+{
+"word": "accordion",
+"pos": "n/a",
+"zh": "n. 手风琴 / a. 可折叠的",
+"en": "n. a portable box-shaped free-reed instrument; the reeds are made to vibrate by air from the bellows controlled by the p…"
+},
+{
+"word": "resourceful",
+"pos": "a",
+"zh": "a. 资源丰富的, 策略的, 机智的 / [法] 资源丰富的, 善于遂机应变的, 足智多谋的",
+"en": "s. having inner resources; adroit or imaginative"
+},
+{
+"word": "extant",
+"pos": "a",
+"zh": "a. 现存的, 未毁的",
+"en": "a. still in existence; not extinct or destroyed or lost"
+},
+{
+"word": "sash",
+"pos": "n/vt",
+"zh": "n. 框格, 肩带, 腰带 / vt. 装以窗框, 系上腰带",
+"en": "n. a framework that holds the panes of a window in the window frame"
+},
+{
+"word": "contravene",
+"pos": "vt",
+"zh": "vt. 违反, 触犯, 否认, 反驳, 抵触, 与...冲突 / [法] 触法, 违反, 否定",
+"en": "v go against, as of rules and laws / v deny the truth of"
+},
+{
+"word": "amicable",
+"pos": "a",
+"zh": "a. 友善的, 友好的 / [法] 友好的, 和睦的, 温和的",
+"en": "a. characterized by friendship and good will"
+},
+{
+"word": "stimulant",
+"pos": "a/n",
+"zh": "a. 兴奋性的, 激励的, 鼓舞的 / n. 兴奋剂, 酒精饮料",
+"en": "n. a drug that temporarily quickens some vital process / s. that stimulates"
+},
+{
+"word": "tenacity",
+"pos": "n",
+"zh": "n. 固执, 不屈不挠, 顽固, 黏性, 韧性 / [机] 坚轫",
+"en": "n persistent determination"
+},
+{
+"word": "subsume",
+"pos": "vt",
+"zh": "vt. 把...归入, 把...纳入, 把...列入某一类, 把...归类",
+"en": "v. contain or include / v. consider (an instance of something) as part of a general rule or principle"
+},
+{
+"word": "noose",
+"pos": "n/vt",
+"zh": "n. 套索, 束缚, 陷阱 / vt. 用套索捉",
+"en": "n. a loop formed in a cord or rope by means of a slipknot; it binds tighter as the cord or rope is pulled / v. make a no…"
+},
+{
+"word": "scourge",
+"pos": "n/vt",
+"zh": "n. 鞭, 苦难根源, 灾祸 / vt. 鞭打, 痛斥, 蹂躏",
+"en": "n. a whip used to inflict punishment (often used for pedantic humor) / v. punish severely; excoriate"
+},
+{
+"word": "grouse",
+"pos": "n/vi",
+"zh": "n. 松鸡, 牢骚 / vi. 埋怨",
+"en": "n. flesh of any of various grouse of the family Tetraonidae; usually roasted; flesh too dry to broil / n. popular game b…"
+},
+{
+"word": "proffer",
+"pos": "vt/n",
+"zh": "vt. 提供, 贡献, 提议 / n. 提供, 提议",
+"en": "n a proposal offered for acceptance or rejection / v present for acceptance or rejection"
+},
+{
+"word": "lurid",
+"pos": "a",
+"zh": "a. 火烧似的, 苍白的, 华丽的, 可怕的",
+"en": "s. horrible in fierceness or savagery / s. glaringly vivid and graphic; marked by sensationalism / s. shining with an un…"
+},
+{
+"word": "newsstand",
+"pos": "n",
+"zh": "n. 报摊, 报刊出售处",
+"en": "n. a stall where newspapers and other periodicals are sold"
+},
+{
+"word": "inquisitive",
+"pos": "a",
+"zh": "a. 好问的, 想知道的, 好追根究底的",
+"en": "s. showing curiosity / s. inquiring or appearing to inquire"
+},
+{
+"word": "incessant",
+"pos": "a",
+"zh": "a. 不断的, 不绝的, 无尽的",
+"en": "s uninterrupted in time and indefinitely long continuing"
+},
+{
+"word": "maroon",
+"pos": "n/a/vt/vi",
+"zh": "n. 逃亡黑人奴隶, 褐紫红色, 爆竹 / a. 褐紫红色的 / vt. 放逐到无人岛上, 使孤立 / vi. 闲荡, 带帐篷旅行",
+"en": "n. a person who is stranded (as on an island) / n. a dark purplish-red to dark brownish-red color / n. an exploding fire…"
+},
+{
+"word": "panther",
+"pos": "n",
+"zh": "n. 豹, 黑豹, 美洲豹",
+"en": "n. a leopard in the black color phase"
+},
+{
+"word": "bereft",
+"pos": "a",
+"zh": "a. 缺少的, 丧失的, 失去亲人的 / bereave的过去式和过去分词",
+"en": "s. unhappy in love; suffering from unrequited love"
+},
+{
+"word": "spherical",
+"pos": "a",
+"zh": "a. 球的, 球面的, 球状的, 天体的 / [医] 球形的, 球状的",
+"en": "a. of or relating to spheres or resembling a sphere"
+},
+{
+"word": "westwards",
+"pos": "adv",
+"zh": "adv. 向西",
+"en": "n the cardinal compass point that is a 270 degrees / r toward the west"
+},
+{
+"word": "plod",
+"pos": "n/vi/vt",
+"zh": "n. 沉重的步伐, 辛勤工作 / vi. 沉重地走, 辛勤工作, 孜孜从事 / vt. 沉重缓慢地走",
+"en": "n the act of walking with a slow heavy gait / v walk heavily and firmly, as when weary, or through mud"
+},
+{
+"word": "cinder",
+"pos": "n",
+"zh": "n. 煤渣, 灰烬 / [化] 炉渣; 熔渣; 煤渣; 矿渣; 粗灰",
+"en": "n. a fragment of incombustible matter left after a wood or coal or charcoal fire"
+},
+{
+"word": "flounder",
+"pos": "vi",
+"zh": "vi. 挣扎, 折腾；错乱地做事或说话",
+"en": "n. flesh of any of various American and European flatfish / n. any of various European and non-European marine flatfish …"
+},
+{
+"word": "contemptuous",
+"pos": "a",
+"zh": "a. 轻蔑的, 鄙视的, 瞧不起人的",
+"en": "s. expressing extreme contempt"
+},
+{
+"word": "broach",
+"pos": "n/vt/vi",
+"zh": "n. 烧肉叉, 凿子, 钻头 / vt. 用凿子修琢(石块), 钻孔 / vi. 露出水面",
+"en": "v. bring up a topic for discussion"
+},
+{
+"word": "rowdy",
+"pos": "n/a",
+"zh": "n. 好吵闹的人 / a. 吵闹的",
+"en": "n a cruel and brutal fellow / s disturbing the public peace; loud and rough"
+},
+{
+"word": "squirt",
+"pos": "v/n",
+"zh": "v. 喷出, 溅迸, 注射 / n. 水枪, 注射器, 喷出",
+"en": "v. cause to come out in a squirt / v. wet with a spurt of liquid"
+},
+{
+"word": "fraternal",
+"pos": "a",
+"zh": "a. 兄弟的, 兄弟似的, 友爱的",
+"en": "a. of or relating to a fraternity or society of usually men / a. (of twins) derived from two separate fertilized ova"
+},
+{
+"word": "panda",
+"pos": "n",
+"zh": "n. 大熊猫, 小熊猫",
+"en": "n large black-and-white herbivorous mammal of bamboo forests of China and Tibet; in some classifications considered a me…"
+},
+{
+"word": "sweeten",
+"pos": "vt/vi",
+"zh": "vt. 使变甜, 加糖于, 使悦耳, 使温和, 减轻 / vi. 变甜",
+"en": "v. make sweeter in taste / v. make sweeter, more pleasant, or more agreeable"
+},
+{
+"word": "arbiter",
+"pos": "n",
+"zh": "n. 仲裁人, 裁决者, 公断人 / [计] 判优程序",
+"en": "n. someone with the power to settle matters at will / n. someone chosen to judge and decide a disputed issue"
+},
+{
+"word": "awry",
+"pos": "a/adv",
+"zh": "a. 歪的, 错误的 / adv. 歪斜地, 错地",
+"en": "r. away from the correct or expected course"
+},
+{
+"word": "innuendo",
+"pos": "n/vi/vt",
+"zh": "n. 讽刺, 暗讽 / vi. 说讽刺话 / vt. 暗示",
+"en": "n an indirect (and usually malicious) implication"
+},
+{
+"word": "sensuous",
+"pos": "a",
+"zh": "a. 感觉上的, 使感官以快感的, 敏感的",
+"en": "s. taking delight in beauty"
+},
+{
+"word": "spontaneity",
+"pos": "n",
+"zh": "n. 自然发生, 自生, 自发",
+"en": "n. the quality of being spontaneous and coming from natural feelings without constraint"
+},
+{
+"word": "belie",
+"pos": "vt",
+"zh": "vt. 掩饰, 与...不符, 使失望",
+"en": "v be in contradiction with / v represent falsely"
+},
+{
+"word": "valiant",
+"pos": "a/n",
+"zh": "a. 英勇的 / n. 勇敢的人",
+"en": "s. having or showing valor"
+},
+{
+"word": "senile",
+"pos": "a",
+"zh": "a. 高龄的, 衰老的, 老年期的 / [医] 老年的",
+"en": "s mentally or physically infirm with age"
+},
+{
+"word": "epithet",
+"pos": "n",
+"zh": "n. 浑名, 绰号, 称号",
+"en": "n. descriptive word or phrase"
+},
+{
+"word": "hindrance",
+"pos": "n",
+"zh": "n. 妨害, 障碍, 阻碍物",
+"en": "n. something immaterial that interferes with or delays action or progress / n. any obstruction that impedes or is burden…"
+},
+{
+"word": "dour",
+"pos": "a",
+"zh": "a. 阴沉的, 严厉的, 顽强的",
+"en": "s. harshly uninviting or formidable in manner or appearance"
+},
+{
+"word": "ripen",
+"pos": "vt/vi",
+"zh": "vt. 使成熟 / vi. 成熟",
+"en": "v. cause to ripen or develop fully / v. grow ripe"
+}
+]

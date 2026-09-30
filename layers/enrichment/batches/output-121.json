@@ -1,0 +1,1452 @@
+{
+ "cardigan": {
+  "gloss": "开襟毛衣，羊毛开衫",
+  "trap": "以英国卡迪根伯爵命名，克里米亚战争中英军所穿",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "sweater",
+   "jumper"
+  ],
+  "antonyms": []
+ },
+ "transatlantic": {
+  "gloss": "横跨大西洋的；大西洋彼岸的(尤指美欧之间)",
+  "trap": "",
+  "root": {
+   "key": "trans",
+   "meaning": "横过",
+   "match": "trans"
+  },
+  "confusable": [],
+  "synonyms": [
+   "transoceanic"
+  ],
+  "antonyms": []
+ },
+ "shank": {
+  "gloss": "小腿，胫；(动物)腿肉，牛腱；柄，杆(工具的)",
+  "trap": "菜谱里 beef shank 是牛腱肉，不只是解剖学的‘胫’",
+  "root": null,
+  "confusable": [
+   "shark",
+   "shrank"
+  ],
+  "synonyms": [
+   "shin",
+   "stem"
+  ],
+  "antonyms": []
+ },
+ "handwritten": {
+  "gloss": "手写的",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "longhand"
+  ],
+  "antonyms": [
+   "typed",
+   "printed"
+  ]
+ },
+ "chassis": {
+  "gloss": "(汽车)底盘；(电子设备)机箱、机架",
+  "trap": "法语词，单复数同形，读 /ˈʃæsi/，末尾 s 不发音",
+  "root": null,
+  "confusable": [
+   "chaise"
+  ],
+  "synonyms": [
+   "frame",
+   "framework"
+  ],
+  "antonyms": []
+ },
+ "tubular": {
+  "gloss": "管状的；由管构成的",
+  "trap": "",
+  "root": {
+   "key": "tub",
+   "meaning": "管",
+   "match": "tub"
+  },
+  "confusable": [
+   "tabular"
+  ],
+  "synonyms": [
+   "cylindrical",
+   "hollow"
+  ],
+  "antonyms": []
+ },
+ "gridlock": {
+  "gloss": "(交通)大瘫痪，全面堵塞；僵局(政治/谈判)",
+  "trap": "grid 路网+lock 锁死，常引申为政治僵局",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "deadlock",
+   "stalemate",
+   "impasse",
+   "standstill"
+  ],
+  "antonyms": []
+ },
+ "trump": {
+  "gloss": "v. 胜过，压倒；n. 王牌；(trump up)捏造",
+  "trap": "trump card 王牌；trumped-up charges 捏造的罪名",
+  "root": null,
+  "confusable": [
+   "trumpet",
+   "triumph"
+  ],
+  "synonyms": [
+   "outdo",
+   "surpass",
+   "beat"
+  ],
+  "antonyms": []
+ },
+ "alleyway": {
+  "gloss": "小巷，窄巷",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "allay",
+   "ally"
+  ],
+  "synonyms": [
+   "alley",
+   "lane",
+   "passage"
+  ],
+  "antonyms": []
+ },
+ "marquis": {
+  "gloss": "侯爵(公爵之下、伯爵之上)",
+  "trap": "读 /ˈmɑːkwɪs/；marquee 是‘大帐篷、招牌’，不同词",
+  "root": null,
+  "confusable": [
+   "marquee"
+  ],
+  "synonyms": [
+   "nobleman",
+   "aristocrat"
+  ],
+  "antonyms": []
+ },
+ "dredge": {
+  "gloss": "疏浚，挖泥；(dredge up)翻出旧事；(烹饪)撒粉",
+  "trap": "dredge up 常指‘翻出旧事/丑闻’",
+  "root": null,
+  "confusable": [
+   "drudge",
+   "drench"
+  ],
+  "synonyms": [
+   "excavate",
+   "scoop",
+   "unearth"
+  ],
+  "antonyms": []
+ },
+ "anorak": {
+  "gloss": "连帽防风外套，冲锋衣；(英俚)痴迷冷门爱好的怪人",
+  "trap": "英式口语指‘死宅、火车迷’类痴迷者(因常穿此衣)",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "parka",
+   "windbreaker",
+   "jacket"
+  ],
+  "antonyms": []
+ },
+ "homestead": {
+  "gloss": "家宅及其田地，农庄；(美史)政府分配的宅地",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "farmstead",
+   "farm",
+   "estate"
+  ],
+  "antonyms": []
+ },
+ "binge": {
+  "gloss": "狂欢，放纵(暴饮暴食等)；一口气连续做",
+  "trap": "binge-watch 刷剧、binge drinking 酗酒是当代高频搭配",
+  "root": null,
+  "confusable": [
+   "hinge"
+  ],
+  "synonyms": [
+   "spree",
+   "bout",
+   "splurge"
+  ],
+  "antonyms": [
+   "moderation"
+  ]
+ },
+ "beleaguered": {
+  "gloss": "陷入困境的，饱受批评/压力的；被围困的",
+  "trap": "当代多指‘四面楚歌、焦头烂额’，不只是军事围困",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "besieged",
+   "embattled",
+   "troubled",
+   "harassed"
+  ],
+  "antonyms": []
+ },
+ "flashback": {
+  "gloss": "(电影/小说)倒叙，闪回；(记忆)突然重现",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "recollection",
+   "retrospection"
+  ],
+  "antonyms": [
+   "flash-forward"
+  ]
+ },
+ "suede": {
+  "gloss": "绒面革，麂皮",
+  "trap": "源自法语 Suède(瑞典)，读 /sweɪd/",
+  "root": null,
+  "confusable": [
+   "swede",
+   "sued"
+  ],
+  "synonyms": [
+   "leather",
+   "nubuck"
+  ],
+  "antonyms": []
+ },
+ "assailant": {
+  "gloss": "袭击者，行凶者",
+  "trap": "assail ← salire 跳，与 sail 帆无关；同源 assault",
+  "root": {
+   "key": "sal",
+   "meaning": "跳",
+   "match": "sail"
+  },
+  "confusable": [
+   "assistant"
+  ],
+  "synonyms": [
+   "attacker",
+   "aggressor",
+   "mugger"
+  ],
+  "antonyms": [
+   "victim"
+  ]
+ },
+ "thud": {
+  "gloss": "砰的一声(重物落地的闷响)；砰地落下/撞击",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "thug",
+   "thump"
+  ],
+  "synonyms": [
+   "thump",
+   "bang",
+   "clunk"
+  ],
+  "antonyms": []
+ },
+ "leek": {
+  "gloss": "韭葱(葱属蔬菜，威尔士象征)",
+  "trap": "是‘韭葱’(粗葱)，不是中国的韭菜(Chinese chives)",
+  "root": null,
+  "confusable": [
+   "leak",
+   "leech"
+  ],
+  "synonyms": [
+   "onion",
+   "scallion"
+  ],
+  "antonyms": []
+ },
+ "patchwork": {
+  "gloss": "拼布(工艺/被子)；拼凑物，杂烩(法规、政策等)",
+  "trap": "a patchwork of laws 指零散拼凑的法规，常带贬义",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "mosaic",
+   "hodgepodge",
+   "medley",
+   "mixture"
+  ],
+  "antonyms": []
+ },
+ "kingfisher": {
+  "gloss": "翠鸟",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [],
+  "antonyms": []
+ },
+ "coupe": {
+  "gloss": "双门跑车式轿车；(旧)双座四轮马车",
+  "trap": "美读 /kuːp/，英读 /ˈkuːpeɪ/，源自法语 coupé‘被截短的’",
+  "root": null,
+  "confusable": [
+   "coup",
+   "coop"
+  ],
+  "synonyms": [
+   "car"
+  ],
+  "antonyms": []
+ },
+ "physiotherapist": {
+  "gloss": "理疗师，物理治疗师",
+  "trap": "",
+  "root": {
+   "key": "phys",
+   "meaning": "自然/身体",
+   "match": "phys"
+  },
+  "confusable": [
+   "psychotherapist"
+  ],
+  "synonyms": [
+   "therapist"
+  ],
+  "antonyms": []
+ },
+ "synod": {
+  "gloss": "宗教会议，教会会议",
+  "trap": "syn 共同+hodos 路：‘走到一起’，与 synonym 同前缀",
+  "root": {
+   "key": "syn",
+   "meaning": "共同",
+   "match": "syn"
+  },
+  "confusable": [],
+  "synonyms": [
+   "council",
+   "assembly",
+   "convocation"
+  ],
+  "antonyms": []
+ },
+ "backbencher": {
+  "gloss": "(英国议会)后座议员，普通议员",
+  "trap": "‘后座’指非内阁/非党魁的普通议员，不是‘坐后排的人’",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "mp",
+   "legislator"
+  ],
+  "antonyms": [
+   "frontbencher",
+   "minister"
+  ]
+ },
+ "acrylic": {
+  "gloss": "丙烯酸的；n. 亚克力(有机玻璃)，腈纶，丙烯颜料",
+  "trap": "日常指亚克力(有机玻璃)、丙烯颜料、腈纶面料",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "plastic",
+   "plexiglass"
+  ],
+  "antonyms": []
+ },
+ "wholemeal": {
+  "gloss": "全麦的；n. 全麦面粉",
+  "trap": "英式说 wholemeal，美式说 whole wheat",
+  "root": null,
+  "confusable": [
+   "wholesale"
+  ],
+  "synonyms": [
+   "wholegrain",
+   "whole wheat"
+  ],
+  "antonyms": [
+   "refined",
+   "white"
+  ]
+ },
+ "sauna": {
+  "gloss": "桑拿(浴/房)",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "steam bath",
+   "spa"
+  ],
+  "antonyms": []
+ },
+ "wondrous": {
+  "gloss": "奇妙的，令人惊叹的(文学)",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "wonderful",
+   "marvelous",
+   "magnificent",
+   "awe-inspiring"
+  ],
+  "antonyms": [
+   "ordinary",
+   "mundane"
+  ]
+ },
+ "playgroup": {
+  "gloss": "(英)学前游戏班，幼儿游戏小组",
+  "trap": "英式指家长自办或社区的学前幼儿活动小组，不完全等于托儿所",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "nursery",
+   "preschool",
+   "kindergarten"
+  ],
+  "antonyms": []
+ },
+ "paddock": {
+  "gloss": "(马匹)围场，小牧场；(赛马/赛车)备赛区",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "padlock"
+  ],
+  "synonyms": [
+   "enclosure",
+   "pen",
+   "corral",
+   "field"
+  ],
+  "antonyms": []
+ },
+ "spook": {
+  "gloss": "v. 惊吓，使受惊(动物/市场)；n. 鬼；(俚)间谍",
+  "trap": "俚语指‘间谍、特工’；spooked 常指‘被吓到、惊慌’",
+  "root": null,
+  "confusable": [
+   "spoke",
+   "spool"
+  ],
+  "synonyms": [
+   "frighten",
+   "scare",
+   "startle",
+   "ghost"
+  ],
+  "antonyms": [
+   "reassure"
+  ]
+ },
+ "childlike": {
+  "gloss": "孩子般的，天真纯真的(褒义)",
+  "trap": "childlike 天真可爱(褒) vs childish 幼稚(贬)",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "innocent",
+   "naive",
+   "trusting"
+  ],
+  "antonyms": [
+   "mature",
+   "worldly"
+  ]
+ },
+ "turbo": {
+  "gloss": "涡轮增压器；涡轮增压的；(前缀)加速、超强的",
+  "trap": "turbo- 常作前缀表‘加速、超强’，如 turbo mode",
+  "root": {
+   "key": "turb",
+   "meaning": "旋转/搅动",
+   "match": "turb"
+  },
+  "confusable": [
+   "turbot"
+  ],
+  "synonyms": [
+   "turbocharger",
+   "supercharger"
+  ],
+  "antonyms": []
+ },
+ "camcorder": {
+  "gloss": "便携式摄像机",
+  "trap": "camera + recorder 的合成词",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "video camera",
+   "camera"
+  ],
+  "antonyms": []
+ },
+ "mussel": {
+  "gloss": "贻贝，青口",
+  "trap": "读音同 muscle 肌肉，注意拼写区分",
+  "root": null,
+  "confusable": [
+   "muscle",
+   "missile"
+  ],
+  "synonyms": [
+   "clam",
+   "oyster",
+   "shellfish",
+   "bivalve"
+  ],
+  "antonyms": []
+ },
+ "deluxe": {
+  "gloss": "豪华的，高级的",
+  "trap": "源自法语 de luxe‘奢华的’，与 luxury 同源",
+  "root": {
+   "key": "lux",
+   "meaning": "奢华",
+   "match": "lux"
+  },
+  "confusable": [],
+  "synonyms": [
+   "luxurious",
+   "premium",
+   "superior",
+   "upscale"
+  ],
+  "antonyms": [
+   "basic",
+   "standard"
+  ]
+ },
+ "borderline": {
+  "gloss": "a. 边缘的，勉强的，临界的；n. 边界线；adv. 近乎",
+  "trap": "常用义是‘临界、勉强算得上’，如 borderline case",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "marginal",
+   "ambiguous",
+   "doubtful"
+  ],
+  "antonyms": [
+   "clear-cut",
+   "definite"
+  ]
+ },
+ "retina": {
+  "gloss": "视网膜",
+  "trap": "Retina 显示屏得名于此(像素密度超过视网膜分辨力)",
+  "root": {
+   "key": "ret",
+   "meaning": "网",
+   "match": "ret"
+  },
+  "confusable": [
+   "retinue"
+  ],
+  "synonyms": [],
+  "antonyms": []
+ },
+ "chime": {
+  "gloss": "钟声，门铃声，编钟；鸣响；(chime in)插话附和",
+  "trap": "chime in 插话、附和；chime with 与…一致",
+  "root": null,
+  "confusable": [
+   "chimney",
+   "chine"
+  ],
+  "synonyms": [
+   "ring",
+   "peal",
+   "toll"
+  ],
+  "antonyms": []
+ },
+ "mystique": {
+  "gloss": "神秘感，神秘色彩(令人着迷)",
+  "trap": "指围绕某人/事的迷人神秘光环，与 mystic 神秘主义者不同",
+  "root": {
+   "key": "myst",
+   "meaning": "神秘",
+   "match": "myst"
+  },
+  "confusable": [],
+  "synonyms": [
+   "aura",
+   "charisma",
+   "allure",
+   "mystery"
+  ],
+  "antonyms": []
+ },
+ "notoriety": {
+  "gloss": "臭名昭著，恶名；(泛指)知名度",
+  "trap": "多含贬义‘因坏事出名’，不是中性的‘名声’(fame)",
+  "root": {
+   "key": "not",
+   "meaning": "知道/标记",
+   "match": "not"
+  },
+  "confusable": [],
+  "synonyms": [
+   "infamy",
+   "disrepute",
+   "ill repute"
+  ],
+  "antonyms": [
+   "anonymity",
+   "obscurity"
+  ]
+ },
+ "sultan": {
+  "gloss": "苏丹(伊斯兰国家君主)",
+  "trap": "阿拉伯语‘权力’；sultana 是‘无核葡萄干/苏丹王妃’",
+  "root": null,
+  "confusable": [
+   "sultana",
+   "sultry"
+  ],
+  "synonyms": [
+   "ruler",
+   "monarch",
+   "emir"
+  ],
+  "antonyms": []
+ },
+ "karate": {
+  "gloss": "空手道",
+  "trap": "日语‘空手’(kara 空+te 手)，读 /kəˈrɑːti/",
+  "root": null,
+  "confusable": [
+   "karaoke"
+  ],
+  "synonyms": [
+   "martial art"
+  ],
+  "antonyms": []
+ },
+ "tableau": {
+  "gloss": "(生动的)场面，画面；(戏剧)静态造型",
+  "trap": "法语借词，复数 tableaux，读 /ˈtæbləʊ/",
+  "root": null,
+  "confusable": [
+   "table"
+  ],
+  "synonyms": [
+   "scene",
+   "picture",
+   "spectacle"
+  ],
+  "antonyms": []
+ },
+ "polyester": {
+  "gloss": "聚酯(纤维)，涤纶",
+  "trap": "poly 多+ester 酯",
+  "root": {
+   "key": "poly",
+   "meaning": "多",
+   "match": "poly"
+  },
+  "confusable": [],
+  "synonyms": [
+   "synthetic",
+   "nylon",
+   "fabric"
+  ],
+  "antonyms": []
+ },
+ "contraceptive": {
+  "gloss": "避孕的；n. 避孕药/具",
+  "trap": "contra 反+cept 拿/受(conception 受孕)",
+  "root": {
+   "key": "cap",
+   "meaning": "拿/头",
+   "match": "cept"
+  },
+  "confusable": [],
+  "synonyms": [
+   "birth control",
+   "condom",
+   "pill"
+  ],
+  "antonyms": []
+ },
+ "mane": {
+  "gloss": "(马/狮)鬃毛；(人)浓密长发",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "main",
+   "mean"
+  ],
+  "synonyms": [
+   "hair",
+   "locks"
+  ],
+  "antonyms": []
+ },
+ "gearbox": {
+  "gloss": "变速箱，齿轮箱",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "transmission"
+  ],
+  "antonyms": []
+ },
+ "kiwi": {
+  "gloss": "猕猴桃，奇异果；几维鸟；(口)新西兰人",
+  "trap": "首义现在是‘猕猴桃’；大写 Kiwi 指新西兰人",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "kiwifruit",
+   "new zealander"
+  ],
+  "antonyms": []
+ },
+ "midweek": {
+  "gloss": "一周中间(周二至周四)；周中的",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "weekday"
+  ],
+  "antonyms": [
+   "weekend"
+  ]
+ },
+ "catalytic": {
+  "gloss": "催化的；起促进作用的",
+  "trap": "catalytic converter 汽车尾气催化转化器；喻‘促成变化的’",
+  "root": {
+   "key": "lys",
+   "meaning": "分解/松开",
+   "match": "lyt"
+  },
+  "confusable": [],
+  "synonyms": [
+   "accelerating",
+   "stimulating"
+  ],
+  "antonyms": []
+ },
+ "airman": {
+  "gloss": "空军士兵，飞行员",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "pilot",
+   "aviator",
+   "flyer"
+  ],
+  "antonyms": []
+ },
+ "cobalt": {
+  "gloss": "钴；钴蓝色",
+  "trap": "源自德语 Kobold(地精)，矿工认为它是捣乱的‘妖精矿’",
+  "root": null,
+  "confusable": [
+   "cobble"
+  ],
+  "synonyms": [],
+  "antonyms": []
+ },
+ "bloodstream": {
+  "gloss": "血流，血液循环",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "circulation",
+   "blood"
+  ],
+  "antonyms": []
+ },
+ "burly": {
+  "gloss": "魁梧的，壮实的",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "bury",
+   "barely"
+  ],
+  "synonyms": [
+   "brawny",
+   "stocky",
+   "hefty",
+   "muscular"
+  ],
+  "antonyms": [
+   "slight",
+   "puny"
+  ]
+ },
+ "bombard": {
+  "gloss": "炮轰，轰炸；(喻)连珠炮般质问，狂轰滥炸(信息)",
+  "trap": "bombarded with questions 被问题狂轰滥炸",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "shell",
+   "pound",
+   "assail",
+   "barrage"
+  ],
+  "antonyms": []
+ },
+ "intelligentsia": {
+  "gloss": "知识分子阶层，知识界",
+  "trap": "俄语借词，集合名词，指整个阶层",
+  "root": {
+   "key": "leg",
+   "meaning": "法律/选择/读",
+   "match": "lig"
+  },
+  "confusable": [],
+  "synonyms": [
+   "intellectuals",
+   "literati",
+   "elite"
+  ],
+  "antonyms": []
+ },
+ "empress": {
+  "gloss": "女皇；皇后",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "impress"
+  ],
+  "synonyms": [
+   "queen",
+   "monarch"
+  ],
+  "antonyms": [
+   "emperor"
+  ]
+ },
+ "armpit": {
+  "gloss": "腋窝；(俚)最脏乱差的地方",
+  "trap": "the armpit of ... 俚语指‘最烂的地方’",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "underarm",
+   "axilla"
+  ],
+  "antonyms": []
+ },
+ "rhino": {
+  "gloss": "犀牛(=rhinoceros)；(英旧俚)钱",
+  "trap": "rhino 希腊语‘鼻’：rhinoceros 鼻上有角，rhinitis 鼻炎",
+  "root": {
+   "key": "rhin",
+   "meaning": "鼻",
+   "match": "rhin"
+  },
+  "confusable": [
+   "rhyme"
+  ],
+  "synonyms": [
+   "rhinoceros"
+  ],
+  "antonyms": []
+ },
+ "khaki": {
+  "gloss": "卡其色(的)，土黄色；卡其布，卡其军装/裤",
+  "trap": "源自乌尔都语‘尘土色’，读 /ˈkɑːki/",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "tan",
+   "beige",
+   "olive"
+  ],
+  "antonyms": []
+ },
+ "fuselage": {
+  "gloss": "(飞机)机身",
+  "trap": "法语 fuselé‘纺锤形的’，指飞机纺锤状主体",
+  "root": null,
+  "confusable": [
+   "fuse",
+   "fusillade"
+  ],
+  "synonyms": [
+   "body",
+   "hull",
+   "airframe"
+  ],
+  "antonyms": []
+ },
+ "revamp": {
+  "gloss": "改造，翻新，改版",
+  "trap": "re 再+vamp 鞋面：原指换鞋面，现泛指改头换面",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "renovate",
+   "overhaul",
+   "redesign",
+   "refurbish"
+  ],
+  "antonyms": []
+ },
+ "manic": {
+  "gloss": "狂躁的，躁狂的；(口)忙乱的，狂热的",
+  "trap": "manic 躁狂(a.) vs maniac 疯子(n.)；日常指‘忙得发狂’",
+  "root": {
+   "key": "mania",
+   "meaning": "疯狂",
+   "match": "mani"
+  },
+  "confusable": [],
+  "synonyms": [
+   "frenzied",
+   "frantic",
+   "hectic",
+   "hyperactive"
+  ],
+  "antonyms": [
+   "calm",
+   "depressive"
+  ]
+ },
+ "migraine": {
+  "gloss": "偏头痛",
+  "trap": "源自希腊 hemikrania‘半个头颅’(hemi 半+crania 颅)",
+  "root": null,
+  "confusable": [
+   "migrate",
+   "margin"
+  ],
+  "synonyms": [
+   "headache"
+  ],
+  "antonyms": []
+ },
+ "brownie": {
+  "gloss": "布朗尼(巧克力蛋糕)；(英)幼年女童军",
+  "trap": "brownie points 指‘靠表现赚来的好感分’",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "cake",
+   "dessert"
+  ],
+  "antonyms": []
+ },
+ "ombudsman": {
+  "gloss": "监察专员，申诉专员(受理对政府/机构的投诉)",
+  "trap": "瑞典语借词‘代表人’，读 /ˈɒmbʊdzmən/",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "mediator",
+   "investigator",
+   "arbitrator"
+  ],
+  "antonyms": []
+ },
+ "writhe": {
+  "gloss": "(因痛苦)扭动，翻滚；(writhe with)深感尴尬等",
+  "trap": "读 /raɪð/，w 不发音；同源 wreath 花环、wrist 手腕",
+  "root": null,
+  "confusable": [
+   "wreath",
+   "write",
+   "wrath"
+  ],
+  "synonyms": [
+   "squirm",
+   "twist",
+   "thrash",
+   "wriggle"
+  ],
+  "antonyms": []
+ },
+ "glint": {
+  "gloss": "闪光，闪烁；(眼中)一闪而过的神色",
+  "trap": "a glint in one's eye 眼里闪过的神色(狡黠/兴奋)",
+  "root": null,
+  "confusable": [
+   "glimpse",
+   "flint",
+   "glance"
+  ],
+  "synonyms": [
+   "gleam",
+   "glitter",
+   "sparkle",
+   "flash"
+  ],
+  "antonyms": []
+ },
+ "eyelash": {
+  "gloss": "睫毛",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "lash"
+  ],
+  "antonyms": []
+ },
+ "wisp": {
+  "gloss": "一缕(烟/发/云)，一小束；纤弱的人",
+  "trap": "a wisp of smoke 一缕烟；wispy 稀疏纤细的",
+  "root": null,
+  "confusable": [
+   "whisper",
+   "wasp",
+   "whisk"
+  ],
+  "synonyms": [
+   "strand",
+   "tuft",
+   "shred",
+   "trace"
+  ],
+  "antonyms": []
+ },
+ "mink": {
+  "gloss": "水貂；貂皮(大衣)",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "monk",
+   "mint"
+  ],
+  "synonyms": [
+   "fur",
+   "weasel"
+  ],
+  "antonyms": []
+ },
+ "cull": {
+  "gloss": "选择性宰杀(过剩动物)；淘汰，精简；挑选",
+  "trap": "当代最常见是‘扑杀、淘汰’(cull the herd)，而非‘采摘’",
+  "root": null,
+  "confusable": [
+   "call",
+   "gull"
+  ],
+  "synonyms": [
+   "kill",
+   "slaughter",
+   "weed out",
+   "select"
+  ],
+  "antonyms": []
+ },
+ "wacky": {
+  "gloss": "古怪滑稽的，疯疯癫癫的(口)",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "whack",
+   "tacky"
+  ],
+  "synonyms": [
+   "zany",
+   "eccentric",
+   "offbeat",
+   "bizarre"
+  ],
+  "antonyms": [
+   "sensible",
+   "conventional"
+  ]
+ },
+ "marinate": {
+  "gloss": "腌制，腌渍(用腌料浸泡)",
+  "trap": "marinade 是腌料(n.)，marinate 是动词；mar 海(盐水)",
+  "root": {
+   "key": "mar",
+   "meaning": "海",
+   "match": "mar"
+  },
+  "confusable": [],
+  "synonyms": [
+   "soak",
+   "steep",
+   "season",
+   "pickle"
+  ],
+  "antonyms": []
+ },
+ "angst": {
+  "gloss": "焦虑，忧惧(尤指对人生的)；(青春期)烦闷",
+  "trap": "德语借词；teenage angst 青春期的烦恼",
+  "root": null,
+  "confusable": [
+   "anger",
+   "angus"
+  ],
+  "synonyms": [
+   "anxiety",
+   "dread",
+   "unease",
+   "anguish"
+  ],
+  "antonyms": [
+   "calm",
+   "serenity"
+  ]
+ },
+ "mull": {
+  "gloss": "(mull over)反复思考，琢磨；加香料加热(酒)",
+  "trap": "mull over 是核心搭配‘仔细考虑’；mulled wine 热红酒",
+  "root": null,
+  "confusable": [
+   "mall",
+   "mule",
+   "dull"
+  ],
+  "synonyms": [
+   "ponder",
+   "consider",
+   "deliberate",
+   "contemplate"
+  ],
+  "antonyms": []
+ },
+ "constipation": {
+  "gloss": "便秘",
+  "trap": "con 一起+stip 塞紧：肠道被‘塞满’",
+  "root": {
+   "key": "stip",
+   "meaning": "压紧",
+   "match": "stip"
+  },
+  "confusable": [
+   "consternation",
+   "constitution"
+  ],
+  "synonyms": [],
+  "antonyms": [
+   "diarrhea"
+  ]
+ },
+ "mainstay": {
+  "gloss": "支柱，中流砥柱，主要依靠",
+  "trap": "原指帆船主桅的支索，喻‘顶梁柱’",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "backbone",
+   "pillar",
+   "cornerstone",
+   "bulwark"
+  ],
+  "antonyms": []
+ },
+ "psychotic": {
+  "gloss": "精神病性的，患精神病的；n. 精神病患者",
+  "trap": "psychotic 精神病(脱离现实) vs neurotic 神经质(焦虑)",
+  "root": {
+   "key": "psych",
+   "meaning": "心灵",
+   "match": "psych"
+  },
+  "confusable": [
+   "neurotic"
+  ],
+  "synonyms": [
+   "deranged",
+   "insane",
+   "delusional"
+  ],
+  "antonyms": [
+   "sane"
+  ]
+ },
+ "juniper": {
+  "gloss": "杜松(针叶灌木，果实用于酿金酒)",
+  "trap": "gin 的名字就来自 juniper(荷兰语 jenever)",
+  "root": null,
+  "confusable": [
+   "jumper",
+   "jupiter"
+  ],
+  "synonyms": [
+   "conifer",
+   "shrub"
+  ],
+  "antonyms": []
+ },
+ "bribery": {
+  "gloss": "贿赂(行为)，行贿受贿",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "brewery"
+  ],
+  "synonyms": [
+   "corruption",
+   "graft",
+   "kickback",
+   "payoff"
+  ],
+  "antonyms": []
+ },
+ "sonic": {
+  "gloss": "声音的，声波的；音速的",
+  "trap": "sonic boom 音爆；supersonic 超音速的",
+  "root": {
+   "key": "son",
+   "meaning": "声音",
+   "match": "son"
+  },
+  "confusable": [],
+  "synonyms": [
+   "acoustic",
+   "audio"
+  ],
+  "antonyms": []
+ },
+ "tote": {
+  "gloss": "拎，搬运，随身携带；n. 大手提袋(tote bag)",
+  "trap": "tote bag 帆布手提袋；gun-toting 带枪的",
+  "root": null,
+  "confusable": [
+   "tot",
+   "note"
+  ],
+  "synonyms": [
+   "carry",
+   "haul",
+   "lug"
+  ],
+  "antonyms": []
+ },
+ "cashmere": {
+  "gloss": "羊绒，开司米",
+  "trap": "源自克什米尔(Kashmir)，读 /ˈkæʃmɪə/",
+  "root": null,
+  "confusable": [
+   "cashier"
+  ],
+  "synonyms": [
+   "wool",
+   "fleece"
+  ],
+  "antonyms": []
+ },
+ "clarinet": {
+  "gloss": "单簧管，黑管",
+  "trap": "clar 清晰(clear)：音色清亮",
+  "root": {
+   "key": "clar",
+   "meaning": "清晰",
+   "match": "clar"
+  },
+  "confusable": [
+   "cornet"
+  ],
+  "synonyms": [
+   "woodwind",
+   "oboe"
+  ],
+  "antonyms": []
+ },
+ "payout": {
+  "gloss": "(大笔)支付款，赔付金，派息",
+  "trap": "常指保险赔付、彩票奖金、分红等‘发放的钱’",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "payment",
+   "disbursement",
+   "settlement",
+   "dividend"
+  ],
+  "antonyms": []
+ },
+ "nozzle": {
+  "gloss": "喷嘴，管嘴",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "nuzzle",
+   "muzzle"
+  ],
+  "synonyms": [
+   "spout",
+   "outlet",
+   "jet"
+  ],
+  "antonyms": []
+ },
+ "hotline": {
+  "gloss": "热线电话(紧急/咨询)",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "helpline"
+  ],
+  "antonyms": []
+ },
+ "viola": {
+  "gloss": "中提琴；堇菜属植物(三色堇等)",
+  "trap": "读 /viˈəʊlə/，比 violin 大一号；violet 紫罗兰同源",
+  "root": null,
+  "confusable": [
+   "violin",
+   "violet"
+  ],
+  "synonyms": [
+   "string instrument"
+  ],
+  "antonyms": []
+ },
+ "coincidentally": {
+  "gloss": "碰巧，巧合地",
+  "trap": "co 共同+in+cid 落：‘一起落下’即巧合",
+  "root": {
+   "key": "cad",
+   "meaning": "落",
+   "match": "cid"
+  },
+  "confusable": [],
+  "synonyms": [
+   "by chance",
+   "accidentally",
+   "fortuitously"
+  ],
+  "antonyms": [
+   "deliberately",
+   "intentionally"
+  ]
+ },
+ "hilltop": {
+  "gloss": "山顶，小山顶上",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "summit",
+   "peak",
+   "crest"
+  ],
+  "antonyms": [
+   "valley",
+   "foothill"
+  ]
+ },
+ "criminology": {
+  "gloss": "犯罪学",
+  "trap": "",
+  "root": {
+   "key": "crim",
+   "meaning": "罪",
+   "match": "crim"
+  },
+  "confusable": [],
+  "synonyms": [
+   "penology"
+  ],
+  "antonyms": []
+ },
+ "mellow": {
+  "gloss": "柔和的，醇厚的；(人)随和的，平和的；v. 变温和",
+  "trap": "mellow out 放松下来；酒‘醇厚’、色光‘柔和’、人‘温和’",
+  "root": null,
+  "confusable": [
+   "yellow",
+   "mallow"
+  ],
+  "synonyms": [
+   "soft",
+   "smooth",
+   "gentle",
+   "laid-back"
+  ],
+  "antonyms": [
+   "harsh",
+   "strident"
+  ]
+ },
+ "swimsuit": {
+  "gloss": "泳衣，泳装",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "swimwear",
+   "bathing suit",
+   "bikini"
+  ],
+  "antonyms": []
+ },
+ "tiptoe": {
+  "gloss": "踮脚(走)；(tiptoe around)小心翼翼地回避",
+  "trap": "tiptoe around an issue 小心绕开敏感话题",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "creep",
+   "sneak",
+   "pad"
+  ],
+  "antonyms": [
+   "stomp"
+  ]
+ },
+ "stockpile": {
+  "gloss": "储备(物资)，囤积；n. 储备库存",
+  "trap": "多指战略/应急储备(武器、粮食、口罩)",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "stock",
+   "reserve",
+   "hoard",
+   "cache"
+  ],
+  "antonyms": []
+ },
+ "saxophone": {
+  "gloss": "萨克斯(管)",
+  "trap": "以发明者比利时人 Adolphe Sax 命名+phone 声音",
+  "root": {
+   "key": "phon",
+   "meaning": "声音",
+   "match": "phon"
+  },
+  "confusable": [
+   "xylophone"
+  ],
+  "synonyms": [
+   "sax",
+   "woodwind"
+  ],
+  "antonyms": []
+ }
+}

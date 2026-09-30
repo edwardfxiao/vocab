@@ -1,0 +1,602 @@
+[
+{
+"word": "pupil",
+"pos": "n",
+"zh": "n. 学生, 门生, 未成年人, 瞳孔 / [医] 瞳孔",
+"en": "n. the contractile aperture in the center of the iris of the eye; resembles a large black dot"
+},
+{
+"word": "perform",
+"pos": "vt/vi",
+"zh": "vt. 进行, 履行, 完成, 执行, 表演 / vi. 行动, 工作, 执行, 演出",
+"en": "v. carry out or perform an action / v. perform a function / v. give a performance (of something)"
+},
+{
+"word": "version",
+"pos": "n",
+"zh": "n. 一种描述, 版本, 译文 / [计] 版本",
+"en": "n. an interpretation of a matter from a particular viewpoint / n. something a little different from others of the same t…"
+},
+{
+"word": "weight",
+"pos": "n/vt",
+"zh": "n. 重, 重量, 体重, 砝码, 重大, 影响, 力量 / vt. 加重量于, 压迫, 使加权, 称重量 / [计] 粗细",
+"en": "n. the vertical force exerted by a mass as a result of gravity / n. sports equipment used in calisthenic exercises and w…"
+},
+{
+"word": "candidate",
+"pos": "n",
+"zh": "n. 候选人, 投考者 / [法] 候选, 候补者",
+"en": "n. someone who is considered for something (for an office or prize or honor etc.)"
+},
+{
+"word": "okay",
+"pos": "a/adv/n/vt",
+"zh": "a. 好, 可以, 行, 对, 好吗, 很好 / adv. 好, 可以, 行, 对, 好吗, 很好 / n. 同意, 签认, 批准, 认可 / vt. 同意, 签认, 批准, 认可",
+"en": "r. in a satisfactory or adequate manner; (`alright' is a nonstandard variant of `all right')"
+},
+{
+"word": "direct",
+"pos": "a/vt/vi/adv",
+"zh": "a. 直接的, 坦白的 / vt. 指示, 指挥, 命令, 导演 / vi. 指导, 指挥 / adv. 直接地",
+"en": "v. command with authority / v. guide the actors in (plays and films) / v. be in charge of / v. give directions to; point…"
+},
+{
+"word": "press",
+"pos": "n/vt/vi",
+"zh": "n. 压, 揿, 按, 人群, 印刷机, 压力, 出版社, 记者, 报刊, 新闻舆论, 紧迫 / vt. 压, 压榨, 紧抱, 逼迫, 推进, 强迫征募, 催逼 / vi. 压, …",
+"en": "n. the print media responsible for gathering and publishing news in the form of newspapers or magazines / n. a machine u…"
+},
+{
+"word": "advice",
+"pos": "n",
+"zh": "n. 忠告, 劝告, 意见, 报道, 通知 / [经] 通知书, 通知, 建议",
+"en": "n. a proposal for an appropriate course of action"
+},
+{
+"word": "trip",
+"pos": "n/vt/vi",
+"zh": "n. 旅行, 绊倒, 摔倒, 失足, 差错, 旅程 / vt. 使跌倒, 使犯错, 使失败 / vi. 轻快地走, 绊倒, 失误, 犯错, 结巴, 旅行, 远足",
+"en": "n. a journey for some purpose (usually including the return) / n. a hallucinatory experience induced by drugs / n. an ex…"
+},
+{
+"word": "inside",
+"pos": "n/a/adv/prep",
+"zh": "n. 内部, 内脏, 内幕 / a. 内部的, 秘密的, 户内的 / adv. 在里面 / prep. 在...之内",
+"en": "n. the region that is inside of something / n. the inner or enclosed surface of something / a. relating to or being on t…"
+},
+{
+"word": "sales",
+"pos": "a",
+"zh": "a. 销售的 / [计] 销售",
+"en": "n income (at invoice values) received for goods and services over some given period of time / n a particular instance of…"
+},
+{
+"word": "library",
+"pos": "n",
+"zh": "n. 图书馆, 藏书, 库 / [计] 库",
+"en": "n. a room where books are kept / n. a collection of literary documents or records kept for reference or borrowing / n. a…"
+},
+{
+"word": "adult",
+"pos": "n/a",
+"zh": "n. 成人, 成虫 / a. 成年的, 成熟的",
+"en": "n. a fully developed person from maturity onward / n. any mature animal / s. (of animals) fully developed"
+},
+{
+"word": "advantage",
+"pos": "n/vt",
+"zh": "n. 优点, 便利, 好处, 优势 / vt. 有助于",
+"en": "n. the quality of having a superior or more favorable position / n. (tennis) first point scored after deuce / n. benefit…"
+},
+{
+"word": "operate",
+"pos": "v",
+"zh": "v. 操作, 运转, 动手术, 活动",
+"en": "v. direct or control; projects, businesses, etc. / v. handle and cause to function / v. happen"
+},
+{
+"word": "worry",
+"pos": "n/vt/vi",
+"zh": "n. 担心, 烦恼, 忧虑, 苦恼, 撕咬 / vt. 使烦恼, 使焦虑, 使苦恼, 困扰, 折磨, 撕咬 / vi. 烦恼, 担心, 撕咬",
+"en": "n. a strong feeling of anxiety / v. be worried, concerned, anxious, troubled, or uneasy / v. be concerned with / v. dist…"
+},
+{
+"word": "surface",
+"pos": "n/a/vt/vi",
+"zh": "n. 面, 表面, 水面, 外表, 平面 / a. 表面的, 外观的, 肤浅的, 水面上的 / vt. 使成平面, 使浮出水面 / vi. 浮出水面, 呈现, 在地面上工作",
+"en": "n. the outer boundary of an artifact or a material layer constituting or resembling such a boundary / n. the extended tw…"
+},
+{
+"word": "immediately",
+"pos": "adv",
+"zh": "adv. 直接地, 立刻, 立即",
+"en": "r. without delay or hesitation; with no time intervening / r. near or close by / r. bearing an immediate relation"
+},
+{
+"word": "deep",
+"pos": "a/adv/n",
+"zh": "a. 深的 / adv. 深入地 / n. 深渊, 深处",
+"en": "n. the central and most intense or profound part / n. literary term for an ocean / a. relatively deep or strong; affecti…"
+},
+{
+"word": "worth",
+"pos": "n/a",
+"zh": "n. 价值, 财产 / a. 值...的, 值得的",
+"en": "n. an indefinite quantity of something having a specified value / n. the quality that renders something desirable or val…"
+},
+{
+"word": "edge",
+"pos": "n/vt/vi",
+"zh": "n. 边缘, 尖锐, 刀刃, 优势 / vt. 使锐利, 挤进, 镶边 / vi. 缓缓移动",
+"en": "n. the boundary of a surface / n. a sharp side formed by the intersection of two surfaces of an object / n. the attribut…"
+},
+{
+"word": "variety",
+"pos": "n",
+"zh": "n. 多样, 种类, 变种, 杂耍 / [化] 变种",
+"en": "n. (biology) a taxonomic category consisting of members of a species that differ from others of the same species in mino…"
+},
+{
+"word": "writer",
+"pos": "n",
+"zh": "n. 作家, 撰稿者, 抄写员 / [化] 记录器",
+"en": "n. writes (books or stories or articles or the like) professionally (for pay) / n. a person who is able to write and has…"
+},
+{
+"word": "trouble",
+"pos": "n/vt/vi",
+"zh": "n. 烦恼, 麻烦, 困难, 动乱, 故障 / vt. 困扰, 麻烦, 使烦恼, 折磨 / vi. 烦恼, 费心",
+"en": "n. a source of difficulty / n. an event causing distress or pain / n. an effort that is inconvenient / n. an unwanted pr…"
+},
+{
+"word": "island",
+"pos": "n/vt",
+"zh": "n. 岛, 岛屿, 孤立地区, 安全岛 / vt. 使成岛状, 孤立",
+"en": "n. a land mass (smaller than a continent) that is surrounded by water / n. a zone or area resembling an island"
+},
+{
+"word": "challenge",
+"pos": "n/vt/vi",
+"zh": "n. 挑战, 盘问 / vt. 向...挑战, 要求, 怀疑 / vi. 挑战, 对(证据等)表示异议",
+"en": "n. a demanding or stimulating situation / n. a call to engage in a contest or fight / n. questioning a statement and dem…"
+},
+{
+"word": "fear",
+"pos": "n/v",
+"zh": "n. 恐怖, 害怕, 担心 / v. 害怕, 恐惧, 为...担心, 敬畏",
+"en": "n. an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fi…"
+},
+{
+"word": "shoulder",
+"pos": "n/vt/vi",
+"zh": "n. 肩, 肩膀, 衣肩 / vt. 肩负, 负担, 担任 / vi. 用肩推挤",
+"en": "n. the part of the body between the neck and the upper arm / n. a cut of meat including the upper joint of the foreleg /…"
+},
+{
+"word": "useful",
+"pos": "a",
+"zh": "a. 有用的, 有益的 / [机] 有用的, 有效的",
+"en": "a. being of use or service"
+},
+{
+"word": "depend",
+"pos": "vi",
+"zh": "vi. 靠, 视...而定, 信赖",
+"en": "v. be contingent upon (something that is elided)"
+},
+{
+"word": "middle",
+"pos": "n/a",
+"zh": "n. 中央, 中间, 腰部 / a. 中央的, 中庸的, 中间的",
+"en": "n. an intermediate part or section / n. the middle area of the human torso (usually in front) / n. time between the begi…"
+},
+{
+"word": "majority",
+"pos": "n",
+"zh": "n. 多数, 大半 / [计] 多数逻辑",
+"en": "n. the property resulting from being or relating to the greater in number of two parts; the main part / n. (elections) m…"
+},
+{
+"word": "dream",
+"pos": "n/v",
+"zh": "n. 梦, 空想, 愿望 / v. 做梦, 想象, 梦想",
+"en": "n. a series of mental images and emotions occurring during sleep / n. imaginative thoughts indulged in while awake / n. …"
+},
+{
+"word": "extent",
+"pos": "n",
+"zh": "n. 范围, 程度, 区域 / [计] 范围",
+"en": "n. the point or degree to which something extends / n. the distance or area or volume over which something extends"
+},
+{
+"word": "bar",
+"pos": "n/vt",
+"zh": "n. 条, 棒, 酒吧, 栅, 障碍物 / vt. 禁止, 阻挡, 妨碍 / [计] 棒形图",
+"en": "n. a counter where you can obtain food or drink / n. a rigid piece of metal or wood; usually used as a fastening or obst…"
+},
+{
+"word": "enable",
+"pos": "vt",
+"zh": "vt. 使能够 / [计] 允许, 使能, 打开",
+"en": "v. render capable or able for some task"
+},
+{
+"word": "beautiful",
+"pos": "a",
+"zh": "a. 美丽的",
+"en": "a. delighting the senses or exciting intellectual or emotional admiration / s. (of weather) highly enjoyable"
+},
+{
+"word": "competition",
+"pos": "n",
+"zh": "n. 竞争, 竞赛 / [经] 竞争, 竞销, 比赛",
+"en": "n. a business relation in which two parties compete to gain customers / n. the act of competing as for profit or a prize"
+},
+{
+"word": "instead",
+"pos": "adv",
+"zh": "adv. 作为替代, 反而",
+"en": "r in place of, or as an alternative to / r on the contrary; rather (or instead), he wrote her a letter\""
+},
+{
+"word": "parliament",
+"pos": "n",
+"zh": "n. 国会, 议会 / [法] 会议, 国会, 议院",
+"en": "n. a legislative assembly in certain countries"
+},
+{
+"word": "goods",
+"pos": "n",
+"zh": "n. 货物 / [经] 货物, 商品, 动产",
+"en": "n benefit / n moral excellence or admirableness / n that which is pleasing or valuable or useful / n articles of commerc…"
+},
+{
+"word": "speaker",
+"pos": "n",
+"zh": "n. 说话人, 讲演者, 发言人, 喇叭, 扬声器 / [计] 扬声器",
+"en": "n. someone who expresses in language; someone who talks (especially someone who delivers a public speech or someone espe…"
+},
+{
+"word": "stuff",
+"pos": "n/vt/vi",
+"zh": "n. 原料, 要素, 东西, 材料, 素质, 织品, 废物, 废话 / vt. 装填 / vi. 狼吞虎咽",
+"en": "n. miscellaneous unspecified objects / n. informal terms for personal possessions / n. senseless talk / n. unspecified q…"
+},
+{
+"word": "complete",
+"pos": "a/vt",
+"zh": "a. 完全的, 十足的, 完成的 / vt. 完成, 完工, 使圆满",
+"en": "v. come or bring to a finish or an end; others finished in over 4 hours\" / v. bring to a whole, with all the necessary p…"
+},
+{
+"word": "access",
+"pos": "n/vt",
+"zh": "n. 通路, 入口, 接近, 进入, 使用权, 发作 / vt. 访问, 存取, 接近, 使用 / [计] 访问, 存取",
+"en": "n. the right to obtain or make use of or take advantage of something (as services or membership) / n. a way of entering …"
+},
+{
+"word": "somebody",
+"pos": "n/pron",
+"zh": "n. 了不起的人, 大人物 / pron. 有人, 某人",
+"en": "n a human being"
+},
+{
+"word": "magazine",
+"pos": "n",
+"zh": "n. 杂志, 仓库, 弹盒, 胶卷盒 / [计] 卡片箱, 介质装卸程序",
+"en": "n. a periodic publication containing pictures and stories and articles of interest to those who purchase it or subscribe…"
+},
+{
+"word": "text",
+"pos": "n",
+"zh": "n. 文本, 正文, 课文, 主题, 圣经文句, 乐谱 / [计] 电文; 文本; 正文",
+"en": "n. the words of something written / n. a passage from the Bible that is used as the subject of a sermon / n. the main bo…"
+},
+{
+"word": "soldier",
+"pos": "n/vi",
+"zh": "n. 军人, 士兵, 兵蚁 / vi. 从军, 尽职, 偷懒, 磨洋工",
+"en": "n. an enlisted man or woman who serves in an army / n. a wingless sterile ant or termite having a large head and powerfu…"
+},
+{
+"word": "thirty",
+"pos": "num",
+"zh": "num. 三十, 三十个",
+"en": "n. the cardinal number that is the product of ten and three / s. being ten more than twenty"
+},
+{
+"word": "easily",
+"pos": "adv",
+"zh": "adv. 容易地, 轻易地, 流利地",
+"en": "r. with ease (`easy' is sometimes used informally for `easily') / r. without question"
+},
+{
+"word": "sexual",
+"pos": "a",
+"zh": "a. 性的, 性别的 / [医] 性的; 性欲的",
+"en": "a. of or relating to or characterized by sexuality / a. having or involving sex"
+},
+{
+"word": "effective",
+"pos": "a/n",
+"zh": "a. 有效的, 有力的, 实际的 / n. 有生力量",
+"en": "a. producing or capable of producing an intended result or having a striking effect / s. able to accomplish a purpose; f…"
+},
+{
+"word": "bag",
+"pos": "n/vt",
+"zh": "n. 袋子, 袋状物 / vt. 使膨大, 装袋, 猎获",
+"en": "n. a flexible container with a single opening / n. the quantity of game taken in a particular period (usually by one per…"
+},
+{
+"word": "western",
+"pos": "n/a",
+"zh": "n. 西方人, 西部片, 西部小说 / a. 向西方的, 来自西方的, 西方的, 西洋的, 西部的",
+"en": "n. a film about life in the western United States during the period of exploration and development / n. a sandwich made …"
+},
+{
+"word": "heat",
+"pos": "n/vi/vt",
+"zh": "n. 热, 热度, 体温, 高潮 / vi. 加热, 激昂, 加剧 / vt. 把...加热, 使激动",
+"en": "n. a form of energy that is transferred by a difference in temperature / n. the sensation caused by heat energy / n. the…"
+},
+{
+"word": "payment",
+"pos": "n",
+"zh": "n. 付款, 支付的款项(或实物), 偿还, 报应, 惩罚 / [经] 支付, 缴纳, 支付款额",
+"en": "n. a sum of money paid or a claim discharged / n. the act of paying money"
+},
+{
+"word": "york",
+"pos": "n",
+"zh": "n. 约克郡；约克王朝",
+"en": "n. the English royal house (a branch of the Plantagenet line) that reigned from 1461 to 1485; its emblem was a white ros…"
+},
+{
+"word": "marriage",
+"pos": "n",
+"zh": "n. 婚姻, 结婚, 婚礼, 合并 / [医] 婚姻, 结婚",
+"en": "n. the state of being a married couple voluntarily joined for life (or until divorce) / n. two people who are married to…"
+},
+{
+"word": "mouth",
+"pos": "n/vi/vt",
+"zh": "n. 嘴, 口, 口腔, 口状物 / vi. 装腔作势说话, 做鬼脸 / vt. 说出, 做作地说",
+"en": "n. the opening through which food is taken in and vocalizations emerge / n. the externally visible part of the oral cavi…"
+},
+{
+"word": "tough",
+"pos": "n/a",
+"zh": "n. 恶棍 / a. 强硬的, 艰苦的, 坚固的, 坚韧的, 粗暴的, 咬不动的",
+"en": "a. not given to gentleness or sentimentality / a. physically toughened / a. resistant to cutting or chewing"
+},
+{
+"word": "independent",
+"pos": "n/a",
+"zh": "n. 独立自主者, 无党派者 / a. 独立的, 有主见的, 不须依赖的, 不受约束的",
+"en": "a. free from external control and constraint / a. (of a clause) capable of standing syntactically alone as a complete se…"
+},
+{
+"word": "sing",
+"pos": "vi/vt/n",
+"zh": "vi. 唱, 唱歌, 演唱, 鸣, 啼 / vt. 唱, 歌颂 / n. 嗖嗖声",
+"en": "v. deliver by singing / v. produce tones with the voice / v. to make melodious sounds"
+},
+{
+"word": "facility",
+"pos": "n",
+"zh": "n. 容易, 灵巧, 设备 / [计] 设施; 设备; 装备",
+"en": "n. a building or place that provides a particular service or is used for a particular industry / n. a natural effortless…"
+},
+{
+"word": "survey",
+"pos": "n/vt/vi",
+"zh": "n. 纵览, 视察, 测量, 俯瞰, 调查 / vt. 审视, 视察, 俯瞰, 通盘考虑 / vi. 测量土地",
+"en": "n. a detailed critical inspection / v. consider in a comprehensive way / v. look over carefully or inspect / v. make a s…"
+},
+{
+"word": "reference",
+"pos": "n/vt/vi",
+"zh": "n. 参考, 索引, 参照 / vt. 给...加上参考资料 / vt. 引用 / vi. 引用 / [计] 引用",
+"en": "n. the most direct or specific meaning of a word or expression; the class of objects that an expression refers to / n. t…"
+},
+{
+"word": "realise",
+"pos": "vt",
+"zh": "vt. 实现, 认识到, 体会到, 了解, 认清, 使显得逼真, 变卖财产为现钱",
+"en": "v earn on some commercial or business transaction; earn as salary or wages / v convert into cash; of goods and property …"
+},
+{
+"word": "context",
+"pos": "n",
+"zh": "n. 上下文, 背景, 来龙去脉 / n. 上下文 / [计] 上下文",
+"en": "n. discourse that surrounds a language unit and helps to determine its interpretation / n. the set of facts or circumsta…"
+},
+{
+"word": "skin",
+"pos": "n/vt/vi",
+"zh": "n. 皮肤, 皮 / vt. 剥皮, 在...植皮 / vi. 长皮, 愈合, 蜕皮",
+"en": "n. a natural protective body covering and site of the sense of touch / n. an outer surface (usually thin) / n. a person'…"
+},
+{
+"word": "agent",
+"pos": "n",
+"zh": "n. 代理商, 政府代表, 动原, 媒介 / [计] 代理程序",
+"en": "n. an active and efficient cause; capable of producing a certain effect / n. a representative who acts on behalf of othe…"
+},
+{
+"word": "owner",
+"pos": "n",
+"zh": "n. 拥有者, 物主, 所有人 / [经] 所有者, 物主, 业主",
+"en": "n. (law) someone who owns (is legal possessor of) a business / n. a person who owns something"
+},
+{
+"word": "extend",
+"pos": "v",
+"zh": "v. 扩充, 延伸, 伸展, 扩大 / [计] 扩展",
+"en": "v. make available; provide / v. reach outward in space / v. expand the influence of / v. open or straighten out; unbend"
+},
+{
+"word": "gas",
+"pos": "n",
+"zh": "n. 气体, 汽油, 瓦斯 / [化] 气体; 煤气; 瓦斯; 毒气",
+"en": "n. the state of matter distinguished from the solid and liquid states by: relatively low density and viscosity; relative…"
+},
+{
+"word": "ahead",
+"pos": "a/adv",
+"zh": "a. 领先的, 预先的, 向前的 / adv. 领先, 预先, 向前, 胜于, 在前面, 在将来",
+"en": "s. having the leading position or higher score in a contest / r. at or in the front / r. toward the future; forward in t…"
+},
+{
+"word": "importance",
+"pos": "n",
+"zh": "n. 重要, 重要性, 重要地位, 自大 / [机] 重要, 重要性",
+"en": "n. the quality of being important and worthy of note / n. a prominent status"
+},
+{
+"word": "earth",
+"pos": "n/vt/vi",
+"zh": "n. 地球, 泥土, 世界, 尘世 / vt. 埋入土中, 赶入洞内 / vi. 躲入洞内",
+"en": "n. the 3rd planet from the sun; the planet we live on / n. the loose soft material that makes up a large part of the lan…"
+},
+{
+"word": "generation",
+"pos": "n",
+"zh": "n. 一代, 一世, 产生 / [医] 生殖, 世代",
+"en": "n. group of genetically related organisms constituting a single step in the line of descent / n. the normal time between…"
+},
+{
+"word": "commercial",
+"pos": "a/n",
+"zh": "a. 商业的, 商用的, 商品化的 / n. 商业广告节目",
+"en": "n. a commercially sponsored ad on radio or television / a. connected with or engaged in or sponsored by or used in comme…"
+},
+{
+"word": "address",
+"pos": "n/vt",
+"zh": "n. 住址, 演说, 举止, 灵巧, 求爱 / vt. 发表(演说或讲话), 对付, 写地址 / [计] 地址, 寻址",
+"en": "n. (computer science) the code that identifies where a piece of information is stored / n. the place where a person or o…"
+},
+{
+"word": "object",
+"pos": "n/vi/vt",
+"zh": "n. 物体, 目标, 目的, 对象, 宾语, 客体 / vi. 反对, 抱反感 / vt. 提出...来反对 / [计] 对象",
+"en": "n. a tangible and visible entity; an entity that can cast a shadow / n. (grammar) a constituent that is acted upon / n. …"
+},
+{
+"word": "cancer",
+"pos": "n",
+"zh": "n. 癌, 恶性肿瘤 / [医] 癌",
+"en": "n. any malignant growth or tumor caused by abnormal and uncontrolled cell division; it may spread to other parts of the …"
+},
+{
+"word": "possibility",
+"pos": "n",
+"zh": "n. 可能性, 可能的事 / [法] 可能性, 可能发生的事, 不确定权",
+"en": "n. a future prospect or potential / n. capability of existing or happening or being true / n. a possible alternative"
+},
+{
+"word": "interesting",
+"pos": "a",
+"zh": "a. 有趣的",
+"en": "a. arousing or holding the attention"
+},
+{
+"word": "reality",
+"pos": "n",
+"zh": "n. 实在, 事实, 实体, 逼真 / [法] 现实, 实在存在的事物, 实在性",
+"en": "n. the state of being actual or real / n. the state of the world as it really is rather than as you might want it to be …"
+},
+{
+"word": "coach",
+"pos": "n/vt/vi",
+"zh": "n. 四轮大马车, 教练 / vt. 训练, 指导 / vi. 坐马车旅行, 作指导",
+"en": "n. (sports) someone in charge of training an athlete or a team / n. a person who gives private instruction (as in singin…"
+},
+{
+"word": "notice",
+"pos": "n/vt/vi",
+"zh": "n. 注意, 布告, 通知, 预告, 短评 / vt. 注意, 通知, 评论, 提及, 关注 / vi. 注意",
+"en": "n. an announcement containing information about an event / n. the act of noticing or paying attention / n. advance notif…"
+},
+{
+"word": "yard",
+"pos": "n",
+"zh": "n. 码, 庭院, 工场 / [化] 堆置场",
+"en": "n. a unit of length equal to 3 feet; defined as 91.44 centimeters; originally taken to be the average length of a stride…"
+},
+{
+"word": "beat",
+"pos": "n/v/a",
+"zh": "n. 心跳(声), 打, 敲打声, 拍子 / v. 打, 拍打, 打败 / a. 疲乏的, 颓废的 / beat的过去式 / [计] 拍; 节拍",
+"en": "n. a regular route for a sentry or policeman / n. a single pulsation of an oscillation produced by adding two waves of d…"
+},
+{
+"word": "violence",
+"pos": "n",
+"zh": "n. 猛烈, 暴力, 暴虐, 暴行 / [法] 暴行, 暴力, 暴乱",
+"en": "n. an act of aggression (as one against a person who resists) / n. a turbulent state resulting in injuries and destructi…"
+},
+{
+"word": "collection",
+"pos": "n",
+"zh": "n. 收集, 采集, (一批)收藏品, 募捐 / [医] 收集; 收集品, 标本",
+"en": "n. several things grouped together or considered as a whole / n. a publication containing a variety of works / n. the ac…"
+},
+{
+"word": "communication",
+"pos": "n",
+"zh": "n. 交流, 交通, 通讯 / [计] 通信",
+"en": "n. the activity of communicating; the activity of conveying information / n. something that is communicated by or to or …"
+},
+{
+"word": "fifty",
+"pos": "num",
+"zh": "num. 五十, 五十个",
+"en": "n. the cardinal number that is the product of ten and five / s. being ten more than forty"
+},
+{
+"word": "considerable",
+"pos": "a",
+"zh": "a. 相当的, 可观的, 重要的",
+"en": "a. large or relatively large in number or amount or extent or degree"
+},
+{
+"word": "finger",
+"pos": "n/v",
+"zh": "n. 手指, 指状物, (手套的)手指部分, 指针 / v. 用手指拨弄, 伸出 / [计] 网络命令",
+"en": "n. any of the terminal members of the hand (sometimes excepting the thumb) / n. the length of breadth of a finger used a…"
+},
+{
+"word": "arise",
+"pos": "vi",
+"zh": "vi. 站立, 出现, 起来",
+"en": "v. originate or come into being / v. rise to one's feet / v. result or issue"
+},
+{
+"word": "species",
+"pos": "n",
+"zh": "n. 种, 类, 外形 / [医] 茶剂; 种",
+"en": "n. (biology) taxonomic group whose members can interbreed / n. a specific kind of something"
+},
+{
+"word": "fit",
+"pos": "n/a/vt/vi",
+"zh": "n. 适宜, 合身, 发作, 痉挛 / a. 适宜的, 对的, 准备好的 / vt. 适合, 安装, 使合身, 使适应, 使合格 / vi. 适合, 符合, 合身 / [计] 非特",
+"en": "n. a display of bad temper / n. the manner in which something fits / v. be the right size or shape; fit correctly or as …"
+},
+{
+"word": "partner",
+"pos": "n/vt/vi",
+"zh": "n. 合伙人, 股东, 伙伴, 伴侣 / vt. 与...合伙, 组成一对 / vi. 做伙伴, 当助手",
+"en": "n. a person who is a member of a partnership / v. provide with a partner / v. act as a partner"
+},
+{
+"word": "supply",
+"pos": "n/vt/vi",
+"zh": "n. 补给, 供给, 供应品 / vt. 补给, 供给, 提供, 补充 / vi. 替代",
+"en": "n. an amount of something available for use / n. offering goods and services for sale / v. give something useful or nece…"
+}
+]

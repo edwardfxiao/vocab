@@ -1,0 +1,602 @@
+[
+{
+"word": "flemish",
+"pos": "a",
+"zh": "a. 佛兰德人的；佛兰德的",
+"en": "n. an ethnic group speaking Flemish and living in northern and western Belgium / n. one of two official languages of Bel…"
+},
+{
+"word": "peerage",
+"pos": "n",
+"zh": "n. 贵族, 贵族头衔, 贵族地位",
+"en": "n. the peers of a kingdom considered as a group"
+},
+{
+"word": "racecourse",
+"pos": "n",
+"zh": "n. 赛马场, 水道, 跑道",
+"en": "n a course over which races are run"
+},
+{
+"word": "junta",
+"pos": "n",
+"zh": "n. 以武力政变上台的(军)政府, 私党, 阴谋小集团, 政务会",
+"en": "n a group of military officers who rule a country after seizing power"
+},
+{
+"word": "psycho",
+"pos": "n/a",
+"zh": "n. 心理分析, 精神神经病患者 / a. 精神变态的, 精神神经病的",
+"en": "n a person afflicted with psychosis"
+},
+{
+"word": "scone",
+"pos": "n",
+"zh": "n. 烤饼",
+"en": "n. small biscuit (rich with cream and eggs) cut into diamonds or sticks and baked in an oven or (especially originally) …"
+},
+{
+"word": "primrose",
+"pos": "n/a",
+"zh": "n. 报春花, 欧洲樱草, 淡黄色 / a. 淡黄色的",
+"en": "n. any of numerous short-stemmed plants of the genus Primula having tufted basal leaves and showy flowers clustered in u…"
+},
+{
+"word": "embattled",
+"pos": "a/v",
+"zh": "a. （与敌人或批评者）处于交战中的, 受围攻的; 严阵以待的 / v. 列阵(embattle的过去式和过去分词); 布阵; 严阵以待; 整军备战",
+"en": "s. prepared for battle / s. having or resembling repeated square indentations like those in a battlement"
+},
+{
+"word": "foursome",
+"pos": "n/a",
+"zh": "n. 四人的一组, 四人对抗赛 / a. 四人做的, 由四组成的",
+"en": "n four people considered as a unit / n the cardinal number that is the sum of three and one"
+},
+{
+"word": "fairground",
+"pos": "n",
+"zh": "n. 举行赛会的场所, 露天市场",
+"en": "n. an open area for holding fairs or exhibitions or circuses"
+},
+{
+"word": "emulsion",
+"pos": "n",
+"zh": "n. 乳状液, 乳剂 / [化] 乳化作用; 乳剂; 乳液; 乳状液; 乳浊液",
+"en": "n. (chemistry) a colloid in which both phases are liquids / n. a light-sensitive coating on paper or film; consists of f…"
+},
+{
+"word": "fullback",
+"pos": "n",
+"zh": "n. 后卫",
+"en": "n. (football) the running back who plays the fullback position on the offensive team / n. (American football) the positi…"
+},
+{
+"word": "slog",
+"pos": "n/v",
+"zh": "n. 猛击, 苦干, 跋涉 / v. 猛击, 苦干",
+"en": "v. walk heavily and firmly, as when weary, or through mud"
+},
+{
+"word": "banjo",
+"pos": "n",
+"zh": "n. 班卓琴",
+"en": "n. a stringed instrument of the guitar family that has long neck and circular body"
+},
+{
+"word": "catwalk",
+"pos": "n",
+"zh": "n. 狭小通道",
+"en": "n. narrow platform extending out into an auditorium / n. narrow pathway high in the air (as above a stage or between par…"
+},
+{
+"word": "meringue",
+"pos": "n",
+"zh": "n. 糕饼, 蛋白甜馅饼, 蛋白甜饼, 蛋白酥皮筒/酥皮卷, 蛋白酥皮 / [化] 蛋糖霜",
+"en": "n. sweet topping especially for pies made of beaten egg whites and sugar"
+},
+{
+"word": "roadshow",
+"pos": "n",
+"zh": "n. （由广播电台、杂志或公司组织的）路演, 巡回演出; 巡回演出; 巡回宣传（或竞选）团队",
+"en": ""
+},
+{
+"word": "dandelion",
+"pos": "n",
+"zh": "n. 药蒲公英 / [化] 蒲公英",
+"en": "n. any of several herbs of the genus Taraxacum having long tap roots and deeply notched leaves and bright yellow flowers…"
+},
+{
+"word": "hotelier",
+"pos": "n",
+"zh": "n. 旅馆老板",
+"en": "n. an owner or manager of hotels"
+},
+{
+"word": "crucifixion",
+"pos": "n",
+"zh": "n. 在十字架上钉死的刑罚, 酷刑, 苦难, 折磨",
+"en": "n. the act of executing by a method widespread in the ancient world; the victim's hands and feet are bound or nailed to …"
+},
+{
+"word": "manicure",
+"pos": "n/vt",
+"zh": "n. 修指甲术, 修指甲, 修指甲师 / vt. 修指甲, 修剪",
+"en": "n. professional care for the hands and fingernails / v. trim carefully and neatly / v. care for (one's hand) by cutting …"
+},
+{
+"word": "heartache",
+"pos": "n",
+"zh": "n. 心痛, 悲叹",
+"en": "n intense sorrow caused by loss of a loved one (especially by death)"
+},
+{
+"word": "crewman",
+"pos": "n",
+"zh": "n. 机组乘员",
+"en": "n. a member of a flight crew / n. a member of a work crew"
+},
+{
+"word": "marmalade",
+"pos": "n",
+"zh": "n. (橘子等制成的)果酱",
+"en": "n. a preserve made of the pulp and rind of citrus fruits"
+},
+{
+"word": "macro",
+"pos": "a",
+"zh": "pref. 宏 / a. 巨大的, 大量的 / [计] 宏",
+"en": "n. a single computer instruction that results in a series of instructions in machine language / s. very large in scale o…"
+},
+{
+"word": "stratosphere",
+"pos": "n",
+"zh": "n. 同温层, 最上层, 尖端的学科领域 / [医] 同温层, 平流层",
+"en": "n. the atmospheric layer between the troposphere and the mesosphere"
+},
+{
+"word": "rundown",
+"pos": "n",
+"zh": "n. 裁减, 梗概, 夹杀出局",
+"en": "n a concluding summary (as in presenting a case before a law court)"
+},
+{
+"word": "frigate",
+"pos": "n",
+"zh": "n. 装有大炮的快速帆船, 护卫舰",
+"en": "n. a medium size square-rigged warship of the 18th and 19th centuries / n. a United States warship larger than a destroy…"
+},
+{
+"word": "wimp",
+"pos": "n",
+"zh": "n. 懦弱的人；无能的人",
+"en": "n. a person who lacks confidence, is irresolute and wishy-washy"
+},
+{
+"word": "daydream",
+"pos": "n/vi",
+"zh": "n. 白日梦 / vi. 做白日梦",
+"en": "v. have dreamlike musings or fantasies while awake"
+},
+{
+"word": "imam",
+"pos": "n",
+"zh": "n. 阿訇, 伊玛目",
+"en": "n. (Islam) the man who leads prayers in a mosque; for Shiites an imam is a recognized authority on Islamic theology and …"
+},
+{
+"word": "bombshell",
+"pos": "n",
+"zh": "n. 炸弹, 突发而惊人的事物",
+"en": "n. an entertainer who has a sensational effect / n. a shocking surprise / n. an explosive bomb or artillery shell"
+},
+{
+"word": "gunpoint",
+"pos": "n",
+"zh": "n. 枪口",
+"en": "n the gun muzzle's direction"
+},
+{
+"word": "electrify",
+"pos": "vt",
+"zh": "vt. 通电, 上电, 使带电, 使电气化 / [医] 起电, 带电",
+"en": "v. excite suddenly and intensely / v. charge (a conductor) with electricity / v. equip for use with electricity"
+},
+{
+"word": "anchorage",
+"pos": "n",
+"zh": "n. 下锚, 锚地, 停泊税 / [化] 固着; 固定; 锚定",
+"en": "n. the condition of being secured to a base / n. a fee for anchoring / n. a city in south central Alaska / n. place for …"
+},
+{
+"word": "saffron",
+"pos": "n/a",
+"zh": "n. 藏红花, 藏红花柱头, 藏红花色 / a. 藏红花色的",
+"en": "n. Old World crocus having purple or white flowers with aromatic pungent orange stigmas used in flavoring food / n. drie…"
+},
+{
+"word": "encore",
+"pos": "n/interj/vt",
+"zh": "n. 再演唱的要求, 要次登场 / interj. 再演唱一次 / vt. 要求再演(或唱)",
+"en": "n. an extra or repeated performance; usually given in response to audience demand / v. request an encore, from a perform…"
+},
+{
+"word": "commodore",
+"pos": "n",
+"zh": "n. 海军准将, 船队队长 / [法] 船长, 舰队司令官",
+"en": "n. a commissioned naval officer who ranks above a captain and below a rear admiral; the lowest grade of admiral"
+},
+{
+"word": "standby",
+"pos": "n",
+"zh": "n. 可依靠的人, 被喜爱的食品, 备用品, 准备发报, 准备收报 / [电] 备用的",
+"en": "n. something that can be relied on when needed / s. ready for emergency use"
+},
+{
+"word": "requiem",
+"pos": "n",
+"zh": "n. 安魂曲, 安灵曲, 挽歌, 悲歌",
+"en": "n. a musical setting for a Mass celebrating the dead / n. a Mass celebrated for the dead"
+},
+{
+"word": "bookmaker",
+"pos": "n",
+"zh": "n. 著作家, 编辑者, 赌注登记经营人 / [法] 以赌为业者, 赌本, 编书谋利者",
+"en": "n. a maker of books; someone who edits or publishes or binds books / n. a gambler who accepts and pays off bets (especia…"
+},
+{
+"word": "watchman",
+"pos": "n",
+"zh": "n. 巡夜者, 看守人 / [法] 看守人, 门警, 哨兵",
+"en": "n. a guard who keeps watch"
+},
+{
+"word": "jackpot",
+"pos": "n",
+"zh": "n. 最大赌注, (彩票的)头奖, 最大成功, 意外的成功/奖赏, 困境",
+"en": "n. any outstanding award"
+},
+{
+"word": "expectant",
+"pos": "n/a",
+"zh": "n. 预期者, 期待者, 候选人 / a. 预期的, 期待的",
+"en": "s marked by eager anticipation / s in an advanced stage of pregnancy"
+},
+{
+"word": "hernia",
+"pos": "n",
+"zh": "n. 疝气 / [医] 疝, 突出",
+"en": "n. rupture in smooth muscle tissue through which a bodily structure protrudes"
+},
+{
+"word": "karaoke",
+"pos": "n",
+"zh": "n. 卡拉OK；卡拉OK录音, 自动伴奏录音",
+"en": "n. singing popular songs accompanied by a recording of an orchestra (usually in bars or nightclubs)"
+},
+{
+"word": "policewoman",
+"pos": "n",
+"zh": "n. 女警察 / [法] 女警察",
+"en": "n a woman policeman"
+},
+{
+"word": "lilac",
+"pos": "n/a",
+"zh": "n. 丁香, 丁香花, 淡紫色 / a. 淡紫色的",
+"en": "n. any of various plants of the genus Syringa having large panicles of usually fragrant flowers"
+},
+{
+"word": "hash",
+"pos": "n/vt",
+"zh": "n. 剁碎的食物, 杂乱无章的的一大堆, 杂烩, 复述 / vt. 切碎, 搞糟",
+"en": "n. chopped meat mixed with potatoes and browned / v. chop up"
+},
+{
+"word": "spar",
+"pos": "n/vt/vi",
+"zh": "n. 晶石, 圆材, 拳斗, 争论 / vt. 装圆材于 / vi. 拳斗, 争论",
+"en": "n. any of various nonmetallic minerals (calcite or feldspar) that are light in color and transparent or translucent and …"
+},
+{
+"word": "counterattack",
+"pos": "n/v",
+"zh": "n. 反攻, 反击 / v. 反攻, 反击",
+"en": "n. an attack by a defending force against an attacking enemy force in order to regain lost ground or cut off enemy advan…"
+},
+{
+"word": "succulent",
+"pos": "a",
+"zh": "a. 多汁的, 多水分的 / [医] 多汁的(植物)",
+"en": "n. a plant adapted to arid conditions and characterized by fleshy water-storing tissues that act as water reservoirs"
+},
+{
+"word": "distillery",
+"pos": "n",
+"zh": "n. 蒸馏室, 酿酒厂, 酒厂 / [化] 酒厂; 造酒厂",
+"en": "n. a plant and works where alcoholic drinks are made by distillation"
+},
+{
+"word": "swastika",
+"pos": "n",
+"zh": "n. 纳粹党所用的十字记号",
+"en": "n. the official emblem of the Nazi Party and the Third Reich; a cross with the arms bent at right angles in a clockwise …"
+},
+{
+"word": "jittery",
+"pos": "a",
+"zh": "a. 极度紧张不安的",
+"en": "a. characterized by jerky movements"
+},
+{
+"word": "meningitis",
+"pos": "n",
+"zh": "n. 脑膜炎 / [医] 脑[脊]膜炎",
+"en": "n. infectious disease characterized by inflammation of the meninges (the tissues that surround the brain or spinal cord)…"
+},
+{
+"word": "venison",
+"pos": "n",
+"zh": "n. 鹿肉, 野味",
+"en": "n. meat from a deer used as food"
+},
+{
+"word": "millet",
+"pos": "n",
+"zh": "n. 稷, 粟, 黍 / [医] 小米",
+"en": "n. any of various small-grained annual cereal and forage grasses of the genera Panicum, Echinochloa, Setaria, Sorghum, a…"
+},
+{
+"word": "psychedelic",
+"pos": "a/n",
+"zh": "a. 引起幻觉的, 荧光的 / n. 迷幻剂",
+"en": "s. producing distorted sensory perceptions and feelings or altered states of awareness or sometimes states resembling ps…"
+},
+{
+"word": "caddie",
+"pos": "n/vi",
+"zh": "n. 球童 / vi. 当球童",
+"en": "n. an attendant who carries the golf clubs for a player / v. act as a caddie and carry clubs for a player"
+},
+{
+"word": "zodiac",
+"pos": "n",
+"zh": "n. 黄道带, 黄道十二宫图",
+"en": "n. a belt-shaped region in the heavens on either side to the ecliptic; divided into 12 constellations or signs for astro…"
+},
+{
+"word": "paratrooper",
+"pos": "n",
+"zh": "n. 伞兵",
+"en": "n. a soldier in the paratroops"
+},
+{
+"word": "militiaman",
+"pos": "n",
+"zh": "n. 国民兵, 民兵",
+"en": "n. a member of the militia; serves only during emergencies"
+},
+{
+"word": "liqueur",
+"pos": "n",
+"zh": "n. 利口酒 / [医] 香酒",
+"en": "n. strong highly flavored sweet liquor usually drunk after a meal"
+},
+{
+"word": "dynamism",
+"pos": "n",
+"zh": "n. 物力论, 力本说 / [医] 动力说, 动力病原论",
+"en": "n. any of the various theories or doctrines or philosophical systems that attempt to explain the phenomena of the univer…"
+},
+{
+"word": "furlong",
+"pos": "n",
+"zh": "n. 弗隆(英国长度单位)",
+"en": "n. a unit of length equal to 220 yards"
+},
+{
+"word": "deodorant",
+"pos": "n/a",
+"zh": "n. 除臭药, 防臭剂 / a. 止臭的, 防臭的",
+"en": "n. a toiletry applied to the skin in order to mask unpleasant odors"
+},
+{
+"word": "cognac",
+"pos": "n",
+"zh": "n. 科捏克上等白兰地 / [医] 法国白兰地",
+"en": "n. high quality grape brandy distilled in the Cognac district of France"
+},
+{
+"word": "duff",
+"pos": "n/vt",
+"zh": "n. 水果干布丁, 细煤, 煤屑, 无用的东西 / vt. 把...弄得像新的一样, 把...改头换面",
+"en": "n. a stiff flour pudding steamed or boiled usually and containing e.g. currants and raisins and citron"
+},
+{
+"word": "chromium",
+"pos": "n",
+"zh": "n. 铬 / [化] 铬Cr",
+"en": "n. a hard brittle multivalent metallic element; resistant to corrosion and tarnishing"
+},
+{
+"word": "druid",
+"pos": "n",
+"zh": "n. 巫师, 占卜者, 祭师",
+"en": "n. a pre-Christian priest among the Celts of ancient Gaul and Britain and Ireland"
+},
+{
+"word": "captaincy",
+"pos": "n",
+"zh": "n. 舰长的职位, 大将的才略, 舰长的衔头",
+"en": "n the post of captain"
+},
+{
+"word": "cheddar",
+"pos": "n",
+"zh": "n. 坚实细腻的黄色干酪 / [化] 赛达酪(英国产的一种干酪)",
+"en": "n. a village in southwestern England where cheddar cheese was first made / n. hard smooth-textured cheese; originally ma…"
+},
+{
+"word": "promiscuous",
+"pos": "a",
+"zh": "a. 杂乱的, 混杂的, 混淆的",
+"en": "s. not selective of a single class or person"
+},
+{
+"word": "winch",
+"pos": "n/vt",
+"zh": "n. 曲柄, 绞车 / vt. 用绞盘拉",
+"en": "n. lifting device consisting of a horizontal cylinder turned by a crank on which a cable or rope winds / v. pull or lift…"
+},
+{
+"word": "grapevine",
+"pos": "n",
+"zh": "n. 葡萄藤, 葡萄树, 秘密情报网",
+"en": "n. gossip spread by spoken communication"
+},
+{
+"word": "melodramatic",
+"pos": "a",
+"zh": "a. 传奇剧风格的, 戏剧似的, 夸张的",
+"en": "s. having the excitement and emotional appeal of melodrama"
+},
+{
+"word": "magnolia",
+"pos": "n",
+"zh": "n. 木兰, 浅桃红色 / [医] 木兰属",
+"en": "n. dried bark of various magnolias; used in folk medicine / n. any shrub or tree of the genus Magnolia; valued for their…"
+},
+{
+"word": "stampede",
+"pos": "v/n",
+"zh": "v. (使)惊跑, (使)蜂拥 / n. 惊跑, 蜂拥",
+"en": "n. a headlong rush of people on a common impulse / n. a wild headlong rush of frightened animals (horses or cattle) / v.…"
+},
+{
+"word": "afoot",
+"pos": "a/adv",
+"zh": "a. 徒步的, 在进行中的, 活动中的 / adv. 徒步, 在进行中",
+"en": "s. traveling by foot / s. currently in progress / r. on foot; walking"
+},
+{
+"word": "dragoon",
+"pos": "n/vt",
+"zh": "n. 龙骑兵, 骑兵, 暴徒 / vt. 以武力迫害, 弹压, 强制",
+"en": "n. a member of a European military unit formerly composed of heavily armed cavalrymen / v. compel by coercion, threats, …"
+},
+{
+"word": "blindfold",
+"pos": "n/vt/a",
+"zh": "n. 眼罩, 障眼物 / vt. 遮眼, 蒙骗 / a. 看不清的, 盲目的",
+"en": "n. a cloth used to cover the eyes / v. cover the eyes of (someone) to prevent him from seeing / s. wearing a blindfold"
+},
+{
+"word": "teak",
+"pos": "n",
+"zh": "n. 柚木 / [医] 柚木",
+"en": "n. hard strong durable yellowish-brown wood of teak trees; resistant to insects and to warping; used for furniture and i…"
+},
+{
+"word": "bygone",
+"pos": "n/a",
+"zh": "n. 过去的事, 往事 / a. 过去的",
+"en": "n. past events to be put aside / s. well in the past; former"
+},
+{
+"word": "indulgent",
+"pos": "a",
+"zh": "a. 纵容的, 任性的, 宽容的",
+"en": "a. characterized by or given to yielding to the wishes of someone / s. tolerant or lenient / s. being favorably inclined"
+},
+{
+"word": "basilica",
+"pos": "n",
+"zh": "n. 长方形廊柱大厅, 长方形教堂",
+"en": "n. an early Christian church designed like a Roman basilica; or a Roman Catholic church or cathedral accorded certain pr…"
+},
+{
+"word": "chiffon",
+"pos": "n/a",
+"zh": "n. 雪纺绸, 薄绸, 女子服装装饰品 / a. 用薄绸制成的, 象薄绸般透明的, 因加入起沫蛋白而松软的",
+"en": "n. a sheer fabric of silk or rayon"
+},
+{
+"word": "psychosis",
+"pos": "n",
+"zh": "n. 精神病, 精神不正常 / [医] 精神病",
+"en": "n. any severe mental disorder in which contact with reality is lost or highly distorted"
+},
+{
+"word": "microchip",
+"pos": "n",
+"zh": "n. 微型集成电路片, 微片, 芯片 / [计] 微片",
+"en": "n electronic equipment consisting of a small crystal of a silicon semiconductor fabricated to carry out a number of elec…"
+},
+{
+"word": "lacquer",
+"pos": "n/vt",
+"zh": "n. 瓷漆, 漆, 漆器 / vt. 涂漆",
+"en": "n. a black resinous substance obtained from certain trees and used as a natural varnish / n. a hard glossy coating / v. …"
+},
+{
+"word": "masturbate",
+"pos": "v",
+"zh": "v. 手淫",
+"en": "v. stimulate sexually / v. get sexual gratification through self-stimulation"
+},
+{
+"word": "courgette",
+"pos": "n",
+"zh": "n. 一种密生西葫芦",
+"en": "n marrow squash plant whose fruit are eaten when small / n small cucumber-shaped vegetable marrow; typically dark green"
+},
+{
+"word": "snipe",
+"pos": "n/vi/vt",
+"zh": "n. 沙锥, 香烟屁股, 狙击, 街头流浪儿 / vi. 猎鸟, 狙击, 诽谤 / vt. 狙击",
+"en": "n. Old or New World straight-billed game bird of the sandpiper family; of marshy areas; similar to the woodcocks / n. a …"
+},
+{
+"word": "scavenge",
+"pos": "vt/vi",
+"zh": "vt. 打扫, 排除废气, 在...中找有用之物, 以...为食, 清除 / vi. 清扫",
+"en": "v. clean refuse from / v. feed on carrion or refuse / v. remove unwanted substances from"
+},
+{
+"word": "hyperactive",
+"pos": "a",
+"zh": "a. 活动过度的 / [计] 超...的",
+"en": "s. more active than normal"
+},
+{
+"word": "multimillionaire",
+"pos": "n",
+"zh": "n. 大富豪, 千万富翁",
+"en": ""
+},
+{
+"word": "aphid",
+"pos": "n",
+"zh": "n. 蚜虫",
+"en": "n. any of various small plant-sucking insects"
+},
+{
+"word": "cannibal",
+"pos": "n/a",
+"zh": "n. 食人者, 吃同类的动物 / a. 食同类的, 吃人肉的",
+"en": "n. a person who eats human flesh"
+},
+{
+"word": "whoop",
+"pos": "n/vi/vt",
+"zh": "n. 大叫, 呐喊, 一点点 / vi. 叫喊, 鸣叫 / vt. 高声说, 唤起",
+"en": "n. a loud hooting cry of exultation or excitement / v. shout, as if with joy or enthusiasm"
+},
+{
+"word": "festoon",
+"pos": "n/vt",
+"zh": "n. 花彩 / vt. 结彩于",
+"en": "n. a curtain of fabric draped and bound at intervals to form graceful curves / n. an embellishment consisting of a decor…"
+}
+]

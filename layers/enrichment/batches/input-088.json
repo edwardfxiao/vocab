@@ -1,0 +1,602 @@
+[
+{
+"word": "transcribe",
+"pos": "vt",
+"zh": "vt. 抄写, 译, 意译, 录制, 改编 / [计] 转录",
+"en": "v. write out from speech, notes, etc. / v. rewrite or arrange a piece of music for an instrument or medium other than th…"
+},
+{
+"word": "predicament",
+"pos": "n",
+"zh": "n. 处境, 穷境, 困局",
+"en": "n. a situation from which extrication is difficult especially an unpleasant or trying one"
+},
+{
+"word": "sinus",
+"pos": "n",
+"zh": "n. 窦, 静脉窦, 凹陷处",
+"en": "n. any of various air-filled cavities especially in the bones of the skull"
+},
+{
+"word": "garnish",
+"pos": "n/vt",
+"zh": "n. 装饰, 装饰品 / vt. 装饰",
+"en": "n. something (such as parsley) added to a dish for flavor or decoration / n. any decoration added as a trimming or adorn…"
+},
+{
+"word": "calibre",
+"pos": "n",
+"zh": "n. 口径, 才干, 水准",
+"en": "n a degree or grade of excellence or worth / n diameter of a tube or gun barrel"
+},
+{
+"word": "humility",
+"pos": "n",
+"zh": "n. 谦逊, 谦虚, 谦卑",
+"en": "n. a disposition to be humble; a lack of false pride / n. a humble feeling"
+},
+{
+"word": "caffeine",
+"pos": "n",
+"zh": "n. 咖啡因, 咖啡碱 / [化] 咖啡因; 咖啡碱",
+"en": "n. a bitter alkaloid found in coffee and tea that is responsible for their stimulating effects"
+},
+{
+"word": "locus",
+"pos": "n",
+"zh": "n. 轨迹；地点, 所在地",
+"en": "n. the specific site of a particular gene on its chromosome / n. the set of all points or lines that satisfy or are dete…"
+},
+{
+"word": "adamant",
+"pos": "n/a",
+"zh": "n. 坚硬的东西 / a. 非常坚硬的, 坚强的, 固执的",
+"en": "s. impervious to pleas, persuasion, requests, reason; she would have none of him\"- W.Churchill"
+},
+{
+"word": "mango",
+"pos": "n",
+"zh": "n. 芒果 / [化] 芒果Mangifera indica",
+"en": "n. large evergreen tropical tree cultivated for its large oval fruit / n. large oval tropical fruit having smooth skin, …"
+},
+{
+"word": "tickle",
+"pos": "n/vt/vi",
+"zh": "n. 胳肢, 痒 / vt. 胳肢, 使发痒, 使快乐, 逗乐 / vi. 觉得痒, 使人痒",
+"en": "n. a cutaneous sensation often resulting from light stroking / n. the act of tickling / v. touch (a body part) lightly s…"
+},
+{
+"word": "biotechnology",
+"pos": "n",
+"zh": "n. 生物工艺学；生物技术",
+"en": "n. the branch of molecular biology that studies the use of microorganisms to perform specific industrial processes / n. …"
+},
+{
+"word": "scour",
+"pos": "vt/vi/n",
+"zh": "vt. 擦亮, 洗涤, 清洗, 冲刷成, 急速穿过 / vi. 擦, 洗, 冲刷, 腹泻, 急速穿行 / n. 擦, 洗, 腹泻, 洗涤剂",
+"en": "n. a place that is scoured (especially by running water) / v. examine minutely / v. rub hard or scrub"
+},
+{
+"word": "wizard",
+"pos": "n/a",
+"zh": "n. 男巫, 术士, 奇才 / a. 男巫的, 巫术的 / [计] 向导",
+"en": "n someone who is dazzlingly skilled in any field / n one who practices magic or sorcery / s possessing or using or chara…"
+},
+{
+"word": "freshwater",
+"pos": "a",
+"zh": "a. 江河湖泊的, 淡水的",
+"en": "n water that is not salty"
+},
+{
+"word": "billionaire",
+"pos": "n",
+"zh": "n. 亿万富翁",
+"en": "n. a very rich person whose material wealth is valued at more than a billion dollars"
+},
+{
+"word": "waterway",
+"pos": "n",
+"zh": "n. 航道, 水路 / [法] 水道, 水路航道",
+"en": "n. a navigable body of water"
+},
+{
+"word": "skyline",
+"pos": "n",
+"zh": "n. 天涯, 地平线, 空中轮廓线",
+"en": "n. the outline of objects seen against the sky"
+},
+{
+"word": "lunge",
+"pos": "n/v",
+"zh": "n. 刺, 刺进, 跃进, 套马索 / v. 突进, 刺",
+"en": "n. (fencing) an attacking thrust made with one foot forward and the back leg straight and with the sword arm outstretche…"
+},
+{
+"word": "downhill",
+"pos": "a/adv",
+"zh": "a. 下坡的 / adv. 下坡, 向下",
+"en": "n. the downward slope of a hill / n. a ski race down a trail / r. toward a lower or inferior state / r. toward the botto…"
+},
+{
+"word": "alligator",
+"pos": "n",
+"zh": "n. 短吻鳄 / [机] 两栖装甲车",
+"en": "n. leather made from alligator's hide / n. either of two amphibious reptiles related to crocodiles but with shorter broa…"
+},
+{
+"word": "overshadow",
+"pos": "vt",
+"zh": "vt. 遮阴, 使阴暗, 使失色, 使相形见绌, 使蒙上阴影",
+"en": "v. be greater in significance than / v. cast a shadow upon"
+},
+{
+"word": "repeal",
+"pos": "n/vt",
+"zh": "n. 废止, 撤消 / vt. 废止, 撤消, 放弃",
+"en": "n the act of abrogating; an official or legal cancellation / v cancel officially"
+},
+{
+"word": "halo",
+"pos": "n/vt/vi",
+"zh": "n. 晕轮, 光圈, 晕状物, 荣光 / vt. 使有晕轮, 围以光环 / vi. 成晕轮",
+"en": "n. a circle of light around the sun or moon"
+},
+{
+"word": "chlorine",
+"pos": "n",
+"zh": "n. 氯 / [化] 氯Cl",
+"en": "n. a common nonmetallic element belonging to the halogens; best known as a heavy yellow irritating toxic gas; used to pu…"
+},
+{
+"word": "sulfur",
+"pos": "n/vt",
+"zh": "n. 硫, 硫磺 / vt. 用硫磺处理",
+"en": "n. an abundant tasteless odorless multivalent nonmetallic element; best known in yellow crystals; occurs in many sulphid…"
+},
+{
+"word": "sane",
+"pos": "a",
+"zh": "a. 神智健全的, 稳健的, 没病的, 合理的 / [医] 精神健全的",
+"en": "a. mentally healthy; free from mental disorder"
+},
+{
+"word": "fore",
+"pos": "a/adv/prep",
+"zh": "a. 在前的, 以前的 / adv. 在前面, 在船头 / prep. 在...前",
+"en": "a. situated at or toward the bow of a vessel / r. near or toward the bow of a ship or cockpit of a plane"
+},
+{
+"word": "somber",
+"pos": "a",
+"zh": "a. 昏暗的, 阴天的, 严峻的, 忧郁的",
+"en": "s. grave or even gloomy in character"
+},
+{
+"word": "engulf",
+"pos": "vt",
+"zh": "vt. 卷入, 吸进, 吞没, 使全神贯注",
+"en": "v. flow over or cover completely"
+},
+{
+"word": "unsettle",
+"pos": "vt/vi",
+"zh": "vt. 使移动, 搅乱, 使动摇, 使不安宁 / vi. 动荡不定, 离开固定位置",
+"en": "v disturb the composure of"
+},
+{
+"word": "hindsight",
+"pos": "n",
+"zh": "n. 枪的表尺, 事后聪明",
+"en": "n. understanding the nature of an event after it has happened"
+},
+{
+"word": "containment",
+"pos": "n",
+"zh": "n. 抑制, 牵制, 遏制 / [法] 抑制, 牵制, 遏制",
+"en": "n. a policy of creating strategic alliances in order to check the expansion of a hostile power or ideology or to force i…"
+},
+{
+"word": "decency",
+"pos": "n",
+"zh": "n. 得体, 礼貌, 正派 / [法] 正当, 正派, 合乎礼仪",
+"en": "n. the quality of conforming to standards of propriety and morality / n. the quality of being polite and respectable"
+},
+{
+"word": "malpractice",
+"pos": "n",
+"zh": "n. 不当治疗, 不端行为, 渎职 / [医] 疗法失当, 医疗差错",
+"en": "n. professional wrongdoing that results in injury or damage / n. a wrongful act that the actor had no right to do; impro…"
+},
+{
+"word": "mower",
+"pos": "n",
+"zh": "n. 刈草的人, 刈草机",
+"en": "n garden tool for mowing grass on lawns"
+},
+{
+"word": "pitfall",
+"pos": "n",
+"zh": "n. 陷阱, 诱惑, 阴谋, 易犯的错误, 意想不到的困难",
+"en": "n. an unforeseen or unexpected or surprising difficulty"
+},
+{
+"word": "microscopic",
+"pos": "a",
+"zh": "a. 显微镜的, 用显微镜可见的, 微观的, (非正式)极微小的, 细微的 / [计] 微观的",
+"en": "a. of or relating to or used in microscopy / s. visible under a microscope; using a microscope / s. extremely precise wi…"
+},
+{
+"word": "pessimistic",
+"pos": "a",
+"zh": "a. 悲观的, 厌世的, 悲观主义的",
+"en": "a. expecting the worst possible outcome"
+},
+{
+"word": "juggle",
+"pos": "vi/vt/n",
+"zh": "vi. 玩戏法, 行骗, 篡改 / vt. 耍弄, 歪曲, 篡改 / n. 玩戏法, 魔术, 欺骗",
+"en": "n. the act of rearranging things to give a misleading impression / n. throwing and catching several objects simultaneous…"
+},
+{
+"word": "limousine",
+"pos": "n",
+"zh": "n. 轿车",
+"en": "n. large luxurious car; usually driven by a chauffeur"
+},
+{
+"word": "plentiful",
+"pos": "a",
+"zh": "a. 许多的, 丰富的, 丰饶的",
+"en": "s. existing in great number or quantity"
+},
+{
+"word": "lengthen",
+"pos": "vt/vi",
+"zh": "vt. 加长, 使延长 / vi. 变长",
+"en": "v. make longer / v. become long or longer"
+},
+{
+"word": "dustbin",
+"pos": "n",
+"zh": "n. 垃圾箱",
+"en": "n a bin that holds rubbish until it is collected"
+},
+{
+"word": "backbone",
+"pos": "n",
+"zh": "n. 脊椎, 志气, 骨干, 支柱 / [计] 主干网, 主干网点",
+"en": "n. fortitude and determination / n. the part of a network that connects other networks together"
+},
+{
+"word": "troublesome",
+"pos": "a",
+"zh": "a. 麻烦的, 令人讨厌的",
+"en": "s. difficult to deal with"
+},
+{
+"word": "horrify",
+"pos": "vt",
+"zh": "vt. 使恐惧, 使震惊",
+"en": "v fill with apprehension or alarm; cause to be unpleasantly surprised"
+},
+{
+"word": "ploy",
+"pos": "n",
+"zh": "n. 手段, 活动, 玩乐",
+"en": "n. a maneuver in a game or conversation"
+},
+{
+"word": "devoid",
+"pos": "a",
+"zh": "a. 全无的, 缺乏的",
+"en": "s completely wanting or lacking"
+},
+{
+"word": "whim",
+"pos": "n",
+"zh": "n. 一时的兴致, 冲动, 怪念头, 绞盘",
+"en": "n a sudden desire / n an odd or fanciful or capricious idea"
+},
+{
+"word": "meager",
+"pos": "a",
+"zh": "a. 质量差的, 贫乏的, 不毛的, 瘦的",
+"en": "a. deficient in amount or quality or extent"
+},
+{
+"word": "dent",
+"pos": "n/vt/vi",
+"zh": "n. 凹痕 / vt. 使凹下, 削弱 / vi. 塌陷",
+"en": "n. an appreciable consequence (especially a lessening) / n. an impression in a surface (as made by a blow)"
+},
+{
+"word": "pollen",
+"pos": "n/vt",
+"zh": "n. 花粉 / vt. 传授花粉给",
+"en": "n. the fine spores that contain male gametes and that are borne by an anther in a flowering plant"
+},
+{
+"word": "perk",
+"pos": "vi/vt/n",
+"zh": "vi. 昂首, 振作, 举止高傲, 神气活现, 滤煮 / vt. 竖起, 打扮, 使振作, 滤煮 / n. 小费",
+"en": "n an incidental benefit awarded for certain types of employment (especially if it is regarded as a right) / v gain or re…"
+},
+{
+"word": "defiant",
+"pos": "a",
+"zh": "a. 挑衅的, 目中无人的",
+"en": "a. boldly resisting authority or an opposing force"
+},
+{
+"word": "conspire",
+"pos": "vi/vt",
+"zh": "vi. 阴谋, 协力, 共谋 / vt. 图谋",
+"en": "v. engage in plotting or enter into a conspiracy, swear together / v. act in unison or agreement and in secret towards a…"
+},
+{
+"word": "disposable",
+"pos": "a",
+"zh": "a. 可任意处理的 / [法] 可任意处理或处置的, 可自由使用的",
+"en": "n. an item that can be disposed of after it has been used / a. free or available for use or disposition / a. designed to…"
+},
+{
+"word": "loophole",
+"pos": "n",
+"zh": "n. 枪眼, 小窗, 换气孔",
+"en": "n. an ambiguity (especially one in the text of a law or contract) that makes it possible to evade a difficulty or obliga…"
+},
+{
+"word": "bash",
+"pos": "v/n",
+"zh": "v. 猛击, 打坏 / n. 猛撞, 猛击",
+"en": "n. an uproarious party"
+},
+{
+"word": "insistent",
+"pos": "a",
+"zh": "a. 坚持的, 迫切的",
+"en": "s. repetitive and persistent"
+},
+{
+"word": "statistic",
+"pos": "n/a",
+"zh": "n. 统计量 / a. 统计的, 统计学的",
+"en": "n. a datum that can be represented numerically"
+},
+{
+"word": "pollster",
+"pos": "n",
+"zh": "n. 民意调查人, 民意测验经办人",
+"en": "n. someone who conducts surveys of public opinion"
+},
+{
+"word": "apiece",
+"pos": "adv",
+"zh": "adv. 就每个而论, 各",
+"en": "r to or from every one of two or more (considered individually)"
+},
+{
+"word": "amass",
+"pos": "vt",
+"zh": "vt. 积聚, 堆积",
+"en": "v collect or gather / v get or gather together"
+},
+{
+"word": "intrude",
+"pos": "vi/vt",
+"zh": "vi. 闯入, 侵入 / vt. 强加于",
+"en": "v. enter uninvited / v. search or inquire in a meddlesome way / v. thrust oneself in as if by force"
+},
+{
+"word": "flair",
+"pos": "n",
+"zh": "n. 鉴别力, 才能, 天资, 资质, 眼光",
+"en": "n. a natural talent"
+},
+{
+"word": "vigor",
+"pos": "n",
+"zh": "n. 精力, 活力",
+"en": "n. active strength of body or mind"
+},
+{
+"word": "savvy",
+"pos": "v/n",
+"zh": "v. 理解, 领悟 / n. 理解能力, 机智, 悟性",
+"en": "n the cognitive condition of someone who understands / v get the meaning of something"
+},
+{
+"word": "complacency",
+"pos": "n",
+"zh": "n. 满足, 自鸣得意, 自满",
+"en": "n. the feeling you have when you are satisfied with yourself"
+},
+{
+"word": "precursor",
+"pos": "n",
+"zh": "n. 先驱者, 前导, 前兆 / [化] 前体; 前身; 产物母体",
+"en": "n. a substance from which another substance is formed (especially by a metabolic reaction) / n. a person who goes before…"
+},
+{
+"word": "poignant",
+"pos": "a",
+"zh": "a. 辛酸的, 尖锐的, 剧烈的",
+"en": "s. keenly distressing to the mind or feelings"
+},
+{
+"word": "subdued",
+"pos": "a",
+"zh": "a. 屈服的, 被抑制的, 减弱的, 柔和的",
+"en": "s. quieted and brought under control"
+},
+{
+"word": "swoop",
+"pos": "n/vt/vi",
+"zh": "n. 俯冲, 攫取 / vt. 抓取 / vi. 猛扑, 突然袭击",
+"en": "n. (music) rapid sliding up or down the musical scale / n. a very rapid raid / n. a swift descent through the air / v. m…"
+},
+{
+"word": "conclusive",
+"pos": "a",
+"zh": "a. 决定性的, 确定性的, 最后的 / [法] 决定性的, 不容置疑的, 确实的",
+"en": "a. forming an end or termination; especially putting an end to doubt or question"
+},
+{
+"word": "recur",
+"pos": "vi",
+"zh": "vi. 复发, 回到, 重现, 再来, 诉诸, 采用, 循环",
+"en": "v. happen or occur again / v. return in thought or speech to something"
+},
+{
+"word": "treadmill",
+"pos": "n",
+"zh": "n. 踏车, 令人厌倦的工作 / [法] 踏车",
+"en": "n. an exercise device consisting of an endless belt on which a person can walk or jog without changing place / n. a mill…"
+},
+{
+"word": "pedigree",
+"pos": "n",
+"zh": "n. 血统, 家谱, 名门世系 / [法] 家系, 出身, 血统",
+"en": "n. line of descent of a purebred animal / n. ancestry of a purebred animal / s. having a list of ancestors as proof of b…"
+},
+{
+"word": "dissident",
+"pos": "a/n",
+"zh": "a. 意见不同的, 持不同政见的 / n. 意见不同的人, 持不同政见者",
+"en": "s. characterized by departure from accepted beliefs or standards"
+},
+{
+"word": "vinyl",
+"pos": "n",
+"zh": "n. 乙烯基 / [化] 乙烯基",
+"en": "n. a univalent chemical radical derived from ethylene / n. shiny and tough and flexible plastic; used especially for flo…"
+},
+{
+"word": "afield",
+"pos": "adv",
+"zh": "adv. 离开着, 偏离着, 在战场上",
+"en": "r. far away from home or one's usual surroundings / r. in or into a field (especially a field of battle) / r. off the su…"
+},
+{
+"word": "eclectic",
+"pos": "n/a",
+"zh": "n. 折衷主义者 / a. 选择的, 折衷的",
+"en": "n. someone who selects according to the eclectic method / s. selecting what seems best of various styles or ideas"
+},
+{
+"word": "snag",
+"pos": "n/vt",
+"zh": "n. (尖利的)突出物, (衣服等的)戳破处, 断牙, 意外障碍 / vt. 造成阻碍, 抓住机会, 抢到, 清除障碍物",
+"en": "n. a sharp protuberance / n. a dead tree that is still standing, usually in an undisturbed forest / v. catch on a snag /…"
+},
+{
+"word": "fruitful",
+"pos": "a",
+"zh": "a. 结果实的, 多实的, 产量多的",
+"en": "a. productive or conducive to producing in abundance"
+},
+{
+"word": "relegate",
+"pos": "vt",
+"zh": "vt. 驱逐, 使降低地位, 把...归类, 把...委托给 / [法] 流放, 判流放刑, 驱逐",
+"en": "v. refer to another person for decision or judgment / v. assign to a class or kind"
+},
+{
+"word": "prom",
+"pos": "n",
+"zh": "n. (英)音乐会, (美)舞会, 散步道 / [计] 可编程序只读存储器",
+"en": "n a formal ball held for a school class toward the end of the academic year"
+},
+{
+"word": "counteract",
+"pos": "vt",
+"zh": "vt. 抵消, 阻碍, 中和 / [法] 抵抗, 阻碍, 抵销",
+"en": "v. oppose and mitigate the effects of by contrary actions"
+},
+{
+"word": "pundit",
+"pos": "n",
+"zh": "n. 学者, 梵文学者, 博学的印度人, 权威",
+"en": "n someone who has been admitted to membership in a scholarly field"
+},
+{
+"word": "preparatory",
+"pos": "a/n",
+"zh": "a. 预备性的, 准备性的 / n. 预科",
+"en": "s. preceding and preparing for something"
+},
+{
+"word": "nip",
+"pos": "n/vt/vi",
+"zh": "n. 捏, 夹, 寒冷, 尖刻话 / vt. 捏, 夹, 钳, 剪断, 损伤, 冻伤, 一小口 / vi. 夹, 捏, 刺骨, 快走, 一小口一小口地抿(酒) / [计] 核心程序…",
+"en": "n. a small drink of liquor / n. a tart spicy quality / n. a small sharp bite or snip / v. give a small sharp bite to"
+},
+{
+"word": "abdomen",
+"pos": "n",
+"zh": "n. 腹部 / [医] 腹[部]",
+"en": "n. the region of the body of a vertebrate between the thorax and the pelvis"
+},
+{
+"word": "entice",
+"pos": "vt",
+"zh": "vt. 诱骗, 引诱, 怂恿",
+"en": "v. provoke someone to do something through (often false or exaggerated) promises or persuasion"
+},
+{
+"word": "squarely",
+"pos": "adv",
+"zh": "adv. 干脆地, 正好, 直角地",
+"en": "r. directly and without evasion; not roundabout / r. in a straight direct way / r. firmly and solidly / r. in a square s…"
+},
+{
+"word": "ware",
+"pos": "n/vt/a",
+"zh": "n. 物品, 器具, 货物, 商品, 陶器 / vt. 留心, 小心 / a. 知道的, 意识到的, 留神的",
+"en": "n. articles of the same kind or material; usually used in combination: `silverware', `software'"
+},
+{
+"word": "triangular",
+"pos": "a",
+"zh": "a. 三角形的, 三人间的 / [医] 三角的, 三角形的",
+"en": "s. having three angles; forming or shaped like a triangle"
+},
+{
+"word": "radiant",
+"pos": "a",
+"zh": "a. 发光的, 明亮的, 辐射的, 容光焕发的 / [医] 放射的, 辐射的, 辐射物[质]",
+"en": "s radiating or as if radiating light"
+},
+{
+"word": "delicacy",
+"pos": "n",
+"zh": "n. 细软, 精致, 精美的食品, 娇气, 微妙, 棘手, 娇弱, 灵敏, 灵巧",
+"en": "n. refined taste; tact / n. smallness of stature / n. subtly skillful handling of a situation"
+},
+{
+"word": "accentuate",
+"pos": "vt",
+"zh": "vt. 以重音念, 强调, 重读",
+"en": "v to stress, single out as important / v put stress on; utter with an accent"
+},
+{
+"word": "checkpoint",
+"pos": "n",
+"zh": "n. 检查站 / [计] 检查点",
+"en": "n. a place (as at a frontier) where travellers are stopped for inspection and clearance"
+},
+{
+"word": "platinum",
+"pos": "n",
+"zh": "n. 白金, 铂, 银灰色 / [化] 铂Pt",
+"en": "n. a heavy precious metallic element; grey-white and resistant to corroding; occurs in some nickel and copper ores and i…"
+},
+{
+"word": "supernova",
+"pos": "n",
+"zh": "n. 超新星",
+"en": "n. a star that explodes and becomes extremely luminous in the process"
+}
+]

@@ -1,0 +1,602 @@
+[
+{
+"word": "unimaginable",
+"pos": "a",
+"zh": "a. 不能想象的, 不可思议的",
+"en": "s totally unlikely"
+},
+{
+"word": "canary",
+"pos": "n",
+"zh": "n. 金丝雀, 淡黄色",
+"en": "n. a female singer / n. any of several small Old World finches / s. having the color of a canary; of a light to moderate…"
+},
+{
+"word": "peep",
+"pos": "n/vi/vt",
+"zh": "n. 一瞥, 偷看, 不完全的景象, 初现, 吱吱声, 嘀咕抱怨声, 汽车喇叭声 / vi. 窥视, 出现, 吱吱叫 / vt. 使隐约显现",
+"en": "v. look furtively / v. cause to appear / v. make high-pitched sounds / v. speak in a hesitant and high-pitched tone of v…"
+},
+{
+"word": "conduit",
+"pos": "n",
+"zh": "n. 导管, 水管, 沟渠 / [电] 导管",
+"en": "n. a passage (a pipe or tunnel) through which water or electric wires can pass"
+},
+{
+"word": "elm",
+"pos": "n",
+"zh": "n. 榆树 / [计] unix操作系统的信件处理程序",
+"en": "n. any of various trees of the genus Ulmus: important timber or shade trees / n. hard tough wood of an elm tree; used fo…"
+},
+{
+"word": "grapefruit",
+"pos": "n",
+"zh": "n. 葡萄轴",
+"en": "n. citrus tree bearing large round edible fruit having a thick yellow rind and juicy somewhat acid pulp / n. large yello…"
+},
+{
+"word": "anesthesia",
+"pos": "n",
+"zh": "n. 麻醉, 麻木 / [化] 麻醉; 失去知觉",
+"en": "n. loss of bodily sensation with or without loss of consciousness"
+},
+{
+"word": "tuxedo",
+"pos": "n",
+"zh": "n. 无尾礼服, 男小礼服",
+"en": "n semiformal evening dress for men"
+},
+{
+"word": "analytic",
+"pos": "a",
+"zh": "a. 分析的, 善于分析的, 解析的 / [医] 分析的",
+"en": "a. using or subjected to a methodology using algebra and calculus / a. using or skilled in using analysis (i.e., separat…"
+},
+{
+"word": "artichoke",
+"pos": "n",
+"zh": "n. 朝鲜蓟 / [医] 朝鲜蓟",
+"en": "n. Mediterranean thistlelike plant widely cultivated for its large edible flower head / n. a thistlelike flower head wit…"
+},
+{
+"word": "lapel",
+"pos": "n",
+"zh": "n. 翻领",
+"en": "n. lap at the front of a coat; continuation of the coat collar"
+},
+{
+"word": "literate",
+"pos": "n/a",
+"zh": "n. 学者 / a. 有读写能力的, 精通文学的, 受过教育的",
+"en": "n. a person who can read and write / a. able to read and write / a. versed in literature; dealing with literature / s. k…"
+},
+{
+"word": "harrow",
+"pos": "n/vt/vi",
+"zh": "n. 哈罗公学, 耙 / vt. 耙掘, 伤害, 使苦恼 / vi. 被耙松",
+"en": "n. a cultivator that pulverizes or smooths the soil / v. draw a harrow over (land)"
+},
+{
+"word": "cutlery",
+"pos": "n",
+"zh": "n. 刀剑制造业, 刃具制造业, 刀剑, 刃具, 刀叉餐具",
+"en": "n. tableware implements for cutting and eating food"
+},
+{
+"word": "windfall",
+"pos": "n",
+"zh": "n. 被风吹落的果子, 横财 / [经] 意外损失",
+"en": "n. fruit that has fallen from the tree"
+},
+{
+"word": "devotee",
+"pos": "n",
+"zh": "n. 爱好者, 献身者, 虔诚的宗教信徒",
+"en": "n an ardent follower and admirer"
+},
+{
+"word": "bingo",
+"pos": "n",
+"zh": "n. 宾戈(一种赌博游戏), 烈酒",
+"en": "n a game in which numbered balls are drawn at random and players cover the corresponding numbers on their cards"
+},
+{
+"word": "supplant",
+"pos": "vt",
+"zh": "vt. 排挤掉, 代替",
+"en": "v. take the place or move into the position of"
+},
+{
+"word": "deterrence",
+"pos": "n",
+"zh": "n. 威慑, 威慑力量 / [法] 威慑力量, 制止物",
+"en": "n. the act or process of discouraging actions or preventing occurrences by instilling fear or doubt or anxiety"
+},
+{
+"word": "grubby",
+"pos": "a",
+"zh": "a. 污秽的, 肮脏的, 生蛆的",
+"en": "n. small sculpin of the coast of New England / a. infested with grubs"
+},
+{
+"word": "metropolis",
+"pos": "n",
+"zh": "n. 大都市, 重要中心, 首府 / [医] 产地, 生地",
+"en": "n a large and densely populated urban area; may include several independent administrative districts / n people living i…"
+},
+{
+"word": "onward",
+"pos": "a/adv",
+"zh": "a. 向前的, 前进的 / adv. 向前, 前进, 在先",
+"en": "r forward in time or order or degree / r in a forward direction"
+},
+{
+"word": "battleground",
+"pos": "n",
+"zh": "n. 战场, 战地",
+"en": "n a region where a battle is being (or has been) fought"
+},
+{
+"word": "mite",
+"pos": "n",
+"zh": "n. 尽绵薄之力的捐献, 细微, 微少, 螨 / [医] 螨",
+"en": "n. any of numerous very small to minute arachnids often infesting animals or plants or stored foods"
+},
+{
+"word": "sesame",
+"pos": "n",
+"zh": "n. 芝麻 / [医] 芝麻, 脂麻, 胡麻",
+"en": "n. East Indian annual erect herb; source of sesame seed or benniseed and sesame oil"
+},
+{
+"word": "clutter",
+"pos": "n/vt",
+"zh": "n. 杂乱 / vt. 弄乱, 使凌乱",
+"en": "n. a confused multitude of things / n. unwanted echoes that interfere with the observation of signals on a radar screen …"
+},
+{
+"word": "amber",
+"pos": "n/a",
+"zh": "n. 琥珀, 琥珀色 / a. 琥珀色的, 琥珀似的",
+"en": "n. a deep yellow color / n. a hard yellowish to brownish translucent fossil resin; used for jewelry / s. of a medium to …"
+},
+{
+"word": "rotary",
+"pos": "a/n",
+"zh": "a. 旋转的, 轮流的 / n. 旋转式机器",
+"en": "a. relating to or characterized by rotation"
+},
+{
+"word": "vascular",
+"pos": "a",
+"zh": "a. 血管的, 维管的 / [医] 血管的, 脉管的",
+"en": "a. of or relating to or having vessels that conduct and circulate fluids"
+},
+{
+"word": "duet",
+"pos": "n",
+"zh": "n. 二重奏",
+"en": "n. two performers or singers who perform together / n. a musical composition for two performers"
+},
+{
+"word": "airtight",
+"pos": "a",
+"zh": "a. 气密的, 不透气的, 无懈可击的 / [机] 气密, 不透气",
+"en": "s. having no weak points / s. not allowing air or gas to pass in or out"
+},
+{
+"word": "camouflage",
+"pos": "vt/n",
+"zh": "vt. 伪装, 掩饰 / n. 伪装, 伪装物, 幌子",
+"en": "n. fabric dyed with splotches of green and brown and black and tan; intended to make the wearer of a garment made of thi…"
+},
+{
+"word": "cove",
+"pos": "n/v",
+"zh": "n. 山凹, 小湾 / v. (使)内凹, (使)成拱形",
+"en": "n. a small inlet / n. small or narrow cave in the side of a cliff or mountain"
+},
+{
+"word": "replenish",
+"pos": "vt/vi",
+"zh": "vt. 把...重新补足, 把...再装满 / vi. 被再装满, 充满",
+"en": "v. fill something that had previously been emptied"
+},
+{
+"word": "revoke",
+"pos": "vt/vi/n",
+"zh": "vt. 撤回, 废除 / vi. 藏牌 / n. 藏牌 / [计] 取消权限程序",
+"en": "n. the mistake of not following suit when able to do so / v. fail to follow suit when able and required to do so / v. ca…"
+},
+{
+"word": "curate",
+"pos": "n",
+"zh": "n. 助理牧师",
+"en": "n. a person authorized to conduct religious worship"
+},
+{
+"word": "tango",
+"pos": "n/vi",
+"zh": "n. 探戈舞, 探戈舞曲 / vi. 跳探戈舞",
+"en": "n. a ballroom dance of Latin-American origin / n. music written in duple time for dancing the tango / v. dance a tango"
+},
+{
+"word": "dynamite",
+"pos": "n/vt",
+"zh": "n. 炸药 / vt. 炸毁, 破坏",
+"en": "n. an explosive containing nitrate sensitized with nitroglycerin absorbed on wood pulp / v. blow up with dynamite"
+},
+{
+"word": "agitate",
+"pos": "vt/vi",
+"zh": "vt. 使摇动, 搅动, 使激动, 使不安 / vi. 鼓动, 煽动",
+"en": "v. try to stir up public opinion / v. cause to be agitated, excited, or roused / v. change the arrangement or position o…"
+},
+{
+"word": "proficient",
+"pos": "n/a",
+"zh": "n. 高手, 专家 / a. 精通的, 熟练的",
+"en": "s having or showing knowledge and skill and aptitude / a of or relating to technique or proficiency in a practical skill"
+},
+{
+"word": "brothel",
+"pos": "n",
+"zh": "n. 妓院 / [法] 妓院",
+"en": "n a building where prostitutes are available"
+},
+{
+"word": "barbarian",
+"pos": "n/a",
+"zh": "n. 野蛮人 / a. 野蛮的",
+"en": "s. without civilizing influences"
+},
+{
+"word": "quirk",
+"pos": "n",
+"zh": "n. 古怪举动, 俏皮话, 急转",
+"en": "n. a narrow groove beside a beading / v. twist or curve abruptly"
+},
+{
+"word": "aromatic",
+"pos": "a",
+"zh": "a. 芬芳的 / [医] 芳香的; 芳香剂",
+"en": "a. (chemistry) of or relating to or containing one or more benzene rings / s. having a strong pleasant odor"
+},
+{
+"word": "insignia",
+"pos": "n",
+"zh": "n. 勋章, 徽章 / [法] 勋章, 徽章, 荣誉",
+"en": "n. a badge worn to show official position"
+},
+{
+"word": "riverside",
+"pos": "n",
+"zh": "n. 河边, 河畔",
+"en": "n. a city in southern California"
+},
+{
+"word": "multiplicity",
+"pos": "n",
+"zh": "n. 相重性, 多重性, 多样 / [化] 多重态; 多重性",
+"en": "n. the property of being multiple"
+},
+{
+"word": "exude",
+"pos": "v",
+"zh": "v. (使)流出, (使)渗出",
+"en": "v. release (a liquid) in drops or small quantities / v. make apparent by one's mood or behavior"
+},
+{
+"word": "litany",
+"pos": "n",
+"zh": "n. 连祷, 连续",
+"en": "n. any long and tedious address or recital / n. a prayer consisting of a series of invocations by the priest with respon…"
+},
+{
+"word": "detour",
+"pos": "n/v",
+"zh": "n. 绕路, 迂回 / v. (使)绕道",
+"en": "n. a roundabout road (especially one that is used temporarily while a main route is blocked) / v. travel via a detour"
+},
+{
+"word": "regal",
+"pos": "a",
+"zh": "a. 帝王的, 适于帝王的",
+"en": "s belonging to or befitting a supreme ruler"
+},
+{
+"word": "concussion",
+"pos": "n",
+"zh": "n. 剧烈摇动, 震荡 / [医] 震荡",
+"en": "n. injury to the brain caused by a blow; usually resulting in loss of consciousness / n. any violent blow"
+},
+{
+"word": "shipyard",
+"pos": "n",
+"zh": "n. 造船厂 / [经] 船坞, 造船厂, 修船厂",
+"en": "n. a workplace where ships are built or repaired"
+},
+{
+"word": "interdependence",
+"pos": "n",
+"zh": "n. 互相依赖",
+"en": "n a reciprocal relation between interdependent entities (objects or individuals or groups)"
+},
+{
+"word": "magnesium",
+"pos": "n",
+"zh": "n. 镁 / [化] 镁Mg",
+"en": "n. a light silver-white ductile bivalent metallic element; in pure form it burns with brilliant white flame; occurs natu…"
+},
+{
+"word": "hurtle",
+"pos": "vi/vt/n",
+"zh": "vi. 猛冲, 碰撞, 突进 / vt. 猛撞, 猛投 / n. 投掷, 碰撞, 碰撞声",
+"en": "v. move with or as if with a rushing sound"
+},
+{
+"word": "divergence",
+"pos": "n",
+"zh": "n. 分歧 / [计] 分散度",
+"en": "n. the act of moving away in different direction from a common point / n. an infinite series that has no limit"
+},
+{
+"word": "crimson",
+"pos": "n/a/v",
+"zh": "n. 深红色 / a. 深红色的 / v. (使)变为深红色, 脸红",
+"en": "n. a deep and vivid red color / s. characterized by violence or bloodshed / s. (especially of the face) reddened or suff…"
+},
+{
+"word": "fable",
+"pos": "n/vi",
+"zh": "n. 寓言, 神话, 谎言 / vi. 虚构, 作寓言",
+"en": "n. a short moral story (often with animal characters)"
+},
+{
+"word": "boardroom",
+"pos": "n",
+"zh": "n. 会议室, 证券交换场所",
+"en": "n. a room where a committee meets (such as the board of directors of a company)"
+},
+{
+"word": "tortoise",
+"pos": "n",
+"zh": "n. 龟, 行动迟缓的人",
+"en": "n. usually herbivorous land turtles having clawed elephant-like limbs; worldwide in arid area except Australia and Antar…"
+},
+{
+"word": "terrier",
+"pos": "n",
+"zh": "n. 缉捕罪犯的人, 地籍册 / [法] 地籍册",
+"en": "n. any of several usually small short-bodied breeds originally trained to hunt animals living underground"
+},
+{
+"word": "tartan",
+"pos": "n/a",
+"zh": "n. 格子呢, 方格花纹, 单桅小帆船 / a. 格子呢的",
+"en": "n. a cloth having a crisscross design"
+},
+{
+"word": "proliferate",
+"pos": "vi/vt",
+"zh": "vi. 增殖, 激增, 扩散 / vt. 使激增",
+"en": "v. grow rapidly / v. cause to grow or increase rapidly"
+},
+{
+"word": "pheasant",
+"pos": "n",
+"zh": "n. 雉鸡, 野鸡, 雉科鸟",
+"en": "n. large long-tailed gallinaceous bird native to the Old World but introduced elsewhere / n. flesh of a pheasant; usuall…"
+},
+{
+"word": "cadence",
+"pos": "n",
+"zh": "n. 韵律, 抑扬, 调子, 节奏 / [电] 步调",
+"en": "n. the close of a musical section / n. a recurrent rhythmical series"
+},
+{
+"word": "rind",
+"pos": "n/vt",
+"zh": "n. 树皮, 壳, 外表 / vt. 削皮, 剥壳",
+"en": "n. the natural outer covering of food (usually removed before eating)"
+},
+{
+"word": "civility",
+"pos": "n",
+"zh": "n. 礼貌, 礼仪",
+"en": "n. formal or perfunctory politeness"
+},
+{
+"word": "yoghurt",
+"pos": "n",
+"zh": "n. 酸乳, 酸奶",
+"en": "n a custard-like food made from curdled milk"
+},
+{
+"word": "blacksmith",
+"pos": "n",
+"zh": "n. 铁匠 / [机] 铁匠",
+"en": "n. a smith who forges and shapes iron with a hammer and anvil"
+},
+{
+"word": "crisscross",
+"pos": "n/a/adv/vt/vi",
+"zh": "n. 十字形 / a. 十字形的 / adv. 十字形地 / vt. 画十字形于 / vi. 交叉往来",
+"en": "n. a marking that consists of lines that cross each other / v. cross in a pattern, often random / v. mark with or consis…"
+},
+{
+"word": "warlord",
+"pos": "n",
+"zh": "n. 军阀, 军阀式领袖",
+"en": "n. supreme military leader exercising civil power in a region especially one accountable to nobody when the central gove…"
+},
+{
+"word": "bazaar",
+"pos": "n",
+"zh": "n. 集市, 市场, 义卖市场",
+"en": "n. a shop where a variety of goods are sold / n. a street of small shops (especially in Orient) / n. a sale of miscellan…"
+},
+{
+"word": "incest",
+"pos": "n",
+"zh": "n. 近亲相奸, 乱伦 / [医] 近亲通婚",
+"en": "n. sexual intercourse between persons too closely related to marry (as between a parent and a child)"
+},
+{
+"word": "polio",
+"pos": "n",
+"zh": "n. 脊髓灰质炎, 小儿麻痹症 / [医] 脊髓灰质炎",
+"en": "n an acute viral disease marked by inflammation of nerve cells of the brain stem and spinal cord"
+},
+{
+"word": "secrete",
+"pos": "vt",
+"zh": "vt. 隐秘, 隐藏, 隐匿, 分泌 / [医] 分泌",
+"en": "v. generate and separate from cells or bodily fluids / v. place out of sight; keep secret"
+},
+{
+"word": "ultrasound",
+"pos": "n",
+"zh": "n. 超声 / [计] 超声",
+"en": "n. very high frequency sound; used in ultrasonography"
+},
+{
+"word": "utilitarian",
+"pos": "a/n",
+"zh": "a. 有效用的, 实利主义的, 功利主义的 / n. 功利主义者",
+"en": "n. someone who believes that the value of a thing depends on its utility / s. having a useful function / s. having utili…"
+},
+{
+"word": "cede",
+"pos": "vt",
+"zh": "vt. 割让 / [法] 割让, 让与, 放弃",
+"en": "v give over; surrender or relinquish to the physical control of another / v relinquish possession or control over"
+},
+{
+"word": "scuttle",
+"pos": "n/vi/vt",
+"zh": "n. 箩, 筐, 急速逃走, 天窗, 小舱口 / vi. 急速逃走, 急忙撤退 / vt. 凿沉, 毁坏",
+"en": "n. container for coal; shaped to permit pouring the coal onto the fire"
+},
+{
+"word": "grievous",
+"pos": "a",
+"zh": "a. 痛苦的, 严重的, 充满悲伤的 / [法] 极大的, 严重的, 惨无人道的",
+"en": "s. causing or marked by grief or anguish"
+},
+{
+"word": "agrarian",
+"pos": "a",
+"zh": "a. 土地的, 耕地的 / [法] 土地的, 土地所有制的",
+"en": "s. relating to rural matters"
+},
+{
+"word": "buttock",
+"pos": "n/vt",
+"zh": "n. 半边臀部, 屁股, 船尾突出部 / vt. 过背摔",
+"en": "n. either of the two large fleshy masses of muscular tissue that form the human rump"
+},
+{
+"word": "stow",
+"pos": "vt",
+"zh": "vt. 收藏, 装填, 贮藏, 装满, 使暂留, 堆垛 / [经] 堆装, 装载",
+"en": "v. fill by packing tightly"
+},
+{
+"word": "peck",
+"pos": "n/vt/vi",
+"zh": "n. 配克(英美干量单位), 啄痕, 啄食, 许多 / vt. 啄, 啄食, 琢, 凿成, 扔 / vi. 啄, 吹毛求疵, 啄食, 勉强吃 / [计] 取数",
+"en": "n. a British imperial capacity measure (liquid or dry) equal to 2 gallons / n. a United States dry measure equal to 8 qu…"
+},
+{
+"word": "commune",
+"pos": "n/vi",
+"zh": "n. 恳谈, 社区, 公社 / vi. 亲密交谈, (感情上)融为一体",
+"en": "n. the smallest administrative district of several European countries / n. a body of people or families living together …"
+},
+{
+"word": "squeak",
+"pos": "n/vi/vt",
+"zh": "n. 吱吱声, 侥幸 / vi. 吱吱叫, 告密, 侥幸成功 / vt. 以短促尖声发出",
+"en": "n. a short high-pitched noise"
+},
+{
+"word": "maverick",
+"pos": "n/vi",
+"zh": "n. 未烙饲主印记的小牛, 持不同意见的人 / vi. 迷路",
+"en": "n. someone who exhibits great independence in thought and action / n. an unbranded range animal (especially a stray calf…"
+},
+{
+"word": "buff",
+"pos": "n/vt/a",
+"zh": "n. 暗黄色, 暗黄色皮革, 人的皮肤 / vt. 擦亮, 使柔软 / a. 暗黄色的",
+"en": "n. a soft thick undyed leather from the skins of e.g. buffalo or oxen / n. bare skin; naked / n. an implement consisting…"
+},
+{
+"word": "commencement",
+"pos": "n",
+"zh": "n. 开始, 毕业典礼 / [法] 开始, 毕业典礼",
+"en": "n. an academic exercise in which diplomas are conferred"
+},
+{
+"word": "grotesque",
+"pos": "n/a",
+"zh": "n. 奇异风格, 怪异图案 / a. 奇怪的, 可笑的",
+"en": "n. art characterized by an incongruous mixture of parts of humans and animals interwoven with plants / s. distorted and …"
+},
+{
+"word": "haemorrhage",
+"pos": "n",
+"zh": "n. 出血(尤指大出血), 溢血",
+"en": "n the flow of blood from a ruptured blood vessel"
+},
+{
+"word": "marquee",
+"pos": "n",
+"zh": "n. 大帐篷, 遮篷, 选取框 / [计] 选取框",
+"en": "n. permanent canopy over an entrance of a hotel etc."
+},
+{
+"word": "tulip",
+"pos": "n",
+"zh": "n. 郁金香",
+"en": "n. any of numerous perennial bulbous herbs having linear or broadly lanceolate leaves and usually a single showy flower"
+},
+{
+"word": "nag",
+"pos": "n/v",
+"zh": "n. 老马, 驽马, 劣等竞赛马, 唠叨 / v. 不断地唠叨, 恼人",
+"en": "v. bother persistently with trivial complaints / v. worry persistently / v. remind or urge constantly"
+},
+{
+"word": "diverge",
+"pos": "vi/vt",
+"zh": "vi. 分歧, 岔开 / vt. 使岔开",
+"en": "v. move or draw apart / v. have no limits as a mathematical series / v. extend in a different direction"
+},
+{
+"word": "crossword",
+"pos": "n",
+"zh": "n. 纵横填字游戏, 纵横填字字谜 / [计] 纵横组字",
+"en": "n a puzzle in which words corresponding to numbered clues are to be found and written in to squares in the puzzle"
+},
+{
+"word": "heartfelt",
+"pos": "a",
+"zh": "a. 衷心的, 真心真意的",
+"en": "s earnest"
+},
+{
+"word": "wand",
+"pos": "n",
+"zh": "n. 棒, 棍, 杖",
+"en": "n. a rod used by a magician or water diviner / n. a thin supple twig or rod"
+},
+{
+"word": "freestyle",
+"pos": "n",
+"zh": "n. 自由式",
+"en": "n. a race (as in swimming) in which each contestant has a free choice of the style to use"
+}
+]

@@ -1,0 +1,602 @@
+[
+{
+"word": "goalkeeper",
+"pos": "n",
+"zh": "n. 守门员",
+"en": "n. the soccer or hockey player assigned to protect the goal / n. the defensive position on an ice hockey or soccer or la…"
+},
+{
+"word": "whisk",
+"pos": "n/vt/vi",
+"zh": "n. 掸, 扫帚, 毛掸子, 搅拌器, 拂 / vt. 扫, 拂, 挥动, 迅速移动, 搅拌 / vi. 飞奔",
+"en": "n. a mixer incorporating a coil of wires; used for whipping eggs or cream / n. a small short-handled broom used to brush…"
+},
+{
+"word": "pastry",
+"pos": "n",
+"zh": "n. 油酥点心, 面粉糕饼",
+"en": "n. a dough of flour and water and shortening / n. any of various baked foods made of dough or batter"
+},
+{
+"word": "multimedia",
+"pos": "n",
+"zh": "n. 多媒体 / [计] 多媒体",
+"en": "n. transmission that combine media of communication (text and graphics and sound etc.)"
+},
+{
+"word": "lesbian",
+"pos": "a/n",
+"zh": "a. 女同性恋的 / n. 女同性恋者",
+"en": "n. a female homosexual / n. a resident of Lesbos / s. of or relating to or characterized by homosexual relations between…"
+},
+{
+"word": "implant",
+"pos": "vt/n",
+"zh": "vt. 深植, 灌输, 嵌入 / n. 植入物, 植入管",
+"en": "n. a prosthesis placed permanently in tissue / v. fix or set securely or deeply / v. become attached to and embedded in …"
+},
+{
+"word": "vintage",
+"pos": "n/v/a",
+"zh": "n. 酒, 葡萄收获(期、量), 酿酒 / v. 采葡萄 / a. 佳酿的, 古典的, 老式的",
+"en": "n. a season's yield of wine from a vineyard / n. the oldness of wines"
+},
+{
+"word": "squint",
+"pos": "n/a/vt/vi",
+"zh": "n. 斜视眼, 斜着 / a. 斜视的 / vt. 使变斜视眼 / vi. 斜视, 倾向, 斜行",
+"en": "n. the act of squinting; looking with the eyes partly closed / v. cross one's eyes as if in strabismus / v. be cross-eye…"
+},
+{
+"word": "tricky",
+"pos": "a",
+"zh": "a. 狡猾的, 机敏的",
+"en": "s not to be trusted / s having concealed difficulty / s marked by skill in deception"
+},
+{
+"word": "unwanted",
+"pos": "a",
+"zh": "a. 没人要的, 不需要的, 多余的",
+"en": "a. not wanted; not needed"
+},
+{
+"word": "doorstep",
+"pos": "n",
+"zh": "n. 门阶",
+"en": "n the sill of a door; a horizontal piece of wood or stone that forms the bottom of a doorway and offers support when pas…"
+},
+{
+"word": "gateway",
+"pos": "n",
+"zh": "n. 门, 通路 / [计] 网关",
+"en": "n. an entrance that can be closed by a gate"
+},
+{
+"word": "cinnamon",
+"pos": "n/a",
+"zh": "n. 肉桂, 肉桂树皮, 肉桂色 / a. 肉桂色的, 浅黄褐色的",
+"en": "n. aromatic bark used as a spice / n. tropical Asian tree with aromatic yellowish-brown bark; source of the spice cinnam…"
+},
+{
+"word": "governance",
+"pos": "n",
+"zh": "n. 统治, 统辖, 管理 / [法] 统治, 管理, 支配",
+"en": "n the persons (or committees or departments etc.) who make up a body for the purpose of administering something / n the …"
+},
+{
+"word": "roster",
+"pos": "n",
+"zh": "n. 花名册",
+"en": "n a list of names"
+},
+{
+"word": "indict",
+"pos": "vt",
+"zh": "vt. 起诉, 控告, 指控 / [法] 控告, 揭发, 对...起诉",
+"en": "v. accuse formally of a crime"
+},
+{
+"word": "goodwill",
+"pos": "n",
+"zh": "n. 友好, 好意, 善意, 亲善, (企业享有的)信誉, 声誉 / [经] (企业的)商誉, 信誉",
+"en": "n (accounting) an intangible asset valued according to the advantage or reputation a business has acquired (over and abo…"
+},
+{
+"word": "trio",
+"pos": "n",
+"zh": "n. 三重唱",
+"en": "n. a musical composition for three performers / n. three performers or singers who perform together / n. a set of three …"
+},
+{
+"word": "comeback",
+"pos": "n",
+"zh": "n. 复原, 复辟, 复位, 尖刻的对答, 抱怨的原因 / [计] 复原的",
+"en": "n. return by a celebrity to some previously successful activity"
+},
+{
+"word": "buffer",
+"pos": "n/vt",
+"zh": "n. 缓冲器, 缓冲区 / vt. 缓冲 / [计] 缓冲区, 缓冲器",
+"en": "n. (chemistry) an ionic compound that resists changes in its pH / n. (computer science) a part of RAM used for temporary…"
+},
+{
+"word": "urine",
+"pos": "n",
+"zh": "n. 小便, 尿 / [医] 尿",
+"en": "n. liquid excretory product"
+},
+{
+"word": "farmhouse",
+"pos": "n",
+"zh": "n. 农舍",
+"en": "n. house for a farmer and family"
+},
+{
+"word": "asthma",
+"pos": "n",
+"zh": "n. 哮喘 / [医] 气喘",
+"en": "n. respiratory disorder characterized by wheezing; usually of allergic origin"
+},
+{
+"word": "exchequer",
+"pos": "n",
+"zh": "n. (英国)财政部, 国库 / [法] 国库, 财源, 财政法院",
+"en": "n the funds of a government or institution or individual"
+},
+{
+"word": "manifesto",
+"pos": "n",
+"zh": "n. 宣言, 声明",
+"en": "n. a public declaration of intentions (as issued by a political party or government)"
+},
+{
+"word": "firearm",
+"pos": "n",
+"zh": "n. 火器, 枪炮",
+"en": "n. a portable gun"
+},
+{
+"word": "mule",
+"pos": "n",
+"zh": "n. 骡, 倔强之人",
+"en": "n. hybrid offspring of a male donkey and a female horse; usually sterile / n. a slipper that has no fitting around the h…"
+},
+{
+"word": "barrister",
+"pos": "n",
+"zh": "n. 出庭律师, 律师 / [法] 律师, 专门律师, 大律师",
+"en": "n. a British or Canadian lawyer who speaks in the higher courts of law on behalf of either the defense or prosecution"
+},
+{
+"word": "parsley",
+"pos": "n",
+"zh": "n. 皱叶欧芹, 荷兰芹 / [医] 绉叶石蛇床",
+"en": "n. annual or perennial herb with aromatic leaves / n. aromatic herb with flat or crinkly leaves that are cut finely and …"
+},
+{
+"word": "dame",
+"pos": "n",
+"zh": "n. 夫人",
+"en": "n. informal terms for a (young) woman / n. a woman of refinement"
+},
+{
+"word": "airfield",
+"pos": "n",
+"zh": "n. 飞机场",
+"en": "n. a place where planes take off and land"
+},
+{
+"word": "admiral",
+"pos": "n",
+"zh": "n. 舰队司令, 海军上将, 旗舰",
+"en": "n. the supreme commander of a fleet; ranks above a vice admiral and below a fleet admiral / n. any of several brightly c…"
+},
+{
+"word": "bipartisan",
+"pos": "a",
+"zh": "a. 两党连立的",
+"en": "s. supported by both sides"
+},
+{
+"word": "artefact",
+"pos": "n",
+"zh": "n. 人工制品, 制造物, 人为现象, 膺象, 矫作物, 古代文物 / [医] 人为现象, 人工产物",
+"en": "n a man-made object taken as a whole"
+},
+{
+"word": "duchess",
+"pos": "n",
+"zh": "n. 公爵夫人",
+"en": "n. the wife of a duke or a woman holding ducal title in her own right"
+},
+{
+"word": "parole",
+"pos": "n/vt",
+"zh": "n. 假释, 誓言, 释放宣言 / vt. 宣誓后释放, 使假释出狱",
+"en": "n. a promise / n. (law) a conditional release from imprisonment that entitles the person to serve the remainder of the s…"
+},
+{
+"word": "ecclesiastical",
+"pos": "a",
+"zh": "a. 教会的, 神职的, 牧师的",
+"en": "a. of or associated with a church (especially a Christian Church)"
+},
+{
+"word": "poetic",
+"pos": "a",
+"zh": "a. 诗的, 诗意的, 诗人的",
+"en": "a. of or relating to poetry / s. characterized by romantic imagery / a. of or relating to poets / s. characteristic of o…"
+},
+{
+"word": "accountancy",
+"pos": "n",
+"zh": "n. 会计工作, 会计学 / [经] 会计工作, 会计学术, 会计职业",
+"en": "n. the occupation of maintaining and auditing records and preparing financial reports for a business"
+},
+{
+"word": "bunker",
+"pos": "n/vt",
+"zh": "n. 煤仓, 沙坑, 暗堡 / vt. 击入沙坑, 使陷入困境",
+"en": "n. a hazard on a golf course / n. a large container for storing fuel / n. a fortification of earth; mostly or entirely b…"
+},
+{
+"word": "vet",
+"pos": "n/vi/vt",
+"zh": "n. 兽医 / vi. 当兽医 / vt. 诊断, 检审",
+"en": "v. work as a veterinarian / v. examine carefully / v. provide (a person) with medical care / v. provide veterinary care …"
+},
+{
+"word": "salon",
+"pos": "n",
+"zh": "n. 大会客室, 大厅, 客厅, 交谊室, 沙龙, 美术展览馆, 画廊, 美容院, 发廊",
+"en": "n. gallery where works of art can be displayed / n. a shop where hairdressers and beauticians work / n. elegant sitting …"
+},
+{
+"word": "bail",
+"pos": "n/vt",
+"zh": "n. 保释, 拎环, 杓, 栅栏 / vt. 保释, 舀水",
+"en": "n. (criminal law) money that must be forfeited by the bondsman if an accused person fails to appear in court for trial /…"
+},
+{
+"word": "gel",
+"pos": "n/vi",
+"zh": "n. 胶化体, 凝胶 / vi. 胶化, 成凝胶状 / [计] 通用仿真语言",
+"en": "n. a colloid in a more solid form than a sol / v. become a gel"
+},
+{
+"word": "shudder",
+"pos": "n/vi",
+"zh": "n. 战栗, 发抖 / vi. 战栗, 发抖",
+"en": "v. tremble convulsively, as from fear or excitement"
+},
+{
+"word": "lush",
+"pos": "a/n/v",
+"zh": "a. 苍翠繁茂的, 多青草的, 丰富的 / n. 酒, 酒鬼 / v. 饮",
+"en": "s. full of juice"
+},
+{
+"word": "strategist",
+"pos": "n",
+"zh": "n. 战略家",
+"en": "n. an expert in strategy (especially in warfare)"
+},
+{
+"word": "homosexual",
+"pos": "a/n",
+"zh": "a. 同性恋的 / n. 同性恋者",
+"en": "n. someone who practices homosexuality; having a sexual attraction to persons of the same sex / a. sexually attracted to…"
+},
+{
+"word": "angler",
+"pos": "n",
+"zh": "n. 钓鱼, 攫取, 追逐",
+"en": "n. a scheming person; someone who schemes to gain an advantage / n. a fisherman who uses a hook and line"
+},
+{
+"word": "median",
+"pos": "a/n",
+"zh": "a. 中央的, 中间的, 正中的 / n. 正中动脉, 中位数, 中线",
+"en": "n. the value below which 50% of the cases fall / s. relating to or constituting the middle value of an ordered set of va…"
+},
+{
+"word": "coconut",
+"pos": "n",
+"zh": "n. 椰子 / [医] 椰子(实)",
+"en": "n. the edible white meat of a coconut; often shredded for use in e.g. cakes and curries / n. large hard-shelled oval nut…"
+},
+{
+"word": "colon",
+"pos": "n",
+"zh": "n. 冒号, 结肠 / [医] 结肠",
+"en": "n. the part of the large intestine between the cecum and the rectum; it extracts moisture from food residues before they…"
+},
+{
+"word": "lesion",
+"pos": "n",
+"zh": "n. 损害, 身体上的伤害 / [医] 损害",
+"en": "n. any localized abnormal structural change in a bodily part"
+},
+{
+"word": "ceasefire",
+"pos": "n",
+"zh": "n. （通常指永久性的）停火, 停战; 停火命令",
+"en": ""
+},
+{
+"word": "premiere",
+"pos": "v/n/a",
+"zh": "v. 初次公演, 首次露面 / n. 初次的演出 / a. 首次的, 首位的",
+"en": "n. the first public performance of a play or movie"
+},
+{
+"word": "dice",
+"pos": "n/vt/vi",
+"zh": "n. 骰子 / vt. 切成方块 / vi. 掷骰子",
+"en": "v. play dice"
+},
+{
+"word": "landfill",
+"pos": "n",
+"zh": "n. 垃圾堆；垃圾填埋地",
+"en": "n. a low area that has been filled in"
+},
+{
+"word": "patio",
+"pos": "n",
+"zh": "n. 屋子与花园之间的一片供晴天休息用的石砌空地",
+"en": "n. usually paved outdoor area adjoining a residence"
+},
+{
+"word": "dismantle",
+"pos": "vt",
+"zh": "vt. 拆除...的设备, 分解, 去除覆盖物",
+"en": "v tear down so as to make flat with the ground / v take apart into its constituent pieces / v take off or remove"
+},
+{
+"word": "tout",
+"pos": "vi/vt/n",
+"zh": "vi. 招徕顾客, 兜售物品 / vt. 招徕, 刺探...情报 / n. 兜售者, 侦查者",
+"en": "n. someone who buys tickets to an event in order to resell them at a profit / n. someone who advertises for customers in…"
+},
+{
+"word": "jersey",
+"pos": "n",
+"zh": "n. 运动衫",
+"en": "n. the largest of the Channel Islands / n. a close-fitting pullover shirt / n. a slightly elastic machine-knit fabric / …"
+},
+{
+"word": "secrecy",
+"pos": "n",
+"zh": "n. 秘密, 保密 / [法] 秘密, 秘密状态, 保密",
+"en": "n. the trait of keeping things secret"
+},
+{
+"word": "bureaucrat",
+"pos": "n",
+"zh": "n. 官僚作风的人, 官僚, 官僚主义者 / [法] 官僚, 官僚作风的人",
+"en": "n. an official of a bureaucracy"
+},
+{
+"word": "cuff",
+"pos": "n/vt/vi",
+"zh": "n. 袖口, 一巴掌 / vt. 用巴掌打 / vi. 殴斗",
+"en": "n. the lap consisting of a turned-back hem encircling the end of the sleeve or leg / v. hit with the hand"
+},
+{
+"word": "sperm",
+"pos": "n",
+"zh": "n. 精液, 精虫, 鲸油, 抹香鲸 / [化] 鲸蜡油",
+"en": "n. the male reproductive cell; the male gamete"
+},
+{
+"word": "sedan",
+"pos": "n",
+"zh": "n. 轿车, 轿子",
+"en": "n. a car that is closed and that has front and rear seats and two or four doors / n. a closed litter for one passenger"
+},
+{
+"word": "apartheid",
+"pos": "n",
+"zh": "n. 种族隔离",
+"en": "n. a social policy or racial segregation involving political and economic and legal discrimination against people who ar…"
+},
+{
+"word": "earring",
+"pos": "n",
+"zh": "n. 耳环, 耳饰",
+"en": "n. jewelry to ornament the ear; usually clipped to the earlobe or fastened through a hole in the lobe"
+},
+{
+"word": "scepticism",
+"pos": "n",
+"zh": "n. 怀疑论, 怀疑主义 / [医] 多疑癖",
+"en": "n the disbelief in any claims of ultimate knowledge"
+},
+{
+"word": "crest",
+"pos": "n/vi/vt",
+"zh": "n. 冠, 饰毛, 头盔的顶部 / vi. 到达绝顶 / vt. 加以顶饰",
+"en": "n. the top line of a hill, mountain, or wave / n. (heraldry) in medieval times, an emblem used to decorate a helmet / n.…"
+},
+{
+"word": "plaque",
+"pos": "n",
+"zh": "n. 匾, 饰板, 名牌, 勋章, 胸襟饰物, 血小板",
+"en": "n. (pathology) a small abnormal patch on or inside the body"
+},
+{
+"word": "superstar",
+"pos": "n",
+"zh": "n. 超级明星",
+"en": "n someone who is dazzlingly skilled in any field"
+},
+{
+"word": "sleek",
+"pos": "a/vt/vi",
+"zh": "a. 光滑的, 油嘴滑舌的, 线条明快的, 圆滑的, 时髦的 / vt. 使光滑, 掩盖 / vi. 打扮漂亮, 滑动",
+"en": "s. well-groomed and neatly tailored; especially too well-groomed"
+},
+{
+"word": "deduction",
+"pos": "n",
+"zh": "n. 减除, 扣除, 减除额, 推论 / [医] 演绎, 推论",
+"en": "n. an amount or percentage deducted / n. something that is inferred (deduced or entailed or implied) / n. reasoning from…"
+},
+{
+"word": "whiskey",
+"pos": "n/a",
+"zh": "n. 威士忌酒 / a. 威士忌酒的",
+"en": "n. a liquor made from fermented mash of grain"
+},
+{
+"word": "dune",
+"pos": "n",
+"zh": "n. 沙丘",
+"en": "n. a ridge of sand created by the wind; found in deserts or near lakes and oceans"
+},
+{
+"word": "vampire",
+"pos": "n",
+"zh": "n. 吸血鬼 / [医] 吸血蝙蝠",
+"en": "n. (folklore) a corpse that rises at night to drink the blood of the living"
+},
+{
+"word": "gypsy",
+"pos": "n/a/vi",
+"zh": "n. 吉卜赛人, 吉卜赛语 / a. 象吉卜赛人的 / vi. 流浪",
+"en": "n. a member of a people with dark skin and hair who speak Romany and who traditionally live by seasonal work and fortune…"
+},
+{
+"word": "massage",
+"pos": "n/vt",
+"zh": "n. 按摩, 揉 / vt. 按摩, 揉",
+"en": "n. kneading and rubbing parts of the body to increase circulation and promote relaxation / v. manually manipulate (someo…"
+},
+{
+"word": "authoritarian",
+"pos": "a",
+"zh": "a. 独裁的, 独裁主义的",
+"en": "n. a person who behaves in a tyrannical manner / s. characteristic of an absolute ruler or absolute rule; having absolut…"
+},
+{
+"word": "disparity",
+"pos": "n",
+"zh": "n. 不一致 / [医] 差异, 不等",
+"en": "n. inequality or difference in some respect"
+},
+{
+"word": "dire",
+"pos": "a",
+"zh": "a. 可怕的, 悲惨的, 阴沉的, 极端的",
+"en": "s fraught with extreme danger; nearly hopeless / s causing fear or dread or terror"
+},
+{
+"word": "peg",
+"pos": "n/vt/vi",
+"zh": "n. 钉, 桩, 栓, 藉口, 销子, 借口 / vt. 钉木钉, 固定, 限制, 使受约束 / vi. 坚持不懈地奋力于, 疾行",
+"en": "n. a wooden pin pushed or driven into a surface / n. small markers inserted into a surface to mark scores or define loca…"
+},
+{
+"word": "saucepan",
+"pos": "n",
+"zh": "n. (长柄有盖)深平底锅, 炖锅",
+"en": "n. a deep pan with a handle; used for stewing or boiling"
+},
+{
+"word": "informant",
+"pos": "n",
+"zh": "n. 提供消息者, 密告者, 被调查者 / [经] 填报人, 被征询人",
+"en": "n. a person who supplies information"
+},
+{
+"word": "metro",
+"pos": "n",
+"zh": "n. 地铁",
+"en": "n. an electric railway operating below the surface of the ground (usually in a city)"
+},
+{
+"word": "crap",
+"pos": "n/vi",
+"zh": "n. 废物, 废话 / vi. 掷骰子",
+"en": "n. obscene terms for feces"
+},
+{
+"word": "eleventh",
+"pos": "num",
+"zh": "num. 第十一, 十一分之一",
+"en": "n. position 11 in a countable series of things / s. coming next after the tenth and just before the twelfth in position"
+},
+{
+"word": "billboard",
+"pos": "n/vt",
+"zh": "n. 广告牌, 布告板 / vt. 宣传",
+"en": "n. large outdoor signboard"
+},
+{
+"word": "pastoral",
+"pos": "n/a",
+"zh": "n. 牧歌, 田园诗 / a. 牧人的, 田园生活的, 牧师的, 田园式的",
+"en": "n. a letter from a pastor to the congregation / n. a literary work idealizing the rural life (especially the life of she…"
+},
+{
+"word": "precinct",
+"pos": "n",
+"zh": "n. 区域, 管理区, 管辖区域 / [法] 管辖区, 选区, 分界",
+"en": "n. a district of a city or town marked out for administrative purposes"
+},
+{
+"word": "estuary",
+"pos": "n",
+"zh": "n. 河口, 港湾",
+"en": "n. the wide part of a river where it nears the sea; fresh and salt water mix"
+},
+{
+"word": "underway",
+"pos": "a",
+"zh": "a. 航行中的；进行中的；起步的",
+"en": "s currently in progress"
+},
+{
+"word": "daft",
+"pos": "a",
+"zh": "a. 愚笨的, 癫狂的, 狂闹的",
+"en": "s informal or slang terms for mentally irregular"
+},
+{
+"word": "cockpit",
+"pos": "n",
+"zh": "n. 驾驶员座舱, 战场",
+"en": "n. compartment where the pilot sits while flying the aircraft / n. a pit for cockfights / n. seat where the driver sits …"
+},
+{
+"word": "pornography",
+"pos": "n",
+"zh": "n. 色情描写, 黄色书刊, 色情画, 色情照片, 色情文学 / [法] 色情画, 色情文学, 黄色读物",
+"en": "n. creative activity (writing or pictures or films etc.) of no literary or artistic value other than to stimulate sexual…"
+},
+{
+"word": "innings",
+"pos": "n",
+"zh": "n. 局, 回合, 盘, 一局, 当权期间",
+"en": "n. the batting turn of a cricket player or team"
+},
+{
+"word": "fifteenth",
+"pos": "num",
+"zh": "num. 第十五, 十五分之一",
+"en": "n. position 15 in a countable series of things / s. coming next after the fourteenth and just before the sixteenth in po…"
+},
+{
+"word": "writ",
+"pos": "n",
+"zh": "n. 令状, 文书, 文件, 书面命令 / [经] 法院命令",
+"en": "n. (law) a legal document issued by a court or judicial officer"
+},
+{
+"word": "attic",
+"pos": "n",
+"zh": "n. 阁楼, 顶楼 / [医] 鼓室上隐窝",
+"en": "n. the dialect of Ancient Greek spoken and written in Attica and Athens and Ionia / n. informal terms for a human head /…"
+}
+]

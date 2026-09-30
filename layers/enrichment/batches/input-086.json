@@ -1,0 +1,602 @@
+[
+{
+"word": "entrust",
+"pos": "vt",
+"zh": "vt. 信托, 交托, 委托 / [经] 委托",
+"en": "v. confer a trust upon / v. put into the care or protection of someone"
+},
+{
+"word": "rove",
+"pos": "n/vt/vi",
+"zh": "n. 徘徊, 粗纺, 流浪 / vt. 漂泊于, 漫游于 / vi. 流浪, 飘忽不定 / reeve的过去式和过去分词",
+"en": "v move about aimlessly or without any destination, often in search of food or employment / v pass a rope through / v pas…"
+},
+{
+"word": "enrol",
+"pos": "vt/vi",
+"zh": "vt. 登记, 使加入 / vi. 参军, 注册",
+"en": "v register formally as a participant or member"
+},
+{
+"word": "stigma",
+"pos": "n",
+"zh": "n. 耻辱, 污名, 烙印 / [医] 柱头; 小孔, 眼点; 气孔; 小斑; 特征",
+"en": "n. the apical end of the style where deposited pollen enters the pistil / n. an external tracheal aperture in a terrestr…"
+},
+{
+"word": "digit",
+"pos": "n",
+"zh": "n. 数字, 位数, 指头 / [计] 数位; 位",
+"en": "n. one of the elements that collectively form a system of numeration / n. a finger or toe in human beings or correspondi…"
+},
+{
+"word": "transparency",
+"pos": "n",
+"zh": "n. 透明, 透明度, 透过性, 透明物, 清晰 / [计] 透明性; 透明",
+"en": "n. permitting the free passage of electromagnetic radiation / n. the quality of being clear and transparent"
+},
+{
+"word": "charismatic",
+"pos": "a",
+"zh": "a. 魅力, 能吸引大众的非凡能力, 神授的能力, 领袖人物感人的超凡魅力",
+"en": "s. possessing an extraordinary ability to attract"
+},
+{
+"word": "insurgency",
+"pos": "n",
+"zh": "n. 叛乱状态, 发生暴动 / [法] 暴动, 起义, 叛乱",
+"en": "n. an organized rebellion aimed at overthrowing a constituted government through the use of subversion and armed conflic…"
+},
+{
+"word": "stink",
+"pos": "n/vi/vt",
+"zh": "n. 臭味, 臭气 / vi. 发臭味, 名声臭 / vt. 用臭味赶",
+"en": "v. be extremely bad in quality or in one's performance"
+},
+{
+"word": "upbringing",
+"pos": "n",
+"zh": "n. 教养",
+"en": "n. properties acquired during a person's formative years"
+},
+{
+"word": "foreground",
+"pos": "n",
+"zh": "n. 前景, 最显著的位置 / [计] 前景, 前台",
+"en": "n. the part of a scene that is near the viewer / n. (computer science) a window for an active application / v. move into…"
+},
+{
+"word": "toxin",
+"pos": "n",
+"zh": "n. 毒素 / [化] 毒素",
+"en": "n. a poisonous substance produced during the metabolism and growth of certain microorganisms and some higher plant and a…"
+},
+{
+"word": "muffin",
+"pos": "n",
+"zh": "n. 松饼",
+"en": "n. a sweet quick bread baked in a cup-shaped pan"
+},
+{
+"word": "clout",
+"pos": "n/vt",
+"zh": "n. 敲击, 破布 / vt. 打补钉",
+"en": "n. a target used in archery / v. strike hard, especially with the fist"
+},
+{
+"word": "heavyweight",
+"pos": "n/a",
+"zh": "n. 重量级拳击运动员, (非正式)有影响的要人 / a. 最重量级的",
+"en": "n. an amateur boxer who weighs no more than 201 pounds / n. a wrestler who weighs more than 214 pounds / n. a profession…"
+},
+{
+"word": "salsa",
+"pos": "n",
+"zh": "n. 洋葱做的辣调味汁；萨尔萨舞曲",
+"en": "n. spicy sauce of tomatoes and onions and chili peppers to accompany Mexican foods"
+},
+{
+"word": "crook",
+"pos": "n/vt/vi",
+"zh": "n. 钩, 弯曲部分, 坏蛋 / vt. 使弯曲, 诈骗 / vi. 弯曲",
+"en": "n. a long staff with one end being hook shaped / v. bend or cause to bend"
+},
+{
+"word": "ghetto",
+"pos": "n",
+"zh": "n. 犹太人区",
+"en": "n. formerly the restricted quarter of many European cities in which Jews were required to live / n. any segregated mode …"
+},
+{
+"word": "rooftop",
+"pos": "n",
+"zh": "n. 屋顶",
+"en": "n. the top of a (usually flat) roof"
+},
+{
+"word": "phony",
+"pos": "n/a",
+"zh": "n. 假货, 假冒者, 赝品 / a. 伪造的, 假的, 不可信的, 华而不实的",
+"en": "n a person who professes beliefs and opinions that he or she does not hold in order to conceal his or her real feelings …"
+},
+{
+"word": "unaffected",
+"pos": "a",
+"zh": "a. 不矫揉造作的, 自然的, 未受影响的, 未被感动的 / [经] 不受影响的",
+"en": "a. undergoing no change when acted upon / a. free of artificiality; sincere and genuine"
+},
+{
+"word": "rogue",
+"pos": "n/vt/vi",
+"zh": "n. 恶棍, 流氓, 小淘气 / vt. 欺骗 / vi. 游手好闲",
+"en": "n. a deceitful and unreliable scoundrel"
+},
+{
+"word": "cleric",
+"pos": "a",
+"zh": "a. 牧师的, 教士的",
+"en": "n. a clergyman or other person in religious orders"
+},
+{
+"word": "wig",
+"pos": "n/vt/vi",
+"zh": "n. 假发, 斥责 / vt. 给...戴假发, 激怒, 使发狂 / vi. 激动, 发狂",
+"en": "n. hairpiece covering the head and made of real or synthetic hair / n. British slang for a scolding"
+},
+{
+"word": "normative",
+"pos": "a",
+"zh": "a. 合乎规范的, 标准的, 规范的 / [法] 标准的, 规范的, 合乎规范的",
+"en": "a. relating to or dealing with norms"
+},
+{
+"word": "horrific",
+"pos": "a",
+"zh": "a. 令人毛骨悚然的, 感到恐惧的",
+"en": "s grossly offensive to decency or morality; causing horror / s causing fear or dread or terror"
+},
+{
+"word": "attest",
+"pos": "vi/vt",
+"zh": "vi. 证明, 表明, 作证 / vt. 为...作证",
+"en": "v. provide evidence for; stand as proof of; show by one's behavior, attitude, or external attributes / v. authenticate, …"
+},
+{
+"word": "duct",
+"pos": "n/vt",
+"zh": "n. 管, 输送管 / vt. 通过管道输送",
+"en": "n. a bodily passage or tube lined with epithelial cells and conveying a secretion or other substance / n. a continuous t…"
+},
+{
+"word": "helm",
+"pos": "n/vt",
+"zh": "n. 舵, 驾驶盘, 枢机, 头盔 / vt. 给...掌舵, 指挥, 给...戴头盔",
+"en": "n. steering mechanism for a vessel; a mechanical device by which a vessel is steered / n. a position of leadership / v. …"
+},
+{
+"word": "stomp",
+"pos": "n/vt/vi",
+"zh": "n. 跺脚 / vt. 跺, 践踏 / vi. 跺脚, 践踏",
+"en": "n. a dance involving a rhythmical stamping step / v. walk heavily"
+},
+{
+"word": "nostril",
+"pos": "n",
+"zh": "n. 鼻孔 / [医] 鼻孔",
+"en": "n. either one of the two external openings to the nasal cavity in the nose"
+},
+{
+"word": "paranoid",
+"pos": "a/n",
+"zh": "a. (似)患妄想狂的, (似)患偏执狂的 / n. 患妄想狂的人",
+"en": "n. a person afflicted with paranoia / s. suffering from paranoia"
+},
+{
+"word": "scalp",
+"pos": "v/n",
+"zh": "v. 剥头皮 / n. 头皮, 战利品",
+"en": "n. the skin that covers the top of the head / v. sell illegally, as on the black market / v. remove the scalp of"
+},
+{
+"word": "curry",
+"pos": "n/vt",
+"zh": "n. 咖哩粉, 咖哩饭菜 / vt. 用咖哩粉调味, 用马梳梳, 制革",
+"en": "n. (East Indian cookery) a pungent dish of vegetables or meats flavored with curry powder and usually eaten with rice / …"
+},
+{
+"word": "eyelid",
+"pos": "n",
+"zh": "n. 眼皮, 眼睑 / [医] 睑",
+"en": "n. either of two folds of skin that can be moved to cover or open the eye"
+},
+{
+"word": "pretence",
+"pos": "n",
+"zh": "n. 假装, 虚伪, 借口, 自称, 要求 / [法] 假装, 借口, 托词",
+"en": "n a false or unsupportable quality / n an artful or simulated semblance / n pretending with intention to deceive / n ima…"
+},
+{
+"word": "caretaker",
+"pos": "n",
+"zh": "n. 照顾者, 看管者, 看守人 / [法] 看守员, 管理员, 看管人",
+"en": "n. a custodian who is hired to take care of something (property or a person) / n. an official who performs the duties of…"
+},
+{
+"word": "farmland",
+"pos": "n",
+"zh": "n. 农田",
+"en": "n. a rural area where farming is practiced"
+},
+{
+"word": "groom",
+"pos": "n/vt/vi",
+"zh": "n. 马夫, 新郎, 男仆 / vt. 喂马, 使...整洁, 推荐 / vi. 打扮, 穿戴",
+"en": "n. a man participant in his own marriage ceremony / n. a man who has recently been married / v. care for one's external …"
+},
+{
+"word": "downside",
+"pos": "n",
+"zh": "n. 底侧；下降趋势",
+"en": "n. a negative aspect of something that is generally positive"
+},
+{
+"word": "nestle",
+"pos": "vi/vt",
+"zh": "vi. 舒适地坐定, 挨靠, 偎依 / vt. 抱, 安置",
+"en": "v. lie in a sheltered position / v. position comfortably"
+},
+{
+"word": "stylish",
+"pos": "a",
+"zh": "a. 现代风格的, 流行的, 潇洒的",
+"en": "a. having elegance or taste or refinement in manners or dress"
+},
+{
+"word": "tabloid",
+"pos": "n/a",
+"zh": "n. 小报, 小型画报, 药片, 文摘 / a. 轰动性的, 扼要的, 缩略的, 小报式的",
+"en": "n. newspaper with half-size pages"
+},
+{
+"word": "caucus",
+"pos": "n/vi",
+"zh": "n. 领导人会议, 核心会议 / vi. 开核心会议",
+"en": "n. a closed political meeting / v. meet to select a candidate or promote a policy"
+},
+{
+"word": "bonnet",
+"pos": "n",
+"zh": "n. 软帽 / [化] 阀盖; 阀帽",
+"en": "n. a hat tied under the chin / v. dress in a bonnet"
+},
+{
+"word": "gunfire",
+"pos": "n",
+"zh": "n. 炮火, 号炮报时, 炮击",
+"en": "n. the act of shooting a gun"
+},
+{
+"word": "fugitive",
+"pos": "a/n",
+"zh": "a. 逃亡的, 短暂的, 难捉摸的 / n. 逃亡者, 亡命者, 难捕捉之物",
+"en": "n. someone who flees from an uncongenial situation / n. someone who is sought by law officers; someone trying to elude j…"
+},
+{
+"word": "coastline",
+"pos": "n",
+"zh": "n. 海岸线",
+"en": "n. the outline of a coast"
+},
+{
+"word": "contestant",
+"pos": "n",
+"zh": "n. 竞争者 / [法] 争辩者, 竞争者",
+"en": "n. a person who participates in competitions"
+},
+{
+"word": "draught",
+"pos": "n/vt",
+"zh": "n. 气流, 草稿, 汇票, 通风, 拉, 牵引 / vt. 起草, 征兵, 选派",
+"en": "n a serving of drink (usually alcoholic) drawn from a keg / n a large and hurried swallow / n a current of air (usually …"
+},
+{
+"word": "brokerage",
+"pos": "n",
+"zh": "n. 经纪人, 回扣, 佣金, 中间人业务 / [经] 经纪业, 佣金, 手续费",
+"en": "n. a stock broker's business; charges a fee to act as intermediary between buyer and seller / n. the business of a broke…"
+},
+{
+"word": "putt",
+"pos": "vt/vi/n",
+"zh": "vt. 击球入洞 / vi. 轻击高尔夫球 / n. 轻轻一击(入洞)",
+"en": "n. hitting a golf ball that is on the green using a putter; he didn't sink a single putt over three feet\" / v. strike (a…"
+},
+{
+"word": "intuitive",
+"pos": "a",
+"zh": "a. 直觉的",
+"en": "s. spontaneously derived from or prompted by a natural tendency / s. obtained through intuition rather than from reasoni…"
+},
+{
+"word": "immaculate",
+"pos": "a",
+"zh": "a. 无污点的, 纯洁的, 无缺点的, 无辜的 / [医] 无斑点, 无瑕疵的, 洁净的",
+"en": "s. completely neat and clean / s. free from stain or blemish"
+},
+{
+"word": "makeshift",
+"pos": "n/a",
+"zh": "n. 权宜之计, 临时代用品 / a. 权宜的, 临时代用的",
+"en": "n. something contrived to meet an urgent need or emergency"
+},
+{
+"word": "privy",
+"pos": "a/n",
+"zh": "a. 个人的, 私人的, 秘密的, 隐蔽的 / n. 有利害关系的人, 当事人, 厕所",
+"en": "s. hidden from general view or use / s. (followed by `to') informed about something secret or not generally known"
+},
+{
+"word": "wrongdoing",
+"pos": "n",
+"zh": "n. 干坏事, 坏事",
+"en": "n. activity that transgresses moral or civil law"
+},
+{
+"word": "covert",
+"pos": "a/n",
+"zh": "a. 隐蔽的, 偷偷摸摸的, 隐密的 / n. 树丛, 隐藏处",
+"en": "n. a flock of coots / a. secret or hidden; not openly practiced or engaged in or shown or avowed / s. (of a wife) being …"
+},
+{
+"word": "beckon",
+"pos": "v/n",
+"zh": "v. 招手示意, 召唤, 吸引 / n. 表召唤的点头(或手势)",
+"en": "v. signal with the hands or nod / v. appear inviting / v. summon with a wave, nod, or some other gesture"
+},
+{
+"word": "fiddle",
+"pos": "n/vt/vi",
+"zh": "n. 小提琴, 提琴类乐器 / vt. 虚度时光, 拉小提琴 / vi. 拉小提琴, (无目的地)拨弄, 瞎搞",
+"en": "v. avoid (one's assigned duties) / v. commit fraud and steal from one's employer / v. play the violin or fiddle / v. pla…"
+},
+{
+"word": "freelance",
+"pos": "n/a",
+"zh": "n. 自由作家, 自由投稿, 自由职业者 / a. 自由投稿的",
+"en": "v. work independently and on temporary contracts rather than for a long-term employer / a. working for yourself"
+},
+{
+"word": "candidacy",
+"pos": "n",
+"zh": "n. 候选人的地位, 候选资格 / [法] 候选人的身份, 资格",
+"en": "n the campaign of a candidate to be elected"
+},
+{
+"word": "handgun",
+"pos": "n",
+"zh": "n. 手枪",
+"en": "n a firearm that is held and fired with one hand"
+},
+{
+"word": "floppy",
+"pos": "a",
+"zh": "a. 叭嗒叭嗒响的, 松软的",
+"en": "s. hanging limply"
+},
+{
+"word": "wince",
+"pos": "n/vi",
+"zh": "n. 畏缩, 退避 / vi. 畏缩, 退缩, 退避",
+"en": "n. the facial expression of sudden pain / n. a reflex response to sudden pain / v. make a face indicating disgust or dis…"
+},
+{
+"word": "graffiti",
+"pos": "n",
+"zh": "n. 墙上乱写乱画的东西",
+"en": "n a rude decoration inscribed on rocks or walls / n a rude decoration inscribed on rocks or walls"
+},
+{
+"word": "annoyance",
+"pos": "n",
+"zh": "n. 烦恼, 打扰, 可厌之事 / [法] 使人烦恼的事物, 麻烦事, 讨厌物",
+"en": "n. anger produced by some annoying irritation / n. something or someone that causes trouble; a source of unhappiness / n…"
+},
+{
+"word": "rector",
+"pos": "n",
+"zh": "n. 教区长, 校长, 院长",
+"en": "n a person authorized to conduct religious worship"
+},
+{
+"word": "aristocracy",
+"pos": "n",
+"zh": "n. 贵族, 上层社会, 知识界杰出分子 / [法] 贵族政治, 贵族统治",
+"en": "n a privileged class holding hereditary titles / n the most powerful members of a society"
+},
+{
+"word": "raspberry",
+"pos": "n",
+"zh": "n. 悬钩子, 呸声 / [化] 覆盆子; 悬钩子",
+"en": "n. woody brambles bearing usually red but sometimes black or yellow fruits that separate from the receptacle when ripe a…"
+},
+{
+"word": "spokesperson",
+"pos": "n",
+"zh": "n. 发言人, 代言人",
+"en": "n. an advocate who represents someone else's policy or purpose"
+},
+{
+"word": "flute",
+"pos": "n/vi/vt",
+"zh": "n. 笛, 横笛, 凹槽 / vi. 吹笛子 / vt. 用长笛奏, 刻凹槽于",
+"en": "n. a high-pitched woodwind instrument; a slender tube closed at one end with finger holes on one end and an opening near…"
+},
+{
+"word": "bog",
+"pos": "n/vt/vi",
+"zh": "n. 沼泽 / vt. 使陷于泥沼 / vi. 陷于泥沼",
+"en": "n. wet spongy ground of decomposing vegetation; has poorer drainage than a swamp; soil is unfit for cultivation but can …"
+},
+{
+"word": "nipple",
+"pos": "n",
+"zh": "n. 乳头, 奶头, 奶嘴 / [化] 螺纹接口; 螺纹接套",
+"en": "n. the small projection of a mammary gland / n. a flexible cap on a baby's feeding bottle or pacifier"
+},
+{
+"word": "cerebral",
+"pos": "a",
+"zh": "a. 脑的, 大脑的 / [医] 小脑的",
+"en": "a. involving intelligence rather than emotions or instinct / a. of or relating to the cerebrum or brain"
+},
+{
+"word": "flex",
+"pos": "vt/vi/n",
+"zh": "vt. 弯曲, 伸缩, 折曲 / vi. 弯曲 / n. 屈曲, 折曲",
+"en": "n. the act of flexing / v. contract / v. exhibit the strength of / v. bend a joint"
+},
+{
+"word": "accrue",
+"pos": "vi",
+"zh": "vi. 自然增加, 产生 / [经] 应计, 产生, 出现",
+"en": "v. grow by addition / v. come into the possession of"
+},
+{
+"word": "regent",
+"pos": "n/a",
+"zh": "n. 摄政者, 摄政王 / a. 摄政的",
+"en": "n. members of a governing board / n. someone who rules during the absence or incapacity or minority of the country's mon…"
+},
+{
+"word": "culprit",
+"pos": "n",
+"zh": "n. 犯人, 罪犯, 刑事被告 / [法] 犯罪者, 犯人, 罪犯",
+"en": "n someone who perpetrates wrongdoing"
+},
+{
+"word": "contentious",
+"pos": "a",
+"zh": "a. 好争吵的, 爱争论的, 有异议的 / [法] 诉讼的, 争执的, 引起争论的",
+"en": "s. inclined or showing an inclination to dispute or disagree, even to engage in law suits / s. involving or likely to ca…"
+},
+{
+"word": "mogul",
+"pos": "n",
+"zh": "n. 大人物, 有权势的人",
+"en": "n. a bump on a ski slope / n. a member of the Muslim dynasty that ruled India until 1857"
+},
+{
+"word": "sequel",
+"pos": "n",
+"zh": "n. 继续, 续集, 后果 / [计] 结构的英语查询语言",
+"en": "n. something that follows something else / n. a part added to a book or play that continues and extends it"
+},
+{
+"word": "cache",
+"pos": "n/vt",
+"zh": "n. 隐藏所, 隐藏的粮食或物资, 贮藏物, 高速缓冲存储器 / vt. 隐藏, 窖藏 / [计] 高速缓冲存储器, 高速缓冲",
+"en": "n. a hidden storage space (for money or provisions or weapons) / n. (computer science) RAM memory that is set aside as a…"
+},
+{
+"word": "surrogate",
+"pos": "n/vt",
+"zh": "n. 替代者, 代用品 / vt. 代理, 替代",
+"en": "n. someone who takes the place of another person"
+},
+{
+"word": "quay",
+"pos": "n",
+"zh": "n. 码头, 驳岸 / [经] 贴岸码头",
+"en": "n. wharf usually built parallel to the shoreline"
+},
+{
+"word": "tweed",
+"pos": "n",
+"zh": "n. (粗)花呢, 花呢服装",
+"en": "n. thick woolen fabric used for clothing; originated in Scotland"
+},
+{
+"word": "jubilee",
+"pos": "n",
+"zh": "n. 五十周年纪念/庆祝, 二十五周年纪念/庆祝, 欢乐的佳节, 欢庆日, 狂欢节",
+"en": "n. a special anniversary (or the celebration of it)"
+},
+{
+"word": "punitive",
+"pos": "a",
+"zh": "a. 刑罚的, 惩罚性的 / [法] 刑罚的, 惩罚性的, 结予惩处的",
+"en": "a. inflicting punishment"
+},
+{
+"word": "barrage",
+"pos": "n/vt",
+"zh": "n. 弹幕, 掩护炮火 / vt. 以密集炮火进攻",
+"en": "n. the rapid and continuous delivery of linguistic communication (spoken or written) / n. the heavy fire of artillery to…"
+},
+{
+"word": "disparate",
+"pos": "a/n",
+"zh": "a. 根本不同的, 全异的, 不相干的 / n. 无法相比的东西(或人)",
+"en": "s. fundamentally different or distinct in quality or kind / s. including markedly dissimilar elements"
+},
+{
+"word": "arcade",
+"pos": "n",
+"zh": "n. 拱廊, 拱形建筑物, 有拱廊的街道 / [医] 弓形组织, 连拱",
+"en": "n. a covered passageway with shops and stalls on either side / n. a structure composed of a series of arches supported b…"
+},
+{
+"word": "hooligan",
+"pos": "n",
+"zh": "n. 小流氓 / [法] 阿飞, 流氓, 街头恶棍",
+"en": "n a cruel and brutal fellow"
+},
+{
+"word": "plywood",
+"pos": "n",
+"zh": "n. 夹板, 合板 / [机] 层板, 木夹板, 三夹板",
+"en": "n. a laminate made of thin layers of wood"
+},
+{
+"word": "autograph",
+"pos": "n/vt",
+"zh": "n. 亲笔, 亲笔签名, 手稿 / vt. 亲笔签名于, 亲笔写",
+"en": "n. something written by one's own hand / n. a person's own signature / v. mark with one's signature"
+},
+{
+"word": "chaplain",
+"pos": "n",
+"zh": "n. 牧师",
+"en": "n. a clergyman ministering to some institution"
+},
+{
+"word": "orchestrate",
+"pos": "v",
+"zh": "v. 编管弦乐曲",
+"en": "v. write an orchestra score for"
+},
+{
+"word": "hone",
+"pos": "n/vt",
+"zh": "n. 磨刀石, 抱怨, 想念 / vt. 用磨刀石磨, 磨练",
+"en": "n. a whetstone made of fine gritstone; used for sharpening razors / v. sharpen with a hone"
+},
+{
+"word": "baptism",
+"pos": "n",
+"zh": "n. 浸礼, 洗礼",
+"en": "n. a Christian sacrament signifying spiritual cleansing and rebirth"
+},
+{
+"word": "gunshot",
+"pos": "n/a",
+"zh": "n. 枪弹, (枪炮)射击, 炮击, 射程 / a. 射击的",
+"en": "n the act of shooting a gun"
+},
+{
+"word": "fern",
+"pos": "n",
+"zh": "n. 蕨类植物 / [医] 蕨类植物",
+"en": "n. any of numerous flowerless and seedless vascular plants having true roots from a rhizome and fronds that uncurl upwar…"
+}
+]

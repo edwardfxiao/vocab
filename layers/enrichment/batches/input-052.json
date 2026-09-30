@@ -1,0 +1,602 @@
+[
+{
+"word": "liquor",
+"pos": "n/vt/vi",
+"zh": "n. 酒, 液体, 汁, 溶液 / vt. 浸水 / vi. 喝酒",
+"en": "n. an alcoholic beverage that is distilled rather than fermented / n. a liquid substance that is a solution (or emulsion…"
+},
+{
+"word": "packaging",
+"pos": "n",
+"zh": "n. 包装, 包装业, 包装术 / [计] 组装; 封装",
+"en": "n. the business of packing / n. material used to make packages"
+},
+{
+"word": "affirm",
+"pos": "v",
+"zh": "v. 断言, 确认",
+"en": "v. to declare or affirm solemnly and formally as true / v. say yes to"
+},
+{
+"word": "sip",
+"pos": "n/vi/vt",
+"zh": "n. 啜饮, 小口喝, 抿 / vi. 啜饮 / vt. 啜 / [计] 单列直插式组件",
+"en": "n. a small drink / v. drink in sips"
+},
+{
+"word": "drainage",
+"pos": "n",
+"zh": "n. 排水 / [医] 引流[法], 导液[法], 排水[设备]",
+"en": "n emptying something accomplished by allowing liquid to run out of it"
+},
+{
+"word": "span",
+"pos": "n/vt",
+"zh": "n. 指距, 全长, 跨距, 一段时间, 小范围 / vt. 以手指测量, 跨越, 架设, 持续",
+"en": "n. the complete duration of something / n. the distance or interval between two points / n. a unit of length based on th…"
+},
+{
+"word": "linger",
+"pos": "vi/vt",
+"zh": "vi. 逗留, 消磨, 徘徊 / vt. 消磨",
+"en": "v. remain present although waning or gradually dying / v. take one's time; proceed slowly"
+},
+{
+"word": "applaud",
+"pos": "v",
+"zh": "v. 拍手喝彩, 称赞, 赞同",
+"en": "v. clap one's hands or shout after performances to indicate approval / v. express approval of"
+},
+{
+"word": "gloom",
+"pos": "n/vi/vt",
+"zh": "n. 忧郁, 暗处, 幽暗 / vi. 变忧沉, 变黑暗 / vt. 使忧郁, 使黑暗",
+"en": "n. a state of partial or total darkness / n. a feeling of melancholy apprehension / n. an atmosphere of depression and m…"
+},
+{
+"word": "stabilize",
+"pos": "vt/vi",
+"zh": "vt. 使安定, 使稳固 / vi. 稳定, 安定",
+"en": "v. make stable and keep from fluctuating or put into an equilibrium / v. become stable or more stable"
+},
+{
+"word": "chimney",
+"pos": "n",
+"zh": "n. 烟囱, 灯罩 / [电] 烟囱",
+"en": "n. a vertical flue that provides a path through which smoke from a fire is carried away through the wall or roof of a bu…"
+},
+{
+"word": "cube",
+"pos": "n",
+"zh": "n. 立方体, 立方 / [机] 立方体, 立方",
+"en": "n. a hexahedron with six equal squares as faces / n. the product of three equal terms / n. any of several tropical Ameri…"
+},
+{
+"word": "harbor",
+"pos": "n/v",
+"zh": "n. 港, 避难所 / v. 庇护, 藏匿, (使)入港停泊",
+"en": "n. a place of refuge and comfort and security / v. maintain (a theory, thoughts, or feelings) / v. secretly shelter (as …"
+},
+{
+"word": "litre",
+"pos": "n",
+"zh": "n. 升, 公升 / [计] 升",
+"en": "n a metric unit of capacity, formerly defined as the volume of one kilogram of pure water under standard conditions; now…"
+},
+{
+"word": "sydney",
+"pos": "n",
+"zh": "n. 悉尼（澳大利亚港市）",
+"en": "n. the largest Australian city located in southeastern Australia on the Tasman Sea; state capital of New South Wales; Au…"
+},
+{
+"word": "offspring",
+"pos": "n",
+"zh": "n. 子孙, 后代, 产物 / [法] 后辈, 子孙, 后裔",
+"en": "n. the immediate descendants of a person / n. something that comes into existence as a result"
+},
+{
+"word": "guild",
+"pos": "n",
+"zh": "n. 团体, 协会, 行业协会 / [经] 同业公会",
+"en": "n a formal association of people with similar interests"
+},
+{
+"word": "dim",
+"pos": "a/vt",
+"zh": "a. 暗淡的, 模糊的 / vt. 使暗淡 / [计] 数据解释模块",
+"en": "v. switch (a car's headlights) from a higher to a lower beam / v. become dim or lusterless / v. make dim or lusterless /…"
+},
+{
+"word": "footstep",
+"pos": "n",
+"zh": "n. 脚步, 脚步声, 足迹",
+"en": "n. the act of taking a step in walking / n. the distance covered by a step"
+},
+{
+"word": "facial",
+"pos": "n/a",
+"zh": "n. 美颜, 脸部按摩 / a. 脸的, 表面的, 脸部用的",
+"en": "n. cranial nerve that supplies facial muscles / n. care for the face that usually involves cleansing and massage and the…"
+},
+{
+"word": "plantation",
+"pos": "n",
+"zh": "n. 种植园, 大农场, 植树造林, 新开垦地 / [医] 栽植(如牙或其他组织的植入、再植和移植)",
+"en": "n. an estate where cash crops are grown on a large scale (especially in tropical areas) / n. a newly established colony …"
+},
+{
+"word": "predictable",
+"pos": "a",
+"zh": "a. 可预言的",
+"en": "a. capable of being foretold"
+},
+{
+"word": "sunset",
+"pos": "n",
+"zh": "n. 日落, 晚年",
+"en": "n. the time in the evening at which the sun begins to fall below the horizon / n. atmospheric phenomena accompanying the…"
+},
+{
+"word": "residue",
+"pos": "n",
+"zh": "n. 残渣, 剩余, 余数 / [化] 残基; 残渣; 残液; 釜液",
+"en": "n. matter that remains after something has been removed"
+},
+{
+"word": "housewife",
+"pos": "n",
+"zh": "n. 主妇, 家庭妇女",
+"en": "n. a wife who manages a household while her husband earns the family income"
+},
+{
+"word": "monarch",
+"pos": "n",
+"zh": "n. 帝王, 统治者, 元首 / [医] 单原型(植)",
+"en": "n. large migratory American butterfly having deep orange wings with black and white markings; the larvae feed on milkwee…"
+},
+{
+"word": "proponent",
+"pos": "n",
+"zh": "n. 建议者, 支持者 / [法] 提议者, 辩护者, 支持者",
+"en": "n a person who pleads for a cause or propounds an idea"
+},
+{
+"word": "antique",
+"pos": "n/a",
+"zh": "n. 古董, 古物 / a. 古老的, 古风的, 旧式的, 过时的",
+"en": "n. any piece of furniture or decorative object or the like produced in a former period and valuable because of its beaut…"
+},
+{
+"word": "pasture",
+"pos": "n/vt/vi",
+"zh": "n. 牧场, 草地, 牧草 / vt. 放牧 / vi. 吃草",
+"en": "n. a field covered with grass or herbage and suitable for grazing by livestock"
+},
+{
+"word": "bulletin",
+"pos": "n",
+"zh": "n. 公告, 布告, 公报 / [电] 电子布告栏",
+"en": "n. a brief report (especially an official statement issued for immediate publication or broadcast) / v. make public by b…"
+},
+{
+"word": "toast",
+"pos": "n/vt/vi",
+"zh": "n. 吐司, 烤面包, 干杯 / vt. 敬酒, 烤, 使暖和 / vi. 烤, 烘",
+"en": "n. slices of bread that have been toasted / n. a celebrity who receives much acclaim and attention / v. propose a toast …"
+},
+{
+"word": "courtyard",
+"pos": "n",
+"zh": "n. 庭院, 天井",
+"en": "n an area wholly or partly surrounded by walls or buildings"
+},
+{
+"word": "skate",
+"pos": "n/vi",
+"zh": "n. 溜冰, 冰鞋 / vi. 滑冰, 滑过",
+"en": "n. sports equipment that is worn on the feet to enable the wearer to glide along and to be propelled by the alternate ac…"
+},
+{
+"word": "cough",
+"pos": "n/vi/vt",
+"zh": "n. 咳嗽 / vi. 咳嗽 / vt. 咳出",
+"en": "n. a sudden noisy expulsion of air from the lungs that clears the air passages; a common symptom of upper respiratory in…"
+},
+{
+"word": "fabulous",
+"pos": "a",
+"zh": "a. 传说的, 寓言般的, 难以置信的",
+"en": "s. extremely pleasing / s. based on or told of in traditional stories; lacking factual basis or historical validity / s.…"
+},
+{
+"word": "communism",
+"pos": "n",
+"zh": "n. 共产主义",
+"en": "n. a form of socialism that abolishes private ownership / n. a political theory favoring collectivism in a classless soc…"
+},
+{
+"word": "intersection",
+"pos": "n",
+"zh": "n. 交集, 十字路口, 交叉点 / [计] 逻辑乘; 与",
+"en": "n. a point where lines intersect / n. a junction where one street or road crosses another / n. a point or set of points …"
+},
+{
+"word": "curse",
+"pos": "n/vt",
+"zh": "n. 咒骂, 诅咒 / vt. 诅咒, 咒骂",
+"en": "n. profane or obscene expression usually of surprise or anger / n. a severe affliction / v. utter obscenities or profani…"
+},
+{
+"word": "freight",
+"pos": "n/vt",
+"zh": "n. 船货, 运费, 货运 / vt. 装货, 使充满, 以货运运送, 租(或出租)(船等)",
+"en": "n. transporting goods commercially at rates cheaper than express rates / n. the charge for transporting something by com…"
+},
+{
+"word": "asylum",
+"pos": "n",
+"zh": "n. 庇护, 收容所 / [医] 养育院",
+"en": "n a shelter from danger or hardship / n a hospital for mentally incompetent or unbalanced person"
+},
+{
+"word": "reconciliation",
+"pos": "n",
+"zh": "n. 和解, 和好, 复交, 调解, 调停, 和谐, 一致, 甘愿, 顺从 / [经] (银行往来)调节, 调和, 一致",
+"en": "n. the reestablishing of cordial relations / n. getting two things to correspond"
+},
+{
+"word": "armchair",
+"pos": "n",
+"zh": "n. 扶手椅",
+"en": "n. chair with a support on each side for arms"
+},
+{
+"word": "treasurer",
+"pos": "n",
+"zh": "n. 会计, 出纳员, 司库 / [经] 司库, 财务主任, 财政大臣",
+"en": "n. an officer charged with receiving and disbursing funds"
+},
+{
+"word": "mug",
+"pos": "n/vt/vi",
+"zh": "n. 有柄大杯, 脸, 苦读者 / vt. 给...拍照, 攻击, 苦读 / vi. 拼命用功",
+"en": "n. the quantity that can be held in a mug / n. with handle and usually cylindrical / v. rob at gunpoint or with the thre…"
+},
+{
+"word": "maths",
+"pos": "n",
+"zh": "n. 数学",
+"en": "n a science (or group of related sciences) dealing with the logic of quantity and shape and arrangement / n a science (o…"
+},
+{
+"word": "erase",
+"pos": "vt",
+"zh": "vt. 抹去, 擦掉 / [计] 清洗; 擦除; 抹除; DOS内部命令:从磁盘上删除一个或多个文件",
+"en": "v. remove from memory or existence / v. remove by or as if by rubbing or erasing / v. wipe out digitally or magnetically…"
+},
+{
+"word": "socket",
+"pos": "n/vt",
+"zh": "n. 窝, 穴, 插座, 眼窝 / vt. 插进插座 / [计] 套接字",
+"en": "n. a bony hollow into which a structure fits / n. receptacle where something (a pipe or probe or end of a bone) is inser…"
+},
+{
+"word": "disco",
+"pos": "n",
+"zh": "n. 夜总会, 迪斯科, 的士高",
+"en": "n. popular dance music (especially in the late 1970s); melodic with a regular bass beat; intended mainly for dancing at …"
+},
+{
+"word": "stain",
+"pos": "n/vt/vi",
+"zh": "n. 污染, 污点, 着色剂 / vt. 沾染, 染污, 着色 / vi. 变脏",
+"en": "n. a soiled or discolored appearance / n. (microscopy) a dye or other coloring material that is used in microscopy to ma…"
+},
+{
+"word": "shave",
+"pos": "n/vt/vi",
+"zh": "n. 修面, 刮胡子, 幸免, 剃刀 / vt. 修面, 剃, 修剪, 掠过 / vi. 刮脸, 勉强通过",
+"en": "n. the act of removing hair with a razor / v. remove body hair with a razor / v. cut closely / v. cut the price of"
+},
+{
+"word": "brewery",
+"pos": "n",
+"zh": "n. 啤酒厂, 酿酒厂 / [经] 酿造所",
+"en": "n. a plant where beer is brewed by fermentation"
+},
+{
+"word": "chord",
+"pos": "n",
+"zh": "n. 弦, 和音 / [医] 索, 带",
+"en": "n. a straight line connecting two points on a curve / n. a combination of three or more notes that blend harmoniously wh…"
+},
+{
+"word": "kettle",
+"pos": "n",
+"zh": "n. 茶壶, 罐 / [化] 釜体釜; 锅",
+"en": "n. a metal pot for stewing or boiling; usually has a lid / n. the quantity a kettle will hold / n. a large hemispherical…"
+},
+{
+"word": "armor",
+"pos": "n/vt",
+"zh": "n. 盔甲, 潜水服, 装甲 / vt. 为...装甲",
+"en": "n. protective covering made of metal and used in combat / n. a military unit consisting of armored fighting vehicles / n…"
+},
+{
+"word": "sixteenth",
+"pos": "num",
+"zh": "num. 第十六, 十六分之一",
+"en": "n. position 16 in a countable series of things / s. coming next after the fifteenth in position"
+},
+{
+"word": "wetland",
+"pos": "n",
+"zh": "n. 湿地, 沼泽地 / [经] 湿地",
+"en": "n. a low area where the land is saturated with water"
+},
+{
+"word": "coral",
+"pos": "n",
+"zh": "n. 珊瑚, 珊瑚色 / [化] 珊瑚",
+"en": "n. a variable color averaging a deep pink / n. the hard stony skeleton of a Mediterranean coral that has a delicate red …"
+},
+{
+"word": "playground",
+"pos": "n",
+"zh": "n. 运动场, 操场, 度假胜地, 活动场所",
+"en": "n. yard consisting of an outdoor area for children's play"
+},
+{
+"word": "delete",
+"pos": "vt",
+"zh": "vt. 删除 / [计] 删除",
+"en": "v. remove or make invisible"
+},
+{
+"word": "cellular",
+"pos": "a",
+"zh": "a. 细胞的 / [医] 细胞的",
+"en": "a. relating to cells / a. characterized by or divided into or containing cells or compartments (the smallest organizatio…"
+},
+{
+"word": "underlie",
+"pos": "vt",
+"zh": "vt. 位于...之下, 成为...的基础",
+"en": "v. be or form the base for / v. lie underneath"
+},
+{
+"word": "brandy",
+"pos": "n",
+"zh": "n. 白兰地酒 / [化] 白兰地",
+"en": "n. distilled from wine or fermented fruit juice"
+},
+{
+"word": "mosque",
+"pos": "n",
+"zh": "n. 清真寺",
+"en": "n. (Islam) a Muslim place of worship that usually has a minaret"
+},
+{
+"word": "recycle",
+"pos": "vt/n",
+"zh": "vt. 使再循环, 重新利用, 再制 / n. 再循环",
+"en": "v. cause to repeat a cycle / v. use again after processing"
+},
+{
+"word": "harmful",
+"pos": "a",
+"zh": "a. 有害的, 伤害的",
+"en": "a. causing or capable of causing harm"
+},
+{
+"word": "ant",
+"pos": "n",
+"zh": "n. 蚂蚁",
+"en": "n. social insect living in organized colonies; characteristically the males and fertile queen have wings during breeding…"
+},
+{
+"word": "feminine",
+"pos": "a",
+"zh": "a. 女性的, 阴性的, 柔弱的 / [医] 女性的, 雌性的",
+"en": "n. a gender that refers chiefly (but not exclusively) to females or to objects classified as female / a. associated with…"
+},
+{
+"word": "symphony",
+"pos": "n",
+"zh": "n. 交响乐, 交响曲",
+"en": "n. a long and complex sonata for symphony orchestra"
+},
+{
+"word": "tuition",
+"pos": "n",
+"zh": "n. 学费, 讲授",
+"en": "n. a fee paid for instruction (especially for higher education)"
+},
+{
+"word": "destructive",
+"pos": "a",
+"zh": "a. 毁灭性的, 破坏的, 有害的 / [医] 破坏的, 毁坏的",
+"en": "a. causing destruction or much damage"
+},
+{
+"word": "absorption",
+"pos": "n",
+"zh": "n. 吸收, 专心, 全神贯注 / [化] 吸收; 吸收作用",
+"en": "n. (chemistry) a process in which one substance permeates another; a fluid permeates or is dissolved by a liquid or soli…"
+},
+{
+"word": "accumulation",
+"pos": "n",
+"zh": "n. 积聚, 累积, 积聚物 / [医] 蓄积, 累积",
+"en": "n. the act of accumulating / n. (finance) profits that are not paid out as dividends but are added to the capital base o…"
+},
+{
+"word": "niche",
+"pos": "n/vt",
+"zh": "n. 壁龛 / vt. 放入壁龛, 安顿",
+"en": "n. a position particularly well suited to the person who occupies it / n. (ecology) the status of an organism within its…"
+},
+{
+"word": "inexpensive",
+"pos": "a",
+"zh": "a. 便宜的, 不贵重的",
+"en": "a relatively low in price or charging low prices"
+},
+{
+"word": "supplementary",
+"pos": "a",
+"zh": "a. 补足的, 补充的, 追加的 / [经] 追加的, 补充的, 增补的",
+"en": "s. added to complete or make up a deficiency"
+},
+{
+"word": "terrify",
+"pos": "vt",
+"zh": "vt. 使恐惧, 恐吓",
+"en": "v. fill with terror; frighten greatly"
+},
+{
+"word": "vegetation",
+"pos": "n",
+"zh": "n. 植物 / [医] 贽生物, 贽疣, 增殖体; 生长, 增殖",
+"en": "n. all the plant life in a particular region or period / n. the process of growth in plants / n. an abnormal growth or e…"
+},
+{
+"word": "monarchy",
+"pos": "n",
+"zh": "n. 君主政体, 君主国, 君主政治 / [法] 君主政体, 君主制度, 君主国",
+"en": "n. an autocracy governed by a monarch who usually inherits the authority"
+},
+{
+"word": "bark",
+"pos": "n/vi/vt",
+"zh": "n. 树皮, 吠声 / vi. 吠, 叫骂 / vt. 喊出, 剥树皮",
+"en": "n. tough protective covering of the woody stems and roots of trees and other woody plants / n. a noise resembling the ba…"
+},
+{
+"word": "fascinate",
+"pos": "vt/vi",
+"zh": "vt. 令人入神, 使着迷 / vi. 入迷",
+"en": "v. to render motionless, as with a fixed stare or by arousing terror or awe"
+},
+{
+"word": "default",
+"pos": "n/v",
+"zh": "n. 违约, 不履行责任, 缺席, 默认值 / v. 疏怠职责, 缺席, 拖欠, 默认 / [计] 默认; 默认值; 缺省值",
+"en": "n. loss due to not showing up / n. act of failing to meet a financial obligation / v. fail to pay up"
+},
+{
+"word": "generator",
+"pos": "n",
+"zh": "n. 产生器, 发电机, 生产者 / [计] 发生器",
+"en": "n. an apparatus that produces a vapor or gas / n. engine that converts mechanical energy into electrical energy by elect…"
+},
+{
+"word": "cafe",
+"pos": "n",
+"zh": "n. 咖啡馆, 酒店",
+"en": "n. a small restaurant where drinks and snacks are sold"
+},
+{
+"word": "adjective",
+"pos": "n/a",
+"zh": "n. 形容词 / a. 形容词的, 从属的",
+"en": "n. a word that expresses an attribute of something / n. the word class that qualifies nouns / a. relating to court pract…"
+},
+{
+"word": "underscore",
+"pos": "vt/n",
+"zh": "vt. 划线于...下 / n. (表强调的)下划线 / [计] 底线",
+"en": "n. a line drawn underneath (especially under written matter) / v. give extra weight to (a communication)"
+},
+{
+"word": "prop",
+"pos": "n/vt",
+"zh": "n. 支柱, 支持者, 倚靠人, 道具, 螺旋桨 / vt. 支撑, 维持",
+"en": "n. a support placed beneath or against something to keep it from shaking or falling"
+},
+{
+"word": "microwave",
+"pos": "n",
+"zh": "n. 微波 / [计] 微波",
+"en": "n. a short electromagnetic wave (longer than infrared but shorter than radio waves); used for radar and microwave ovens …"
+},
+{
+"word": "bourgeois",
+"pos": "n/a",
+"zh": "n. 中产阶级分子, 商人, 资产阶级 / a. 中产阶级的, 平庸的 / n. 九点活字",
+"en": "n. a member of the middle class / s. (according to Marxist thought) being of the property-owning class and exploitive of…"
+},
+{
+"word": "corrupt",
+"pos": "a/vt/vi",
+"zh": "a. 腐败的, 贪污的, 讹误充斥的 / vt. 使腐烂, 腐蚀, 使恶化 / vi. 腐烂, 堕落",
+"en": "v. corrupt morally or by intemperance or sensuality / v. alter from the original / a. lacking in integrity / s. containi…"
+},
+{
+"word": "hemisphere",
+"pos": "n",
+"zh": "n. 半球, 地球的半面, 大脑半球 / [医] 半球",
+"en": "n. half of the terrestrial globe / n. half of a sphere / n. either half of the cerebrum"
+},
+{
+"word": "nucleus",
+"pos": "n",
+"zh": "n. 核心, 核子, 原子核, 起点 / [计] 核心程序",
+"en": "n. a part of the cell containing DNA and RNA and responsible for growth and reproduction / n. the positively charged den…"
+},
+{
+"word": "wan",
+"pos": "a/v",
+"zh": "a. 苍白的, 无血色的, 病态的, 暗淡的 / v. (使)变苍白 / [计] 广域网",
+"en": "v. become pale and sickly / s. lacking vitality as from weariness or illness or unhappiness"
+},
+{
+"word": "thrill",
+"pos": "n/vi/vt",
+"zh": "n. 震颤, 激动, 刺激性, 一阵激动 / vi. 震颤, 颤抖, 激动 / vt. 使激动, 使颤动",
+"en": "n. something that causes you to experience a sudden intense feeling or sensation / v. cause to be thrilled by some perce…"
+},
+{
+"word": "heroin",
+"pos": "n",
+"zh": "n. 海洛因, 吗啡 / [化] 海洛因; 二醋吗啡; 二乙酰吗啡",
+"en": "n. a narcotic that is considered a hard drug; a highly addictive morphine derivative; intravenous injection provides the…"
+},
+{
+"word": "reproductive",
+"pos": "a",
+"zh": "a. 生殖的, 再生的, 复制的 / [医] 生殖的, 复现的",
+"en": "s producing new life or offspring"
+},
+{
+"word": "laptop",
+"pos": "",
+"zh": "[计] 膝上型的",
+"en": "n. a portable computer small enough to use in your lap"
+},
+{
+"word": "kite",
+"pos": "n/vi/vt",
+"zh": "n. 风筝, 筝帆, 空头支票, 骗子 / vi. 象风筝一样飞, 轻快地移动, 使用空头支票 / vt. 使上升, 骗钱",
+"en": "n. a bank check that has been fraudulently altered to increase its face value / n. a bank check drawn on insufficient fu…"
+},
+{
+"word": "vocational",
+"pos": "a",
+"zh": "a. 职业的 / [法] 职业上的, 天职的",
+"en": "a. of or relating to a vocation or occupation; especially providing or undergoing training in special skills"
+},
+{
+"word": "cone",
+"pos": "n/vt",
+"zh": "n. 圆锥体, 球果 / vt. 使成锥形",
+"en": "n. any cone-shaped artifact / n. a shape whose base is a circle and whose sides taper up to a point / n. cone-shaped mas…"
+},
+{
+"word": "stroll",
+"pos": "n/v",
+"zh": "n. 闲逛, 漫步 / v. 闲逛, 漫步",
+"en": "v. walk leisurely and with no apparent aim"
+}
+]

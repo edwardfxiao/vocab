@@ -1,0 +1,1887 @@
+{
+ "shock": {
+  "gloss": "震惊，冲击；休克；电击；(一头)蓬乱的头发",
+  "trap": "医学上指‘休克’(in shock)，不只是‘震惊’",
+  "root": null,
+  "confusable": [
+   "shack",
+   "stock"
+  ],
+  "synonyms": [
+   "jolt",
+   "impact",
+   "stun",
+   "startle"
+  ],
+  "antonyms": []
+ },
+ "wheel": {
+  "gloss": "轮子，车轮；方向盘；v.推(有轮之物)；转身",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "whale",
+   "while"
+  ],
+  "synonyms": [
+   "disc",
+   "circle"
+  ],
+  "antonyms": []
+ },
+ "decline": {
+  "gloss": "下降，衰退；婉拒",
+  "trap": "作动词还有‘婉言谢绝’之意，不只是‘下降’",
+  "root": {
+   "key": "clin",
+   "meaning": "倾斜",
+   "match": "clin"
+  },
+  "confusable": [],
+  "synonyms": [
+   "decrease",
+   "refuse",
+   "deteriorate",
+   "drop"
+  ],
+  "antonyms": [
+   "increase",
+   "accept",
+   "rise"
+  ]
+ },
+ "invest": {
+  "gloss": "投资；投入(时间、精力)；授予(权力)",
+  "trap": "词源：拉丁 vestire 穿衣，原义‘给…披上(权力的)外衣’",
+  "root": {
+   "key": "vest",
+   "meaning": "穿衣",
+   "match": "vest"
+  },
+  "confusable": [
+   "infest",
+   "invent"
+  ],
+  "synonyms": [
+   "fund",
+   "finance",
+   "devote"
+  ],
+  "antonyms": [
+   "divest",
+   "withdraw"
+  ]
+ },
+ "passenger": {
+  "gloss": "乘客，旅客",
+  "trap": "",
+  "root": {
+   "key": "pass",
+   "meaning": "通过",
+   "match": "pass"
+  },
+  "confusable": [
+   "messenger"
+  ],
+  "synonyms": [
+   "traveller",
+   "rider",
+   "commuter"
+  ],
+  "antonyms": [
+   "driver"
+  ]
+ },
+ "odd": {
+  "gloss": "奇怪的；奇数的；零星的，偶尔的；(odds)可能性，赔率",
+  "trap": "odd number 是‘奇数’不是‘怪数’；odds 是‘可能性、赔率’",
+  "root": null,
+  "confusable": [
+   "add",
+   "old"
+  ],
+  "synonyms": [
+   "strange",
+   "peculiar",
+   "unusual",
+   "weird"
+  ],
+  "antonyms": [
+   "even",
+   "normal"
+  ]
+ },
+ "cable": {
+  "gloss": "电缆，缆绳；有线电视；(旧)海底电报",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "cabin",
+   "capable"
+  ],
+  "synonyms": [
+   "wire",
+   "cord",
+   "rope"
+  ],
+  "antonyms": []
+ },
+ "grass": {
+  "gloss": "草，草地；(俚)大麻；(英俚)告密者",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "glass",
+   "gross",
+   "grasp"
+  ],
+  "synonyms": [
+   "lawn",
+   "turf",
+   "pasture"
+  ],
+  "antonyms": []
+ },
+ "via": {
+  "gloss": "经由，途经；通过，借助(某种方式)",
+  "trap": "词源：拉丁 via 道路，viaduct(高架桥) 同源",
+  "root": {
+   "key": "via",
+   "meaning": "路",
+   "match": "via"
+  },
+  "confusable": [
+   "vial",
+   "visa"
+  ],
+  "synonyms": [
+   "through"
+  ],
+  "antonyms": []
+ },
+ "expose": {
+  "gloss": "揭露，揭发；使暴露(于危险)；使接触；曝光",
+  "trap": "be exposed to 是‘接触到、受到…影响’，不一定是坏事",
+  "root": {
+   "key": "pos",
+   "meaning": "放置",
+   "match": "pos"
+  },
+  "confusable": [
+   "expound",
+   "espouse"
+  ],
+  "synonyms": [
+   "reveal",
+   "uncover",
+   "disclose",
+   "subject"
+  ],
+  "antonyms": [
+   "conceal",
+   "cover",
+   "protect"
+  ]
+ },
+ "column": {
+  "gloss": "专栏；列，栏；圆柱；纵队",
+  "trap": "报刊‘专栏’(columnist 专栏作家)是阅读常见义",
+  "root": null,
+  "confusable": [
+   "colon",
+   "colony"
+  ],
+  "synonyms": [
+   "pillar",
+   "post",
+   "file"
+  ],
+  "antonyms": [
+   "row"
+  ]
+ },
+ "charity": {
+  "gloss": "慈善机构；慈善，善款；仁爱",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "chastity",
+   "clarity"
+  ],
+  "synonyms": [
+   "philanthropy",
+   "generosity",
+   "benevolence",
+   "aid"
+  ],
+  "antonyms": [
+   "selfishness"
+  ]
+ },
+ "cream": {
+  "gloss": "奶油；乳霜，面霜；精华，最优秀者；奶油色",
+  "trap": "the cream of… 指‘精华、最优秀的部分’",
+  "root": null,
+  "confusable": [
+   "cram",
+   "creak"
+  ],
+  "synonyms": [
+   "lotion",
+   "elite"
+  ],
+  "antonyms": []
+ },
+ "territory": {
+  "gloss": "领土，领地；(动物的)地盘；(知识、活动)领域",
+  "trap": "",
+  "root": {
+   "key": "terr",
+   "meaning": "土地",
+   "match": "terr"
+  },
+  "confusable": [
+   "terror"
+  ],
+  "synonyms": [
+   "region",
+   "domain",
+   "area",
+   "turf"
+  ],
+  "antonyms": []
+ },
+ "independence": {
+  "gloss": "独立，自主；独立性",
+  "trap": "de 向下 + pend 悬挂 → depend 依赖；in 否定 → 独立",
+  "root": {
+   "key": "pend",
+   "meaning": "悬挂/称重",
+   "match": "pend"
+  },
+  "confusable": [],
+  "synonyms": [
+   "autonomy",
+   "self-reliance",
+   "freedom",
+   "sovereignty"
+  ],
+  "antonyms": [
+   "dependence",
+   "reliance"
+  ]
+ },
+ "solid": {
+  "gloss": "固体(的)；坚固的，结实的；可靠的，扎实的；连续的",
+  "trap": "a solid hour 整整一小时；solid evidence 确凿证据",
+  "root": null,
+  "confusable": [
+   "solemn",
+   "stolid"
+  ],
+  "synonyms": [
+   "firm",
+   "sturdy",
+   "reliable",
+   "substantial"
+  ],
+  "antonyms": [
+   "liquid",
+   "hollow",
+   "flimsy"
+  ]
+ },
+ "crucial": {
+  "gloss": "至关重要的，决定性的",
+  "trap": "词源：crux 十字/交叉点 → 十字路口式的关键时刻",
+  "root": {
+   "key": "cruc",
+   "meaning": "十字",
+   "match": "cruc"
+  },
+  "confusable": [
+   "cruel",
+   "crux"
+  ],
+  "synonyms": [
+   "critical",
+   "vital",
+   "essential",
+   "decisive",
+   "key"
+  ],
+  "antonyms": [
+   "trivial",
+   "unimportant"
+  ]
+ },
+ "typically": {
+  "gloss": "通常，一般；典型地，具有代表性地",
+  "trap": "",
+  "root": {
+   "key": "typ",
+   "meaning": "类型",
+   "match": "typ"
+  },
+  "confusable": [],
+  "synonyms": [
+   "usually",
+   "generally",
+   "normally",
+   "characteristically"
+  ],
+  "antonyms": [
+   "atypically",
+   "unusually"
+  ]
+ },
+ "inner": {
+  "gloss": "内部的，里面的；内心的；核心的",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "inn"
+  ],
+  "synonyms": [
+   "interior",
+   "internal",
+   "inside",
+   "inward"
+  ],
+  "antonyms": [
+   "outer",
+   "external"
+  ]
+ },
+ "hat": {
+  "gloss": "帽子；(比喻)角色，身份",
+  "trap": "wear many hats 是‘身兼数职’",
+  "root": null,
+  "confusable": [
+   "hate",
+   "hut",
+   "heat"
+  ],
+  "synonyms": [
+   "cap",
+   "headgear"
+  ],
+  "antonyms": []
+ },
+ "manufacturer": {
+  "gloss": "制造商，生产厂家",
+  "trap": "词源：manu 手 + fac 做，原义‘手工制作’",
+  "root": {
+   "key": "fac",
+   "meaning": "做",
+   "match": "fac"
+  },
+  "confusable": [],
+  "synonyms": [
+   "producer",
+   "maker",
+   "factory",
+   "firm"
+  ],
+  "antonyms": [
+   "consumer",
+   "retailer"
+  ]
+ },
+ "breakfast": {
+  "gloss": "早餐；吃早餐",
+  "trap": "词源：break 打破 + fast 禁食，‘打破一夜的禁食’",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "brunch",
+   "meal"
+  ],
+  "antonyms": [
+   "dinner"
+  ]
+ },
+ "celebrate": {
+  "gloss": "庆祝；赞美，颂扬",
+  "trap": "celebrated 作形容词是‘著名的’",
+  "root": null,
+  "confusable": [
+   "celibate",
+   "cerebral"
+  ],
+  "synonyms": [
+   "commemorate",
+   "honour",
+   "praise",
+   "observe"
+  ],
+  "antonyms": [
+   "mourn"
+  ]
+ },
+ "permit": {
+  "gloss": "n.许可证；v.允许，准许；使有可能",
+  "trap": "名词重音在前(PERmit)，动词在后(perMIT)",
+  "root": {
+   "key": "mit",
+   "meaning": "送",
+   "match": "mit"
+  },
+  "confusable": [
+   "permeate"
+  ],
+  "synonyms": [
+   "allow",
+   "authorize",
+   "license",
+   "let"
+  ],
+  "antonyms": [
+   "forbid",
+   "prohibit",
+   "ban"
+  ]
+ },
+ "similarly": {
+  "gloss": "同样地，类似地；(句首)同样，与此类似",
+  "trap": "",
+  "root": {
+   "key": "simil",
+   "meaning": "相似",
+   "match": "simil"
+  },
+  "confusable": [],
+  "synonyms": [
+   "likewise",
+   "equally",
+   "correspondingly"
+  ],
+  "antonyms": [
+   "differently",
+   "conversely"
+  ]
+ },
+ "corporation": {
+  "gloss": "(大)公司，企业；法人团体；(英)市政当局",
+  "trap": "词源：corp 身体 → 合为‘一体’的法人",
+  "root": {
+   "key": "corp",
+   "meaning": "身体",
+   "match": "corp"
+  },
+  "confusable": [
+   "cooperation"
+  ],
+  "synonyms": [
+   "company",
+   "firm",
+   "enterprise",
+   "business"
+  ],
+  "antonyms": []
+ },
+ "tenant": {
+  "gloss": "房客，租户；承租人",
+  "trap": "与 tenet(信条) 形近；ten 持有 → 持有租约的人",
+  "root": {
+   "key": "ten",
+   "meaning": "持有",
+   "match": "ten"
+  },
+  "confusable": [
+   "tenet",
+   "tenor"
+  ],
+  "synonyms": [
+   "renter",
+   "occupant",
+   "lessee",
+   "lodger"
+  ],
+  "antonyms": [
+   "landlord",
+   "owner"
+  ]
+ },
+ "inflation": {
+  "gloss": "通货膨胀；膨胀，充气",
+  "trap": "词源：flat 吹 → 吹气胀大 → 物价膨胀",
+  "root": {
+   "key": "flat",
+   "meaning": "吹",
+   "match": "flat"
+  },
+  "confusable": [
+   "infatuation"
+  ],
+  "synonyms": [
+   "rise",
+   "expansion"
+  ],
+  "antonyms": [
+   "deflation"
+  ]
+ },
+ "talent": {
+  "gloss": "天赋，才能；人才，天才",
+  "trap": "原为古代货币单位，经《圣经》‘按才受托’寓言转为‘才能’",
+  "root": null,
+  "confusable": [
+   "talon",
+   "tale"
+  ],
+  "synonyms": [
+   "gift",
+   "aptitude",
+   "flair",
+   "ability"
+  ],
+  "antonyms": [
+   "inability"
+  ]
+ },
+ "fundamental": {
+  "gloss": "基本的，根本的；(fundamentals)基本原理，基础",
+  "trap": "",
+  "root": {
+   "key": "fund",
+   "meaning": "底部/基础",
+   "match": "fund"
+  },
+  "confusable": [],
+  "synonyms": [
+   "basic",
+   "essential",
+   "underlying",
+   "core"
+  ],
+  "antonyms": [
+   "secondary",
+   "superficial"
+  ]
+ },
+ "taste": {
+  "gloss": "味道；品味，审美；尝，尝起来；体验；爱好",
+  "trap": "in good/bad taste 得体/不得体；a taste of 体验",
+  "root": null,
+  "confusable": [
+   "test",
+   "toast",
+   "waste"
+  ],
+  "synonyms": [
+   "flavour",
+   "savour",
+   "preference",
+   "sample"
+  ],
+  "antonyms": []
+ },
+ "virtually": {
+  "gloss": "几乎，差不多；虚拟地(通过网络)",
+  "trap": "常用义是‘几乎’(virtually all)，不是‘道德上’；也指‘线上地’",
+  "root": null,
+  "confusable": [
+   "virtuously",
+   "vitally"
+  ],
+  "synonyms": [
+   "almost",
+   "nearly",
+   "practically",
+   "essentially"
+  ],
+  "antonyms": [
+   "physically"
+  ]
+ },
+ "cast": {
+  "gloss": "投射(光、影、目光)；演员阵容；选派角色；投票；铸造；石膏",
+  "trap": "cast a vote 投票，cast doubt 引起怀疑；过去式同形",
+  "root": null,
+  "confusable": [
+   "caste",
+   "cost",
+   "case"
+  ],
+  "synonyms": [
+   "throw",
+   "fling",
+   "mould",
+   "actors"
+  ],
+  "antonyms": []
+ },
+ "sharp": {
+  "gloss": "锋利的；急剧的；敏锐的；清晰的；尖刻的；(时间)整",
+  "trap": "at six sharp 是‘六点整’；音乐里指升号(♯)",
+  "root": null,
+  "confusable": [
+   "shape",
+   "shark",
+   "harp"
+  ],
+  "synonyms": [
+   "keen",
+   "acute",
+   "sudden",
+   "pointed"
+  ],
+  "antonyms": [
+   "blunt",
+   "dull",
+   "gradual"
+  ]
+ },
+ "perfectly": {
+  "gloss": "完全地，十分；完美地",
+  "trap": "perfectly good 是‘完全没问题’，常作加强语气",
+  "root": {
+   "key": "fac",
+   "meaning": "做",
+   "match": "fec"
+  },
+  "confusable": [],
+  "synonyms": [
+   "completely",
+   "entirely",
+   "flawlessly",
+   "ideally"
+  ],
+  "antonyms": [
+   "imperfectly",
+   "badly"
+  ]
+ },
+ "unusual": {
+  "gloss": "不寻常的，罕见的；独特的",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "rare",
+   "uncommon",
+   "extraordinary",
+   "peculiar"
+  ],
+  "antonyms": [
+   "usual",
+   "common",
+   "ordinary"
+  ]
+ },
+ "convince": {
+  "gloss": "使确信，使信服；说服(某人做某事)",
+  "trap": "vinc 征服 → 彻底‘征服’对方的疑虑；conviction 也指‘定罪’",
+  "root": {
+   "key": "vinc",
+   "meaning": "征服",
+   "match": "vinc"
+  },
+  "confusable": [
+   "convict",
+   "convene"
+  ],
+  "synonyms": [
+   "persuade",
+   "assure",
+   "satisfy"
+  ],
+  "antonyms": [
+   "dissuade",
+   "discourage"
+  ]
+ },
+ "quote": {
+  "gloss": "引用，引述；报价；引文；引号",
+  "trap": "quote 报价(quotation 报价单)是商务常用义",
+  "root": null,
+  "confusable": [
+   "quota",
+   "quiet",
+   "quit"
+  ],
+  "synonyms": [
+   "cite",
+   "excerpt",
+   "reference",
+   "estimate"
+  ],
+  "antonyms": []
+ },
+ "dominate": {
+  "gloss": "支配，控制；占主导地位；俯视，高耸于",
+  "trap": "",
+  "root": {
+   "key": "domin",
+   "meaning": "主人/支配",
+   "match": "domin"
+  },
+  "confusable": [
+   "nominate"
+  ],
+  "synonyms": [
+   "control",
+   "rule",
+   "prevail",
+   "govern",
+   "overshadow"
+  ],
+  "antonyms": [
+   "submit",
+   "yield"
+  ]
+ },
+ "physician": {
+  "gloss": "(内科)医生",
+  "trap": "是‘内科医生’，不是‘物理学家’(physicist)",
+  "root": {
+   "key": "phys",
+   "meaning": "自然/身体",
+   "match": "phys"
+  },
+  "confusable": [
+   "physicist",
+   "physique"
+  ],
+  "synonyms": [
+   "doctor",
+   "practitioner",
+   "medic"
+  ],
+  "antonyms": [
+   "patient"
+  ]
+ },
+ "exception": {
+  "gloss": "例外；反对，异议(take exception to)",
+  "trap": "take exception to 是‘反对、不满’，不是‘例外’",
+  "root": {
+   "key": "cap",
+   "meaning": "拿/头",
+   "match": "cep"
+  },
+  "confusable": [
+   "acceptance",
+   "exemption"
+  ],
+  "synonyms": [
+   "anomaly",
+   "exclusion",
+   "deviation"
+  ],
+  "antonyms": [
+   "rule",
+   "norm"
+  ]
+ },
+ "accommodation": {
+  "gloss": "住处，住宿；(需求的)照顾、通融；和解，妥协",
+  "trap": "两个 c 两个 m；主要指‘住宿’，不是‘调节’",
+  "root": {
+   "key": "mod",
+   "meaning": "方式/尺度",
+   "match": "mod"
+  },
+  "confusable": [],
+  "synonyms": [
+   "lodging",
+   "housing",
+   "adjustment",
+   "compromise"
+  ],
+  "antonyms": []
+ },
+ "addition": {
+  "gloss": "增加，添加；增加的人或物；加法",
+  "trap": "in addition (to) 表示‘此外、除…之外还’",
+  "root": null,
+  "confusable": [
+   "edition",
+   "audition"
+  ],
+  "synonyms": [
+   "supplement",
+   "extra",
+   "increase"
+  ],
+  "antonyms": [
+   "subtraction",
+   "removal"
+  ]
+ },
+ "boundary": {
+  "gloss": "边界，分界线；界限，范围",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "bounty"
+  ],
+  "synonyms": [
+   "border",
+   "limit",
+   "frontier",
+   "edge"
+  ],
+  "antonyms": []
+ },
+ "creative": {
+  "gloss": "有创造力的，创新的；创作的(工作)",
+  "trap": "",
+  "root": {
+   "key": "cre",
+   "meaning": "生长/创造",
+   "match": "cre"
+  },
+  "confusable": [],
+  "synonyms": [
+   "imaginative",
+   "inventive",
+   "original",
+   "innovative"
+  ],
+  "antonyms": [
+   "unimaginative",
+   "conventional"
+  ]
+ },
+ "licence": {
+  "gloss": "执照，许可证；许可；(创作上的)自由发挥；放纵",
+  "trap": "英式：licence 名词，license 动词；美式两者都用 license",
+  "root": null,
+  "confusable": [
+   "silence"
+  ],
+  "synonyms": [
+   "permit",
+   "certificate",
+   "permission",
+   "freedom"
+  ],
+  "antonyms": [
+   "ban",
+   "prohibition"
+  ]
+ },
+ "buyer": {
+  "gloss": "买方，买家；(商店的)采购员",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "purchaser",
+   "customer",
+   "consumer",
+   "shopper"
+  ],
+  "antonyms": [
+   "seller",
+   "vendor"
+  ]
+ },
+ "gay": {
+  "gloss": "同性恋的(尤指男性)；(旧)快乐的，鲜艳的",
+  "trap": "现代主要义是‘同性恋的’，‘快乐的’是旧义，慎用",
+  "root": null,
+  "confusable": [
+   "guy",
+   "gaze"
+  ],
+  "synonyms": [
+   "homosexual",
+   "cheerful",
+   "merry"
+  ],
+  "antonyms": [
+   "straight",
+   "heterosexual"
+  ]
+ },
+ "abandon": {
+  "gloss": "抛弃，遗弃；放弃，中止；放纵(with abandon)",
+  "trap": "with abandon 是‘尽情地、放纵地’",
+  "root": null,
+  "confusable": [
+   "abundant"
+  ],
+  "synonyms": [
+   "desert",
+   "forsake",
+   "discard",
+   "relinquish"
+  ],
+  "antonyms": [
+   "keep",
+   "retain",
+   "continue"
+  ]
+ },
+ "honor": {
+  "gloss": "荣誉；尊敬；信守(承诺)，兑现；(法庭)法官大人",
+  "trap": "honor a promise/cheque 是‘履行承诺/承兑支票’",
+  "root": null,
+  "confusable": [
+   "horror",
+   "humor"
+  ],
+  "synonyms": [
+   "respect",
+   "esteem",
+   "glory",
+   "prestige"
+  ],
+  "antonyms": [
+   "dishonor",
+   "shame",
+   "disgrace"
+  ]
+ },
+ "construct": {
+  "gloss": "建造，构筑；构成，构思；(理论上的)概念，构想",
+  "trap": "名词 construct 指‘(人为的)概念、构想’，社科文常见",
+  "root": {
+   "key": "struct",
+   "meaning": "建造",
+   "match": "struct"
+  },
+  "confusable": [],
+  "synonyms": [
+   "build",
+   "erect",
+   "assemble",
+   "form"
+  ],
+  "antonyms": [
+   "demolish",
+   "destroy"
+  ]
+ },
+ "campus": {
+  "gloss": "校园；(公司等的)园区",
+  "trap": "词源：拉丁 campus 田野，camp(营地) 同源",
+  "root": {
+   "key": "camp",
+   "meaning": "田野",
+   "match": "camp"
+  },
+  "confusable": [
+   "compass"
+  ],
+  "synonyms": [
+   "grounds",
+   "university",
+   "school"
+  ],
+  "antonyms": []
+ },
+ "supporter": {
+  "gloss": "支持者，拥护者；(球队的)球迷",
+  "trap": "",
+  "root": {
+   "key": "port",
+   "meaning": "携带",
+   "match": "port"
+  },
+  "confusable": [],
+  "synonyms": [
+   "advocate",
+   "backer",
+   "fan",
+   "follower"
+  ],
+  "antonyms": [
+   "opponent",
+   "critic"
+  ]
+ },
+ "guilty": {
+  "gloss": "有罪的；内疚的，愧疚的",
+  "trap": "feel guilty 是‘感到内疚’，不一定真有罪；反义 innocent",
+  "root": null,
+  "confusable": [
+   "gullible"
+  ],
+  "synonyms": [
+   "culpable",
+   "ashamed",
+   "remorseful",
+   "responsible"
+  ],
+  "antonyms": [
+   "innocent",
+   "guiltless"
+  ]
+ },
+ "formation": {
+  "gloss": "形成，构成；队形，编队；(岩石)层",
+  "trap": "",
+  "root": {
+   "key": "form",
+   "meaning": "形状",
+   "match": "form"
+  },
+  "confusable": [],
+  "synonyms": [
+   "establishment",
+   "creation",
+   "arrangement",
+   "structure"
+  ],
+  "antonyms": [
+   "dissolution"
+  ]
+ },
+ "compete": {
+  "gloss": "竞争，角逐；参加比赛",
+  "trap": "词源：com 一起 + pet 追求 → 一起追求同一目标",
+  "root": {
+   "key": "pet",
+   "meaning": "寻求/追求",
+   "match": "pet"
+  },
+  "confusable": [
+   "complete",
+   "compute"
+  ],
+  "synonyms": [
+   "contend",
+   "vie",
+   "rival",
+   "contest"
+  ],
+  "antonyms": [
+   "cooperate",
+   "collaborate"
+  ]
+ },
+ "transaction": {
+  "gloss": "交易，业务；(计算机)事务；(Transactions)学报",
+  "trap": "",
+  "root": {
+   "key": "act",
+   "meaning": "做",
+   "match": "act"
+  },
+  "confusable": [
+   "transition",
+   "transcription"
+  ],
+  "synonyms": [
+   "deal",
+   "trade",
+   "exchange",
+   "business"
+  ],
+  "antonyms": []
+ },
+ "dispute": {
+  "gloss": "争论，争端，纠纷；对…提出质疑，反驳",
+  "trap": "dispute a claim 是‘质疑、不承认’，不只是‘争论’",
+  "root": {
+   "key": "put",
+   "meaning": "思考/计算",
+   "match": "put"
+  },
+  "confusable": [
+   "disrepute",
+   "depute"
+  ],
+  "synonyms": [
+   "argument",
+   "controversy",
+   "conflict",
+   "contest",
+   "challenge"
+  ],
+  "antonyms": [
+   "agreement",
+   "accept"
+  ]
+ },
+ "inquiry": {
+  "gloss": "询问，查询；(官方)调查；探究",
+  "trap": "英式‘询问’常拼 enquiry；inquiry 多指‘正式调查’",
+  "root": {
+   "key": "quer",
+   "meaning": "寻求",
+   "match": "quir"
+  },
+  "confusable": [
+   "enquiry"
+  ],
+  "synonyms": [
+   "question",
+   "investigation",
+   "probe",
+   "query"
+  ],
+  "antonyms": [
+   "answer",
+   "reply"
+  ]
+ },
+ "immigrant": {
+  "gloss": "(外来)移民；移入的",
+  "trap": "immigrant 移入者，emigrant 移出者；im- 进入，e- 出去",
+  "root": {
+   "key": "migr",
+   "meaning": "迁移",
+   "match": "migr"
+  },
+  "confusable": [],
+  "synonyms": [
+   "newcomer",
+   "settler",
+   "alien"
+  ],
+  "antonyms": [
+   "emigrant",
+   "native"
+  ]
+ },
+ "kingdom": {
+  "gloss": "王国；(生物分类)界；领域",
+  "trap": "the animal kingdom 动物界；-dom 表领地或状态",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "realm",
+   "monarchy",
+   "domain",
+   "empire"
+  ],
+  "antonyms": [
+   "republic"
+  ]
+ },
+ "illegal": {
+  "gloss": "非法的，违法的；非法移民",
+  "trap": "",
+  "root": {
+   "key": "leg",
+   "meaning": "法律",
+   "match": "leg"
+  },
+  "confusable": [
+   "illegible",
+   "illogical"
+  ],
+  "synonyms": [
+   "unlawful",
+   "illicit",
+   "criminal",
+   "banned"
+  ],
+  "antonyms": [
+   "legal",
+   "lawful"
+  ]
+ },
+ "database": {
+  "gloss": "数据库",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "archive",
+   "repository",
+   "bank"
+  ],
+  "antonyms": []
+ },
+ "hi": {
+  "gloss": "嗨，你好(打招呼)",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "high",
+   "hey"
+  ],
+  "synonyms": [
+   "hello",
+   "hey",
+   "greetings"
+  ],
+  "antonyms": [
+   "bye",
+   "goodbye"
+  ]
+ },
+ "interaction": {
+  "gloss": "互动，交流；相互作用",
+  "trap": "",
+  "root": {
+   "key": "act",
+   "meaning": "做",
+   "match": "act"
+  },
+  "confusable": [
+   "interception"
+  ],
+  "synonyms": [
+   "communication",
+   "exchange",
+   "interplay",
+   "contact"
+  ],
+  "antonyms": [
+   "isolation"
+  ]
+ },
+ "fault": {
+  "gloss": "过错，责任；缺点，毛病；故障；(地质)断层；挑剔",
+  "trap": "find fault with 挑剔；at fault 有责任；地质学指‘断层’",
+  "root": null,
+  "confusable": [
+   "vault",
+   "false"
+  ],
+  "synonyms": [
+   "flaw",
+   "defect",
+   "error",
+   "blame",
+   "mistake"
+  ],
+  "antonyms": [
+   "merit",
+   "strength",
+   "virtue"
+  ]
+ },
+ "personality": {
+  "gloss": "性格，个性；名人；人格魅力",
+  "trap": "a TV personality 是‘电视名人’",
+  "root": {
+   "key": "person",
+   "meaning": "人",
+   "match": "person"
+  },
+  "confusable": [
+   "personnel"
+  ],
+  "synonyms": [
+   "character",
+   "temperament",
+   "disposition",
+   "celebrity"
+  ],
+  "antonyms": []
+ },
+ "badly": {
+  "gloss": "严重地，厉害地；糟糕地；非常，急切地(badly need)",
+  "trap": "badly need/want 是‘非常需要’，不是‘糟糕地’",
+  "root": null,
+  "confusable": [
+   "baldly"
+  ],
+  "synonyms": [
+   "poorly",
+   "severely",
+   "seriously",
+   "desperately"
+  ],
+  "antonyms": [
+   "well",
+   "slightly"
+  ]
+ },
+ "assistance": {
+  "gloss": "帮助，援助，协助",
+  "trap": "",
+  "root": {
+   "key": "sta",
+   "meaning": "站立",
+   "match": "sist"
+  },
+  "confusable": [],
+  "synonyms": [
+   "help",
+   "aid",
+   "support",
+   "backing"
+  ],
+  "antonyms": [
+   "hindrance",
+   "obstruction"
+  ]
+ },
+ "phrase": {
+  "gloss": "短语，词组；措辞，说法；v.措辞，表达；乐句",
+  "trap": "动词指‘措辞、表达’：how to phrase it 怎么说",
+  "root": null,
+  "confusable": [
+   "phase",
+   "praise"
+  ],
+  "synonyms": [
+   "expression",
+   "wording",
+   "idiom",
+   "term"
+  ],
+  "antonyms": []
+ },
+ "forever": {
+  "gloss": "永远；(口)很久，老是",
+  "trap": "口语 take forever 是‘花了很久’",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "eternally",
+   "permanently",
+   "always",
+   "perpetually"
+  ],
+  "antonyms": [
+   "temporarily",
+   "never"
+  ]
+ },
+ "quantity": {
+  "gloss": "数量；大量(quantities of)；量(与质相对)",
+  "trap": "quantity 数量 vs quality 质量；in quantity 大批",
+  "root": {
+   "key": "quant",
+   "meaning": "多少",
+   "match": "quant"
+  },
+  "confusable": [
+   "quality"
+  ],
+  "synonyms": [
+   "amount",
+   "number",
+   "volume",
+   "sum"
+  ],
+  "antonyms": [
+   "quality"
+  ]
+ },
+ "unknown": {
+  "gloss": "未知的，不出名的；未知数，未知事物；无名者",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "unfamiliar",
+   "anonymous",
+   "obscure",
+   "mysterious"
+  ],
+  "antonyms": [
+   "known",
+   "famous",
+   "familiar"
+  ]
+ },
+ "naturally": {
+  "gloss": "自然地，当然；天生地；不做作地",
+  "trap": "句首 Naturally, … 表示‘当然、不出所料’",
+  "root": {
+   "key": "nat",
+   "meaning": "出生",
+   "match": "nat"
+  },
+  "confusable": [],
+  "synonyms": [
+   "obviously",
+   "inherently",
+   "instinctively",
+   "spontaneously"
+  ],
+  "antonyms": [
+   "artificially",
+   "unnaturally"
+  ]
+ },
+ "lab": {
+  "gloss": "实验室(=laboratory)；(Lab)拉布拉多犬",
+  "trap": "",
+  "root": {
+   "key": "labor",
+   "meaning": "劳动",
+   "match": "lab"
+  },
+  "confusable": [
+   "lap",
+   "lag"
+  ],
+  "synonyms": [
+   "laboratory",
+   "workshop"
+  ],
+  "antonyms": []
+ },
+ "proceed": {
+  "gloss": "继续(做)，接着做；进行，前往；(proceeds)收益",
+  "trap": "proceeds(复数名词)是‘收益’；与 precede(先于) 形近",
+  "root": {
+   "key": "ced",
+   "meaning": "走",
+   "match": "ceed"
+  },
+  "confusable": [
+   "precede"
+  ],
+  "synonyms": [
+   "continue",
+   "advance",
+   "progress",
+   "commence"
+  ],
+  "antonyms": [
+   "stop",
+   "halt",
+   "retreat"
+  ]
+ },
+ "wrap": {
+  "gloss": "包，裹；缠绕；卷饼；披肩；(拍摄)完工；换行",
+  "trap": "wrap up 是‘结束、完成’；it's a wrap 拍摄完毕",
+  "root": null,
+  "confusable": [
+   "rap",
+   "warp",
+   "trap"
+  ],
+  "synonyms": [
+   "envelop",
+   "cover",
+   "enclose",
+   "bundle"
+  ],
+  "antonyms": [
+   "unwrap",
+   "unfold"
+  ]
+ },
+ "preparation": {
+  "gloss": "准备，预备；准备工作(preparations)；制剂",
+  "trap": "",
+  "root": {
+   "key": "par",
+   "meaning": "准备",
+   "match": "par"
+  },
+  "confusable": [
+   "reparation",
+   "perpetration"
+  ],
+  "synonyms": [
+   "readiness",
+   "arrangement",
+   "groundwork",
+   "planning"
+  ],
+  "antonyms": []
+ },
+ "tension": {
+  "gloss": "紧张(关系、气氛)；焦虑；张力，拉力；对立",
+  "trap": "词源：tens 拉伸 → 拉紧 → 紧张",
+  "root": {
+   "key": "tens",
+   "meaning": "拉伸",
+   "match": "tens"
+  },
+  "confusable": [
+   "attention"
+  ],
+  "synonyms": [
+   "strain",
+   "stress",
+   "pressure",
+   "friction",
+   "anxiety"
+  ],
+  "antonyms": [
+   "relaxation",
+   "calm",
+   "ease"
+  ]
+ },
+ "interpret": {
+  "gloss": "理解，解读；解释，阐释；口译；演绎(角色、乐曲)",
+  "trap": "interpreter 是‘口译员’，translator 是‘笔译员’",
+  "root": null,
+  "confusable": [
+   "interrupt",
+   "interpose"
+  ],
+  "synonyms": [
+   "explain",
+   "construe",
+   "decode",
+   "translate",
+   "render"
+  ],
+  "antonyms": [
+   "misinterpret"
+  ]
+ },
+ "depression": {
+  "gloss": "抑郁(症)，沮丧；经济萧条；洼地，凹陷；低气压",
+  "trap": "the Great Depression 大萧条；press 压 → 低落/凹陷",
+  "root": {
+   "key": "press",
+   "meaning": "压",
+   "match": "press"
+  },
+  "confusable": [
+   "deprivation"
+  ],
+  "synonyms": [
+   "gloom",
+   "despair",
+   "recession",
+   "slump",
+   "hollow"
+  ],
+  "antonyms": [
+   "happiness",
+   "boom",
+   "elation"
+  ]
+ },
+ "incorporate": {
+  "gloss": "包含，纳入；将…合并；组成公司",
+  "trap": "corp 身体 → 并入‘体内’；Inc. 即 incorporated",
+  "root": {
+   "key": "corp",
+   "meaning": "身体",
+   "match": "corp"
+  },
+  "confusable": [],
+  "synonyms": [
+   "include",
+   "integrate",
+   "embody",
+   "merge",
+   "absorb"
+  ],
+  "antonyms": [
+   "exclude",
+   "separate"
+  ]
+ },
+ "spiritual": {
+  "gloss": "精神的，心灵的；宗教的；(黑人)灵歌",
+  "trap": "spir 呼吸 → spirit 气息、灵魂",
+  "root": {
+   "key": "spir",
+   "meaning": "呼吸",
+   "match": "spir"
+  },
+  "confusable": [],
+  "synonyms": [
+   "religious",
+   "sacred",
+   "inner",
+   "mental"
+  ],
+  "antonyms": [
+   "material",
+   "physical",
+   "secular"
+  ]
+ },
+ "musical": {
+  "gloss": "音乐的；有音乐才能的；悦耳的；音乐剧",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "muscular"
+  ],
+  "synonyms": [
+   "melodic",
+   "tuneful",
+   "harmonious"
+  ],
+  "antonyms": [
+   "unmusical",
+   "discordant"
+  ]
+ },
+ "prayer": {
+  "gloss": "祈祷，祷告；祷文；祈求，愿望",
+  "trap": "指‘祈祷、祷文’，不是‘祈祷者’；读 /preə(r)/",
+  "root": null,
+  "confusable": [
+   "prey",
+   "player"
+  ],
+  "synonyms": [
+   "plea",
+   "supplication",
+   "devotion",
+   "invocation"
+  ],
+  "antonyms": []
+ },
+ "secondary": {
+  "gloss": "次要的，第二位的；中等(教育)的；继发的，衍生的",
+  "trap": "secondary school 中学；secondary source 二手",
+  "root": {
+   "key": "sequ",
+   "meaning": "跟随",
+   "match": "sec"
+  },
+  "confusable": [],
+  "synonyms": [
+   "subordinate",
+   "minor",
+   "lesser",
+   "derivative"
+  ],
+  "antonyms": [
+   "primary",
+   "main",
+   "principal"
+  ]
+ },
+ "journalist": {
+  "gloss": "记者，新闻工作者",
+  "trap": "词源：journ 日(法语 jour) → journal 日报/日志 → 记者",
+  "root": {
+   "key": "journ",
+   "meaning": "日",
+   "match": "journ"
+  },
+  "confusable": [],
+  "synonyms": [
+   "reporter",
+   "correspondent",
+   "columnist",
+   "writer"
+  ],
+  "antonyms": []
+ },
+ "metre": {
+  "gloss": "米，公尺；(诗歌)格律；(音乐)拍子",
+  "trap": "英式拼法，美式 meter 还指‘仪表’；诗歌里指‘格律’",
+  "root": {
+   "key": "metr",
+   "meaning": "测量",
+   "match": "metr"
+  },
+  "confusable": [
+   "meter",
+   "meteor"
+  ],
+  "synonyms": [
+   "rhythm",
+   "measure"
+  ],
+  "antonyms": []
+ },
+ "dismiss": {
+  "gloss": "不予考虑，摒弃；解雇；解散，让…离开；驳回(诉讼)",
+  "trap": "dismiss an idea 是‘对…不屑一顾’，阅读常见，不只是‘解散’",
+  "root": {
+   "key": "mit",
+   "meaning": "送",
+   "match": "miss"
+  },
+  "confusable": [
+   "dismay",
+   "demise"
+  ],
+  "synonyms": [
+   "reject",
+   "discard",
+   "fire",
+   "sack",
+   "disregard"
+  ],
+  "antonyms": [
+   "accept",
+   "consider",
+   "hire",
+   "retain"
+  ]
+ },
+ "suspect": {
+  "gloss": "怀疑，猜想；嫌疑人；可疑的，不可信的",
+  "trap": "suspect 认为(坏事)属实，doubt 认为不属实；名词重音在前",
+  "root": {
+   "key": "spec",
+   "meaning": "看",
+   "match": "spec"
+  },
+  "confusable": [],
+  "synonyms": [
+   "doubt",
+   "distrust",
+   "guess",
+   "suppose",
+   "dubious"
+  ],
+  "antonyms": [
+   "trust",
+   "believe"
+  ]
+ },
+ "scholar": {
+  "gloss": "学者；奖学金获得者；(旧)学生",
+  "trap": "词源：希腊 scholē 闲暇 → 有闲暇才能求学 → school",
+  "root": {
+   "key": "schol",
+   "meaning": "学校/闲暇",
+   "match": "schol"
+  },
+  "confusable": [
+   "scalar"
+  ],
+  "synonyms": [
+   "academic",
+   "intellectual",
+   "researcher",
+   "expert"
+  ],
+  "antonyms": []
+ },
+ "climate": {
+  "gloss": "气候；(社会、政治)风气、氛围，形势",
+  "trap": "economic/political climate 指经济/政治形势，非天气",
+  "root": null,
+  "confusable": [
+   "climax",
+   "climb"
+  ],
+  "synonyms": [
+   "weather",
+   "atmosphere",
+   "environment",
+   "mood"
+  ],
+  "antonyms": []
+ },
+ "cheese": {
+  "gloss": "奶酪，芝士；(say cheese)拍照时说‘茄子’",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "chase",
+   "choose"
+  ],
+  "synonyms": [
+   "dairy"
+  ],
+  "antonyms": []
+ },
+ "childhood": {
+  "gloss": "童年，儿童时期",
+  "trap": "-hood 表‘时期、身份’(adulthood, neighbourhood)",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "youth",
+   "infancy",
+   "boyhood",
+   "girlhood"
+  ],
+  "antonyms": [
+   "adulthood"
+  ]
+ },
+ "cigarette": {
+  "gloss": "香烟，卷烟",
+  "trap": "-ette 表‘小’：cigar 雪茄 → cigarette 小雪茄",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "smoke",
+   "fag",
+   "tobacco"
+  ],
+  "antonyms": []
+ },
+ "moreover": {
+  "gloss": "此外，而且(正式，用于补充论点)",
+  "trap": "书面正式语，句首用逗号隔开；比 besides 正式",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "furthermore",
+   "besides",
+   "additionally",
+   "also"
+  ],
+  "antonyms": []
+ },
+ "bread": {
+  "gloss": "面包；(俚)钱，生计(bread and butter)",
+  "trap": "bread and butter 指‘生计、主要收入来源’；bread 不可数",
+  "root": null,
+  "confusable": [
+   "breed",
+   "bred",
+   "broad"
+  ],
+  "synonyms": [
+   "loaf",
+   "food",
+   "livelihood"
+  ],
+  "antonyms": []
+ },
+ "subsequent": {
+  "gloss": "随后的，后来的；subsequently 随后",
+  "trap": "sub 下 + sequ 跟随 → 跟在后面的；反义 previous",
+  "root": {
+   "key": "sequ",
+   "meaning": "跟随",
+   "match": "sequ"
+  },
+  "confusable": [],
+  "synonyms": [
+   "following",
+   "later",
+   "ensuing",
+   "succeeding"
+  ],
+  "antonyms": [
+   "previous",
+   "prior",
+   "preceding"
+  ]
+ },
+ "currency": {
+  "gloss": "货币；流通，通用，流行(gain currency)",
+  "trap": "gain currency 是‘流行开来、被广泛接受’；cur 跑 → 流通",
+  "root": {
+   "key": "cur",
+   "meaning": "关心/跑",
+   "match": "cur"
+  },
+  "confusable": [],
+  "synonyms": [
+   "money",
+   "cash",
+   "coinage",
+   "tender",
+   "prevalence"
+  ],
+  "antonyms": []
+ },
+ "graduate": {
+  "gloss": "毕业(生)；本科毕业的，研究生的；逐步升级，分级；刻度",
+  "trap": "名词读 /ət/，动词读 /eɪt/；英式特指大学毕业生",
+  "root": {
+   "key": "grad",
+   "meaning": "走/步",
+   "match": "grad"
+  },
+  "confusable": [],
+  "synonyms": [
+   "alumnus",
+   "qualify",
+   "complete"
+  ],
+  "antonyms": [
+   "undergraduate",
+   "dropout"
+  ]
+ }
+}

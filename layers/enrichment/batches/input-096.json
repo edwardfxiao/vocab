@@ -1,0 +1,602 @@
+[
+{
+"word": "optimize",
+"pos": "vt/vi",
+"zh": "vt. 使完美, 使完善, 充分利用, 乐观地对待, 优化 / vi. 持乐观态度 / [计] 优化",
+"en": "v. make optimal; get the most out of; use best / v. modify to achieve maximum efficiency in storage capacity or time or …"
+},
+{
+"word": "watchful",
+"pos": "a",
+"zh": "a. 注意的, 警戒的, 警醒的, (时间)醒着换过的",
+"en": "a engaged in or accustomed to close observation / s experiencing or accompanied by sleeplessness"
+},
+{
+"word": "retribution",
+"pos": "n",
+"zh": "n. 报应, 惩罚, 报酬 / [法] 惩罚, 报应, 报答",
+"en": "n. a justly deserved penalty / n. the act of correcting for your wrongdoing"
+},
+{
+"word": "stony",
+"pos": "a",
+"zh": "a. 多石的, 无情的",
+"en": "s abounding in rocks or stones / s showing unfeeling resistance to tender feelings / s hard as granite"
+},
+{
+"word": "bloodshed",
+"pos": "n",
+"zh": "n. 流血",
+"en": "n. the shedding of blood resulting in murder"
+},
+{
+"word": "decry",
+"pos": "vt",
+"zh": "vt. 反对, 责难, 诽谤, 诋毁",
+"en": "v express strong disapproval of"
+},
+{
+"word": "apprehend",
+"pos": "vt/vi",
+"zh": "vt. 理解, 忧虑, 逮捕 / vi. 担心, 理解",
+"en": "v. anticipate with dread or anxiety"
+},
+{
+"word": "hangover",
+"pos": "n",
+"zh": "n. 宿醉, 残留物, 遗物 / [电] 残存物",
+"en": "n. disagreeable aftereffects from the use of drugs (especially alcohol) / n. something that has survived from the past"
+},
+{
+"word": "fennel",
+"pos": "n",
+"zh": "n. 茴香 / [化] 茴香",
+"en": "n. any of several aromatic herbs having edible seeds and leaves and stems / n. aromatic bulbous stem base eaten cooked o…"
+},
+{
+"word": "devious",
+"pos": "a",
+"zh": "a. 偏僻的, 迂回的",
+"en": "s. indirect in departing from the accepted or proper way; misleading / s. characterized by insincerity or deceit; evasiv…"
+},
+{
+"word": "shaman",
+"pos": "n",
+"zh": "n. 萨满教巫医 / [法] 巫师",
+"en": "n. in societies practicing shamanism: one acting as a medium between the visible and spirit worlds; practices sorcery fo…"
+},
+{
+"word": "shawl",
+"pos": "n/vt",
+"zh": "n. 披肩, 围巾 / vt. 用披肩裹",
+"en": "n. cloak consisting of an oblong piece of cloth used to cover the head and shoulders"
+},
+{
+"word": "blitz",
+"pos": "n/vt",
+"zh": "n. 闪电战 / vt. 以闪电战攻击",
+"en": "n. a swift and violent military offensive with intensive aerial bombardment / v. attack suddenly and without warning"
+},
+{
+"word": "tyrant",
+"pos": "n",
+"zh": "n. 暴君 / [法] 专制君主, 暴君, 压制他人者",
+"en": "n. a cruel and oppressive dictator / n. in ancient Greece, a ruler who had seized power without legal right to it / n. a…"
+},
+{
+"word": "peddle",
+"pos": "vi/vt",
+"zh": "vi. 挑卖, 沿街叫卖, 游荡, 闲混 / vt. 叫卖, 兜售, 散播",
+"en": "v. sell or offer for sale from place to place"
+},
+{
+"word": "superimpose",
+"pos": "vt",
+"zh": "vt. 把(一物)放在另一物的上面, 添上, 附加, 加上, 添加 / [计] , 重叠, 叠加",
+"en": "v. place on top of"
+},
+{
+"word": "transcendent",
+"pos": "a/n",
+"zh": "a. 卓越的, 出类拔萃的, 超常的 / n. 卓越的人, 超绝物",
+"en": "s. exceeding or surpassing usual limits especially in excellence / s. beyond and outside the ordinary range of human exp…"
+},
+{
+"word": "tremor",
+"pos": "n",
+"zh": "n. 震动, 颤动 / [医] 震颤",
+"en": "n. an involuntary vibration (as if from illness or fear) / n. a small earthquake / n. shaking or trembling (usually resu…"
+},
+{
+"word": "occupancy",
+"pos": "n",
+"zh": "n. 占有, 居住, 占用 / [法] 占据, 据有, 占用",
+"en": "n. an act of being a tenant or occupant"
+},
+{
+"word": "gazette",
+"pos": "n/vt",
+"zh": "n. 报, 公报, 报纸 / vt. 在公报上宣布, 刊载于公报",
+"en": "n. a newspaper or official journal / v. publish in a gazette"
+},
+{
+"word": "aristocrat",
+"pos": "n",
+"zh": "n. 贵族",
+"en": "n. a member of the aristocracy"
+},
+{
+"word": "knack",
+"pos": "n",
+"zh": "n. 熟练技术, 巧妙手法, 诀窍 / [化] 窍门",
+"en": "n a special way of doing something"
+},
+{
+"word": "languish",
+"pos": "vi",
+"zh": "vi. 憔悴, 凋萎, 苦思",
+"en": "v. become feeble"
+},
+{
+"word": "serpent",
+"pos": "n",
+"zh": "n. 巨蛇座, 蛇, 蛇形管, 狡猾的人",
+"en": "n. a firework that moves in serpentine manner when ignited / n. an obsolete bass cornet; resembles a snake"
+},
+{
+"word": "petite",
+"pos": "a",
+"zh": "a. 小的, 次要的, 小个子的, 娇小玲珑的, 娇小的",
+"en": "n. a garment size for short or slender women"
+},
+{
+"word": "emotive",
+"pos": "a",
+"zh": "a. 使感动的, 动感情的, 感情的 / [医] 情绪的, 动感情的",
+"en": "s characterized by emotion"
+},
+{
+"word": "bask",
+"pos": "vi",
+"zh": "vi. 晒太阳, 感到舒适",
+"en": "v. be exposed"
+},
+{
+"word": "animosity",
+"pos": "n",
+"zh": "n. 仇恨, 憎恶, 敌意",
+"en": "n. a feeling of ill will arousing active hostility"
+},
+{
+"word": "plumber",
+"pos": "n",
+"zh": "n. 水管工人 / [法] 堵漏防漏人员",
+"en": "n. a craftsman who installs and repairs pipes and fixtures and appliances"
+},
+{
+"word": "easel",
+"pos": "n",
+"zh": "n. 画架, 黑板架",
+"en": "n. an upright tripod for displaying something (usually an artist's canvas)"
+},
+{
+"word": "blob",
+"pos": "n/vt",
+"zh": "n. 一滴, 小斑点 / vt. 溅污",
+"en": "n. an indistinct shapeless form"
+},
+{
+"word": "spasm",
+"pos": "n",
+"zh": "n. 痉挛, 抽搐, 发作 / [医] 痉挛",
+"en": "n. a painful and involuntary muscular contraction / n. (pathology) sudden constriction of a hollow organ (as a blood ves…"
+},
+{
+"word": "streamline",
+"pos": "n/vt",
+"zh": "n. 流线, 流线型 / vt. 使成流线型, 使合理化",
+"en": "v. contour economically or efficiently"
+},
+{
+"word": "homely",
+"pos": "a",
+"zh": "a. 家常的, 平凡的, 朴实无华的",
+"en": "s. lacking in physical beauty or proportion / s. plain and unpretentious / s. without artificial refinement or elegance"
+},
+{
+"word": "squander",
+"pos": "vt/vi",
+"zh": "vt. 浪费, 使分散 / vi. 浪费, 漂泊, 四散",
+"en": "v spend thoughtlessly; throw away / v spend extravagantly"
+},
+{
+"word": "medic",
+"pos": "n",
+"zh": "n. 苜蓿属植物, 医师, 医科学生",
+"en": "n. any of several Old World herbs of the genus Medicago having small flowers and trifoliate compound leaves"
+},
+{
+"word": "oblivion",
+"pos": "n",
+"zh": "n. 遗忘, (头脑的)一片空白状, 湮没, 大赦, 赦免 / [法] 忘却, 被忘却的事, 大赦",
+"en": "n. the state of being disregarded or forgotten"
+},
+{
+"word": "tripod",
+"pos": "n",
+"zh": "n. 三脚桌, 三脚架 / [医] 三脚架, 三脚台",
+"en": "n. a three-legged rack used for support"
+},
+{
+"word": "shutdown",
+"pos": "n",
+"zh": "n. 关门, 停工, 停机 / [经] 停工",
+"en": "n termination of operations"
+},
+{
+"word": "northwards",
+"pos": "adv",
+"zh": "adv. 向北方",
+"en": "n the cardinal compass point that is at 0 or 360 degrees / r in a northern direction"
+},
+{
+"word": "junkie",
+"pos": "n",
+"zh": "n. 有毒瘾者, 废旧品商人",
+"en": "n a narcotics addict / n someone who is so ardently devoted to something that it resembles an addiction"
+},
+{
+"word": "hobble",
+"pos": "vi/vt/n",
+"zh": "vi. 蹒跚 / vt. 使跛行, 阻碍 / n. 跛行",
+"en": "v. hamper the action or progress of"
+},
+{
+"word": "prognosis",
+"pos": "n",
+"zh": "n. 预测, 预后 / [医] 预后",
+"en": "n. a prediction about how something (as the weather) will develop / n. a prediction of the course of a disease"
+},
+{
+"word": "bravery",
+"pos": "n",
+"zh": "n. 勇敢",
+"en": "n a quality of spirit that enables you to face danger or pain without showing fear / n feeling no fear"
+},
+{
+"word": "scaffolding",
+"pos": "n",
+"zh": "n. 脚手架, 台架, (搭脚手架用的)支杆和木板, (喻)(论点等的)支柱 / [化] 搭脚手架",
+"en": "n. a system of scaffolds"
+},
+{
+"word": "reminiscence",
+"pos": "n",
+"zh": "n. 回想, 回忆, 怀旧, 话旧",
+"en": "n. a mental impression retained and recalled from the past"
+},
+{
+"word": "riddle",
+"pos": "n/vt/vi",
+"zh": "n. 谜, 谜语, 粗筛 / vt. 解谜, 给...出谜, 筛, 寻根究底地检验, 充满于 / vi. 出谜",
+"en": "n. a difficult problem / n. a coarse sieve (as for gravel) / v. pierce with many holes / v. set a difficult problem or r…"
+},
+{
+"word": "squeal",
+"pos": "n/vi/vt",
+"zh": "n. 尖叫, 抱怨 / vi. 发出尖叫声, 高声埋怨 / vt. 用尖声说",
+"en": "n. a high-pitched howl / v. utter a high-pitched cry, characteristic of pigs"
+},
+{
+"word": "backside",
+"pos": "n",
+"zh": "n. 背部, 背后, 后方",
+"en": "n the side of an object that is opposite its front / n the fleshy part of the human body that you sit on"
+},
+{
+"word": "dribble",
+"pos": "vi/vt/n",
+"zh": "vi. 流口水, 滴下 / vt. 使滴下, 运球 / n. 点滴, 口水, 少量",
+"en": "n. the propulsion of a ball by repeated taps or kicks / v. let or cause to fall in drops / v. propel, \"Carry the ball\""
+},
+{
+"word": "perceptual",
+"pos": "a",
+"zh": "a. 知觉的, 有知觉的",
+"en": "a. of or relating to the act of perceiving"
+},
+{
+"word": "cheekbone",
+"pos": "n",
+"zh": "n. 颧骨",
+"en": "n. the arch of bone beneath the eye that forms the prominence of the cheek"
+},
+{
+"word": "beaver",
+"pos": "n",
+"zh": "n. 海狸(毛皮) / [机] 轻型及中型飞机加油",
+"en": "n. the soft brown fur of the beaver / n. a full beard / n. a movable piece of armor on a medieval helmet used to protect…"
+},
+{
+"word": "rump",
+"pos": "n",
+"zh": "n. 尾部, 臀部 / [医] 臀部, 臀",
+"en": "n. fleshy hindquarters; behind the loin and above the round"
+},
+{
+"word": "headway",
+"pos": "n",
+"zh": "n. 前进, 航行速度, 进展 / [经] 进尺, 钻井",
+"en": "n. forward movement"
+},
+{
+"word": "primal",
+"pos": "a",
+"zh": "a. 主要的, 最初的, 原始的",
+"en": "s serving as an essential component / s having existed from the beginning; in an earliest or original stage or state"
+},
+{
+"word": "amalgamate",
+"pos": "v",
+"zh": "v. 使汞齐化, 合并",
+"en": "s. joined together into a whole"
+},
+{
+"word": "mayonnaise",
+"pos": "n",
+"zh": "n. 蛋黄酱",
+"en": "n. egg yolks and oil and vinegar"
+},
+{
+"word": "polythene",
+"pos": "n",
+"zh": "n. 聚乙烯 / [化] 聚乙烯",
+"en": "n a lightweight thermoplastic; used especially in packaging and insulation"
+},
+{
+"word": "amiable",
+"pos": "a",
+"zh": "a. 亲切的, 和蔼可亲的 / [法] 亲和的, 和蔼可亲的",
+"en": "s. disposed to please"
+},
+{
+"word": "dogma",
+"pos": "n",
+"zh": "n. 教条",
+"en": "n. a religious doctrine that is proclaimed as true without proof / n. a doctrine or code of beliefs accepted as authorit…"
+},
+{
+"word": "commonsense",
+"pos": "a",
+"zh": "a. 有常识的, 一望而知的, 明明白白的",
+"en": "s. exhibiting native good judgment"
+},
+{
+"word": "interstellar",
+"pos": "a",
+"zh": "a. 星际的",
+"en": "a. between or among stars"
+},
+{
+"word": "mesmerize",
+"pos": "vt",
+"zh": "vt. 施催眠术, 迷住, 迷惑 / [医] 催眠",
+"en": "v attract strongly, as if with a magnet / v induce hypnosis in"
+},
+{
+"word": "windmill",
+"pos": "n",
+"zh": "n. 风车",
+"en": "n. a mill that is powered by the wind / n. generator that extracts usable energy from winds"
+},
+{
+"word": "midwife",
+"pos": "n",
+"zh": "n. 助产士, 接生婆 / [医] 助产士",
+"en": "n. a woman skilled in aiding the delivery of babies"
+},
+{
+"word": "financier",
+"pos": "n/vi",
+"zh": "n. 财政家, 金融家 / vi. 从事欺骗性金融活动, 欺骗",
+"en": "n. a person skilled in large scale financial transactions / v. conduct financial operations, often in an unethical manne…"
+},
+{
+"word": "populace",
+"pos": "n",
+"zh": "n. 平民, 大众, 人口",
+"en": "n. people in general considered as a whole"
+},
+{
+"word": "fundamentalism",
+"pos": "n",
+"zh": "n. 基要主义",
+"en": "n. the interpretation of every word in the sacred texts as literal truth"
+},
+{
+"word": "lug",
+"pos": "v/n",
+"zh": "v. 拖, 拉 / n. 一拖, 一拉, 耳朵, 耳状物, 装腔作势, 勒索",
+"en": "n. ancient Celtic god / n. a projecting piece that is used to lift or support or turn something / v. carry with difficul…"
+},
+{
+"word": "abstain",
+"pos": "vi",
+"zh": "vi. 自制, 戒绝, 弃权, 回避",
+"en": "v. refrain from voting / v. choose not to consume"
+},
+{
+"word": "bandit",
+"pos": "n",
+"zh": "n. 强盗",
+"en": "n. an armed thief who is (usually) a member of a band"
+},
+{
+"word": "precipitation",
+"pos": "n",
+"zh": "n. 坠落, 沉淀, 降水, 轻率, 急速, 猛冲, 突如其来 / [化] 析出",
+"en": "n. the quantity of water falling to earth at a specific place within a specified period of time / n. the process of form…"
+},
+{
+"word": "gingerly",
+"pos": "adv/a",
+"zh": "adv. 小心翼翼地, 慎重地 / a. 慎重的, 谨慎的",
+"en": "s. with extreme care or delicacy / r. in a gingerly manner"
+},
+{
+"word": "fearsome",
+"pos": "a",
+"zh": "a. 吓人的, 可怕的, 害怕的",
+"en": "s causing fear or dread or terror"
+},
+{
+"word": "befriend",
+"pos": "vt",
+"zh": "vt. 待人如友, 扶助",
+"en": "v. become friends with"
+},
+{
+"word": "interplay",
+"pos": "n/vi",
+"zh": "n. 互相作用, 互相影响 / vi. 互相作用",
+"en": "n. reciprocal action and reaction"
+},
+{
+"word": "exhale",
+"pos": "v",
+"zh": "v. 呼气, 发出, 散发",
+"en": "v. expel air / v. give out (breath or an odor)"
+},
+{
+"word": "deficient",
+"pos": "a",
+"zh": "a. 不足的, 不充分的, 有缺陷的",
+"en": "s. inadequate in amount or degree / s. falling short of some prescribed norm"
+},
+{
+"word": "teamwork",
+"pos": "n",
+"zh": "n. 协同作业, 协力 / [法] 联合工作, 联合行动, 协调工作",
+"en": "n. cooperative work done by a team (especially when it is effective)"
+},
+{
+"word": "waft",
+"pos": "vt/vi/n",
+"zh": "vt. 随风传送, 使飘荡 / vi. 飘荡 / n. 吹拂, 飘荡",
+"en": "v. be driven or carried along, as by the air / v. blow gently"
+},
+{
+"word": "adrenalin",
+"pos": "n",
+"zh": "n. 肾上腺素 / [化] 肾上腺素",
+"en": "n a catecholamine secreted by the adrenal medulla in response to stress (trade name Adrenalin); stimulates autonomic ner…"
+},
+{
+"word": "doorbell",
+"pos": "n",
+"zh": "n. 门铃",
+"en": "n. a push button at an outer door that gives a ringing or buzzing signal when pushed"
+},
+{
+"word": "scruffy",
+"pos": "a",
+"zh": "a. 不整齐的, 肮脏的, 破旧的, 褴褛的",
+"en": "s. shabby and untidy"
+},
+{
+"word": "optimist",
+"pos": "n",
+"zh": "n. 乐观者, 乐观主义者",
+"en": "n. a person disposed to take a favorable view of things"
+},
+{
+"word": "adjunct",
+"pos": "n/a",
+"zh": "n. 附属物, 附件, 助手, 修饰语 / a. 附属的",
+"en": "n. something added to another thing but not an essential part of it / n. a person who is an assistant or subordinate to …"
+},
+{
+"word": "defuse",
+"pos": "vt",
+"zh": "vt. 去掉...的引信, 平息",
+"en": "v. remove the triggering device from"
+},
+{
+"word": "abortive",
+"pos": "a",
+"zh": "a. 流产的, 堕胎的, 失败的 / [医] 流产的; 顿挫的",
+"en": "s. failing to accomplish an intended result"
+},
+{
+"word": "helium",
+"pos": "n",
+"zh": "n. 氦 / [化] 氦",
+"en": "n. a very light colorless element that is one of the six inert gasses; the most difficult gas to liquefy; occurs in econ…"
+},
+{
+"word": "symmetrical",
+"pos": "a",
+"zh": "a. 对称的, 匀称的 / [医] 对称的, 均称的",
+"en": "a. having similarity in size, shape, and relative position of corresponding parts"
+},
+{
+"word": "sludge",
+"pos": "n",
+"zh": "n. 软泥, 泥泞 / [化] 沉淀物; 泥状沉淀",
+"en": "n. the precipitate produced by sewage treatment / n. any thick, viscous matter"
+},
+{
+"word": "nutmeg",
+"pos": "n",
+"zh": "n. 肉豆蔻 / [医] 肉豆蔻",
+"en": "n. East Indian tree widely cultivated in the tropics for its aromatic seed; source of two spices: nutmeg and mace / n. h…"
+},
+{
+"word": "foodstuff",
+"pos": "n",
+"zh": "n. 食品, 粮食",
+"en": "n. a substance that can be used or prepared for use as food"
+},
+{
+"word": "fray",
+"pos": "n/vt/vi",
+"zh": "n. 磨损, 打架, 争论 / vt. 使磨损 / vi. 被磨损",
+"en": "v. wear away by rubbing"
+},
+{
+"word": "aback",
+"pos": "adv",
+"zh": "adv. 向后, 朝后, 突然, 船顶风地",
+"en": "r. having the wind against the forward side of the sails / r. by surprise"
+},
+{
+"word": "termite",
+"pos": "n",
+"zh": "n. 白蚁",
+"en": "n. whitish soft-bodied ant-like social insect that feeds on wood"
+},
+{
+"word": "tether",
+"pos": "n/vt",
+"zh": "n. 系绳, 系链, 界限, 范围 / vt. 栓, 束缚, 限制",
+"en": "v. tie with a tether"
+},
+{
+"word": "ordain",
+"pos": "vt/vi",
+"zh": "vt. 注定, 规定, 任命 / vi. 颁布命令",
+"en": "v. order by virtue of superior authority; decree / v. appoint to a clerical posts / v. invest with ministerial or priest…"
+},
+{
+"word": "mandarin",
+"pos": "n/a",
+"zh": "n. 中国官话, 国语, 满清官吏, 柑橘 / a. (中国式)紧身马褂的",
+"en": "n. shrub or small tree having flattened globose fruit with very sweet aromatic pulp and thin yellow-orange to flame-oran…"
+},
+{
+"word": "whereupon",
+"pos": "conj",
+"zh": "conj. 因此, 于是",
+"en": "adv. Upon which; in consequence of which; after which."
+}
+]

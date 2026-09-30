@@ -1,0 +1,602 @@
+[
+{
+"word": "boil",
+"pos": "n/v",
+"zh": "n. 煮沸, 沸腾, 疖 / v. 煮沸, 激动",
+"en": "n. a painful sore with a hard core filled with pus / v. come to the boiling point and change from a liquid to vapor / v.…"
+},
+{
+"word": "tragic",
+"pos": "a",
+"zh": "a. 悲惨的, 悲剧的",
+"en": "s. very sad; especially involving grief or death or destruction / a. of or relating to or characteristic of tragedy"
+},
+{
+"word": "mechanic",
+"pos": "n/a",
+"zh": "n. 机械工, 技工 / a. 手工的",
+"en": "s. resembling the action of a machine"
+},
+{
+"word": "earthquake",
+"pos": "n",
+"zh": "n. 地震",
+"en": "n. shaking and vibration at the surface of the earth resulting from underground movement along a fault plane of from vol…"
+},
+{
+"word": "jar",
+"pos": "n/vi/vt",
+"zh": "n. 广口瓶, 震动, 刺耳声 / vi. 震惊, 冲突, 发刺耳声, 不一致 / vt. 震动, 刺激",
+"en": "n. a vessel (usually cylindrical) with a wide mouth and without handles / n. the quantity contained in a jar / v. shock …"
+},
+{
+"word": "utilize",
+"pos": "vt",
+"zh": "vt. 利用",
+"en": "v. convert (from an investment trust to a unit trust)"
+},
+{
+"word": "worthwhile",
+"pos": "a",
+"zh": "a. 值得花时间的, 值得做的, 有真实价值的",
+"en": "s. sufficiently valuable to justify the investment of time or interest"
+},
+{
+"word": "vague",
+"pos": "a",
+"zh": "a. 含糊的, 不清楚的, 茫然的",
+"en": "s not clearly understood or expressed / a not precisely limited, determined, or distinguished / s lacking clarity or dis…"
+},
+{
+"word": "encouragement",
+"pos": "n",
+"zh": "n. 鼓励, 激励, 奖励 / [法] 怂恿, 煽动, 助长",
+"en": "n. the expression of approval and support / n. the feeling of being encouraged"
+},
+{
+"word": "pork",
+"pos": "n",
+"zh": "n. 猪肉 / [医] 猪肉",
+"en": "n. meat from a domestic hog or pig"
+},
+{
+"word": "depressed",
+"pos": "a",
+"zh": "a. 沮丧的, 降低的 / [医] 抑郁的, 阻抑的, 压低的, 凹[陷]的, 扁平的",
+"en": "s. lower than previously / s. flattened downward as if pressed from above or flattened along the dorsal and ventral surf…"
+},
+{
+"word": "dessert",
+"pos": "n",
+"zh": "n. 餐后甜点",
+"en": "n. a dish served as the last course of a meal"
+},
+{
+"word": "fisherman",
+"pos": "n",
+"zh": "n. 渔夫, 钓鱼者, 渔船",
+"en": "n. someone whose occupation is catching fish"
+},
+{
+"word": "conscience",
+"pos": "n",
+"zh": "n. 良心 / [法] 良心, 道德感, 正义感",
+"en": "n. motivation deriving logically from ethical or moral principles that govern a person's thoughts and actions / n. confo…"
+},
+{
+"word": "sock",
+"pos": "n/vt/vi/adv/a",
+"zh": "n. 短袜, 鞋垫, 一击 / vt. 重击, 猛投, 给...穿袜 / vi. 打击 / adv. 正着地, 不偏不倚地 / a. 非常成功的",
+"en": "n. hosiery consisting of a cloth covering for the foot; worn inside the shoe; reaches to between the ankle and the knee …"
+},
+{
+"word": "entrepreneur",
+"pos": "n",
+"zh": "n. 企业家, 主办人 / [经] 承包商, 企业家",
+"en": "n. someone who organizes a business venture and assumes the risk for it"
+},
+{
+"word": "sympathetic",
+"pos": "a/n",
+"zh": "a. 有同情心的, 合意的, 赞成的 / n. 交感神经, 容易感受的人",
+"en": "a. of or relating to the sympathetic nervous system / a. expressing or feeling or resulting from sympathy or compassion …"
+},
+{
+"word": "syndrome",
+"pos": "n",
+"zh": "n. 并发症状, 综合征, 同时存在的事物 / [计] 校验子; 并发位",
+"en": "n. a complex of concurrent things / n. a pattern of symptoms indicative of some disease"
+},
+{
+"word": "spoil",
+"pos": "n/vt/vi",
+"zh": "n. 战利品, 赃物, 奖品, 变质, 次品 / vt. 损坏, 破坏, 溺爱 / vi. 腐坏, 掠夺",
+"en": "n. (usually plural) valuables taken by violence (especially in war) / n. the act of spoiling something by causing damage…"
+},
+{
+"word": "workplace",
+"pos": "n",
+"zh": "n. 工作场所, 工厂, 车间",
+"en": "n. a place where work is done"
+},
+{
+"word": "breeze",
+"pos": "n/vi",
+"zh": "n. 微风, 煤屑, 轻而易举的事 / vi. 吹微风, 逃走",
+"en": "n. a slight wind (usually refreshing) / v. blow gently and lightly / v. to proceed quickly and easily"
+},
+{
+"word": "certainty",
+"pos": "n",
+"zh": "n. 确定, 确实的事情 / [法] 确定, 肯定, 必然的事",
+"en": "n. the state of being certain / n. something that is certain"
+},
+{
+"word": "touchdown",
+"pos": "n",
+"zh": "n. 触地, 触地得分, 着地",
+"en": "n. a score in American football; being in possession of the ball across the opponents' goal line / n. a landing (as the …"
+},
+{
+"word": "costly",
+"pos": "a",
+"zh": "a. 昂贵的, 奢华的, 费用大的",
+"en": "s. having a high price"
+},
+{
+"word": "inspect",
+"pos": "vt/vi",
+"zh": "vt. 检查, 检阅, 检验 / vi. 检查",
+"en": "v. look over carefully"
+},
+{
+"word": "ambitious",
+"pos": "a",
+"zh": "a. 有野心的, 抱负不凡的, 雄心勃勃的",
+"en": "a. having a strong desire for success or achievement / s. requiring full use of your abilities or resources"
+},
+{
+"word": "distress",
+"pos": "n/vt/a",
+"zh": "n. 苦恼, 贫困, 痛苦 / vt. 使苦恼 / a. 亏本出售的",
+"en": "n. psychological suffering / n. a state of adversity (danger or affliction or need) / n. extreme physical pain / n. the …"
+},
+{
+"word": "soap",
+"pos": "n/vt",
+"zh": "n. 肥皂, 阿谀 / vt. 以肥皂洗, 阿谀 / [计] 评语",
+"en": "n. a cleansing agent made from the salts of vegetable or animal fats / n. money offered as a bribe / n. street names for…"
+},
+{
+"word": "rightly",
+"pos": "adv",
+"zh": "adv. 合适地, 正当地, 正确地",
+"en": "r. with honesty"
+},
+{
+"word": "fortnight",
+"pos": "n",
+"zh": "n. 两星期",
+"en": "n. a period of fourteen consecutive days"
+},
+{
+"word": "circulation",
+"pos": "n",
+"zh": "n. 流通, 循环, 发行量 / [化] 环流",
+"en": "n. the dissemination of copies of periodicals (as newspapers or magazines) / n. movement through a circuit; especially t…"
+},
+{
+"word": "suite",
+"pos": "n",
+"zh": "n. 随员, 套房, (一)组, (一)套, 组曲, 继之而来的事 / [电] 程序组",
+"en": "n. a musical composition of several movements only loosely connected / n. apartment consisting of a series of connected …"
+},
+{
+"word": "disturbance",
+"pos": "n",
+"zh": "n. 扰乱, 不安, 忧虑 / [化] 扰动; 干扰; 失调",
+"en": "n. an unhappy and worried mental state / n. a disorderly outburst or tumult / n. the act of disturbing something or some…"
+},
+{
+"word": "tighten",
+"pos": "vt/vi",
+"zh": "vt. 勒紧, 使变紧 / vi. 变紧, 绷紧",
+"en": "v. make tight or tighter / v. become tight or tighter"
+},
+{
+"word": "aesthetic",
+"pos": "a",
+"zh": "a. 美学的, 审美的, 有美感的",
+"en": "n. (philosophy) a philosophical theory as to what is beautiful / a. relating to or dealing with the subject of aesthetic…"
+},
+{
+"word": "zero",
+"pos": "n/a/vt",
+"zh": "n. 零, 零点, 零度, 无, 乌有, 最低点 / a. 零的, 没有的 / vt. 调零, 对(炮火等)作协调校正 / [计] 零",
+"en": "n. a mathematical element that when added to another number yields the same number / n. the point on a scale from which …"
+},
+{
+"word": "gut",
+"pos": "n/vt",
+"zh": "n. 剧情, 内容, 内脏, 肚子, 海峡, 勇气 / vt. 取出内脏, 毁坏...的内部",
+"en": "n. a narrow channel or strait / v. empty completely; destroy the inside of / v. remove the guts of"
+},
+{
+"word": "remarkably",
+"pos": "adv",
+"zh": "adv. 显著地, 引人注目地, 非常地",
+"en": "r to a remarkable degree or extent / r in a signal manner"
+},
+{
+"word": "absent",
+"pos": "a/vt",
+"zh": "a. 缺席的, 不在的, 缺乏的, 漫不经心的 / vt. 使缺席",
+"en": "v. go away or leave / a. not being in a specified place / s. lost in thought; showing preoccupation"
+},
+{
+"word": "booth",
+"pos": "n",
+"zh": "n. 亭, 摊棚 / [经] 货摊, 电话间",
+"en": "n. a table (in a restaurant or bar) surrounded by two high-backed benches / n. small area set off by walls for special u…"
+},
+{
+"word": "straw",
+"pos": "n/a",
+"zh": "n. 稻草, 麦管, 吸管, 一文不值的东西, 草帽 / a. 稻草的, 稻草色的, 琐碎的, 无价值的",
+"en": "n. plant fiber used e.g. for making baskets and hats or as fodder / n. a thin paper or plastic tube used to suck liquids…"
+},
+{
+"word": "lump",
+"pos": "n/vt/vi",
+"zh": "n. 块, 瘤, 很多, 肿块, 笨人 / vt. 使成块状, 混在一起 / vi. 结块",
+"en": "v. put together indiscriminately"
+},
+{
+"word": "erect",
+"pos": "a/vt/vi",
+"zh": "a. 直立的, 竖立的, 笔直的 / vt. 使竖立, 使直立, 树立, 建立 / vi. 勃起",
+"en": "a. upright in position or posture"
+},
+{
+"word": "helmet",
+"pos": "n/vt",
+"zh": "n. 钢盔, 盔, 防护帽 / vt. 给...戴头盔",
+"en": "n. armor plate that protects the head / n. a protective headgear made of hard material to resist blows"
+},
+{
+"word": "waist",
+"pos": "n",
+"zh": "n. 腰部, 腰 / [医] 腰",
+"en": "n. the narrowing of the body between the ribs and hips"
+},
+{
+"word": "rejection",
+"pos": "n",
+"zh": "n. 拒绝, 抛弃, 驳回, 被抛弃的东西, 呕出物 / [化] 报废; 拒收",
+"en": "n. the act of rejecting something / n. the state of being rejected / n. (medicine) an immunological response that refuse…"
+},
+{
+"word": "penny",
+"pos": "n",
+"zh": "n. 便士, 一分, 小钱, 点滴 / [经] 便士",
+"en": "n. a fractional monetary unit of Ireland and the United Kingdom; equal to one hundredth of a pound / n. a coin worth one…"
+},
+{
+"word": "actively",
+"pos": "adv",
+"zh": "adv. 活跃地, 积极地",
+"en": "r. in an active manner"
+},
+{
+"word": "accomplishment",
+"pos": "n",
+"zh": "n. 成就, 完成",
+"en": "n. the action of accomplishing something"
+},
+{
+"word": "blank",
+"pos": "n/a/vi/vt",
+"zh": "n. 空格, 空白 / a. 空白的, 空虚的, 完全的, 无色的 / vi. 消失, 成为空白 / vt. 使无效, 取消, 封锁 / [计] 空白",
+"en": "n. a piece of material ready to be made into something / n. a cartridge containing an explosive charge but no bullet / v…"
+},
+{
+"word": "crush",
+"pos": "n/vt/vi",
+"zh": "n. 压碎, 粉碎, 群众, 迷恋 / vt. 压破, 征服, 塞, 弄皱, 榨出 / vi. 被压碎, 起皱, 挤",
+"en": "n. a dense crowd of people / n. the act of crushing / v. break into small pieces / v. humiliate or depress completely"
+},
+{
+"word": "enclose",
+"pos": "vt",
+"zh": "vt. 围绕, 圈起, 放入封套, 附上",
+"en": "v. close in; darkness enclosed him\" / v. surround completely"
+},
+{
+"word": "minimal",
+"pos": "a",
+"zh": "a. 最小的, 极微的, 最小限度的 / [医] 最小的, 最低的",
+"en": "a. the least possible"
+},
+{
+"word": "cord",
+"pos": "n",
+"zh": "n. 绳索, 束缚 / [医] 索, 带",
+"en": "n. a line made of twisted fibers or threads / n. a unit of amount of wood cut for burning; 128 cubic feet / n. a light i…"
+},
+{
+"word": "discharge",
+"pos": "vt/vi/n",
+"zh": "vt. 卸下, 放出, 解雇, 拔染, 履行, 放电 / vi. 卸货, 流出 / n. 卸货, 流出, 放电",
+"en": "n. the sudden giving off of energy / n. the act of venting / n. a substance that is emitted or released / n. any of seve…"
+},
+{
+"word": "cocaine",
+"pos": "n",
+"zh": "n. 可卡因, 古柯碱 / [化] 可卡因; 古柯碱",
+"en": "n. a narcotic (alkaloid) extracted from coca leaves; used as a surface anesthetic or taken for pleasure; can become powe…"
+},
+{
+"word": "socially",
+"pos": "adv",
+"zh": "adv. 在社会上, 在社交上, 以社会生活方式",
+"en": "r. by or with respect to society / r. in a social manner"
+},
+{
+"word": "illusion",
+"pos": "n",
+"zh": "n. 幻影, 错觉, 幻想 / [医] 错觉",
+"en": "n. an erroneous mental representation / n. something many people believe that is false"
+},
+{
+"word": "anonymous",
+"pos": "a",
+"zh": "a. 姓氏不详的, 无名的, 无特色的 / [计] 无记录",
+"en": "a. having no known name or identity or known source / s. not known or lacking marked individuality"
+},
+{
+"word": "commence",
+"pos": "v",
+"zh": "v. (使)开始, 得学位",
+"en": "v take the first step or steps in carrying out an action / v set in motion, cause to start / v get off the ground"
+},
+{
+"word": "tolerate",
+"pos": "vt",
+"zh": "vt. 宽容, 容许, 有耐力",
+"en": "v. recognize and respect (rights and beliefs of others) / v. have a tolerance for a poison or strong drug or pathogen or…"
+},
+{
+"word": "hazard",
+"pos": "n/vt",
+"zh": "n. 冒险, 危险, 机会 / vt. 冒...的危险, 赌运气, 使冒危险 / [计] 相关危险; 冒险",
+"en": "n. a source of danger; a possibility of incurring loss or misfortune / n. an obstacle on a golf course"
+},
+{
+"word": "appreciation",
+"pos": "n",
+"zh": "n. 感激, 赏识, 鉴别 / [经] 涨价, 增值",
+"en": "n. understanding of the nature or meaning or quality or magnitude of something / n. an expression of gratitude / n. an i…"
+},
+{
+"word": "elephant",
+"pos": "n",
+"zh": "n. 象",
+"en": "n. five-toed pachyderm / n. the symbol of the Republican Party; introduced in cartoons by Thomas Nast in 1874"
+},
+{
+"word": "maturity",
+"pos": "n",
+"zh": "n. 成熟, 完备, 到期 / [医] 成熟, 成熟期, 发育期",
+"en": "n. state of being mature; full development / n. the date on which an obligation must be repaid"
+},
+{
+"word": "scramble",
+"pos": "n/vi/vt",
+"zh": "n. 攀缘, 爬行, 抢夺, 混乱, 紧急起飞 / vi. 攀缘, 杂乱蔓延, 争夺, 拼凑, 匆忙 / vt. 攀登, 扰乱, 使混杂",
+"en": "n. an unceremonious and disorganized struggle / v. to move hurriedly / v. bring into random order / v. make unintelligib…"
+},
+{
+"word": "seldom",
+"pos": "a/adv",
+"zh": "a. 不常的, 稀少的 / adv. 很少, 不常",
+"en": "r not often"
+},
+{
+"word": "precede",
+"pos": "vt/vi",
+"zh": "vt. 在...之前, 优于, 较...优先 / vi. 在前面",
+"en": "v. come before / v. be the predecessor of / v. move ahead (of others) in time or space / v. furnish with a preface or in…"
+},
+{
+"word": "pulse",
+"pos": "n/vi/vt",
+"zh": "n. 脉冲, 脉搏, 情绪, 意向, 拍子, 豆类 / vi. 跳动, 脉跳 / vt. 使跳动, 用脉冲调制 / [计] 脉冲",
+"en": "n. the rhythmic contraction and expansion of the arteries with each beat of the heart / n. the rate at which the heart b…"
+},
+{
+"word": "banker",
+"pos": "n",
+"zh": "n. 银行家, 庄家 / [经] 银行业者, 银行家",
+"en": "n. a financier who owns or is an executive in a bank / n. the person in charge of the bank in a gambling game"
+},
+{
+"word": "momentum",
+"pos": "n",
+"zh": "n. 动力, 动量 / [化] 动量",
+"en": "n. an impelling force or strength / n. the product of a body's mass and its velocity"
+},
+{
+"word": "donation",
+"pos": "n",
+"zh": "n. 捐赠物, 捐款, 捐赠 / [经] 赠品, 捐款, 捐赠",
+"en": "n a voluntary gift (as of money or service or ideas) made to some worthwhile cause / n act of giving in common with othe…"
+},
+{
+"word": "irony",
+"pos": "n",
+"zh": "n. 反语, 讽刺, 具有讽刺意味的事",
+"en": "n. incongruity between what might be expected and what actually occurs / n. a trope that involves incongruity between wh…"
+},
+{
+"word": "liquid",
+"pos": "n/a",
+"zh": "n. 液体, 流体, 流音 / a. 液体的, 透明的, 明亮的, 流动的, 易变的",
+"en": "n. a substance that is liquid at room temperature and pressure / n. the state in which a substance exhibits a characteri…"
+},
+{
+"word": "spoon",
+"pos": "n/vt",
+"zh": "n. 匙, 调羹, 匙形工具 / vt. 以匙舀起, 调情, 使成匙状",
+"en": "n. a piece of cutlery with a shallow bowl-shaped container and a handle; used to stir or serve or take up food / n. as m…"
+},
+{
+"word": "alley",
+"pos": "n",
+"zh": "n. 小路, 巷",
+"en": "n. a narrow street with walls on both sides"
+},
+{
+"word": "enquire",
+"pos": "v",
+"zh": "v. 询问",
+"en": "v inquire about / v conduct an inquiry or investigation of / v have a wish or desire to know something"
+},
+{
+"word": "interact",
+"pos": "vi/n",
+"zh": "vi. 互相影响, 交互作用 / n. 幕间剧, 幕间休息",
+"en": "v. act together or towards others or with others"
+},
+{
+"word": "midst",
+"pos": "n/prep",
+"zh": "n. 中间 / prep. 在...中间",
+"en": "n. the location of something surrounded by other things"
+},
+{
+"word": "restraint",
+"pos": "n",
+"zh": "n. 抑制, 克制, 束缚 / [医] 约束, 拘束",
+"en": "n. the act of controlling by restraining someone or something / n. discipline in personal and social activities / n. a r…"
+},
+{
+"word": "cute",
+"pos": "a",
+"zh": "a. 可爱的, 聪明的, 伶俐的 / [医] 品他病",
+"en": "s. obviously contrived to charm"
+},
+{
+"word": "mid",
+"pos": "a/prep",
+"zh": "a. 中间的, 中央的, 中部的 / prep. 在...之中",
+"en": "s. used in combination to denote the middle"
+},
+{
+"word": "pin",
+"pos": "n/vt/a",
+"zh": "n. 大头针, 针, 别针, 栓, 销子, 图钉, 插头, 管脚, 品(液量单位) / vt. 将...用针别住, 钉住, 压住, 牵制, 使不能动, 归罪于 / a. 针的, 销…",
+"en": "n. a piece of jewelry that is pinned onto the wearer's garment / n. informal terms for the leg / n. cylindrical tumblers…"
+},
+{
+"word": "charm",
+"pos": "n/vt/vi",
+"zh": "n. 吸引力, 魔力, 符咒 / vt. 迷住, 使陶醉, 行魔法 / vi. 用符咒, 有魅力",
+"en": "n. something believed to bring good luck / n. (physics) one of the six flavors of quark / v. control by magic spells, as…"
+},
+{
+"word": "punch",
+"pos": "n/vt/vi",
+"zh": "n. 打洞器, 钻孔机, 冲压机, 冲床, 潘趣酒 / vt. 以拳重击, 开洞, 冲压 / vi. 用拳猛击",
+"en": "n. (boxing) a blow with the fist / n. an iced mixed drink usually containing alcohol and prepared for multiple servings;…"
+},
+{
+"word": "alteration",
+"pos": "n",
+"zh": "n. 变更, 改动 / [医] 变更",
+"en": "n. the act of making something different (as e.g. the size of a garment)"
+},
+{
+"word": "smash",
+"pos": "n/a/vt/vi/adv",
+"zh": "n. 打碎, 粉碎, 打碎时哗啦声, 猛击, 扣球, 杀球, 经营失败, 破产, 硬币, 假硬币 / a. 非常轰动的, 了不起的 / vt. 打碎, 粉碎, 击溃, 使破产, 使…",
+"en": "n. a serious collision (especially of motor vehicles) / v. hit hard / v. break into pieces, as by striking or knocking o…"
+},
+{
+"word": "omit",
+"pos": "vt",
+"zh": "vt. 省略, 删除, 疏忽, 遗漏 / [化] 省略",
+"en": "v prevent from being included or considered or accepted / v leave undone or leave out"
+},
+{
+"word": "halt",
+"pos": "n/vt/vi",
+"zh": "n. 停止, 立定, 休息 / vt. 使停止, 使立定 / vi. 立定, 停止, 蹒跚, 踌躇, 有缺点 / [计] 停止",
+"en": "v. cause to stop"
+},
+{
+"word": "contradiction",
+"pos": "n",
+"zh": "n. 反驳, 矛盾 / [法] 矛盾, 否认, 反驳",
+"en": "n. opposition between two conflicting forces or ideas / n. (logic) a statement that is necessarily false / n. the speech…"
+},
+{
+"word": "icon",
+"pos": "n",
+"zh": "n. 画像, 肖像, 偶像, 图标, 像标 / [计] 像标, 图标",
+"en": "n. (computer science) a graphic symbol (usually a simple picture) that denotes a program or a command or a data file or …"
+},
+{
+"word": "suspension",
+"pos": "n",
+"zh": "n. 悬挂, 暂停, 中止 / [化] 悬浮; 悬浮体; 悬浮液",
+"en": "n. a mixture in which fine particles are suspended in a fluid where they are supported by buoyancy / n. an interruption …"
+},
+{
+"word": "vein",
+"pos": "n/vt",
+"zh": "n. 血管, 静脉, 纹理, 气质, 情绪 / vt. 使有脉络, 像脉络般分布于",
+"en": "n. a blood vessel that carries blood from the capillaries toward the heart / n. a distinctive style or manner / n. any o…"
+},
+{
+"word": "petition",
+"pos": "n/v",
+"zh": "n. 请愿, 诉状, 陈情书, 申请, 祈求, 祷文 / v. 正式请求, 恳求, 请愿",
+"en": "v. write a petition for something to somebody; request formally and in writing"
+},
+{
+"word": "shed",
+"pos": "n/vt/vi",
+"zh": "n. 车棚, 小屋, 脱落之物, 分水岭 / vt. 使流出, 放射, 脱落, 散发, 摆脱 / vi. 流出, 散布, 脱落",
+"en": "n. an outbuilding with a single story; used for shelter or storage / v. get rid of / v. cast off hair, skin, horn, or fe…"
+},
+{
+"word": "basin",
+"pos": "n",
+"zh": "n. 盆, 盆地 / [医] 第三脑室, 骨盆",
+"en": "n. a bowl-shaped vessel; usually used for holding food or liquids / n. the quantity that a basin will hold / n. a natura…"
+},
+{
+"word": "purse",
+"pos": "n/v",
+"zh": "n. 钱包, 小钱袋, 金钱, 募捐款, 囊状物 / v. 缩拢, 皱起",
+"en": "n. a sum of money spoken of as the contents of a money purse / n. a small bag for carrying money / n. a sum of money off…"
+},
+{
+"word": "favourable",
+"pos": "a",
+"zh": "a. 有用的, 良好的, 赞成的, 顺利的 / [医] 良好的, 顺利的",
+"en": "a encouraging or approving or pleasing / a (of winds or weather) tending to promote or facilitate / s occurring at a con…"
+},
+{
+"word": "foster",
+"pos": "a/vt",
+"zh": "a. 收养的, 养育的 / vt. 养育, 抚育, 培养, 鼓励, 抱(希望)",
+"en": "n. United States songwriter whose songs embody the sentiment of the South before the American Civil War (1826-1864) / v.…"
+},
+{
+"word": "expedition",
+"pos": "n",
+"zh": "n. 远征, 探险队, 迅速",
+"en": "n. a military campaign designed to achieve a specific objective in a foreign country / n. an organized group of people u…"
+}
+]

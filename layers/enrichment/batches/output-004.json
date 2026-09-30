@@ -1,0 +1,1737 @@
+{
+"bad": {
+"gloss": "坏的，糟糕的；有害的；(食物)变质的；严重的；n. 坏事",
+"trap": "口语 not bad 是“不错”；my bad 是“我的错”",
+"root": null,
+"confusable": [],
+"synonyms": [
+"poor",
+"terrible",
+"awful",
+"harmful"
+],
+"antonyms": [
+"good"
+]
+},
+"face": {
+"gloss": "n. 脸；表面，正面；v. 面对，面临；朝向",
+"trap": "face up to 是“正视”；face value 是“面值、表面价值”",
+"root": {
+"key": "fac",
+"meaning": "做",
+"match": "fac"
+},
+"confusable": [
+"facet",
+"phase"
+],
+"synonyms": [
+"confront",
+"encounter",
+"surface"
+],
+"antonyms": [
+"avoid"
+]
+},
+"carry": {
+"gloss": "携带，运送；承担，承载；(商店)有售；使通过",
+"trap": "carry out 是“执行”，不是“带出去”；carry on 继续",
+"root": {
+"key": "car",
+"meaning": "车",
+"match": "car"
+},
+"confusable": [],
+"synonyms": [
+"transport",
+"bear",
+"convey",
+"hold"
+],
+"antonyms": []
+},
+"lose": {
+"gloss": "丢失；失去；输掉；亏损；(钟表)走慢",
+"trap": "lose 丢失(动词) vs loose 松的(形容词)，只差一个 o",
+"root": null,
+"confusable": [
+"loose"
+],
+"synonyms": [
+"misplace",
+"forfeit",
+"drop"
+],
+"antonyms": [
+"win",
+"find",
+"gain"
+]
+},
+"road": {
+"gloss": "道路，公路；途径，道路(比喻)",
+"trap": "",
+"root": null,
+"confusable": [
+"rode",
+"rod",
+"load"
+],
+"synonyms": [
+"route",
+"way",
+"street",
+"path"
+],
+"antonyms": []
+},
+"authority": {
+"gloss": "权力，职权；当局(authorities)；权威，专家",
+"trap": "同源 author“创始者”→权威；the authorities 指当局",
+"root": null,
+"confusable": [],
+"synonyms": [
+"power",
+"jurisdiction",
+"expert",
+"control"
+],
+"antonyms": []
+},
+"himself": {
+"gloss": "他自己；他亲自(强调)",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [],
+"antonyms": []
+},
+"together": {
+"gloss": "一起，共同；同时；连续地；(口)冷静有条理的",
+"trap": "get it together 是“振作、理清头绪”",
+"root": null,
+"confusable": [],
+"synonyms": [
+"jointly",
+"collectively",
+"simultaneously"
+],
+"antonyms": [
+"apart",
+"separately"
+]
+},
+"appear": {
+"gloss": "似乎，看来；出现，显现；出版；出庭",
+"trap": "It appears that… 是“看来、似乎”，不是“出现”",
+"root": null,
+"confusable": [],
+"synonyms": [
+"seem",
+"emerge",
+"arise",
+"surface"
+],
+"antonyms": [
+"disappear",
+"vanish"
+]
+},
+"city": {
+"gloss": "城市；(英)伦敦金融城(the City)",
+"trap": "",
+"root": {
+"key": "civ",
+"meaning": "公民",
+"match": "cit"
+},
+"confusable": [],
+"synonyms": [
+"town",
+"metropolis",
+"municipality"
+],
+"antonyms": [
+"countryside"
+]
+},
+"continue": {
+"gloss": "继续；持续；(中断后)接着说，接续",
+"trap": "",
+"root": {
+"key": "ten",
+"meaning": "持有",
+"match": "tin"
+},
+"confusable": [],
+"synonyms": [
+"proceed",
+"persist",
+"carry on",
+"resume"
+],
+"antonyms": [
+"stop",
+"cease",
+"discontinue"
+]
+},
+"six": {
+"gloss": "六；六个",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [],
+"antonyms": []
+},
+"minister": {
+"gloss": "部长，大臣；牧师；公使；v. 照料，服侍",
+"trap": "原义“仆人”(← minus 小，对比 master 主人)，故有“服侍”义",
+"root": {
+"key": "min",
+"meaning": "小",
+"match": "min"
+},
+"confusable": [],
+"synonyms": [
+"secretary",
+"clergyman",
+"pastor",
+"envoy"
+],
+"antonyms": []
+},
+"able": {
+"gloss": "能够的；有能力的，能干的",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"capable",
+"competent",
+"skilled"
+],
+"antonyms": [
+"unable",
+"incapable"
+]
+},
+"community": {
+"gloss": "社区，社会；群体，界；(生物)群落；共同性",
+"trap": "",
+"root": {
+"key": "mun",
+"meaning": "共同/义务",
+"match": "mun"
+},
+"confusable": [
+"commodity"
+],
+"synonyms": [
+"society",
+"neighbourhood",
+"population",
+"group"
+],
+"antonyms": []
+},
+"produce": {
+"gloss": "v. 生产，制造；引起；出示；n. 农产品",
+"trap": "名词 /ˈprɒdjuːs/ 专指农产品(蔬果)，重音在前",
+"root": {
+"key": "duc",
+"meaning": "引导",
+"match": "duc"
+},
+"confusable": [],
+"synonyms": [
+"manufacture",
+"generate",
+"yield",
+"create"
+],
+"antonyms": [
+"consume"
+]
+},
+"rate": {
+"gloss": "比率，率；速度；价格，费率；v. 评价，评级；认为",
+"trap": "at any rate 是“无论如何”；first-rate 是“一流的”",
+"root": {
+"key": "rat",
+"meaning": "计算/推理",
+"match": "rat"
+},
+"confusable": [],
+"synonyms": [
+"ratio",
+"speed",
+"pace",
+"charge",
+"assess"
+],
+"antonyms": []
+},
+"late": {
+"gloss": "迟到的，晚的；晚期的；已故的；最近的(latest)",
+"trap": "the late Mr Smith 是“已故的”，不是“迟到的”",
+"root": null,
+"confusable": [
+"latter"
+],
+"synonyms": [
+"tardy",
+"overdue",
+"deceased",
+"recent"
+],
+"antonyms": [
+"early",
+"punctual"
+]
+},
+"door": {
+"gloss": "门；门口；(通往…的)途径",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"gate",
+"entrance",
+"doorway"
+],
+"antonyms": []
+},
+"once": {
+"gloss": "一次；曾经，从前；conj. 一旦；at once 立刻",
+"trap": "作连词表“一旦”：Once it starts…；at once 是“立刻”",
+"root": null,
+"confusable": [],
+"synonyms": [
+"formerly",
+"previously",
+"one time"
+],
+"antonyms": []
+},
+"general": {
+"gloss": "总的，普遍的；大体的；一般的；n. 将军",
+"trap": "",
+"root": {
+"key": "gen",
+"meaning": "产生/种族",
+"match": "gen"
+},
+"confusable": [],
+"synonyms": [
+"overall",
+"common",
+"widespread",
+"universal"
+],
+"antonyms": [
+"specific",
+"particular"
+]
+},
+"white": {
+"gloss": "白色(的)；白人(的)；苍白的；蛋清",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"pale",
+"snowy"
+],
+"antonyms": [
+"black"
+]
+},
+"least": {
+"gloss": "最少(的)；最小(的)；at least 至少",
+"trap": "not least 是“尤其”；last but not least 同样重要",
+"root": null,
+"confusable": [
+"last",
+"lest"
+],
+"synonyms": [
+"minimum",
+"smallest",
+"slightest"
+],
+"antonyms": [
+"most"
+]
+},
+"office": {
+"gloss": "办公室；(政府)部门；公职，职位；in office 在任",
+"trap": "take office 是“就职”，office 也指职位、职权",
+"root": {
+"key": "fac",
+"meaning": "做",
+"match": "fic"
+},
+"confusable": [],
+"synonyms": [
+"bureau",
+"workplace",
+"post",
+"position"
+],
+"antonyms": []
+},
+"president": {
+"gloss": "总统；主席；(公司)总裁；(大学)校长",
+"trap": "← preside 主持，字面“坐在前面的人”",
+"root": {
+"key": "sid",
+"meaning": "坐",
+"match": "sid"
+},
+"confusable": [
+"precedent"
+],
+"synonyms": [
+"chairman",
+"head",
+"chief executive"
+],
+"antonyms": []
+},
+"learn": {
+"gloss": "学习，学会；得知，获悉",
+"trap": "learn of/that 是“得知”，不是“学习”",
+"root": null,
+"confusable": [],
+"synonyms": [
+"study",
+"acquire",
+"master",
+"discover"
+],
+"antonyms": [
+"forget",
+"teach"
+]
+},
+"war": {
+"gloss": "战争；斗争，对抗(如 price war)",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"warfare",
+"conflict",
+"combat",
+"hostilities"
+],
+"antonyms": [
+"peace"
+]
+},
+"real": {
+"gloss": "真实的，实际的；真正的；不动产的；adv.(口)非常",
+"trap": "",
+"root": null,
+"confusable": [
+"reel"
+],
+"synonyms": [
+"actual",
+"genuine",
+"true",
+"authentic"
+],
+"antonyms": [
+"fake",
+"imaginary",
+"unreal"
+]
+},
+"offer": {
+"gloss": "提供，提出；出价，报价；n. 提议，报价；(商店)特价",
+"trap": "",
+"root": {
+"key": "fer",
+"meaning": "带来",
+"match": "fer"
+},
+"confusable": [],
+"synonyms": [
+"provide",
+"propose",
+"present",
+"bid"
+],
+"antonyms": [
+"withdraw",
+"refuse"
+]
+},
+"team": {
+"gloss": "队，组，团队；v. 合作(team up)",
+"trap": "",
+"root": null,
+"confusable": [
+"teem"
+],
+"synonyms": [
+"group",
+"crew",
+"squad",
+"side"
+],
+"antonyms": []
+},
+"minute": {
+"gloss": "n. 分钟；片刻；(pl.)会议记录；a. 微小的，细微的",
+"trap": "形容词 /maɪˈnjuːt/“极小的、精细的”，与名词“分钟”读音不同",
+"root": {
+"key": "min",
+"meaning": "小",
+"match": "min"
+},
+"confusable": [
+"minuet"
+],
+"synonyms": [
+"moment",
+"instant",
+"tiny",
+"detailed"
+],
+"antonyms": [
+"huge"
+]
+},
+"person": {
+"gloss": "人，个人；(语法)人称；in person 亲自",
+"trap": "词源 persona 面具→角色→人；in person 亲自",
+"root": null,
+"confusable": [
+"parson"
+],
+"synonyms": [
+"individual",
+"human",
+"being"
+],
+"antonyms": []
+},
+"full": {
+"gloss": "满的，充满的；完全的，完整的；饱的；丰满的；详尽的",
+"trap": "in full 全部、全文；full of 充满",
+"root": null,
+"confusable": [
+"fool",
+"fill"
+],
+"synonyms": [
+"filled",
+"complete",
+"entire",
+"whole"
+],
+"antonyms": [
+"empty",
+"partial"
+]
+},
+"reason": {
+"gloss": "原因，理由；理性，理智；v. 推理；劝说",
+"trap": "词源 ratio 计算；reason with sb 是“劝说”",
+"root": null,
+"confusable": [],
+"synonyms": [
+"cause",
+"motive",
+"ground",
+"rationale",
+"logic"
+],
+"antonyms": []
+},
+"several": {
+"gloss": "几个，数个(≥3)；各自的，分别的(正式)",
+"trap": "比 a few 多、比 many 少；法律义“各自的”",
+"root": null,
+"confusable": [],
+"synonyms": [
+"some",
+"various",
+"a number of"
+],
+"antonyms": []
+},
+"view": {
+"gloss": "观点，看法；景色，视野；v. 看待，认为；观看",
+"trap": "in view of 是“鉴于”；with a view to 是“为了”",
+"root": null,
+"confusable": [],
+"synonyms": [
+"opinion",
+"perspective",
+"scene",
+"regard",
+"consider"
+],
+"antonyms": []
+},
+"consider": {
+"gloss": "考虑；认为，视为；体谅，顾及",
+"trap": "词源“观星”(sidus 星)：占星者凝望星辰后作决断",
+"root": {
+"key": "sider",
+"meaning": "星",
+"match": "sider"
+},
+"confusable": [],
+"synonyms": [
+"contemplate",
+"regard",
+"deem",
+"weigh"
+],
+"antonyms": [
+"ignore",
+"disregard"
+]
+},
+"kid": {
+"gloss": "小孩，孩子(口语)；v. 开玩笑，戏弄；小山羊",
+"trap": "You're kidding! 是“你开玩笑吧”；“小山羊”义现已少见",
+"root": null,
+"confusable": [],
+"synonyms": [
+"child",
+"youngster",
+"joke",
+"tease"
+],
+"antonyms": [
+"adult"
+]
+},
+"expect": {
+"gloss": "预期，预料；期望，指望；(be expecting)怀孕",
+"trap": "expect 是“预计会发生”，不同于 hope 的“盼望”",
+"root": {
+"key": "spec",
+"meaning": "看",
+"match": "pect"
+},
+"confusable": [
+"except",
+"accept",
+"aspect"
+],
+"synonyms": [
+"anticipate",
+"foresee",
+"predict",
+"await"
+],
+"antonyms": []
+},
+"suggest": {
+"gloss": "建议，提议；表明，暗示；使联想到",
+"trap": "suggest that 后接虚拟(should) do；学术文中常是“表明”",
+"root": {
+"key": "gest",
+"meaning": "携带/进行",
+"match": "gest"
+},
+"confusable": [],
+"synonyms": [
+"propose",
+"recommend",
+"imply",
+"indicate"
+],
+"antonyms": []
+},
+"anything": {
+"gloss": "任何事物；(否定/疑问)什么",
+"trap": "anything but 是“绝不”；for anything 无论如何",
+"root": null,
+"confusable": [],
+"synonyms": [],
+"antonyms": []
+},
+"ago": {
+"gloss": "以前(从现在算起)",
+"trap": "ago 从现在往前算，配过去时；before 从过去某点往前算",
+"root": null,
+"confusable": [],
+"synonyms": [
+"before",
+"previously"
+],
+"antonyms": []
+},
+"term": {
+"gloss": "术语；学期；期限，任期；(pl.)条款，条件；v. 称为",
+"trap": "in terms of 就…而言；come to terms with 接受",
+"root": {
+"key": "termin",
+"meaning": "界限",
+"match": "term"
+},
+"confusable": [
+"tern"
+],
+"synonyms": [
+"word",
+"expression",
+"period",
+"tenure",
+"condition"
+],
+"antonyms": []
+},
+"towards": {
+"gloss": "朝，向；对于；接近(时间)；为了(目的)",
+"trap": "towards 与 toward 同义，英式多用 towards",
+"root": null,
+"confusable": [],
+"synonyms": [
+"to",
+"in the direction of"
+],
+"antonyms": []
+},
+"low": {
+"gloss": "低的；少的；低沉的；情绪低落的；n. 低点，低谷；v. 牛叫",
+"trap": "feel low 是“情绪低落”；lie low 是“隐蔽不出头”",
+"root": null,
+"confusable": [
+"law",
+"allow"
+],
+"synonyms": [
+"short",
+"quiet",
+"depressed",
+"cheap"
+],
+"antonyms": [
+"high",
+"tall"
+]
+},
+"public": {
+"gloss": "公众的，公共的；公开的；国家的，公立的；n. 公众",
+"trap": "public school 在英国指私立贵族学校，在美国指公立学校",
+"root": {
+"key": "publ",
+"meaning": "人民",
+"match": "publ"
+},
+"confusable": [],
+"synonyms": [
+"communal",
+"open",
+"official",
+"state"
+],
+"antonyms": [
+"private"
+]
+},
+"understand": {
+"gloss": "理解，明白；了解；获悉，听说",
+"trap": "I understand that… 常是“据我所知/听说”",
+"root": null,
+"confusable": [],
+"synonyms": [
+"comprehend",
+"grasp",
+"realize",
+"gather"
+],
+"antonyms": [
+"misunderstand"
+]
+},
+"require": {
+"gloss": "需要；要求，规定",
+"trap": "be required to 是“被要求、必须”；require 常表客观需要",
+"root": {
+"key": "quer",
+"meaning": "寻求",
+"match": "quir"
+},
+"confusable": [
+"acquire",
+"inquire"
+],
+"synonyms": [
+"need",
+"demand",
+"call for",
+"necessitate"
+],
+"antonyms": []
+},
+"read": {
+"gloss": "阅读；读懂，理解；(仪表)显示；(英)攻读",
+"trap": "过去式/过去分词拼写不变但读 /red/；read law 是“攻读法律”",
+"root": null,
+"confusable": [
+"reed",
+"red"
+],
+"synonyms": [
+"peruse",
+"interpret",
+"study"
+],
+"antonyms": []
+},
+"watch": {
+"gloss": "观看，注视；留意，小心；看守；n. 手表；监视，值班",
+"trap": "watch out 是“小心”；watch 强调持续注视，see 是看到",
+"root": null,
+"confusable": [
+"witch",
+"wash"
+],
+"synonyms": [
+"observe",
+"look at",
+"monitor",
+"guard"
+],
+"antonyms": []
+},
+"period": {
+"gloss": "时期，一段时间；课时；句号(美)；月经；周期；地质纪",
+"trap": "美式 period 是句号(英 full stop)；句尾表“就这样”",
+"root": null,
+"confusable": [],
+"synonyms": [
+"era",
+"phase",
+"spell",
+"interval",
+"cycle"
+],
+"antonyms": []
+},
+"figure": {
+"gloss": "数字；人物；身材；图表；v. 认为，估计",
+"trap": "figure out 是“弄清”；figure 常指“数字/人物”而非“图形”",
+"root": {
+"key": "fig",
+"meaning": "塑造",
+"match": "fig"
+},
+"confusable": [],
+"synonyms": [
+"number",
+"digit",
+"statistic",
+"personage",
+"shape"
+],
+"antonyms": []
+},
+"society": {
+"gloss": "社会；社团，协会；上流社会；交往",
+"trap": "",
+"root": {
+"key": "soci",
+"meaning": "同伴",
+"match": "soci"
+},
+"confusable": [],
+"synonyms": [
+"community",
+"association",
+"club",
+"civilization"
+],
+"antonyms": []
+},
+"centre": {
+"gloss": "中心，中央；中心机构；v. 集中于(centre on)",
+"trap": "英式 centre = 美式 center；centre on 以…为中心",
+"root": {
+"key": "centr",
+"meaning": "中心",
+"match": "centr"
+},
+"confusable": [],
+"synonyms": [
+"middle",
+"core",
+"hub",
+"heart"
+],
+"antonyms": [
+"edge",
+"periphery"
+]
+},
+"parent": {
+"gloss": "父母(一方)；母公司；(动植物)亲本",
+"trap": "parent 是父或母之一，父母双方用 parents",
+"root": {
+"key": "par",
+"meaning": "生/出现",
+"match": "par"
+},
+"confusable": [
+"patent",
+"apparent"
+],
+"synonyms": [
+"father",
+"mother",
+"guardian"
+],
+"antonyms": [
+"child",
+"offspring"
+]
+},
+"police": {
+"gloss": "警察，警方(集合名词)；v. 维持治安；监督管理",
+"trap": "the police 是复数：The police are…",
+"root": {
+"key": "poli",
+"meaning": "城邦",
+"match": "poli"
+},
+"confusable": [
+"policy",
+"polite",
+"polish"
+],
+"synonyms": [
+"constabulary",
+"law enforcement",
+"patrol"
+],
+"antonyms": []
+},
+"stop": {
+"gloss": "停止；阻止；停留；n. 车站，停靠站；停顿；(英)句号",
+"trap": "stop doing 停止做；stop to do 停下来去做",
+"root": null,
+"confusable": [
+"stoop",
+"step"
+],
+"synonyms": [
+"cease",
+"halt",
+"quit",
+"prevent"
+],
+"antonyms": [
+"start",
+"continue",
+"go"
+]
+},
+"add": {
+"gloss": "加，增加；补充说；add up 合计，(否定)说得通",
+"trap": "It doesn't add up 是“说不通”；add to 增加、增添",
+"root": null,
+"confusable": [
+"aid",
+"ad"
+],
+"synonyms": [
+"include",
+"append",
+"sum",
+"total"
+],
+"antonyms": [
+"subtract",
+"remove"
+]
+},
+"create": {
+"gloss": "创造，创建；引起，造成",
+"trap": "",
+"root": {
+"key": "cre",
+"meaning": "产生/生长",
+"match": "cre"
+},
+"confusable": [
+"crate"
+],
+"synonyms": [
+"make",
+"produce",
+"generate",
+"establish"
+],
+"antonyms": [
+"destroy"
+]
+},
+"fall": {
+"gloss": "落下，跌倒；下降；垮台；n. 秋天(美)；瀑布(falls)",
+"trap": "美式 fall 指“秋天”；fall for 上当/爱上",
+"root": null,
+"confusable": [
+"fell",
+"fail",
+"fill"
+],
+"synonyms": [
+"drop",
+"decline",
+"decrease",
+"collapse",
+"tumble"
+],
+"antonyms": [
+"rise",
+"climb"
+]
+},
+"probably": {
+"gloss": "很可能，大概",
+"trap": "",
+"root": {
+"key": "prob",
+"meaning": "检验/证明",
+"match": "prob"
+},
+"confusable": [
+"properly"
+],
+"synonyms": [
+"likely",
+"presumably",
+"doubtless"
+],
+"antonyms": []
+},
+"available": {
+"gloss": "可获得的，可用的；有空的；(信息)可得到的",
+"trap": "也指人“有空”：Are you available at 3?",
+"root": {
+"key": "val",
+"meaning": "强/价值",
+"match": "vail"
+},
+"confusable": [
+"valuable"
+],
+"synonyms": [
+"accessible",
+"obtainable",
+"free",
+"on hand"
+],
+"antonyms": [
+"unavailable",
+"occupied"
+]
+},
+"speak": {
+"gloss": "说话，讲；发言，演讲；会说(某语言)；speak of 谈到",
+"trap": "speak 侧重开口说/演讲，say 侧重说的内容，talk 侧重交谈",
+"root": null,
+"confusable": [],
+"synonyms": [
+"talk",
+"say",
+"utter",
+"address"
+],
+"antonyms": []
+},
+"price": {
+"gloss": "价格；代价；v. 定价；估价",
+"trap": "at a price 付出很大代价；price 价格 vs prize 奖品",
+"root": null,
+"confusable": [
+"prize",
+"prise"
+],
+"synonyms": [
+"cost",
+"charge",
+"fee",
+"value"
+],
+"antonyms": []
+},
+"control": {
+"gloss": "控制，支配；管理，管制；(实验)对照组；控制装置",
+"trap": "对照组是 control group；out of control 失控",
+"root": null,
+"confusable": [],
+"synonyms": [
+"manage",
+"regulate",
+"command",
+"restrain",
+"govern"
+],
+"antonyms": []
+},
+"action": {
+"gloss": "行动，行为；作用；(法律)诉讼；(影片)动作；战斗",
+"trap": "take action 采取行动；bring an action 起诉",
+"root": {
+"key": "act",
+"meaning": "做",
+"match": "act"
+},
+"confusable": [
+"auction"
+],
+"synonyms": [
+"act",
+"deed",
+"move",
+"measure",
+"lawsuit"
+],
+"antonyms": [
+"inaction"
+]
+},
+"cost": {
+"gloss": "费用，成本；代价；v. 花费；使付出(代价)；估算成本",
+"trap": "过去式 cost 不变，“估算成本”义用 costed",
+"root": null,
+"confusable": [
+"coast",
+"cast"
+],
+"synonyms": [
+"price",
+"expense",
+"charge",
+"expenditure"
+],
+"antonyms": []
+},
+"spend": {
+"gloss": "花(钱)；度过(时间)；消耗；花费(精力)",
+"trap": "可接时间：spend hours doing；金额用 spend … on",
+"root": {
+"key": "pend",
+"meaning": "悬挂/称重",
+"match": "pend"
+},
+"confusable": [],
+"synonyms": [
+"pay",
+"expend",
+"use",
+"pass"
+],
+"antonyms": [
+"save",
+"earn"
+]
+},
+"process": {
+"gloss": "过程，进程；工序，流程；v. 处理，加工；(计)进程",
+"trap": "in the process of 正在…；也指处理数据/申请，不只“加工”",
+"root": {
+"key": "ced",
+"meaning": "走",
+"match": "cess"
+},
+"confusable": [
+"proceeds"
+],
+"synonyms": [
+"procedure",
+"method",
+"operation",
+"handle",
+"treat"
+],
+"antonyms": []
+},
+"health": {
+"gloss": "健康；(社会/经济)状况；医疗，卫生",
+"trap": "public health 公共卫生；health care 医疗",
+"root": null,
+"confusable": [
+"heath",
+"wealth"
+],
+"synonyms": [
+"wellbeing",
+"fitness",
+"wellness"
+],
+"antonyms": [
+"illness",
+"sickness",
+"disease"
+]
+},
+"remain": {
+"gloss": "仍然是，保持；剩下，留下；留在(某地)；(pl.)遗迹，遗体",
+"trap": "remains 是“遗迹、遗骸”；remains to be seen 尚待观察",
+"root": null,
+"confusable": [
+"remind"
+],
+"synonyms": [
+"stay",
+"continue",
+"persist",
+"endure",
+"be left"
+],
+"antonyms": [
+"leave",
+"depart"
+]
+},
+"position": {
+"gloss": "位置；职位；姿势；处境；立场，观点；地位；v. 安放",
+"trap": "in a position to do 是“能够做”；也指“立场、观点”",
+"root": {
+"key": "pos",
+"meaning": "放置",
+"match": "pos"
+},
+"confusable": [],
+"synonyms": [
+"location",
+"post",
+"stance",
+"status",
+"place"
+],
+"antonyms": []
+},
+"art": {
+"gloss": "艺术，美术；技艺，技巧；(pl.)人文学科",
+"trap": "the arts 文学艺术；state of the art 最先进",
+"root": {
+"key": "art",
+"meaning": "技艺",
+"match": "art"
+},
+"confusable": [],
+"synonyms": [
+"craft",
+"skill",
+"painting"
+],
+"antonyms": [
+"science"
+]
+},
+"remember": {
+"gloss": "记得，想起；记住；代…问候(remember me to)",
+"trap": "remember to do 记得去做(未做)；doing 记得做过",
+"root": {
+"key": "mem",
+"meaning": "记忆",
+"match": "mem"
+},
+"confusable": [],
+"synonyms": [
+"recall",
+"recollect",
+"retain",
+"memorize"
+],
+"antonyms": [
+"forget"
+]
+},
+"course": {
+"gloss": "课程；过程，进程；路线，航向；一道菜；球场",
+"trap": "in the course of 在…过程中；vs coarse 粗糙的",
+"root": {
+"key": "cur",
+"meaning": "跑",
+"match": "cour"
+},
+"confusable": [
+"coarse",
+"curse"
+],
+"synonyms": [
+"class",
+"route",
+"path",
+"direction",
+"progression"
+],
+"antonyms": []
+},
+"sure": {
+"gloss": "确定的，肯定的；有把握的；可靠的；adv. 当然，确实",
+"trap": "sure 是 secure 的缩略；make sure 确保",
+"root": null,
+"confusable": [
+"shore"
+],
+"synonyms": [
+"certain",
+"confident",
+"positive",
+"definite"
+],
+"antonyms": [
+"unsure",
+"uncertain",
+"doubtful"
+]
+},
+"history": {
+"gloss": "历史；历史学；经历，过去；病史；(计)浏览记录",
+"trap": "也指个人“经历/病史”；ancient history 口语指“早过去的事”",
+"root": {
+"key": "histor",
+"meaning": "探究/知道",
+"match": "histor"
+},
+"confusable": [
+"story"
+],
+"synonyms": [
+"past",
+"record",
+"chronicle",
+"background"
+],
+"antonyms": []
+},
+"buy": {
+"gloss": "买，购买；(口)相信，接受；n. 买到的东西",
+"trap": "口语 I don't buy it 是“我不信”；buy time 拖延时间",
+"root": null,
+"confusable": [
+"bye",
+"by"
+],
+"synonyms": [
+"purchase",
+"acquire",
+"obtain"
+],
+"antonyms": [
+"sell"
+]
+},
+"education": {
+"gloss": "教育；教育学；学历；培养",
+"trap": "",
+"root": {
+"key": "duc",
+"meaning": "引导",
+"match": "duc"
+},
+"confusable": [],
+"synonyms": [
+"schooling",
+"teaching",
+"learning",
+"training",
+"instruction"
+],
+"antonyms": []
+},
+"grow": {
+"gloss": "生长；增长，扩大；种植；逐渐变得(grow old)",
+"trap": "grow + 形容词表“逐渐变得”：grow tired",
+"root": null,
+"confusable": [
+"glow"
+],
+"synonyms": [
+"increase",
+"expand",
+"develop",
+"cultivate",
+"mature"
+],
+"antonyms": [
+"shrink",
+"decline",
+"decrease"
+]
+},
+"actually": {
+"gloss": "实际上，事实上；(表纠正或惊讶)其实，竟然",
+"trap": "不是“现在、目前”(法语 actuellement 之意)；常用于委婉纠正",
+"root": {
+"key": "act",
+"meaning": "做",
+"match": "act"
+},
+"confusable": [],
+"synonyms": [
+"really",
+"in fact",
+"truly",
+"indeed"
+],
+"antonyms": []
+},
+"open": {
+"gloss": "开着的；开放的；公开的；坦率的；未决的；v. 打开；开始",
+"trap": "open to 易受…/对…开放；open question 待定问题",
+"root": null,
+"confusable": [],
+"synonyms": [
+"unlocked",
+"accessible",
+"frank",
+"public",
+"launch"
+],
+"antonyms": [
+"closed",
+"shut",
+"secret"
+]
+},
+"type": {
+"gloss": "类型，种类；典型；印刷字体；v. 打字；分型",
+"trap": "也是印刷“字体、铅字”(typeface)；typo 是打字错误",
+"root": {
+"key": "typ",
+"meaning": "印记/模型",
+"match": "typ"
+},
+"confusable": [
+"tape"
+],
+"synonyms": [
+"kind",
+"sort",
+"category",
+"class",
+"variety"
+],
+"antonyms": []
+},
+"morning": {
+"gloss": "早晨，上午",
+"trap": "morning 早晨 vs mourning 哀悼(同音)",
+"root": null,
+"confusable": [
+"mourning"
+],
+"synonyms": [
+"dawn",
+"forenoon"
+],
+"antonyms": [
+"evening",
+"night"
+]
+},
+"research": {
+"gloss": "研究，调查；v. 研究，探究",
+"trap": "不可数名词：a piece of research，可数用 studies",
+"root": null,
+"confusable": [
+"resource"
+],
+"synonyms": [
+"study",
+"investigation",
+"inquiry",
+"experiment"
+],
+"antonyms": []
+},
+"subject": {
+"gloss": "主题；科目；主语；受试者；臣民；subject to 受制于",
+"trap": "subject to 须经…/易受…/受…支配；动词读 /səbˈdʒekt/",
+"root": {
+"key": "ject",
+"meaning": "投掷",
+"match": "ject"
+},
+"confusable": [
+"object"
+],
+"synonyms": [
+"topic",
+"theme",
+"discipline",
+"course",
+"participant"
+],
+"antonyms": []
+},
+"walk": {
+"gloss": "走，步行；遛(狗)；n. 散步；步行路程；行业",
+"trap": "a five-minute walk 步行五分钟的路程",
+"root": null,
+"confusable": [
+"wake",
+"work"
+],
+"synonyms": [
+"stroll",
+"march",
+"stride",
+"hike",
+"step"
+],
+"antonyms": [
+"run",
+"ride"
+]
+},
+"programme": {
+"gloss": "节目；计划，方案；课程，项目；v. 编排；(英式拼写)",
+"trap": "英式拼法；但计算机“程序/编程”即使在英国也拼 program",
+"root": {
+"key": "graph",
+"meaning": "写",
+"match": "gram"
+},
+"confusable": [],
+"synonyms": [
+"schedule",
+"plan",
+"scheme",
+"show",
+"broadcast"
+],
+"antonyms": []
+},
+"moment": {
+"gloss": "片刻，瞬间；时刻；重要性(of moment)；(物理)力矩",
+"trap": "at the moment 是“目前”；of moment 是“重要的”",
+"root": null,
+"confusable": [
+"momentum",
+"momentous"
+],
+"synonyms": [
+"instant",
+"second",
+"minute",
+"point",
+"juncture"
+],
+"antonyms": []
+},
+"win": {
+"gloss": "赢得，获胜；n. 胜利；win over 说服，争取",
+"trap": "win 接比赛/奖品，beat 接对手",
+"root": null,
+"confusable": [
+"wine",
+"wind",
+"whine"
+],
+"synonyms": [
+"triumph",
+"succeed",
+"gain",
+"earn",
+"prevail"
+],
+"antonyms": [
+"lose"
+]
+},
+"girl": {
+"gloss": "女孩；女儿；(口)姑娘，年轻女子",
+"trap": "",
+"root": null,
+"confusable": [
+"grill"
+],
+"synonyms": [
+"lass",
+"daughter",
+"young woman"
+],
+"antonyms": [
+"boy"
+]
+},
+"age": {
+"gloss": "年龄；时代，时期；老年；v. 变老，(使)老化；(酒)陈化",
+"trap": "come of age 成年；for ages 很久；ageing 老龄化",
+"root": null,
+"confusable": [
+"edge"
+],
+"synonyms": [
+"era",
+"epoch",
+"period",
+"lifetime",
+"mature"
+],
+"antonyms": [
+"youth"
+]
+},
+"guy": {
+"gloss": "(口)家伙，男人；(pl.)各位(不分性别)；拉索，牵索",
+"trap": "源自 Guy Fawkes 的丑陋人偶→“家伙”；you guys 可指男女",
+"root": null,
+"confusable": [
+"gay"
+],
+"synonyms": [
+"man",
+"fellow",
+"bloke",
+"chap"
+],
+"antonyms": []
+},
+"food": {
+"gloss": "食物，食品；养料；food for thought 发人深省",
+"trap": "",
+"root": null,
+"confusable": [
+"foot",
+"fool"
+],
+"synonyms": [
+"nourishment",
+"nutrition",
+"diet",
+"cuisine",
+"fare"
+],
+"antonyms": []
+},
+"send": {
+"gloss": "发送，寄；派遣；使进入(某状态)；(俚)使兴奋",
+"trap": "send for 派人去请；send sb into a panic 使陷入恐慌",
+"root": null,
+"confusable": [
+"sand",
+"spend"
+],
+"synonyms": [
+"dispatch",
+"transmit",
+"post",
+"mail",
+"forward"
+],
+"antonyms": [
+"receive"
+]
+},
+"value": {
+"gloss": "价值；(pl.)价值观；重要性；数值；v. 重视；估价",
+"trap": "values 复数指“价值观”；face value 面值",
+"root": {
+"key": "val",
+"meaning": "强/价值",
+"match": "val"
+},
+"confusable": [
+"valve"
+],
+"synonyms": [
+"worth",
+"merit",
+"importance",
+"appreciate",
+"assess"
+],
+"antonyms": []
+},
+"order": {
+"gloss": "顺序；秩序；命令；订单，点菜；v. 命令；订购",
+"trap": "in order 有序/合规；out of order 故障",
+"root": {
+"key": "ord",
+"meaning": "秩序",
+"match": "ord"
+},
+"confusable": [
+"ordeal"
+],
+"synonyms": [
+"sequence",
+"command",
+"instruction",
+"request",
+"arrangement"
+],
+"antonyms": [
+"chaos",
+"disorder"
+]
+},
+"force": {
+"gloss": "力，力量；武力；军队(forces)；v. 强迫；用力推",
+"trap": "in force 生效/大批；force 强迫 vs enforce 执行",
+"root": {
+"key": "fort",
+"meaning": "强",
+"match": "for"
+},
+"confusable": [
+"forge",
+"farce"
+],
+"synonyms": [
+"strength",
+"power",
+"compel",
+"coerce",
+"oblige"
+],
+"antonyms": [
+"weakness"
+]
+},
+"air": {
+"gloss": "空气；天空；神态；v. 播出；晾晒；公开表达",
+"trap": "on air 直播中；air one's views 公开发表意见",
+"root": null,
+"confusable": [
+"heir",
+"err"
+],
+"synonyms": [
+"atmosphere",
+"sky",
+"manner",
+"broadcast",
+"ventilate"
+],
+"antonyms": []
+},
+"matter": {
+"gloss": "事情，问题；物质；重要性；v. 要紧，有关系",
+"trap": "What's the matter? 怎么了；no matter 不管",
+"root": {
+"key": "mater",
+"meaning": "母",
+"match": "mat"
+},
+"confusable": [],
+"synonyms": [
+"affair",
+"issue",
+"substance",
+"material",
+"count"
+],
+"antonyms": []
+}
+}

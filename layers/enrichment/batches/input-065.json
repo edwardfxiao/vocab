@@ -1,0 +1,602 @@
+[
+{
+"word": "wrinkle",
+"pos": "n/vi/vt",
+"zh": "n. 皱纹, 妙计, 方法, 技巧 / vi. 起皱 / vt. 使起皱纹",
+"en": "n. a slight depression in the smoothness of a surface / n. a minor difficulty / n. a clever method of doing something (e…"
+},
+{
+"word": "barley",
+"pos": "n",
+"zh": "n. 大麦 / [医] 大麦",
+"en": "n. a grain of barley / n. cultivated since prehistoric times; grown for forage and grain"
+},
+{
+"word": "compute",
+"pos": "v/n",
+"zh": "v. 计算, 估算 / n. 计算, 估算",
+"en": "v make a mathematical calculation or computation"
+},
+{
+"word": "handwriting",
+"pos": "n",
+"zh": "n. 笔迹",
+"en": "n. something written by hand / n. the activity of writing by hand"
+},
+{
+"word": "comprehension",
+"pos": "n",
+"zh": "n. 理解, 包含",
+"en": "n. an ability to understand the meaning or importance of something (or the knowledge acquired as a result)"
+},
+{
+"word": "glamorous",
+"pos": "a",
+"zh": "a. 富有魅力的, 迷人的",
+"en": "s. having an air of allure, romance and excitement"
+},
+{
+"word": "aspire",
+"pos": "vi",
+"zh": "vi. 渴望, 立志于",
+"en": "v have an ambitious plan or a lofty goal"
+},
+{
+"word": "aspirin",
+"pos": "n",
+"zh": "n. 阿斯匹林 / [化] 乙酰水杨酸; 阿司匹灵; 邻乙酸基苯甲酸",
+"en": "n. the acetylated derivative of salicylic acid; used as an analgesic anti-inflammatory drug (trade names Bayer, Empirin,…"
+},
+{
+"word": "walnut",
+"pos": "n",
+"zh": "n. 胡桃 / [机] 胡桃木",
+"en": "n. nut of any of various walnut trees having a wrinkled two-lobed seed with a hard shell / n. hard dark-brown wood of an…"
+},
+{
+"word": "bluff",
+"pos": "n/a/v",
+"zh": "n. 断崖, 绝壁, 吓唬 / a. 直率的 / v. 吓唬, 欺骗",
+"en": "n. a high steep bank (usually formed by river erosion) / n. pretense that your position is stronger than it really is / …"
+},
+{
+"word": "flare",
+"pos": "n/vi/vt",
+"zh": "n. 闪光, 闪耀 / vi. 闪光, 闪耀 / vt. 用发光信号发出, 使闪耀, 使张开",
+"en": "n. a shape that spreads outward / n. a sudden burst of flame / n. a burst of light used to communicate or illuminate / n…"
+},
+{
+"word": "dye",
+"pos": "n/vt/vi",
+"zh": "n. 颜料, 染料 / vt. 染, 染色 / vi. 被着色",
+"en": "n. a usually soluble substance for staining or coloring e.g. fabrics or hair / v. color with dye"
+},
+{
+"word": "nickel",
+"pos": "n/vt",
+"zh": "n. 镍, 镍币, 五分镍币 / vt. 镀镍于",
+"en": "n. a hard malleable ductile silvery metallic element that is resistant to corrosion; used in alloys; occurs in pentlandi…"
+},
+{
+"word": "geometry",
+"pos": "n",
+"zh": "n. 几何学 / [机] 几何学",
+"en": "n. the pure mathematics of points and lines and curves and surfaces"
+},
+{
+"word": "universally",
+"pos": "adv",
+"zh": "adv. 宇宙, 全世界, 普遍, 一般, 普通, 全体, 一致, 通用, 万能, 广用, 广泛",
+"en": "r. everywhere"
+},
+{
+"word": "overt",
+"pos": "a",
+"zh": "a. 明显的, 公然的, 蓄意的 / [法] 明显的, 公开的",
+"en": "a. open and observable; not secret or hidden"
+},
+{
+"word": "knob",
+"pos": "n/vt/vi",
+"zh": "n. 把手, 瘤, 旋钮, 球形突出物 / vt. 使有球形突出物 / vi. 鼓起",
+"en": "n. a circular rounded projection or protuberance / n. a round handle / n. an ornament in the shape of a ball on the hilt…"
+},
+{
+"word": "confide",
+"pos": "vt/vi",
+"zh": "vt. 吐露, 委托 / vi. 信赖",
+"en": "v. reveal in private; tell confidentially"
+},
+{
+"word": "squat",
+"pos": "n/a/vi/vt",
+"zh": "n. 蹲, 窝 / a. 蹲着的, 矮胖的 / vi. 蹲下, 蹲坐, 蹲伏 / vt. 使蹲下, 擅自占有",
+"en": "n. the act of assuming or maintaining a crouching position with the knees bent and the buttocks near the heels / v. sit …"
+},
+{
+"word": "cardboard",
+"pos": "n",
+"zh": "n. 薄纸板 / [化] 咭纸; 特等纸板; 卡纸板; 卡片纸板",
+"en": "n. a stiff moderately thick paper / s. without substance"
+},
+{
+"word": "glacier",
+"pos": "n",
+"zh": "n. 冰川",
+"en": "n. a slowly moving mass of ice"
+},
+{
+"word": "simultaneous",
+"pos": "a",
+"zh": "a. 同时的, 同时发生的 / [计] 同时的",
+"en": "s occurring or operating at the same time"
+},
+{
+"word": "picturesque",
+"pos": "a",
+"zh": "a. 生动的, 如画的, 独特的, 别致的, 栩栩如生的",
+"en": "s. suggesting or suitable for a picture; pretty as a picture / s. strikingly expressive"
+},
+{
+"word": "yoga",
+"pos": "n",
+"zh": "n. 瑜珈",
+"en": "n. Hindu discipline aimed at training the consciousness for a state of perfect spiritual insight and tranquility that is…"
+},
+{
+"word": "extraction",
+"pos": "n",
+"zh": "n. 抽出, 取出, 拔出术, 抽出物 / [化] 萃取; 提取",
+"en": "n. the process of obtaining something from a mixture or compound by chemical or physical or mechanical means / n. the ac…"
+},
+{
+"word": "abstraction",
+"pos": "n",
+"zh": "n. 抽象化, 心不在焉, 空想, 提炼, 抽象派作品 / [化] 提取; 抽取; 夺取; 夺取反应; 除去",
+"en": "n. a concept or idea not associated with any specific instance / n. the act of withdrawing or removing something / n. th…"
+},
+{
+"word": "akin",
+"pos": "a",
+"zh": "a. 同类的, 同族的, 同源的",
+"en": "s. similar in quality or character / s. related by blood"
+},
+{
+"word": "evaporate",
+"pos": "vi/vt",
+"zh": "vi. 蒸发, 失去水分, 消失 / vt. 使蒸发, 使脱水, 使消失",
+"en": "v. lose or cause to lose liquid by vaporization leaving a more concentrated residue / v. cause to change into a vapor / …"
+},
+{
+"word": "genesis",
+"pos": "n",
+"zh": "n. 发生, 起源, 创世记 / [医] 生殖, 发生",
+"en": "n. a coming into being / n. the first book of the Old Testament: tells of Creation; Adam and Eve; the Fall of Man; Cain …"
+},
+{
+"word": "succumb",
+"pos": "vi",
+"zh": "vi. 屈从, 屈服, 死",
+"en": "v. be fatally overwhelmed"
+},
+{
+"word": "seasoned",
+"pos": "a",
+"zh": "a. 经验丰富的, 老练的",
+"en": "a. aged or processed / s. rendered competent through trial and experience"
+},
+{
+"word": "simulate",
+"pos": "vt",
+"zh": "vt. 模拟, 假装, 模仿 / [法] 伪装的, 模拟的; 假装的, 伪装的, 冒充",
+"en": "v. make a pretence of"
+},
+{
+"word": "stature",
+"pos": "n",
+"zh": "n. 身材, 身高, 高度 / [医] 身材, 身高",
+"en": "n. high level of respect gained by impressive development or achievement / n. (of a standing person) the distance from h…"
+},
+{
+"word": "optimum",
+"pos": "n/a",
+"zh": "n. 最适条件, 最佳效果 / a. 最优的, 最适宜的",
+"en": "n. most favorable conditions or greatest degree or amount possible under given circumstances / s. most desirable possibl…"
+},
+{
+"word": "volleyball",
+"pos": "n",
+"zh": "n. 排球",
+"en": "n. a game in which two teams hit an inflated ball over a high net using their hands / n. an inflated ball used in playin…"
+},
+{
+"word": "intrigue",
+"pos": "n/vi/vt",
+"zh": "n. 阴谋, 复杂的事 / vi. 密谋, 私通 / vt. 激起...的兴趣, 用诡计取得",
+"en": "n. a crafty and involved plot to achieve your (usually sinister) ends / n. a clandestine love affair / v. cause to be in…"
+},
+{
+"word": "alignment",
+"pos": "n",
+"zh": "n. 队列, 结盟, 校正 / [计] 校准; 对齐; 对准",
+"en": "n. the spatial property possessed by an arrangement or position of things in a straight line or in parallel lines / n. t…"
+},
+{
+"word": "cot",
+"pos": "n",
+"zh": "n. 行军床, 小屋, (家畜等的)棚, (家畜等的)栏 / [医] 指套; 小床",
+"en": "n. a small bed that folds up for storage or transport"
+},
+{
+"word": "chestnut",
+"pos": "n/a",
+"zh": "n. 栗子, 栗树, 栗色 / a. 栗色的",
+"en": "n. wood of any of various chestnut trees of the genus Castanea / n. any of several attractive deciduous trees yellow-bro…"
+},
+{
+"word": "wink",
+"pos": "n/vi/vt",
+"zh": "n. 眨眼, 使眼色, 瞬间 / vi. 眨眼, 使眼色, 闪烁 / vt. 眨",
+"en": "n. closing one eye quickly as a signal / v. signal by winking / v. force to go away by blinking"
+},
+{
+"word": "anomaly",
+"pos": "n",
+"zh": "n. 不规则, 反常事物, 畸形 / [医] 异常, 反常",
+"en": "n. deviation from the normal or common order or form or rule / n. a person who is unusual / n. (astronomy) position of a…"
+},
+{
+"word": "stellar",
+"pos": "a",
+"zh": "a. 星的, 似星的, 星球的, 主要的",
+"en": "a. being or relating to or resembling or emanating from stars"
+},
+{
+"word": "intuition",
+"pos": "n",
+"zh": "n. 直觉, 直觉的知识",
+"en": "n. instinctive knowing (without the use of rational processes) / n. an impression that something might be the case"
+},
+{
+"word": "roundabout",
+"pos": "a/n",
+"zh": "a. 迂回的, 委婉的 / n. 迂回路线",
+"en": "n a road junction at which traffic streams circularly around a central island / n a large, rotating machine with seats f…"
+},
+{
+"word": "regimen",
+"pos": "n",
+"zh": "n. 养生法, 常规强化训练课, 体制, 情态 / [医] 制度, 生活制度",
+"en": "n. (medicine) a systematic plan for therapy (often including diet)"
+},
+{
+"word": "cancellation",
+"pos": "n",
+"zh": "n. 取消, 作废, 注销戳 / [经] 注销, 取消, 保险单的注销",
+"en": "n. the act of cancelling; calling off some arrangement / n. the speech act of revoking or annulling or making void"
+},
+{
+"word": "astonishment",
+"pos": "n",
+"zh": "n. 惊异, 惊愕, 使人惊异的事物",
+"en": "n. the feeling that accompanies something extremely surprising"
+},
+{
+"word": "catalyst",
+"pos": "n",
+"zh": "n. 触媒, 接触剂, 催化剂, 刺激因素, 促进因素 / [计] 催化剂",
+"en": "n. (chemistry) a substance that initiates or accelerates a chemical reaction without itself being affected / n. somethin…"
+},
+{
+"word": "contour",
+"pos": "n/vt/a",
+"zh": "n. 轮廓 / vt. 画轮廓 / a. 显示轮廓的 / [计] 轮廓",
+"en": "n. a line drawn on a map connecting points of equal height / n. a feature (or the order or arrangement of features) of a…"
+},
+{
+"word": "hamlet",
+"pos": "n",
+"zh": "n. 小村, 部落",
+"en": "n. a community of people smaller than a village / n. the hero of William Shakespeare's tragedy who hoped to avenge the m…"
+},
+{
+"word": "hairdresser",
+"pos": "n",
+"zh": "n. 美发师, 理发师",
+"en": "n. someone who cuts or beautifies hair"
+},
+{
+"word": "gland",
+"pos": "n",
+"zh": "n. 腺, 密封套 / [化] 衬片; 密封垫",
+"en": "n. any of various organs that synthesize substances needed by the body and release it through ducts or directly into the…"
+},
+{
+"word": "ordinance",
+"pos": "n",
+"zh": "n. 法令, 条例, 圣餐礼 / [经] 法令, 条款, 条例",
+"en": "n. a statute enacted by a city government"
+},
+{
+"word": "chronicle",
+"pos": "n/vt",
+"zh": "n. 年代记, 记录, 编年史 / vt. 把...载入编年史",
+"en": "v. record in chronological order; make a historical record"
+},
+{
+"word": "grease",
+"pos": "n/vt",
+"zh": "n. 脂肪, 兽脂, 油脂, 贿赂 / vt. 涂脂于, 贿赂",
+"en": "n. a thick fatty oil (especially one used to lubricate machinery) / v. lubricate with grease"
+},
+{
+"word": "tonic",
+"pos": "n/a",
+"zh": "n. 补药, (音乐)主调音或基音 / a. 滋补的, 声调的, 使精神振作的",
+"en": "n. lime- or lemon-flavored carbonated water containing quinine / n. (music) the first note of a diatonic scale / n. a me…"
+},
+{
+"word": "honeymoon",
+"pos": "n/vi",
+"zh": "n. 蜜月, 蜜月假期 / vi. 渡蜜月",
+"en": "n. a holiday taken by a newly married couple / n. the early (usually calm and harmonious) period of a relationship; busi…"
+},
+{
+"word": "hawk",
+"pos": "n/vi/vt",
+"zh": "n. 鹰, 掠夺者, 鹰派成员 / vi. 放鹰行猎, 像鹰一般地袭击, 清嗓, 咳嗽 / vt. 捕捉, 咳出, 兜售, 叫卖, 散播",
+"en": "n. diurnal bird of prey typically having short rounded wings and a long tail / n. an advocate of an aggressive policy on…"
+},
+{
+"word": "inward",
+"pos": "a",
+"zh": "a. 内心的, 向内的, 本来的 / [医] 向内的",
+"en": "a. relating to or existing in the mind or thoughts / r. toward the center or interior"
+},
+{
+"word": "cutter",
+"pos": "n",
+"zh": "n. 裁剪者, 切割者, 切割器 / [化] 刀具; 剪切机; 切刀; 切胶机",
+"en": "n. someone who carves the meat / n. someone whose work is cutting (as e.g. cutting cloth for garments) / n. a sailing ve…"
+},
+{
+"word": "commemorate",
+"pos": "vt",
+"zh": "vt. 纪念",
+"en": "v. mark by some ceremony or observation / v. call to remembrance; keep alive the memory of someone or something, as in a…"
+},
+{
+"word": "yourselves",
+"pos": "pron",
+"zh": "pron. 你们自己",
+"en": "pl.  of Yourself"
+},
+{
+"word": "resonance",
+"pos": "n",
+"zh": "n. 共鸣, 回声, 反响, 谐振, 共振 / [化] 共振; 共鸣",
+"en": "n. an excited state of a stable particle causing a sharp maximum in the probability of absorption of electromagnetic rad…"
+},
+{
+"word": "paperback",
+"pos": "n",
+"zh": "n. 平装本, 纸面本",
+"en": "s. (of books) having a flexible binding"
+},
+{
+"word": "noodle",
+"pos": "n",
+"zh": "n. 面条, 笨蛋",
+"en": "n. a ribbonlike strip of pasta"
+},
+{
+"word": "deduct",
+"pos": "vt",
+"zh": "vt. 扣除, 减去 / [经] 扣除, 减去, 折扣",
+"en": "v make a subtraction / v retain and refrain from disbursing; of payments / v reason by deduction; establish by deduction"
+},
+{
+"word": "portrayal",
+"pos": "n",
+"zh": "n. 描绘, 描写, 画像, 肖像 / [计] 描绘",
+"en": "n. a word picture of a person's appearance and character / n. acting the part of a character on stage; dramatically repr…"
+},
+{
+"word": "shaky",
+"pos": "a",
+"zh": "a. 震动的, 摇晃的, 动摇的",
+"en": "s. vibrating slightly and irregularly; as e.g. with fear or cold or like the leaves of an aspen in a breeze"
+},
+{
+"word": "durable",
+"pos": "a",
+"zh": "a. 持久的, 耐用的",
+"en": "s. existing for a long time / s. capable of withstanding wear and tear and decay / s. very long lasting"
+},
+{
+"word": "vapour",
+"pos": "n/vi/vt",
+"zh": "n. 汽, 蒸气 / vi. 蒸发, 吹牛 / vt. 使蒸发, 使汽化",
+"en": "n a visible suspension in the air of particles of some substance / n the process of becoming a vapor"
+},
+{
+"word": "industrialized",
+"pos": "a",
+"zh": "a. 工业化的",
+"en": "s. made industrial; converted to industrialism"
+},
+{
+"word": "mantle",
+"pos": "n/vt/vi",
+"zh": "n. 斗篷, 罩子, 披风 / vt. 罩住, 覆盖 / vi. 覆盖, 脸红",
+"en": "n. the cloak as a symbol of authority / n. United States baseball player (1931-1997) / n. the layer of the earth between…"
+},
+{
+"word": "vault",
+"pos": "n/vt/vi",
+"zh": "n. 拱顶, 窖, 地下室, 撑竿跳, 穹窿 / vt. 做成圆拱形, 撑竿跳过 / vi. 成穹状弯曲, 跳跃",
+"en": "n. a burial chamber (usually underground) / n. a strongroom or compartment (often made of steel) for safekeeping of valu…"
+},
+{
+"word": "sift",
+"pos": "vt/vi",
+"zh": "vt. 筛, 过滤, 撒, 详查 / vi. 筛, 被筛下, 精选",
+"en": "v. move as if through a sieve / v. separate by passing through a sieve or other straining device to separate out coarser…"
+},
+{
+"word": "despise",
+"pos": "vt",
+"zh": "vt. 轻视",
+"en": "v look down on with disdain"
+},
+{
+"word": "cock",
+"pos": "n/vt/vi",
+"zh": "n. 公鸡, 雄禽, 龙头, 头目, 锥形小干草堆 / vt. 使耸立, 使竖起, 堆成锥形小干草堆 / vi. 大摇大摆地走, 翘起",
+"en": "n. obscene terms for penis / n. adult male chicken / n. adult male bird / v. tilt or slant to one side"
+},
+{
+"word": "ascribe",
+"pos": "vt",
+"zh": "vt. 归因于, 归咎于 / [法] 归咎于",
+"en": "v attribute or credit to"
+},
+{
+"word": "brightness",
+"pos": "n",
+"zh": "n. 光亮, 明亮, 聪明 / [计] 亮度",
+"en": "n. the location of a visual perception along a continuum from black to white / n. intelligence as manifested in being qu…"
+},
+{
+"word": "martial",
+"pos": "a",
+"zh": "a. 战争的, 军事的, 尚武的, 威武的 / [医] 含铁的",
+"en": "n. Roman poet noted for epigrams (first century BC) / s. of or relating to the armed forces"
+},
+{
+"word": "pastel",
+"pos": "n/a",
+"zh": "n. 粉蜡笔, 粉蜡笔画, 随笔 / a. 彩色蜡笔的, 蜡笔画的, 柔和的, 纤弱的",
+"en": "n. any of various pale or light colors / s. lacking in body or vigor / s. delicate and pale in color"
+},
+{
+"word": "sponge",
+"pos": "n/vt/vi",
+"zh": "n. 海绵, 海绵状的东西 / vt. 用海绵擦拭, 吸收掉, 抹掉 / vi. 采集海绵, 海绵般吸收",
+"en": "n. a porous mass of interlacing fibers that forms the internal skeleton of various marine animals and usable to absorb w…"
+},
+{
+"word": "dropout",
+"pos": "n",
+"zh": "n. 退学学生, 中途退学 / [电] 离去",
+"en": "n. someone who quits school before graduation / n. someone who withdraws from a social group or environment"
+},
+{
+"word": "irresponsible",
+"pos": "a",
+"zh": "a. 不负责任的；不可靠的",
+"en": "a. showing lack of care for consequences"
+},
+{
+"word": "instinctively",
+"pos": "adv",
+"zh": "adv. 本能地, 直觉地",
+"en": "r. as a matter of instinct"
+},
+{
+"word": "jeopardize",
+"pos": "vt",
+"zh": "vt. 危害, 使受危困, 使陷危地",
+"en": "v pose a threat to; present a danger to / v put at risk"
+},
+{
+"word": "neon",
+"pos": "n",
+"zh": "n. 氖 / [化] 氖Ne",
+"en": "n. a colorless odorless gaseous element that give a red glow in a vacuum tube; one of the six inert gasses; occurs in th…"
+},
+{
+"word": "sprout",
+"pos": "n/vt/vi",
+"zh": "n. 芽, 萌芽 / vt. 使发芽, 摘去芽 / vi. 长芽, 抽条",
+"en": "n. any new growth of a plant such as a new branch or a bud / n. a newly grown bud (especially from a germinating seed) /…"
+},
+{
+"word": "spinal",
+"pos": "a",
+"zh": "a. 针的, 尖刺的, 尖刺状突起的, 脊骨的 / [医] 棘折; 脊柱的",
+"en": "a. of or relating to the spine or spinal cord"
+},
+{
+"word": "coil",
+"pos": "n/vt",
+"zh": "n. 线圈, 盘绕, 骚动, 卷 / vt. 盘绕, 卷",
+"en": "n. a structure consisting of something wound in a continuous series of loops / n. a round shape formed by a series of co…"
+},
+{
+"word": "categorize",
+"pos": "vt",
+"zh": "vt. 分类, 归类",
+"en": "v. place into or assign to a category"
+},
+{
+"word": "invalid",
+"pos": "n/a",
+"zh": "n. 病人, 残废者 / a. 有病的, 无效的",
+"en": "n. someone who is incapacitated by a chronic illness or injury / v. force to retire, remove from active duty, as of fire…"
+},
+{
+"word": "heighten",
+"pos": "vt/vi",
+"zh": "vt. 增高, 提高, 加强 / vi. 升高, 变大",
+"en": "v. become more extreme / v. make more extreme; raise in quantity, degree, or intensity / v. increase the height of"
+},
+{
+"word": "latitude",
+"pos": "n",
+"zh": "n. 纬度, 范围 / [化] 宽容度; 伟度",
+"en": "n. the angular distance between an imaginary line around a heavenly body parallel to its equator and the equator itself …"
+},
+{
+"word": "pebble",
+"pos": "n",
+"zh": "n. 小圆石, 小鹅卵石, 水晶透镜, 碎石花纹 / [医] 小石",
+"en": "n. a small smooth rounded rock"
+},
+{
+"word": "expressive",
+"pos": "a",
+"zh": "a. 表达的, 富于表情的",
+"en": "s. characterized by expression"
+},
+{
+"word": "maritime",
+"pos": "a",
+"zh": "a. 海的, 海上的, 海事的, 沿海的, 海员的 / [经] 海事的, 海上的, 海员的",
+"en": "s. bordering on or living or characteristic of those near the sea"
+},
+{
+"word": "ventilation",
+"pos": "n",
+"zh": "n. 通风, 空气流通, 公开讨论 / [医] 通风, 换气",
+"en": "n. the act of supplying fresh air and getting rid of foul air / n. a mechanical system in a building that provides fresh…"
+},
+{
+"word": "yearn",
+"pos": "vi",
+"zh": "vi. 渴望, 想念, 怀念, 同情",
+"en": "v. have affection for; feel tenderness for"
+},
+{
+"word": "creed",
+"pos": "n",
+"zh": "n. 宗教信条, 教义, 纲领",
+"en": "n. any system of principles or beliefs"
+},
+{
+"word": "adorn",
+"pos": "vt",
+"zh": "vt. 装饰, 使生色",
+"en": "v make more attractive by adding ornament, colour, etc. / v be beautiful to look at / v furnish with power or authority;…"
+}
+]

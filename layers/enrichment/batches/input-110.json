@@ -1,0 +1,602 @@
+[
+{
+"word": "geologic",
+"pos": "a",
+"zh": "a. 地质的, 地质学的",
+"en": "a of or relating to or based on geology"
+},
+{
+"word": "frenetic",
+"pos": "a/n",
+"zh": "a. 发狂的, 狂热的 / n. 发狂者",
+"en": "s excessively agitated; distraught with fear or other violent emotion"
+},
+{
+"word": "rampart",
+"pos": "n/vt",
+"zh": "n. 垒, 壁垒, 防御土墙 / vt. 用壁垒围绕, 防卫, 守卫",
+"en": "n. an embankment built around a space for defensive purposes"
+},
+{
+"word": "furtive",
+"pos": "a",
+"zh": "a. 秘密的, 隐密的, 偷偷摸摸的",
+"en": "s. marked by quiet and caution and secrecy; taking pains to avoid being observed"
+},
+{
+"word": "quagmire",
+"pos": "n",
+"zh": "n. 沼泽地, 泥坑, 泥潭, 泥沼, 沼泽, 困境",
+"en": "n a soft wet area of low-lying land that sinks underfoot"
+},
+{
+"word": "waken",
+"pos": "vt/vi",
+"zh": "vt. 唤醒, 使觉醒, 激发 / vi. 觉醒, 醒来",
+"en": "v cause to become awake or conscious / v stop sleeping"
+},
+{
+"word": "dupe",
+"pos": "n/vt",
+"zh": "n. 傻瓜, 易受骗的人 / vt. 欺骗, 愚弄",
+"en": "n a person who is tricked or swindled / v fool or hoax"
+},
+{
+"word": "wispy",
+"pos": "a",
+"zh": "a. 小束状的, 细微的, 飘渺的",
+"en": "s thin and weak / s lacking clarity or distinctness"
+},
+{
+"word": "firefly",
+"pos": "n",
+"zh": "n. 萤火虫",
+"en": "n. tropical American click beetle having bright luminous spots / n. nocturnal beetle common in warm regions having lumin…"
+},
+{
+"word": "barb",
+"pos": "n/vt",
+"zh": "n. 倒钩 / vt. 装倒钩于",
+"en": "n. the pointed part of barbed wire / n. a subsidiary point facing opposite from the main point that makes an arrowhead o…"
+},
+{
+"word": "fondle",
+"pos": "vt/vi",
+"zh": "vt. 爱, 爱抚, 溺爱 / vi. 爱抚",
+"en": "v touch or stroke lightly in a loving or endearing manner"
+},
+{
+"word": "yeoman",
+"pos": "n",
+"zh": "n. 自由民, 自耕农 / [法] 小地主, 自耕农, 自由民",
+"en": "n. officer in the (ceremonial) bodyguard of the British monarch / n. in former times was free and cultivated his own lan…"
+},
+{
+"word": "abject",
+"pos": "a",
+"zh": "a. 绝望无助的, 可怜的, 糟透的, 卑鄙的, 自卑的 / [法] 卑鄙的, 卑下的, 可怜的",
+"en": "s. of the most contemptible kind / s. most unfortunate or miserable / s. showing utter resignation or hopelessness / s. …"
+},
+{
+"word": "accredit",
+"pos": "vt",
+"zh": "vt. 信托, 确认, 归结于, 委派 / [经] 发行信用证, 信托, 委托",
+"en": "v. grant credentials to / v. provide or send (envoys or embassadors) with official credentials / v. ascribe an achieveme…"
+},
+{
+"word": "sledge",
+"pos": "n/vt/vi",
+"zh": "n. 雪橇, 大锤 / vt. 用雪橇搬运 / vi. 坐雪橇",
+"en": "v. transport in a sleigh / v. ride in or travel with a sledge"
+},
+{
+"word": "emissary",
+"pos": "n/a",
+"zh": "n. 密使, 间谍, 使者 / a. 充当密使的, 充当间谍的",
+"en": "n. someone sent on a mission to represent the interests of someone else"
+},
+{
+"word": "trove",
+"pos": "n",
+"zh": "n. 发现物, 收藏品 / [法] 发现物, 收藏物",
+"en": "n treasure of unknown ownership found hidden (usually in the earth)"
+},
+{
+"word": "decadent",
+"pos": "a/n",
+"zh": "a. 衰微的, 颓废的 / n. 颓废派",
+"en": "n. a person who has fallen into a decadent state (morally or artistically) / s. marked by excessive self-indulgence and …"
+},
+{
+"word": "calibration",
+"pos": "n",
+"zh": "n. 口径测定, 刻度, 校准 / [化] 校准",
+"en": "n. the act of checking or adjusting (by comparison with a standard) the accuracy of a measuring instrument"
+},
+{
+"word": "liquidate",
+"pos": "vt/vi",
+"zh": "vt. 偿付, 清算, 扫除, 整理, 变卖, 消灭 / vi. 清算, 清理",
+"en": "v. eliminate by paying off (debts) / v. convert into cash / v. settle the affairs of by determining the debts and applyi…"
+},
+{
+"word": "blanch",
+"pos": "vt/vi",
+"zh": "vt. 漂白, 使变白 / vi. 发白",
+"en": "v. cook (vegetables) briefly"
+},
+{
+"word": "demoralize",
+"pos": "vt",
+"zh": "vt. 使道德败坏, 使堕落, 挫折锐气",
+"en": "v. confuse or put into disorder"
+},
+{
+"word": "environs",
+"pos": "n",
+"zh": "n. 市郊, 郊外",
+"en": "n. an outer adjacent area of any place"
+},
+{
+"word": "lancet",
+"pos": "n",
+"zh": "n. 刺血针, 小枪, 尖顶窗 / [医] 柳叶刀, 小刀",
+"en": "n. a surgical knife with a pointed double-edged blade; used for punctures and small incisions"
+},
+{
+"word": "skit",
+"pos": "n",
+"zh": "n. 讽刺文, 戏文, 小喜剧",
+"en": "n. a short theatrical episode"
+},
+{
+"word": "gore",
+"pos": "n/vt",
+"zh": "n. 流出的血, 淤血, 三角形布 / vt. 把...剪成楔形三角布, 缝以补裆, 刺伤, 抵",
+"en": "n. Vice President of the United States under Bill Clinton (born in 1948) / n. coagulated blood from a wound / n. a piece…"
+},
+{
+"word": "rhubarb",
+"pos": "n",
+"zh": "n. 大黄, 大黄根",
+"en": "n. plants having long green or reddish acidic leafstalks growing in basal clumps; stems (and only the stems) are edible …"
+},
+{
+"word": "totem",
+"pos": "n",
+"zh": "n. 图腾, 标志物, 崇拜物",
+"en": "n. a clan or tribe identified by their kinship to a common totemic object / n. emblem consisting of an object such as an…"
+},
+{
+"word": "mitten",
+"pos": "n",
+"zh": "n. 连指手套, 拳击手套",
+"en": "n. glove that encases the thumb separately and the other four fingers together"
+},
+{
+"word": "destitute",
+"pos": "a",
+"zh": "a. 穷困的, 缺乏的",
+"en": "s. poor enough to need help from others"
+},
+{
+"word": "intoxicate",
+"pos": "vt",
+"zh": "vt. 使陶醉, 使喝醉",
+"en": "v. make drunk (with alcoholic drinks) / v. have an intoxicating effect on, of a drug"
+},
+{
+"word": "anaerobic",
+"pos": "a",
+"zh": "a. 厌氧的, 在缺氧情况下生活的 / [化] 厌氧的",
+"en": "a. living or active in the absence of free oxygen / a. not aerobic"
+},
+{
+"word": "voracious",
+"pos": "a",
+"zh": "a. 贪吃的, 狼吞虎咽的, 贪婪的",
+"en": "s excessively greedy and grasping / s devouring or craving food in great quantities"
+},
+{
+"word": "crescendo",
+"pos": "n",
+"zh": "n. 声音渐强",
+"en": "n. (music) a gradual increase in loudness / v. grow louder / s. gradually increasing in volume"
+},
+{
+"word": "equestrian",
+"pos": "a/n",
+"zh": "a. 骑术的, 马的, 骑在马背上的 / n. 骑手",
+"en": "a. of or relating to or composed of knights / a. of or relating to or featuring horseback riding"
+},
+{
+"word": "embolden",
+"pos": "vt",
+"zh": "vt. 使大胆, 使有胆量",
+"en": "v give encouragement to"
+},
+{
+"word": "dandy",
+"pos": "n/a",
+"zh": "n. 花花公子 / a. 服装浮华的, 极好的",
+"en": "n. a man who is much concerned with his dress and appearance"
+},
+{
+"word": "seclusion",
+"pos": "n",
+"zh": "n. 隔离, 隐退",
+"en": "n. the act of secluding yourself from others"
+},
+{
+"word": "ruddy",
+"pos": "a/v",
+"zh": "a. 红的, 红润的 / v. (使)变红",
+"en": "s inclined to a healthy reddish color often associated with outdoor life / s of a color at the end of the color spectrum…"
+},
+{
+"word": "tangy",
+"pos": "a",
+"zh": "a. 有强烈盐味的, 气味刺鼻的, 有刺激性的",
+"en": "s tasting sour like a lemon"
+},
+{
+"word": "clipper",
+"pos": "n",
+"zh": "n. 大剪刀 / [电] 截割器",
+"en": "n. a fast sailing ship used in former times / n. shears for cutting grass or shrubbery (often used in the plural) / n. s…"
+},
+{
+"word": "opulent",
+"pos": "a",
+"zh": "a. 富裕的, 豪华的, 奢侈的, 丰富的, 大量的",
+"en": "s rich and superior in quality"
+},
+{
+"word": "sapphire",
+"pos": "a/n",
+"zh": "a. 天蓝色的 / n. 蓝宝石, 刚玉宝石, 天蓝色",
+"en": "n. a precious transparent stone of rich blue corundum valued as a gemstone / n. a transparent piece of sapphire that has…"
+},
+{
+"word": "dimple",
+"pos": "n/vt",
+"zh": "n. 酒窝, 涟漪 / vt. 使起涟漪",
+"en": "n. any slight depression in a surface / n. a small natural hollow in the cheek or chin / v. mark with, or as if with, di…"
+},
+{
+"word": "woodpecker",
+"pos": "n",
+"zh": "n. 啄木鸟",
+"en": "n. bird with strong claws and a stiff tail adapted for climbing and a hard chisel-like bill for boring into wood for ins…"
+},
+{
+"word": "croak",
+"pos": "n/vi/vt",
+"zh": "n. 呱呱叫声, 哇哇声 / vi. 呱呱地叫, 发牢骚 / vt. 用嘶哑的声音说",
+"en": "n. a harsh hoarse utterance (as of a frog) / v. utter a hoarse sound, like a raven"
+},
+{
+"word": "sobriety",
+"pos": "n",
+"zh": "n. 节制饮酒, 戒酒, 节制, 一本正经, 庄重",
+"en": "n. moderation in or abstinence from alcohol or other drugs / n. abstaining from excess"
+},
+{
+"word": "televise",
+"pos": "v",
+"zh": "v. 用电视播放, 播映",
+"en": "v broadcast via television"
+},
+{
+"word": "indent",
+"pos": "n/vi/vt",
+"zh": "n. 契约, 订货单, 凹痕 / vi. 切割成锯齿状 / vt. 缩排, 定货, 印凹痕 / [计] 缩进",
+"en": "n. an order for goods to be exported or imported / v. set in from the margin / v. cut or tear along an irregular line so…"
+},
+{
+"word": "occult",
+"pos": "a/v/n",
+"zh": "a. 神秘的, 不可思议的, 超自然的 / v. 掩蔽, 隐藏 / n. 神秘之事, 神秘学",
+"en": "n. supernatural practices and techniques / v. become concealed or hidden from view or have its light extinguished / v. h…"
+},
+{
+"word": "guillotine",
+"pos": "n/vt",
+"zh": "n. 断头台, 截断机, 切除器 / vt. 用断头台斩首, 用截断机切",
+"en": "n. instrument of execution that consists of a weighted blade between two vertical poles; used for beheading people / v. …"
+},
+{
+"word": "woolen",
+"pos": "n/a",
+"zh": "n. 毛制品 / a. 羊毛的, 羊毛制的, 毛织的",
+"en": "a. of or related to or made of wool"
+},
+{
+"word": "outgrowth",
+"pos": "n",
+"zh": "n. 自然的发展, 结果, 副产物, 分枝 / [医] 赘疣",
+"en": "n. a natural consequence of development"
+},
+{
+"word": "paucity",
+"pos": "n",
+"zh": "n. 少数, 少量, 缺乏",
+"en": "n an insufficient quantity or number"
+},
+{
+"word": "sewerage",
+"pos": "n",
+"zh": "n. 排水设备, 污水 / [化] 污水",
+"en": "n waste matter carried away in sewers or drains / n a waste pipe that carries away sewage or surface water"
+},
+{
+"word": "eloquence",
+"pos": "n",
+"zh": "n. 口才, 雄辩术, 雄辩 / [法] 善辩, 口才",
+"en": "n. powerful and effective language"
+},
+{
+"word": "cadaver",
+"pos": "n",
+"zh": "n. 死尸, 尸体 / [医] 尸体",
+"en": "n. the dead body of a human being"
+},
+{
+"word": "careen",
+"pos": "vt/n",
+"zh": "vt. 倾斜, 倾, (为了修理或清洁)使倾侧 / n. 船的倾侧",
+"en": "v. move sideways or in an unsteady way"
+},
+{
+"word": "geyser",
+"pos": "n",
+"zh": "n. 喷泉, 间歇泉",
+"en": "n. a spring that discharges hot water and steam / v. to overflow like a geyser"
+},
+{
+"word": "bridegroom",
+"pos": "n",
+"zh": "n. 新郎",
+"en": "n a man who has recently been married / n a man participant in his own marriage ceremony"
+},
+{
+"word": "abhor",
+"pos": "vt",
+"zh": "vt. 憎恶, 痛恨, 回避, 拒绝",
+"en": "v. find repugnant"
+},
+{
+"word": "leery",
+"pos": "a",
+"zh": "a. 机敏的, 猜疑的, 狡猾的",
+"en": "s. openly distrustful and unwilling to confide"
+},
+{
+"word": "proctor",
+"pos": "n",
+"zh": "n. 代理人, 监考人, 代诉人 / [法] 代理人, 代诉人, 监督人",
+"en": "n. someone who supervises (an examination)"
+},
+{
+"word": "assuage",
+"pos": "vt",
+"zh": "vt. 平息, 缓和, 减轻",
+"en": "v cause to be more favorably inclined; gain the good will of / v satisfy (thirst) / v provide physical relief, as from p…"
+},
+{
+"word": "duress",
+"pos": "n",
+"zh": "n. 强迫, 监禁 / [法] 强迫, 威胁, 监禁",
+"en": "n. compulsory force or threat"
+},
+{
+"word": "glut",
+"pos": "n/vt/vi",
+"zh": "n. 大量, 供过于求 / vt. 使充满, 使吃饱, 过多供应 / vi. 吃得过多, 狼吞虎咽",
+"en": "n. the quality of being so overabundant that prices fall"
+},
+{
+"word": "iridescent",
+"pos": "a",
+"zh": "a. 彩虹色的, 闪光的 / [医] 虹色的, 晕色的",
+"en": "s. having a play of lustrous rainbow colors"
+},
+{
+"word": "ointment",
+"pos": "n",
+"zh": "n. 软膏, 油膏 / [化] 软膏; 药膏",
+"en": "n. semisolid preparation (usually containing a medicine) applied externally as a remedy or for soothing an irritation"
+},
+{
+"word": "ruse",
+"pos": "n",
+"zh": "n. 计策, 谋略, 诡计 / [法] 诡计, 计策",
+"en": "n. a deceptive maneuver (especially to avoid capture)"
+},
+{
+"word": "gratuitous",
+"pos": "a",
+"zh": "a. 免费的, 无理由的 / [经] 无代价的",
+"en": "s. without cause / s. unnecessary and unwarranted"
+},
+{
+"word": "sunburn",
+"pos": "n/vt",
+"zh": "n. 日炙, 晒斑, 晒焦, 晒黑 / vt.vi. (使)晒黑, (使)晒得退色, (使)晒焦",
+"en": "n. redness of the skin caused by exposure to the rays of the sun / v. get a sunburn by overexposure to the sun"
+},
+{
+"word": "gusto",
+"pos": "n",
+"zh": "n. 爱好, 嗜好, 由衷的高兴",
+"en": "n. vigorous and enthusiastic enjoyment"
+},
+{
+"word": "vagrant",
+"pos": "n/a",
+"zh": "n. 流浪汉, 漂泊者, 无赖 / a. 漂泊的, 流浪的, 游荡的",
+"en": "n. a wanderer who has no established residence or visible means of support"
+},
+{
+"word": "pique",
+"pos": "n/vt",
+"zh": "n. 赌气, 愤怒, 不快, 凹凸织物 / vt. 伤害...自尊心, 激怒, 刺激, 引起兴趣, 使兴奋",
+"en": "n. tightly woven fabric with raised cords / n. a sudden outburst of anger / v. cause to feel resentment or indignation"
+},
+{
+"word": "filly",
+"pos": "n",
+"zh": "n. 小雌马, 小姑娘",
+"en": "n. a young female horse under the age of four"
+},
+{
+"word": "commensurate",
+"pos": "a",
+"zh": "a. 同量的, 同等的, 相称的",
+"en": "a. corresponding in size or degree or extent"
+},
+{
+"word": "sporadically",
+"pos": "adv",
+"zh": "adv. 偶发地；零星地",
+"en": "r. in a sporadic manner"
+},
+{
+"word": "repellent",
+"pos": "a/n",
+"zh": "a. 抵抗的, 排斥的, 令人讨厌的, 防水的 / n. 防水布, 防护剂",
+"en": "n. a compound with which fabrics are treated to repel water / n. a chemical substance that repels animals / n. the power…"
+},
+{
+"word": "exalted",
+"pos": "a",
+"zh": "a. 高尚的, 尊贵的, 高位的, 兴奋的",
+"en": "s. of high moral or intellectual value; elevated in nature or style"
+},
+{
+"word": "posse",
+"pos": "n",
+"zh": "n. 一队, 一团, 地方武装团队 / [法] 可能性",
+"en": "n. a temporary police force"
+},
+{
+"word": "convex",
+"pos": "a/n",
+"zh": "a. 中凸的, 凸圆的, 凸面的 / n. 凸状, 凸面体, 凸面结构",
+"en": "a. curving or bulging outward"
+},
+{
+"word": "lackluster",
+"pos": "a/n",
+"zh": "a. 没有光泽的, 无生气的, 平凡的 / n. 无光泽, 无生气, 暗淡",
+"en": "s. lacking brilliance or vitality / s. lacking luster or shine"
+},
+{
+"word": "bray",
+"pos": "n/v",
+"zh": "n. 驴叫声, 喇叭声 / v. 叫, 嘶叫",
+"en": "n. the cry of an ass / v. laugh loudly and harshly"
+},
+{
+"word": "haggle",
+"pos": "vi/vt/n",
+"zh": "vi. 争论, 杀价 / vt. 乱砍, 乱劈 / n. 杀价, 讨论, 争论",
+"en": "n. an instance of intense argument (as in bargaining) / v. wrangle (over a price, terms of an agreement, etc.)"
+},
+{
+"word": "sleigh",
+"pos": "n/vt/vi",
+"zh": "n. 雪撬 / vt. 用雪撬搬运 / vi. 乘雪撬",
+"en": "n a vehicle mounted on runners and pulled by horses or dogs; for transportation over snow / v ride (on) a sled"
+},
+{
+"word": "tirade",
+"pos": "n",
+"zh": "n. 激烈的长篇演说",
+"en": "n. a speech of violent denunciation"
+},
+{
+"word": "sentient",
+"pos": "a/n",
+"zh": "a. 有感觉力的, 意识到的 / n. 有知觉的人",
+"en": "a. endowed with feeling and unstructured consciousness / s. consciously perceiving"
+},
+{
+"word": "legume",
+"pos": "n",
+"zh": "n. 豆类, 豆荚 / [医] 豆, [豆]荚",
+"en": "n. an erect or climbing bean or pea plant of the family Leguminosae / n. the fruit or seed of any of various bean or pea…"
+},
+{
+"word": "sodden",
+"pos": "a/vt/vi",
+"zh": "a. 浑身湿透的, 饱含的, (因沉湎于酒而)迷糊的 / vt. 拿水浸, 使变呆 / vi. 被浸湿",
+"en": "s. wet through and through; thoroughly wet"
+},
+{
+"word": "irate",
+"pos": "a",
+"zh": "a. 发怒的, 生气的",
+"en": "s. feeling or showing extreme anger"
+},
+{
+"word": "impassive",
+"pos": "a",
+"zh": "a. 无感情的, 冷淡的, 无感觉的, 不能伤害的",
+"en": "s. having or revealing little emotion or sensibility; not easily aroused or excited"
+},
+{
+"word": "ajar",
+"pos": "a/adv",
+"zh": "a. 微开的, 半开的, 不和谐的 / adv. 微开, 半开, 不协调地",
+"en": "s. slightly open"
+},
+{
+"word": "outlast",
+"pos": "vt",
+"zh": "vt. 比...长久, 从...中逃生",
+"en": "v live longer than"
+},
+{
+"word": "humanistic",
+"pos": "a",
+"zh": "a. 人本主义的, 人道主义的 / [法] 人道主义的, 人文主义的, 人本主义的",
+"en": "a. of or pertaining to Renaissance humanism"
+},
+{
+"word": "axiom",
+"pos": "n",
+"zh": "n. 自明之理, 公理, 原理, 格言 / [法] 公理, 原理, 原则",
+"en": "n. (logic) a proposition that is not susceptible of proof or disproof; its truth is assumed to be self-evident"
+},
+{
+"word": "opine",
+"pos": "v",
+"zh": "v. 想, 以为",
+"en": "v. express one's opinion openly and without fear or hesitation"
+},
+{
+"word": "walkman",
+"pos": "n",
+"zh": "n. 随身听（商标名称）",
+"en": "n. (trademark) a pocket-sized stereo system with light weight earphones"
+},
+{
+"word": "cob",
+"pos": "n/vt",
+"zh": "n. 圆块 / vt. 捣碎",
+"en": "n. stocky short-legged harness horse / n. adult male swan"
+},
+{
+"word": "conscript",
+"pos": "a/n/vt",
+"zh": "a. 被征入伍的, 被征召的 / n. 征兵 / vt. 征召",
+"en": "v. enroll into service compulsorily"
+},
+{
+"word": "piazza",
+"pos": "n",
+"zh": "n. 广场, 阳台, 柱廊, 走廊, 露天市场",
+"en": "n a public square with room for pedestrians"
+}
+]

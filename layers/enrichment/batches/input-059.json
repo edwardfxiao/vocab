@@ -1,0 +1,602 @@
+[
+{
+"word": "polar",
+"pos": "a/n",
+"zh": "a. 两极的, 极地的, 正好相反的, 极性的 / n. 极线, 极面",
+"en": "s. having a pair of equal and opposite charges / a. located at or near or coming from the earth's poles / a. of or exist…"
+},
+{
+"word": "bilateral",
+"pos": "a",
+"zh": "a. 有两边的, 双边的, 双方的 / [医] 两侧的",
+"en": "s. having identical parts on each side of an axis / s. affecting or undertaken by two parties / s. having two sides or p…"
+},
+{
+"word": "puppy",
+"pos": "n",
+"zh": "n. 小狗, 小动物, 自负的年轻人",
+"en": "n. a young dog / n. an inexperienced young person"
+},
+{
+"word": "pending",
+"pos": "a/prep",
+"zh": "a. 未决定的, 待决的, 行将发生的, 向外伸出的 / prep. 在等待...之际, 直到...时为止, 在...期间, 在...过程中",
+"en": "s. awaiting conclusion or confirmation"
+},
+{
+"word": "chromosome",
+"pos": "n",
+"zh": "n. 染色体 / [化] 染色体",
+"en": "n. a threadlike strand of DNA in the cell nucleus that carries the genes in a linear order"
+},
+{
+"word": "linguistics",
+"pos": "n",
+"zh": "n. 语言学",
+"en": "n. the scientific study of language / n. the humanistic study of language and literature"
+},
+{
+"word": "void",
+"pos": "n/a",
+"zh": "n. 空虚, 空间, 空白, 空隙, 空虚感 / a. 空的, 无效的, 无人的, 没有的, 无用的 / [计] 脱墨; 空白点",
+"en": "n. an empty area or space / v. clear (a room, house, place) of occupants or empty or clear (a place or receptacle) of so…"
+},
+{
+"word": "seafood",
+"pos": "n",
+"zh": "n. 海味, 海鲜, 鱼类",
+"en": "n. edible fish (broadly including freshwater fish) or shellfish or roe etc"
+},
+{
+"word": "granite",
+"pos": "n",
+"zh": "n. 花岗岩 / [化] 花岗岩",
+"en": "n. plutonic igneous rock having visibly crystalline texture; generally composed of feldspar and mica and quartz / n. som…"
+},
+{
+"word": "erode",
+"pos": "vt/vi",
+"zh": "vt. 腐蚀, 侵蚀 / vi. 受腐蚀",
+"en": "v. become ground down or deteriorate / v. remove soil or rock"
+},
+{
+"word": "hum",
+"pos": "n/vi/vt/interj",
+"zh": "n. 嗡嗡声, 哼声, 杂声 / vi. 发低哼声 / vt. 哼, 用哼声表示 / interj. 哼, 嗯",
+"en": "n. a humming noise / v. sing with closed lips / v. be noisy with activity / v. sound with a monotonous hum"
+},
+{
+"word": "syrup",
+"pos": "n",
+"zh": "n. 糖浆, 果汁 / [化] 糖浆剂",
+"en": "n. a thick sweet sticky liquid"
+},
+{
+"word": "beverage",
+"pos": "n",
+"zh": "n. 饮料 / [化] 饮料(如牛奶、茶、咖啡、啤酒等)",
+"en": "n. any liquid suitable for drinking"
+},
+{
+"word": "mimic",
+"pos": "a/n/vt",
+"zh": "a. 模仿的, 摹拟的 / n. 效颦者, 模仿者, 小丑, 仿制品 / vt. 模仿, 摹拟",
+"en": "n. someone who mimics (especially an actor or actress) / v. imitate (a person or manner), especially for satirical effec…"
+},
+{
+"word": "illegally",
+"pos": "",
+"zh": "[法] 非法地, 不合法地, 违法地",
+"en": "r. in an illegal manner"
+},
+{
+"word": "ammunition",
+"pos": "n",
+"zh": "n. 军火, 弹药 / [机] 弹药",
+"en": "n. projectiles to be fired from a gun / n. any nuclear or chemical or biological material that can be used as a weapon o…"
+},
+{
+"word": "paperwork",
+"pos": "n",
+"zh": "n. 文书工作",
+"en": "n. work that involves handling papers: forms or letters or reports etc."
+},
+{
+"word": "pierce",
+"pos": "vt/vi",
+"zh": "vt. 刺穿, 穿透, 打眼于, 洞悉, (声音)响彻, (亮光)照进, 深深地打动 / vi. 刺入, 穿入, 透入, 进入",
+"en": "n. 14th President of the United States (1804-1869) / v. cut or make a way through / v. move or affect (a person's emotio…"
+},
+{
+"word": "hybrid",
+"pos": "n/a",
+"zh": "n. 混血儿, 杂种, 混合物 / a. 混合的, 杂种的, 混合语的 / [计] NetWare的主机实用程序, 双重用户建立程序",
+"en": "n. a composite of mixed origin / n. (genetics) an organism that is the offspring of genetically dissimilar parents or st…"
+},
+{
+"word": "depressing",
+"pos": "a",
+"zh": "a. 抑压的, 沉闷的, 阴沉的",
+"en": "a. causing sad feelings of gloom and inadequacy"
+},
+{
+"word": "beforehand",
+"pos": "adv",
+"zh": "adv. 预先",
+"en": "s being ahead of time or need / r ahead of time; in anticipation"
+},
+{
+"word": "admittedly",
+"pos": "adv",
+"zh": "adv. 公认地, 诚然",
+"en": "r as acknowledged"
+},
+{
+"word": "prairie",
+"pos": "n",
+"zh": "n. 大草原, 草甸",
+"en": "n. a treeless grassy plain"
+},
+{
+"word": "atmospheric",
+"pos": "a",
+"zh": "a. 大气的 / [医] 大气的; 大气压的",
+"en": "a. relating to or located in the atmosphere"
+},
+{
+"word": "commuter",
+"pos": "n",
+"zh": "n. 乘公共车辆上下班者, 月季票乘客 / [经] 非(当地)居民",
+"en": "n. a passenger train that is ridden primarily by passengers who travel regularly from one place to another / n. someone …"
+},
+{
+"word": "foul",
+"pos": "a/vt/vi/adv/n",
+"zh": "a. 污秽的, 邪恶的, 恶臭的, 肮脏的, 恶劣的, 淤塞的 / vt. 弄脏, 妨害, 污蔑, 犯规, 淤塞 / vi. 腐烂, 犯规, 缠结 / adv. 违反规则地, 不正…",
+"en": "n. an act that violates the rules of a sport / v. hit a foul ball / v. commit a foul; break the rules / v. spot, stain, …"
+},
+{
+"word": "downwards",
+"pos": "adv",
+"zh": "adv. 向下",
+"en": "r spatially or metaphorically from a higher to a lower level or position"
+},
+{
+"word": "serial",
+"pos": "n/a",
+"zh": "n. 分期连载作品, 连载小说 / a. 连续的, 一连串的, 连载的, 分期偿还的 / [计] 连续的; 串行的",
+"en": "n. a serialized set of programs / a. pertaining to or composed in serial technique / a. pertaining to or occurring in or…"
+},
+{
+"word": "dubious",
+"pos": "a",
+"zh": "a. 可疑的, 不确定的",
+"en": "s. not convinced"
+},
+{
+"word": "pear",
+"pos": "n",
+"zh": "n. 梨子, 梨树, 梨木 / [机] 梨木",
+"en": "n. sweet juicy gritty-textured fruit available in many varieties / n. Old World tree having sweet gritty-textured juicy …"
+},
+{
+"word": "drastic",
+"pos": "a",
+"zh": "a. 激烈的 / [医] 峻泻药, 剧烈的",
+"en": "s. forceful and extreme and rigorous"
+},
+{
+"word": "surpass",
+"pos": "vt",
+"zh": "vt. 超越, 凌驾, 胜过",
+"en": "v. be or do something to a greater degree"
+},
+{
+"word": "unsuitable",
+"pos": "a",
+"zh": "a. 不适合的 / [法] 不适合的, 不适当的",
+"en": "s. not meant or adapted for a particular purpose / s. not conducive to good moral development"
+},
+{
+"word": "contradict",
+"pos": "vt/vi",
+"zh": "vt. 反驳, 与...抵触, 与...矛盾 / vi. 反驳",
+"en": "v. be in contradiction with / v. deny the truth of"
+},
+{
+"word": "muscular",
+"pos": "a",
+"zh": "a. 强壮的, 肌肉发达的, 有力的 / [医] 肌的; 肌肉发达的",
+"en": "a. of or relating to or consisting of muscle / s. having or suggesting great physical power or force"
+},
+{
+"word": "subscribe",
+"pos": "vt/vi",
+"zh": "vt. 捐献, 签署 / vi. 赞成, 同意, 捐款, 预订, 认购 / [计] 订阅",
+"en": "v. offer to buy, as of stocks and shares / v. adopt as a belief / v. receive or obtain regularly"
+},
+{
+"word": "compliment",
+"pos": "n/vt",
+"zh": "n. 称赞, 恭维, 敬意 / vt. 称赞, 褒扬, 恭维",
+"en": "n. a remark (or act) expressing praise and admiration / v. say something to someone that expresses praise / v. express r…"
+},
+{
+"word": "commute",
+"pos": "vt/vi",
+"zh": "vt. 交换, 折偿, 减轻 / vi. 代偿, 经常乘车来往",
+"en": "n. a regular journey of some distance to and from your place of work / v. exchange positions without a change in value /…"
+},
+{
+"word": "temporal",
+"pos": "a/n",
+"zh": "a. 时间的, 暂时的, 现世的, 世俗的, 颞的, 太阳穴的 / n. 世间万物, 教会财产",
+"en": "s. not eternal / a. of or relating to or limited by time / a. of or relating to the temples (the sides of the skull behi…"
+},
+{
+"word": "pluck",
+"pos": "n/vt/vi",
+"zh": "n. 勇气, 猛拉, 动物内脏 / vt. 摘, 猛拉, 拔, 拉, 扯, 采 / vi. 拉, 拽",
+"en": "n. the act of pulling and releasing a taut cord / v. pull or pull out sharply / v. pull lightly but sharply with a pluck…"
+},
+{
+"word": "lunar",
+"pos": "a",
+"zh": "a. 阴历的, 月的, 微亮的(指光) / [医] 月的, 银的",
+"en": "a. of or relating to or associated with the moon"
+},
+{
+"word": "discrepancy",
+"pos": "n",
+"zh": "n. 不符合, 差异, 不相符之处 / [化] 不符值; 偏差值",
+"en": "n. a difference between conflicting facts or claims or opinions / n. an event that departs from expectations"
+},
+{
+"word": "sincere",
+"pos": "a",
+"zh": "a. 诚实的, 正直的, 真挚的, 纯净的",
+"en": "a. open and genuine; not deceitful"
+},
+{
+"word": "roommate",
+"pos": "n",
+"zh": "n. 住在同室的人",
+"en": "n. an associate who shares a room with you"
+},
+{
+"word": "demise",
+"pos": "n/vt",
+"zh": "n. 崩, 薨, 死亡 / vt. 让渡, 遗赠, 转让",
+"en": "v. transfer by a lease or by a will"
+},
+{
+"word": "enrich",
+"pos": "vt",
+"zh": "vt. 使富足, 使肥沃",
+"en": "v. make better or improve in quality / v. make wealthy or richer"
+},
+{
+"word": "chant",
+"pos": "n/v",
+"zh": "n. 圣歌, 赞美诗 / v. 吟唱, 诵扬",
+"en": "n. a repetitive song in which as many syllables as necessary are assigned to a single tone / v. recite with musical into…"
+},
+{
+"word": "overwhelmingly",
+"pos": "adv",
+"zh": "adv. 压倒性地, 不可抵抗地",
+"en": "r. incapable of being resisted"
+},
+{
+"word": "plainly",
+"pos": "adv",
+"zh": "adv. 清楚地, 明白地, 简单地, 朴素地, 直率地, 坦白地",
+"en": "r. in a simple manner; without extravagance or embellishment"
+},
+{
+"word": "crater",
+"pos": "n",
+"zh": "n. 火山口, 环行山, 弹坑 / [化] 焊口; 火山石; 弧坑; 焰口",
+"en": "n. a faint constellation in the southern hemisphere near Hydra and Corvus / n. a bowl-shaped depression formed by the im…"
+},
+{
+"word": "pamphlet",
+"pos": "n",
+"zh": "n. 小册子, 活页文选",
+"en": "n a small book usually having a paper cover / n a brief treatise on a subject of interest; published in the form of a bo…"
+},
+{
+"word": "clown",
+"pos": "n",
+"zh": "n. 小丑, 乡下人",
+"en": "n. a rude or vulgar fool / n. a person who amuses others by ridiculous behavior / v. act as or like a clown"
+},
+{
+"word": "loaf",
+"pos": "n/v",
+"zh": "n. 一条面包, 块, 游荡 / v. 游手好闲, 虚度光阴",
+"en": "n. a quantity of food (other than bread) formed in a particular shape"
+},
+{
+"word": "scout",
+"pos": "n/vi/vt",
+"zh": "n. 守候, 侦察, 搜索, 侦察员, 侦察机 / vi. 守候, 侦察, 巡视, 嘲笑 / vt. 侦察, 跟踪, 发现, 监视, 嘲弄",
+"en": "n. a Boy Scout or Girl Scout / n. someone employed to discover and recruit talented persons (especially in the worlds of…"
+},
+{
+"word": "sow",
+"pos": "n/vt/vi",
+"zh": "n. 母猪, 懒胖女人 / vt. 播种, 散布, 使密布 / vi. 播种",
+"en": "n. an adult female hog / v. place (seeds) in or on the ground for future growth / v. introduce into an environment"
+},
+{
+"word": "speciality",
+"pos": "n",
+"zh": "n. 专长, 擅长, 特种技能, 详细说明, 特性, 特产, 专业 / [化] 特制品",
+"en": "n an asset of special worth or utility / n a distinguishing trait / n the special line of work you have adopted as your …"
+},
+{
+"word": "twilight",
+"pos": "n/a",
+"zh": "n. 暮光, 曙光, 黎明, 黄昏, 微光, 朦胧状态 / a. 微明的",
+"en": "n. the time of day immediately following sunset / n. the diffused light from the sky when the sun is below the horizon b…"
+},
+{
+"word": "adolescence",
+"pos": "n",
+"zh": "n. 青春期 / [医] 青年期, 青春期",
+"en": "n. the time period between the beginning of puberty and adulthood / n. in the state that someone is in between puberty a…"
+},
+{
+"word": "comprehend",
+"pos": "vt",
+"zh": "vt. 理解, 包括",
+"en": "v get the meaning of something / v to become aware of through the senses / v include in scope; include as part of someth…"
+},
+{
+"word": "unlock",
+"pos": "vt/vi",
+"zh": "vt. 开...的锁, 开启, 表露, 放出 / vi. 被开启, 揭开, 解放 / [计] 解出锁定",
+"en": "v. open the lock of / v. set free or release / v. become unlocked"
+},
+{
+"word": "prosperous",
+"pos": "a",
+"zh": "a. 成功的, 繁盛的, 幸运的 / [经] 繁荣的, 昌盛的",
+"en": "s in fortunate circumstances financially; moderately rich / s very lively and profitable / s marked by peace and prosper…"
+},
+{
+"word": "squirrel",
+"pos": "n/vt",
+"zh": "n. 松鼠, 松鼠毛皮 / vt. 贮藏",
+"en": "n. a kind of arboreal rodent having a long bushy tail / n. the fur of a squirrel"
+},
+{
+"word": "preferable",
+"pos": "a",
+"zh": "a. 更可取的, 更好的, 更合意的",
+"en": "s. more desirable than another"
+},
+{
+"word": "plight",
+"pos": "n/vt",
+"zh": "n. 困境, 窘境 / vt. 宣誓, 保证",
+"en": "n. a solemn pledge of fidelity"
+},
+{
+"word": "plough",
+"pos": "n/vi/vt",
+"zh": "n. 犁, 犁过的地 / vi. 用犁耕田, 开路 / vt. 耕, 犁, 开路",
+"en": "n a group of seven bright stars in the constellation Ursa Major / n a farm tool having one or more heavy blades to break…"
+},
+{
+"word": "responsive",
+"pos": "a",
+"zh": "a. 回答的, 应答的, 易感应的",
+"en": "a. containing or using responses; alternating / a. readily reacting or replying to people or events or stimuli; showing …"
+},
+{
+"word": "pathetic",
+"pos": "a",
+"zh": "a. 悲哀的, 可怜的, 感伤的, 差劲的 / [医] 感情的",
+"en": "s. inspiring mixed contempt and pity / s. inspiring scornful pity"
+},
+{
+"word": "lurk",
+"pos": "n/vi",
+"zh": "n. 潜伏, 潜行 / vi. 暗藏, 潜伏, 埋伏 / [计] 隐匿阅读",
+"en": "v. lie in wait, lie in ambush, behave in a sneaky and secretive manner"
+},
+{
+"word": "inclination",
+"pos": "n",
+"zh": "n. 倾向, 趋向, 倾斜度, 点头 / [化] 倾角",
+"en": "n. an attitude of mind especially one that favors one alternative over others / n. (astronomy) the angle between the pla…"
+},
+{
+"word": "deceive",
+"pos": "v",
+"zh": "v. 欺骗, 行骗",
+"en": "v. be false to; be dishonest with / v. cause someone to believe an untruth"
+},
+{
+"word": "loosely",
+"pos": "adv",
+"zh": "adv. 松弛地, 宽松地, 不紧",
+"en": "r. in a relaxed manner; not rigid / r. in a loose manner / r. knitted in a loose manner"
+},
+{
+"word": "accidental",
+"pos": "a/n",
+"zh": "a. 意外的, 偶然的, 非主要的, 附属的 / n. 临时记号, 次要方面",
+"en": "n. a musical notation that makes a note sharp or flat or natural although that is not part of the key signature / s. hap…"
+},
+{
+"word": "evacuate",
+"pos": "v",
+"zh": "v. 疏散, 撤出, 排泄",
+"en": "v. move out of an unsafe location into safety / v. empty completely / v. move people from their homes or country / v. cr…"
+},
+{
+"word": "wreck",
+"pos": "n/vt/vi",
+"zh": "n. 失事, 残骸, 破坏 / vt. 使失事, 拆毁, 破坏 / vi. (船)失事, 营救失事船只",
+"en": "n. something or someone that has suffered ruin or dilapidation / n. a ship that has been destroyed at sea"
+},
+{
+"word": "lever",
+"pos": "n/vt/vi",
+"zh": "n. 杠杆, 似杠杆之工具 / vt. 撬开 / vi. 使用杠杆",
+"en": "n. a rigid bar pivoted about a fulcrum / n. a simple machine that gives a mechanical advantage when given a fulcrum / n.…"
+},
+{
+"word": "squash",
+"pos": "n/vt/vi",
+"zh": "n. 挤压, 压碎的东西, 南瓜属植物, 拥挤的人群 / vt. 压扁, 镇压, 压制 / vi. 被压扁, 发溅泼声, 挤入",
+"en": "n. any of numerous annual trailing plants of the genus Cucurbita grown for their fleshy edible fruits / n. edible fruit …"
+},
+{
+"word": "famine",
+"pos": "n",
+"zh": "n. 饥荒, 缺乏, 饥饿",
+"en": "n. a severe shortage of food (as through crop failure) resulting in violent hunger and starvation and death"
+},
+{
+"word": "instability",
+"pos": "n",
+"zh": "n. 不安定, 不稳定 / [医] 不稳定性",
+"en": "n. an unstable order / n. unreliability attributable to being unstable / n. the quality or attribute of being unstable a…"
+},
+{
+"word": "legion",
+"pos": "n",
+"zh": "n. 军团, 军队, 众多的人",
+"en": "n. association of ex-servicemen / n. a large military unit"
+},
+{
+"word": "ignorant",
+"pos": "a",
+"zh": "a. 无知识的, 不知道的, 由无知产生的 / [法] 无知的, 愚昧的, 不知情的",
+"en": "s. uneducated in general; lacking knowledge or sophistication / s. uneducated in the fundamentals of a given art or bran…"
+},
+{
+"word": "affiliate",
+"pos": "vt/vi",
+"zh": "vt. 使紧密联系, 使附属, 接纳, 收养 / vi. 发生联系, 参加",
+"en": "n. a subordinate or subsidiary associate; a person who is affiliated with another or with an organization / n. a subsidi…"
+},
+{
+"word": "elusive",
+"pos": "a",
+"zh": "a. 难懂的, 易忘的, 难以捉摸的",
+"en": "s. difficult to describe / s. skillful at eluding capture / s. difficult to detect or grasp by the mind or analyze"
+},
+{
+"word": "dodge",
+"pos": "v/n",
+"zh": "v. 避开, 躲避 / n. 诡计, 躲藏",
+"en": "n. a quick evasive movement / n. a statement that evades the question by cleverness or trickery / v. make a sudden movem…"
+},
+{
+"word": "energetic",
+"pos": "a",
+"zh": "a. 精力充沛的, 积极的",
+"en": "a. possessing or exerting or displaying energy / s. working hard to promote an enterprise"
+},
+{
+"word": "cosy",
+"pos": "a/n",
+"zh": "a. 温暖舒适的 / n. 保暖套",
+"en": "n. a padded cloth covering to keep a teapot warm"
+},
+{
+"word": "claw",
+"pos": "n/v",
+"zh": "n. 爪, 螯, 抓伤 / v. 用爪抓, 挖, 搜刮",
+"en": "n. sharp curved horny process on the toe of a bird or some mammals or reptiles / n. a grasping structure on the limb of …"
+},
+{
+"word": "susceptible",
+"pos": "a",
+"zh": "a. 易受影响的, 易感动的, 容许...的 / [法] 易感的, 易受影响的, 容许",
+"en": "a. (often followed by `of' or `to') yielding readily to or capable of / s. easily impressed emotionally"
+},
+{
+"word": "frost",
+"pos": "n/vt/vi",
+"zh": "n. 霜, 冰冻, 冷漠 / vt. 覆着霜, 冻结, 结霜 / vi. 受冻, 起霜",
+"en": "n. ice crystals forming a white deposit (especially on objects outside) / n. the formation of frost or ice on a surface …"
+},
+{
+"word": "marvelous",
+"pos": "a",
+"zh": "a. 令人惊异的, 了不起的, 不平常的",
+"en": "s. being or having the character of a miracle"
+},
+{
+"word": "mercury",
+"pos": "n",
+"zh": "n. 水银, 汞, 使者 / [化] 汞Hg",
+"en": "n. a heavy silvery toxic univalent and bivalent metallic element; the only metal that is liquid at ordinary temperatures…"
+},
+{
+"word": "skepticism",
+"pos": "n",
+"zh": "n. 怀疑论 / [医] 多疑癖",
+"en": "n doubt about the truth of something / n the disbelief in any claims of ultimate knowledge"
+},
+{
+"word": "incomplete",
+"pos": "a",
+"zh": "a. 不完全的, 未完成的, 不完善的 / [机] 不完全的",
+"en": "a. not complete or total; not completed / s. not yet finished"
+},
+{
+"word": "laborer",
+"pos": "n",
+"zh": "n. 体力劳动者, 辅助工 / [机] 劳动者",
+"en": "n. someone who works with their hands; someone engaged in manual labor"
+},
+{
+"word": "immunity",
+"pos": "n",
+"zh": "n. 免疫, 免疫性, 免除 / [化] 免疫性",
+"en": "n. (medicine) the condition in which an organism can resist disease / n. the quality of being unaffected by something"
+},
+{
+"word": "planetary",
+"pos": "a",
+"zh": "a. 行星的, 流浪的, 迁移不定的, 地球上的, 现世的",
+"en": "a. of or relating to or characteristic of the planet Earth or its inhabitants"
+},
+{
+"word": "chess",
+"pos": "n",
+"zh": "n. 国际象棋 / [建] 雀麦",
+"en": "n. weedy annual native to Europe but widely distributed as a weed especially in wheat / n. a board game for two players …"
+},
+{
+"word": "endeavour",
+"pos": "n/vi",
+"zh": "n. 努力, 力图, 尽力 / vi. 努力, 力图, 尽力",
+"en": "n a purposeful or industrious undertaking (especially one that requires effort or boldness) / n earnest and conscientiou…"
+},
+{
+"word": "dedication",
+"pos": "n",
+"zh": "n. 奉献, 献身, 献辞 / [计] 专用",
+"en": "n. complete and wholehearted fidelity / n. a ceremony in which something (as a building) is dedicated to some goal or pu…"
+},
+{
+"word": "tornado",
+"pos": "n",
+"zh": "n. 旋风, 龙卷风, 大雷雨",
+"en": "n. a localized and violently destructive windstorm occurring over land characterized by a funnel-shaped cloud extending …"
+},
+{
+"word": "wholesale",
+"pos": "n/a/adv/vi/vt",
+"zh": "n. 批发 / a. 批发的, 大规模的 / adv. 大规模, 照批发方式 / vi. 经营批发业, 批发 / vt. 批发",
+"en": "n. the selling of goods to merchants; usually in large quantities for resale to consumers / v. sell in large quantities …"
+}
+]

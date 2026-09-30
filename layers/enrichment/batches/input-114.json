@@ -1,0 +1,602 @@
+[
+{
+"word": "charade",
+"pos": "n",
+"zh": "n. 字谜游戏",
+"en": "n. a word acted out in an episode of the game of charades"
+},
+{
+"word": "inscrutable",
+"pos": "a",
+"zh": "a. 难以了解的, 不能预测的 / [法] 不可理解的, 不可思议的, 不可测知的",
+"en": "s of an obscure nature"
+},
+{
+"word": "temperamental",
+"pos": "a",
+"zh": "a. 气质的, 性格的, 易兴奋的",
+"en": "a. relating to or caused by temperament"
+},
+{
+"word": "asterisk",
+"pos": "n",
+"zh": "n. 星号 / [计] 星号, 星号通配符",
+"en": "n. a star-shaped character * used in printing"
+},
+{
+"word": "unwitting",
+"pos": "a",
+"zh": "a. 不知情的, 没有意识到的, 不知不觉的",
+"en": "a. not aware or knowing"
+},
+{
+"word": "dragonfly",
+"pos": "n",
+"zh": "n. 蜻蜓",
+"en": "n. slender-bodied non-stinging insect having iridescent wings that are outspread at rest; adults and nymphs feed on mosq…"
+},
+{
+"word": "portend",
+"pos": "vt",
+"zh": "vt. 成为...的前兆, 预知, 给与...的警告",
+"en": "v indicate by signs"
+},
+{
+"word": "splurge",
+"pos": "n/vi/vt",
+"zh": "n. 炫耀, 夸示 / vi. 炫耀, 卖弄, 挥霍 / vt. 挥霍",
+"en": "n. an ostentatious display (of effort or extravagance etc.) / v. indulge oneself / v. be showy or ostentatious"
+},
+{
+"word": "unaided",
+"pos": "a",
+"zh": "a. 无助的, 未受协助的",
+"en": "s. carried out without aid or assistance"
+},
+{
+"word": "tortuous",
+"pos": "a",
+"zh": "a. 扭曲的, 弯曲的, 转弯抹角的, 欺骗的 / [医] 纡曲的, 弯曲的",
+"en": "s. marked by repeated turns and bends / s. not straightforward"
+},
+{
+"word": "watertight",
+"pos": "a",
+"zh": "a. 不透水的, 不漏水的, 无懈可击的 / [化] 不透水的; 不漏水的",
+"en": "s. not allowing water to pass in or out"
+},
+{
+"word": "pucker",
+"pos": "vt/vi/n",
+"zh": "vt. 使起皱 / vi. 折成褶 / n. 皱纹",
+"en": "n. an irregular fold in an otherwise even surface (as in cloth) / v. to gather something into small wrinkles or folds / …"
+},
+{
+"word": "episodic",
+"pos": "a",
+"zh": "a. 插曲似的",
+"en": "s. of writing or narration; divided into or composed of episodes / s. occurring or appearing at usually irregular interv…"
+},
+{
+"word": "dapper",
+"pos": "a",
+"zh": "a. 整洁的, 整齐的, 短小精悍的",
+"en": "s. marked by up-to-dateness in dress and manners"
+},
+{
+"word": "evince",
+"pos": "vt",
+"zh": "vt. 表明(感情等), 表示出(特性等)",
+"en": "v give expression to"
+},
+{
+"word": "unobtrusive",
+"pos": "a",
+"zh": "a. 不唐突的, 不引人注目的, 谦虚的",
+"en": "a. not obtrusive or undesirably noticeable"
+},
+{
+"word": "industrious",
+"pos": "a",
+"zh": "a. 勤勉的, 刻苦的",
+"en": "s characterized by hard work and perseverance / s working hard to promote an enterprise"
+},
+{
+"word": "impersonate",
+"pos": "vt",
+"zh": "vt. 模仿, 扮演, 体现, 使人格化 / [法] 体现, 模仿, 拟人",
+"en": "v. assume or act the character of / v. represent another person with comic intentions"
+},
+{
+"word": "rabies",
+"pos": "n",
+"zh": "n. 狂犬病 / [医] 狂犬病, 咬病",
+"en": "n. an acute viral disease of the nervous system of warm-blooded animals (usually transmitted by the bite of a rabid anim…"
+},
+{
+"word": "docile",
+"pos": "a",
+"zh": "a. 容易教的, 温顺的",
+"en": "a. willing to be taught or led or supervised or directed / s. ready and willing to be taught / s. easily handled or mana…"
+},
+{
+"word": "perky",
+"pos": "a",
+"zh": "a. 得意洋洋的, 快活的, 敏捷的, 美观的, 傲慢的, 神气的",
+"en": "s characterized by liveliness and lightheartedness"
+},
+{
+"word": "untoward",
+"pos": "a",
+"zh": "a. 事与愿违的, 麻烦的, 困难的, 不幸的",
+"en": "s not in keeping with accepted standards of what is right or proper in polite society / s contrary to your interests or …"
+},
+{
+"word": "habitable",
+"pos": "a",
+"zh": "a. 适于居住的, 可居住的",
+"en": "s. fit for habitation"
+},
+{
+"word": "proclivity",
+"pos": "n",
+"zh": "n. 倾向, 癖性",
+"en": "n. a natural inclination"
+},
+{
+"word": "narcissism",
+"pos": "n",
+"zh": "n. 自我陶醉, 自恋 / [医] 自爱欲, 恋已癖",
+"en": "n an exceptional interest in and admiration for yourself"
+},
+{
+"word": "anachronistic",
+"pos": "a",
+"zh": "a. 时代错误的",
+"en": "s chronologically misplaced"
+},
+{
+"word": "prosaic",
+"pos": "a",
+"zh": "a. 散文的, 散文体的, 平凡的",
+"en": "s not fanciful or imaginative / s lacking wit or imagination / s not challenging; dull and lacking excitement"
+},
+{
+"word": "ostrich",
+"pos": "n",
+"zh": "n. 鸵鸟",
+"en": "n. a person who refuses to face reality or recognize the truth (a reference to the popular notion that the ostrich hides…"
+},
+{
+"word": "castigate",
+"pos": "vt",
+"zh": "vt. 惩罚, 苛评, 修订",
+"en": "v. inflict severe punishment on"
+},
+{
+"word": "abysmal",
+"pos": "a",
+"zh": "a. 深不可测的, 无底的",
+"en": "s. very great; limitless / s. resembling an abyss in depth; so deep as to be unmeasurable"
+},
+{
+"word": "percolate",
+"pos": "vt/n",
+"zh": "vt.vi. 滤, 滤过, 渗开, (使)渗透, (使)渗滤 / n. 滤过液, 渗出液 / vt. 用渗滤壶煮(咖啡)",
+"en": "n. the product of percolation / v. spread gradually / v. prepare in a percolator"
+},
+{
+"word": "predilection",
+"pos": "n",
+"zh": "n. 嗜好, 偏爱",
+"en": "n. a predisposition in favor of something"
+},
+{
+"word": "rejuvenate",
+"pos": "vt/vi",
+"zh": "vt. 使年轻, 使复原, 使恢复精神 / vi. 返老还童, 复原",
+"en": "v. cause (a stream or river) to erode, as by an uplift of the land / v. develop youthful topographical features / v. mak…"
+},
+{
+"word": "squelch",
+"pos": "n/vt/vi",
+"zh": "n. 嘎吱声, 压碎的一堆, 使对手哑口无言的话 / vt. 压碎, 镇压, 使咯吱咯吱响 / vi. 咯吱咯吱响, 涉水而过 / [计] 撤消权限",
+"en": "v. suppress or crush completely / v. make a sucking sound / v. walk through mud or mire"
+},
+{
+"word": "divest",
+"pos": "vt",
+"zh": "vt. 使摆脱, 使脱去, 夺去 / [经] 取消权力",
+"en": "v. deprive of status or authority / v. reduce or dispose of; cease to hold (an investment)"
+},
+{
+"word": "canny",
+"pos": "a",
+"zh": "a. 精明的, 谨慎的, 节约的",
+"en": "s showing self-interest and shrewdness in dealing with others"
+},
+{
+"word": "detritus",
+"pos": "n",
+"zh": "n. 碎石 / [医] 腐质, 碎屑",
+"en": "n. loose material (stone fragments and silt etc) that is worn away from rocks"
+},
+{
+"word": "clemency",
+"pos": "n",
+"zh": "n. 仁慈, 宽厚, 仁厚",
+"en": "n. leniency and compassion shown toward offenders by a person or agency charged with administering justice"
+},
+{
+"word": "effigy",
+"pos": "n",
+"zh": "n. 肖像, 雕像",
+"en": "n. a representation of a person (especially in the form of sculpture)"
+},
+{
+"word": "averse",
+"pos": "a",
+"zh": "a. 不愿意的, 反对的",
+"en": "s (usually followed by `to') strongly opposed"
+},
+{
+"word": "disfigure",
+"pos": "vt",
+"zh": "vt. 毁损...的外形, 玷污, 损害, 毁损...的容貌 / [法] 损毁容颜, 破相",
+"en": "v mar or spoil the appearance of"
+},
+{
+"word": "stingy",
+"pos": "a",
+"zh": "a. 小气的, 吝啬的, 缺乏的, 有刺的",
+"en": "a. unwilling to spend"
+},
+{
+"word": "sedative",
+"pos": "a/n",
+"zh": "a. 使安静的, 使镇静的 / n. 镇静剂",
+"en": "n. a drug that reduces excitability and calms a person"
+},
+{
+"word": "scruple",
+"pos": "n/vi",
+"zh": "n. 踌躇, 犹豫, 微量 / vi. 踌躇, 有顾忌",
+"en": "n. a unit of apothecary weight equal to 20 grains / n. uneasiness about the fitness of an action / n. an ethical or mora…"
+},
+{
+"word": "inculcate",
+"pos": "vt",
+"zh": "vt. 反复灌输, 谆谆教诲",
+"en": "v. teach and impress by frequent repetitions or admonitions"
+},
+{
+"word": "whet",
+"pos": "n/vt",
+"zh": "n. 磨, 开胃小吃 / vt. 磨, 磨快, 刺激, 促进",
+"en": "v. make keen or more acute / v. sharpen by rubbing, as on a whetstone"
+},
+{
+"word": "jaunty",
+"pos": "a",
+"zh": "a. 快活的, 活泼的, 轻快的",
+"en": "s marked by up-to-dateness in dress and manners / s having a cheerful, lively, and self-confident air"
+},
+{
+"word": "welter",
+"pos": "vi/n",
+"zh": "vi. 翻滚, 滚动, 沉溺, 浸湿, 起伏 / n. 翻滚, 汹涌, 混乱, 起伏, 重量级骑手",
+"en": "v. toss, roll, or rise and fall in an uncontrolled way / v. be immersed in"
+},
+{
+"word": "unconscionable",
+"pos": "a",
+"zh": "a. 不受良心支配的, 不合理的, 过度的",
+"en": "s lacking a conscience / s greatly exceeding bounds of reason or moderation"
+},
+{
+"word": "idiosyncrasy",
+"pos": "n",
+"zh": "n. 气质, 特性, 风格 / [化] 特异反应; 特异性体质",
+"en": "n. a behavioral attribute that is distinctive and peculiar to an individual"
+},
+{
+"word": "acrid",
+"pos": "a",
+"zh": "a. 苦味的, 辛辣的, 讥讽的, 刻薄的 / [医] 辛辣的",
+"en": "s strong and sharp / s harsh or corrosive in tone"
+},
+{
+"word": "centrifugal",
+"pos": "a/n",
+"zh": "a. 离心的 / n. 离心机, (离心机的)转筒",
+"en": "a. tending to move away from a center / s. tending away from centralization, as of authority / s. conveying information …"
+},
+{
+"word": "latency",
+"pos": "n",
+"zh": "n. 潜伏, 潜在 / [计] 传输时间, 传输延迟时间",
+"en": "n. the state of being not yet evident or active"
+},
+{
+"word": "flagrant",
+"pos": "a",
+"zh": "a. 极端明显的, 不能容忍的, 恶名昭著的 / [法] 公然的, 罪恶昭彰的, 现行的",
+"en": "s conspicuously and outrageously bad or reprehensible"
+},
+{
+"word": "disembodied",
+"pos": "a",
+"zh": "a. 脱离肉体的 / [医] 脱离躯壳的",
+"en": "v free from a body or physical form or reality / s not having a material body"
+},
+{
+"word": "parse",
+"pos": "vt",
+"zh": "vt. 从语法上分析 / [计] 分列",
+"en": "v. analyze syntactically by assigning a constituent structure to (a sentence)"
+},
+{
+"word": "muffler",
+"pos": "n",
+"zh": "n. 围巾, 头巾, 无指手套, 消声器 / [化] 消声器; 消音器",
+"en": "n. a scarf worn around the neck"
+},
+{
+"word": "incisive",
+"pos": "a",
+"zh": "a. 敏锐的, 机敏的, 激烈的, 切入的, 锋利的 / [医] 切牙的, 切的",
+"en": "s. suitable for cutting or piercing"
+},
+{
+"word": "mimetic",
+"pos": "a",
+"zh": "a. 模仿的, 摹拟的, 好模仿的, 类似的 / [计] 模拟的, 模仿的",
+"en": "s. characterized by or of the nature of or using mimesis / s. exhibiting mimicry"
+},
+{
+"word": "amulet",
+"pos": "n",
+"zh": "n. 护身符",
+"en": "n. a trinket or piece of jewelry usually hung about the neck and thought to be a magical protection against evil or dise…"
+},
+{
+"word": "intermission",
+"pos": "n",
+"zh": "n. 中止, 中断, 停顿, 间歇 / [医] 间歇, 间歇期",
+"en": "n. the act of suspending activity temporarily"
+},
+{
+"word": "pensive",
+"pos": "a",
+"zh": "a. 沉思的, 哀思的, 忧郁的",
+"en": "s. showing pensive sadness"
+},
+{
+"word": "acrimonious",
+"pos": "a",
+"zh": "a. 尖刻的, 讥讽的, 激烈的",
+"en": "s. marked by strong resentment or cynicism"
+},
+{
+"word": "neophyte",
+"pos": "n",
+"zh": "n. 新入教者, 新信徒",
+"en": "n. a plant that is found in an area where it had not been recorded previously"
+},
+{
+"word": "forefather",
+"pos": "n",
+"zh": "n. 祖先",
+"en": "n. the founder of a family / n. person from an earlier time who contributed to the tradition shared by some group"
+},
+{
+"word": "knoll",
+"pos": "n/vt/vi",
+"zh": "n. 小山, 圆丘 / vt. 敲钟 / vi. 敲响",
+"en": "n. a small natural hill"
+},
+{
+"word": "unkempt",
+"pos": "a",
+"zh": "a. 蓬乱的, 未被照管好的",
+"en": "s. not neatly combed / s. not properly maintained or cared for"
+},
+{
+"word": "cachet",
+"pos": "n",
+"zh": "n. 公章, 私人印戳, 标记, 威望, 纪念邮戳 / [医] 扁囊剂",
+"en": "n. an indication of approved or superior status / n. a warrant formerly issued by a French king who could warrant impris…"
+},
+{
+"word": "minutia",
+"pos": "n",
+"zh": "n. 细节, 琐事",
+"en": "n. a small or minor detail"
+},
+{
+"word": "omnipresent",
+"pos": "a",
+"zh": "a. 无所不在的, 普通存在的",
+"en": "s. being present everywhere at once"
+},
+{
+"word": "scuffle",
+"pos": "vi/n",
+"zh": "vi. 扭打, 混战, 拖着脚走, 敷衍了事 / n. 扭打, 混战, 拖着脚走",
+"en": "n. a hoe that is used by pushing rather than pulling / v. fight or struggle in a confused way at close quarters"
+},
+{
+"word": "sheathe",
+"pos": "vt",
+"zh": "vt. 插入鞘, 覆盖",
+"en": "v. cover with a protective sheathing / v. enclose with a sheath / v. plunge or bury (a knife or sword) in flesh"
+},
+{
+"word": "fortuitous",
+"pos": "a",
+"zh": "a. 偶然的 / [医] 偶然的, 机会的",
+"en": "s. occurring by happy chance"
+},
+{
+"word": "menial",
+"pos": "a/n",
+"zh": "a. 适合仆人做的, 卑微的 / n. 仆人",
+"en": "n. a domestic servant"
+},
+{
+"word": "dexterity",
+"pos": "n",
+"zh": "n. 灵巧, 机敏",
+"en": "n. adroitness in using the hands"
+},
+{
+"word": "atrocious",
+"pos": "a",
+"zh": "a. 残暴的, 凶恶的",
+"en": "s. shockingly brutal or cruel / s. exceptionally bad or displeasing / s. provoking horror"
+},
+{
+"word": "outwit",
+"pos": "vt",
+"zh": "vt. 瞒骗, 以智取胜",
+"en": "v. beat through cleverness and wit"
+},
+{
+"word": "cuticle",
+"pos": "n",
+"zh": "n. 表皮 / [医] 表皮; 角质层(植); 护膜",
+"en": "n. the dead skin at the base of a fingernail or toenail"
+},
+{
+"word": "monochrome",
+"pos": "n/a",
+"zh": "n. 单色画, 单色, 黑白 / a. 单色的, 黑白的 / [计] 单色",
+"en": "n. painting done in a range of tones of a single color"
+},
+{
+"word": "jellyfish",
+"pos": "n",
+"zh": "n. 水母, 海蜇, 意志薄弱的人 / [医] 海蛰, 水母",
+"en": "n. any of numerous usually marine and free-swimming coelenterates that constitute the sexually reproductive forms of hyd…"
+},
+{
+"word": "cognizant",
+"pos": "a",
+"zh": "a. 察知的, 认识到的, 有认识能力的 / [法] 审理的, 审理权的, 有权审理的",
+"en": "a (sometimes followed by `of') having or showing knowledge or understanding or realization or perception"
+},
+{
+"word": "despondent",
+"pos": "a",
+"zh": "a. 丧气的, 失望的, 没有精神的",
+"en": "s. without or almost without hope"
+},
+{
+"word": "mete",
+"pos": "vt/n",
+"zh": "vt. 量, 测量, 分配 / n. 边界, 界石",
+"en": "n a line that indicates a boundary"
+},
+{
+"word": "renown",
+"pos": "n/vt",
+"zh": "n. 名声, 声望 / vt. 使有声望",
+"en": "n the state or quality of being widely honored and acclaimed"
+},
+{
+"word": "resplendent",
+"pos": "a",
+"zh": "a. 辉煌的, 灿烂的",
+"en": "s having great beauty and splendor"
+},
+{
+"word": "staid",
+"pos": "a",
+"zh": "a. 认真的, 沉着的, 固定的",
+"en": "s characterized by dignity and propriety"
+},
+{
+"word": "dislocate",
+"pos": "vt",
+"zh": "vt. 脱臼, 弄乱",
+"en": "v. move out of position / v. put out of its usual place, position, or relationship"
+},
+{
+"word": "quill",
+"pos": "n/vt",
+"zh": "n. 羽根, 大翎毛, 羽毛笔 / vt. 刺穿",
+"en": "n. pen made from a bird's feather / n. a stiff hollow protective spine on a porcupine or hedgehog / n. the hollow spine …"
+},
+{
+"word": "kindred",
+"pos": "n/a",
+"zh": "n. 家族, 相似, 亲戚关系 / a. 同族的, 同类的, 血缘的",
+"en": "s. related by blood or marriage"
+},
+{
+"word": "summarily",
+"pos": "adv",
+"zh": "adv. 概要地, 概略地, 立刻",
+"en": "r. without delay; in a summary manner"
+},
+{
+"word": "coddle",
+"pos": "vt",
+"zh": "vt. 娇养, 溺爱, 用文火煮(蛋)",
+"en": "v. cook in nearly boiling water"
+},
+{
+"word": "servitude",
+"pos": "n",
+"zh": "n. 奴隶状态, 惩役, 地役权 / [法] 苦役, 劳役, 奴役",
+"en": "n. state of subjection to an owner or master or forced labor imposed as punishment"
+},
+{
+"word": "dereliction",
+"pos": "n",
+"zh": "n. 玩忽职守, 抛弃物 / [法] 抛弃, 遗弃, 放弃",
+"en": "n. willful negligence"
+},
+{
+"word": "expedite",
+"pos": "vt/a",
+"zh": "vt. 加快, 促进, 发出 / a. 畅通的, 无阻碍的, 迅速的, 方便的",
+"en": "v. speed up the progress of; facilitate / v. process fast and efficiently"
+},
+{
+"word": "uninhabited",
+"pos": "a",
+"zh": "a. 无人居住的, 杳无人迹的",
+"en": "a. not having inhabitants; not lived in"
+},
+{
+"word": "tedium",
+"pos": "n",
+"zh": "n. 单调乏味, 沉闷",
+"en": "n the feeling of being bored by something tedious / n dullness owing to length or slowness"
+},
+{
+"word": "fawn",
+"pos": "n/vi",
+"zh": "n. 小鹿 / vi. 摇尾乞怜, 奉承",
+"en": "n. a young deer / v. show submission or fear / v. try to gain favor by cringing or flattering / v. have fawns"
+},
+{
+"word": "deciduous",
+"pos": "a",
+"zh": "a. 每年落叶的, 非永久性的 / [医] 脱落的",
+"en": "a. (of plants and shrubs) shedding foliage at the end of the growing season / s. (of teeth, antlers, etc.) being shed at…"
+},
+{
+"word": "ream",
+"pos": "n/vt",
+"zh": "n. 令, 大量 / vt. 扩(孔), 榨取, 挖",
+"en": "n. a large quantity of written matter / n. a quantity of paper; 480 or 500 sheets; one ream equals 20 quires / v. squeez…"
+},
+{
+"word": "windbreaker",
+"pos": "n",
+"zh": "n. 防风林, 防风茄克衫, 风衣",
+"en": "n a kind of heavy jacket (`windcheater' is a British term)"
+}
+]

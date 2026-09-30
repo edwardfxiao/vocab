@@ -1,0 +1,602 @@
+[
+{
+"word": "exult",
+"pos": "vi",
+"zh": "vi. 非常高兴, 欢欣",
+"en": "v. feel extreme happiness or elation"
+},
+{
+"word": "duplicity",
+"pos": "n",
+"zh": "n. 口是心非, 不诚实, 表里不一 / [医] 并胚, 双畸胎, 联胎",
+"en": "n. acting in bad faith; deception by pretending to entertain one set of intentions while acting under the influence of a…"
+},
+{
+"word": "crevasse",
+"pos": "n/vt",
+"zh": "n. 裂缝, (堤、坝等的)决口, 崩溃处 / vt. 使有裂缝",
+"en": "n. a deep fissure"
+},
+{
+"word": "circumspect",
+"pos": "a",
+"zh": "a. 细心的, 慎重的",
+"en": "s. heedful of potential consequences"
+},
+{
+"word": "apposite",
+"pos": "a",
+"zh": "a. 贴切的, 合适的",
+"en": "s. being of striking appropriateness and pertinence"
+},
+{
+"word": "sprain",
+"pos": "vt/n",
+"zh": "vt. 挫伤, 扭筋, 错筋 / n. 扭伤, 扭筋",
+"en": "n. a painful injury to a joint caused by a sudden wrenching of its ligaments"
+},
+{
+"word": "superman",
+"pos": "n",
+"zh": "n. 具有超人能力的人, 超人",
+"en": "n a person with great powers and abilities / n street name for lysergic acid diethylamide"
+},
+{
+"word": "vicissitude",
+"pos": "n",
+"zh": "n. 变化无常, 变迁, 荣枯, 盛衰",
+"en": "n. a variation in circumstances or fortune at different times in your life or in the development of something / n. mutab…"
+},
+{
+"word": "suburbanite",
+"pos": "n",
+"zh": "n. 郊区居民",
+"en": "n. a resident of a suburb"
+},
+{
+"word": "explicate",
+"pos": "vt",
+"zh": "vt. 详细说明, 解释, 说明, 引伸",
+"en": "v. elaborate, as of theories and hypotheses"
+},
+{
+"word": "culpable",
+"pos": "a",
+"zh": "a. 该责备的, 有罪的 / [法] 应受处罚, 有罪",
+"en": "s deserving blame or censure as being wrong or evil or injurious"
+},
+{
+"word": "deceitful",
+"pos": "a",
+"zh": "a. 欺诈的",
+"en": "s. intended to deceive"
+},
+{
+"word": "convivial",
+"pos": "a",
+"zh": "a. 酒宴的, 欢宴的, 欢乐的",
+"en": "s. occupied with or fond of the pleasures of good company"
+},
+{
+"word": "concave",
+"pos": "a",
+"zh": "a. 凹的 / [医] 凹的, 凹面的",
+"en": "a. curving inward"
+},
+{
+"word": "assuredly",
+"pos": "adv",
+"zh": "adv. 确实地, 无疑地, 确信地",
+"en": "r. without a doubt"
+},
+{
+"word": "tatty",
+"pos": "a",
+"zh": "a. 穿破的, 粗糙的, 不值钱的",
+"en": "s showing signs of wear and tear / s tastelessly showy"
+},
+{
+"word": "carpentry",
+"pos": "n",
+"zh": "n. 木工手艺, 木工业, 木器",
+"en": "n. the craft of a carpenter: making things out of wood"
+},
+{
+"word": "unseemly",
+"pos": "a",
+"zh": "a. 不合适的, 不适宜的, 不得体的",
+"en": "s not in keeping with accepted standards of what is right or proper in polite society"
+},
+{
+"word": "heredity",
+"pos": "n",
+"zh": "n. 遗传, 形质遗传 / [医] 遗传",
+"en": "n. the biological process whereby genetic factors are transmitted from one generation to the next / n. the total of inhe…"
+},
+{
+"word": "armada",
+"pos": "n",
+"zh": "n. 舰队",
+"en": "n. a large fleet"
+},
+{
+"word": "germane",
+"pos": "a",
+"zh": "a. 关系密切的, 有关的, 同样的, 恰当的, 贴切的 / [机] 锗烷",
+"en": "s. relevant and appropriate"
+},
+{
+"word": "interloper",
+"pos": "n",
+"zh": "n. 闯入者, 好事者, 无执照营业者 / [经] 无执照营业者, 私商",
+"en": "n someone who intrudes on the privacy or property of another without permission"
+},
+{
+"word": "patrician",
+"pos": "n/a",
+"zh": "n. 贵族, 有教养的人 / a. 贵族的, 显贵的",
+"en": "n. a person of refined upbringing and manners / s. befitting a person of noble origin"
+},
+{
+"word": "incantation",
+"pos": "n",
+"zh": "n. 咒语",
+"en": "n. a ritual recitation of words or sounds believed to have a magical effect"
+},
+{
+"word": "verbatim",
+"pos": "a/adv",
+"zh": "a. 逐字的, 照字面的 / adv. 逐字地",
+"en": "r. using exactly the same words"
+},
+{
+"word": "ambulatory",
+"pos": "a/n",
+"zh": "a. 步行的, 走动的, 流动的, 非固定的 / n. 回廊",
+"en": "n. a covered walkway (as in a cloister) / a. relating to or adapted for walking"
+},
+{
+"word": "cranial",
+"pos": "a",
+"zh": "a. 头盖的, 颅侧的 / [医] 颅的, 颅侧的",
+"en": "a. of or relating to the cranium which encloses the brain"
+},
+{
+"word": "vandalize",
+"pos": "vt",
+"zh": "vt. 肆意破坏 / [法] 摧残文化, 破坏财产",
+"en": "v. destroy wantonly, as through acts of vandalism"
+},
+{
+"word": "olfactory",
+"pos": "a/n",
+"zh": "a. 嗅觉的, 味道的 / n. 嗅觉器官, 嗅神经",
+"en": "a. of or relating to olfaction"
+},
+{
+"word": "lout",
+"pos": "n/vt/vi",
+"zh": "n. 蠢人 / vt. 愚弄 / vi. 屈服",
+"en": "n. an awkward stupid person"
+},
+{
+"word": "distillation",
+"pos": "n",
+"zh": "n. 蒸馏 / [化] 蒸馏; 蒸馏法",
+"en": "n. the process of purifying a liquid by boiling it and condensing its vapors"
+},
+{
+"word": "uncouth",
+"pos": "a",
+"zh": "a. 笨拙的, 粗野的, 荒凉的",
+"en": "s lacking refinement or cultivation or taste"
+},
+{
+"word": "encyclopedic",
+"pos": "a",
+"zh": "a. 如百科辞典的, 百科全书式的",
+"en": "s. broad in scope or content"
+},
+{
+"word": "feckless",
+"pos": "a",
+"zh": "a. 无效的, 无能的, 不负责任的",
+"en": "s. not fit to assume responsibility / s. generally incompetent and ineffectual"
+},
+{
+"word": "eggshell",
+"pos": "n",
+"zh": "n. 蛋壳",
+"en": "n the exterior covering of a bird's egg"
+},
+{
+"word": "straggle",
+"pos": "vi/n",
+"zh": "vi. 掉队, 落伍, 蔓延, 散乱 / n. 低空扫射",
+"en": "n. a wandering or disorderly grouping (of things or persons)"
+},
+{
+"word": "miniskirt",
+"pos": "n",
+"zh": "n. 超短裙",
+"en": "n. a very short skirt"
+},
+{
+"word": "pulverize",
+"pos": "vt/vi",
+"zh": "vt. 把...磨成粉 / vi. 变成粉",
+"en": "v make into a powder by breaking up or cause to become dust / v destroy completely / v become powder or dust"
+},
+{
+"word": "sinew",
+"pos": "n/vt",
+"zh": "n. 肌肉, 精力, 体力, 力量的源泉, 腱 / vt. 赋予力量, 加强",
+"en": "n a cord or band of inelastic tissue connecting a muscle with its bony attachment / n possessing muscular strength"
+},
+{
+"word": "dynamo",
+"pos": "n",
+"zh": "n. 发电机 / [医] 电机, 发电机",
+"en": "n. generator consisting of a coil (the armature) that rotates between the poles of an electromagnet (the field magnet) c…"
+},
+{
+"word": "shuck",
+"pos": "n/v",
+"zh": "n. 壳, 外皮, 牡蛎壳 / v. 剥去, 脱去",
+"en": "v. remove from the shell / v. remove the shucks from"
+},
+{
+"word": "rascal",
+"pos": "n",
+"zh": "n. 流氓, 无赖, 坏蛋, 淘气鬼 / [法] 流氓, 无赖, 恶棍",
+"en": "n a deceitful and unreliable scoundrel / n one who is playfully mischievous"
+},
+{
+"word": "desultory",
+"pos": "a",
+"zh": "a. 散漫的, 无条理的, 不连贯的",
+"en": "s. marked by lack of definite plan or regularity or purpose; jumping from one thing to another"
+},
+{
+"word": "daub",
+"pos": "v/n",
+"zh": "v. 涂抹, 乱画, 弄脏 / n. 污迹, 劣画",
+"en": "n. material used to daub walls / n. an unskillful painting / v. apply to a surface"
+},
+{
+"word": "cellist",
+"pos": "n",
+"zh": "n. 大提琴演奏家",
+"en": "n. someone who plays a violoncello"
+},
+{
+"word": "aphorism",
+"pos": "n",
+"zh": "n. 格言, 警语",
+"en": "n. a short pithy instructive saying"
+},
+{
+"word": "serpentine",
+"pos": "a/n/vi/vt",
+"zh": "a. 蛇的, 层层卷绕的, 阴险的, 迂回的 / n. 蛇纹石, 弯弯曲曲之物 / vi. 蜿蜒 / vt. 使迂回曲折地行进",
+"en": "s. resembling a serpent in form"
+},
+{
+"word": "impressionable",
+"pos": "a",
+"zh": "a. 易感的, 敏感的, 可塑的",
+"en": "a. easily impressed or influenced"
+},
+{
+"word": "pallid",
+"pos": "a",
+"zh": "a. 苍白的, 暗淡的, 无生气的",
+"en": "s abnormally deficient in color as suggesting physical or emotional distress / s (of light) lacking in intensity or brig…"
+},
+{
+"word": "gnat",
+"pos": "n",
+"zh": "n. 小昆虫, 蚊子, 小烦扰 / [医] 蚊, 蚋",
+"en": "n. any of various small biting flies: midges; biting midges; black flies; sand flies / n. (British usage) mosquito"
+},
+{
+"word": "metamorphose",
+"pos": "vt/vi",
+"zh": "vt. 使变形, 使变态, 使变质 / vi. 变形, 变质",
+"en": "v. change completely the nature or appearance of"
+},
+{
+"word": "begrudge",
+"pos": "vt",
+"zh": "vt. 嫉妒, 羡慕, 勉强允给, 吝惜",
+"en": "v. wish ill or allow unwillingly"
+},
+{
+"word": "capsize",
+"pos": "v",
+"zh": "v. 翻覆, 倾覆",
+"en": "v. overturn accidentally"
+},
+{
+"word": "exorcise",
+"pos": "vt",
+"zh": "vt. 驱邪, 除怪",
+"en": "v. expel through adjuration or prayers"
+},
+{
+"word": "ardor",
+"pos": "n",
+"zh": "n. 热忱, 热情, 情欲, 激情, 灼热 / [医] 灼热; 热心",
+"en": "n. a feeling of strong eagerness (usually in favor of a person or cause) / n. intense feeling of love / n. feelings of g…"
+},
+{
+"word": "debar",
+"pos": "vt",
+"zh": "vt. 排除, 防止, 禁止 / [法] 阻止, 阻挡, 排除",
+"en": "v. prevent the occurrence of; prevent from happening"
+},
+{
+"word": "technocrat",
+"pos": "n",
+"zh": "n. 技术专家治国论者, 技术专家统治论者",
+"en": "n. an expert who is a member of a highly skilled elite group / n. an advocate of technocracy"
+},
+{
+"word": "invigorate",
+"pos": "vt",
+"zh": "vt. 使精力充沛, 鼓舞, 搞活, 使健壮",
+"en": "v. impart vigor, strength, or vitality to"
+},
+{
+"word": "ingrained",
+"pos": "a",
+"zh": "a. 根深蒂固的, 彻底的, 深染的",
+"en": "v thoroughly work in / v produce or try to produce a vivid impression of / s (used especially of ideas or principles) de…"
+},
+{
+"word": "cleaver",
+"pos": "n",
+"zh": "n. 切肉刀, 切割者, 劈脊 / [医] 劈刀",
+"en": "n. a butcher's knife having a large square blade"
+},
+{
+"word": "virtuosity",
+"pos": "n",
+"zh": "n. 精湛技巧, 对古董等的爱好",
+"en": "n. technical skill or fluency or style exhibited by a virtuoso"
+},
+{
+"word": "quack",
+"pos": "n/a/v",
+"zh": "n. 鸭叫声, 冒牌医生, 冒充内行之人 / a. 冒牌医生的 / v. 嘎嘎叫, 当冒牌医生, 夸大广告",
+"en": "n. an untrained person who pretends to be a physician and who dispenses medical advice / n. the harsh sound of a duck / …"
+},
+{
+"word": "collude",
+"pos": "vi",
+"zh": "vi. 共谋, 串通, 勾结",
+"en": "v act in unison or agreement and in secret towards a deceitful or illegal purpose"
+},
+{
+"word": "gangway",
+"pos": "n/interj",
+"zh": "n. 通道, 通路, 跳板 / interj. 让路",
+"en": "n. a temporary passageway of planks (as over mud on a building site)"
+},
+{
+"word": "foible",
+"pos": "n",
+"zh": "n. 弱点, 缺点",
+"en": "n. the weaker part of a sword's blade from the forte to the tip"
+},
+{
+"word": "chalice",
+"pos": "n",
+"zh": "n. 酒杯, 圣餐杯",
+"en": "n. a bowl-shaped drinking vessel; especially the Eucharistic cup"
+},
+{
+"word": "burnish",
+"pos": "vt/vi/n",
+"zh": "vt. 擦亮, 打磨, 磨光 / vi. 磨光发亮 / n. 光辉, 光泽",
+"en": "n the property of being smooth and shiny / v polish and make shiny"
+},
+{
+"word": "decibel",
+"pos": "n",
+"zh": "n. 分贝 / [计] 分贝",
+"en": "n. a logarithmic unit of sound intensity; 10 times the logarithm of the ratio of the sound intensity to some reference i…"
+},
+{
+"word": "rhinestone",
+"pos": "n",
+"zh": "n. 莱茵石",
+"en": "n. an imitation diamond made from rock crystal or glass or paste"
+},
+{
+"word": "irreparable",
+"pos": "a",
+"zh": "a. 不能修补的, 不能挽回的 / [法] 不可弥补的, 不可挽回的",
+"en": "a. impossible to repair, rectify, or amend"
+},
+{
+"word": "duckling",
+"pos": "n",
+"zh": "n. 小鸭子",
+"en": "n. flesh of a young domestic duck / n. young duck"
+},
+{
+"word": "acolyte",
+"pos": "n",
+"zh": "n. 侍僧, 助手",
+"en": "n. someone who assists a priest or minister in a liturgical service; a cleric ordained in the highest of the minor order…"
+},
+{
+"word": "privation",
+"pos": "n",
+"zh": "n. 缺乏, 穷困",
+"en": "n. a state of extreme poverty / n. act of depriving someone of food or money or rights"
+},
+{
+"word": "cleave",
+"pos": "vt/vi",
+"zh": "vt. 劈开, 分开 / vi. 劈开, 分开, 粘着, 依恋",
+"en": "v. separate or cut with a tool, such as a sharp instrument / v. make by cutting into"
+},
+{
+"word": "mettle",
+"pos": "n",
+"zh": "n. 气质, 耐力, 勇气",
+"en": "n the courage to carry on"
+},
+{
+"word": "stencil",
+"pos": "n/vt",
+"zh": "n. 模版, 蜡纸 / vt. 用蜡纸印, 用模版印刷",
+"en": "n. a sheet of material (metal, plastic, cardboard, waxed paper, silk, etc.) that has been perforated with a pattern (pri…"
+},
+{
+"word": "proscribe",
+"pos": "vt",
+"zh": "vt. 剥夺...的公民权, 使失去法律保护, 把...充军, 把...放逐, 排斥, 禁止",
+"en": "v command against"
+},
+{
+"word": "dyslexia",
+"pos": "n",
+"zh": "n. 诵读困难 / [医] 诵读困难",
+"en": "n. impaired ability to learn to read"
+},
+{
+"word": "excrete",
+"pos": "vt",
+"zh": "vt. 排泄, 分泌 / [医] 排泄, 分泌",
+"en": "v. eliminate from the body"
+},
+{
+"word": "laconic",
+"pos": "a",
+"zh": "a. 简洁的, 简明的",
+"en": "s brief and to the point; effectively cut short; `yes'\""
+},
+{
+"word": "immemorial",
+"pos": "a",
+"zh": "a. 太古的, 远古的, 无法追忆的 / [法] 无法追溯的, 无法记忆的, 太古的",
+"en": "s. long past; beyond the limits of memory or tradition or recorded history"
+},
+{
+"word": "ogle",
+"pos": "n/vt/vi",
+"zh": "n. 眉目传情 / vt. 挑逗地注视 / vi. 做媚眼",
+"en": "v. look at with amorous intentions"
+},
+{
+"word": "barbarous",
+"pos": "a",
+"zh": "a. 野蛮的, 残暴的, 粗野的",
+"en": "s. (of persons or their actions) able or disposed to inflict pain or suffering / s. primitive in customs and culture"
+},
+{
+"word": "verve",
+"pos": "n",
+"zh": "n. 热情, 气魄, 神韵, 活力",
+"en": "n an energetic style"
+},
+{
+"word": "biennial",
+"pos": "n/a",
+"zh": "n. 两年生植物, 两年一次的事 / a. 两年生的, 两年一次的",
+"en": "n. (botany) a plant having a life cycle that normally takes two seasons from germination to death to complete; flowering…"
+},
+{
+"word": "demagogue",
+"pos": "n",
+"zh": "n. 煽动者",
+"en": "n. a political leader who seeks support by appealing to popular passions and prejudices"
+},
+{
+"word": "monochromatic",
+"pos": "a",
+"zh": "a. 单色的, 单频的 / [化] 单色的",
+"en": "a. of or relating to monochromatism / a. (of light or other electromagnetic radiation) having only one wavelength / s. h…"
+},
+{
+"word": "needlework",
+"pos": "n",
+"zh": "n. 刺绣, 缝纫",
+"en": "n. a creation created or assembled by needle and thread / n. work (such as sewing or embroidery) that is done with a nee…"
+},
+{
+"word": "loiter",
+"pos": "v",
+"zh": "v. 闲荡, 虚度, 徘徊",
+"en": "v. be about"
+},
+{
+"word": "indefatigable",
+"pos": "a",
+"zh": "a. 不知疲倦的, 有耐性的, 不屈不挠的",
+"en": "s. showing sustained enthusiastic action with unflagging vitality"
+},
+{
+"word": "lithograph",
+"pos": "n/vt",
+"zh": "n. 平版印刷品, 石版画 / vt. 以平版印刷",
+"en": "n. a print produced by lithography / n. duplicator that prints by lithography; a flat surface (of stone or metal) is tre…"
+},
+{
+"word": "erratically",
+"pos": "adv",
+"zh": "adv. 不规律地, 不定地",
+"en": "r. in an erratic unpredictable manner"
+},
+{
+"word": "ensconce",
+"pos": "vt",
+"zh": "vt. 安顿下来, 安置, 使隐藏",
+"en": "v. fix firmly"
+},
+{
+"word": "larynx",
+"pos": "n",
+"zh": "n. 喉头 / [医] 喉",
+"en": "n. a cartilaginous structure at the top of the trachea; contains elastic vocal cords that are the source of the vocal to…"
+},
+{
+"word": "transact",
+"pos": "vt/vi",
+"zh": "vt. 办理, 处理 / vi. 作交易, 谈判",
+"en": "v. conduct business"
+},
+{
+"word": "servile",
+"pos": "a",
+"zh": "a. 奴隶的, 奴性的, 卑屈的",
+"en": "a. submissive or fawning in attitude or behavior / s. relating to or involving slaves or appropriate for slaves or serva…"
+},
+{
+"word": "immanent",
+"pos": "a",
+"zh": "a. 内在的, 固有的",
+"en": "a. of a mental act performed entirely within the mind / s. of qualities that are spread throughout something"
+},
+{
+"word": "corporeal",
+"pos": "a",
+"zh": "a. 肉体的, 有形的, 物质的 / [法] 有体的, 具体的, 物质的",
+"en": "a. having material or physical form or substance"
+},
+{
+"word": "plait",
+"pos": "n/vt",
+"zh": "n. 褶, 辫子, 麦秆条带 / vt. 打褶, 编织, 把...编成辫",
+"en": "v. weave into plaits"
+},
+{
+"word": "playroom",
+"pos": "n",
+"zh": "n. 游戏室, 娱乐室",
+"en": "n a recreation room for noisy activities (parties or children's play etc)"
+}
+]

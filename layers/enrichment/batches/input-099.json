@@ -1,0 +1,602 @@
+[
+{
+"word": "moat",
+"pos": "n/vt",
+"zh": "n. 壕沟, 护城河 / vt. 将...围以壕沟",
+"en": "n. ditch dug as a fortification and usually filled with water"
+},
+{
+"word": "heyday",
+"pos": "n/interj",
+"zh": "n. 全盛期 / interj. 嘿",
+"en": "n the period of greatest prosperity or productivity"
+},
+{
+"word": "forgery",
+"pos": "n",
+"zh": "n. 伪造, 伪造罪, 伪造物 / [经] 伪造签字, 伪造品",
+"en": "n. criminal falsification by making or altering an instrument with intent to defraud"
+},
+{
+"word": "skillful",
+"pos": "a",
+"zh": "a. 熟练的, 巧妙的 / [机] 熟练的",
+"en": "s having or showing knowledge and skill and aptitude / s done with delicacy and skill"
+},
+{
+"word": "faraway",
+"pos": "a",
+"zh": "a. 遥远的, 恍惚的, 出神的",
+"en": "s. very far away in space or time / s. far removed mentally"
+},
+{
+"word": "bailiff",
+"pos": "n",
+"zh": "n. 法警, 郡副司法长官, 乡长 / [法] 执达员, 法警, 法庭监守官",
+"en": "n. an officer of the court who is employed to execute writs and processes and make arrests etc."
+},
+{
+"word": "crayon",
+"pos": "n/vt",
+"zh": "n. 蜡笔, 蜡笔画 / vt. 以蜡笔作画",
+"en": "n. writing implement consisting of a colored stick of composition wax used for writing and drawing / v. write, draw, or …"
+},
+{
+"word": "cervical",
+"pos": "a",
+"zh": "a. 颈的, 子宫颈的 / [医] 颈的",
+"en": "a. of or relating to the cervix of the uterus / a. relating to or associated with the neck"
+},
+{
+"word": "darn",
+"pos": "n/v",
+"zh": "n. 织补 / v. 织补",
+"en": "v. repair by sewing"
+},
+{
+"word": "mayhem",
+"pos": "n",
+"zh": "n. 蓄意的破坏, 故意的伤害罪 / [医] 伤残, 残废",
+"en": "n. the willful and unlawful crippling or mutilation of another person"
+},
+{
+"word": "brim",
+"pos": "n/vt/vi",
+"zh": "n. 边, 边缘, (河)边 / vt. 注满, 使满溢 / vi. 满溢",
+"en": "n. the top edge of a vessel or other container / n. a circular projection that sticks outward from the crown of a hat / …"
+},
+{
+"word": "gratification",
+"pos": "n",
+"zh": "n. 令人满足的事(或物), 满足, 喜悦 / [医] 愿望满足, 满意",
+"en": "n. state of being gratified or satisfied / n. the act or an instance of satisfying"
+},
+{
+"word": "terminus",
+"pos": "n",
+"zh": "n. 终点, 界标, 终点站 / [法] 界标, 界牌, 界石",
+"en": "n. (architecture) a statue or a human bust or an animal carved out of the top of a square pillar; originally used as a b…"
+},
+{
+"word": "varnish",
+"pos": "n/vt",
+"zh": "n. 清漆, 虚饰, 光泽的表面 / vt. 粉饰, 涂清漆于, 装饰, 使有光泽",
+"en": "n. a coating that provides a hard, lustrous, transparent finish to a surface / v. cover with varnish"
+},
+{
+"word": "arson",
+"pos": "n",
+"zh": "n. 纵火, 纵火罪 / [法] 纵火, 放火",
+"en": "n. malicious burning to destroy property"
+},
+{
+"word": "smug",
+"pos": "a/n",
+"zh": "a. 自以为是的, 自鸣得意的, 整洁的 / n. 书呆子, 自命不凡的家伙",
+"en": "s. marked by excessive complacency or self-satisfaction"
+},
+{
+"word": "insidious",
+"pos": "a",
+"zh": "a. 隐伏的, 阴险的, 狡猾的 / [医] 隐袭的",
+"en": "s. beguiling but harmful / s. intended to entrap / s. working or spreading in a hidden and usually injurious way"
+},
+{
+"word": "dosage",
+"pos": "n",
+"zh": "n. 剂量, 用量, 配药 / [医] 剂量",
+"en": "n the quantity of an active agent (substance or radiation) taken in or absorbed at any one time / n a measured portion o…"
+},
+{
+"word": "swine",
+"pos": "n",
+"zh": "n. 猪, 卑鄙的家伙",
+"en": "n. stout-bodied short-legged omnivorous animals"
+},
+{
+"word": "paradoxical",
+"pos": "a",
+"zh": "a. 似非而是的, 矛盾的, 诡论的 / [医] 奇异的, 矛盾的, 逆理的, 反常的",
+"en": "s. seemingly contradictory but nonetheless possibly true"
+},
+{
+"word": "inlet",
+"pos": "n",
+"zh": "n. 进口, 插入物 / [化] 入口; 进口; 投料口; 供料口",
+"en": "n. an arm off of a larger body of water (often between rocky headlands)"
+},
+{
+"word": "ambient",
+"pos": "a/n",
+"zh": "a. 周围的 / n. 周围环境",
+"en": "s. completely enveloping"
+},
+{
+"word": "negate",
+"pos": "vt",
+"zh": "vt. 否定, 否认, 取消 / [计] 非",
+"en": "v. prove negative; show to be false"
+},
+{
+"word": "reddish",
+"pos": "a",
+"zh": "a. 微红的, 略带红色的",
+"en": "s of a color at the end of the color spectrum (next to orange); resembling the color of blood or cherries or tomatoes or…"
+},
+{
+"word": "scallop",
+"pos": "n/vt/vi",
+"zh": "n. 扇贝 / vt. 用扇贝状碟烘烤 / vi. 拾扇贝",
+"en": "n. one of a series of rounded projections (or the notches between them) formed by curves along an edge (as the edge of a…"
+},
+{
+"word": "dyke",
+"pos": "n",
+"zh": "n. 堤",
+"en": "n (slang) offensive term for a lesbian who is noticeably masculine / n a barrier constructed to contain the flow of wate…"
+},
+{
+"word": "debit",
+"pos": "n/vt",
+"zh": "n. 借方, 借 / vt. 记入借方",
+"en": "n. an accounting entry acknowledging sums that are owing / v. enter as debit"
+},
+{
+"word": "auctioneer",
+"pos": "n/vt",
+"zh": "n. 拍卖商 / vt. 拍卖",
+"en": "n. an agent who conducts an auction"
+},
+{
+"word": "sunflower",
+"pos": "n",
+"zh": "n. 向日葵",
+"en": "n. any plant of the genus Helianthus having large flower heads with dark disk florets and showy yellow rays"
+},
+{
+"word": "switchboard",
+"pos": "n",
+"zh": "n. 配电盘, 接线总机 / [电] 交换台",
+"en": "n. telephone central where circuits are completed with patchcords"
+},
+{
+"word": "horsepower",
+"pos": "n",
+"zh": "n. 马力 / [电] 马力",
+"en": "n. a unit of power equal to 746 watts"
+},
+{
+"word": "thyroid",
+"pos": "a/n",
+"zh": "a. 甲状腺的, 甲状的, 甲状软骨的 / n. 甲状腺, 甲状软骨, 甲状腺剂",
+"en": "a. of or relating to the thyroid gland / a. suggestive of a thyroid disorder"
+},
+{
+"word": "diligence",
+"pos": "n",
+"zh": "n. 勤奋",
+"en": "n. conscientiousness in paying proper attention to a task; giving the degree of care required in a given situation / n. …"
+},
+{
+"word": "uterus",
+"pos": "n",
+"zh": "n. 子宫 / [医] 子宫",
+"en": "n. a hollow muscular organ in the pelvic cavity of females; contains the developing fetus"
+},
+{
+"word": "collusion",
+"pos": "n",
+"zh": "n. 共谋, 勾结 / [经] 勾结, 串通, 串同舞弊",
+"en": "n. secret agreement"
+},
+{
+"word": "emerald",
+"pos": "n/a",
+"zh": "n. 翡翠, 绿宝石, 翠绿色 / a. 翡翠的, 翠绿色的",
+"en": "n. a green transparent form of beryl; highly valued as a gemstone / n. a transparent piece of emerald that has been cut …"
+},
+{
+"word": "sadden",
+"pos": "vt/vi",
+"zh": "vt. 使忧愁, 使悲哀 / vi. 忧愁, 悲哀",
+"en": "v. make unhappy / v. come to feel sad"
+},
+{
+"word": "underdog",
+"pos": "n",
+"zh": "n. 斗败了的狗, 失败者, 受害者 / [法] 受压迫者, 在不健全的社会的受害者",
+"en": "n. one at a disadvantage and expected to lose"
+},
+{
+"word": "sham",
+"pos": "n/a/vt/vi",
+"zh": "n. 假, 赝品, 骗子, 哄骗 / a. 假的, 伪造的 / vt. 假装, 冒充 / vi. 装假",
+"en": "n something that is a counterfeit; not what it seems to be / n a person who makes deceitful pretenses / v make a pretenc…"
+},
+{
+"word": "exclamation",
+"pos": "n",
+"zh": "n. 惊呼, 激烈言词, 惊叹词",
+"en": "n. an abrupt excited utterance / n. a loud complaint or protest or reproach"
+},
+{
+"word": "snowflake",
+"pos": "n",
+"zh": "n. 雪片, 雪花, 雪片莲",
+"en": "n. a crystal of snow"
+},
+{
+"word": "billow",
+"pos": "n/vi/vt",
+"zh": "n. 巨浪 / vi. 象巨浪般汹涌, 象巨浪般波动 / vt. 使翻腾",
+"en": "n. a large sea wave / v. rise up as if in waves / v. move with great difficulty / v. rise and move, as in waves or billo…"
+},
+{
+"word": "composure",
+"pos": "n",
+"zh": "n. 镇静, 沉着",
+"en": "n. steadiness of mind under stress"
+},
+{
+"word": "cramp",
+"pos": "n/a/vt",
+"zh": "n. 痉挛, 腹部绞痛, 铁夹钳 / a. 狭窄的, 难认的 / vt. 使抽筋, 以铁箍扣紧, 束缚",
+"en": "n. a clamp for holding pieces of wood together while they are glued / n. a strip of metal with ends bent at right angles…"
+},
+{
+"word": "marinade",
+"pos": "n/vt",
+"zh": "n. 腌泡汁 / vt. 腌泡",
+"en": "n. mixtures of vinegar or wine and oil with various spices and seasonings; used for soaking foods before cooking / v. so…"
+},
+{
+"word": "animate",
+"pos": "vt/a",
+"zh": "vt. 使有生气, 赋予生命 / a. 有生命的, 有生气的",
+"en": "v. give new life or energy to / a. belonging to the class of nouns that denote living beings / a. endowed with animal li…"
+},
+{
+"word": "admonish",
+"pos": "vt",
+"zh": "vt. 警告, 劝告, 训诫, 告诫",
+"en": "v. take to task"
+},
+{
+"word": "custard",
+"pos": "n",
+"zh": "n. 蛋奶糕 / [化] 乳蛋糕",
+"en": "n. sweetened mixture of milk and eggs baked or boiled or frozen"
+},
+{
+"word": "skyrocket",
+"pos": "vi/n",
+"zh": "vi. 飞涨, 突升 / n. 焰火",
+"en": "n. sends a firework display high into the sky"
+},
+{
+"word": "appease",
+"pos": "vt",
+"zh": "vt. 抚慰, 缓解, 平息, 姑息 / [法] 使和缓, 使满足, 姑息",
+"en": "v cause to be more favorably inclined; gain the good will of / v overcome or allay / v make peace with"
+},
+{
+"word": "pathological",
+"pos": "a",
+"zh": "a. 病理学的, 由疾病引起的, (非正式)不合理的, 仅由想象引起的, 不理智的 / [计] 错误的",
+"en": "a. of or relating to the practice of pathology / s. caused by or evidencing a mentally disturbed condition"
+},
+{
+"word": "trance",
+"pos": "n/vt",
+"zh": "n. 昏睡状态, 恍惚, 着迷 / vt. 使恍惚, 使发呆",
+"en": "n. a state of mind in which consciousness is fragile and voluntary action is poor or missing; a state resembling deep sl…"
+},
+{
+"word": "teapot",
+"pos": "n",
+"zh": "n. 茶壶",
+"en": "n. pot for brewing tea; usually has a spout and handle"
+},
+{
+"word": "industrialization",
+"pos": "n",
+"zh": "n. 工业化, 产业化 / [经] 工业化",
+"en": "n. the development of industry on an extensive scale"
+},
+{
+"word": "cohesive",
+"pos": "a",
+"zh": "a. 黏合在一起的 / [医] 内聚的",
+"en": "s. causing cohesion / s. cohering or tending to cohere; well integrated"
+},
+{
+"word": "passageway",
+"pos": "n",
+"zh": "n. 通道, 走廊",
+"en": "n. a passage between rooms or between buildings"
+},
+{
+"word": "firewood",
+"pos": "n",
+"zh": "n. 木柴",
+"en": "n. wood used for fuel"
+},
+{
+"word": "pedagogy",
+"pos": "n",
+"zh": "n. 教育学, 教授法, 教学工作",
+"en": "n the principles and methods of instruction / n the profession of a teacher / n the activities of educating or instructi…"
+},
+{
+"word": "sneer",
+"pos": "n/vi/vt",
+"zh": "n. 冷笑, 嘲笑 / vi. 嘲笑, 冷笑 / vt. 嘲笑着说, 嘲笑得使",
+"en": "n. a facial expression of contempt or scorn; the upper lip curls / n. a contemptuous or scornful remark / v. express thr…"
+},
+{
+"word": "duvet",
+"pos": "n",
+"zh": "n. 羽绒被",
+"en": "n a soft quilt usually filled with the down of the eider"
+},
+{
+"word": "directorate",
+"pos": "n",
+"zh": "n. 理事之职务, 董事会, 理事会 / [经] 董事会",
+"en": "n. a group of persons chosen to govern the affairs of a corporation or other large institution"
+},
+{
+"word": "healthful",
+"pos": "a",
+"zh": "a. 有益健康的, 使人健康的, 卫生的 / [法] 有益健康的, 健康的, 卫生的",
+"en": "a. conducive to good health of body or mind"
+},
+{
+"word": "muzzle",
+"pos": "n/vt",
+"zh": "n. 动物之鼻口, 口套, 枪口 / vt. 戴口套于, 使缄默",
+"en": "n. forward projecting part of the head of certain animals; includes the jaws and nose / n. a leather or wire restraint t…"
+},
+{
+"word": "tenement",
+"pos": "n",
+"zh": "n. 房屋, 住房, 保有物, 居所 / [经] 地产, 住屋",
+"en": "n. a run-down apartment house barely meeting minimal standards"
+},
+{
+"word": "incarcerate",
+"pos": "vt",
+"zh": "vt. 下狱, 监禁, 禁闭 / [法] 监禁, 使下狱, 禁闭",
+"en": "v lock up or confine, in or as in a jail"
+},
+{
+"word": "stealth",
+"pos": "n",
+"zh": "n. 秘密行动, 秘密, 鬼祟 / [法] 秘密行动, 鬼祟",
+"en": "n. avoiding detection by moving carefully"
+},
+{
+"word": "heresy",
+"pos": "n",
+"zh": "n. 异端, 异教 / [法] 异端邪说, 异教, 信奉异教",
+"en": "n. a belief that rejects the orthodox tenets of a religion"
+},
+{
+"word": "incision",
+"pos": "n",
+"zh": "n. 切口, 切割, 雕刻, 切入 / [医] 切口, 切开, 缺口(叶)",
+"en": "n. a depression scratched or carved into a surface / n. the cutting of or into body tissues or organs (especially by a s…"
+},
+{
+"word": "gramophone",
+"pos": "n",
+"zh": "n. 留声机",
+"en": "n. an antique record player; the sound of the vibrating needle is amplified acoustically"
+},
+{
+"word": "deacon",
+"pos": "n/vt",
+"zh": "n. 副主祭, 执事, 行会会长 / vt. 朗读, 摆得好看些",
+"en": "n. a Protestant layman who assists the minister / n. a cleric ranking just below a priest in Christian churches; one of …"
+},
+{
+"word": "whirlwind",
+"pos": "n",
+"zh": "n. 旋风",
+"en": "n. a more or less vertical column of air whirling around itself as it moves over the surface of the Earth"
+},
+{
+"word": "conifer",
+"pos": "n",
+"zh": "n. 松柏目植物, 针叶树",
+"en": "n. any gymnospermous tree or shrub bearing cones"
+},
+{
+"word": "psychotherapy",
+"pos": "n",
+"zh": "n. 精神疗法, 心理疗法 / [医] 精神疗法, 心理疗法",
+"en": "n. the branch of psychiatry concerned with psychological methods / n. the treatment of mental or emotional problems by p…"
+},
+{
+"word": "aberration",
+"pos": "n",
+"zh": "n. 离开正路, 偏离, 畸变, 光行差, 心理失常, 色差 / [化] 光行差; 像差",
+"en": "n. a disorder in one's mental state / n. an optical phenomenon resulting from the failure of a lens or mirror to produce…"
+},
+{
+"word": "hunk",
+"pos": "n/a",
+"zh": "n. 大块 / a. 行的, 好的",
+"en": "n. a well-built sexually attractive man / n. a large piece of something without definite shape"
+},
+{
+"word": "aerosol",
+"pos": "n",
+"zh": "n. 烟, 雾 / [化] 气溶胶; 烟雾剂",
+"en": "n. a cloud of solid or liquid particles in a gas / n. a dispenser that holds a substance under pressure and that can rel…"
+},
+{
+"word": "bisexual",
+"pos": "a",
+"zh": "a. 两性的, 雌雄同体的 / [医] 两性的",
+"en": "n. a person who is sexually attracted to both sexes / a. sexually attracted to both sexes / s. having an ambiguous sexua…"
+},
+{
+"word": "spruce",
+"pos": "n/a/v",
+"zh": "n. 云杉 / a. 颇为干净的, 俏的, 整洁的 / v. (使)显干净, 打扮整齐",
+"en": "n. light soft moderately strong wood of spruce trees; used especially for timbers and millwork / n. any coniferous tree …"
+},
+{
+"word": "cartilage",
+"pos": "n",
+"zh": "n. 软骨 / [医] 软骨",
+"en": "n. tough elastic tissue; mostly converted to bone in adults"
+},
+{
+"word": "floorboard",
+"pos": "n",
+"zh": "n. 一块地板, 汽车底部板",
+"en": "n. a board in the floor / n. the floor of an automobile"
+},
+{
+"word": "crossover",
+"pos": "n",
+"zh": "n. 转到另一方, 天桥, 交叉 / [电] 交越",
+"en": "n. the appropriation of a new style (especially in popular music) by combining elements of different genres in order to …"
+},
+{
+"word": "churchman",
+"pos": "n",
+"zh": "n. 牧师",
+"en": "n a clergyman or other person in religious orders"
+},
+{
+"word": "rucksack",
+"pos": "n",
+"zh": "n. 帆布背包",
+"en": "n a bag carried by a strap on your back or shoulder"
+},
+{
+"word": "flint",
+"pos": "n",
+"zh": "n. 打火石, 燧石, 极硬的东西 / [化] 燧石",
+"en": "n. a hard kind of stone; a form of silica more opaque than chalcedony / n. a river in western Georgia that flows general…"
+},
+{
+"word": "vagina",
+"pos": "n",
+"zh": "n. 阴道, 鞘, 叶鞘 / [医] 阴道; 鞘",
+"en": "n. the lower part of the female reproductive tract; a moist canal in female mammals extending from the labia minora to t…"
+},
+{
+"word": "fungal",
+"pos": "a",
+"zh": "a. 真菌, 突然发生而迅速生长的东西, 真菌类植物, 海绵肿, 真菌类病害 / [医] 真菌的, 霉菌的",
+"en": "a. of or relating to fungi"
+},
+{
+"word": "creak",
+"pos": "n/vi",
+"zh": "n. 辗轧声, 嘎吱嘎吱声 / vi. 作辗轧声, 发出辗轧声",
+"en": "n. a squeaking sound"
+},
+{
+"word": "dictum",
+"pos": "n",
+"zh": "n. 声明, 格言, 法官意见 / [法] 宣言, 声明, 法官的意见",
+"en": "n an authoritative declaration / n an opinion voiced by a judge on a point of law not directly bearing on the case in qu…"
+},
+{
+"word": "punt",
+"pos": "n/v",
+"zh": "n. 方头平底船, 踢悬空球, 赌博者 / v. 踢悬空球, 用篙撑船, 赌博",
+"en": "n. an open flat-bottomed boat used in shallow waters and propelled by a long pole / n. (football) a kick in which the fo…"
+},
+{
+"word": "acorn",
+"pos": "n",
+"zh": "n. 橡树果实 / [机] 浆栎, 浆栎果",
+"en": "n. fruit of the oak tree: a smooth thin-walled nut in a woody cup-shaped base"
+},
+{
+"word": "bedrock",
+"pos": "n",
+"zh": "n. 基岩, 基本原理, 基础",
+"en": "n. solid unweathered rock lying beneath surface deposits of soil"
+},
+{
+"word": "tantrum",
+"pos": "n",
+"zh": "n. 发脾气, 发怒 / [医] 暴怒, 发脾气",
+"en": "n a display of bad temper"
+},
+{
+"word": "tundra",
+"pos": "n",
+"zh": "n. 苔原, 冻原",
+"en": "n. a vast treeless plain in the Arctic regions where the subsoil is permanently frozen"
+},
+{
+"word": "duel",
+"pos": "n/vi",
+"zh": "n. 决斗, 斗争 / vi. 决斗",
+"en": "n. a prearranged fight with deadly weapons by two people (accompanied by seconds) in order to settle a quarrel over a po…"
+},
+{
+"word": "steroid",
+"pos": "n",
+"zh": "n. 类固醇 / [化] 甾族化合物",
+"en": "n. any of several fat-soluble organic compounds having as a basis 17 carbon atoms in four rings; many have important phy…"
+},
+{
+"word": "anomalous",
+"pos": "a",
+"zh": "a. 不规则的, 反常的 / [医] 异常的, 反常的",
+"en": "s. deviating from the general or common order or type"
+},
+{
+"word": "stepmother",
+"pos": "n",
+"zh": "n. 继母",
+"en": "n. the wife of your father by a subsequent marriage"
+},
+{
+"word": "captor",
+"pos": "n",
+"zh": "n. 捕捉者, 逮捕他人者 / [法] 捕获者, 夺得者, 攻夺者",
+"en": "n. a person who captures and holds people or animals"
+},
+{
+"word": "cyclical",
+"pos": "a",
+"zh": "a. 周期的, 轮转的, 循环的, 轮列的, 轮卷的, 环状的, 环的, 组诗的, 始末的 / [计] 循环的",
+"en": "a recurring in cycles"
+},
+{
+"word": "suffocate",
+"pos": "vt/vi",
+"zh": "vt. 使窒息, 噎住, 闷熄 / vi. 闷死, 窒息, 受阻",
+"en": "v. impair the respiration of or obstruct the air passage of / v. become stultified, suppressed, or stifled / v. suppress…"
+}
+]

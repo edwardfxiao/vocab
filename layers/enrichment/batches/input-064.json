@@ -1,0 +1,602 @@
+[
+{
+"word": "ordeal",
+"pos": "n",
+"zh": "n. 严酷考验, 痛苦经历, 煎熬 / [法] 神裁判法, 严酷的考验, 痛苦的经验",
+"en": "n. a severe or trying experience / n. a primitive method of determining a person's guilt or innocence by subjecting the …"
+},
+{
+"word": "paycheck",
+"pos": "n",
+"zh": "n. 付薪水的支票, 薪水",
+"en": "n. a check issued in payment of wages or salary"
+},
+{
+"word": "reiterate",
+"pos": "vt",
+"zh": "vt. 反复地说, 重申, 反复地做 / [法] 重述, 重申, 反覆地做",
+"en": "v to say, state, or perform again"
+},
+{
+"word": "obstruction",
+"pos": "n",
+"zh": "n. 障碍, 妨碍, 闭塞物 / [医] 梗阻, 不通",
+"en": "n. any structure that makes progress difficult / n. the physical condition of blocking or filling a passage with an obst…"
+},
+{
+"word": "eccentric",
+"pos": "n/a",
+"zh": "n. 怪人, 偏心圆 / a. 古怪的, 反常的, 不同圆心的",
+"en": "n. a person with an unusual or odd personality / a. not having a common center; not concentric"
+},
+{
+"word": "breakup",
+"pos": "n",
+"zh": "n. 分裂, 崩溃, 解散, 解体 / [电] 停止",
+"en": "n the termination or disintegration of a relationship (between persons or nations) / n coming apart"
+},
+{
+"word": "recede",
+"pos": "vi",
+"zh": "vi. 向后退, 退却, 收回, 降低, 减弱 / [医] 退缩",
+"en": "v. become faint or more distant"
+},
+{
+"word": "abound",
+"pos": "vi",
+"zh": "vi. 大量存在, 富于, 充满",
+"en": "v. be abundant or plentiful; exist in large quantities / v. be in a state of movement or action"
+},
+{
+"word": "roast",
+"pos": "n/a/vt/vi",
+"zh": "n. 烤肉, 烘烤, 嘲笑 / a. 烘烤的, 烤过的 / vt. 烤, 炙, 烘焙, 嘲笑 / vi. 烤, 炙, 烘焙",
+"en": "n. a piece of meat roasted or for roasting and of a size for slicing into more than one portion / v. cook with dry heat,…"
+},
+{
+"word": "discreet",
+"pos": "a",
+"zh": "a. 小心的, 慎重的",
+"en": "a. marked by prudence or modesty and wise self-restraint"
+},
+{
+"word": "careless",
+"pos": "a",
+"zh": "a. 粗心的, 不关心的, 无忧无虑的",
+"en": "a. marked by lack of attention or consideration or forethought or thoroughness; not careful / s. effortless and unstudie…"
+},
+{
+"word": "plummet",
+"pos": "n/vi",
+"zh": "n. 测深锤, 铅坠 / vi. 垂直落下",
+"en": "v. drop sharply"
+},
+{
+"word": "boredom",
+"pos": "n",
+"zh": "n. 厌烦, 厌倦, 令人厌烦的事物",
+"en": "n. the feeling of being bored by something tedious"
+},
+{
+"word": "lust",
+"pos": "n/vi",
+"zh": "n. 贪欲, 欲望, 色欲 / vi. 贪求, 渴望, 动淫念",
+"en": "n. self-indulgent sexual desire (personified as one of the deadly sins)"
+},
+{
+"word": "masterpiece",
+"pos": "n",
+"zh": "n. 杰作, 名著",
+"en": "n. the most outstanding work of a creative artist or craftsman / n. an outstanding achievement"
+},
+{
+"word": "maze",
+"pos": "n/vt",
+"zh": "n. 迷宫, 迷惘 / vt. 使迷惘, 使混乱, 迷失",
+"en": "n. complex system of paths or tunnels in which it is easy to get lost"
+},
+{
+"word": "gem",
+"pos": "n/vt",
+"zh": "n. 珠宝, 宝石, 珍贵之物 / vt. 饰以宝石",
+"en": "n. art highly prized for its beauty or perfection / n. a crystalline rock that can be cut and polished for jewelry"
+},
+{
+"word": "humiliation",
+"pos": "n",
+"zh": "n. 耻辱, 丢脸, 谦卑",
+"en": "n. state of disgrace or loss of self-respect / n. an instance in which you are caused to lose your prestige or self-resp…"
+},
+{
+"word": "authoritative",
+"pos": "a",
+"zh": "a. 权威性的, 官方的, 命令式的 / [法] 官方的, 当局的, 权威的",
+"en": "s. having authority or ascendancy or influence / s. of recognized authority or excellence / s. sanctioned by established…"
+},
+{
+"word": "intrusion",
+"pos": "n",
+"zh": "n. 闯入, 侵扰 / [医] [向内]突入",
+"en": "n. entrance by force or without permission or welcome / n. the forcing of molten rock into fissures or between strata of…"
+},
+{
+"word": "demolition",
+"pos": "n",
+"zh": "n. 破坏, 毁坏, 撤销 / [经] 拆毁(除,破坏)",
+"en": "n. the act of demolishing"
+},
+{
+"word": "implicate",
+"pos": "vt/n",
+"zh": "vt. 涉及, 含意, 暗示, 牵连 / n. 包含的东西",
+"en": "v. bring into intimate and incriminating connection"
+},
+{
+"word": "obedience",
+"pos": "n",
+"zh": "n. 服从, 顺从, 忠实 / [法] 服从, 顺从, 遵从",
+"en": "n. the act of obeying; dutiful or submissive behavior with respect to another person / n. the trait of being willing to …"
+},
+{
+"word": "ashore",
+"pos": "adv",
+"zh": "adv. 向岸, 在岸上",
+"en": "r. towards the shore from the water"
+},
+{
+"word": "periodic",
+"pos": "a",
+"zh": "a. 周期的, 定期的, 间歇(性)的, 循环的, 用完整句的, 高碘的 / [医] 周期性的",
+"en": "a. happening or recurring at regular intervals / s. recurring or reappearing from time to time"
+},
+{
+"word": "gutter",
+"pos": "n/vt/vi",
+"zh": "n. 排水沟, 槽, 贫民区 / vt. 开沟于 / vi. 流 / [计] 装订线",
+"en": "n. a channel along the eaves or on the roof; collects and carries away rainwater / n. misfortune resulting in lost effor…"
+},
+{
+"word": "outgoing",
+"pos": "n/a",
+"zh": "n. 外出, 开支, 流出 / a. 喜欢外出的, 即将离职的, 乐于助人的",
+"en": "a. leaving a place or a position / a. retiring from a position or office"
+},
+{
+"word": "adore",
+"pos": "vt/vi",
+"zh": "vt. 崇拜, 爱慕, 喜爱 / vi. 崇拜, 爱慕",
+"en": "v. love intensely"
+},
+{
+"word": "literal",
+"pos": "a/n",
+"zh": "a. 逐字的, 字面上的, 文字的, 字母的 / n. 印刷错误 / [计] 文字; 直接量; 字面量; 句节",
+"en": "s. without interpretation or embellishment / a. limited to the explicit meaning of a word or text / s. avoiding embellis…"
+},
+{
+"word": "slippery",
+"pos": "a",
+"zh": "a. 滑的, 光滑的, 靠不住的, 圆滑的, 不稳固的 / [法] 狡猾的, 不可靠的, 不安定的",
+"en": "a. causing or tending to cause things to slip or slide / s. not to be trusted"
+},
+{
+"word": "infinitely",
+"pos": "adv",
+"zh": "adv. 无限地, 无数地, 庞大地",
+"en": "r. continuing forever without end"
+},
+{
+"word": "mesh",
+"pos": "n/vt/vi",
+"zh": "n. 网孔, 网丝, 网眼, 网状物, 圈套, 陷阱, 啮合 / vt. 以网捕捉, 啮合, 使缠住 / vi. 落网, 相啮合",
+"en": "n. the number of openings per linear inch of a screen; measures size of particles / n. the act of interlocking or meshin…"
+},
+{
+"word": "drawback",
+"pos": "n",
+"zh": "n. 缺点, 退税 / [法] 退款, 退税",
+"en": "n. the quality of being a hindrance"
+},
+{
+"word": "discern",
+"pos": "v",
+"zh": "v. 辨别, 看清楚, 了解",
+"en": "v detect with the senses"
+},
+{
+"word": "apprehension",
+"pos": "n",
+"zh": "n. 理解, 忧惧, 逮捕 / [医] 领会",
+"en": "n. fearful expectation or anticipation / n. painful expectation / n. the act of apprehending (especially apprehending a …"
+},
+{
+"word": "solicit",
+"pos": "v",
+"zh": "v. 请求, 乞求, 招揽, 征求",
+"en": "v. make a solicitation or entreaty for something; request urgently or persistently / v. incite, move, or persuade to som…"
+},
+{
+"word": "unpaid",
+"pos": "a",
+"zh": "a. 未付款的, 不支薪水的 / [经] 未付的, 未缴纳的",
+"en": "a. not paid / s. without payment"
+},
+{
+"word": "ache",
+"pos": "n/vi",
+"zh": "n. 疼痛 / vi. 痛, 哀怜, 渴望",
+"en": "n. a dull persistent (usually moderately intense) pain / v. have a desire for something or someone who is not present / …"
+},
+{
+"word": "anguish",
+"pos": "n/vt/vi",
+"zh": "n. 剧痛, 痛苦 / vt. 使极痛苦 / vi. 感到痛苦",
+"en": "n. extreme mental distress / n. extreme distress of body or mind / v. suffer great pains or distress"
+},
+{
+"word": "storey",
+"pos": "n",
+"zh": "n. 楼, 楼层, 层楼",
+"en": "n a structure consisting of a room or set of rooms at a single position along a vertical scale"
+},
+{
+"word": "dismay",
+"pos": "n/vt",
+"zh": "n. 沮丧 / vt. 使惊愕, 使气馁",
+"en": "v. fill with apprehension or alarm; cause to be unpleasantly surprised"
+},
+{
+"word": "pinch",
+"pos": "n/vt/vi",
+"zh": "n. 捏, 拧, 撮, 少量, 收缩, 挤压, 夹痛, 苦恼, 逮捕, 指控, 匮乏, 紧急关头 / vt. 捏, 拧, 掐, 挤压, 修剪, 使困苦, 使萎缩, 节制, 少量加入…",
+"en": "n. a painful or straitened circumstance / n. an injury resulting from getting some body part squeezed / n. a squeeze wit…"
+},
+{
+"word": "congratulations",
+"pos": "n",
+"zh": "n. 祝贺词, 祝贺语",
+"en": "n an expression of approval and commendation / n the act of acknowledging that someone has an occasion for celebration /…"
+},
+{
+"word": "annoy",
+"pos": "vt",
+"zh": "vt. 使恼怒, 骚扰",
+"en": "v. cause annoyance in; disturb, especially by minor irritations"
+},
+{
+"word": "deduce",
+"pos": "vt",
+"zh": "vt. 推论, 演绎出 / [法] 推断, 推出, 演绎",
+"en": "v. reason by deduction; establish by deduction / v. conclude by reasoning; in logic"
+},
+{
+"word": "speedy",
+"pos": "a",
+"zh": "a. 快的, 迅速的 / [经] 快的, 迅速的",
+"en": "s characterized by speed; moving with or capable of moving with high speed / s accomplished rapidly and without delay"
+},
+{
+"word": "spicy",
+"pos": "a",
+"zh": "a. 香的, 多香料的, 辛辣的, 下流的",
+"en": "s having an agreeably pungent taste / s producing a burning sensation on the taste nerves / s suggestive of sexual impro…"
+},
+{
+"word": "observatory",
+"pos": "n",
+"zh": "n. 天文台, 气象台, 了望台",
+"en": "n. a building designed and equipped to observe astronomical phenomena"
+},
+{
+"word": "endurance",
+"pos": "n",
+"zh": "n. 忍耐, 忍耐力, 耐性 / [机] 持九性",
+"en": "n. the power to withstand hardship or stress"
+},
+{
+"word": "indoors",
+"pos": "adv",
+"zh": "adv. 在户内",
+"en": "r within a building"
+},
+{
+"word": "identifiable",
+"pos": "a",
+"zh": "a. 可辨认的 / [法] 可证明为同一的, 可以办清的",
+"en": "a. capable of being identified"
+},
+{
+"word": "orderly",
+"pos": "a/n/adv",
+"zh": "a. 有秩序的, 整齐的, 值班的 / n. 护理员, 清道夫, 传令兵, 勤务兵 / adv. 依次地, 顺序地",
+"en": "n. a soldier who serves as an attendant to a superior officer / n. a male hospital attendant who has general duties that…"
+},
+{
+"word": "intentionally",
+"pos": "adv",
+"zh": "adv. 故意地, 有意地",
+"en": "r. with intention; in an intentional manner"
+},
+{
+"word": "quarrel",
+"pos": "n/vi",
+"zh": "n. 吵架, 反目, 怨言, 方头凿 / vi. 吵架, 争论, 挑剔",
+"en": "n. an angry dispute / n. an arrow that is shot from a crossbow; has a head with four edges / v. have a disagreement over…"
+},
+{
+"word": "pants",
+"pos": "n",
+"zh": "n. 裤子, 长裤, 短衬裤, 女式运动短裤",
+"en": "n underpants worn by women / n the noise made by a short puff of steam (as from an engine) / n (usually in the plural) a…"
+},
+{
+"word": "peninsula",
+"pos": "n",
+"zh": "n. 半岛, 突出的地方, 伊比利亚半岛",
+"en": "n. a large mass of land projecting into a body of water"
+},
+{
+"word": "flake",
+"pos": "n/vt/vi",
+"zh": "n. 小薄片, 扁薄的一层, 火星, 晒鱼架子 / vt. 使成薄片 / vi. 剥落",
+"en": "v. form into flakes / v. cover with flakes or as if with flakes"
+},
+{
+"word": "culinary",
+"pos": "a",
+"zh": "a. 厨房的, 烹调用的",
+"en": "a. of or relating to or used in cooking"
+},
+{
+"word": "alcoholic",
+"pos": "n/a",
+"zh": "n. 酒鬼, 酒精中毒者 / a. 酒精的",
+"en": "n. a person who drinks alcohol to excess habitually / a. characteristic of or containing alcohol / s. addicted to alcoho…"
+},
+{
+"word": "dissatisfaction",
+"pos": "n",
+"zh": "n. 不满, 不平",
+"en": "n. the feeling of being displeased and discontent"
+},
+{
+"word": "saga",
+"pos": "n",
+"zh": "n. 传说, 英雄传奇, 冒险故事",
+"en": "n. a narrative telling the adventures of a hero or a family; originally (12th to 14th centuries) a story of the families…"
+},
+{
+"word": "opener",
+"pos": "n",
+"zh": "n. 开...的人, 开局人, 开创人, 开具, 开启工具, 首项 / [经] 申请开证人",
+"en": "n. the first event in a series / n. a hand tool used for opening sealed containers (bottles or cans)"
+},
+{
+"word": "explorer",
+"pos": "n",
+"zh": "n. 探险家, 探测者, 勘探器 / [医] 探察器",
+"en": "n. someone who travels into little known regions (especially for some scientific purpose)"
+},
+{
+"word": "degradation",
+"pos": "n",
+"zh": "n. 降格, 堕落, 退化 / [计] 降级",
+"en": "n. changing to a lower state (a less respected state)"
+},
+{
+"word": "indifference",
+"pos": "n",
+"zh": "n. 不重视, 无兴趣, 漠不关心 / [法] 中立, 不偏袒, 不重视",
+"en": "n. unbiased impartial unconcern"
+},
+{
+"word": "relish",
+"pos": "n/vt/vi",
+"zh": "n. 滋味, 风味, 美味, 爱好, 食欲, 调味品 / vt. 调味, 喜欢, 玩味 / vi. 有味道",
+"en": "n. spicy or savory condiment / n. the taste experience when a savoury condiment is taken into the mouth"
+},
+{
+"word": "fingernail",
+"pos": "n",
+"zh": "n. 手指甲",
+"en": "n. the nail at the end of a finger"
+},
+{
+"word": "cubic",
+"pos": "a",
+"zh": "a. 立方体的, 立方的 / [机] 立方的, 立方体的",
+"en": "a. having three dimensions"
+},
+{
+"word": "inefficient",
+"pos": "a",
+"zh": "a. 无效率的, 无能的 / [医] 无效的, 无效力的",
+"en": "a. not producing desired results; wasteful"
+},
+{
+"word": "pedal",
+"pos": "n/a/vt/vi",
+"zh": "n. 踏板, 脚蹬子 / a. 脚的, 脚踏的 / vt. 用脚踏动 / vi. 踩踏板, 骑车",
+"en": "n. a lever that is operated with the foot / v. operate the pedals on a keyboard instrument / a. of or relating to the fe…"
+},
+{
+"word": "handbook",
+"pos": "n",
+"zh": "n. 手册 / [计] 手册",
+"en": "n. a concise reference book providing specific information about a subject or location"
+},
+{
+"word": "frail",
+"pos": "a/n",
+"zh": "a. 脆弱的, 虚弱的, 意志薄弱的 / n. 少女, 少妇, 灯心草篓",
+"en": "n. the weight of a frail (basket) full of raisins or figs; between 50 and 75 pounds / n. a basket for holding dried frui…"
+},
+{
+"word": "autopsy",
+"pos": "n",
+"zh": "n. 验尸 / [医] 尸体解剖, 尸体剖检",
+"en": "n. an examination and dissection of a dead body to determine cause of death or the changes produced by disease / v. perf…"
+},
+{
+"word": "gigantic",
+"pos": "a",
+"zh": "a. 巨人般的, 巨大的",
+"en": "s. so exceedingly large or extensive as to suggest a giant or mammoth"
+},
+{
+"word": "irritate",
+"pos": "vt/vi",
+"zh": "vt. 激怒, 使发怒, 使兴奋, 使发炎 / vi. 引起不快",
+"en": "v. excite to an abnormal condition, or chafe or inflame / v. excite to some characteristic action or condition, such as …"
+},
+{
+"word": "incompatible",
+"pos": "a",
+"zh": "a. 不相容的, 不能并存的, 矛盾的 / [化] 不协调",
+"en": "a. not compatible / a. incapable of being used with or connected to other devices or components without modification / s…"
+},
+{
+"word": "repertoire",
+"pos": "n",
+"zh": "n. 全部剧目, 全部技能, 全部节目, 全部作品",
+"en": "n. a collection of works (plays, songs, operas, ballets) that an artist or company can perform and do perform for short …"
+},
+{
+"word": "scrutinize",
+"pos": "vt",
+"zh": "vt.vi. 细看, 仔细检查, 审查, 细阅 / [法] 细看, 细阅, 仔细检查",
+"en": "v to look at critically or searchingly, or in minute detail / v examine carefully for accuracy with the intent of verifi…"
+},
+{
+"word": "fortress",
+"pos": "n/vt",
+"zh": "n. 城堡, 要塞 / vt. 筑要塞, 以要塞防守",
+"en": "n. a fortified defensive structure"
+},
+{
+"word": "wretched",
+"pos": "a",
+"zh": "a. 可怜的, 不幸的, 卑鄙的",
+"en": "s of very poor quality or condition / s characterized by physical misery / s very unhappy; full of misery / s morally re…"
+},
+{
+"word": "psyche",
+"pos": "n",
+"zh": "n. 灵魂, 精神, 普赛克(希腊神话中人类灵魂的化身) / [医] 精神, 心灵",
+"en": "n. (Greek mythology) a beautiful princess loved by Cupid who visited her at night and told her she must not try to see h…"
+},
+{
+"word": "imbalance",
+"pos": "n",
+"zh": "n. 不平衡, 不均衡 / [医] 不平衡, 失调",
+"en": "n. a lack of balance or state of disequilibrium"
+},
+{
+"word": "dynasty",
+"pos": "n",
+"zh": "n. 朝代, 王朝",
+"en": "n. a sequence of powerful leaders in the same family"
+},
+{
+"word": "uranium",
+"pos": "n",
+"zh": "n. 铀 / [化] 铀U",
+"en": "n. a heavy toxic silvery-white radioactive metallic element; occurs in many isotopes; used for nuclear fuels and nuclear…"
+},
+{
+"word": "penetration",
+"pos": "n",
+"zh": "n. 穿透, 渗透, 侵入, 识穿, 洞察(力) / [化] 渗入",
+"en": "n. an attack that penetrates into enemy territory / n. clear or deep perception of a situation / n. the act of entering …"
+},
+{
+"word": "layoff",
+"pos": "n",
+"zh": "n. 临时解雇, 操作停止, 活动停止期间",
+"en": "n. the act of laying off an employee or a work force"
+},
+{
+"word": "disciple",
+"pos": "n",
+"zh": "n. 弟子, 门徒",
+"en": "n. someone who believes and helps to spread the doctrine of another"
+},
+{
+"word": "lizard",
+"pos": "n",
+"zh": "n. 蜥蜴 / [医] 蜥蜴",
+"en": "n. relatively long-bodied reptile with usually two pairs of legs and a tapering tail"
+},
+{
+"word": "coke",
+"pos": "n/v",
+"zh": "n. 可口可乐, 焦炭 / v. (使)成焦炭",
+"en": "n. carbon fuel produced by distillation of coal / n. street names for cocaine / v. become coke"
+},
+{
+"word": "buffet",
+"pos": "n/vt/vi",
+"zh": "n. 自助餐, 小卖部, 碗橱, 殴打, 冲击 / vt. 连续打, 冲击, 搏斗 / vi. 奋斗",
+"en": "n. a piece of furniture that stands at the side of a dining room; has shelves and drawers / n. a meal set out on a buffe…"
+},
+{
+"word": "marvel",
+"pos": "n/vt/vi",
+"zh": "n. 奇异事物, 罕见例子 / vt. 惊异于 / vi. 惊异",
+"en": "v. express astonishment or surprise about something"
+},
+{
+"word": "tailor",
+"pos": "n/vt/vi",
+"zh": "n. 裁缝, 成衣匠 / vt. 缝制, 制作, 使适应 / vi. 做裁缝",
+"en": "n. a person whose occupation is making and altering garments / v. adjust to a specific need or market"
+},
+{
+"word": "ceramic",
+"pos": "a/n",
+"zh": "a. 陶瓷的 / n. 陶瓷制品",
+"en": "n. an artifact made of hard brittle material produced from nonmetallic minerals by firing at high temperatures / a. of o…"
+},
+{
+"word": "consciously",
+"pos": "adv",
+"zh": "adv. 自觉地；有意识地",
+"en": "r. with awareness"
+},
+{
+"word": "undesirable",
+"pos": "a",
+"zh": "a. 不受欢迎的, 不合乎社会道德标准的 / [法] 不受欢迎的人, 不良份子, 不法份子",
+"en": "n. one whose presence is undesirable / a. not wanted / s. not worthy of being chosen (especially as a spouse)"
+},
+{
+"word": "refreshment",
+"pos": "n",
+"zh": "n. 点心, 起提神作用的事物, 精神爽快",
+"en": "n. snacks and drinks served as a light meal / n. activity that refreshes and recreates; activity that renews your health…"
+},
+{
+"word": "prominence",
+"pos": "n",
+"zh": "n. 突起, 突出, 显著, 突出物, 凸出 / [医] 隆凸, 凸",
+"en": "n. the state of being prominent: widely known or eminent / n. relative importance"
+},
+{
+"word": "brighten",
+"pos": "vi/vt",
+"zh": "vi. 变亮, 活跃 / vt. 使生辉, 使快活",
+"en": "v. make lighter or brighter"
+},
+{
+"word": "convene",
+"pos": "vt/vi",
+"zh": "vt. 集合, 召集, 召唤 / vi. 聚集, 集合",
+"en": "v. meet formally"
+},
+{
+"word": "temperament",
+"pos": "n",
+"zh": "n. 气质, 性格, 性情 / [医] 气质, 禀赋",
+"en": "n. excessive emotionalism or irritability and excitability (especially when displayed openly) / n. an adjustment of the …"
+}
+]

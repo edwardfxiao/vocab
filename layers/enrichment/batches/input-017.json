@@ -1,0 +1,602 @@
+[
+{
+"word": "appointment",
+"pos": "n",
+"zh": "n. 约会, 委任的职位, 委派 / [经] 任命, 派, 指定",
+"en": "n. the act of putting a person into a non-elective position / n. (usually plural) furnishings and equipment (especially …"
+},
+{
+"word": "fuel",
+"pos": "n/vt/vi",
+"zh": "n. 燃料, 木炭 / vt. 加燃料, 供燃料 / vi. 得到燃料",
+"en": "n. a substance that can be consumed to produce energy / v. provide with a combustible substance that provides energy / v…"
+},
+{
+"word": "leaf",
+"pos": "n/vi/vt",
+"zh": "n. 叶, 树叶, 花瓣, 页 / vi. 生叶, 翻书页 / vt. 在...上长叶, 翻...的页",
+"en": "n. the main organ of photosynthesis and transpiration in higher plants / n. a sheet of any written or printed material (…"
+},
+{
+"word": "dry",
+"pos": "a/vt/vi/n",
+"zh": "a. 干的, 无酒的, 枯燥无味的, 干燥的 / vt. 把...弄干 / vi. 变干 / n. 干, 干涸",
+"en": "n. a reformer who opposes the use of intoxicating beverages / v. remove the moisture from and make dry / v. become dry o…"
+},
+{
+"word": "instruction",
+"pos": "n",
+"zh": "n. 指令, 教导, 命令 / [计] 指令",
+"en": "n. (computer science) a line of code written as part of a computer program"
+},
+{
+"word": "concentration",
+"pos": "n",
+"zh": "n. 集中, 专心 / [化] 浓度; 浓缩",
+"en": "n. the strength of a solution; number of molecules of a substance in a given volume / n. the spatial property of being c…"
+},
+{
+"word": "overall",
+"pos": "a/adv/n",
+"zh": "a. 全部的, 全体的, 从头至尾的, 一切在内的 / adv. 从头到尾, 总的说来 / n. 罩衫, 工作服",
+"en": "n. (usually plural) work clothing consisting of denim trousers (usually with a bib and shoulder straps) / n. a loose pro…"
+},
+{
+"word": "pool",
+"pos": "n/vt/vi",
+"zh": "n. 池, 水塘, 石油层, 联营 / vt. 合伙经营, 共享, 采掘, 汇聚成 / vi. 汇合成塘, 淤积, 联营",
+"en": "n. an excavation that is (usually) filled with water / n. an organization of people or resources that can be shared / n.…"
+},
+{
+"word": "climb",
+"pos": "v/n",
+"zh": "v. 攀登, 上升, 爬 / n. 攀登, 爬升",
+"en": "n. an event that involves rising to a higher point (as in altitude or temperature or intensity etc.) / n. the act of cli…"
+},
+{
+"word": "enterprise",
+"pos": "n",
+"zh": "n. 企业, 事业心, 进取心, 干事业 / [计] 企业",
+"en": "n. a purposeful or industrious undertaking (especially one that requires effort or boldness) / n. an organization create…"
+},
+{
+"word": "sweet",
+"pos": "n/a",
+"zh": "n. 甜蜜, 糖果, 情人 / a. 甜的, 芳香的, 悦耳的, 漂亮的, 和蔼的, 不咸的, 灵活的, 轻快的",
+"en": "n. English phonetician; one of the founders of modern phonetics (1845-1912) / n. a food rich in sugar / n. the taste exp…"
+},
+{
+"word": "bedroom",
+"pos": "n",
+"zh": "n. 卧室",
+"en": "n. a room used primarily for sleeping"
+},
+{
+"word": "salt",
+"pos": "n/a/vt",
+"zh": "n. 盐, 风趣, 刺激 / a. 含盐的, 咸的, 风趣的, 辛辣的 / vt. 加盐于, 用盐腌",
+"en": "n. a compound formed by replacing hydrogen in an acid by a metal (or a radical that acts like a metal) / n. white crysta…"
+},
+{
+"word": "expand",
+"pos": "vt/vi",
+"zh": "vt. 使膨胀, 详述, 扩张 / vi. 张开, 发展 / vt. 展开 / vi. 展开 / [计] 展开; DOS外部命令:将原始DOS磁盘上的压缩文件解压缩并拷贝到硬盘上",
+"en": "v. extend in one or more directions / v. become larger in size or volume or quantity / v. make bigger or wider in size, …"
+},
+{
+"word": "metal",
+"pos": "n/a/vt",
+"zh": "n. 金属, 金属制品, 合金, 本质, 质料 / a. 金属制的 / vt. 以金属覆盖",
+"en": "v. cover with metal"
+},
+{
+"word": "fat",
+"pos": "n/a",
+"zh": "n. 脂肪, 脂油, 肥肉 / a. 肥的, 胖的, 油腻的 / n. 文件分配表 / [计] 文件分配表",
+"en": "n. a soft greasy substance occurring in organic tissue and consisting of a mixture of lipids (mostly triglycerides) / a.…"
+},
+{
+"word": "ticket",
+"pos": "n/vt",
+"zh": "n. 票, 券, 车票, 标签, 入场券, 证明书 / vt. 加标签于, 为...购票",
+"en": "n. a commercial document showing that the holder is entitled to something (as to ride on public transportation or to ent…"
+},
+{
+"word": "expensive",
+"pos": "a",
+"zh": "a. 贵的, 奢华的, 费用浩大的, 乱化钱的 / [经] 高价的, 昂贵的, 浪费的",
+"en": "a. high in price or charging high prices"
+},
+{
+"word": "disappear",
+"pos": "vi",
+"zh": "vi. 消失, 不见",
+"en": "v. get lost, as without warning or explanation"
+},
+{
+"word": "recommend",
+"pos": "vt",
+"zh": "vt. 推荐, 介绍, 劝告, 使受欢迎, 托付 / [经] 建议, 推荐",
+"en": "v. push for something / v. make attractive or acceptable"
+},
+{
+"word": "corporate",
+"pos": "a",
+"zh": "a. 社团的, 合伙的, 公司的 / [经] 团体的, 法人的, 社团的",
+"en": "a. of or belonging to a corporation / s. done by or characteristic of individuals acting together / s. organized and mai…"
+},
+{
+"word": "correct",
+"pos": "a/vt",
+"zh": "a. 正确的, 合适的 / vt. 改正, 订正",
+"en": "v. make right or correct / v. treat a defect / a. free from error; especially conforming to fact or truth / s. socially …"
+},
+{
+"word": "sufficient",
+"pos": "a",
+"zh": "a. 充分的, 足够的 / [法] 充分的, 足够的",
+"en": "a. of a quantity that can fulfill a need or requirement but without being abundant"
+},
+{
+"word": "urban",
+"pos": "a",
+"zh": "a. 都市的, 住在都市的, 习惯于都市的 / [法] 城市的, 都市的, 市区的",
+"en": "a. relating to or concerned with a city or densely populated area / a. located in or characteristic of a city or city li…"
+},
+{
+"word": "bottle",
+"pos": "n/vt",
+"zh": "n. 瓶子, 酒瓶 / vt. 装瓶, 抑制, 围困",
+"en": "n. a glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a …"
+},
+{
+"word": "mental",
+"pos": "a/n",
+"zh": "a. 心智的, 精神病的, 心理的, 颏的 / n. 精神病患者",
+"en": "a. involving the mind or an intellectual process / a. of or relating to the mind / a. of or relating to the chin- or lip…"
+},
+{
+"word": "absence",
+"pos": "n",
+"zh": "n. 缺席, 缺乏, 没有 / [医] 失神",
+"en": "n. the state of being absent / n. failure to be present / n. the time interval during which something or somebody is awa…"
+},
+{
+"word": "lunch",
+"pos": "n",
+"zh": "n. 午餐",
+"en": "n. a midday meal / v. take the midday meal / v. provide a midday meal for"
+},
+{
+"word": "criticism",
+"pos": "n",
+"zh": "n. 批评, 评论, 非难 / [法] 批判, 批评, 评论",
+"en": "n. disapproval expressed by pointing out faults or shortcomings / n. a serious examination and judgment of something / n…"
+},
+{
+"word": "educational",
+"pos": "a",
+"zh": "a. 教育的, 教育性的",
+"en": "a. relating to the process of education / s. providing knowledge"
+},
+{
+"word": "shout",
+"pos": "n/vi/vt",
+"zh": "n. 呼喊, 喊声 / vi. 呼喊, 喊叫, 嚷 / vt. 高喊",
+"en": "v. utter in a loud voice; talk in a loud voice (usually denoting characteristic manner of speaking) / v. utter a sudden …"
+},
+{
+"word": "sugar",
+"pos": "n/vt/vi",
+"zh": "n. 糖, 糖块, 甜言蜜语 / vt. 加糖于, 使甜蜜, 粉饰, 美化 / vi. 制成糖",
+"en": "n. a white crystalline carbohydrate used as a sweetener and preservative / v. sweeten with sugar"
+},
+{
+"word": "planet",
+"pos": "n",
+"zh": "n. 行星, 命运星辰, 杰出的人, 重大影响的事",
+"en": "n. (astronomy) any of the nine large celestial bodies in the solar system that revolve around the sun and shine by refle…"
+},
+{
+"word": "favorite",
+"pos": "n/a",
+"zh": "n. 喜欢的事物, 幸运儿 / a. 特别受喜爱的, 喜爱的, 宠爱的, 中意的",
+"en": "n. something regarded with special favor or liking / s. appealing to the general public"
+},
+{
+"word": "transfer",
+"pos": "n/vt/vi",
+"zh": "n. 迁移, 移动, 传递, 转让, 转移, 过户, 汇兑, 换车 / vt. 使转移, 调转, 调任, 改变, 传递, 转让 / vi. 转移, 转学, 转职, 换车 / [计]…",
+"en": "n. someone who transfers or is transferred from one position to another / n. the act of transfering something from one f…"
+},
+{
+"word": "explore",
+"pos": "v",
+"zh": "v. 探险, 探测, 探究",
+"en": "v. travel to or penetrate into / v. examine minutely / v. examine (organs) for diagnostic purposes"
+},
+{
+"word": "error",
+"pos": "n",
+"zh": "n. 错误, 过失, 失误, 误差 / [计] 错误",
+"en": "n. a misconception resulting from incorrect information / n. (baseball) a failure of a defensive player to make an out w…"
+},
+{
+"word": "assembly",
+"pos": "n",
+"zh": "n. 与会者, 集会, 装配, 组件 / [化] 装配",
+"en": "n. a group of machine parts that fit together to form a self-contained unit / n. a group of persons who are gathered tog…"
+},
+{
+"word": "enemy",
+"pos": "n/a",
+"zh": "n. 敌人, 仇敌, 敌军 / a. 敌人的",
+"en": "n. an opposing military force / n. an armed adversary (especially a member of an opposing military force) / n. any hosti…"
+},
+{
+"word": "acid",
+"pos": "n/a",
+"zh": "n. 酸, 酸类物质, 尖刻, 迷幻药 / a. 酸的, 酸性的, 尖刻的, 敏锐的 / [计] 自动文档互参与索引生成程序",
+"en": "n. any of various water-soluble compounds having a sour taste and capable of turning litmus red and reacting with a base…"
+},
+{
+"word": "straight",
+"pos": "n/a/adv",
+"zh": "n. 直线, 直 / a. 直的, 笔直的, 正直的, 直接的, 连续的, 整齐的 / adv. 直接地, 立即, 不断地",
+"en": "n. a poker hand with 5 consecutive cards (regardless of suit) / s. successive (without a break) / a. having no deviation…"
+},
+{
+"word": "surround",
+"pos": "vt/n",
+"zh": "vt. 包围, 环绕, 围绕 / n. 围绕物",
+"en": "v. extend on all sides of simultaneously; encircle"
+},
+{
+"word": "athlete",
+"pos": "n",
+"zh": "n. 运动员, 运动选手 / [医] 运动员",
+"en": "n. a person trained to compete in sports"
+},
+{
+"word": "settlement",
+"pos": "n",
+"zh": "n. 安顿, 解决, 处理, 结算, 殖民, 殖民地, 沉降 / [医] 居住区; 沉渣",
+"en": "n. a conclusive resolution of a matter and disposition of it / n. something settled or resolved; the outcome of decision…"
+},
+{
+"word": "scientific",
+"pos": "a",
+"zh": "a. 科学的, 系统的, 符合科学规律的 / [计] 科学记数法",
+"en": "a. of or relating to the practice of science / a. conforming with the principles or methods used in science"
+},
+{
+"word": "soul",
+"pos": "n/a",
+"zh": "n. 灵魂, 心灵, 精神, 精髓, 人, 化身, 典型, 鬼魂 / a. 黑人的",
+"en": "n. the immaterial part of a person; the actuating cause of an individual life / n. deep feeling or emotion / n. the huma…"
+},
+{
+"word": "undertake",
+"pos": "vt",
+"zh": "vt. 试图, 从事, 保证, 承担, 同意, 接受 / [化] 承包; 承担",
+"en": "v. enter upon an activity or enterprise / v. accept as a challenge / v. promise to do or accomplish / v. accept as a cha…"
+},
+{
+"word": "module",
+"pos": "n",
+"zh": "n. 组件, 模数 / [计] 模块",
+"en": "n. detachable compartment of a spacecraft / n. computer circuit consisting of an assembly of electronic components (as o…"
+},
+{
+"word": "panel",
+"pos": "n/vt",
+"zh": "n. 嵌板, 仪表板, 专题讨论小组, 全体陪审员 / vt. 嵌镶板",
+"en": "n. sheet that forms a distinct (usually flat and rectangular) section or component of something / n. (law) a group of pe…"
+},
+{
+"word": "totally",
+"pos": "adv",
+"zh": "adv. 完全地",
+"en": "r to a complete degree or to the full or entire extent (`whole' is often used informally for `wholly')"
+},
+{
+"word": "mom",
+"pos": "n",
+"zh": "n. 妈妈",
+"en": "n informal terms for a mother"
+},
+{
+"word": "weather",
+"pos": "n/a/vt/vi",
+"zh": "n. 天气, 气象, 处境 / a. 迎风的 / vt. 使受风吹雨打, 侵蚀, 使风化, 经受住 / vi. 风化, 受侵蚀, 经受风雨",
+"en": "n. the atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and …"
+},
+{
+"word": "instrument",
+"pos": "n",
+"zh": "n. 工具, 手段, 仪器 / [化] 仪器",
+"en": "n. a device that requires skill for proper use / n. the means whereby some act is accomplished / n. a person used by ano…"
+},
+{
+"word": "whilst",
+"pos": "conj",
+"zh": "conj. 当...的时候, 和...同时, 虽然, 只要, 然而, 而, 尽管",
+"en": "adv. While."
+},
+{
+"word": "pleasure",
+"pos": "n/v",
+"zh": "n. 快乐, 愉快, 令人高兴的事, 娱乐, 希望 / v. (使)高兴",
+"en": "n. a fundamental feeling that is hard to define but that people desire to experience / n. a formal expression / n. an ac…"
+},
+{
+"word": "predict",
+"pos": "v",
+"zh": "v. 预知, 预言, 预报",
+"en": "v. make a prediction about; tell in advance"
+},
+{
+"word": "select",
+"pos": "a/v/n",
+"zh": "a. 挑选出来的, 极好的 / v. 选择, 挑选 / n. 被挑选者, 精萃 / [计] 选定",
+"en": "v pick out, select, or choose from a number of alternatives / s of superior grade / s selected or chosen for special qua…"
+},
+{
+"word": "channel",
+"pos": "n/vt",
+"zh": "n. 海峡, 航道, 频道 / vt. 引导, 在...上挖沟, 形成河道 / [计] 信道, 通道",
+"en": "n. a path over which electrical signals can pass / n. a passage for water (or other fluids) to flow through / n. a deep …"
+},
+{
+"word": "emotional",
+"pos": "a",
+"zh": "a. 情绪的, 情感的 / [医] 情绪的",
+"en": "a. determined or actuated by emotion rather than reason / a. of more than usual emotion / a. of or pertaining to emotion"
+},
+{
+"word": "fee",
+"pos": "n/vt",
+"zh": "n. 费用, 小费, 封地, 所有权 / vt. 付费给",
+"en": "n. a fixed charge for a privilege or for professional services / n. an interest in land capable of being inherited"
+},
+{
+"word": "supreme",
+"pos": "n/a",
+"zh": "n. 至高, 霸权 / a. 至高的, 终极的, 极端的, 最大的",
+"en": "s. final or last in your life or progress / s. highest in excellence or achievement / s. greatest or maximal in degree; …"
+},
+{
+"word": "pocket",
+"pos": "n/vt/a",
+"zh": "n. 口袋, 钱袋, 钱, 容器 / vt. 装...在口袋里, 隐藏, 抑制, 私吞, 搁置, 击...入袋 / a. 袖珍的, 小型的, 压缩的, 金钱上的",
+"en": "n. a small pouch inside a garment for carrying small articles / n. a supply of money / n. (bowling) the space between th…"
+},
+{
+"word": "thin",
+"pos": "a/vt/vi/adv/n",
+"zh": "a. 薄的, 细的, 瘦的, 稀疏的, 稀薄的, 淡的, 弱的, 空洞的 / vt. 使变薄, 使变细, 使稀少, 使淡 / vi. 变薄, 变细, 变少, 变淡 / adv. 薄…",
+"en": "v. lose thickness; become thin or thinner / v. make thin or thinner / a. of relatively small extent from one surface to …"
+},
+{
+"word": "temperature",
+"pos": "n",
+"zh": "n. 温度, 发烧, 热度 / [化] 温度",
+"en": "n. the degree of hotness or coldness of a body or environment (corresponding to its molecular activity) / n. the somatic…"
+},
+{
+"word": "beside",
+"pos": "prep",
+"zh": "prep. 在旁边",
+"en": "n. At the side of; on one side of. / n. Aside from; out of the regular course or order of; in a /    state of deviation …"
+},
+{
+"word": "poll",
+"pos": "n/vt/vi/a",
+"zh": "n. 投票, 民意测验, 选举投票, 投票数, 一组人中的一个, 头颈和后脑部, 鹦鹉 / vt. 对...进行民意测验, 获得...票, 剪树枝, 轮询 / vi. 投票 / a…",
+"en": "n. an inquiry into public opinion conducted by interviewing a random sample of people / n. the part of the head between …"
+},
+{
+"word": "surprise",
+"pos": "n/vt",
+"zh": "n. 惊奇, 奇袭, 诧异 / vt. 使惊奇, 撞见, 奇袭",
+"en": "n. the astonishment you feel when something totally unexpected happens to you / n. a sudden unexpected event / n. the ac…"
+},
+{
+"word": "waste",
+"pos": "n/a/vt/vi",
+"zh": "n. 浪费, 废物, 损耗, 消耗, 荒地, 垃圾, 地面风化物 / a. 废弃的, 荒芜的, 多余的 / vt. 浪费, 消耗, 使荒芜 / vi. 浪费, 消耗, 变消瘦",
+"en": "n. any materials unused and rejected as worthless or unwanted / n. useless or profitless activity; using or expending or…"
+},
+{
+"word": "solicitor",
+"pos": "n",
+"zh": "n. (英)律师, 初级律师, (美)法务官, (美)掮客, 游说者, (美)募捐者 / [经] 募损者, 律师",
+"en": "n. a petitioner who solicits contributions or trade or votes / n. a British lawyer who gives legal advice and prepares l…"
+},
+{
+"word": "frequently",
+"pos": "adv",
+"zh": "adv. 频繁, 经常地",
+"en": "r. many times at short intervals"
+},
+{
+"word": "implication",
+"pos": "n",
+"zh": "n. 牵连, 含义, 暗示 / [法] 推断, 含蓄之意, 暗示",
+"en": "n. an accusation that brings into intimate and usually incriminating connection / n. a logical relation between proposit…"
+},
+{
+"word": "breath",
+"pos": "n",
+"zh": "n. 呼吸, 气息, 瞬间 / [医] 呼气, 呵气, 口气, 呼吸",
+"en": "n. the process of taking in and expelling air during breathing / n. the air that is inhaled and exhaled in respiration /…"
+},
+{
+"word": "recognition",
+"pos": "n",
+"zh": "n. 赞誉, 认得, 识别, 承认, 认可, 认识 / [电] 认识",
+"en": "n. the state or quality of being recognized or acknowledged / n. the process of recognizing something or someone by reme…"
+},
+{
+"word": "institute",
+"pos": "n/vt",
+"zh": "n. 学会, 学院, 协会 / vt. 创立, 开始, 制定, 任命",
+"en": "n. an association organized to promote art or science or education / v. advance or set forth in court"
+},
+{
+"word": "component",
+"pos": "n/a",
+"zh": "n. 元件, 组件, 成分 / a. 组成的, 构成的 / [计] 组件",
+"en": "n. an abstract part of something / n. an artifact that is one of the individual parts of which a composite entity is mad…"
+},
+{
+"word": "republic",
+"pos": "n",
+"zh": "n. 共和国, 共和政体, 团体, 界",
+"en": "n. a form of government whose head of state is not a monarch"
+},
+{
+"word": "minority",
+"pos": "n/a",
+"zh": "n. 少数, 未成年, 少数民族 / a. 少数的, 属于少数派的",
+"en": "n. a group of people who differ racially or politically from a larger group of which it is a part / n. being or relating…"
+},
+{
+"word": "seriously",
+"pos": "adv",
+"zh": "adv. 严肃地, 认真地, 严重地",
+"en": "r. in a serious manner"
+},
+{
+"word": "properly",
+"pos": "adv",
+"zh": "adv. 适当地, 相当地",
+"en": "r. in the right manner"
+},
+{
+"word": "connect",
+"pos": "v",
+"zh": "v. 连接, 联合, 联系",
+"en": "v. connect, fasten, or put together two or more pieces / v. be or become joined or united or linked / v. join by means o…"
+},
+{
+"word": "unlikely",
+"pos": "a",
+"zh": "a. 不太可能的",
+"en": "a. has little chance of being the case or coming about"
+},
+{
+"word": "partly",
+"pos": "adv",
+"zh": "adv. 部分地, 在一定程度上",
+"en": "r in part; in some degree; not wholly"
+},
+{
+"word": "elsewhere",
+"pos": "adv",
+"zh": "adv. 在别处",
+"en": "r. in or to another place"
+},
+{
+"word": "double",
+"pos": "n/a/vt/vi",
+"zh": "n. 两倍 / a. 两倍的, 双重的 / vt. 使加倍 / vi. 加倍, 代替, 快步走 / [计] 双精度型",
+"en": "n. a base hit on which the batter stops safely at second base / n. a stand-in for movie stars to perform dangerous stunt…"
+},
+{
+"word": "necessarily",
+"pos": "adv",
+"zh": "adv. 必然地, 必须地, 必要地",
+"en": "r. in an essential manner / r. as a highly likely consequence"
+},
+{
+"word": "organize",
+"pos": "vt/vi",
+"zh": "vt. 组织, 有机化, 给予生机 / vi. 组织起来",
+"en": "v. cause to be structured or ordered or operating according to some principle or idea / v. bring order and organization …"
+},
+{
+"word": "empty",
+"pos": "a/n/vt/vi",
+"zh": "a. 空的, 空虚的, 空腹的, 空洞的 / n. 空的东西, 空车 / vt. 倒空, 使变空, 使排出 / vi. 流空 / [计] 空",
+"en": "n. a container that has been emptied / v. make void or empty of contents / v. become empty or void of its content / v. r…"
+},
+{
+"word": "household",
+"pos": "n/a",
+"zh": "n. 一家人, 家庭, 家族, 王室 / a. 家庭的, 家常的, 王室的",
+"en": "n a social unit living together"
+},
+{
+"word": "guide",
+"pos": "n/vt/vi",
+"zh": "n. 引导者, 导游, 指南, 路标 / vt. 指导, 支配, 管理, 带领, 操纵 / vi. 任向导 / [计] 辅助线",
+"en": "n. someone who shows the way by leading or advising / n. a structure or marking that serves to direct the motion or posi…"
+},
+{
+"word": "trail",
+"pos": "n/vt/vi",
+"zh": "n. 踪迹, 痕迹, 一串, 尾部, 小径, 持枪姿势 / vt. 拖, 尾随, 追踪, 落后于, 开出路 / vi. 拖曳, 垂下, 落后, 飘出, 蔓生",
+"en": "n. a track or mark left by something that has passed / n. a path or track roughly blazed through wild or hilly country /…"
+},
+{
+"word": "novel",
+"pos": "n/a",
+"zh": "n. 小说, 长篇故事 / a. 新奇的, 异常的",
+"en": "n. an extended fictional work in prose; usually in the form of a story / n. a printed and bound book that is an extended…"
+},
+{
+"word": "somehow",
+"pos": "adv",
+"zh": "adv. 不知何故",
+"en": "r. in some unspecified way or manner; or by some unspecified means / r. for some unspecified reason;"
+},
+{
+"word": "jury",
+"pos": "n/a",
+"zh": "n. 陪审团, 评判委员会 / a. 应急的",
+"en": "n. a body of citizens sworn to give a true verdict according to the evidence presented in a court of law / n. a committe…"
+},
+{
+"word": "nurse",
+"pos": "n/vt/vi",
+"zh": "n. 护士, 保姆, 奶妈 / vt. 看护, 照顾, 培养 / vi. 喂奶, 看护病人",
+"en": "n. one skilled in caring for young children or the sick (usually under the supervision of a physician) / v. try to cure …"
+},
+{
+"word": "experiment",
+"pos": "n/vi",
+"zh": "n. 实验, 试验, 实验仪器 / vi. 实验, 尝试",
+"en": "n. the act of conducting a controlled test or investigation / n. the testing of an idea / n. a venture at something new …"
+},
+{
+"word": "breast",
+"pos": "n/vt",
+"zh": "n. 胸部, 乳房, 胸怀 / vt. 以胸对着, 面对",
+"en": "n. the front of the trunk from the neck to the abdomen / n. either of two soft fleshy milk-secreting glandular organs on…"
+},
+{
+"word": "jack",
+"pos": "n/vt/a",
+"zh": "n. 插座, 千斤顶, 男人 / vt. 抬起, 提醒, 扛举, 增加, 提高, 放弃 / a. 雄的 / [计] 插座",
+"en": "n. a small worthless amount / n. a small ball at which players aim in lawn bowling / n. an electrical device consisting …"
+},
+{
+"word": "silence",
+"pos": "n/vt/interj",
+"zh": "n. 沉默, 无声, 静寂, 湮没, 无声息 / vt. 使缄默 / interj. 安静",
+"en": "n. the state of being silent (as when no one is speaking) / n. the absence of sound / v. keep from expression, for examp…"
+},
+{
+"word": "acknowledge",
+"pos": "vt",
+"zh": "vt. 承认, 告知收悉, 答谢, 报偿 / [经] 承认, 答谢, 收到的通知",
+"en": "v. report the receipt of / v. express obligation, thanks, or gratitude for / v. accept as legally binding and valid / v.…"
+},
+{
+"word": "secure",
+"pos": "a/vt/vi",
+"zh": "a. 无虑的, 安心的, 安全的, 可靠的, 保险的 / vt. 固定, 获得, 保证, 使安全, 掩护, 招致 / vi. 停止操作, 船抛锚",
+"en": "v. assure payment of / a. free from fear or doubt; easy in mind / a. free from danger or risk / a. not likely to fail or…"
+}
+]

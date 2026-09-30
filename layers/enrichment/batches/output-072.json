@@ -1,0 +1,1716 @@
+{
+"deity": {
+"gloss": "神，神明；神性",
+"trap": "",
+"root": {
+"key": "dei",
+"meaning": "神",
+"match": "dei"
+},
+"confusable": [],
+"synonyms": [
+"god",
+"divinity"
+],
+"antonyms": [
+"mortal"
+]
+},
+"singular": {
+"gloss": "单数(的)；非凡的，突出的；奇特的",
+"trap": "语法义“单数”之外，正式语中常指“非凡的、奇特的”",
+"root": null,
+"confusable": [],
+"synonyms": [
+"unique",
+"exceptional",
+"remarkable"
+],
+"antonyms": [
+"plural"
+]
+},
+"depreciation": {
+"gloss": "贬值，折旧；贬低",
+"trap": "不是 deprecation(反对、弃用)；指资产贬值、折旧",
+"root": {
+"key": "prec",
+"meaning": "价格",
+"match": "prec"
+},
+"confusable": [
+"deprecation"
+],
+"synonyms": [
+"devaluation",
+"decline"
+],
+"antonyms": [
+"appreciation"
+]
+},
+"hypocrisy": {
+"gloss": "虚伪，伪善",
+"trap": "词源：希腊语 hypokrisis“演戏”，伪善即演戏",
+"root": null,
+"confusable": [],
+"synonyms": [
+"insincerity",
+"pretense",
+"duplicity"
+],
+"antonyms": [
+"sincerity",
+"honesty"
+]
+},
+"captive": {
+"gloss": "被俘的，被囚的；无法脱身的(受众等)；n. 俘虏",
+"trap": "captive audience 指“走不开的观众”，不是“着迷的”",
+"root": {
+"key": "cap",
+"meaning": "拿/头",
+"match": "cap"
+},
+"confusable": [],
+"synonyms": [
+"prisoner",
+"hostage",
+"confined"
+],
+"antonyms": [
+"free"
+]
+},
+"cuckoo": {
+"gloss": "布谷鸟，杜鹃；(口)疯的，傻的",
+"trap": "",
+"root": null,
+"confusable": [
+"cocoon"
+],
+"synonyms": [],
+"antonyms": []
+},
+"curly": {
+"gloss": "卷曲的，卷发的",
+"trap": "",
+"root": null,
+"confusable": [
+"curvy"
+],
+"synonyms": [
+"wavy",
+"frizzy"
+],
+"antonyms": [
+"straight"
+]
+},
+"duplicate": {
+"gloss": "复制，复印；副本，复制品；完全相同的，重复的",
+"trap": "",
+"root": {
+"key": "plic",
+"meaning": "折叠",
+"match": "plic"
+},
+"confusable": [
+"duplicity"
+],
+"synonyms": [
+"copy",
+"replicate",
+"reproduce"
+],
+"antonyms": [
+"original"
+]
+},
+"nought": {
+"gloss": "零(英式)；无，没有",
+"trap": "英式的“零”，noughts and crosses 井字游戏；= naught",
+"root": null,
+"confusable": [
+"naught",
+"knot"
+],
+"synonyms": [
+"zero",
+"nil",
+"nothing"
+],
+"antonyms": []
+},
+"germ": {
+"gloss": "细菌，病菌；萌芽，起源；胚芽",
+"trap": "",
+"root": {
+"key": "germ",
+"meaning": "萌芽",
+"match": "germ"
+},
+"confusable": [
+"gem"
+],
+"synonyms": [
+"microbe",
+"bacterium",
+"bug",
+"seed"
+],
+"antonyms": []
+},
+"hysterical": {
+"gloss": "歇斯底里的，情绪失控的；(口)极其滑稽的",
+"trap": "口语中常指“笑死人的”，不只是“歇斯底里”",
+"root": null,
+"confusable": [
+"historical"
+],
+"synonyms": [
+"frantic",
+"hilarious",
+"frenzied"
+],
+"antonyms": [
+"calm",
+"composed"
+]
+},
+"drugstore": {
+"gloss": "(美)药店，药妆店(兼售日用品)",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"pharmacy",
+"chemist"
+],
+"antonyms": []
+},
+"stray": {
+"gloss": "走失的，流浪的；零星的，偶然的；偏离，走失；流浪动物",
+"trap": "",
+"root": null,
+"confusable": [
+"strain",
+"straw"
+],
+"synonyms": [
+"wander",
+"drift",
+"roam",
+"homeless"
+],
+"antonyms": []
+},
+"digestion": {
+"gloss": "消化；(信息的)领会，吸收",
+"trap": "",
+"root": {
+"key": "gest",
+"meaning": "携带，进行",
+"match": "gest"
+},
+"confusable": [],
+"synonyms": [
+"absorption"
+],
+"antonyms": [
+"indigestion"
+]
+},
+"chic": {
+"gloss": "时髦的，别致的；时髦，雅致",
+"trap": "读音 /ʃiːk/，不读作 chick",
+"root": null,
+"confusable": [
+"chick",
+"sheik"
+],
+"synonyms": [
+"stylish",
+"fashionable",
+"elegant"
+],
+"antonyms": [
+"dowdy",
+"unfashionable"
+]
+},
+"elude": {
+"gloss": "躲避，逃脱；使想不起，使难以理解",
+"trap": "不是 allude(暗指)、delude(欺骗)",
+"root": {
+"key": "lud",
+"meaning": "玩",
+"match": "lud"
+},
+"confusable": [
+"allude",
+"delude",
+"evade"
+],
+"synonyms": [
+"evade",
+"escape",
+"dodge",
+"avoid"
+],
+"antonyms": [
+"confront"
+]
+},
+"sprawl": {
+"gloss": "(城市)无序扩张；四肢摊开地躺坐；蔓延",
+"trap": "urban sprawl 城市无序蔓延，雅思高频",
+"root": null,
+"confusable": [
+"scrawl",
+"spray"
+],
+"synonyms": [
+"spread",
+"stretch",
+"expand"
+],
+"antonyms": [
+"contract"
+]
+},
+"watt": {
+"gloss": "瓦，瓦特(功率单位)",
+"trap": "以发明家 James Watt 命名",
+"root": null,
+"confusable": [
+"what",
+"wad"
+],
+"synonyms": [],
+"antonyms": []
+},
+"nave": {
+"gloss": "(教堂的)中殿；轮毂",
+"trap": "与 navy、naive 无关；词源 navis“船”，中殿形似船",
+"root": {
+"key": "nav",
+"meaning": "船",
+"match": "nav"
+},
+"confusable": [
+"naive",
+"navy",
+"knave"
+],
+"synonyms": [],
+"antonyms": []
+},
+"overflow": {
+"gloss": "溢出，泛滥；充满，满溢；(计)溢出",
+"trap": "",
+"root": null,
+"confusable": [
+"overthrow"
+],
+"synonyms": [
+"spill",
+"flood",
+"brim"
+],
+"antonyms": []
+},
+"grunt": {
+"gloss": "咕哝，哼一声；(猪)哼哼声；(俚)底层苦力，大头兵",
+"trap": "grunt work 指枯燥的苦活",
+"root": null,
+"confusable": [
+"grant",
+"grind"
+],
+"synonyms": [
+"groan",
+"mutter",
+"snort"
+],
+"antonyms": []
+},
+"stiffly": {
+"gloss": "僵硬地；生硬地，拘谨地",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"rigidly",
+"formally",
+"awkwardly"
+],
+"antonyms": [
+"loosely",
+"casually"
+]
+},
+"bibliography": {
+"gloss": "参考文献(目录)；书目",
+"trap": "",
+"root": {
+"key": "biblio",
+"meaning": "书",
+"match": "biblio"
+},
+"confusable": [
+"biography",
+"autobiography"
+],
+"synonyms": [
+"references"
+],
+"antonyms": []
+},
+"carton": {
+"gloss": "硬纸盒，纸箱；一盒(牛奶、香烟等)",
+"trap": "不是 cartoon(动画片)",
+"root": null,
+"confusable": [
+"cartoon",
+"carbon"
+],
+"synonyms": [
+"box",
+"package",
+"container"
+],
+"antonyms": []
+},
+"engender": {
+"gloss": "产生，引起(感情、局面)",
+"trap": "不是“性别”(gender)，是“使产生”",
+"root": {
+"key": "gen",
+"meaning": "产生/种族",
+"match": "gen"
+},
+"confusable": [
+"gender",
+"endanger"
+],
+"synonyms": [
+"generate",
+"cause",
+"provoke",
+"breed"
+],
+"antonyms": [
+"suppress"
+]
+},
+"grandma": {
+"gloss": "奶奶，外婆(口语)",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"grandmother",
+"granny",
+"nan"
+],
+"antonyms": [
+"grandpa"
+]
+},
+"artisan": {
+"gloss": "工匠，手艺人；(食品等)手工制作的",
+"trap": "artisan bread/cheese 指“手工的”，不是“艺术家的”",
+"root": {
+"key": "art",
+"meaning": "技艺",
+"match": "art"
+},
+"confusable": [
+"artist",
+"partisan"
+],
+"synonyms": [
+"craftsman",
+"craftsperson"
+],
+"antonyms": []
+},
+"dissertation": {
+"gloss": "(学位)论文，尤指博士论文；专题论述",
+"trap": "",
+"root": null,
+"confusable": [
+"desertion"
+],
+"synonyms": [
+"thesis",
+"treatise",
+"paper"
+],
+"antonyms": []
+},
+"metabolism": {
+"gloss": "新陈代谢",
+"trap": "词源：希腊语 metabole“变化”",
+"root": {
+"key": "meta",
+"meaning": "变化/超越",
+"match": "meta"
+},
+"confusable": [],
+"synonyms": [],
+"antonyms": []
+},
+"daisy": {
+"gloss": "雏菊",
+"trap": "fresh as a daisy 精神饱满，神清气爽",
+"root": null,
+"confusable": [
+"dizzy"
+],
+"synonyms": [],
+"antonyms": []
+},
+"infusion": {
+"gloss": "注入，灌输(资金、活力)；浸泡，冲泡；(药草)浸剂；输液",
+"trap": "",
+"root": {
+"key": "fus",
+"meaning": "倾倒，融",
+"match": "fus"
+},
+"confusable": [
+"effusion",
+"confusion"
+],
+"synonyms": [
+"injection",
+"influx",
+"brew"
+],
+"antonyms": []
+},
+"shriek": {
+"gloss": "尖叫；尖叫声",
+"trap": "",
+"root": null,
+"confusable": [
+"shrink",
+"shrimp"
+],
+"synonyms": [
+"scream",
+"screech",
+"yell",
+"squeal"
+],
+"antonyms": [
+"whisper"
+]
+},
+"opaque": {
+"gloss": "不透明的；晦涩难懂的，不公开的",
+"trap": "反义 transparent；引申指“不透明、难懂”",
+"root": null,
+"confusable": [
+"opulent"
+],
+"synonyms": [
+"cloudy",
+"obscure",
+"murky"
+],
+"antonyms": [
+"transparent",
+"clear"
+]
+},
+"nausea": {
+"gloss": "恶心，反胃；厌恶",
+"trap": "词源：希腊语 naus“船”，原指晕船",
+"root": {
+"key": "nau",
+"meaning": "船",
+"match": "nau"
+},
+"confusable": [],
+"synonyms": [
+"sickness",
+"queasiness",
+"disgust"
+],
+"antonyms": []
+},
+"optics": {
+"gloss": "光学；(事件在公众眼中的)观感，形象",
+"trap": "新闻语 the optics of… 指“公众观感”",
+"root": {
+"key": "optic",
+"meaning": "视觉",
+"match": "optic"
+},
+"confusable": [],
+"synonyms": [
+"perception",
+"image"
+],
+"antonyms": []
+},
+"emancipation": {
+"gloss": "解放，(从束缚中)释放",
+"trap": "词源 e-man-cip：从(奴隶主)手中取出，即解放",
+"root": {
+"key": "man",
+"meaning": "手",
+"match": "man"
+},
+"confusable": [
+"emaciation"
+],
+"synonyms": [
+"liberation",
+"freedom",
+"release"
+],
+"antonyms": [
+"enslavement",
+"subjugation"
+]
+},
+"numb": {
+"gloss": "麻木的，失去知觉的；(因震惊)呆滞的；使麻木",
+"trap": "b 不发音；与 number 无关",
+"root": null,
+"confusable": [
+"number",
+"dumb"
+],
+"synonyms": [
+"insensible",
+"deadened",
+"stunned"
+],
+"antonyms": [
+"sensitive"
+]
+},
+"psychoanalysis": {
+"gloss": "精神分析(弗洛伊德学派的心理治疗法)",
+"trap": "",
+"root": {
+"key": "psych",
+"meaning": "心灵",
+"match": "psych"
+},
+"confusable": [],
+"synonyms": [
+"analysis",
+"therapy"
+],
+"antonyms": []
+},
+"yen": {
+"gloss": "日元；(口)渴望，热望",
+"trap": "“渴望”义源自汉语“瘾”，与日元无关",
+"root": null,
+"confusable": [
+"yearn",
+"zen"
+],
+"synonyms": [
+"longing",
+"craving",
+"desire"
+],
+"antonyms": []
+},
+"gleam": {
+"gloss": "闪光，微光；闪烁，发亮；(眼中)闪现的神情",
+"trap": "",
+"root": null,
+"confusable": [
+"glean",
+"glimmer"
+],
+"synonyms": [
+"glow",
+"shine",
+"glint",
+"glimmer"
+],
+"antonyms": []
+},
+"orchid": {
+"gloss": "兰花",
+"trap": "读音 /ˈɔːkɪd/，ch 读 /k/；不是 orchard(果园)",
+"root": null,
+"confusable": [
+"orchard"
+],
+"synonyms": [],
+"antonyms": []
+},
+"miraculous": {
+"gloss": "奇迹般的，不可思议的",
+"trap": "",
+"root": {
+"key": "mir",
+"meaning": "惊奇，看",
+"match": "mir"
+},
+"confusable": [],
+"synonyms": [
+"extraordinary",
+"phenomenal",
+"wondrous"
+],
+"antonyms": [
+"ordinary"
+]
+},
+"humiliate": {
+"gloss": "羞辱，使丢脸",
+"trap": "词源 humus“土”，“使低到尘土里”；同源 humble",
+"root": {
+"key": "hum",
+"meaning": "土地",
+"match": "hum"
+},
+"confusable": [],
+"synonyms": [
+"shame",
+"embarrass",
+"degrade",
+"mortify"
+],
+"antonyms": [
+"honor",
+"dignify"
+]
+},
+"pronoun": {
+"gloss": "代词",
+"trap": "",
+"root": {
+"key": "nom",
+"meaning": "名",
+"match": "noun"
+},
+"confusable": [
+"pronounce"
+],
+"synonyms": [],
+"antonyms": []
+},
+"tyranny": {
+"gloss": "暴政，专制；专横，残暴",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"despotism",
+"dictatorship",
+"oppression"
+],
+"antonyms": [
+"democracy",
+"freedom"
+]
+},
+"heavenly": {
+"gloss": "极美妙的，令人愉悦的；天上的，天国的",
+"trap": "口语中常指“美妙极了”",
+"root": null,
+"confusable": [],
+"synonyms": [
+"divine",
+"celestial",
+"delightful"
+],
+"antonyms": [
+"hellish",
+"earthly"
+]
+},
+"scurry": {
+"gloss": "小步急跑，匆忙奔走",
+"trap": "",
+"root": null,
+"confusable": [
+"scurvy",
+"slurry",
+"curry"
+],
+"synonyms": [
+"scamper",
+"dash",
+"scuttle",
+"hurry"
+],
+"antonyms": [
+"amble"
+]
+},
+"gangster": {
+"gloss": "黑帮成员，匪徒",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"mobster",
+"criminal",
+"hoodlum",
+"thug"
+],
+"antonyms": []
+},
+"assemblage": {
+"gloss": "(人或物的)聚集，集合体；组装；(艺术)拼贴组合",
+"trap": "",
+"root": {
+"key": "simil",
+"meaning": "相似，一起",
+"match": "sembl"
+},
+"confusable": [],
+"synonyms": [
+"collection",
+"gathering",
+"cluster",
+"aggregation"
+],
+"antonyms": []
+},
+"sterile": {
+"gloss": "无菌的；不育的，贫瘠的；乏味的，无创意的",
+"trap": "",
+"root": null,
+"confusable": [
+"sterling",
+"steroid"
+],
+"synonyms": [
+"barren",
+"infertile",
+"aseptic",
+"unproductive"
+],
+"antonyms": [
+"fertile",
+"contaminated"
+]
+},
+"multilateral": {
+"gloss": "多边的，多国参与的",
+"trap": "",
+"root": {
+"key": "later",
+"meaning": "边",
+"match": "later"
+},
+"confusable": [],
+"synonyms": [
+"multinational",
+"multiparty"
+],
+"antonyms": [
+"unilateral",
+"bilateral"
+]
+},
+"extinct": {
+"gloss": "灭绝的，绝种的；(火山)死的；(习俗等)已废除的",
+"trap": "",
+"root": {
+"key": "stinct",
+"meaning": "刺，熄灭",
+"match": "tinct"
+},
+"confusable": [
+"distinct",
+"instinct"
+],
+"synonyms": [
+"vanished",
+"dead",
+"defunct"
+],
+"antonyms": [
+"extant",
+"living"
+]
+},
+"muted": {
+"gloss": "(声音、色彩)柔和的，低沉的；(反应)克制的；静音的",
+"trap": "",
+"root": null,
+"confusable": [
+"mutate",
+"mutter"
+],
+"synonyms": [
+"subdued",
+"soft",
+"restrained",
+"quiet"
+],
+"antonyms": [
+"loud",
+"vivid"
+]
+},
+"unilateral": {
+"gloss": "单方面的，单边的",
+"trap": "",
+"root": {
+"key": "later",
+"meaning": "边",
+"match": "later"
+},
+"confusable": [],
+"synonyms": [
+"one-sided",
+"independent"
+],
+"antonyms": [
+"multilateral",
+"bilateral"
+]
+},
+"gorilla": {
+"gloss": "大猩猩；(口)壮汉，打手",
+"trap": "不是 guerrilla(游击队员)，两词同音",
+"root": null,
+"confusable": [
+"guerrilla"
+],
+"synonyms": [
+"ape"
+],
+"antonyms": []
+},
+"assimilation": {
+"gloss": "同化，融入；吸收(知识、养分)",
+"trap": "",
+"root": {
+"key": "simil",
+"meaning": "相似",
+"match": "simil"
+},
+"confusable": [
+"simulation"
+],
+"synonyms": [
+"integration",
+"absorption",
+"incorporation"
+],
+"antonyms": [
+"segregation",
+"rejection"
+]
+},
+"futile": {
+"gloss": "徒劳的，无效的",
+"trap": "不是 fertile(肥沃的)；名词 futility",
+"root": null,
+"confusable": [
+"fertile",
+"feudal"
+],
+"synonyms": [
+"useless",
+"pointless",
+"vain",
+"fruitless"
+],
+"antonyms": [
+"effective",
+"fruitful"
+]
+},
+"ferret": {
+"gloss": "雪貂，白鼬；搜寻，查出(ferret out)",
+"trap": "ferret out 查出、搜出",
+"root": null,
+"confusable": [
+"ferry",
+"fret"
+],
+"synonyms": [
+"polecat",
+"search",
+"unearth"
+],
+"antonyms": []
+},
+"salty": {
+"gloss": "咸的，含盐的；(口)恼火的，不服气的；(语言)粗俗辛辣的",
+"trap": "网络俚语 salty 指“不爽、气急败坏”",
+"root": {
+"key": "sal",
+"meaning": "盐",
+"match": "sal"
+},
+"confusable": [
+"sultry",
+"sulky"
+],
+"synonyms": [
+"saline",
+"briny",
+"bitter"
+],
+"antonyms": [
+"bland",
+"sweet"
+]
+},
+"idol": {
+"gloss": "偶像，崇拜对象；神像",
+"trap": "不是 idle(闲置的)，两词同音",
+"root": null,
+"confusable": [
+"idle",
+"idyll"
+],
+"synonyms": [
+"icon",
+"hero",
+"star"
+],
+"antonyms": []
+},
+"reshape": {
+"gloss": "重塑，改造；使改变形状",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"remodel",
+"transform",
+"restructure",
+"remake"
+],
+"antonyms": []
+},
+"refinery": {
+"gloss": "炼油厂，精炼厂",
+"trap": "",
+"root": {
+"key": "fin",
+"meaning": "结束/界限",
+"match": "fin"
+},
+"confusable": [
+"finery"
+],
+"synonyms": [
+"plant",
+"works"
+],
+"antonyms": []
+},
+"ordinarily": {
+"gloss": "通常，一般情况下",
+"trap": "",
+"root": {
+"key": "ord",
+"meaning": "秩序",
+"match": "ord"
+},
+"confusable": [],
+"synonyms": [
+"usually",
+"normally",
+"generally",
+"typically"
+],
+"antonyms": [
+"unusually",
+"exceptionally"
+]
+},
+"neutron": {
+"gloss": "中子",
+"trap": "",
+"root": {
+"key": "neutr",
+"meaning": "中性，两者都不",
+"match": "neutr"
+},
+"confusable": [
+"neuron"
+],
+"synonyms": [],
+"antonyms": []
+},
+"hustle": {
+"gloss": "催促，推搡；(口)拼命干，忙碌奔波；行骗，兜售；喧嚣忙碌",
+"trap": "hustle and bustle 熙熙攘攘；side hustle 副业",
+"root": null,
+"confusable": [
+"hassle",
+"bustle"
+],
+"synonyms": [
+"bustle",
+"push",
+"hurry",
+"jostle"
+],
+"antonyms": []
+},
+"neuron": {
+"gloss": "神经元，神经细胞",
+"trap": "",
+"root": {
+"key": "neur",
+"meaning": "神经",
+"match": "neur"
+},
+"confusable": [
+"neutron"
+],
+"synonyms": [
+"nerve cell"
+],
+"antonyms": []
+},
+"outlaw": {
+"gloss": "宣布…非法，取缔；(旧)逃犯，亡命之徒",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"ban",
+"prohibit",
+"criminal",
+"fugitive"
+],
+"antonyms": [
+"legalize",
+"permit"
+]
+},
+"cripple": {
+"gloss": "严重削弱，使瘫痪；使残疾；(冒犯语)残疾人",
+"trap": "作名词有冒犯性，现多用 disabled person；动词“严重损害”常用",
+"root": null,
+"confusable": [
+"crumple",
+"ripple"
+],
+"synonyms": [
+"disable",
+"paralyze",
+"hamstring",
+"incapacitate"
+],
+"antonyms": [
+"strengthen"
+]
+},
+"braid": {
+"gloss": "辫子；编织(辫子)；饰带，穗带",
+"trap": "",
+"root": null,
+"confusable": [
+"bread",
+"brand",
+"bride"
+],
+"synonyms": [
+"plait",
+"weave",
+"interlace"
+],
+"antonyms": [
+"unbraid"
+]
+},
+"shady": {
+"gloss": "可疑的，不正当的；阴凉的，多荫的",
+"trap": "口语中常指“可疑的、不正派的”",
+"root": null,
+"confusable": [
+"shaggy",
+"shabby"
+],
+"synonyms": [
+"dubious",
+"suspicious",
+"shaded",
+"sketchy"
+],
+"antonyms": [
+"honest",
+"sunny"
+]
+},
+"waver": {
+"gloss": "犹豫，动摇；摇曳，颤抖",
+"trap": "不是 waiver(弃权书)，两词同音",
+"root": null,
+"confusable": [
+"waiver",
+"wave",
+"quaver"
+],
+"synonyms": [
+"hesitate",
+"falter",
+"vacillate",
+"flicker"
+],
+"antonyms": [
+"persist",
+"resolve"
+]
+},
+"salient": {
+"gloss": "显著的，突出的，最重要的；(军事)突出部",
+"trap": "词源 salire“跳”，同源 salmon(跳跃的鱼)",
+"root": {
+"key": "sali",
+"meaning": "跳",
+"match": "sali"
+},
+"confusable": [
+"silent",
+"saline"
+],
+"synonyms": [
+"prominent",
+"notable",
+"striking",
+"conspicuous"
+],
+"antonyms": [
+"inconspicuous",
+"minor"
+]
+},
+"carcass": {
+"gloss": "(动物的)尸体；(宰后的)畜体；(建筑、车辆的)骨架，残骸",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"corpse",
+"body",
+"remains",
+"shell"
+],
+"antonyms": []
+},
+"magician": {
+"gloss": "魔术师；(神话中的)魔法师",
+"trap": "",
+"root": null,
+"confusable": [
+"musician"
+],
+"synonyms": [
+"conjurer",
+"illusionist",
+"wizard",
+"sorcerer"
+],
+"antonyms": []
+},
+"prophecy": {
+"gloss": "预言；预言能力",
+"trap": "prophecy 是名词(/-si/)，prophesy 是动词(/-saɪ/)",
+"root": null,
+"confusable": [
+"prophesy"
+],
+"synonyms": [
+"prediction",
+"forecast",
+"divination"
+],
+"antonyms": []
+},
+"bandage": {
+"gloss": "绷带；用绷带包扎",
+"trap": "",
+"root": null,
+"confusable": [
+"band",
+"bondage"
+],
+"synonyms": [
+"dressing",
+"gauze",
+"wrap"
+],
+"antonyms": []
+},
+"hoist": {
+"gloss": "吊起，升起；起重机，吊车",
+"trap": "hoist the flag 升旗",
+"root": null,
+"confusable": [
+"heist"
+],
+"synonyms": [
+"lift",
+"raise",
+"elevate",
+"haul"
+],
+"antonyms": [
+"lower"
+]
+},
+"tangle": {
+"gloss": "缠结，乱成一团；纠纷，混乱；争吵(tangle with)",
+"trap": "",
+"root": null,
+"confusable": [
+"tango",
+"tangible",
+"dangle"
+],
+"synonyms": [
+"knot",
+"snarl",
+"mess",
+"entangle"
+],
+"antonyms": [
+"untangle"
+]
+},
+"jagged": {
+"gloss": "参差不齐的，有尖突的，锯齿状的",
+"trap": "读音 /ˈdʒæɡɪd/，两个音节",
+"root": null,
+"confusable": [
+"ragged",
+"jaded"
+],
+"synonyms": [
+"rough",
+"uneven",
+"serrated",
+"craggy"
+],
+"antonyms": [
+"smooth",
+"even"
+]
+},
+"lapse": {
+"gloss": "失误，疏忽；(时间)流逝，间隔；失效；陷入",
+"trap": "lapse of memory 记忆失误；保险 lapses 指失效",
+"root": {
+"key": "laps",
+"meaning": "滑落",
+"match": "laps"
+},
+"confusable": [
+"laps"
+],
+"synonyms": [
+"slip",
+"error",
+"interval",
+"expire"
+],
+"antonyms": []
+},
+"aggravate": {
+"gloss": "加重，使恶化；(口)激怒",
+"trap": "词源 gravis“重”，“使更重”；口语另有“惹恼”义",
+"root": {
+"key": "grav",
+"meaning": "重",
+"match": "grav"
+},
+"confusable": [
+"aggregate",
+"aggrieve"
+],
+"synonyms": [
+"worsen",
+"exacerbate",
+"intensify",
+"annoy"
+],
+"antonyms": [
+"alleviate",
+"improve"
+]
+},
+"paralyse": {
+"gloss": "使瘫痪，使麻痹；使停顿，使无法运作",
+"trap": "英式拼写，美式 paralyze；名词 paralysis",
+"root": {
+"key": "lys",
+"meaning": "松开，分解",
+"match": "lys"
+},
+"confusable": [
+"analyse"
+],
+"synonyms": [
+"immobilize",
+"disable",
+"cripple",
+"freeze"
+],
+"antonyms": []
+},
+"utmost": {
+"gloss": "极度的，最大的；极限，最大限度",
+"trap": "do one's utmost 竭尽全力",
+"root": null,
+"confusable": [
+"upmost",
+"outmost"
+],
+"synonyms": [
+"maximum",
+"greatest",
+"extreme",
+"supreme"
+],
+"antonyms": [
+"least",
+"minimum"
+]
+},
+"obstruct": {
+"gloss": "阻塞，堵塞；阻挠，妨碍",
+"trap": "ob-“对着”+struct“建”，挡在前面",
+"root": {
+"key": "struct",
+"meaning": "建造",
+"match": "struct"
+},
+"confusable": [
+"abstract"
+],
+"synonyms": [
+"block",
+"hinder",
+"impede",
+"hamper"
+],
+"antonyms": [
+"facilitate",
+"clear"
+]
+},
+"depress": {
+"gloss": "使沮丧，使消沉；使萧条，使(价格)下跌；按下",
+"trap": "",
+"root": {
+"key": "press",
+"meaning": "压",
+"match": "press"
+},
+"confusable": [
+"oppress",
+"suppress",
+"repress"
+],
+"synonyms": [
+"sadden",
+"dishearten",
+"lower",
+"weaken"
+],
+"antonyms": [
+"cheer",
+"boost",
+"elevate"
+]
+},
+"override": {
+"gloss": "推翻，否决；凌驾于…之上；(手动)取代自动设置；(编程)重写",
+"trap": "",
+"root": null,
+"confusable": [
+"overwrite",
+"overrule"
+],
+"synonyms": [
+"overrule",
+"overturn",
+"supersede",
+"veto"
+],
+"antonyms": [
+"uphold"
+]
+},
+"notch": {
+"gloss": "等级，档次；刻痕，凹口；赢得，获得(notch up)",
+"trap": "a notch above 高一档；notch up 取得(胜利)",
+"root": null,
+"confusable": [
+"botch",
+"notice"
+],
+"synonyms": [
+"level",
+"degree",
+"nick",
+"groove"
+],
+"antonyms": []
+},
+"attentive": {
+"gloss": "专注的，留心的；体贴的，周到的",
+"trap": "",
+"root": {
+"key": "tend",
+"meaning": "伸展",
+"match": "tent"
+},
+"confusable": [
+"tentative",
+"intensive"
+],
+"synonyms": [
+"alert",
+"observant",
+"considerate",
+"thoughtful"
+],
+"antonyms": [
+"inattentive",
+"careless"
+]
+},
+"perish": {
+"gloss": "死亡，丧生(尤指非正常)；毁灭，消亡；(食物、橡胶)腐坏",
+"trap": "perishable 易腐的；publish or perish 不发表就出局",
+"root": null,
+"confusable": [
+"parish",
+"polish"
+],
+"synonyms": [
+"die",
+"vanish",
+"decay"
+],
+"antonyms": [
+"survive",
+"thrive"
+]
+},
+"hectic": {
+"gloss": "忙乱的，繁忙紧张的",
+"trap": "现代义“忙乱的”，不是“发热的”(旧医学义)",
+"root": null,
+"confusable": [
+"hectare",
+"heretic"
+],
+"synonyms": [
+"frantic",
+"busy",
+"chaotic",
+"frenzied"
+],
+"antonyms": [
+"calm",
+"leisurely"
+]
+},
+"emigrate": {
+"gloss": "移居国外(从本国迁出)",
+"trap": "emigrate 迁出(from)，immigrate 迁入(to)",
+"root": {
+"key": "migr",
+"meaning": "迁移",
+"match": "migr"
+},
+"confusable": [
+"immigrate",
+"migrate"
+],
+"synonyms": [
+"relocate",
+"leave"
+],
+"antonyms": [
+"immigrate"
+]
+},
+"haste": {
+"gloss": "匆忙，急忙；草率",
+"trap": "in haste 匆忙地；more haste, less speed 欲速不达",
+"root": null,
+"confusable": [
+"waste",
+"hasten"
+],
+"synonyms": [
+"hurry",
+"rush",
+"speed",
+"urgency"
+],
+"antonyms": [
+"leisure",
+"slowness"
+]
+},
+"surname": {
+"gloss": "姓，姓氏",
+"trap": "= family name / last name；名是 first name",
+"root": null,
+"confusable": [
+"nickname"
+],
+"synonyms": [
+"family name",
+"last name"
+],
+"antonyms": [
+"forename"
+]
+},
+"deflect": {
+"gloss": "使偏斜，使转向；转移(批评、注意力)；回避(问题)",
+"trap": "deflect criticism 转移批评",
+"root": {
+"key": "flect",
+"meaning": "弯曲",
+"match": "flect"
+},
+"confusable": [
+"reflect",
+"defect"
+],
+"synonyms": [
+"divert",
+"parry",
+"redirect"
+],
+"antonyms": [
+"attract"
+]
+},
+"anthem": {
+"gloss": "国歌，颂歌；赞美诗；(某群体的)代表性歌曲",
+"trap": "national anthem 国歌",
+"root": null,
+"confusable": [
+"anthology",
+"anathema"
+],
+"synonyms": [
+"hymn",
+"song",
+"chant"
+],
+"antonyms": []
+},
+"vanity": {
+"gloss": "虚荣(心)，自负；徒劳，空虚；梳妆台",
+"trap": "vanity 虚荣 ← vain 徒劳/自负；vanity table 梳妆台",
+"root": {
+"key": "van",
+"meaning": "空",
+"match": "van"
+},
+"confusable": [
+"vanish",
+"sanity"
+],
+"synonyms": [
+"conceit",
+"narcissism",
+"pride",
+"futility"
+],
+"antonyms": [
+"modesty",
+"humility"
+]
+},
+"limp": {
+"gloss": "跛行，一瘸一拐地走；软弱无力的，松软的",
+"trap": "动词“跛行”与形容词“软塌塌的”是两个不同来源的词",
+"root": null,
+"confusable": [
+"lamp",
+"lump",
+"limb"
+],
+"synonyms": [
+"hobble",
+"floppy",
+"flaccid",
+"weak"
+],
+"antonyms": [
+"firm",
+"stiff"
+]
+},
+"meagre": {
+"gloss": "少量的，不足的；瘦的",
+"trap": "英式拼写，美式 meager；不是 eager",
+"root": null,
+"confusable": [
+"eager"
+],
+"synonyms": [
+"scanty",
+"sparse",
+"paltry",
+"insufficient"
+],
+"antonyms": [
+"ample",
+"abundant"
+]
+},
+"traveling": {
+"gloss": "旅行的，巡回的；移动式的；旅行(travel 的现在分词)",
+"trap": "美式拼写，英式 travelling",
+"root": null,
+"confusable": [],
+"synonyms": [
+"touring",
+"mobile",
+"itinerant"
+],
+"antonyms": [
+"stationary"
+]
+},
+"ludicrous": {
+"gloss": "荒唐可笑的，荒谬的",
+"trap": "词源 ludus“游戏”，同源 elude、prelude",
+"root": {
+"key": "lud",
+"meaning": "玩",
+"match": "lud"
+},
+"confusable": [
+"lucrative",
+"lucid"
+],
+"synonyms": [
+"absurd",
+"ridiculous",
+"preposterous",
+"farcical"
+],
+"antonyms": [
+"sensible",
+"reasonable"
+]
+}
+}

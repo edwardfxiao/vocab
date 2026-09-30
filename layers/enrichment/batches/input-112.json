@@ -1,0 +1,602 @@
+[
+{
+"word": "capricious",
+"pos": "a",
+"zh": "a. 反复无常的, 多变的, 任性的",
+"en": "s. changeable / s. determined by chance or impulse or whim rather than by necessity or reason"
+},
+{
+"word": "glower",
+"pos": "vi/n",
+"zh": "vi. 瞪眼, 怒目而视, 凝视 / n. 怒视, 热切的注视, 灯丝",
+"en": "v. look at with a fixed gaze"
+},
+{
+"word": "disparage",
+"pos": "vt",
+"zh": "vt. 蔑视, 贬损 / [法] 轻视, 贬低, 诽谤",
+"en": "v. express a negative opinion of"
+},
+{
+"word": "snappy",
+"pos": "a",
+"zh": "a. 厉声说话的；生气勃勃的；时髦的；爽快的",
+"en": "s. smart and fashionable"
+},
+{
+"word": "cheetah",
+"pos": "n",
+"zh": "n. 猎豹",
+"en": "n. long-legged spotted cat of Africa and southwestern Asia having nonretractile claws; the swiftest mammal; can be train…"
+},
+{
+"word": "unicorn",
+"pos": "n",
+"zh": "n. 似马的独角兽 / [医] 单角的",
+"en": "n. an imaginary creature represented as a white horse with a long horn growing from its forehead"
+},
+{
+"word": "undaunted",
+"pos": "a",
+"zh": "a. 大无畏的, 勇敢的",
+"en": "s. unshaken in purpose / s. resolutely courageous"
+},
+{
+"word": "apothecary",
+"pos": "n",
+"zh": "n. 药剂师, 药房 / [医] 药剂员; 药店",
+"en": "n a health professional trained in the art of preparing and dispensing drugs"
+},
+{
+"word": "knapsack",
+"pos": "n",
+"zh": "n. 背包",
+"en": "n a bag carried by a strap on your back or shoulder"
+},
+{
+"word": "hemorrhage",
+"pos": "n",
+"zh": "n. 出血 / [医] 出血",
+"en": "n the flow of blood from a ruptured blood vessel / v lose blood from one's body"
+},
+{
+"word": "sonata",
+"pos": "n",
+"zh": "n. 奏鸣曲",
+"en": "n. a musical composition of 3 or 4 movements of contrasting forms"
+},
+{
+"word": "incendiary",
+"pos": "a/n",
+"zh": "a. 放火的, 煽动的, 燃烧的 / n. 纵火犯人, 煽动者, 燃烧弹",
+"en": "a. involving deliberate burning of property / s. arousing to action or rebellion / s. capable of catching fire spontaneo…"
+},
+{
+"word": "portraiture",
+"pos": "n",
+"zh": "n. 肖像绘制(法), 肖像画, 描写",
+"en": "n. the activity of making portraits"
+},
+{
+"word": "scion",
+"pos": "n",
+"zh": "n. 接穗, 子孙 / [医] 嫩枝, 接穗",
+"en": "n. a descendent or heir"
+},
+{
+"word": "idiotic",
+"pos": "a",
+"zh": "a. 白痴的, 愚蠢的, 呆头呆脑的",
+"en": "s insanely irresponsible / s incongruous; inviting ridicule / s having a mental age of three to seven years"
+},
+{
+"word": "luminary",
+"pos": "n",
+"zh": "n. 发光体, 杰出人物",
+"en": "n. a celebrity who is an inspiration to others"
+},
+{
+"word": "shackle",
+"pos": "n/vt",
+"zh": "n. 桎梏, 束缚物 / vt. 加枷锁, 束缚",
+"en": "n. a restraint that confines or restricts freedom (especially something used to tie down or restrain a prisoner) / n. a …"
+},
+{
+"word": "sparingly",
+"pos": "adv",
+"zh": "adv. 节约地, 爱惜地, 吝惜地, 少量地, 贫乏地",
+"en": "r to a meager degree or in a meager manner"
+},
+{
+"word": "monopolize",
+"pos": "vt",
+"zh": "vt. 独占, 垄断 / [经] 垄断, 专营, 专利",
+"en": "v. have and control fully and exclusively / v. have or exploit a monopoly of"
+},
+{
+"word": "inordinate",
+"pos": "a",
+"zh": "a. 过度的, 紊乱的, 过分的",
+"en": "s beyond normal limits"
+},
+{
+"word": "disavow",
+"pos": "vt",
+"zh": "vt. 否认, 否定, 拒绝对...承担责任 / [法] 不承认, 抵赖, 拒绝对...承担责任",
+"en": "v. refuse to acknowledge; disclaim knowledge of; responsibility for, or association with"
+},
+{
+"word": "pancreas",
+"pos": "n",
+"zh": "n. 胰腺 / [医] 胰[腺]",
+"en": "n. a large elongated exocrine gland located behind the stomach; secretes pancreatic juice and insulin"
+},
+{
+"word": "lair",
+"pos": "n/vi/vt",
+"zh": "n. 兽穴, 兽窝, 泥潭 / vi. 进入兽穴, 在泥中打滚 / vt. 放于穴中, 使陷入泥潭",
+"en": "n. the habitation of wild animals"
+},
+{
+"word": "domicile",
+"pos": "n/v",
+"zh": "n. 住所, 住宅 / v. (使)定居",
+"en": "n. (law) the residence where you have your permanent home or principal establishment and to where, whenever you are abse…"
+},
+{
+"word": "sorcery",
+"pos": "n",
+"zh": "n. 巫术, 魔术 / [法] 巫术",
+"en": "n. the belief in magical spells that harness occult forces or evil spirits to produce unnatural effects in the world"
+},
+{
+"word": "contort",
+"pos": "vt/vi",
+"zh": "vt. 扭弯, 曲解 / vi. 扭弯",
+"en": "v. twist and press out of shape"
+},
+{
+"word": "vertebrate",
+"pos": "n/a",
+"zh": "n. 脊椎动物 / a. 有椎骨的, 有脊椎的",
+"en": "n. animals having a bony or cartilaginous skeleton with a segmented spinal column and a large brain enclosed in a skull …"
+},
+{
+"word": "outmoded",
+"pos": "a",
+"zh": "a. 过时的, 废弃的 / [经] (式样等)过时的, 废弃了的",
+"en": "v make unfashionable, outdated, or obsolete / s out of fashion"
+},
+{
+"word": "wayside",
+"pos": "n/a",
+"zh": "n. 路旁 / a. 路旁的",
+"en": "n. edge of a way or road or path"
+},
+{
+"word": "racy",
+"pos": "a",
+"zh": "a. 保持原味的, 活泼的, 生动的, 为竞赛设计的",
+"en": "s. designed or suitable for competing in a race"
+},
+{
+"word": "shipwreck",
+"pos": "n/vt",
+"zh": "n. 遇难船, 海难 / vt. 遇海难, 毁灭, 使失事",
+"en": "n. a wrecked ship (or a part of one) / n. an irretrievable loss / n. an accident that destroys a ship at sea"
+},
+{
+"word": "deformation",
+"pos": "n",
+"zh": "n. 损形, 变丑, 畸形 / [化] 变形; 形变",
+"en": "n. alteration in the shape or dimensions of an object as a result of the application of stress to it"
+},
+{
+"word": "grumpy",
+"pos": "a",
+"zh": "a. 性情乖戾的, 脾气暴躁的, 生气的",
+"en": "s annoyed and irritable"
+},
+{
+"word": "enchant",
+"pos": "vt",
+"zh": "vt. 施魔法, 使入迷",
+"en": "v. hold spellbound"
+},
+{
+"word": "gripe",
+"pos": "n/vt/vi",
+"zh": "n. 紧握, 柄, 把手, 控制 / vt. 抓紧, 抱住, 使肠痛, 激怒 / vi. 肠绞痛, 抱怨",
+"en": "n. informal terms for objecting / v. complain"
+},
+{
+"word": "germinate",
+"pos": "vi/vt",
+"zh": "vi. 发芽, 萌芽, 开始发育 / vt. 使发芽, 使发育",
+"en": "v. cause to grow or sprout"
+},
+{
+"word": "luminosity",
+"pos": "n",
+"zh": "n. 光明, 光辉, 光度, 亮度 / [计] 亮度",
+"en": "n. the quality of being luminous; emitting or reflecting light"
+},
+{
+"word": "infatuation",
+"pos": "n",
+"zh": "n. 迷惑, 迷恋, 醉心",
+"en": "n. a foolish and usually extravagant passion or love or admiration / n. an object of extravagant short-lived passion"
+},
+{
+"word": "stalwart",
+"pos": "n/a",
+"zh": "n. 健壮的人 / a. 高大结实的, 坚定的",
+"en": "s. dependable / s. used especially of persons"
+},
+{
+"word": "mallet",
+"pos": "n",
+"zh": "n. 木槌, 球棍, 棒 / [化] 大锤; 手锤",
+"en": "n. a sports implement with a long handle and a head like a hammer; used in sports (polo or croquet) to hit a ball / n. a…"
+},
+{
+"word": "wick",
+"pos": "n",
+"zh": "n. 灯芯, 油绳",
+"en": "n. any piece of cord that conveys liquid by capillary action / n. a loosely woven cord (in a candle or oil lamp) that dr…"
+},
+{
+"word": "accretion",
+"pos": "n",
+"zh": "n. 自然增大, 添加, 添加物, 连生 / [化] 停滞堆积",
+"en": "n. an increase by natural growth or addition / n. something contributing to growth or increase / n. (astronomy) the form…"
+},
+{
+"word": "sidle",
+"pos": "v/n",
+"zh": "v. 横着走, 悄悄贴近, 侧身而行 / n. 侧走, 挨近",
+"en": "v. move unobtrusively or furtively / v. move sideways"
+},
+{
+"word": "ameliorate",
+"pos": "v",
+"zh": "v. 改善, 改良, 改进",
+"en": "v to make better / v get better"
+},
+{
+"word": "lullaby",
+"pos": "n",
+"zh": "n. 摇篮曲, 催眠曲, 轻柔的音乐",
+"en": "n. a quiet song intended to lull a child to sleep / n. the act of singing a quiet song to lull a child to sleep"
+},
+{
+"word": "adverb",
+"pos": "n",
+"zh": "n. 副词",
+"en": "n. the word class that qualifies verbs or clauses / n. a word that modifies something other than a noun"
+},
+{
+"word": "deleterious",
+"pos": "a",
+"zh": "a. 有害的, 造成伤害的 / [医] 有害的",
+"en": "s. harmful to living things"
+},
+{
+"word": "truancy",
+"pos": "n",
+"zh": "n. 玩忽职守, 旷课 / [法] 旷学, 旷职, 玩忽职守",
+"en": "n. failure to attend (especially school)"
+},
+{
+"word": "pariah",
+"pos": "n",
+"zh": "n. 贱民(印度的最低阶级), 被放逐者",
+"en": "n a person who is rejected (from society or home)"
+},
+{
+"word": "unexplored",
+"pos": "a",
+"zh": "a. 未勘查过的",
+"en": "s not yet discovered"
+},
+{
+"word": "patina",
+"pos": "n",
+"zh": "n. 绿锈, 光泽, 古色, 神态, 圣餐盘 / [机] 铜绿",
+"en": "n. a fine coating of oxide on the surface of a metal"
+},
+{
+"word": "blemish",
+"pos": "n/vt",
+"zh": "n. 污点, 缺点 / vt. 弄脏, 玷污, 损害",
+"en": "n. a mark or flaw that spoils the appearance of something (especially on a person's body) / v. mar or impair with a flaw"
+},
+{
+"word": "photosynthesis",
+"pos": "n",
+"zh": "n. 光合作用 / [化] 光合作用",
+"en": "n. synthesis of compounds with the aid of radiant energy (especially in plants)"
+},
+{
+"word": "curd",
+"pos": "n",
+"zh": "n. 凝乳 / [化] 凝乳; 凝乳状物; 酪状物; 皂粒",
+"en": "n. a coagulated liquid resembling milk curd / n. coagulated milk; used to make cheese"
+},
+{
+"word": "extraneous",
+"pos": "a",
+"zh": "a. 外来的, 非必要的, 无关的 / [医] 体外的",
+"en": "s. not pertinent to the matter under consideration / s. not essential / s. not belonging to that in which it is containe…"
+},
+{
+"word": "implode",
+"pos": "vi",
+"zh": "vi. 内爆, 向内破裂, 爆裂 / [电] 内裂",
+"en": "v. burst inward"
+},
+{
+"word": "bandanna",
+"pos": "n",
+"zh": "n. 一各印花大手帕",
+"en": "n. large and brightly colored handkerchief; often used as a neckerchief"
+},
+{
+"word": "zigzag",
+"pos": "n/a/adv/vt/vi",
+"zh": "n. 曲折线条, Z字形道路 / a. 之字形的, 曲折的, 锯齿形的 / adv. 之字形地, 曲折地, 成锯齿形地 / vt. 使成之字形, 使曲折进行 / vi. 成之字形,…",
+"en": "n. an angular shape characterized by sharp turns in alternating directions / v. travel along a zigzag path / s. having s…"
+},
+{
+"word": "polemic",
+"pos": "a/n",
+"zh": "a. 争辩的, 好争论的 / n. 争论, 辩论, 辩论者",
+"en": "n. a controversy (especially over a belief or dogma) / s. of or involving dispute or controversy"
+},
+{
+"word": "resuscitate",
+"pos": "v",
+"zh": "v. (使)复苏, (使)复兴",
+"en": "v. cause to regain consciousness"
+},
+{
+"word": "introspective",
+"pos": "a",
+"zh": "a. 内省的 / [医] 内省的",
+"en": "a. given to examining own sensory and perceptual experiences"
+},
+{
+"word": "anemic",
+"pos": "a",
+"zh": "a. 贫血的, 患贫血症的, 无活力的 / [医] 贫血的",
+"en": "s. lacking vigor or energy / a. relating to anemia or suffering from anemia"
+},
+{
+"word": "lope",
+"pos": "v/n",
+"zh": "v. (使)大步慢跑 / n. 大步慢跑",
+"en": "v. run easily"
+},
+{
+"word": "denizen",
+"pos": "n/vt",
+"zh": "n. 居民, 外籍居民, 外来语 / vt. 给...居住权, 移植",
+"en": "n. a plant or animal naturalized in a region"
+},
+{
+"word": "crass",
+"pos": "a",
+"zh": "a. 粗俗的, 愚钝的, 粗糙的, 非常的",
+"en": "s. (of persons) so unrefined as to be lacking in discrimination and sensibility"
+},
+{
+"word": "heretic",
+"pos": "n",
+"zh": "n. 异教徒, 异端者",
+"en": "n. a person who holds religious beliefs in conflict with the dogma of the Roman Catholic Church / n. a person who holds …"
+},
+{
+"word": "demean",
+"pos": "vt",
+"zh": "vt. 贬低身分, 贬损",
+"en": "v reduce in worth or character, usually verbally"
+},
+{
+"word": "merciful",
+"pos": "a",
+"zh": "a. 仁慈的, 慈悲的",
+"en": "a. showing or giving mercy / s. (used conventionally of royalty and high nobility) gracious"
+},
+{
+"word": "touchstone",
+"pos": "n",
+"zh": "n. 试金石, 检验标准",
+"en": "n a basis for comparison; a reference point against which other things can be evaluated"
+},
+{
+"word": "debunk",
+"pos": "vt",
+"zh": "vt. 揭穿, 暴露, 拆穿假面具",
+"en": "v. expose while ridiculing; especially of pretentious or false claims and ideas"
+},
+{
+"word": "secede",
+"pos": "vi",
+"zh": "vi. 正式脱离(或退出), 分离 / [法] 退出, 脱离",
+"en": "v. withdraw from an organization or communion"
+},
+{
+"word": "porpoise",
+"pos": "n",
+"zh": "n. 海豚, 鼠海豚",
+"en": "n. any of several small gregarious cetacean mammals having a blunt snout and many teeth"
+},
+{
+"word": "sedimentary",
+"pos": "a",
+"zh": "a. 沉渣的, 沉淀物的, 由沉淀物所生成的 / [医] 沉淀的, 沉积的, 沉降的",
+"en": "a. resembling or containing or formed by the accumulation of sediment"
+},
+{
+"word": "grotto",
+"pos": "n",
+"zh": "n. 洞穴, 岩穴, 洞室",
+"en": "n. a small cave (usually with attractive features)"
+},
+{
+"word": "uptight",
+"pos": "a",
+"zh": "a. 紧张的, 拮据的, 心情焦躁的",
+"en": "s being in a tense state"
+},
+{
+"word": "trawl",
+"pos": "n/v",
+"zh": "n. 拖网 / v. 用拖网捕鱼",
+"en": "n. a long fishing line with many shorter lines and hooks attached to it (usually suspended between buoys) / n. a conical…"
+},
+{
+"word": "valor",
+"pos": "n",
+"zh": "n. 英勇, 刚勇, 勇猛",
+"en": "n the qualities of a hero or heroine; exceptional or heroic courage when facing danger (especially in battle)"
+},
+{
+"word": "ferment",
+"pos": "n/v",
+"zh": "n. 酵素, 发酵, 动乱 / v. (使)发酵, (使)动乱",
+"en": "n. a substance capable of bringing about fermentation / v. be in an agitated or excited state / v. work up into agitatio…"
+},
+{
+"word": "homily",
+"pos": "n",
+"zh": "n. 说教, 训诫",
+"en": "n. a sermon on a moral or religious topic"
+},
+{
+"word": "mermaid",
+"pos": "n",
+"zh": "n. 美人鱼, 善泳的女子",
+"en": "n. half woman and half fish; lives in the sea"
+},
+{
+"word": "neurotransmitter",
+"pos": "n",
+"zh": "n. 神经递质 / [化] 神经递质",
+"en": "n. a neurochemical that transmits nerve impulses across a synapse"
+},
+{
+"word": "premonition",
+"pos": "n",
+"zh": "n. 预告, 预感, 征兆 / [医] 先兆, 预兆",
+"en": "n a feeling of evil to come / n an early warning about a future event"
+},
+{
+"word": "antagonize",
+"pos": "vt/vi",
+"zh": "vt. 使对抗, 使敌对, 反对 / vi. 引起反抗",
+"en": "v. provoke the hostility of / v. act in opposition to"
+},
+{
+"word": "celibate",
+"pos": "n/a",
+"zh": "n. 独身者, 独身主义者 / a. 独身的, 独身主义的",
+"en": "n. an unmarried person who has taken a religious vow of chastity / s. abstaining from sexual intercourse"
+},
+{
+"word": "voluptuous",
+"pos": "a",
+"zh": "a. 骄奢淫逸的, 贪图酒色的, 妖娆的, 肉欲的, 激起情欲的, 色情的",
+"en": "s having strong sexual appeal / s (of a woman's body) having a large bosom and pleasing curves / s displaying luxury and…"
+},
+{
+"word": "eulogy",
+"pos": "n",
+"zh": "n. 赞词, 称颂",
+"en": "n. a formal expression of praise for someone who has died recently"
+},
+{
+"word": "trinket",
+"pos": "n",
+"zh": "n. 小件饰物, 无价值的琐碎东西, 小玩意儿",
+"en": "n cheap showy jewelry or ornament on clothing"
+},
+{
+"word": "exponential",
+"pos": "a/n",
+"zh": "a. 指数的 / n. 指数 / [计] 指数",
+"en": "n. a function in which an independent variable appears as an exponent / a. of or involving exponents"
+},
+{
+"word": "irk",
+"pos": "vt",
+"zh": "vt. 使厌倦, 使苦恼",
+"en": "v irritate or vex"
+},
+{
+"word": "incisor",
+"pos": "n",
+"zh": "n. 门牙 / [医] 切牙, 门齿",
+"en": "n. a tooth for cutting or gnawing; located in the front of the mouth in both jaws"
+},
+{
+"word": "conceit",
+"pos": "n",
+"zh": "n. 自负, 空想, 狂妄",
+"en": "n. an elaborate poetic image or a far-fetched comparison of very dissimilar things / n. a witty or ingenious turn of phr…"
+},
+{
+"word": "gratify",
+"pos": "vt",
+"zh": "vt. 使满足",
+"en": "v. yield (to); give satisfaction to"
+},
+{
+"word": "waddle",
+"pos": "vi/n",
+"zh": "vi. 摇摇摆摆地走, 蹒跚而行 / n. 蹒跚",
+"en": "n. walking with short steps and the weight tilting from one foot to the other"
+},
+{
+"word": "ingestion",
+"pos": "n",
+"zh": "n. 摄取 / [医] 食入, 摄食",
+"en": "n the process of taking food into the body through the mouth (as by eating)"
+},
+{
+"word": "carat",
+"pos": "n",
+"zh": "n. 克拉 / [化] 开; 克拉(宝石、金刚石重量单位,等于0.2克)",
+"en": "n. a unit of weight for precious stones = 200 mg"
+},
+{
+"word": "hatchet",
+"pos": "n",
+"zh": "n. 斧头, 手斧, 战斧 / [机] 小斧, 手斧",
+"en": "n. a small ax with a short handle used with one hand (usually to chop wood)"
+},
+{
+"word": "insular",
+"pos": "a",
+"zh": "a. 岛的, 岛民的, 与世隔绝的, 孤立的, 保守的 / [医] 岛的, 胰岛的, 脑岛的",
+"en": "a. relating to or characteristic of or situated on an island / s. suggestive of the isolated life of an island; so deepl…"
+},
+{
+"word": "viscosity",
+"pos": "n",
+"zh": "n. 粘稠, 粘性 / [化] 内摩擦; 粘度",
+"en": "n. resistance of a liquid to shear forces (and hence to flow)"
+},
+{
+"word": "embalm",
+"pos": "vt",
+"zh": "vt. 以药物防腐, 铭记于心, 使不朽",
+"en": "v. preserve a dead body"
+},
+{
+"word": "harpsichord",
+"pos": "n",
+"zh": "n. 羽管键琴",
+"en": "n. a clavier with strings that are plucked by plectra mounted on pivots"
+}
+]

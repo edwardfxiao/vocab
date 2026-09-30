@@ -1,0 +1,602 @@
+[
+{
+"word": "binary",
+"pos": "a",
+"zh": "a. 由两部分组成的, 二进位的, 二元的 / [计] 二进制的; 二态的; 二进制, 二进制文件传输类型设置命令",
+"en": "n. a pre-compiled, pre-linked program that is ready to run under a given operating system; a binary for one operating sy…"
+},
+{
+"word": "bound",
+"pos": "n/a/vi/vt",
+"zh": "n. 跃, 回跳, 范围, 边界 / a. 受约束的, 装有封面的, 有义务的, 关联的, 被束缚的, 准备去...的, 便秘的 / vi. 跳跃, 弹起 / vt. 使跳, 限制…",
+"en": "v. form the boundary of; be contiguous to / a. confined by bonds / a. held with another element, substance or material i…"
+},
+{
+"word": "capitalist",
+"pos": "n/a",
+"zh": "n. 资本家, 资本主义者 / a. 资本主义的",
+"en": "n. a conservative advocate of capitalism / n. a person who invests capital in a business (especially a large business) /…"
+},
+{
+"word": "characterization",
+"pos": "n",
+"zh": "n. 特性描述, 人物之塑造 / [建] 特性因数",
+"en": "n. the act of describing distinctive characteristics or essential features"
+},
+{
+"word": "circa",
+"pos": "prep",
+"zh": "prep. 大约在 / [经] 大约",
+"en": ""
+},
+{
+"word": "communicative",
+"pos": "a",
+"zh": "a. 健谈的, 爱说话的, 交际的",
+"en": "a. of or relating to communication / a. able or tending to communicate"
+},
+{
+"word": "computation",
+"pos": "n",
+"zh": "n. 计算, 计数, 计算结果 / [经] 计算, 估计, 计算法",
+"en": "n the procedure of calculating; determining something by mathematical or logical methods / n problem solving that involv…"
+},
+{
+"word": "conditional",
+"pos": "a",
+"zh": "a. 有条件的, 有前提的 / [电] 有条件的",
+"en": "s. qualified by reservations / a. imposing or depending on or containing a condition"
+},
+{
+"word": "conduction",
+"pos": "n",
+"zh": "n. 传导 / [化] 传导",
+"en": "n. the transmission of heat or electricity or sound"
+},
+{
+"word": "connector",
+"pos": "n",
+"zh": "n. 连结者, 联系者, 连结物 / [计] 连接口",
+"en": "n an instrumentality that connects"
+},
+{
+"word": "consultation",
+"pos": "n",
+"zh": "n. 请教, 咨询, 磋商会 / [医] 会诊",
+"en": "n. a conference (usually with someone important) / n. a conference between two or more people to consider a particular q…"
+},
+{
+"word": "convergence",
+"pos": "n",
+"zh": "n. 集中, 收敛 / [计] 收敛, 会聚",
+"en": "n. the occurrence of two or more things coming together / n. the approach of an infinite series to a finite limit / n. t…"
+},
+{
+"word": "core",
+"pos": "n/vt",
+"zh": "n. 核心, 果心, 要点 / vt. 挖...的核 / [计] 内核, 核心网",
+"en": "n. a small group of indispensable persons or things / n. the center of an object / n. the central part of the Earth / n.…"
+},
+{
+"word": "credibility",
+"pos": "n",
+"zh": "n. 可信用, 确实性, 可靠 / [法] 证据能力, 可信程度, 确实性",
+"en": "n. the quality of being believable or trustworthy"
+},
+{
+"word": "criteria",
+"pos": "",
+"zh": "pl. 标准 / [计] 条件",
+"en": "n a basis for comparison; a reference point against which other things can be evaluated / n the ideal in terms of which …"
+},
+{
+"word": "critically",
+"pos": "adv",
+"zh": "adv. 批评性地, 审慎地, 精密地",
+"en": "r. in a critical manner"
+},
+{
+"word": "cyclic",
+"pos": "a",
+"zh": "a. 周期的, 轮转的, 循环的, 轮列的, 轮卷的, 环状的, 环的, 组诗的, 始末的 / [计] 循环的, 周期的",
+"en": "a. conforming to the Carnot cycle / a. forming a whorl or having parts arranged in a whorl / a. of a compound having ato…"
+},
+{
+"word": "deflection",
+"pos": "n",
+"zh": "n. 歪斜, 偏, 偏向 / [医] 偏向, 偏离, 偏转(光), 偏转, 波(心电图)",
+"en": "n. a twist or aberration; especially a perverse or abnormal way of judging or acting / n. the amount by which a propagat…"
+},
+{
+"word": "demonstrator",
+"pos": "n",
+"zh": "n. 论证者, 证明者, 指示者, 示威者 / [医] 示教者",
+"en": "n. a teacher or teacher's assistant who demonstrates the principles that are being taught / n. someone who demonstrates …"
+},
+{
+"word": "denominator",
+"pos": "n",
+"zh": "n. 分母, 命名者 / [经] 分母, 共同特性, 标准",
+"en": "n. the divisor of a fraction"
+},
+{
+"word": "descriptor",
+"pos": "",
+"zh": "[计] 描述符; 描述词; 解说符",
+"en": "n. a piece of stored information that is used to identify an item in an information storage and retrieval system"
+},
+{
+"word": "developmental",
+"pos": "a",
+"zh": "a. 发展的, 进化的, 启发的 / [医] 发育的",
+"en": "a. of or relating to or constituting development"
+},
+{
+"word": "differentiation",
+"pos": "n",
+"zh": "n. 区别, 分化, 变异 / [医] 鉴别, 区别, 分化[作用], 微分法",
+"en": "n. a discrimination between things as different and distinct / n. the mathematical process of obtaining the derivative o…"
+},
+{
+"word": "diffusion",
+"pos": "n",
+"zh": "n. 散播, 传播, 蔓延 / [医] 扩散, 弥散, 漫射(光)",
+"en": "n. (physics) the process in which there is movement of a substance from an area of high concentration of that substance …"
+},
+{
+"word": "dimensional",
+"pos": "a",
+"zh": "a. ...维的 / [化] 量纲的; 因次的",
+"en": "a. of or relating to dimensions / s. having dimension--the quality or character or stature proper to a person; he is pas…"
+},
+{
+"word": "dissection",
+"pos": "n",
+"zh": "n. 解剖, 切开 / [化] 解剖",
+"en": "n. cutting so as to separate into pieces / n. a minute and critical analysis / n. detailed critical analysis or examinat…"
+},
+{
+"word": "dominance",
+"pos": "n",
+"zh": "n. 优势, 显性, 统治, 控制, 支配 / [计] 控制, 扰势",
+"en": "n. the state that exists when one person or group has power over another / n. the organic phenomenon in which one of a p…"
+},
+{
+"word": "domination",
+"pos": "n",
+"zh": "n. 支配, 控制, 管辖",
+"en": "n. social control by dominating / n. power to dominate or defeat"
+},
+{
+"word": "economist",
+"pos": "n",
+"zh": "n. 经济学者, 经济家 / [经] 经济学家",
+"en": "n. an expert in the science of economics"
+},
+{
+"word": "elasticity",
+"pos": "n",
+"zh": "n. 弹力, 弹性 / [化] 弹性",
+"en": "n. the tendency of a body to return to its original shape after it has been stretched or compressed"
+},
+{
+"word": "enforcement",
+"pos": "n",
+"zh": "n. 执行, 强制 / [法] 实施, 加强, 厉行",
+"en": "n. the act of enforcing; ensuring observance of or obedience to"
+},
+{
+"word": "enormously",
+"pos": "adv",
+"zh": "adv. 非常地, 巨大地",
+"en": "r. extremely"
+},
+{
+"word": "epidemiology",
+"pos": "n",
+"zh": "n. 传染病学, 流行病学 / [医] 流行病学",
+"en": "n. the branch of medical science dealing with the transmission and control of disease"
+},
+{
+"word": "equivalence",
+"pos": "n",
+"zh": "n. 同等, 等价, 等值 / [计] 等价",
+"en": "n. essential equality and interchangeability"
+},
+{
+"word": "estimation",
+"pos": "n",
+"zh": "n. 判断, 估计, 尊重 / [化] 估计; 估定; 测定; 估值",
+"en": "n a document appraising the value of something (as for insurance or taxation) / n the respect with which a person is hel…"
+},
+{
+"word": "explicitly",
+"pos": "adv",
+"zh": "adv. 明确地；明白地",
+"en": "r. in an explicit manner"
+},
+{
+"word": "factorial",
+"pos": "a/n",
+"zh": "a. 因子的, 阶乘的, 代理商的 / n. 阶乘 / [计] 阶乘",
+"en": "n. the product of all the integers up to and including a given integer / a. of or relating to factorials"
+},
+{
+"word": "fertility",
+"pos": "n",
+"zh": "n. 肥沃, 丰饶, 生产力 / [医] 生育力",
+"en": "n. the state of being fertile; capable of producing offspring"
+},
+{
+"word": "fetal",
+"pos": "a",
+"zh": "a. 胎儿的, 胎的 / [医] 胎的, 胎儿的",
+"en": "a. of or relating to a fetus"
+},
+{
+"word": "found",
+"pos": "vt",
+"zh": "vt. 建立, 创立, 铸造 / find的过去式和过去分词",
+"en": "n. food and lodging provided in addition to money / a. come upon unexpectedly or after searching"
+},
+{
+"word": "fundamentally",
+"pos": "adv",
+"zh": "adv. 基础, 首要, 主要, 十分重要, 基本, 根本, 原始, 基频, 基音, 基谐波",
+"en": "r in essence; at bottom or by one's (or its) very nature"
+},
+{
+"word": "globalization",
+"pos": "",
+"zh": "[计] 全球化, 普及到世界范围",
+"en": "n. growth to a global or worldwide scale"
+},
+{
+"word": "helix",
+"pos": "n",
+"zh": "n. 螺旋, 螺旋状物, 耳轮 / [化] 螺旋",
+"en": "n. a curve that lies on the surface of a cylinder or cone and cuts the element at a constant angle / n. type genus of th…"
+},
+{
+"word": "historically",
+"pos": "adv",
+"zh": "adv. 历史上地；从历史观点上说",
+"en": "r. throughout history / r. with respect to history"
+},
+{
+"word": "immigrate",
+"pos": "vt/vi",
+"zh": "vt. 使移居入境 / vi. 移入",
+"en": "v. migrate to a new environment / v. introduce or send as immigrants / v. come into a new country and change residency"
+},
+{
+"word": "inclusion",
+"pos": "n",
+"zh": "n. 包含, 内含物 / [计] 蕴含",
+"en": "n. the state of being included / n. the relation of comprising something / n. the act of including"
+},
+{
+"word": "incredibly",
+"pos": "adv",
+"zh": "adv. 不能相信地",
+"en": "r. not easy to believe"
+},
+{
+"word": "individually",
+"pos": "adv",
+"zh": "adv. 以个人身分, 各个地, 独特地",
+"en": "r. apart from others"
+},
+{
+"word": "industrialize",
+"pos": "vt/vi",
+"zh": "vt. 使工业化 / vi. 实现工业化",
+"en": "v. organize (the production of something) into an industry / v. develop industry; become industrial"
+},
+{
+"word": "inequality",
+"pos": "n",
+"zh": "n. 不平等, 不同, 不平坦, 不平均 / n. 不平等, 不等式 / [计] 不等式",
+"en": "n. lack of equality"
+},
+{
+"word": "infinity",
+"pos": "n",
+"zh": "n. 无限大, 无限 / [计] 无穷",
+"en": "n time without end"
+},
+{
+"word": "inhibition",
+"pos": "n",
+"zh": "n. 禁止, 抑制, 压抑 / [计] 禁止",
+"en": "n. (psychology) the conscious exclusion of unacceptable thoughts or desires / n. the quality of being inhibited / n. (ph…"
+},
+{
+"word": "initiation",
+"pos": "n",
+"zh": "n. 开始, 指引, 入会 / [化] 引发",
+"en": "n. a formal entry into an organization or position or office / n. the act of starting something for the first time; intr…"
+},
+{
+"word": "integration",
+"pos": "n",
+"zh": "n. 综合, 与环境协调的行为, 集成 / [化] 集成; 整合",
+"en": "n. the action of incorporating a racial or religious group into a community / n. an operation used in the calculus where…"
+},
+{
+"word": "interestingly",
+"pos": "adv",
+"zh": "adv. 有趣地",
+"en": "r. in an interesting manner"
+},
+{
+"word": "inversion",
+"pos": "n",
+"zh": "n. 倒转, 倒置, 倒装 / [化] 反转; 倒反; 反演; 转化",
+"en": "n. the layer of air near the earth is cooler than an overlying layer / n. abnormal condition in which an organ is turned…"
+},
+{
+"word": "lecturer",
+"pos": "n",
+"zh": "n. 演讲者, 讲师 / [法] 讲演人, 讲课人, 讲师",
+"en": "n. someone who lectures professionally"
+},
+{
+"word": "longitudinal",
+"pos": "a",
+"zh": "a. 经度的, 经线的, 纵的 / [医] 纵的",
+"en": "a. of or relating to lines of longitude / s. running lengthwise / s. over an extended time"
+},
+{
+"word": "manipulation",
+"pos": "n",
+"zh": "n. 操作, 处理 / [化] (用手)操作; 使用",
+"en": "n. exerting shrewd or devious influence especially for one's own advantage"
+},
+{
+"word": "marker",
+"pos": "n",
+"zh": "n. 作记号的人, 记分员, 书签, 纪念碑, 里程碑, 标识物, 标记 / [计] 标记",
+"en": "n. some conspicuous object used to distinguish or mark something / n. a distinguishing symbol / n. a writing implement f…"
+},
+{
+"word": "morphological",
+"pos": "a",
+"zh": "a. 形态的, 形态学的, 词法的 / [计] 词法的",
+"en": "a relating to or concerned with the formation of admissible words in a language / a pertaining to geological structure /…"
+},
+{
+"word": "nationalism",
+"pos": "n",
+"zh": "n. 民族主义, 民族特性",
+"en": "n. the doctrine that your national culture and interests are superior to any other / n. the aspiration for national inde…"
+},
+{
+"word": "nonlinear",
+"pos": "a",
+"zh": "a. 非线性的 / [电] 非线性的",
+"en": "a. designating or involving an equation whose terms are not of the first degree"
+},
+{
+"word": "oscillation",
+"pos": "n",
+"zh": "n. 振动, 动摇, 变动, 彷徨, 电波 / [医] 振动, 摆动",
+"en": "n. the process of oscillating between states / n. (physics) a regular periodic variation in value about a mean"
+},
+{
+"word": "overview",
+"pos": "n",
+"zh": "n. 概述, 概观, 总的看法 / [计] 概述",
+"en": "n. a general summary of a subject"
+},
+{
+"word": "oxidize",
+"pos": "vt/vi",
+"zh": "vt. 使氧化, 使生锈 / vi. 氧化",
+"en": "v. add oxygen to or combine with oxygen"
+},
+{
+"word": "parenthesis",
+"pos": "n",
+"zh": "n. 圆括号, 插入语, 附带, 插曲",
+"en": "n. either of two punctuation marks (or) used to enclose textual material"
+},
+{
+"word": "phonological",
+"pos": "a",
+"zh": "a. 音位学的, 音韵学的",
+"en": "a. of or relating to phonology"
+},
+{
+"word": "pi",
+"pos": "n",
+"zh": "n. 圆周率 / [计] 处理器接口, 程序中断",
+"en": "n. the ratio of the circumference to the diameter of a circle; approximately equal to 3.14159265358979323846... / n. the…"
+},
+{
+"word": "pole",
+"pos": "n/vt/vi",
+"zh": "n. 波兰人, 极点, 磁极, 电极, 杆, 竿, 相反的极端 / vt. 用竿支撑 / vi. 撑篙",
+"en": "n. a long (usually round) rod of wood or metal or plastic / n. a native or inhabitant of Poland / n. one of two divergen…"
+},
+{
+"word": "primer",
+"pos": "n",
+"zh": "n. 入门书, 初级读本, 雷管, 导火线, 底漆 / [化] 底漆; 引物; 雷管; 导火线",
+"en": "n. an introductory textbook"
+},
+{
+"word": "processor",
+"pos": "n",
+"zh": "n. 信息处理机, 加工者, 处理者 / [计] 处理器",
+"en": "n. a business engaged in processing agricultural products and preparing them for market / n. someone who processes thing…"
+},
+{
+"word": "randomize",
+"pos": "vt",
+"zh": "vt. 使随机化 / [计] 随机化",
+"en": "v. arrange in random order"
+},
+{
+"word": "randomly",
+"pos": "adv",
+"zh": "adv. 偶然, 胡乱, 无目的, 任意, 随便, 任取, 无规则, 机遇, 胡乱地, 任意地, 随便地 / [计] 随机地",
+"en": "r. in a random manner"
+},
+{
+"word": "rationality",
+"pos": "n",
+"zh": "n. 合理性, 纯理性",
+"en": "n. the state of having good sense and sound judgment / n. the quality of being consistent with or based on logic"
+},
+{
+"word": "reactive",
+"pos": "a",
+"zh": "a. 反动的, 反应的 / [医] 反应的",
+"en": "a. participating readily in reactions / s. reacting to a stimulus"
+},
+{
+"word": "regression",
+"pos": "n",
+"zh": "n. 退步, 回归 / [计] 回归",
+"en": "n. (psychiatry) a defense mechanism in which you flee from reality by assuming a more infantile state / n. the relation …"
+},
+{
+"word": "reluctance",
+"pos": "n",
+"zh": "n. 不情愿, 勉强 / [电] 磁阻",
+"en": "n. (physics) opposition to magnetic flux (analogous to electric resistance) / n. a certain degree of unwillingness"
+},
+{
+"word": "replication",
+"pos": "n",
+"zh": "n. 回答, 反响, 复制, 第二次答辩, 折转, 弯回 / [化] 复制",
+"en": "n. (genetics) the process whereby DNA makes a copy of itself before cell division / n. (law) a pleading made by a plaint…"
+},
+{
+"word": "selective",
+"pos": "a",
+"zh": "a. 选择的, 选择性的 / [经] 选择的, 选择性的",
+"en": "s. tending to select; characterized by careful choice / s. characterized by very careful or fastidious selection"
+},
+{
+"word": "semantic",
+"pos": "a",
+"zh": "a. 语义的 / [计] 语义",
+"en": "a. of or relating to meaning or the study of meaning"
+},
+{
+"word": "sexuality",
+"pos": "n",
+"zh": "n. 性征, 性行为, 性欲 / [医] 性别, 性欲",
+"en": "n the properties that distinguish organisms on the basis of their reproductive roles"
+},
+{
+"word": "simulation",
+"pos": "n",
+"zh": "n. 模拟, 假冒物, 模仿 / [计] 模拟",
+"en": "n. the act of imitating the behavior of some situation or some process by means of something suitably analogous (especia…"
+},
+{
+"word": "so-called",
+"pos": "a",
+"zh": "a. 所谓的, 号称的 / [法] 所谓的, 据称的",
+"en": "s doubtful or suspect"
+},
+{
+"word": "solute",
+"pos": "n",
+"zh": "n. 溶解物, 溶质 / [化] 溶质",
+"en": "n. the dissolved matter in a solution; the component of a solution that changes its state"
+},
+{
+"word": "sophisticate",
+"pos": "n/vt/vi",
+"zh": "n. 久经世故的人, 精于...之道的人 / vt. 篡改, 曲解, 使变得世故, 掺合, 弄复杂 / vi. 诡辩",
+"en": "n. a worldly-wise person / v. make less natural or innocent / v. alter and make impure, as with the intention to deceive"
+},
+{
+"word": "sponsorship",
+"pos": "n",
+"zh": "n. 发起, 倡议, 主办, 保证人的地位, 教父的地位, 教母的地位",
+"en": "n. the act of sponsoring (either officially or financially)"
+},
+{
+"word": "standardize",
+"pos": "vt",
+"zh": "vt. 使标准化, 使合于标准, 用标准检验 / [计] 标准化; 规格化",
+"en": "v. cause to conform to standard or norm / v. evaluate by comparing with a standard"
+},
+{
+"word": "statistically",
+"pos": "adv",
+"zh": "adv. 用统计的方法, 统计学上",
+"en": "r. with respect to statistics"
+},
+{
+"word": "subset",
+"pos": "n",
+"zh": "n. 子集 / [计] 子集; 子设备",
+"en": "n. a set whose members are members of another set; a set contained within another set"
+},
+{
+"word": "substitution",
+"pos": "n",
+"zh": "n. 代替, 替换, 代替物 / [计] 置换",
+"en": "n. an event in which one thing is substituted for another / n. the act of putting one thing or person in the place of an…"
+},
+{
+"word": "substrate",
+"pos": "n",
+"zh": "n. 底层, 地层, 衬底, 基底, 基质, 酶作用物, 酶解物 / [计] 衬底; 基片",
+"en": "n. the substance that is acted upon by an enzyme or ferment / n. a surface on which an organism grows or is attached / n…"
+},
+{
+"word": "sustainable",
+"pos": "a",
+"zh": "a. 足可支撑的, 养得起的, 可以忍受的",
+"en": "a. capable of being sustained"
+},
+{
+"word": "syntactic",
+"pos": "a",
+"zh": "a. 句法的, 句法上的, 按照句法规则的 / [计] 语法的, 句法的",
+"en": "a. of or relating to or conforming to the rules of syntax"
+},
+{
+"word": "syntax",
+"pos": "n",
+"zh": "n. 句法, 语法, 句子构造 / [计] 句法, 语法",
+"en": "n. the grammatical arrangement of words in sentences / n. a systematic orderly arrangement / n. studies of the rules for…"
+},
+{
+"word": "technically",
+"pos": "adv",
+"zh": "adv. 技术上, 学术上, 专门地",
+"en": "r. with regard to technique / r. with regard to technical skill and the technology available / r. according to the exact…"
+},
+{
+"word": "theorist",
+"pos": "n",
+"zh": "n. 理论家, 理论工作者",
+"en": "n. someone who theorizes (especially in science or art)"
+},
+{
+"word": "transcription",
+"pos": "n",
+"zh": "n. 抄写, 抄本 / [化] 转录; 转录作用",
+"en": "n. something written, especially copied from one medium to another, as a typewritten version of dictation / n. (genetics…"
+},
+{
+"word": "unintelligible",
+"pos": "a",
+"zh": "a. 无法了解的, 难解的, 莫明其妙的",
+"en": "a. poorly articulated or enunciated, or drowned by noise"
+},
+{
+"word": "uplift",
+"pos": "n/vt/vi",
+"zh": "n. 抬起, 道德的向上, 精神的高涨 / vt. 提高, 抬起 / vi. 上升",
+"en": "n. a brassiere that lifts and supports the breasts / v. lift up from the earth, as by geologic forces / v. lift up or el…"
+}
+]

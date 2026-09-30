@@ -1,0 +1,602 @@
+[
+{
+"word": "reprieve",
+"pos": "n/vt",
+"zh": "n. 缓刑, 缓刑令, 暂缓 / vt. 暂时解救, 缓期执行",
+"en": "n. a (temporary) relief from harm or discomfort / n. a warrant granting postponement (usually to postpone the execution …"
+},
+{
+"word": "invocation",
+"pos": "n",
+"zh": "n. 祈祷, 符咒",
+"en": "n. a prayer asking God's help as part of a religious service / n. an incantation used in conjuring or summoning a devil …"
+},
+{
+"word": "kinetic",
+"pos": "a",
+"zh": "a. 运动的, 运动引起的, 动力学的, 活动的 / [医] 运动的, 动的, 动力的",
+"en": "a. relating to the motion of material bodies and the forces associated therewith / s. characterized by motion"
+},
+{
+"word": "demented",
+"pos": "a",
+"zh": "a. 发狂的, 精神错乱的 / [医] 痴呆的",
+"en": "s affected with madness or insanity"
+},
+{
+"word": "assail",
+"pos": "vt",
+"zh": "vt. 攻击, 质问 / [法] 攻击, 袭击, 著手解决",
+"en": "v. attack someone physically or emotionally"
+},
+{
+"word": "pelt",
+"pos": "n/vt/vi",
+"zh": "n. 投掷, 打击, 快速, 毛皮 / vt. 剥...的皮, 连续投掷, 攻击, 抨击, 拍打 / vi. 投击",
+"en": "v. cast, hurl, or throw repeatedly with some missile"
+},
+{
+"word": "heinous",
+"pos": "a",
+"zh": "a. 可憎的, 令人发指的",
+"en": "s extremely wicked, deeply criminal"
+},
+{
+"word": "disservice",
+"pos": "n",
+"zh": "n. 伤害, 帮倒忙的行为",
+"en": "n. an act intended to help that turns out badly"
+},
+{
+"word": "avenge",
+"pos": "vt",
+"zh": "vt. 为...报复, 报仇",
+"en": "v take revenge for a perceived wrong"
+},
+{
+"word": "fleck",
+"pos": "n/vt",
+"zh": "n. 斑点, 雀斑, 斑纹 / vt. 使起斑点, 使有斑纹, 使有斑驳",
+"en": "n a small fragment of something broken off from the whole / n a small contrasting part of something / v make a spot or m…"
+},
+{
+"word": "rescind",
+"pos": "vt",
+"zh": "vt. 废止, 使无效, 取消, 撤消, 解除 / [经] 取消, 废除",
+"en": "v cancel officially"
+},
+{
+"word": "twine",
+"pos": "n/v",
+"zh": "n. 合股线, 麻线, 搓 / v. 搓, (使)交织, 编饰, (使)缠绕",
+"en": "v. make by twisting together or intertwining"
+},
+{
+"word": "moron",
+"pos": "n",
+"zh": "n. 低能者, 笨人 / [医] 痴愚者",
+"en": "n. a city in Argentina, to the west of Buenos Aires"
+},
+{
+"word": "pernicious",
+"pos": "a",
+"zh": "a. 有害的, 致命的, 恶劣的, 险恶的 / [医] 恶性的",
+"en": "s exceedingly harmful / s working or spreading in a hidden and usually injurious way"
+},
+{
+"word": "corny",
+"pos": "a",
+"zh": "a. 谷类的, 乡巴佬似的, 粗野的 / [建] 角制的, 角(质)的",
+"en": "s dull and tiresome but with pretensions of significance or originality"
+},
+{
+"word": "fatten",
+"pos": "vi/vt",
+"zh": "vi. 养肥 / vt. 使肥胖",
+"en": "v. make fat or plump"
+},
+{
+"word": "turnip",
+"pos": "n",
+"zh": "n. 芜菁, 芜菁甘蓝 / [医] 芜菁, 萝卜",
+"en": "n. widely cultivated plant having a large fleshy edible white or yellow root / n. root of any of several members of the …"
+},
+{
+"word": "permissive",
+"pos": "a",
+"zh": "a. 许可的, 获准的, 宽容的, 放任的, 放纵的, 允许选择的, 自由的 / [法] 表示许可的, 随意的, 纵容的",
+"en": "a. not preventive / a. granting or inclined or able to grant permission; not strict in discipline"
+},
+{
+"word": "edict",
+"pos": "n",
+"zh": "n. 布告, 法令 / [经] 布告, 法令",
+"en": "n. a formal or authoritative proclamation"
+},
+{
+"word": "blockage",
+"pos": "n",
+"zh": "n. 封锁, 妨碍 / [化] 堵塞",
+"en": "n. an obstruction in a pipe or tube / n. the act of blocking"
+},
+{
+"word": "confidant",
+"pos": "n",
+"zh": "n. 心腹朋友, 知己",
+"en": "n. someone to whom private matters are confided"
+},
+{
+"word": "springboard",
+"pos": "n",
+"zh": "n. 跳板, 出发点",
+"en": "n. a flexible board for jumping upward / n. a beginning from which an enterprise is launched"
+},
+{
+"word": "locust",
+"pos": "n",
+"zh": "n. 蝗虫, 蚱蜢, 蝉",
+"en": "n. migratory grasshoppers of warm regions having short antennae / n. hardwood from any of various locust trees"
+},
+{
+"word": "sadistic",
+"pos": "a",
+"zh": "a. 虐待狂的, 残酷成性的",
+"en": "a. deriving pleasure or sexual gratification from inflicting pain on another"
+},
+{
+"word": "genteel",
+"pos": "a",
+"zh": "a. 有教养的, 上流的, 优雅的",
+"en": "s marked by refinement in taste and manners"
+},
+{
+"word": "frightful",
+"pos": "a",
+"zh": "a. 可怕的, 惊人的, 丑的, 非常的",
+"en": "s. extreme in degree or extent or amount or impact"
+},
+{
+"word": "philanthropic",
+"pos": "a",
+"zh": "a. 慈善(事业)的, 博爱的, 乐善好施的 / [法] 博爱的, 仁慈的, 慈善事业的",
+"en": "a. of or relating to or characterized by philanthropy"
+},
+{
+"word": "unanimity",
+"pos": "n",
+"zh": "n. 无异议, 同意, (全体)一致 / [法] 全体一致, 一致同意, 合意",
+"en": "n. everyone being of one mind"
+},
+{
+"word": "acupuncture",
+"pos": "n/vt",
+"zh": "n. 针刺, 针刺疗法 / vt. 施以针灸",
+"en": "n. treatment of pain or disease by inserting the tips of needles at specific points on the skin"
+},
+{
+"word": "colt",
+"pos": "n",
+"zh": "n. 小马, 苔绳, 无经验的年轻人",
+"en": "n. a young male horse under the age of four / n. a kind of revolver"
+},
+{
+"word": "slough",
+"pos": "n/vt/vi",
+"zh": "n. 泥沼, 沼泽, 蜕下的皮, 腐肉 / vt. 使陷入泥沼, 使沉沦, 脱落, 抛弃 / vi. 在泥浆中跋涉, 蜕皮, 脱落",
+"en": "n. a hollow filled with mud / n. a stagnant swamp (especially as part of a bayou) / n. any outer covering that can be sh…"
+},
+{
+"word": "slimy",
+"pos": "a",
+"zh": "a. 泥的, 泥泞的, 粘糊糊的, 讨厌的",
+"en": "s covered with or resembling slime / s morally reprehensible"
+},
+{
+"word": "grasshopper",
+"pos": "n",
+"zh": "n. 蚱蜢, 蝗虫",
+"en": "n. terrestrial plant-eating insect with hind legs adapted for leaping / n. a cocktail made of creme de menthe and cream …"
+},
+{
+"word": "pander",
+"pos": "vi/n",
+"zh": "vi. 勾引, 怂恿, 卑劣地迎合 / n. 拉皮条者, 怂恿者, 助恶者",
+"en": "v. arrange for sexual partners for others"
+},
+{
+"word": "consequential",
+"pos": "a",
+"zh": "a. 作为结果的, 随之发生的, 推论的, 间接的, 重大的, 自大的, 傲慢的, 自傲的 / [法] 结果的, 相应而生的, 接着发生的",
+"en": "s. having important issues or results"
+},
+{
+"word": "citadel",
+"pos": "n",
+"zh": "n. 城堡, 避难处",
+"en": "n a stronghold into which people could go for shelter during a battle"
+},
+{
+"word": "wistful",
+"pos": "a",
+"zh": "a. 渴望的, 想望的",
+"en": "s showing pensive sadness"
+},
+{
+"word": "mutton",
+"pos": "n",
+"zh": "n. 羊肉",
+"en": "n meat from a mature domestic sheep"
+},
+{
+"word": "altruism",
+"pos": "n",
+"zh": "n. 利他主义, 利他",
+"en": "n. the quality of unselfish concern for the welfare of others"
+},
+{
+"word": "retriever",
+"pos": "n",
+"zh": "n. 取回的人",
+"en": "n. a dog with heavy water-resistant coat that can be trained to retrieve game"
+},
+{
+"word": "pauper",
+"pos": "n",
+"zh": "n. 贫民, 靠救济度日者, 穷人, 乞丐 / [法] 贫民, 穷人",
+"en": "n. a person who is very poor"
+},
+{
+"word": "denunciation",
+"pos": "n",
+"zh": "n. 谴责, 告发 / [经] 废止合同(契约), 宣告合同(契约等)无效",
+"en": "n. a public act of denouncing"
+},
+{
+"word": "ethereal",
+"pos": "a",
+"zh": "a. 轻的, 飘渺的, 天上的 / [医] 醚制的, 挥发性的",
+"en": "a. of or containing or dissolved in ether / s. characterized by unusual lightness and delicacy"
+},
+{
+"word": "intrepid",
+"pos": "a",
+"zh": "a. 无畏的, 勇猛的",
+"en": "s invulnerable to fear or intimidation"
+},
+{
+"word": "neoclassical",
+"pos": "a",
+"zh": "a. 新古典主义的",
+"en": "s characteristic of a revival of an earlier classical style"
+},
+{
+"word": "cobbler",
+"pos": "n",
+"zh": "n. 皮匠, 补鞋匠, 笨工匠",
+"en": "n. a person who makes or repairs shoes / n. tall sweetened iced drink of wine or liquor with fruit"
+},
+{
+"word": "scavenger",
+"pos": "n",
+"zh": "n. (英)清道夫, 清扫工, 拾垃圾的人, 清除剂, 净化剂, 食腐动物, 黄色作家 / [计] 清除器",
+"en": "n. a chemical agent that is added to a chemical mixture to counteract the effects of impurities / n. any animal that fee…"
+},
+{
+"word": "panoramic",
+"pos": "a",
+"zh": "a. 全景的",
+"en": "s as from an altitude or distance"
+},
+{
+"word": "queasy",
+"pos": "a",
+"zh": "a. 呕吐的, 使人呕吐的 / [经] 不稳定的",
+"en": "s causing or able to cause nausea / s feeling nausea; feeling about to vomit / s causing or fraught with or showing anxi…"
+},
+{
+"word": "condescending",
+"pos": "a",
+"zh": "a. 谦逊的, 故意屈尊的, 有优越感的",
+"en": "v behave in a patronizing and condescending manner / v do something that one considers to be below one's dignity / v deb…"
+},
+{
+"word": "diminution",
+"pos": "n",
+"zh": "n. 减少, 缩小, 减低 / [医] 减少, 减小",
+"en": "n. the statement of a theme in notes of lesser duration (usually half the length of the original)"
+},
+{
+"word": "grisly",
+"pos": "a",
+"zh": "a. 可怕的, 厉害的, 令人畏惧的",
+"en": "s shockingly repellent; inspiring horror"
+},
+{
+"word": "mirth",
+"pos": "n",
+"zh": "n. 欢笑, 欢乐, 愉快",
+"en": "n great merriment"
+},
+{
+"word": "incredulity",
+"pos": "n",
+"zh": "n. 不轻信, 怀疑, 疑心",
+"en": "n. doubt about the truth of something"
+},
+{
+"word": "vaccinate",
+"pos": "v",
+"zh": "v. 预防接种",
+"en": "v perform vaccinations or produce immunity in by inoculation"
+},
+{
+"word": "fragmentary",
+"pos": "a",
+"zh": "a. 碎片的, 碎屑的, 片断的, 断片的, 碎块的, 不完全的, 不连续的, 不完整的",
+"en": "s consisting of small disconnected parts"
+},
+{
+"word": "elucidate",
+"pos": "vt",
+"zh": "vt. 阐明, 说明",
+"en": "v make clear and (more) comprehensible / v make free from confusion or ambiguity; make clear"
+},
+{
+"word": "dowry",
+"pos": "n",
+"zh": "n. 嫁妆 / [法] 陪嫁物, 嫁妆",
+"en": "n. money or property brought by a woman to her husband at marriage"
+},
+{
+"word": "dainty",
+"pos": "a",
+"zh": "a. 秀丽的；美味的；讲究的；挑剔的",
+"en": "n. something considered choice to eat / s. affectedly dainty or refined / s. delicately beautiful / s. especially pleasi…"
+},
+{
+"word": "informer",
+"pos": "n",
+"zh": "n. 密告者, 控告者, 通知者 / [法] 控告人, 通知者, 告密者",
+"en": "n. one who reveals confidential information in return for money"
+},
+{
+"word": "upstart",
+"pos": "n/a",
+"zh": "n. 新贵, 暴发户, 自命不凡者 / a. 暴富的",
+"en": "n. an arrogant or presumptuous person / n. a person who has suddenly risen to a higher economic status but has not gaine…"
+},
+{
+"word": "agonize",
+"pos": "vt/vi",
+"zh": "vt. 使极度痛苦, 折磨 / vi. 感到痛苦",
+"en": "v. cause to agonize / v. suffer agony or anguish"
+},
+{
+"word": "nemesis",
+"pos": "n",
+"zh": "n. 复仇女神, 给与惩罚的人, 天罚, 报应",
+"en": "n. (Greek mythology) the goddess of divine retribution and vengeance"
+},
+{
+"word": "parson",
+"pos": "n",
+"zh": "n. 教区牧师",
+"en": "n a person authorized to conduct religious worship"
+},
+{
+"word": "precocious",
+"pos": "a",
+"zh": "a. 早熟的, 像大人的 / [医] 早熟的",
+"en": "a. characterized by or characteristic of exceptionally early development or maturity (especially in mental aptitude) / s…"
+},
+{
+"word": "awning",
+"pos": "n",
+"zh": "n. 遮篷, 雨篷",
+"en": "n. a canopy made of canvas to shelter people or things from rain or sun"
+},
+{
+"word": "giraffe",
+"pos": "n",
+"zh": "n. 长颈鹿, 鹿豹座",
+"en": "n. tallest living quadruped; having a spotted coat and small horns and very long neck and legs; of savannahs of tropical…"
+},
+{
+"word": "reversion",
+"pos": "n",
+"zh": "n. 回复, 复原, 归还, 继承权 / [化] 返硫",
+"en": "n. (law) an interest in an estate that reverts to the grantor (or his heirs) at the end of some period (e.g., the death …"
+},
+{
+"word": "mauve",
+"pos": "n/a",
+"zh": "n. 苯胺紫, 淡紫色 / a. 淡紫色的",
+"en": "n. a moderate purple / s. of a pale to moderate greyish violet color"
+},
+{
+"word": "sleazy",
+"pos": "a",
+"zh": "a. 质地薄的, 没有内容的, 低级庸俗的",
+"en": "s. of cloth; thin and loosely woven"
+},
+{
+"word": "cottonwood",
+"pos": "n",
+"zh": "n. 三角叶杨",
+"en": "n. any of several North American trees of the genus Populus having a tuft of cottony hairs on the seed"
+},
+{
+"word": "putative",
+"pos": "a",
+"zh": "a. 推定的, 被公认的 / [法] 被公认的, 推定的, 假定的",
+"en": "s. purported; commonly put forth or accepted as true on inconclusive grounds"
+},
+{
+"word": "bottleneck",
+"pos": "n",
+"zh": "n. 瓶颈 / [经] 瓶颈, 增产障碍",
+"en": "n. the narrow part of a bottle near the top / v. slow down or impede by creating an obstruction / v. become narrow, like…"
+},
+{
+"word": "spout",
+"pos": "n/vt/vi",
+"zh": "n. 喷口, 从喷口流出的水, 水落管, 水龙卷 / vt. 喷出, 喷射, 滔滔不绝说出, 典押 / vi. 喷射, 高谈阔论",
+"en": "n. an opening that allows the passage of liquids or grain"
+},
+{
+"word": "purification",
+"pos": "n",
+"zh": "n. 纯化, 提纯, 涤罪 / [化] 提纯",
+"en": "n. the act of cleaning by getting rid of impurities / n. a ceremonial cleansing from defilement or uncleanness by the pe…"
+},
+{
+"word": "schematic",
+"pos": "a/n",
+"zh": "a. 概要的, 图解的, 略图的 / n. 图表",
+"en": "n. diagram of an electrical or mechanical system"
+},
+{
+"word": "luster",
+"pos": "n/vi/vt",
+"zh": "n. 光彩, 荣誉, 光泽 / vi. 有光泽, 发亮 / vt. 使发光辉",
+"en": "n. a quality that outshines the usual / n. a surface coating for ceramics or porcelain"
+},
+{
+"word": "munition",
+"pos": "n/vt",
+"zh": "n. 军需品 / vt. 供给军需品",
+"en": "n. military supplies / v. supply with weapons"
+},
+{
+"word": "relent",
+"pos": "vi",
+"zh": "vi. 变宽厚, 变温和, 动怜悯之心",
+"en": "v give in, as to influence or pressure"
+},
+{
+"word": "octopus",
+"pos": "n",
+"zh": "n. 章鱼",
+"en": "n. tentacles of octopus prepared as food / n. bottom-living cephalopod having a soft oval body with eight long tentacles"
+},
+{
+"word": "musty",
+"pos": "a",
+"zh": "a. 发霉的, 霉臭的, 落伍的",
+"en": "s covered with or smelling of mold / s stale and unclean smelling"
+},
+{
+"word": "sardine",
+"pos": "n",
+"zh": "n. 沙丁鱼",
+"en": "n. small fatty fish usually canned / n. any of various small edible herring or related food fishes frequently canned"
+},
+{
+"word": "babble",
+"pos": "vi/vt/n",
+"zh": "vi. 牙牙学语, 喋喋不休 / vt. 唠叨, 吐露 / n. 儿语, 胡言乱语, 嘈杂声 / [计] 串音",
+"en": "n. gibberish resembling the sounds of a baby / v. utter meaningless sounds, like a baby, or utter in an incoherent way /…"
+},
+{
+"word": "scorpion",
+"pos": "n",
+"zh": "n. 蝎子, 心黑的人, 蝎尾鞭 / [医] 蝎",
+"en": "n. arachnid of warm dry regions having a long segmented tail ending in a venomous stinger"
+},
+{
+"word": "renege",
+"pos": "vi/vt/n",
+"zh": "vi. 违例出牌, 食言, 毁约 / vt. 否认, 放弃, 拒绝 / n. 出牌违例",
+"en": "v. fail to fulfill a promise or obligation"
+},
+{
+"word": "compatriot",
+"pos": "n/a",
+"zh": "n. 同国人 / a. 同国的, 同胞的",
+"en": "n. a person from your own country"
+},
+{
+"word": "minibus",
+"pos": "n",
+"zh": "n. 中客车, 小型公共汽车",
+"en": "n. a light bus (4 to 10 passengers)"
+},
+{
+"word": "stanza",
+"pos": "n",
+"zh": "n. 演出期, (体育比赛的)局",
+"en": "n. a fixed number of lines of verse forming a unit of a poem"
+},
+{
+"word": "emigrant",
+"pos": "n/a",
+"zh": "n. 移民, 侨民 / a. 移民的, 移居的",
+"en": "n. someone who leaves one country to settle in another"
+},
+{
+"word": "sardonic",
+"pos": "a",
+"zh": "a. 嘲笑的, 冷笑的, 讥讽的 / [医] 痉笑的",
+"en": "s. disdainfully or ironically humorous; scornful and mocking"
+},
+{
+"word": "hearsay",
+"pos": "n",
+"zh": "n. 传闻, 谣言",
+"en": "s. heard through another rather than directly"
+},
+{
+"word": "furor",
+"pos": "n",
+"zh": "n. 喧闹, 激怒, 感动, 狂热 / [医] 狂乱, 狂暴, 狂怒",
+"en": "n. a sudden outburst (as of protest)"
+},
+{
+"word": "lichen",
+"pos": "n",
+"zh": "n. 青苔, 地衣, 苔藓病 / [医] 地衣, 苔癣",
+"en": "n. any of several eruptive skin diseases characterized by hard thick lesions grouped together and resembling lichens gro…"
+},
+{
+"word": "particulate",
+"pos": "n/a",
+"zh": "n. 微粒 / a. 微粒的",
+"en": "n. a small discrete mass of solid or liquid matter that remains individually dispersed in gas or liquid emissions (usual…"
+},
+{
+"word": "morsel",
+"pos": "n",
+"zh": "n. 一口, 少量, 小片",
+"en": "n. a small quantity of anything / n. a small amount of solid food; a mouthful"
+},
+{
+"word": "voluminous",
+"pos": "a",
+"zh": "a. 卷数多的, 大部头的, 著书多的, 长篇的, 庞大的, 很多的, 盘绕的",
+"en": "s. large in volume or bulk"
+},
+{
+"word": "aviator",
+"pos": "n",
+"zh": "n. 飞行员",
+"en": "n. someone who operates an aircraft"
+},
+{
+"word": "ballerina",
+"pos": "n",
+"zh": "n. 芭蕾舞女演员",
+"en": "n. a female ballet dancer"
+},
+{
+"word": "multifaceted",
+"pos": "a",
+"zh": "a. 多层面的",
+"en": "s having many aspects"
+},
+{
+"word": "montage",
+"pos": "n",
+"zh": "n. 混合画, 画面剪辑, 蒙太奇",
+"en": "n a paste-up made by sticking together pieces of paper or photographs to form an artistic image"
+}
+]

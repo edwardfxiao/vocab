@@ -1,0 +1,602 @@
+[
+{
+"word": "propel",
+"pos": "vt",
+"zh": "vt. 推进, 驱使 / [机] 推进",
+"en": "v. cause to move forward with force"
+},
+{
+"word": "enclosure",
+"pos": "n",
+"zh": "n. 附件, 围墙, 围绕 / [化] 机壳; 外壳",
+"en": "n. a structure consisting of an area that has been enclosed for some purpose / n. the act of enclosing something inside …"
+},
+{
+"word": "replicate",
+"pos": "vt/n/a",
+"zh": "vt. 折叠, 折转, 复制 / n. 复现试验, 复制品, 高八度音 / a. 复现的, 复制的, 折转的, 弯回的",
+"en": "v. reproduce or make an exact copy of"
+},
+{
+"word": "pest",
+"pos": "n",
+"zh": "n. 令人讨厌之物, 有害之物, 害虫, 瘟疫 / [医] 鼠疫, 瘟疫",
+"en": "n. a persistently annoying person / n. any unwanted and destructive insect or other animal that attacks food or crops or…"
+},
+{
+"word": "scoop",
+"pos": "n/vt",
+"zh": "n. 铲子, 勺子, 穴, 口, 独家新闻 / vt. 汲取, 舀取, 挖空, 抢先报道",
+"en": "n. the quantity a scoop will hold / n. a hollow concave shape made by removing something / n. the shovel or bucket of a …"
+},
+{
+"word": "splash",
+"pos": "n/vi/vt",
+"zh": "n. 飞溅, 污点, 一点儿, 溅泼声, 色斑 / vi. 溅湿, 溅开, 飞溅 / vt. 溅, 泼, 使溅起水, 洒, 使成斑驳状",
+"en": "n. the sound like water splashing / n. a patch of bright color / n. the act of scattering water about haphazardly / v. m…"
+},
+{
+"word": "overweight",
+"pos": "n/a/vt",
+"zh": "n. 超过重量, 过重, 优势 / a. 超过重量的, 超重的 / vt. 使超重, 重于, 过于重视",
+"en": "n the property of excessive fatness / s usually describes a large person who is fat but has a large frame to carry it"
+},
+{
+"word": "advancement",
+"pos": "n",
+"zh": "n. 前进, 进步, 提升 / [医] 徙前术",
+"en": "n. gradual improvement or growth or development"
+},
+{
+"word": "nil",
+"pos": "n",
+"zh": "n. 无, 全无, 零 / [法] 无, 零, 无有",
+"en": "n a quantity of no importance"
+},
+{
+"word": "stalk",
+"pos": "n/vi/vt",
+"zh": "n. 茎, 追踪, 高视阔步 / vi. 悄悄靠近, 蹑手蹑脚地走近, 蔓延, 高视阔步 / vt. 追踪, 搜索",
+"en": "n. a slender or elongated structure that supports a plant or fungus or a plant part or plant organ / n. a hunt for game …"
+},
+{
+"word": "intimidate",
+"pos": "vt",
+"zh": "vt. 威胁, 恐吓 / [法] 恐吓, 威胁, 使恐惧",
+"en": "v. make timid or fearful / v. to compel or deter by or as if by threats"
+},
+{
+"word": "prohibition",
+"pos": "n",
+"zh": "n. 禁令, 禁止",
+"en": "n. a law forbidding the sale of alcoholic beverages / n. a decree that prohibits something / n. the period from 1920 to …"
+},
+{
+"word": "goddess",
+"pos": "n",
+"zh": "n. 女神, 美女, 受崇拜的女性",
+"en": "n. a female deity"
+},
+{
+"word": "verge",
+"pos": "n/vi",
+"zh": "n. 边缘, 边界, 起始点 / vi. 处在边缘, 接近, 下沉, 趋向",
+"en": "n. the limit beyond which something happens or changes / n. a grass border along a road / v. border on; come close to"
+},
+{
+"word": "plague",
+"pos": "n/vt",
+"zh": "n. 瘟疫, 天罚, 麻烦, 灾祸 / vt. 折磨, 使苦恼, 使得灾祸",
+"en": "n. a serious (sometimes fatal) infection of rodents caused by Yersinia pestis and accidentally transmitted to humans by …"
+},
+{
+"word": "grandson",
+"pos": "n",
+"zh": "n. 孙子, 外孙",
+"en": "n. a male grandchild"
+},
+{
+"word": "smoker",
+"pos": "n",
+"zh": "n. 吸烟者, 吸烟的人, 吸烟车厢, (美)(非正式)蒸汽火车头",
+"en": "n. a person who smokes tobacco / n. a passenger car for passengers who wish to smoke"
+},
+{
+"word": "expire",
+"pos": "vi/vt",
+"zh": "vi. 期满, 呼气, 断气 / vt. 呼出",
+"en": "v lose validity / v pass from physical life and lose all bodily attributes and functions necessary to sustain life / v e…"
+},
+{
+"word": "flora",
+"pos": "n",
+"zh": "n. 植物群 / [医] 植物区系, 植物丛, 植物群, 菌丛",
+"en": "n all the plant life in a particular region or period / n (botany) a living organism lacking the power of locomotion"
+},
+{
+"word": "catastrophe",
+"pos": "n",
+"zh": "n. 大灾难, 大祸 / [化] 突变",
+"en": "n. a state of extreme (usually irremediable) ruin and misfortune / n. a sudden violent change in the earth's surface"
+},
+{
+"word": "coupon",
+"pos": "n",
+"zh": "n. 息票, 赠券 / [经] 息票, 利息单, 联票",
+"en": "n. a negotiable certificate that can be detached and redeemed as needed / n. a test sample of some substance"
+},
+{
+"word": "withhold",
+"pos": "vt/vi",
+"zh": "vt. 使停止, 扣留, 保留, 拒给 / vi. 克制, 忍住",
+"en": "v. hold back; refuse to hand over or share / v. retain and refrain from disbursing; of payments"
+},
+{
+"word": "messy",
+"pos": "a",
+"zh": "a. 散乱的, 污秽的, 麻烦的",
+"en": "s. dirty and disorderly"
+},
+{
+"word": "analytical",
+"pos": "a",
+"zh": "a. 分析的, 善于分析的, 解析的 / [机] 分析的",
+"en": "a using or skilled in using analysis (i.e., separating a whole--intellectual or substantial--into its elemental parts or…"
+},
+{
+"word": "unpredictable",
+"pos": "a",
+"zh": "a. 不可预知的",
+"en": "a. not capable of being foretold / s. unknown in advance"
+},
+{
+"word": "diagnostic",
+"pos": "a/n",
+"zh": "a. 诊断的, 有助于诊断的, 特征的 / n. 诊断, 病的征候, 诊断法 / [计] 诊断的",
+"en": "a. concerned with diagnosis; used for furthering diagnosis / s. characteristic or indicative of a disease"
+},
+{
+"word": "stark",
+"pos": "a/adv",
+"zh": "a. 僵硬的, 完全的, 刻板的, 明显的, 荒凉的, 结实的 / adv. 突出地, 简直, 全然",
+"en": "s. complete or extreme / r. completely"
+},
+{
+"word": "lucrative",
+"pos": "a",
+"zh": "a. 有利益的, 获利的, 合算的",
+"en": "s. producing a sizeable profit"
+},
+{
+"word": "transcend",
+"pos": "vt",
+"zh": "vt. 超越, 胜过",
+"en": "v be greater in scope or size than some standard / v be superior or better than some standard"
+},
+{
+"word": "fireman",
+"pos": "n",
+"zh": "n. 救火队员, 消防队员 / [机] 司炉",
+"en": "n. play in which children pretend to put out a fire / n. a member of a fire department who tries to extinguish fires"
+},
+{
+"word": "resistant",
+"pos": "n/a",
+"zh": "n. 抵抗者, 反抗者 / a. 抵抗的, 反抗的, 耐...的",
+"en": "s. impervious to being affected"
+},
+{
+"word": "violin",
+"pos": "n",
+"zh": "n. 小提琴",
+"en": "n. bowed stringed instrument that is the highest member of the violin family; this instrument has four strings and a hol…"
+},
+{
+"word": "swan",
+"pos": "n/vi",
+"zh": "n. 天鹅, 天鹅星座, 有才华的诗人 / vi. 闲荡, 蜿蜒而行",
+"en": "n. stately heavy-bodied aquatic bird with very long neck and usually white plumage as adult / v. sweep majestically"
+},
+{
+"word": "conversely",
+"pos": "adv",
+"zh": "adv. 相反, 逆, 颠倒, 反题, 反",
+"en": "r. with the terms of the relation reversed"
+},
+{
+"word": "complementary",
+"pos": "a",
+"zh": "a. 补充的, 补足的 / [经] 补足的, 补充的",
+"en": "s. of words or propositions so related that each is the negation of the other"
+},
+{
+"word": "jealousy",
+"pos": "n",
+"zh": "n. 妒忌, 猜忌, 羡慕 / [法] 妒忌, 嫉妒, 猜忌",
+"en": "n. a feeling of jealous envy (especially of a rival) / n. zealous vigilance"
+},
+{
+"word": "liar",
+"pos": "n",
+"zh": "n. 说谎者",
+"en": "n. a person who has lied or who lies repeatedly"
+},
+{
+"word": "elicit",
+"pos": "vt",
+"zh": "vt. 引出, 推导出, 引起",
+"en": "v. derive by reason"
+},
+{
+"word": "fascination",
+"pos": "n",
+"zh": "n. 令人着迷的事物, 入迷, 魅力",
+"en": "n. the state of being intensely interested (as by awe or terror) / n. the capacity to attract intense interest"
+},
+{
+"word": "madam",
+"pos": "n",
+"zh": "n. 女士, 夫人",
+"en": "n. a woman who runs a house of prostitution"
+},
+{
+"word": "contender",
+"pos": "n",
+"zh": "n. 参赛者, 争论者, 斗争者, 竞争者",
+"en": "n the contestant you hope to defeat"
+},
+{
+"word": "heater",
+"pos": "n",
+"zh": "n. 加热器, 灯丝, 加热工 / [化] 加热器",
+"en": "n. device that heats water or supplies warmth to a room"
+},
+{
+"word": "vest",
+"pos": "n/vt/vi",
+"zh": "n. 背心, 汗背心 / vt. 使穿衣服, 授予 / vi. 穿衣服, 归属",
+"en": "n. a man's sleeveless garment worn underneath a coat / v. place (authority, property, or rights) in the control of a per…"
+},
+{
+"word": "inquire",
+"pos": "v",
+"zh": "v. 询问, 问明, 查究",
+"en": "v inquire about / v have a wish or desire to know something / v conduct an inquiry or investigation of"
+},
+{
+"word": "bust",
+"pos": "n/vt/vi",
+"zh": "n. 半身像, 胸部, 失败, 殴打 / vt. 使爆裂, 使破产 / vi. 爆裂, 破产 / [计] 操作错",
+"en": "n. a sculpture of the head and shoulders of a person / n. an occasion for excessive eating or drinking"
+},
+{
+"word": "cyclist",
+"pos": "n",
+"zh": "n. 骑脚踏车的人",
+"en": "n. a person who rides a bicycle"
+},
+{
+"word": "vibration",
+"pos": "n",
+"zh": "n. 振动, 颤动 / [化] 振动",
+"en": "n. the act of vibrating / n. a distinctive emotional aura experienced instinctively"
+},
+{
+"word": "bolster",
+"pos": "n/vt",
+"zh": "n. 支持, 长枕 / vt. 支持, 支撑",
+"en": "n. a pillow that is often put across a bed underneath the regular pillows / v. support and strengthen / v. prop up with …"
+},
+{
+"word": "elevation",
+"pos": "n",
+"zh": "n. 海拔, 提高, 仰角 / [计] 仰角",
+"en": "n. the event of something being raised upward / n. angular distance above the horizon (especially of a celestial object)…"
+},
+{
+"word": "pragmatic",
+"pos": "a",
+"zh": "a. 忙碌的, 爱管闲事的, 自负的, 固执己见的, 实际的, 务实的, 国事的, 国务的 / [法] 闲断的, 固执己见的, 实用主义的",
+"en": "a. of or concerning the theory of pragmatism"
+},
+{
+"word": "inference",
+"pos": "n",
+"zh": "n. 推论 / [法] 推论, 推理, 推断",
+"en": "n. the reasoning involved in drawing a conclusion or making a logical judgment on the basis of circumstantial evidence a…"
+},
+{
+"word": "vibrant",
+"pos": "a",
+"zh": "a. 振动的, 战栗的, 响亮的, 活跃的",
+"en": "s. vigorous and animated / s. of sounds that are strong and resonating / s. of colors that are bright and striking"
+},
+{
+"word": "sensibility",
+"pos": "n",
+"zh": "n. 感性, 感觉, 情感 / [医] 感觉性, 感受性; 感觉, 感觉能力",
+"en": "n. mental responsiveness and awareness / n. refined sensitivity to pleasurable or painful impressions"
+},
+{
+"word": "backdrop",
+"pos": "n",
+"zh": "n. 背景幕, 背景",
+"en": "n. scenery hung at back of stage"
+},
+{
+"word": "reformer",
+"pos": "n",
+"zh": "n. 改革家, 改革运动者 / [化] 转化炉; 转化器; 重整器; 重整炉",
+"en": "n. a disputant who advocates reform / n. an apparatus that reforms the molecular structure of hydrocarbons to produce ri…"
+},
+{
+"word": "sulphur",
+"pos": "n",
+"zh": "n. 硫, 硫磺 / [化] 硫",
+"en": "v. treat with sulphur in order to preserve"
+},
+{
+"word": "tram",
+"pos": "n/vt/vi",
+"zh": "n. 电车轨道, 煤车, 纬纱, 纬丝 / vt. 用煤车运载 / vi. 乘电车",
+"en": "v. travel by tram"
+},
+{
+"word": "eruption",
+"pos": "n",
+"zh": "n. 爆发, 喷出物, 出疹 / [化] 喷发",
+"en": "n. symptom consisting of a breaking out and becoming visible / n. (of volcanos) pouring out fumes or lava (or a deposit …"
+},
+{
+"word": "overlap",
+"pos": "n/vt/vi",
+"zh": "n. 重叠, 重复, 部分的同时发生 / vt. 重叠, 重复, 与...同时发生 / vi. 迭盖, 部分的同时发生 / [计] 重叠",
+"en": "n. a representation of common ground between theories or phenomena / n. the property of partial coincidence in time / v.…"
+},
+{
+"word": "handkerchief",
+"pos": "n",
+"zh": "n. 手帕, 头巾, 围巾",
+"en": "n. a square piece of cloth used for wiping the eyes or nose or as a costume accessory"
+},
+{
+"word": "libel",
+"pos": "n/v",
+"zh": "n. 以文字损害名誉, 诽谤罪, 侮辱 / v. 诽谤, 中伤, 损害名誉",
+"en": "n. a false and malicious publication printed for the purpose of defaming a living person / n. the written statement of a…"
+},
+{
+"word": "cultivation",
+"pos": "n",
+"zh": "n. 教化, 培养, 耕作 / [医] 培养[法]",
+"en": "n. socialization through training and education to develop one's mind or manners / n. (agriculture) production of food b…"
+},
+{
+"word": "foil",
+"pos": "n/vt",
+"zh": "n. 箔, 烘托, 衬托 / vt. 贴箔于, 衬托, 阻止, 挡开, 挫败",
+"en": "n. a piece of thin and flexible sheet metal / n. anything that serves by contrast to call attention to another thing's g…"
+},
+{
+"word": "heave",
+"pos": "n/vt/vi",
+"zh": "n. 举, 抛, 起伏, 鼓起 / vt. 用力举起, 使举起, 使鼓起 / vi. 抛出, 起伏, 喘息, 凸起",
+"en": "n. an upward movement (especially a rhythmical rising and falling) / n. (geology) a horizontal dislocation / n. the act …"
+},
+{
+"word": "clap",
+"pos": "n/v",
+"zh": "n. 拍手, 拍手声, 霹雳声, 花柳病 / v. 鼓掌, (使)啪地关上",
+"en": "v. put quickly or forcibly / v. cause to strike the air in flight / v. clap one's hands together / v. strike the air in …"
+},
+{
+"word": "animated",
+"pos": "a",
+"zh": "a. 活生生的, 能活动的, 活泼的, 欢快的",
+"en": "a. having life or vigor or spirit / s. made to appear to move as living creatures do"
+},
+{
+"word": "deepen",
+"pos": "vi/vt",
+"zh": "vi. 深化 / vt. 使加深, 使强烈",
+"en": "v. make deeper / v. become deeper in tone"
+},
+{
+"word": "radioactive",
+"pos": "a",
+"zh": "a. 放射性的, 有放射能的 / [医] 放射性的, 放射的",
+"en": "a. exhibiting or caused by radioactivity"
+},
+{
+"word": "curb",
+"pos": "n/vt",
+"zh": "n. 抑制, 勒马绳, 边石 / vt. 抑制, 束缚, 勒住",
+"en": "n. an edge between a sidewalk and a roadway consisting of a line of curbstones (usually forming part of a gutter) / n. a…"
+},
+{
+"word": "anthropology",
+"pos": "n",
+"zh": "n. 人类学 / [医] 人类学",
+"en": "n. the social science that studies the origins and social relationships of human beings"
+},
+{
+"word": "conquer",
+"pos": "vt/vi",
+"zh": "vt. 克服, 征服, 战胜 / vi. 得胜",
+"en": "v. overcome by conquest"
+},
+{
+"word": "mediate",
+"pos": "a/vt/vi",
+"zh": "a. 居间的, 间接的 / vt. 斡旋, 调停 / vi. 处于中间, 调解",
+"en": "v. occupy an intermediate or middle position or form a connecting link or stage between two others / a. acting through o…"
+},
+{
+"word": "dictator",
+"pos": "n",
+"zh": "n. 命令者, 独裁者",
+"en": "n. a speaker who dictates to a secretary or a recording machine / n. a ruler who is unconstrained by law"
+},
+{
+"word": "composite",
+"pos": "a/n",
+"zh": "a. 合成的, 混合成的, 菊科的 / n. 合成物, 复合材料, 菊科",
+"en": "n. considered the most highly evolved dicotyledonous plants, characterized by florets arranged in dense heads that resem…"
+},
+{
+"word": "unlimited",
+"pos": "a",
+"zh": "a. 无限的, 不受限制的, 无条件的 / [经] 无限的, 不定的",
+"en": "a. having no limits in range or scope"
+},
+{
+"word": "symmetry",
+"pos": "n",
+"zh": "n. 对称, 匀称 / [化] 对称; 对称性; 对称现象",
+"en": "n. (mathematics) an attribute of a shape or relation; exact reflection of form on opposite sides of a dividing line or p…"
+},
+{
+"word": "therapeutic",
+"pos": "a",
+"zh": "a. 治疗的, 有益于健康的 / [医] 治疗的; 治疗学的",
+"en": "a. relating to or involved in therapy"
+},
+{
+"word": "giggle",
+"pos": "v/n",
+"zh": "v. 吃吃地笑, 咯咯地笑 / n. 咯咯笑, 傻笑",
+"en": "n. a foolish or nervous laugh / v. laugh nervously"
+},
+{
+"word": "inhale",
+"pos": "vt/vi",
+"zh": "vt. 吸入 / vi. 吸气",
+"en": "v. draw deep into the lungs in by breathing / v. draw in (air)"
+},
+{
+"word": "syllabus",
+"pos": "n",
+"zh": "n. 摘要, 提纲, 课程表, 教学大纲 / [医] 摘要, 要目",
+"en": "n an integrated course of academic studies"
+},
+{
+"word": "genetically",
+"pos": "adv",
+"zh": "adv. 创始, 遗传学, 生殖, 基因, 遗传, 发生",
+"en": "r. by genetic mechanisms"
+},
+{
+"word": "siren",
+"pos": "n/a/vi",
+"zh": "n. 女海妖, 妖女, 警报器, 汽笛, 迷人的美女 / a. 诱惑的 / vi. 响着警报器前进",
+"en": "n. a sea nymph (part woman and part bird) supposed to lure sailors to destruction on the rocks where the nymphs lived / …"
+},
+{
+"word": "tenancy",
+"pos": "n",
+"zh": "n. 租用, 租赁 / [经] 租赁, 租回",
+"en": "n an act of being a tenant or occupant"
+},
+{
+"word": "greed",
+"pos": "n",
+"zh": "n. 贪欲, 贪婪",
+"en": "n. excessive desire to acquire or possess more (especially more material wealth) than one needs or deserves"
+},
+{
+"word": "hiss",
+"pos": "n/vi/vt",
+"zh": "n. 嘘声, 嘶嘶声 / vi. 发出嘘声, 发嘶嘶声 / vt. 发嘶嘶声表示",
+"en": "n. a fricative sound (especially as an expression of disapproval) / v. make a sharp hissing sound, as if to show disappr…"
+},
+{
+"word": "incoming",
+"pos": "a/n",
+"zh": "a. 进来的, 刚开始的, 新来的 / n. 进来",
+"en": "a. arriving at a place or position / a. entering upon a position of office vacated by another"
+},
+{
+"word": "weary",
+"pos": "a/vt/vi",
+"zh": "a. 疲倦的, 萎靡的, 厌倦的, 厌烦的 / vt. 使疲倦, 使厌烦 / vi. 疲乏, 生厌, 不耐烦",
+"en": "v exhaust or get tired through overuse or great strain or stress / v lose interest or become bored with something or som…"
+},
+{
+"word": "postgraduate",
+"pos": "a/n",
+"zh": "a. 大学毕业后的, 大学研究院的 / n. 研究生",
+"en": "n a student who continues studies after graduation / s of or relating to studies beyond a bachelor's degree"
+},
+{
+"word": "mourn",
+"pos": "v",
+"zh": "v. 哀悼, 忧伤, 服丧",
+"en": "v. feel sadness / v. observe the customs of mourning after the death of a loved one"
+},
+{
+"word": "millionaire",
+"pos": "n",
+"zh": "n. 百万富翁, 大富豪 / [经] 大资本家, 巨富, 百万富翁",
+"en": "n. a person whose material wealth is valued at more than a million dollars"
+},
+{
+"word": "scarce",
+"pos": "a",
+"zh": "a. 难得的, 稀罕的, 缺乏的",
+"en": "a. deficient in quantity or number compared with the demand"
+},
+{
+"word": "charitable",
+"pos": "a",
+"zh": "a. 大慈大悲的, 宽厚的, 慈善的 / [法] 慈善的, 慷慨的, 宽恕的",
+"en": "a. relating to or characterized by charity / a. full of love and generosity / s. showing or motivated by sympathy and un…"
+},
+{
+"word": "barbecue",
+"pos": "n/vt",
+"zh": "n. 烤肉 / vt. 烤肉, 烧烤",
+"en": "n. meat that has been barbecued or grilled in a highly seasoned sauce / n. a cookout in which food is cooked over an ope…"
+},
+{
+"word": "indemnity",
+"pos": "n",
+"zh": "n. 赔偿, 保障, 补偿, 赦免, 保护 / [经] 赔偿, 补偿, 赔偿金",
+"en": "n. protection against future loss / n. legal exemption from liability for damages"
+},
+{
+"word": "pervasive",
+"pos": "a",
+"zh": "a. 普遍的, 流行的, 到处蔓延的, 到处渗透的",
+"en": "s spreading or spread throughout"
+},
+{
+"word": "translator",
+"pos": "n",
+"zh": "n. 翻译者 / [计] 翻译程序; 翻译器",
+"en": "n. a person who translates written messages from one language to another / n. a program that translates one programming …"
+},
+{
+"word": "trademark",
+"pos": "n",
+"zh": "n. 商标 / [法] 商标",
+"en": "n. a formally registered symbol identifying the manufacturer or distributor of a product / v. register the trademark of"
+},
+{
+"word": "displace",
+"pos": "vt",
+"zh": "vt. 移置, 替换, 转移",
+"en": "v. cause to move, usually with force or pressure / v. terminate the employment of; discharge from an office or position"
+},
+{
+"word": "aerospace",
+"pos": "n",
+"zh": "n. 航天空间, 航天技术",
+"en": "n. the atmosphere and outer space considered as a whole"
+},
+{
+"word": "oracle",
+"pos": "n",
+"zh": "n. 神谕, 神谕处, 预言",
+"en": "n. a prophecy (usually obscure or allegorical) revealed by a priest or priestess; believed to be infallible / n. a shrin…"
+}
+]

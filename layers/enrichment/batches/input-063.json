@@ -1,0 +1,602 @@
+[
+{
+"word": "rainy",
+"pos": "a",
+"zh": "a. 下雨的, 多雨的",
+"en": "s (of weather) wet by periods of rain"
+},
+{
+"word": "microcomputer",
+"pos": "n",
+"zh": "n. 微电脑, 微机 / [计] 微型计算机; 微计算机",
+"en": "n a small digital computer based on a microprocessor and designed to be used by one person at a time"
+},
+{
+"word": "capsule",
+"pos": "n",
+"zh": "n. 胶囊, 蒴果, 瓶帽, 航天舱 / [化] 胶囊剂",
+"en": "n. a small container / n. a pill in the form of a small rounded gelatinous container with medicine inside / n. a dry deh…"
+},
+{
+"word": "respiratory",
+"pos": "a",
+"zh": "a. 呼吸的 / [医] 呼吸的",
+"en": "a. pertaining to respiration"
+},
+{
+"word": "insulin",
+"pos": "n",
+"zh": "n. 胰岛素 / [化] 胰岛素",
+"en": "n. hormone secreted by the isles of Langerhans in the pancreas; regulates storage of glycogen in the liver and accelerat…"
+},
+{
+"word": "hamburger",
+"pos": "n",
+"zh": "n. 汉堡(德国港口), 肉饼, 汉堡包, 纯精牛肉, 汉堡牛排",
+"en": "n. a sandwich consisting of a fried cake of minced beef served on a bun, often with other ingredients"
+},
+{
+"word": "persistence",
+"pos": "n",
+"zh": "n. 固执, 坚持不懈, 持续(性), 存留(状态) / [电] 持久",
+"en": "n the property of a continuous and connected period of time / n persistent determination / n the act of persisting or pe…"
+},
+{
+"word": "liberate",
+"pos": "vt",
+"zh": "vt. 解放, 释放, 使自由 / [机] 释出, 放出",
+"en": "v. grant freedom to"
+},
+{
+"word": "liner",
+"pos": "n",
+"zh": "n. 班机, 划线者, 定期船, 衬里 / [化] 衬垫; 垫带; 套管",
+"en": "n. (baseball) a hit that flies straight out from the batter / n. a piece of cloth that is used as the inside surface of …"
+},
+{
+"word": "announcer",
+"pos": "n",
+"zh": "n. 节目报告员, 宣告者",
+"en": "n. someone who proclaims a message publicly / n. reads news, commercials on radio or television"
+},
+{
+"word": "validate",
+"pos": "vt",
+"zh": "vt. 使有效, 使生效, 确认, 证实, 验证 / [计] 验证",
+"en": "v. declare or make legally valid / v. prove valid; show or confirm the validity of something / v. give evidence for / v.…"
+},
+{
+"word": "dime",
+"pos": "n",
+"zh": "n. 10分硬币(美、加)",
+"en": "n. a United States coin worth one tenth of a dollar"
+},
+{
+"word": "orphan",
+"pos": "n/a/vt",
+"zh": "n. 孤儿 / a. 无双亲的, 孤儿的 / vt. 使成孤儿 / [计] 弧体",
+"en": "n. a child who has lost both parents / n. someone or something who lacks support or care or supervision / n. the first l…"
+},
+{
+"word": "needless",
+"pos": "a",
+"zh": "a. 不需要的, 不必要的",
+"en": "n the leaf of a conifer / n a slender pointer for indicating the reading on the scale of a measuring instrument / n a sh…"
+},
+{
+"word": "idle",
+"pos": "a/vi/vt/n",
+"zh": "a. 懒惰的, 闲散的, 停顿的, 空闲的, 无用的 / vi. 无所事事, 闲散, 浪费, 空转 / vt. 虚度, 使闲散, 使空转 / n. 空转, 空闲时间 / [计] 空…",
+"en": "n. the state of an engine or other mechanism that is idling / v. run disconnected or idle / v. be idle; exist in a chang…"
+},
+{
+"word": "reel",
+"pos": "n/vt/vi",
+"zh": "n. 卷轴, 一卷, 纺车, 旋转, 蹒跚 / vt. 卷...于轴上, 绕, 使旋转 / vi. 蹒跚地走, 旋转, 眩晕, 摇晃, 退缩 / [计] 卷; 盘",
+"en": "n. a roll of photographic film holding a series of frames to be projected by a movie projector / n. music composed for d…"
+},
+{
+"word": "recollection",
+"pos": "n",
+"zh": "n. 记忆, 回想, 回忆",
+"en": "n. something recalled to the mind"
+},
+{
+"word": "preview",
+"pos": "n/vt",
+"zh": "n. 事先查看, 预览 / vt. 事先查看, 预演 / [计] 预览",
+"en": "n. an advertisement consisting of short scenes from a motion picture that will appear in the near future / n. a screenin…"
+},
+{
+"word": "alleviate",
+"pos": "vt",
+"zh": "vt. 减轻, 使缓和",
+"en": "v provide physical relief, as from pain / v make easier"
+},
+{
+"word": "plank",
+"pos": "n/vt",
+"zh": "n. 厚木板, 支架, 木板制品, 冲浪板, 救急物, 政纲条目 / vt. 在...上铺板, 撂下, 立即付款",
+"en": "n. an endorsed policy in the platform of a political party / v. cover with planks / v. set (something or oneself) down w…"
+},
+{
+"word": "disregard",
+"pos": "n/vt",
+"zh": "n. 忽视, 漠视 / vt. 忽视, 不顾",
+"en": "n. lack of attention and due care / n. willful lack of care and attention"
+},
+{
+"word": "protagonist",
+"pos": "n",
+"zh": "n. 主人公, 主角, 领导者",
+"en": "n. the principal character in a work of fiction"
+},
+{
+"word": "detach",
+"pos": "vt",
+"zh": "vt. 使分离, 分遣 / [机] 摘下, 分离, 卸下",
+"en": "v. cause to become detached or separated; take off / v. separate (a small unit) from a larger, especially for a special …"
+},
+{
+"word": "wrongly",
+"pos": "adv",
+"zh": "adv. 错误地, 不恰当地, 不正确地, 不正直地, 不公正地",
+"en": "r. without justice or fairness"
+},
+{
+"word": "hinder",
+"pos": "a/v",
+"zh": "a. 后面的 / v. 阻碍, 打扰",
+"en": "v be a hindrance or obstacle to / v hinder or prevent the progress or accomplishment of / v put at a disadvantage / s lo…"
+},
+{
+"word": "mock",
+"pos": "n/a/adv/vt/vi",
+"zh": "n. 嘲笑, 戏弄, 模仿 / a. 假的, 伪造的, 模拟的 / adv. 虚伪地 / vt. 嘲弄, 模仿, 使失望, 欺骗, 挫败 / vi. 嘲弄",
+"en": "n. the act of mocking or ridiculing / v. treat with contempt / v. imitate with mockery and derision / s. constituting a …"
+},
+{
+"word": "escalate",
+"pos": "vi/vt",
+"zh": "vi. 逐步扩大, 逐步升高, 逐步增强 / vt. 使逐步上升",
+"en": "v. increase in extent or intensity"
+},
+{
+"word": "sharpen",
+"pos": "vt/vi",
+"zh": "vt. 使尖锐, 使敏捷, 加重, 削尖 / vi. 尖锐化, 变锋利",
+"en": "v. make sharp or sharper / v. make crisp or more crisp and precise / v. become sharp or sharper / v. make (images or sou…"
+},
+{
+"word": "indifferent",
+"pos": "a",
+"zh": "a. 漠不关心的, 无重要性的, 中立的 / [医] 中性的, 无作用的, 无亲和力的, 淡漠的",
+"en": "s. showing no care or concern in attitude or action / s. fairly poor to not very good / s. marked by no especial liking …"
+},
+{
+"word": "scrub",
+"pos": "n/vt/vi/a",
+"zh": "n. 用力擦洗, 矮树, 矮人, 渺小之物 / vt. 用力擦洗, 擦掉, 摩擦 / vi. 擦洗干净, 进行手臂消毒 / a. 次等的, 矮小的, 非正规球队的, 临时凑合的",
+"en": "n. dense vegetation consisting of stunted trees or bushes / n. the act of cleaning a surface by rubbing it with a brush …"
+},
+{
+"word": "foe",
+"pos": "n",
+"zh": "n. 仇敌, 反对者, 敌人, 对手",
+"en": "n. a personal enemy"
+},
+{
+"word": "stubborn",
+"pos": "a",
+"zh": "a. 顽固的, 不听话的, 执拗的, 棘手的",
+"en": "a. tenaciously unwilling or marked by tenacious unwillingness to yield"
+},
+{
+"word": "rubble",
+"pos": "n",
+"zh": "n. 粗石, 碎砖, 粗石堆",
+"en": "n the remains of something that has been destroyed or broken up"
+},
+{
+"word": "bathe",
+"pos": "vt/vi",
+"zh": "vt. 沐浴, 用水洗 / vi. 洗澡",
+"en": "n. the act of swimming / v. cleanse the entire body / v. suffuse with or as if with light / v. clean one's body by immer…"
+},
+{
+"word": "tentative",
+"pos": "n/a",
+"zh": "n. 试验 / a. 试验性的, 暂时的",
+"en": "s under terms not final or fully worked out or agreed upon / s unsettled in mind or opinion"
+},
+{
+"word": "avert",
+"pos": "vt",
+"zh": "vt. 转开, 避免, 防止",
+"en": "v. turn away or aside"
+},
+{
+"word": "cavity",
+"pos": "n",
+"zh": "n. 洞, 空穴, 腔 / [化] 空穴",
+"en": "n. space that is surrounded by something / n. soft decayed area in a tooth; progressive decay can lead to the death of a…"
+},
+{
+"word": "conjunction",
+"pos": "n",
+"zh": "n. 连接词, 联合, 结合 / [计] 合取",
+"en": "n. an uninflected function word that serves to conjoin words or phrases or clauses or sentences / n. the grammatical rel…"
+},
+{
+"word": "pointless",
+"pos": "a",
+"zh": "a. 不尖的, 钝的, 不得要领的",
+"en": "a. not having a point especially a sharp point"
+},
+{
+"word": "novelty",
+"pos": "n",
+"zh": "n. 新奇, 新鲜, 新奇的事物",
+"en": "n. originality by virtue of being new and surprising"
+},
+{
+"word": "outdoors",
+"pos": "n/adv",
+"zh": "n. 户外, 野外活动 / adv. 在户外, 在野外",
+"en": "n. where the air is unconfined"
+},
+{
+"word": "continual",
+"pos": "a",
+"zh": "a. 持续不断的, 继续的 / [建] 连续的",
+"en": "a. occurring without interruption; chiefly restricted to what recurs regularly or frequently in a prolonged and closely …"
+},
+{
+"word": "conjure",
+"pos": "vt/vi",
+"zh": "vt. 念咒文召唤, 变戏法, 想象 / vi. 变戏法, 施魔法",
+"en": "v summon into action or bring into existence, often as if by magic / v ask for or request earnestly / v engage in plotti…"
+},
+{
+"word": "crave",
+"pos": "v",
+"zh": "v. 渴望, 热望, 恳求",
+"en": "v. have a craving, appetite, or great desire for / v. plead or ask for earnestly"
+},
+{
+"word": "seaside",
+"pos": "a/n",
+"zh": "a. 海边的, 海滨的 / n. 海滨",
+"en": "n. the shore of a sea or ocean regarded as a resort"
+},
+{
+"word": "outskirts",
+"pos": "n",
+"zh": "n. 近郊, 市郊",
+"en": "n. outlying areas (as of a city or town)"
+},
+{
+"word": "mend",
+"pos": "n/vt/vi",
+"zh": "n. 改进, 修补, 好转 / vt. 修改, 改进, 加快, 修理 / vi. 好转, 改善",
+"en": "n. sewing that repairs a worn or torn hole (especially in a garment) / v. heal or recover"
+},
+{
+"word": "blueprint",
+"pos": "n/vt",
+"zh": "n. 蓝图, 设计图, (周详的)计划 / vt. 制成蓝图, 计划",
+"en": "n. something intended as a guide for making something else / n. photographic print of plans or technical drawings etc. /…"
+},
+{
+"word": "digest",
+"pos": "n/vi/vt",
+"zh": "n. 文摘 / vi. 消化 / vt. 消化, 理解 / [计] 摘要",
+"en": "n. a periodical that summarizes the news / v. convert food into absorbable substances / v. arrange and integrate in the …"
+},
+{
+"word": "shorten",
+"pos": "vt/vi",
+"zh": "vt. 弄短, 缩短, 减少 / vi. 缩小, 变短",
+"en": "v. make shorter than originally intended; reduce or retrench in length or duration / v. make short or shorter / v. becom…"
+},
+{
+"word": "vicinity",
+"pos": "n",
+"zh": "n. 附近, 邻近, 附近地区, 近处 / [法] 附近, 邻近, 附近地区",
+"en": "n. a surrounding or nearby region"
+},
+{
+"word": "runoff",
+"pos": "n",
+"zh": "n. 径流(量), 决赛, 决定性竞选",
+"en": "n. a final election to resolve an earlier election that did not produce a winner"
+},
+{
+"word": "menace",
+"pos": "n/v",
+"zh": "n. 威胁, 胁迫 / v. 威吓, 胁迫",
+"en": "n. something that is a source of danger / n. a threat or the act of threatening / v. express a threat either by an utter…"
+},
+{
+"word": "breadth",
+"pos": "n",
+"zh": "n. 宽度 / [法] 违背, 违犯, 未遵守",
+"en": "n. the capacity to understand a broad range of topics"
+},
+{
+"word": "accustom",
+"pos": "vt",
+"zh": "vt. 使习惯于",
+"en": "v make psychologically or physically used (to something)"
+},
+{
+"word": "ruthless",
+"pos": "a",
+"zh": "a. 无情的, 残忍的, 毫不留情的, 彻底的 / [法] 无情的, 残忍的",
+"en": "s without mercy or pity"
+},
+{
+"word": "collide",
+"pos": "vi",
+"zh": "vi. 碰撞, 互撞, 抵触",
+"en": "v. cause to collide / v. crash together with violent impact"
+},
+{
+"word": "rehearse",
+"pos": "vt/vi",
+"zh": "vt. 预演, 排演, 使熟练掌握, 练习, 复述 / vi. 排练, 练习, 演习",
+"en": "v. engage in a rehearsal (of)"
+},
+{
+"word": "reap",
+"pos": "vt/vi",
+"zh": "vt. 收割, 收获, 获得 / vi. 收割, 得到报应",
+"en": "v. gather, as of natural products / v. get or derive"
+},
+{
+"word": "fume",
+"pos": "n/vt/vi",
+"zh": "n. 臭气, 烟, 激怒 / vt. 熏 / vi. 冒烟",
+"en": "v. be mad, angry, or furious / v. emit a cloud of fine particles"
+},
+{
+"word": "mastery",
+"pos": "n",
+"zh": "n. 征服, 统治权, 优势, 精通, 掌握 / [法] 统治权, 控制权, 征服",
+"en": "n. the act of mastering or subordinating someone"
+},
+{
+"word": "commend",
+"pos": "vt",
+"zh": "vt. 嘉奖, 委托给, 推荐",
+"en": "v. express approval of / v. present as worthy of regard, kindness, or confidence / v. give to in charge / v. express a g…"
+},
+{
+"word": "astonished",
+"pos": "a",
+"zh": "a. 吃惊的",
+"en": "v affect with wonder / s filled with the emotional impact of overwhelming surprise or shock"
+},
+{
+"word": "arrogant",
+"pos": "a",
+"zh": "a. 自大的, 傲慢的",
+"en": "s. having or showing feelings of unwarranted importance out of overbearing pride"
+},
+{
+"word": "facade",
+"pos": "n",
+"zh": "n. 建筑物的正面, 外观, 表面",
+"en": "n. the face or front of a building / n. a showy misrepresentation intended to conceal something unpleasant"
+},
+{
+"word": "vigour",
+"pos": "n",
+"zh": "n. 精力, 活力, 力量, 效力, 气势",
+"en": "n forceful exertion / n active strength of body or mind / n an imaginative lively style (especially style of writing)"
+},
+{
+"word": "bypass",
+"pos": "n/vt",
+"zh": "n. 旁路 / vt. 省略, 绕过, 忽视, 回避",
+"en": "n. a surgically created shunt (usually around a damaged part) / v. avoid something unpleasant or laborious"
+},
+{
+"word": "reassurance",
+"pos": "n",
+"zh": "n. 安心, 放心, 再保证",
+"en": "n. the act of reassuring; restoring someone's confidence"
+},
+{
+"word": "persuasion",
+"pos": "n",
+"zh": "n. 说服, 信念, 派别, 说服力",
+"en": "n. the act of persuading (or attempting to persuade); communication intended to induce belief or action"
+},
+{
+"word": "generosity",
+"pos": "n",
+"zh": "n. 慷慨, 宽大",
+"en": "n. the trait of being willing to give your money or time / n. acting generously"
+},
+{
+"word": "playwright",
+"pos": "n",
+"zh": "n. 剧作家",
+"en": "n someone who writes plays"
+},
+{
+"word": "phd",
+"pos": "",
+"zh": "abbr. 哲学博士学位（Doctor of Philosophy）",
+"en": "d a doctorate usually based on at least 3 years graduate study and a dissertation; the highest degree awarded graduate s…"
+},
+{
+"word": "vent",
+"pos": "n/vt",
+"zh": "n. 排气口, 出口, 通风孔, 发泄 / vt. 发泄, 排出, 给...开孔",
+"en": "n. a hole for the escape of gas or air / n. external opening of urinary or genital system of a lower vertebrate / n. a f…"
+},
+{
+"word": "eclipse",
+"pos": "n/vt",
+"zh": "n. 日食, 月食, (地位名誉等的)消失 / vt. 引起日食, 引起月食, 使黯然失色",
+"en": "n. one celestial body obscures another / v. cause an eclipse of (a celestial body) by intervention"
+},
+{
+"word": "beware",
+"pos": "v",
+"zh": "v. 小心, 谨防",
+"en": "v. be on one's guard; be cautious or wary about; be alert to"
+},
+{
+"word": "peril",
+"pos": "n/vt",
+"zh": "n. 危险, 冒...之险, 险境, 险因 / vt. 置...于险境, 冒险, 危及",
+"en": "n a source of danger; a possibility of incurring loss or misfortune / n a state of danger involving risk / n a venture u…"
+},
+{
+"word": "midday",
+"pos": "n/a",
+"zh": "n. 正午, 中午 / a. 正午的",
+"en": "n the middle of the day"
+},
+{
+"word": "paste",
+"pos": "n/vt",
+"zh": "n. 面团, 面食, 浆糊, 糊状物, 粘贴, 用拳重击 / vt. 用浆糊粘, 张贴, 狠狠地打 / [计] 粘贴",
+"en": "n. any mixture of a soft and malleable consistency / n. a hard, brilliant lead glass that is used in making artificial j…"
+},
+{
+"word": "bruise",
+"pos": "n/vi/vt",
+"zh": "n. 青肿, 挫伤, 擦伤 / vi. 受伤, 擦伤 / vt. 使受伤, 研碎",
+"en": "n. an injury that doesn't break the skin but results in some discoloration / v. injure the underlying soft tissue or bon…"
+},
+{
+"word": "stifle",
+"pos": "vt/vi",
+"zh": "vt. 使窒息, 抑止, 扼杀 / vi. 窒息, 被扼杀",
+"en": "n. joint between the femur and tibia in a quadruped; corresponds to the human knee / v. smother or suppress"
+},
+{
+"word": "wade",
+"pos": "vi/vt/n",
+"zh": "vi. 跋涉 / vt. 涉水 / n. 跋涉, 浅滩",
+"en": "n. English tennis player who won many women's singles titles (born in 1945) / v. walk (through relatively shallow water)"
+},
+{
+"word": "savage",
+"pos": "a/vt/n",
+"zh": "a. 未开化的, 野蛮的, 无礼的, 残酷的, 原始的, 粗鲁的, 未开发的 / vt. 用暴力对付, 凶猛攻击 / n. 原始人, 粗鲁人",
+"en": "n. a member of an uncivilized people / v. attack brutally and fiercely / v. criticize harshly or violently"
+},
+{
+"word": "poultry",
+"pos": "n",
+"zh": "n. 家禽",
+"en": "n. flesh of chickens or turkeys or ducks or geese raised for food"
+},
+{
+"word": "rewrite",
+"pos": "vt/vi/n",
+"zh": "vt. 重写, 改写, 改写新闻, 书面答复 / vi. 修改旧作 / n. 改写的作品 / [计] 重写",
+"en": "n. something that has been written again / v. write differently; alter the writing of / v. rewrite so as to make fit to …"
+},
+{
+"word": "bankrupt",
+"pos": "n/a/vt",
+"zh": "n. 破产者 / a. 破产的 / vt. 使破产",
+"en": "n. someone who has insufficient assets to cover their debts / v. reduce to bankruptcy / s. financially ruined"
+},
+{
+"word": "conserve",
+"pos": "n/vt",
+"zh": "n. 蜜饯, 果酱 / vt. 保存, 使(能量等)守恒",
+"en": "n. fruit preserved by cooking with sugar / v. keep constant through physical or chemical reactions or evolutionary chang…"
+},
+{
+"word": "patriotic",
+"pos": "a",
+"zh": "a. 爱国的, 有爱国心的 / [法] 爱国的, 有爱国心的",
+"en": "a. inspired by love for your country"
+},
+{
+"word": "unmarried",
+"pos": "a",
+"zh": "a. 未婚的, 单身的 / [法] 未婚的, 独身的",
+"en": "a. not married or related to the unmarried state"
+},
+{
+"word": "genetics",
+"pos": "n",
+"zh": "n. 遗传学 / [化] 遗传学",
+"en": "n. the branch of biology that studies heredity and variation in organisms"
+},
+{
+"word": "perpetuate",
+"pos": "vt",
+"zh": "vt. 使永存, 使不朽, 保持",
+"en": "v. cause to continue or prevail"
+},
+{
+"word": "ornament",
+"pos": "n/vt",
+"zh": "n. 装饰, 点缀品, 教堂用品 / vt. 装饰, 修饰",
+"en": "v. be an ornament to"
+},
+{
+"word": "payoff",
+"pos": "n/a",
+"zh": "n. 发工资, 分赃, 贿赂, 盈利, 报酬, 报应, 结果, 高潮, 决定因素 / a. 决定性的, 产生结果的, 支付的",
+"en": "n. the final payment of a debt"
+},
+{
+"word": "lessen",
+"pos": "vt/vi",
+"zh": "vt. 减少, 缩小, 减轻 / vi. 变小",
+"en": "v decrease in size, extent, or range / v make smaller / v wear off or die down"
+},
+{
+"word": "expectancy",
+"pos": "n",
+"zh": "n. 期待, 期望的事物, 嘱望, 希望, 期望, 预期 / [医] 预期",
+"en": "n an expectation / n something expected (as on the basis of a norm)"
+},
+{
+"word": "relic",
+"pos": "n",
+"zh": "n. 遗物, 遗迹, 纪念物, 遗风, 残留物",
+"en": "n. an antiquity that has survived from the distant past"
+},
+{
+"word": "briefcase",
+"pos": "n",
+"zh": "n. 公事包",
+"en": "n. a case with a handle; for carrying papers or files or books"
+},
+{
+"word": "typewriter",
+"pos": "n",
+"zh": "n. 打字机",
+"en": "n. hand-operated character printer for printing written messages one character at a time"
+},
+{
+"word": "infamous",
+"pos": "a",
+"zh": "a. 无耻的, 不名誉的, 声名狼藉的",
+"en": "s known widely and usually unfavorably;"
+},
+{
+"word": "dilute",
+"pos": "vt/a",
+"zh": "vt. 冲淡, 稀释 / a. 淡的, 稀释的",
+"en": "v. lessen the strength or flavor of a solution or mixture"
+},
+{
+"word": "brink",
+"pos": "n",
+"zh": "n. 边缘, 陡岸",
+"en": "n. a region marking a boundary / n. the edge of a steep place"
+}
+]

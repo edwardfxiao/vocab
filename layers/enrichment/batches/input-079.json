@@ -1,0 +1,602 @@
+[
+{
+"word": "decrepit",
+"pos": "a",
+"zh": "a. 衰老的",
+"en": "s. lacking bodily or muscular strength or vitality"
+},
+{
+"word": "negation",
+"pos": "n",
+"zh": "n. 否定, 反面, 不存在 / [医] 否定, 否认",
+"en": "n. a negative statement; a statement that is a refusal or denial of some other statement / n. the speech act of negating…"
+},
+{
+"word": "meddle",
+"pos": "vi",
+"zh": "vi. 干涉, 干预, 擅自摸弄 / [法] 干预, 插手, 弄乱",
+"en": "v. intrude in other people's affairs or business; interfere unwantedly"
+},
+{
+"word": "congruent",
+"pos": "a",
+"zh": "a. 适合的, 一致的, 合谐的, 全等的",
+"en": "a. coinciding when superimposed"
+},
+{
+"word": "mercantile",
+"pos": "a",
+"zh": "a. 商业的, 商人的 / [经] 商业的",
+"en": "a. of or relating to the economic system of mercantilism / s. profit oriented / s. relating to or characteristic of trad…"
+},
+{
+"word": "insolvent",
+"pos": "a/n",
+"zh": "a. 无力偿还的, 破产的 / n. 无力偿还者, 破产者",
+"en": "a. unable to meet or discharge financial obligations"
+},
+{
+"word": "ramble",
+"pos": "n/vi/vt",
+"zh": "n. 漫步, 随笔 / vi. 漫步, 漫谈, 漫游, 蔓延 / vt. 闲逛于",
+"en": "n. an aimless amble on a winding course"
+},
+{
+"word": "maim",
+"pos": "vt",
+"zh": "vt. 使残废, 使不能工作, 使伤残 / [医] 伤残, 残废",
+"en": "v. injure or wound seriously and leave permanent disfiguration or mutilation"
+},
+{
+"word": "longitude",
+"pos": "n",
+"zh": "n. 经度, 经线 / [电] 经度",
+"en": "n. the angular distance between a point on any meridian and the prime meridian at Greenwich"
+},
+{
+"word": "eddy",
+"pos": "n/v",
+"zh": "n. 逆流, 漩涡 / v. (使)起漩涡",
+"en": "n. founder of Christian Science in 1866 (1821-1910) / n. a miniature whirlpool or whirlwind resulting when the current o…"
+},
+{
+"word": "thesaurus",
+"pos": "n",
+"zh": "n. 专类辞典, 宝库, 知识宝库, 叙词表, 主题词表 / [计] 同义词, 同义词典",
+"en": "n. a book containing a classified list of synonyms"
+},
+{
+"word": "loll",
+"pos": "vi/vt",
+"zh": "vi. 懒散地闲荡, 垂下头, 伸舌 / vt. 垂, 伸, 靠着",
+"en": "v hang loosely or laxly / v be lazy or idle"
+},
+{
+"word": "loath",
+"pos": "a",
+"zh": "a. 不情愿的, 厌恶的",
+"en": "s. unwillingness to do something contrary to your custom"
+},
+{
+"word": "nullify",
+"pos": "vt",
+"zh": "vt. 使无效, 废弃, 取消 / [化] 使等于零; 作废",
+"en": "v declare invalid / v show to be invalid / v make ineffective by counterbalancing the effect of"
+},
+{
+"word": "reticent",
+"pos": "a",
+"zh": "a. 无言的, 沉默的, 不情愿的 / [法] 言不尽意的, 沈默寡言的, 有保留的",
+"en": "s. temperamentally disinclined to talk / s. reluctant to draw attention to yourself"
+},
+{
+"word": "counterfeit",
+"pos": "n/a/v",
+"zh": "n. 赝品, 伪造品 / a. 假冒的, 假装的 / v. 仿造, 伪装, 假装",
+"en": "n. a copy that is represented as the original / a. not genuine; imitating something superior"
+},
+{
+"word": "fluff",
+"pos": "n/vi/vt",
+"zh": "n. 软毛, 柔毛, 绒毛, 错误, 无价值的东西 / vi. 起毛, 变松, 出错 / vt. 使起毛, 抖松, 念错",
+"en": "n. any light downy material / n. a blunder (especially an actor's forgetting the lines)"
+},
+{
+"word": "supersonic",
+"pos": "a",
+"zh": "a. 超声波的 / [医] 超声[波]的",
+"en": "a. (of speed) greater than the speed of sound in a given medium (especially air) / s. having frequencies above those of …"
+},
+{
+"word": "delude",
+"pos": "vt",
+"zh": "vt. 迷惑, 蛊惑",
+"en": "v be false to; be dishonest with"
+},
+{
+"word": "respiration",
+"pos": "n",
+"zh": "n. 呼吸, 一口气, 呼吸作用 / [化] 呼吸",
+"en": "n. the metabolic processes whereby certain organisms obtain energy from organic molecules; processes that take place in …"
+},
+{
+"word": "misdeed",
+"pos": "n",
+"zh": "n. 罪行, 犯罪 / [法] 不端行为, 犯罪, 恶性",
+"en": "n improper or wicked or immoral behavior"
+},
+{
+"word": "infest",
+"pos": "vt",
+"zh": "vt. 骚扰, 寄生于, 大批出没 / [医] 传染, 感染",
+"en": "v. invade in great numbers / v. live on or in a host, as of parasites"
+},
+{
+"word": "exterminate",
+"pos": "vt",
+"zh": "vt. 扑灭, 消灭, 根绝",
+"en": "v. kill en masse; kill on a large scale; kill many"
+},
+{
+"word": "profane",
+"pos": "a/vt",
+"zh": "a. 世俗的, 不敬神的, 亵渎的 / vt. 亵渎, 玷污",
+"en": "a. not concerned with or devoted to religion / s. not holy because unconsecrated or impure or defiled"
+},
+{
+"word": "planetarium",
+"pos": "n",
+"zh": "n. 行星仪, 天文馆, 天象图",
+"en": "n. a building housing an instrument for projecting the positions of the planets onto a domed ceiling / n. an optical dev…"
+},
+{
+"word": "vex",
+"pos": "vt/vi",
+"zh": "vt. 使烦恼, 使苦恼 / vi. 烦恼",
+"en": "v. subject to prolonged examination, discussion, or deliberation"
+},
+{
+"word": "sicken",
+"pos": "vt/vi",
+"zh": "vt. 患病, 使厌倦, 使恶心 / vi. 生病, 作呕",
+"en": "v. get sick / v. upset and make nauseated / v. make sick or ill"
+},
+{
+"word": "counterbalance",
+"pos": "vt/n",
+"zh": "vt. 使平均, 使平衡, 使弥补 / n. 平衡量, 平衡力, 势均力敌",
+"en": "n. a compensating equivalent"
+},
+{
+"word": "mildew",
+"pos": "n/vi/vt",
+"zh": "n. 霉 / vi. 发霉, 生霉 / vt. 使发霉",
+"en": "n. the process of becoming mildewed / n. a fungus that produces a superficial (usually white) growth on organic matter"
+},
+{
+"word": "tumult",
+"pos": "n",
+"zh": "n. 骚动, 吵闹, 混乱 / [法] 骚乱, 骚动, 暴乱",
+"en": "n. a state of commotion and noise and confusion / n. violent agitation"
+},
+{
+"word": "pathos",
+"pos": "n",
+"zh": "n. 伤感力, 感伤, 悲怅, 同情, 偶然因素, 哀婉动人的词句",
+"en": "n. a quality that arouses emotions (especially pity or sorrow) / n. a style that has the power to evoke feelings"
+},
+{
+"word": "terse",
+"pos": "a",
+"zh": "a. 简洁的, 扼要的",
+"en": "s brief and to the point; effectively cut short; `yes'\""
+},
+{
+"word": "shanty",
+"pos": "n",
+"zh": "n. 棚屋",
+"en": "n small crude shelter used as a dwelling / n a rhythmical work song originally sung by sailors"
+},
+{
+"word": "pimple",
+"pos": "n",
+"zh": "n. 丘疹, 小脓疱 / [医] 丘疹, 小脓疱",
+"en": "n. a small inflamed elevation of the skin; a pustule or papule; common symptom in acne"
+},
+{
+"word": "reflectance",
+"pos": "n",
+"zh": "n. 反射比 / [电] 反射本领",
+"en": "n the fraction of radiant energy that is reflected from a surface"
+},
+{
+"word": "abrasion",
+"pos": "n",
+"zh": "n. 磨擦, 磨损, 磨损处 / [化] 磨耗; 磨蚀",
+"en": "n. an abraded area where the skin is torn or worn off / n. erosion by friction"
+},
+{
+"word": "dilate",
+"pos": "vi/vt",
+"zh": "vi. 扩大, 详述, 膨胀 / vt. 使膨胀",
+"en": "v. become wider"
+},
+{
+"word": "delectable",
+"pos": "a",
+"zh": "a. 令人快乐的, 美味的, 使人愉快的",
+"en": "s. extremely pleasing to the sense of taste / s. capable of arousing desire"
+},
+{
+"word": "malleable",
+"pos": "a",
+"zh": "a. 有延展性的, 可锻的 / [医] 可展的, 易适应的",
+"en": "s easily influenced / s capable of being shaped or bent or drawn out"
+},
+{
+"word": "nicety",
+"pos": "n",
+"zh": "n. 美好, 准确, 精密, 拘泥细节, 纤细",
+"en": "n conformity with some esthetic standard of correctness or propriety / n a subtle difference in meaning or opinion or at…"
+},
+{
+"word": "scrupulous",
+"pos": "a",
+"zh": "a. 小心谨慎的, 细心的",
+"en": "a. having scruples; arising from a sense of right and wrong; principled"
+},
+{
+"word": "vehement",
+"pos": "a",
+"zh": "a. 热烈的, 激烈的",
+"en": "s. characterized by great force or energy"
+},
+{
+"word": "succinct",
+"pos": "a",
+"zh": "a. 简洁的, 紧缩的",
+"en": "s briefly giving the gist of something"
+},
+{
+"word": "laudable",
+"pos": "a",
+"zh": "a. 值得赞赏的, 值得佩服的 / [医] 健康的",
+"en": "s worthy of high praise"
+},
+{
+"word": "perceptible",
+"pos": "a",
+"zh": "a. 可察觉的, 能感觉得到的, 看得见的",
+"en": "a. capable of being perceived by the mind or senses / s. easily perceived by the senses or grasped by the mind"
+},
+{
+"word": "hitchhike",
+"pos": "vi/vt",
+"zh": "vi. 搭便车 / vt. 要求(搭便车)",
+"en": "v. travel by getting free rides from motorists"
+},
+{
+"word": "fastidious",
+"pos": "a",
+"zh": "a. 难取悦的, 挑剔的, 苛求的",
+"en": "a. giving careful attention to detail; hard to please; excessively concerned with cleanliness / a. having complicated nu…"
+},
+{
+"word": "obstinate",
+"pos": "a",
+"zh": "a. 倔强的, 顽固的, 不让步的",
+"en": "v. persist stubbornly"
+},
+{
+"word": "perturb",
+"pos": "vt",
+"zh": "vt. 扰乱, 使混乱, 使心绪不宁",
+"en": "v. disturb in mind or make uneasy or cause to be worried or alarmed / v. disturb or interfere with the usual path of an …"
+},
+{
+"word": "precipice",
+"pos": "n",
+"zh": "n. 悬崖, 绝壁, 险境",
+"en": "n. a very steep cliff"
+},
+{
+"word": "posthumous",
+"pos": "a",
+"zh": "a. 遗腹的, 死后的 / [医] 遗腹的",
+"en": "s. occurring or coming into existence after a person's death"
+},
+{
+"word": "tenable",
+"pos": "a",
+"zh": "a. 可守的, 站得住(脚)的, 合理的, 成立的",
+"en": "s. based on sound reasoning or evidence"
+},
+{
+"word": "teem",
+"pos": "vi/vt",
+"zh": "vi. 充满, 充足, 倾注 / vt. 倒出",
+"en": "v. be teeming, be abuzz"
+},
+{
+"word": "pacify",
+"pos": "vt",
+"zh": "vt. 使平静, 安慰, 绥靖, 使服从",
+"en": "v. cause to be more favorably inclined; gain the good will of / v. fight violence and try to establish peace in (a locat…"
+},
+{
+"word": "memorise",
+"pos": "vt",
+"zh": "vt. 记住, 熟记, 记录, 存储",
+"en": "v commit to memory; learn by heart"
+},
+{
+"word": "plaintive",
+"pos": "a",
+"zh": "a. 悲哀的, 哀伤的, 伤心的, 表示痛苦的",
+"en": "s expressing sorrow"
+},
+{
+"word": "quench",
+"pos": "vt/vi",
+"zh": "vt. 熄灭, 结束, 使冷却, 将...淬火 / vi. 熄灭, 平息",
+"en": "v. satisfy (thirst) / v. electronics: suppress (sparking) when the current is cut off in an inductive circuit, or suppre…"
+},
+{
+"word": "plumb",
+"pos": "n/a/vt/vi",
+"zh": "n. 铅锤, 垂直 / a. 垂直的 / vt. 使垂直, 探测 / vi. 成垂直",
+"en": "v. measure the depth of something / v. weight with lead / v. examine thoroughly and in great depth / v. adjust with a pl…"
+},
+{
+"word": "ventilate",
+"pos": "vt",
+"zh": "vt. 使空气流通, 使通风, 公开讨论, 公开 / [医] 通风, 换气",
+"en": "v. expose to the circulation of fresh air so as to retard spoilage / v. circulate through and freshen / v. furnish with …"
+},
+{
+"word": "equivocal",
+"pos": "a",
+"zh": "a. 意义不明确的, 模棱两可的 / [医] 双关的, 两可的",
+"en": "a. open to two or more interpretations; or of uncertain nature or significance; or (often) intended to mislead / s. open…"
+},
+{
+"word": "corrode",
+"pos": "vt/vi",
+"zh": "vt. 使腐蚀, 侵蚀, 破坏 / vi. 被侵蚀, 起腐蚀作用",
+"en": "v. cause to deteriorate due to the action of water, air, or an acid / v. become destroyed by water, air, or a corrosive …"
+},
+{
+"word": "plankton",
+"pos": "n",
+"zh": "n. (总称)浮游生物 / [医] 浮游生物",
+"en": "n. the aggregate of small plant and animal organisms that float or drift in great numbers in fresh or salt water"
+},
+{
+"word": "storehouse",
+"pos": "n",
+"zh": "n. 仓库, 储藏所, 宝库 / [机] 库房, 贮藏库, 仓库",
+"en": "n. a depository for goods"
+},
+{
+"word": "transgress",
+"pos": "vt/vi",
+"zh": "vt. 违反, 犯罪, 侵犯 / vi. 越界, 违法",
+"en": "v. act in disregard of laws, rules, contracts, or promises / v. spread over land, especially along a subsiding shoreline…"
+},
+{
+"word": "ponderous",
+"pos": "a",
+"zh": "a. 沉重的, 笨重的, 毫无趣味的, 生硬的",
+"en": "s. having great mass and weight and unwieldiness / s. labored and dull"
+},
+{
+"word": "extort",
+"pos": "vt",
+"zh": "vt. 勒索, 敲诈, 强要 / [医] 外旋",
+"en": "v. obtain through intimidation / v. obtain by coercion or intimidation / v. get or cause to become in a difficult or lab…"
+},
+{
+"word": "tyrannical",
+"pos": "a",
+"zh": "a. 暴虐的, 暴君的, 残暴的",
+"en": "s marked by unjust severity or arbitrary behavior / s characteristic of an absolute ruler or absolute rule; having absol…"
+},
+{
+"word": "drudgery",
+"pos": "n",
+"zh": "n. 苦差事, 苦工",
+"en": "n. hard monotonous routine work"
+},
+{
+"word": "ruinous",
+"pos": "a",
+"zh": "a. 破坏性的, 招致毁灭的",
+"en": "s extremely harmful; bringing physical or financial ruin / s causing injury or blight; especially affecting with sudden …"
+},
+{
+"word": "bookkeeper",
+"pos": "n",
+"zh": "n. 簿记员 / [经] 簿记员, 记帐员",
+"en": "n. someone who records the transactions of a business"
+},
+{
+"word": "pervert",
+"pos": "vt/n",
+"zh": "vt. 使堕落, 使反常, 歪曲, 滥用, 使左右颠倒, 唆使...性变态 / n. 堕落者, 行为反常者, 背教者, 性欲反常者",
+"en": "n. a person whose behavior deviates from what is acceptable especially in sexual behavior / v. change the inherent purpo…"
+},
+{
+"word": "telex",
+"pos": "n",
+"zh": "n. 用户直通电报, 电传打字机 / [计] 电传, 用户电报",
+"en": "v. communicate by telex"
+},
+{
+"word": "naught",
+"pos": "n/a",
+"zh": "n. 无, 零 / a. 无价值的, 无用的",
+"en": "n. complete failure"
+},
+{
+"word": "chaste",
+"pos": "a",
+"zh": "a. 贞洁的, 纯洁的, 朴素的",
+"en": "a. morally pure (especially not having experienced sexual intercourse) / s. pure and simple in design or style / s. abst…"
+},
+{
+"word": "manifold",
+"pos": "n/a/vt",
+"zh": "n. 复印本, 多种 / a. 多种的, 有许多部分的, 多方面的 / vt. 复写, 使多样化, 增多",
+"en": "n. a pipe that has several lateral outlets to or from other pipes / n. a set of points such as those of a closed surface…"
+},
+{
+"word": "excrement",
+"pos": "n",
+"zh": "n. 排泄, 大便 / [医] 粪便",
+"en": "n waste matter (as urine or sweat but especially feces) discharged from the body"
+},
+{
+"word": "delirium",
+"pos": "n",
+"zh": "n. 精神错乱, 说谵语状态, 狂热 / [医] 谵妄, 发狂, 妄想",
+"en": "n. a usually brief state of excitement and mental confusion often accompanied by hallucinations"
+},
+{
+"word": "lubricate",
+"pos": "vt/vi",
+"zh": "vt. 使润滑, 涂油 / vi. 润滑",
+"en": "v. have lubricating properties / v. apply a lubricant to / v. make slippery or smooth through the application of a lubri…"
+},
+{
+"word": "platitude",
+"pos": "n",
+"zh": "n. 单调, 平凡, 陈腐, 陈词滥调",
+"en": "n. a trite or obvious remark"
+},
+{
+"word": "humdrum",
+"pos": "a/n/vi",
+"zh": "a. 平凡的, 单调的, 令人厌烦的 / n. 平凡, 单调, 无聊 / vi. 单调令味地进行",
+"en": "s. tediously repetitious or lacking in variety; all work and no play\""
+},
+{
+"word": "insolent",
+"pos": "n/a",
+"zh": "n. 侮慢无礼的人 / a. 粗野的, 无礼的, 侮慢的",
+"en": "s marked by casual disrespect / s unrestrained by convention or propriety"
+},
+{
+"word": "carcase",
+"pos": "n",
+"zh": "n. 尸体, 架子",
+"en": "n. the dead body of an animal especially one slaughtered and dressed for food"
+},
+{
+"word": "granular",
+"pos": "a",
+"zh": "a. 颗粒的, 粒状的 / [医] 粒状的, 颗粒状的",
+"en": "s composed of or covered with particles resembling meal in texture or consistency / a having a granular structure like t…"
+},
+{
+"word": "perishable",
+"pos": "a/n",
+"zh": "a. 易腐坏的, 会枯萎的, 易毁灭的, 不经久的 / n. 易腐坏的东西",
+"en": "n. food that will decay rapidly if not refrigerated / a. liable to perish; subject to destruction or death or decay"
+},
+{
+"word": "flabby",
+"pos": "a",
+"zh": "a. 软弱的, 没气力的, 不稳的, 松弛的",
+"en": "s out of condition; not strong or robust; incapable of exertion or endurance"
+},
+{
+"word": "slander",
+"pos": "n/vt",
+"zh": "n. 中伤, 诽谤 / vt. 中伤, 诽谤",
+"en": "n. words falsely spoken that damage the reputation of another"
+},
+{
+"word": "ungainly",
+"pos": "a",
+"zh": "a. 难看的, 不优雅的, 粗陋的",
+"en": "s lacking grace in movement or posture / s difficult to handle or manage especially because of shape"
+},
+{
+"word": "punctual",
+"pos": "a",
+"zh": "a. 准时的, 守时的, 点状的, 中肯的 / [经] 准时的, 不误期的, 准时",
+"en": "a. acting or arriving or performed exactly at the time appointed"
+},
+{
+"word": "hubbub",
+"pos": "n",
+"zh": "n. 吵闹声, 叫嚷声, 混乱",
+"en": "n. loud confused noise from many sources"
+},
+{
+"word": "tweezers",
+"pos": "n",
+"zh": "n. 镊子",
+"en": "n a hand tool for holding consisting of a compound lever for grasping"
+},
+{
+"word": "repatriate",
+"pos": "vt/vi/n",
+"zh": "vt. 把...遣返 / vi. 回国 / n. 被遣返回国者",
+"en": "n. a person who has returned to the country of origin or whose citizenship has been restored / v. send someone back to h…"
+},
+{
+"word": "sportswear",
+"pos": "n",
+"zh": "n. 运动装, 休闲服",
+"en": "n. attire worn for sport or for casual wear"
+},
+{
+"word": "dictation",
+"pos": "n",
+"zh": "n. 听写, 口述, 命令",
+"en": "n. speech intended for reproduction in writing / n. matter that has been dictated and transcribed; a dictated passage"
+},
+{
+"word": "microbiology",
+"pos": "n",
+"zh": "n. 微生物学 / [化] 微生物学",
+"en": "n. the branch of biology that studies microorganisms and their effects on humans"
+},
+{
+"word": "insipid",
+"pos": "a",
+"zh": "a. 乏味的, 清淡的, 难吃的 / [医] 无味的",
+"en": "s. lacking interest or significance or impact"
+},
+{
+"word": "magnanimous",
+"pos": "a",
+"zh": "a. 宽宏大量的, 有雅量的 / [法] 气量大的, 宽大的, 高尚的",
+"en": "s noble and generous in spirit / s generous and understanding and tolerant"
+},
+{
+"word": "pliable",
+"pos": "a",
+"zh": "a. 易弯的, 柔顺的, 圆通的",
+"en": "s susceptible to being led or directed / s capable of being shaped or bent or drawn out / s able to adjust readily to di…"
+},
+{
+"word": "mackintosh",
+"pos": "n",
+"zh": "n. 马金托什防水布, 马金托什雨衣 / [化] 防水胶布; 胶布雨衣",
+"en": "n. a lightweight waterproof (usually rubberized) fabric"
+},
+{
+"word": "ostensible",
+"pos": "a",
+"zh": "a. 表面的, 假装的, 看得出的 / [经] 表面的, 诡称的",
+"en": "s. represented or appearing as such; pretended"
+},
+{
+"word": "venerate",
+"pos": "vt",
+"zh": "vt. 尊敬, 崇敬, 崇拜",
+"en": "v regard with feelings of respect and reverence; consider hallowed or exalted or be in awe of"
+}
+]

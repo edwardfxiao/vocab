@@ -1,0 +1,1636 @@
+{
+ "between": {
+  "gloss": "在(两者)之间；在…中间；共同(合作/分担)",
+  "trap": "两者之间用 between，三者及以上多用 among",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "among",
+   "amid"
+  ],
+  "antonyms": []
+ },
+ "thing": {
+  "gloss": "东西，物；事情，情况；(复)个人物品，情形",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "think"
+  ],
+  "synonyms": [
+   "object",
+   "item",
+   "matter",
+   "affair"
+  ],
+  "antonyms": []
+ },
+ "many": {
+  "gloss": "许多，大量(可数)；(the many)多数人",
+  "trap": "修饰可数名词；much 修饰不可数名词",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "numerous",
+   "plenty"
+  ],
+  "antonyms": [
+   "few"
+  ]
+ },
+ "those": {
+  "gloss": "那些；(those who)那些…的人",
+  "trap": "those who 指‘那些…的人’，学术写作常用",
+  "root": null,
+  "confusable": [
+   "these"
+  ],
+  "synonyms": [],
+  "antonyms": [
+   "these"
+  ]
+ },
+ "down": {
+  "gloss": "向下，沿着；沮丧的；停机的；n. 绒毛，羽绒",
+  "trap": "n. 绒毛(down jacket 羽绒服)；系统 down 指宕机",
+  "root": null,
+  "confusable": [
+   "dawn",
+   "dune"
+  ],
+  "synonyms": [
+   "downward",
+   "below"
+  ],
+  "antonyms": [
+   "up"
+  ]
+ },
+ "tell": {
+  "gloss": "告诉，讲述；分辨，看出；吩咐；(tell on)影响",
+  "trap": "tell A from B 是‘分辨’，不是‘告诉’",
+  "root": null,
+  "confusable": [
+   "tale",
+   "toll"
+  ],
+  "synonyms": [
+   "inform",
+   "say",
+   "relate",
+   "distinguish"
+  ],
+  "antonyms": []
+ },
+ "yeah": {
+  "gloss": "(口语)是的，对；(反语)得了吧",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "yea"
+  ],
+  "synonyms": [
+   "yes",
+   "yep"
+  ],
+  "antonyms": [
+   "no",
+   "nope"
+  ]
+ },
+ "three": {
+  "gloss": "三；三个",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "tree",
+   "free"
+  ],
+  "synonyms": [],
+  "antonyms": []
+ },
+ "back": {
+  "gloss": "n. 背，后面；adv. 向后，回来；v. 支持，后退",
+  "trap": "v. 支持(back a plan)，不只是‘后退’",
+  "root": null,
+  "confusable": [
+   "bake",
+   "buck"
+  ],
+  "synonyms": [
+   "rear",
+   "support",
+   "reverse"
+  ],
+  "antonyms": [
+   "front",
+   "forward"
+  ]
+ },
+ "even": {
+  "gloss": "甚至；(比较级前)更；平的，相等的；偶数的",
+  "trap": "even number 偶数 vs odd 奇数；even 也表‘打平’",
+  "root": null,
+  "confusable": [
+   "ever"
+  ],
+  "synonyms": [
+   "level",
+   "equal",
+   "flat"
+  ],
+  "antonyms": [
+   "odd",
+   "uneven"
+  ]
+ },
+ "such": {
+  "gloss": "这样的，如此的；(such as)例如",
+  "trap": "such as 举例；as such 本身、严格来说",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "similar",
+   "like"
+  ],
+  "antonyms": []
+ },
+ "through": {
+  "gloss": "穿过，贯穿；通过，凭借；自始至终；直达的",
+  "trap": "through 穿过 / though 虽然 / thorough 彻底的",
+  "root": null,
+  "confusable": [
+   "though",
+   "thorough",
+   "threw"
+  ],
+  "synonyms": [
+   "via",
+   "across",
+   "throughout"
+  ],
+  "antonyms": []
+ },
+ "over": {
+  "gloss": "在…上方；越过；超过；遍及；结束的",
+  "trap": "it's over 结束了；over 50% 超过；over again 反复",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "above",
+   "across",
+   "beyond",
+   "finished"
+  ],
+  "antonyms": [
+   "under",
+   "below"
+  ]
+ },
+ "must": {
+  "gloss": "必须；(推测)一定；n. 必备之物",
+  "trap": "must be 推测‘一定是’；a must 必需品",
+  "root": null,
+  "confusable": [
+   "mist",
+   "musk"
+  ],
+  "synonyms": [
+   "have to",
+   "need",
+   "ought"
+  ],
+  "antonyms": []
+ },
+ "woman": {
+  "gloss": "女人，成年女性；(泛指)女性",
+  "trap": "复数 women 读 /ˈwɪmɪn/，读音变化",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "female",
+   "lady"
+  ],
+  "antonyms": [
+   "man"
+  ]
+ },
+ "still": {
+  "gloss": "仍然；尽管如此；(更)更；静止的，无气泡的；剧照",
+  "trap": "still water 无气泡水；n. 剧照、蒸馏器",
+  "root": null,
+  "confusable": [
+   "stiff",
+   "stall"
+  ],
+  "synonyms": [
+   "yet",
+   "nevertheless",
+   "motionless",
+   "calm"
+  ],
+  "antonyms": [
+   "moving",
+   "sparkling"
+  ]
+ },
+ "us": {
+  "gloss": "我们(宾格)；(U.S.)美国",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "as"
+  ],
+  "synonyms": [
+   "we"
+  ],
+  "antonyms": []
+ },
+ "child": {
+  "gloss": "儿童，小孩；子女；(某事物的)产物",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "chilled"
+  ],
+  "synonyms": [
+   "kid",
+   "youngster",
+   "offspring"
+  ],
+  "antonyms": [
+   "adult"
+  ]
+ },
+ "life": {
+  "gloss": "生命；生活；一生，寿命；活力；生物；无期徒刑",
+  "trap": "for life 终身；life sentence 无期徒刑",
+  "root": null,
+  "confusable": [
+   "live",
+   "wife"
+  ],
+  "synonyms": [
+   "existence",
+   "lifetime",
+   "vitality"
+  ],
+  "antonyms": [
+   "death"
+  ]
+ },
+ "too": {
+  "gloss": "也；太，过于；(口语)非常",
+  "trap": "肯定句用 too，否定句用 either；too…to 太…而不能",
+  "root": null,
+  "confusable": [
+   "two",
+   "to"
+  ],
+  "synonyms": [
+   "also",
+   "overly",
+   "excessively"
+  ],
+  "antonyms": []
+ },
+ "put": {
+  "gloss": "放，置；表达，说；使处于；n. 看跌期权",
+  "trap": "put it 表达、说；put up with 忍受；put off 推迟",
+  "root": null,
+  "confusable": [
+   "putt"
+  ],
+  "synonyms": [
+   "place",
+   "set",
+   "lay",
+   "express"
+  ],
+  "antonyms": [
+   "remove",
+   "take"
+  ]
+ },
+ "work": {
+  "gloss": "工作；起作用，行得通；运转；作品；(物理)功",
+  "trap": "it works 行得通；works of art 作品；物理学中指‘功’",
+  "root": null,
+  "confusable": [
+   "walk",
+   "worm"
+  ],
+  "synonyms": [
+   "labor",
+   "function",
+   "operate",
+   "job"
+  ],
+  "antonyms": [
+   "rest",
+   "leisure",
+   "play"
+  ]
+ },
+ "own": {
+  "gloss": "自己的；v. 拥有；(own up)承认",
+  "trap": "on one's own 独自；own up 坦白承认",
+  "root": null,
+  "confusable": [
+   "owe",
+   "one"
+  ],
+  "synonyms": [
+   "possess",
+   "have",
+   "hold"
+  ],
+  "antonyms": []
+ },
+ "last": {
+  "gloss": "最后的；上一个的，最近的；v. 持续，耐用",
+  "trap": "v. 持续、够用(last for hours)；the last 最不可能的",
+  "root": null,
+  "confusable": [
+   "least",
+   "lust"
+  ],
+  "synonyms": [
+   "final",
+   "previous",
+   "endure",
+   "continue"
+  ],
+  "antonyms": [
+   "first",
+   "next"
+  ]
+ },
+ "oh": {
+  "gloss": "哦，啊(表示惊讶、领悟、痛苦等)",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "owe"
+  ],
+  "synonyms": [
+   "ah",
+   "wow"
+  ],
+  "antonyms": []
+ },
+ "mean": {
+  "gloss": "意思是，意味着；打算；刻薄的，吝啬的；n. 平均值",
+  "trap": "a. 刻薄的(be mean to)；n. 平均数；by no means 绝不",
+  "root": null,
+  "confusable": [
+   "mien"
+  ],
+  "synonyms": [
+   "signify",
+   "intend",
+   "average",
+   "unkind"
+  ],
+  "antonyms": [
+   "kind",
+   "generous"
+  ]
+ },
+ "become": {
+  "gloss": "变成，成为；适合，相称",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "turn",
+   "grow",
+   "get",
+   "suit"
+  ],
+  "antonyms": []
+ },
+ "call": {
+  "gloss": "打电话；称呼，叫做；召唤；n. 电话，呼吁；决定",
+  "trap": "call for 需要；call off 取消；close call 侥幸脱险",
+  "root": null,
+  "confusable": [
+   "cell",
+   "cull"
+  ],
+  "synonyms": [
+   "phone",
+   "name",
+   "summon",
+   "shout"
+  ],
+  "antonyms": []
+ },
+ "world": {
+  "gloss": "世界；(某)领域，界；世人；大量(a world of)",
+  "trap": "古英语 wer(人)+ald(年龄)‘人的一生’→世界",
+  "root": null,
+  "confusable": [
+   "word",
+   "whirl"
+  ],
+  "synonyms": [
+   "earth",
+   "globe",
+   "realm"
+  ],
+  "antonyms": []
+ },
+ "government": {
+  "gloss": "政府；治理，统治；政体",
+  "trap": "拼写 govern-ment，中间的 n 不能漏",
+  "root": {
+   "key": "govern",
+   "meaning": "统治/掌舵",
+   "match": "govern"
+  },
+  "confusable": [],
+  "synonyms": [
+   "administration",
+   "regime",
+   "authority",
+   "rule"
+  ],
+  "antonyms": []
+ },
+ "school": {
+  "gloss": "学校；学院，系；学派；鱼群；v. 教育，训练",
+  "trap": "源自希腊语 scholē‘闲暇’；a school of fish 鱼群",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "academy",
+   "college",
+   "institute"
+  ],
+  "antonyms": []
+ },
+ "old": {
+  "gloss": "老的，年老的；旧的，古老的；以前的；…岁的",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "odd"
+  ],
+  "synonyms": [
+   "aged",
+   "elderly",
+   "ancient",
+   "former"
+  ],
+  "antonyms": [
+   "young",
+   "new"
+  ]
+ },
+ "leave": {
+  "gloss": "离开；留下，剩下；听任，交给；n. 假期，准假",
+  "trap": "n. 休假(sick leave 病假)；leave sb alone 别打扰",
+  "root": null,
+  "confusable": [
+   "live",
+   "leaf"
+  ],
+  "synonyms": [
+   "depart",
+   "abandon",
+   "quit",
+   "vacation"
+  ],
+  "antonyms": [
+   "arrive",
+   "stay",
+   "remain"
+  ]
+ },
+ "try": {
+  "gloss": "尝试，努力；试用，试验；审判；n. 尝试",
+  "trap": "try doing 试着做；try to do 努力去做；法律义‘审理’",
+  "root": null,
+  "confusable": [
+   "tray"
+  ],
+  "synonyms": [
+   "attempt",
+   "endeavor",
+   "test",
+   "strive"
+  ],
+  "antonyms": []
+ },
+ "great": {
+  "gloss": "巨大的，重大的；伟大的，杰出的；极好的",
+  "trap": "口语‘太好了’；a great deal 大量",
+  "root": null,
+  "confusable": [
+   "grate"
+  ],
+  "synonyms": [
+   "huge",
+   "major",
+   "excellent",
+   "outstanding"
+  ],
+  "antonyms": [
+   "small",
+   "minor",
+   "terrible"
+  ]
+ },
+ "ask": {
+  "gloss": "问，询问；请求，要求；邀请；索价",
+  "trap": "ask for 要求；ask sb to do 请求某人做",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "inquire",
+   "request",
+   "demand",
+   "invite"
+  ],
+  "antonyms": [
+   "answer",
+   "reply"
+  ]
+ },
+ "where": {
+  "gloss": "在哪里；(引导从句)…的地方；n. 地点",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "wear",
+   "were"
+  ],
+  "synonyms": [
+   "whereabouts"
+  ],
+  "antonyms": []
+ },
+ "need": {
+  "gloss": "需要；必要，需求；aux. 需要；(in need)贫困",
+  "trap": "in need 处于困境；needn't = don't need to",
+  "root": null,
+  "confusable": [
+   "knead"
+  ],
+  "synonyms": [
+   "require",
+   "want",
+   "necessity",
+   "demand"
+  ],
+  "antonyms": []
+ },
+ "feel": {
+  "gloss": "感觉，觉得；认为；触摸；n. 手感，气氛",
+  "trap": "feel like 想要；n. 手感、氛围(the feel of it)",
+  "root": null,
+  "confusable": [
+   "fill",
+   "fell"
+  ],
+  "synonyms": [
+   "sense",
+   "perceive",
+   "touch",
+   "think"
+  ],
+  "antonyms": []
+ },
+ "seem": {
+  "gloss": "似乎，好像；看来",
+  "trap": "系动词，后接形容词(seem happy)而非副词",
+  "root": null,
+  "confusable": [
+   "seam"
+  ],
+  "synonyms": [
+   "appear",
+   "look"
+  ],
+  "antonyms": []
+ },
+ "system": {
+  "gloss": "系统；体系，制度；方法；(the system)体制",
+  "trap": "syn(一起)+stem(站立)：站在一起的整体",
+  "root": null,
+  "confusable": [
+   "symptom"
+  ],
+  "synonyms": [
+   "structure",
+   "scheme",
+   "method",
+   "network"
+  ],
+  "antonyms": []
+ },
+ "same": {
+  "gloss": "相同的，同一的；同样地；(the same)同样的人/物",
+  "trap": "the same as… 与…相同；all the same 仍然",
+  "root": null,
+  "confusable": [
+   "sane"
+  ],
+  "synonyms": [
+   "identical",
+   "equal",
+   "alike"
+  ],
+  "antonyms": [
+   "different",
+   "other"
+  ]
+ },
+ "state": {
+  "gloss": "状态；国家；州；v. 陈述，声明；a. 国家的，正式的",
+  "trap": "v. 陈述(state that…)；the States 美国",
+  "root": {
+   "key": "sta",
+   "meaning": "站立",
+   "match": "sta"
+  },
+  "confusable": [
+   "status",
+   "statue",
+   "estate"
+  ],
+  "synonyms": [
+   "condition",
+   "nation",
+   "declare",
+   "assert"
+  ],
+  "antonyms": []
+ },
+ "might": {
+  "gloss": "可能，也许(may 的过去式)；n. 力量，威力",
+  "trap": "n. 力量(with one's might)；might as well 不妨",
+  "root": null,
+  "confusable": [
+   "mite"
+  ],
+  "synonyms": [
+   "may",
+   "could",
+   "power",
+   "strength"
+  ],
+  "antonyms": []
+ },
+ "never": {
+  "gloss": "从不，决不；永不；(口语)绝对没有",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "nerve"
+  ],
+  "synonyms": [],
+  "antonyms": [
+   "always",
+   "ever"
+  ]
+ },
+ "case": {
+  "gloss": "情况，情形；案件，案例；病例；箱，盒；(语法)格",
+  "trap": "in case 以防万一；源自 cad‘落下’→落下来的事、情况",
+  "root": {
+   "key": "cad",
+   "meaning": "落下",
+   "match": "cas"
+  },
+  "confusable": [
+   "cause",
+   "cash"
+  ],
+  "synonyms": [
+   "instance",
+   "situation",
+   "lawsuit",
+   "container"
+  ],
+  "antonyms": []
+ },
+ "part": {
+  "gloss": "部分；零件；角色；作用(play a part)；v. 分开",
+  "trap": "part with 舍弃；take part in 参加；part ways",
+  "root": {
+   "key": "part",
+   "meaning": "部分",
+   "match": "part"
+  },
+  "confusable": [
+   "path",
+   "pat"
+  ],
+  "synonyms": [
+   "portion",
+   "section",
+   "component",
+   "role"
+  ],
+  "antonyms": [
+   "whole",
+   "entirety"
+  ]
+ },
+ "high": {
+  "gloss": "高的；高级的，高等的；(数量/程度)高的；n. 高点",
+  "trap": "high 指位置/程度高；tall 指人或细长物高；口语‘嗨了’",
+  "root": null,
+  "confusable": [
+   "hi"
+  ],
+  "synonyms": [
+   "tall",
+   "elevated",
+   "lofty"
+  ],
+  "antonyms": [
+   "low"
+  ]
+ },
+ "group": {
+  "gloss": "组，群，团体；集团；v. 分组，归类",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "grope"
+  ],
+  "synonyms": [
+   "team",
+   "cluster",
+   "category",
+   "band"
+  ],
+  "antonyms": [
+   "individual"
+  ]
+ },
+ "something": {
+  "gloss": "某事，某物；(口语)了不起的人/事；大约",
+  "trap": "sixty-something 六十几；something of a 有点儿…",
+  "root": null,
+  "confusable": [
+   "sometime"
+  ],
+  "synonyms": [],
+  "antonyms": [
+   "nothing"
+  ]
+ },
+ "really": {
+  "gloss": "真正地，确实；(口语)非常；(疑问)真的吗",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "rally"
+  ],
+  "synonyms": [
+   "truly",
+   "actually",
+   "genuinely",
+   "very"
+  ],
+  "antonyms": []
+ },
+ "most": {
+  "gloss": "大多数(的)；最，最多；极其",
+  "trap": "most people 大多数；the most 最多；mostly 主要地",
+  "root": null,
+  "confusable": [
+   "mast",
+   "mist"
+  ],
+  "synonyms": [
+   "majority",
+   "maximum",
+   "extremely"
+  ],
+  "antonyms": [
+   "least",
+   "fewest"
+  ]
+ },
+ "yes": {
+  "gloss": "是，是的；n. 同意，赞成票",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "yea"
+  ],
+  "synonyms": [
+   "yeah",
+   "yep",
+   "affirmative"
+  ],
+  "antonyms": [
+   "no"
+  ]
+ },
+ "another": {
+  "gloss": "另一个，再一个；不同的，别的",
+  "trap": "another 后接单数；other 后接复数；one another 互相",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "other",
+   "additional",
+   "further"
+  ],
+  "antonyms": []
+ },
+ "however": {
+  "gloss": "然而，不过；无论如何，不管怎样",
+  "trap": "然而(However, …)；‘无论多么’(however hard)",
+  "root": null,
+  "confusable": [
+   "whatever",
+   "whenever"
+  ],
+  "synonyms": [
+   "nevertheless",
+   "nonetheless",
+   "yet",
+   "though"
+  ],
+  "antonyms": []
+ },
+ "much": {
+  "gloss": "许多，大量(不可数)；非常；(比较级前)…得多",
+  "trap": "修饰不可数名词；much more 多得多；not much of a 算不上",
+  "root": null,
+  "confusable": [
+   "mush",
+   "match"
+  ],
+  "synonyms": [
+   "plenty",
+   "greatly",
+   "considerably"
+  ],
+  "antonyms": [
+   "little"
+  ]
+ },
+ "family": {
+  "gloss": "家庭，家人；家族；(生物)科；(语言)语系",
+  "trap": "拉丁语 familia 原指‘家中仆人’；生物分类中指‘科’",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "household",
+   "relatives",
+   "kin",
+   "clan"
+  ],
+  "antonyms": []
+ },
+ "show": {
+  "gloss": "展示，显示；表明，证明；n. 演出，节目；展览",
+  "trap": "show up 出现；show off 炫耀；for show 装样子",
+  "root": null,
+  "confusable": [
+   "shore"
+  ],
+  "synonyms": [
+   "display",
+   "demonstrate",
+   "exhibit",
+   "reveal",
+   "performance"
+  ],
+  "antonyms": [
+   "hide",
+   "conceal"
+  ]
+ },
+ "house": {
+  "gloss": "房子，住宅；议院；机构，公司；v. 容纳，安置",
+  "trap": "v. 读 /haʊz/，指‘容纳、为…提供住处’；the House 议院",
+  "root": null,
+  "confusable": [
+   "horse",
+   "hose"
+  ],
+  "synonyms": [
+   "home",
+   "dwelling",
+   "residence",
+   "accommodate"
+  ],
+  "antonyms": []
+ },
+ "area": {
+  "gloss": "地区，区域；面积；领域，方面",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "aria",
+   "arena"
+  ],
+  "synonyms": [
+   "region",
+   "zone",
+   "district",
+   "field",
+   "domain"
+  ],
+  "antonyms": []
+ },
+ "company": {
+  "gloss": "公司；陪伴；同伴，客人；(军)连；剧团",
+  "trap": "com(一起)+pan(面包)：同吃面包的人→伙伴、公司",
+  "root": {
+   "key": "pan",
+   "meaning": "面包",
+   "match": "pan"
+  },
+  "confusable": [
+   "campaign"
+  ],
+  "synonyms": [
+   "firm",
+   "corporation",
+   "companionship",
+   "enterprise"
+  ],
+  "antonyms": []
+ },
+ "while": {
+  "gloss": "当…时；虽然；而(对比)；n. 一会儿；v. 消磨",
+  "trap": "对比义‘而’(A is…, while B is…)；while away 消磨",
+  "root": null,
+  "confusable": [
+   "whale",
+   "wile"
+  ],
+  "synonyms": [
+   "whereas",
+   "although",
+   "during",
+   "moment"
+  ],
+  "antonyms": []
+ },
+ "problem": {
+  "gloss": "问题，难题；(数学)题；a. 成问题的",
+  "trap": "problem 是待解决的难题；question 是提问；issue 是争议点",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "difficulty",
+   "issue",
+   "trouble",
+   "dilemma"
+  ],
+  "antonyms": [
+   "solution"
+  ]
+ },
+ "against": {
+  "gloss": "反对；靠着，倚着；对抗，防备；以…为背景；相比",
+  "trap": "lean against 靠着；against the sky 以…为背景",
+  "root": null,
+  "confusable": [
+   "again"
+  ],
+  "synonyms": [
+   "versus",
+   "opposing",
+   "contrary to"
+  ],
+  "antonyms": [
+   "for",
+   "with"
+  ]
+ },
+ "again": {
+  "gloss": "再一次，又；回到原处；此外",
+  "trap": "again and again 反复；then again 不过话说回来",
+  "root": null,
+  "confusable": [
+   "against"
+  ],
+  "synonyms": [
+   "once more",
+   "anew",
+   "afresh"
+  ],
+  "antonyms": []
+ },
+ "keep": {
+  "gloss": "保持，保留；继续；遵守；饲养；n. 生计；城堡主楼",
+  "trap": "keep doing 一直做；keep up with 跟上；keep 遵守",
+  "root": null,
+  "confusable": [
+   "keen"
+  ],
+  "synonyms": [
+   "retain",
+   "maintain",
+   "continue",
+   "preserve"
+  ],
+  "antonyms": [
+   "discard",
+   "abandon",
+   "lose"
+  ]
+ },
+ "student": {
+  "gloss": "学生；研究者，爱好者(a student of…)",
+  "trap": "",
+  "root": {
+   "key": "stud",
+   "meaning": "学习/热衷",
+   "match": "stud"
+  },
+  "confusable": [
+   "studio"
+  ],
+  "synonyms": [
+   "pupil",
+   "learner",
+   "scholar"
+  ],
+  "antonyms": [
+   "teacher"
+  ]
+ },
+ "under": {
+  "gloss": "在…下面；低于，少于；在…统治/影响下；进行中",
+  "trap": "under way 进行中；under 18 未满 18 岁",
+  "root": null,
+  "confusable": [
+   "udder"
+  ],
+  "synonyms": [
+   "below",
+   "beneath",
+   "underneath"
+  ],
+  "antonyms": [
+   "over",
+   "above"
+  ]
+ },
+ "why": {
+  "gloss": "为什么；(引导从句)…的原因；n. 原因，理由",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "way"
+  ],
+  "synonyms": [
+   "wherefore"
+  ],
+  "antonyms": []
+ },
+ "let": {
+  "gloss": "让，允许；(let's)让我们；出租；n. (网球)擦网重发",
+  "trap": "to let 房屋出租；let alone 更不用说；let down 使失望",
+  "root": null,
+  "confusable": [
+   "lit"
+  ],
+  "synonyms": [
+   "allow",
+   "permit",
+   "rent",
+   "lease"
+  ],
+  "antonyms": [
+   "forbid",
+   "prevent"
+  ]
+ },
+ "service": {
+  "gloss": "服务；公共事业，部门；服役；礼拜仪式；v. 维修保养",
+  "trap": "v. 维修保养(service a car)；服役、礼拜仪式",
+  "root": {
+   "key": "serv",
+   "meaning": "服务/保持",
+   "match": "serv"
+  },
+  "confusable": [
+   "surface"
+  ],
+  "synonyms": [
+   "assistance",
+   "maintenance",
+   "facility",
+   "duty"
+  ],
+  "antonyms": []
+ },
+ "big": {
+  "gloss": "大的；重要的；年长的；(口语)受欢迎的，热衷的",
+  "trap": "big 口语常用；large 更正式，多指尺寸数量；big on 热衷于",
+  "root": null,
+  "confusable": [
+   "bag",
+   "beg"
+  ],
+  "synonyms": [
+   "large",
+   "huge",
+   "major",
+   "significant"
+  ],
+  "antonyms": [
+   "small",
+   "little",
+   "minor"
+  ]
+ },
+ "place": {
+  "gloss": "地方，地点；位置；住所；名次；v. 放置；安排；认出",
+  "trap": "take place 发生；in place 就位；place an order",
+  "root": null,
+  "confusable": [
+   "plaice",
+   "palace"
+  ],
+  "synonyms": [
+   "location",
+   "spot",
+   "position",
+   "put",
+   "rank"
+  ],
+  "antonyms": []
+ },
+ "hand": {
+  "gloss": "手；指针；帮助；人手，工人；一手牌；v. 递给，交给",
+  "trap": "give a hand 帮忙；on the other hand 另一方面",
+  "root": null,
+  "confusable": [
+   "hard",
+   "band"
+  ],
+  "synonyms": [
+   "palm",
+   "help",
+   "worker",
+   "pass",
+   "give"
+  ],
+  "antonyms": []
+ },
+ "begin": {
+  "gloss": "开始，着手；起源于",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "start",
+   "commence",
+   "initiate",
+   "launch"
+  ],
+  "antonyms": [
+   "end",
+   "finish",
+   "stop"
+  ]
+ },
+ "country": {
+  "gloss": "国家；乡村，农村；(某种)地区；a. 乡村的",
+  "trap": "源自拉丁语 contra‘对面(的土地)’，与 count 无关",
+  "root": null,
+  "confusable": [
+   "county"
+  ],
+  "synonyms": [
+   "nation",
+   "state",
+   "countryside",
+   "rural"
+  ],
+  "antonyms": [
+   "city",
+   "urban"
+  ]
+ },
+ "party": {
+  "gloss": "聚会；政党；(合同/诉讼)一方，当事人；一行人；v. 狂欢",
+  "trap": "法律/商务义‘一方、当事人’(third party 第三方)",
+  "root": {
+   "key": "part",
+   "meaning": "部分",
+   "match": "part"
+  },
+  "confusable": [
+   "patty"
+  ],
+  "synonyms": [
+   "celebration",
+   "gathering",
+   "faction",
+   "side"
+  ],
+  "antonyms": []
+ },
+ "help": {
+  "gloss": "帮助；有助于；(help oneself)自取；避免",
+  "trap": "can't help doing 忍不住；help oneself 自取",
+  "root": null,
+  "confusable": [
+   "helm"
+  ],
+  "synonyms": [
+   "assist",
+   "aid",
+   "support",
+   "benefit"
+  ],
+  "antonyms": [
+   "hinder",
+   "harm"
+  ]
+ },
+ "small": {
+  "gloss": "小的；少的，微小的；不重要的；小型的；n. 后腰",
+  "trap": "small talk 闲聊；the small of the back 后腰",
+  "root": null,
+  "confusable": [
+   "smell"
+  ],
+  "synonyms": [
+   "little",
+   "tiny",
+   "minor",
+   "slight"
+  ],
+  "antonyms": [
+   "big",
+   "large",
+   "huge"
+  ]
+ },
+ "talk": {
+  "gloss": "说话，交谈；谈论；n. 谈话；讲座，演讲；(复)会谈",
+  "trap": "talk sb into 说服；give a talk 做讲座；talks 会谈",
+  "root": null,
+  "confusable": [
+   "tall",
+   "tack"
+  ],
+  "synonyms": [
+   "speak",
+   "chat",
+   "converse",
+   "discuss",
+   "lecture"
+  ],
+  "antonyms": [
+   "listen"
+  ]
+ },
+ "each": {
+  "gloss": "每个，各自；adv. 每个(单价)",
+  "trap": "each 强调个体，后接单数；every 强调全体；each other 互相",
+  "root": null,
+  "confusable": [
+   "etch",
+   "itch"
+  ],
+  "synonyms": [
+   "every",
+   "apiece",
+   "respectively"
+  ],
+  "antonyms": []
+ },
+ "turn": {
+  "gloss": "转动，转向；变成；轮到；n. 转弯；轮流；变化",
+  "trap": "turn out 结果是；turn down 拒绝；in turn 依次",
+  "root": null,
+  "confusable": [
+   "tune",
+   "torn"
+  ],
+  "synonyms": [
+   "rotate",
+   "spin",
+   "become",
+   "change",
+   "shift"
+  ],
+  "antonyms": []
+ },
+ "every": {
+  "gloss": "每一，每个；所有的；每隔(every two days)",
+  "trap": "every 后接单数；every other 每隔一个；every 强调全体",
+  "root": null,
+  "confusable": [
+   "ever"
+  ],
+  "synonyms": [
+   "each",
+   "all"
+  ],
+  "antonyms": []
+ },
+ "provide": {
+  "gloss": "提供，供给；(法律)规定；(provide for)供养",
+  "trap": "provide A with B / B for A；provided that",
+  "root": {
+   "key": "vis",
+   "meaning": "看",
+   "match": "vid"
+  },
+  "confusable": [],
+  "synonyms": [
+   "supply",
+   "offer",
+   "furnish",
+   "give"
+  ],
+  "antonyms": [
+   "withhold",
+   "deprive"
+  ]
+ },
+ "start": {
+  "gloss": "开始，着手；出发；启动；n. 起点；惊跳；领先优势",
+  "trap": "start up 创办；give a start 吓一跳；head start",
+  "root": null,
+  "confusable": [
+   "stare",
+   "star"
+  ],
+  "synonyms": [
+   "begin",
+   "commence",
+   "launch",
+   "initiate"
+  ],
+  "antonyms": [
+   "end",
+   "finish",
+   "stop"
+  ]
+ },
+ "off": {
+  "gloss": "离开，脱落；关闭的；取消的；休息的；变质的；降价",
+  "trap": "is off 取消；day off 休假；10% off 减价",
+  "root": null,
+  "confusable": [
+   "of"
+  ],
+  "synonyms": [
+   "away",
+   "closed",
+   "cancelled"
+  ],
+  "antonyms": [
+   "on"
+  ]
+ },
+ "point": {
+  "gloss": "要点，论点；点，分数；时刻；意义；v. 指向，指出",
+  "trap": "the point 关键；point out 指出；no point 没意义",
+  "root": null,
+  "confusable": [
+   "pint",
+   "paint"
+  ],
+  "synonyms": [
+   "argument",
+   "dot",
+   "score",
+   "tip",
+   "indicate"
+  ],
+  "antonyms": []
+ },
+ "different": {
+  "gloss": "不同的，有差异的；各种的；另外的",
+  "trap": "different from(英)/than(美)；各种的(kinds)",
+  "root": {
+   "key": "fer",
+   "meaning": "带来",
+   "match": "fer"
+  },
+  "confusable": [
+   "diffident"
+  ],
+  "synonyms": [
+   "distinct",
+   "various",
+   "dissimilar",
+   "diverse"
+  ],
+  "antonyms": [
+   "same",
+   "similar",
+   "identical"
+  ]
+ },
+ "hold": {
+  "gloss": "握住，拿着；容纳；举行；保持；认为；n. 抓握，控制",
+  "trap": "hold a meeting 举行；hold on 稍等；hold true",
+  "root": null,
+  "confusable": [
+   "hole",
+   "held"
+  ],
+  "synonyms": [
+   "grasp",
+   "contain",
+   "keep",
+   "conduct",
+   "maintain"
+  ],
+  "antonyms": [
+   "release",
+   "drop"
+  ]
+ },
+ "week": {
+  "gloss": "周，星期；工作周",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "weak"
+  ],
+  "synonyms": [],
+  "antonyms": []
+ },
+ "large": {
+  "gloss": "大的，大量的；广泛的；(at large)整体的，在逃的",
+  "trap": "at large 整体上；(罪犯)在逃；large 多指规模数量，较正式",
+  "root": null,
+  "confusable": [
+   "lager",
+   "lodge"
+  ],
+  "synonyms": [
+   "big",
+   "huge",
+   "extensive",
+   "substantial"
+  ],
+  "antonyms": [
+   "small",
+   "little"
+  ]
+ },
+ "member": {
+  "gloss": "成员，会员；议员；(身体)肢体，部件",
+  "trap": "拉丁语 membrum 原义‘肢体’，故 dismember 肢解",
+  "root": null,
+  "confusable": [
+   "remember"
+  ],
+  "synonyms": [
+   "participant",
+   "affiliate",
+   "fellow"
+  ],
+  "antonyms": []
+ },
+ "four": {
+  "gloss": "四；四个",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "for",
+   "fore"
+  ],
+  "synonyms": [],
+  "antonyms": []
+ },
+ "always": {
+  "gloss": "总是，一直；永远；(建议)总可以，随时",
+  "trap": "can always 总可以(建议)；not always 未必总是",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "forever",
+   "constantly",
+   "invariably"
+  ],
+  "antonyms": [
+   "never",
+   "sometimes"
+  ]
+ },
+ "few": {
+  "gloss": "少数的，几乎没有；(a few)几个；少数人",
+  "trap": "few 几乎没有(否定)；a few 有几个(肯定)",
+  "root": null,
+  "confusable": [
+   "fee",
+   "flew"
+  ],
+  "synonyms": [
+   "several",
+   "scarce",
+   "handful"
+  ],
+  "antonyms": [
+   "many",
+   "numerous"
+  ]
+ },
+ "follow": {
+  "gloss": "跟随；遵循；接着，由此得出；理解；关注(社交媒体)",
+  "trap": "as follows 如下；it follows that 由此可知",
+  "root": null,
+  "confusable": [
+   "fellow",
+   "hollow"
+  ],
+  "synonyms": [
+   "pursue",
+   "obey",
+   "succeed",
+   "ensue",
+   "understand"
+  ],
+  "antonyms": [
+   "lead",
+   "precede"
+  ]
+ },
+ "end": {
+  "gloss": "结束，末尾；末端；目的；死亡；v. 结束，终止",
+  "trap": "n. 目的(ends and means)；end up 最终成为",
+  "root": null,
+  "confusable": [
+   "and"
+  ],
+  "synonyms": [
+   "finish",
+   "conclusion",
+   "termination",
+   "goal"
+  ],
+  "antonyms": [
+   "beginning",
+   "start"
+  ]
+ },
+ "without": {
+  "gloss": "没有，无；不做…(without doing)；在…外面",
+  "trap": "do without 没有…也行；go without saying 不言而喻",
+  "root": null,
+  "confusable": [
+   "withhold"
+  ],
+  "synonyms": [
+   "lacking",
+   "minus"
+  ],
+  "antonyms": [
+   "with"
+  ]
+ },
+ "within": {
+  "gloss": "在…之内(时间/范围)；不超过；在内部",
+  "trap": "within a week 一周之内；from within 从内部",
+  "root": null,
+  "confusable": [
+   "withhold"
+  ],
+  "synonyms": [
+   "inside",
+   "in"
+  ],
+  "antonyms": [
+   "outside",
+   "beyond"
+  ]
+ },
+ "local": {
+  "gloss": "当地的，本地的；局部的；n. 当地人；慢车",
+  "trap": "local anaesthetic 局部麻醉；the locals 当地人",
+  "root": {
+   "key": "loc",
+   "meaning": "地方",
+   "match": "loc"
+  },
+  "confusable": [
+   "locale",
+   "vocal"
+  ],
+  "synonyms": [
+   "regional",
+   "native",
+   "neighborhood"
+  ],
+  "antonyms": [
+   "national",
+   "global",
+   "foreign"
+  ]
+ }
+}

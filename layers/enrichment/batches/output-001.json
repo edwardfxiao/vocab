@@ -1,0 +1,1306 @@
+{
+"the": {
+"gloss": "定冠词：这(个)，那(个)，特指的",
+"trap": "",
+"root": null,
+"confusable": [
+"thee"
+],
+"synonyms": [],
+"antonyms": []
+},
+"be": {
+"gloss": "是；存在，在；(助动词)正在，被",
+"trap": "",
+"root": null,
+"confusable": [
+"bee"
+],
+"synonyms": [
+"exist"
+],
+"antonyms": []
+},
+"and": {
+"gloss": "和，与；然后；(表结果)于是",
+"trap": "",
+"root": null,
+"confusable": [
+"an"
+],
+"synonyms": [
+"plus"
+],
+"antonyms": []
+},
+"of": {
+"gloss": "…的，属于；关于；由…制成；(数量/部分)…中的",
+"trap": "of(…的) 与 off(离开、脱落) 不同，勿混",
+"root": null,
+"confusable": [
+"off"
+],
+"synonyms": [],
+"antonyms": []
+},
+"a": {
+"gloss": "一(个)；每(一)；(字母)A；(血型)A型",
+"trap": "",
+"root": null,
+"confusable": [
+"an"
+],
+"synonyms": [
+"one"
+],
+"antonyms": []
+},
+"in": {
+"gloss": "在…里，在…期间；进入，在里面；a. 流行的",
+"trap": "",
+"root": null,
+"confusable": [
+"inn"
+],
+"synonyms": [
+"inside",
+"within"
+],
+"antonyms": [
+"out"
+]
+},
+"to": {
+"gloss": "到，向；对于；(不定式标记)；直到",
+"trap": "to/too/two 同音：too 是‘也、太’，two 是‘二’",
+"root": null,
+"confusable": [
+"too",
+"two"
+],
+"synonyms": [
+"toward"
+],
+"antonyms": [
+"from"
+]
+},
+"have": {
+"gloss": "有，拥有；经历，吃，做；(助动词)已经；不得不",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"possess",
+"own",
+"hold"
+],
+"antonyms": [
+"lack"
+]
+},
+"it": {
+"gloss": "它；(指天气、时间、距离等)；(缩写)信息技术(IT)",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [],
+"antonyms": []
+},
+"I": {
+"gloss": "我(主格)；(字母)I；(罗马数字)1",
+"trap": "",
+"root": null,
+"confusable": [
+"eye",
+"aye"
+],
+"synonyms": [],
+"antonyms": []
+},
+"he": {
+"gloss": "他；雄性动物，男性",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [],
+"antonyms": [
+"she"
+]
+},
+"for": {
+"gloss": "为了，给；因为；对于；持续(时间)；支持，赞成",
+"trap": "for/four/fore 同音；for 有‘支持’义(vote for)",
+"root": null,
+"confusable": [
+"four",
+"fore"
+],
+"synonyms": [],
+"antonyms": [
+"against"
+]
+},
+"that": {
+"gloss": "那，那个；(引导从句)；(关系代词)…的；那么",
+"trap": "",
+"root": null,
+"confusable": [
+"than"
+],
+"synonyms": [],
+"antonyms": [
+"this"
+]
+},
+"not": {
+"gloss": "不，没有，非",
+"trap": "",
+"root": null,
+"confusable": [
+"knot"
+],
+"synonyms": [],
+"antonyms": []
+},
+"you": {
+"gloss": "你，你们；(泛指)任何人，人们",
+"trap": "",
+"root": null,
+"confusable": [
+"ewe",
+"yew"
+],
+"synonyms": [],
+"antonyms": []
+},
+"with": {
+"gloss": "和…一起，带有；用，以；由于；关于；随着",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"alongside"
+],
+"antonyms": [
+"without"
+]
+},
+"on": {
+"gloss": "在…上；关于；(日期)在；正在进行，开着的；继续",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"upon",
+"about"
+],
+"antonyms": [
+"off"
+]
+},
+"do": {
+"gloss": "做，干；(助动词，构成疑问/否定/强调)；足够，行",
+"trap": "",
+"root": null,
+"confusable": [
+"due",
+"doe"
+],
+"synonyms": [
+"perform",
+"act",
+"carry out"
+],
+"antonyms": []
+},
+"they": {
+"gloss": "他们，她们，它们；(泛指)人们；(单数)某人(不指明性别)",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [],
+"antonyms": []
+},
+"say": {
+"gloss": "说，讲；表明，写道；假设，比方说；n. 发言权",
+"trap": "n. 义项‘发言权’(have a say 有发言权)易被忽略",
+"root": null,
+"confusable": [],
+"synonyms": [
+"state",
+"tell",
+"remark",
+"utter",
+"claim"
+],
+"antonyms": []
+},
+"by": {
+"gloss": "被，由；通过(方式)；在…旁；到…之前(时限)；乘",
+"trap": "by/buy/bye 同音：buy 买，bye 再见",
+"root": null,
+"confusable": [
+"buy",
+"bye"
+],
+"synonyms": [
+"via",
+"beside"
+],
+"antonyms": []
+},
+"this": {
+"gloss": "这，这个；这么(程度)",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [],
+"antonyms": [
+"that"
+]
+},
+"she": {
+"gloss": "她；(指国家、船只等)她",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [],
+"antonyms": [
+"he"
+]
+},
+"at": {
+"gloss": "在(地点/时间)；向，对；以(速度/价格)；处于(状态)",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [],
+"antonyms": []
+},
+"but": {
+"gloss": "但是，然而；除了；仅仅，只",
+"trap": "",
+"root": null,
+"confusable": [
+"butt"
+],
+"synonyms": [
+"however",
+"yet",
+"except",
+"only"
+],
+"antonyms": []
+},
+"we": {
+"gloss": "我们；(泛指)人们，本国人",
+"trap": "",
+"root": null,
+"confusable": [
+"wee"
+],
+"synonyms": [],
+"antonyms": []
+},
+"his": {
+"gloss": "他的；属于他的(东西)",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [],
+"antonyms": []
+},
+"from": {
+"gloss": "从，来自；由于；根据；(区别)与…不同",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [],
+"antonyms": [
+"to"
+]
+},
+"which": {
+"gloss": "哪一个，哪些；(关系代词)那个，这一点",
+"trap": "which 与 witch(女巫) 同音",
+"root": null,
+"confusable": [
+"witch"
+],
+"synonyms": [],
+"antonyms": []
+},
+"or": {
+"gloss": "或者，还是；否则；也就是说",
+"trap": "",
+"root": null,
+"confusable": [
+"oar",
+"ore"
+],
+"synonyms": [
+"otherwise"
+],
+"antonyms": []
+},
+"will": {
+"gloss": "(助动词)将，会；愿意；n. 意志，意愿；遗嘱；v. 决意",
+"trap": "n. 义项‘遗嘱’在阅读中常见：make a will 立遗嘱",
+"root": null,
+"confusable": [],
+"synonyms": [
+"determination",
+"testament",
+"wish"
+],
+"antonyms": []
+},
+"as": {
+"gloss": "作为；像…一样；当…时；因为；(as…as)和…一样",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"because",
+"while",
+"like",
+"since"
+],
+"antonyms": []
+},
+"what": {
+"gloss": "什么；(感叹)多么；(关系)所…的东西",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [],
+"antonyms": []
+},
+"would": {
+"gloss": "(will 过去式)将，会；(假设/委婉)愿意；过去总会",
+"trap": "",
+"root": null,
+"confusable": [
+"wood"
+],
+"synonyms": [],
+"antonyms": []
+},
+"can": {
+"gloss": "能，会，可以；n. 罐头，易拉罐；v. 装罐",
+"trap": "",
+"root": null,
+"confusable": [
+"cane"
+],
+"synonyms": [
+"tin",
+"container"
+],
+"antonyms": []
+},
+"go": {
+"gloss": "去，走；进行，运转；变得(go bad)；n. 尝试；围棋",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"leave",
+"move",
+"proceed",
+"depart",
+"travel"
+],
+"antonyms": [
+"come",
+"stay"
+]
+},
+"their": {
+"gloss": "他们的，她们的，它们的",
+"trap": "their(他们的)/there(那里)/they're 同音，写作勿混",
+"root": null,
+"confusable": [
+"there",
+"they're"
+],
+"synonyms": [],
+"antonyms": []
+},
+"there": {
+"gloss": "在那里；(there be)有，存在；在那一点上",
+"trap": "there(那里) 与 their(他们的) 同音",
+"root": null,
+"confusable": [
+"their",
+"they're"
+],
+"synonyms": [],
+"antonyms": [
+"here"
+]
+},
+"who": {
+"gloss": "谁；(关系代词)…的人；(缩写)世界卫生组织(WHO)",
+"trap": "who 作主语，whom 作宾语，whose 表所属",
+"root": null,
+"confusable": [],
+"synonyms": [],
+"antonyms": []
+},
+"all": {
+"gloss": "所有的，全部；完全地；每个人，一切",
+"trap": "",
+"root": null,
+"confusable": [
+"awl"
+],
+"synonyms": [
+"every",
+"whole",
+"entire",
+"everything"
+],
+"antonyms": [
+"none"
+]
+},
+"get": {
+"gloss": "得到，获得；变得，成为；到达；理解；使得",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"obtain",
+"acquire",
+"receive",
+"become",
+"understand"
+],
+"antonyms": [
+"lose",
+"give"
+]
+},
+"if": {
+"gloss": "如果，假如；是否；即使(even if)；每当",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"whether",
+"provided",
+"supposing"
+],
+"antonyms": []
+},
+"her": {
+"gloss": "她(宾格)；她的",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [],
+"antonyms": []
+},
+"make": {
+"gloss": "制造，做；使得，使成为；赚(钱)；达到；n. 牌子",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"create",
+"produce",
+"build",
+"cause",
+"earn"
+],
+"antonyms": [
+"destroy",
+"break"
+]
+},
+"my": {
+"gloss": "我的",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [],
+"antonyms": []
+},
+"about": {
+"gloss": "关于；大约；到处，四周；即将(be about to)",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"concerning",
+"regarding",
+"approximately",
+"around"
+],
+"antonyms": []
+},
+"one": {
+"gloss": "一，一个；某一(人/物)；(泛指)人们；同一的",
+"trap": "one 与 won(win 的过去式) 同音",
+"root": null,
+"confusable": [
+"won"
+],
+"synonyms": [
+"single",
+"unit"
+],
+"antonyms": []
+},
+"know": {
+"gloss": "知道，了解；认识；熟悉，会；分辨出",
+"trap": "know 与 no 同音，knew 与 new 同音",
+"root": null,
+"confusable": [
+"no",
+"now"
+],
+"synonyms": [
+"understand",
+"recognize",
+"realize",
+"grasp"
+],
+"antonyms": []
+},
+"see": {
+"gloss": "看见；明白，理解；会见，看望；查看；经历；n. 主教辖区",
+"trap": "",
+"root": null,
+"confusable": [
+"sea"
+],
+"synonyms": [
+"watch",
+"observe",
+"notice",
+"understand",
+"perceive"
+],
+"antonyms": []
+},
+"so": {
+"gloss": "如此，这么；所以，因此；也(so do I)；那么",
+"trap": "",
+"root": null,
+"confusable": [
+"sew",
+"sow"
+],
+"synonyms": [
+"therefore",
+"thus",
+"hence",
+"consequently"
+],
+"antonyms": []
+},
+"time": {
+"gloss": "时间；次，回；时期，时代；时机；v. 计时，选定时机",
+"trap": "",
+"root": null,
+"confusable": [
+"thyme"
+],
+"synonyms": [
+"period",
+"occasion",
+"era",
+"moment"
+],
+"antonyms": []
+},
+"up": {
+"gloss": "向上；起来(起床)；增加，上涨；完全，结束(eat up)",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"upward",
+"above"
+],
+"antonyms": [
+"down"
+]
+},
+"take": {
+"gloss": "拿，取，带走；乘坐；花费；接受；看待；n. 看法，镜头",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"grab",
+"carry",
+"accept",
+"require",
+"seize"
+],
+"antonyms": [
+"give",
+"leave"
+]
+},
+"some": {
+"gloss": "一些，若干；某个，某些；大约；相当多的",
+"trap": "",
+"root": null,
+"confusable": [
+"sum"
+],
+"synonyms": [
+"several",
+"certain",
+"any"
+],
+"antonyms": [
+"none"
+]
+},
+"when": {
+"gloss": "什么时候；当…时；既然，尽管；n. 时间",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"whenever",
+"while"
+],
+"antonyms": []
+},
+"year": {
+"gloss": "年，年度；学年，年级；(pl.)年龄，岁数；很久",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"annum"
+],
+"antonyms": []
+},
+"could": {
+"gloss": "(can 过去式)能，会；可能，也许；(委婉)能否；本来可以",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"might"
+],
+"antonyms": []
+},
+"think": {
+"gloss": "想，认为；思考；打算；想起，记得",
+"trap": "",
+"root": null,
+"confusable": [
+"thing"
+],
+"synonyms": [
+"believe",
+"consider",
+"suppose",
+"reckon",
+"ponder"
+],
+"antonyms": []
+},
+"into": {
+"gloss": "进入；成为(变化)；撞上；对…感兴趣(be into)；除以",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"inside"
+],
+"antonyms": []
+},
+"its": {
+"gloss": "它的",
+"trap": "its 是‘它的’，it's=it is/it has，不要混用",
+"root": null,
+"confusable": [
+"it's"
+],
+"synonyms": [],
+"antonyms": []
+},
+"them": {
+"gloss": "他们，她们，它们(宾格)",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [],
+"antonyms": []
+},
+"then": {
+"gloss": "然后，接着；那时；那么，既然如此；另外",
+"trap": "then(然后，表时间) vs than(比，表比较)",
+"root": null,
+"confusable": [
+"than"
+],
+"synonyms": [
+"afterwards",
+"next",
+"subsequently"
+],
+"antonyms": [
+"now"
+]
+},
+"two": {
+"gloss": "二，两个",
+"trap": "",
+"root": null,
+"confusable": [
+"to",
+"too"
+],
+"synonyms": [
+"pair",
+"couple"
+],
+"antonyms": []
+},
+"me": {
+"gloss": "我(宾格)",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [],
+"antonyms": []
+},
+"out": {
+"gloss": "出去，在外；熄灭；出版，公开；出局，淘汰；n. 出路",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"outside",
+"outdoors"
+],
+"antonyms": [
+"in"
+]
+},
+"people": {
+"gloss": "人，人们；人民，民族；v. 居住于，使住满",
+"trap": "people 本身是复数；‘一个民族’才用 a people/peoples",
+"root": null,
+"confusable": [],
+"synonyms": [
+"persons",
+"humans",
+"folk",
+"public",
+"nation"
+],
+"antonyms": []
+},
+"come": {
+"gloss": "来，到达；发生；变成(come true)；出现，位于；达到",
+"trap": "",
+"root": null,
+"confusable": [
+"comb"
+],
+"synonyms": [
+"arrive",
+"approach",
+"reach"
+],
+"antonyms": [
+"go",
+"leave"
+]
+},
+"just": {
+"gloss": "刚刚；只是，仅仅；正好，恰好；a. 公正的；应得的",
+"trap": "作形容词是‘公正的’(justice 同源)，不只是‘刚刚’",
+"root": {
+"key": "just",
+"meaning": "公正/法律",
+"match": "just"
+},
+"confusable": [],
+"synonyms": [
+"merely",
+"exactly",
+"fair",
+"righteous"
+],
+"antonyms": [
+"unjust",
+"unfair"
+]
+},
+"your": {
+"gloss": "你的，你们的",
+"trap": "your(你的) vs you're(=you are)，写作勿混",
+"root": null,
+"confusable": [
+"you're"
+],
+"synonyms": [],
+"antonyms": []
+},
+"now": {
+"gloss": "现在，目前；立刻；(引出话题)那么；既然(now that)",
+"trap": "",
+"root": null,
+"confusable": [
+"know"
+],
+"synonyms": [
+"currently",
+"immediately",
+"presently"
+],
+"antonyms": [
+"then",
+"later"
+]
+},
+"him": {
+"gloss": "他(宾格)",
+"trap": "",
+"root": null,
+"confusable": [
+"hymn"
+],
+"synonyms": [],
+"antonyms": []
+},
+"no": {
+"gloss": "不，不是；没有，无；n. 拒绝，反对票；(缩写)号(No.)",
+"trap": "no 与 know(知道) 同音",
+"root": null,
+"confusable": [
+"know"
+],
+"synonyms": [
+"not",
+"none"
+],
+"antonyms": [
+"yes"
+]
+},
+"other": {
+"gloss": "其他的，另外的；另一个；不同的",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"another",
+"different",
+"additional",
+"else"
+],
+"antonyms": [
+"same"
+]
+},
+"only": {
+"gloss": "只，仅仅；唯一的；才(刚刚)；只不过，可惜",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"merely",
+"solely",
+"sole",
+"just",
+"exclusively"
+],
+"antonyms": []
+},
+"give": {
+"gloss": "给，给予；提供；举办；引起；让步；n. 弹性",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"provide",
+"offer",
+"grant",
+"donate",
+"hand"
+],
+"antonyms": [
+"take",
+"receive"
+]
+},
+"good": {
+"gloss": "好的；有益的；擅长的；n. 好处；(pl.)货物",
+"trap": "goods 是‘货物、商品’，不是‘好东西’",
+"root": null,
+"confusable": [],
+"synonyms": [
+"fine",
+"excellent",
+"beneficial",
+"virtuous",
+"skilled"
+],
+"antonyms": [
+"bad",
+"evil",
+"poor"
+]
+},
+"than": {
+"gloss": "比；除…之外(other than)；而不是",
+"trap": "than(比) vs then(然后)",
+"root": null,
+"confusable": [
+"then"
+],
+"synonyms": [],
+"antonyms": []
+},
+"like": {
+"gloss": "喜欢；像，如同；比如；n. 类似的人/物；点赞",
+"trap": "介词义‘像…一样’在学术阅读中比动词‘喜欢’更常见",
+"root": null,
+"confusable": [],
+"synonyms": [
+"enjoy",
+"prefer",
+"similar",
+"resemble",
+"fancy"
+],
+"antonyms": [
+"dislike",
+"hate",
+"unlike"
+]
+},
+"more": {
+"gloss": "更多(的)；更，进一步；再；(no more)不再",
+"trap": "",
+"root": null,
+"confusable": [
+"moor"
+],
+"synonyms": [
+"additional",
+"further",
+"extra"
+],
+"antonyms": [
+"less",
+"fewer"
+]
+},
+"how": {
+"gloss": "怎样，如何；多么(程度)；n. 方法",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [],
+"antonyms": []
+},
+"these": {
+"gloss": "这些",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [],
+"antonyms": [
+"those"
+]
+},
+"also": {
+"gloss": "也，而且，同样",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"too",
+"besides",
+"moreover",
+"furthermore"
+],
+"antonyms": []
+},
+"any": {
+"gloss": "任何(的)；一些，一点(疑问/否定)；(比较级前)稍微",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"some",
+"every",
+"whichever"
+],
+"antonyms": [
+"none"
+]
+},
+"first": {
+"gloss": "第一(的)；首先；最初；最重要的；n. (英)一等学位",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"initial",
+"foremost",
+"earliest",
+"primary"
+],
+"antonyms": [
+"last",
+"final"
+]
+},
+"our": {
+"gloss": "我们的",
+"trap": "our 与 hour(小时) 同音",
+"root": null,
+"confusable": [
+"hour"
+],
+"synonyms": [],
+"antonyms": []
+},
+"very": {
+"gloss": "非常，很；a. 正是的，恰好的(the very man)",
+"trap": "作形容词是‘正是’；源自拉丁 verus‘真’(verify 同源)",
+"root": {
+"key": "ver",
+"meaning": "真",
+"match": "ver"
+},
+"confusable": [
+"vary"
+],
+"synonyms": [
+"extremely",
+"highly",
+"really",
+"exact"
+],
+"antonyms": []
+},
+"new": {
+"gloss": "新的，最近的；陌生的，不熟悉的；新任的，刚开始的",
+"trap": "new 与 knew(know 的过去式) 同音",
+"root": null,
+"confusable": [
+"knew"
+],
+"synonyms": [
+"fresh",
+"novel",
+"recent",
+"modern",
+"unfamiliar"
+],
+"antonyms": [
+"old",
+"used",
+"familiar"
+]
+},
+"look": {
+"gloss": "看；看起来，显得；寻找；n. 一看；神情，外表",
+"trap": "look 后接形容词表‘显得’：look tired 显得疲倦",
+"root": null,
+"confusable": [],
+"synonyms": [
+"glance",
+"gaze",
+"seem",
+"appear",
+"watch"
+],
+"antonyms": []
+},
+"may": {
+"gloss": "可以；可能，也许；(祝愿)愿；n. (May)五月",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"might",
+"can"
+],
+"antonyms": []
+},
+"want": {
+"gloss": "想要，希望；需要；缺乏；n. 缺乏，贫困；需要",
+"trap": "n. 义项‘缺乏、贫困’易被忽略：for want of 因缺少",
+"root": null,
+"confusable": [
+"wont"
+],
+"synonyms": [
+"wish",
+"desire",
+"need",
+"lack",
+"require"
+],
+"antonyms": []
+},
+"way": {
+"gloss": "方法，方式；路，道路；方向；方面；adv. 远远，非常",
+"trap": "way(方法) 与 weigh(称重) 同音",
+"root": null,
+"confusable": [
+"weigh",
+"whey"
+],
+"synonyms": [
+"method",
+"manner",
+"route",
+"path",
+"direction"
+],
+"antonyms": []
+},
+"well": {
+"gloss": "好，很好地；健康的；interj. 嗯；n. 井；v. 涌出",
+"trap": "n. 义项‘井’(oil well 油井) 与 v.‘涌出’易被忽略",
+"root": null,
+"confusable": [],
+"synonyms": [
+"healthy",
+"properly",
+"thoroughly",
+"spring"
+],
+"antonyms": [
+"badly",
+"ill",
+"poorly"
+]
+},
+"should": {
+"gloss": "应该，应当；(推测)可能会，理应；(虚拟)万一，要是",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"ought"
+],
+"antonyms": []
+},
+"use": {
+"gloss": "用，使用；n. 使用，用途；用处；(used to)过去常常",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"utilize",
+"employ",
+"apply",
+"exploit",
+"usage"
+],
+"antonyms": [
+"disuse",
+"misuse"
+]
+},
+"because": {
+"gloss": "因为，由于",
+"trap": "because = by + cause(原因)",
+"root": {
+"key": "caus",
+"meaning": "原因",
+"match": "caus"
+},
+"confusable": [],
+"synonyms": [
+"since",
+"as",
+"for"
+],
+"antonyms": []
+},
+"day": {
+"gloss": "天，日；白天；时期，时代；工作日；(the day)当天",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"daytime",
+"date"
+],
+"antonyms": [
+"night"
+]
+},
+"man": {
+"gloss": "男人；人，人类；v. 为…配备人员，操作",
+"trap": "v. 义项‘配备人员、操纵’：manned spacecraft 载人飞船",
+"root": null,
+"confusable": [],
+"synonyms": [
+"male",
+"human",
+"mankind",
+"guy"
+],
+"antonyms": [
+"woman"
+]
+},
+"find": {
+"gloss": "找到，发现；感到，认为；n. 发现物；v. (法庭)裁定",
+"trap": "法律义项‘裁定’：find sb guilty 判定有罪",
+"root": null,
+"confusable": [
+"fine",
+"fund"
+],
+"synonyms": [
+"discover",
+"locate",
+"detect",
+"uncover"
+],
+"antonyms": [
+"lose",
+"miss"
+]
+},
+"after": {
+"gloss": "在…之后；追赶(be after)；仿照，以…命名；尽管",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"following",
+"behind",
+"later",
+"afterwards"
+],
+"antonyms": [
+"before"
+]
+},
+"here": {
+"gloss": "在这里，到这里；此时，此刻；n. 这里",
+"trap": "here(这里) 与 hear(听) 同音",
+"root": null,
+"confusable": [
+"hear"
+],
+"synonyms": [],
+"antonyms": [
+"there"
+]
+}
+}

@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html { -webkit-text-size-adjust: 100%; overflow-x: hidden; }   /* phones: never scroll sideways; iOS keeps our font sizes in landscape */
+  body { overflow-x: hidden; }
+  :root {
+    --background: 222 40% 97%;
+    --foreground: 222 48% 16%;
+    --card: 0 0% 100%;
+    --card-foreground: 222 48% 16%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222 48% 16%;
+    --primary: 229 74% 52%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 225 40% 96%;
+    --secondary-foreground: 222 48% 16%;
+    --muted: 225 40% 96%;
+    --muted-foreground: 219 16% 43%;
+    --accent: 229 100% 96%;
+    --accent-foreground: 229 74% 52%;
+    --destructive: 352 49% 48%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 222 30% 90%;
+    --input: 222 30% 90%;
+    --ring: 229 74% 52%;
+    --radius: 0.6rem;
+  }
+  * { @apply border-border; }
+  body { @apply bg-background text-foreground antialiased; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+}
+
+@layer components {
+  /* Full word list rows: one anchor per word, layout-contained so a rating change re-lays out only that row. */
+  .fullrow { display: flex; height: 22px; align-items: center; justify-content: space-between; gap: 8px; overflow: hidden; white-space: nowrap; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 13px; line-height: 22px; color: inherit; text-decoration: none; contain: strict; }
+  .fullrow:hover .fullrow-word { text-decoration: underline; text-underline-offset: 3px; }
+  .fullrow::after { content: ''; flex: none; width: 1.5em; text-align: center; font-weight: 700; }
+  .fullrow[data-state='definitely_know']::after { content: '✓'; color: #177151; }
+  .fullrow[data-state='not_sure'] { color: #966312; }
+  .fullrow[data-state='not_sure']::after { content: '?'; }
+  .fullrow[data-state='dont_know'] { color: #b53e4d; }
+  .fullrow[data-state='dont_know']::after { content: '✗'; }
+}

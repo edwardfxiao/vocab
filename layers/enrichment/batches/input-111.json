@@ -1,0 +1,602 @@
+[
+{
+"word": "pesky",
+"pos": "a",
+"zh": "a. 麻烦的, 恼人的, 棘手的, 讨厌的",
+"en": "s causing irritation or annoyance"
+},
+{
+"word": "bigot",
+"pos": "n",
+"zh": "n. 盲从者, 偏执的人",
+"en": "n. a prejudiced person who is intolerant of any opinions differing from his own"
+},
+{
+"word": "progeny",
+"pos": "n",
+"zh": "n. 子孙, 后裔, 成果 / [医] 后代, 后裔",
+"en": "n the immediate descendants of a person"
+},
+{
+"word": "interweave",
+"pos": "v",
+"zh": "v. (使)交织, 织进, (使)混杂",
+"en": "v interlace by or as if by weaving"
+},
+{
+"word": "sideshow",
+"pos": "n",
+"zh": "n. 杂耍, 附属活动, 枝节问题",
+"en": "n. a subordinate incident of little importance relative to the main event / n. a minor show that is part of a larger one…"
+},
+{
+"word": "daze",
+"pos": "vt/n",
+"zh": "vt. 使茫然, 使发昏, 使眼花缭乱 / n. 迷乱, 眼花缭乱",
+"en": "n. the feeling of distress and disbelief that you have when something bad happens accidentally / n. confusion characteri…"
+},
+{
+"word": "choppy",
+"pos": "a",
+"zh": "a. 猛地一动一停的, 突变的 / [经] 震荡的",
+"en": "s. marked by abrupt transitions / s. rough with small waves"
+},
+{
+"word": "draconian",
+"pos": "a",
+"zh": "a. 严厉的, 残酷的",
+"en": "a. of or relating to Draco or his harsh code of laws"
+},
+{
+"word": "topsoil",
+"pos": "n",
+"zh": "n. 上层土, 表层土",
+"en": "n. the layer of soil on the surface"
+},
+{
+"word": "symbiotic",
+"pos": "a",
+"zh": "a. 共栖的, 共生的 / [医] 共生的",
+"en": "s. used of organisms (especially of different species) living together but not necessarily in a relation beneficial to e…"
+},
+{
+"word": "pecuniary",
+"pos": "a",
+"zh": "a. 金钱的, 金钱方面的, 课罚款的 / [经] 金钱的, 应罚款的",
+"en": "a relating to or involving money"
+},
+{
+"word": "merciless",
+"pos": "a",
+"zh": "a. 无慈悲心的, 残忍的",
+"en": "a. having or showing no mercy"
+},
+{
+"word": "condor",
+"pos": "n",
+"zh": "n. 神鹰 / [电] 一种等幅航行系统",
+"en": "n. the largest flying birds in the western hemisphere"
+},
+{
+"word": "tadpole",
+"pos": "n",
+"zh": "n. 蝌蚪",
+"en": "n. a larval frog or toad"
+},
+{
+"word": "grandstand",
+"pos": "n",
+"zh": "n. 正面看台, 观众",
+"en": "n. the audience at a stadium or racetrack / n. a stand at a racecourse or stadium consisting of tiers with rows of indiv…"
+},
+{
+"word": "precipitous",
+"pos": "a",
+"zh": "a. 陡峭的, 轻率的",
+"en": "s done with very great haste and without due deliberation / s extremely steep"
+},
+{
+"word": "rote",
+"pos": "n",
+"zh": "n. 机械性的背诵, 死记硬背",
+"en": "n. memorization by repetition"
+},
+{
+"word": "entwine",
+"pos": "v",
+"zh": "v. (使)缠住, (使)盘绕, (使)纠缠",
+"en": "v tie or link together / v spin,wind, or twist together"
+},
+{
+"word": "regress",
+"pos": "n/vi",
+"zh": "n. 退回, 复归权, 回归, 倒退, 退步, 退化, 退行 / vi. 退回, 复归, 回归, 倒退, 退步, 退化, 退行",
+"en": "n. the reasoning involved when you assume the conclusion is true and reason backward to the evidence / v. go back to a s…"
+},
+{
+"word": "raze",
+"pos": "vt",
+"zh": "vt. 毁灭, 刮去, 把...夷为平地, 消除, 抹去, 破坏",
+"en": "v tear down so as to make flat with the ground"
+},
+{
+"word": "sanguine",
+"pos": "a/n/vt",
+"zh": "a. 血红色的, 满怀希望的, 乐观的 / n. 血红色, 红粉笔 / vt. 用血沾污, 血染",
+"en": "n. a blood-red color / s. confidently optimistic and cheerful"
+},
+{
+"word": "harmonica",
+"pos": "n",
+"zh": "n. 口琴, 玻璃钟琴 / [医] 氢气发音管",
+"en": "n. a small rectangular free-reed instrument having a row of free reeds set back in air holes and played by blowing into …"
+},
+{
+"word": "circumscribe",
+"pos": "vt",
+"zh": "vt. 在...周围画线, 限制",
+"en": "v. draw a line around / v. to draw a geometric figure around another figure so that the two are in contact but do not in…"
+},
+{
+"word": "hermit",
+"pos": "n",
+"zh": "n. 隐士, 隐居者",
+"en": "n. one who lives in solitude"
+},
+{
+"word": "skateboard",
+"pos": "n",
+"zh": "n. 溜冰板",
+"en": "n. a board with wheels that is ridden in a standing or crouching position and propelled by foot / v. ride on a flat boar…"
+},
+{
+"word": "neolithic",
+"pos": "a",
+"zh": "a. 新石器时代的",
+"en": "a. of or relating to the most recent period of the Stone Age (following the mesolithic)"
+},
+{
+"word": "tusk",
+"pos": "n/vt",
+"zh": "n. 长牙, 獠牙, 尖物 / vt. 以长牙刺戳, 以长牙掘",
+"en": "n. a long pointed tooth specialized for fighting or digging; especially in an elephant or walrus or hog / v. remove the …"
+},
+{
+"word": "hyperactivity",
+"pos": "n",
+"zh": "n. 活动过多, 机能亢进, 机能过敏 / [医] 活动过强, 机能亢进",
+"en": "n. a condition characterized by excessive restlessness and movement"
+},
+{
+"word": "condiment",
+"pos": "n",
+"zh": "n. 辛辣调味品 / [化] 调味品",
+"en": "n. a preparation (a sauce or relish or spice) to enhance flavor or enjoyment"
+},
+{
+"word": "sunlit",
+"pos": "a",
+"zh": "a. 阳光照射的",
+"en": "s. lighted by sunlight"
+},
+{
+"word": "rapt",
+"pos": "a",
+"zh": "a. 全神贯注的, 入迷的, 出神的 / rap的过去式和过去分词",
+"en": "s feeling great rapture or delight"
+},
+{
+"word": "transverse",
+"pos": "n/a",
+"zh": "n. 横断物 / a. 横的, 横向的",
+"en": "s extending or lying across; in a crosswise direction; at right angles to the long axis"
+},
+{
+"word": "impel",
+"pos": "vt",
+"zh": "vt. 推动, 激励, 驱使, 迫使",
+"en": "v. urge or force (a person) to an action; constrain or motivate"
+},
+{
+"word": "parlance",
+"pos": "n",
+"zh": "n. 说法, 说话的方式方法, 用语 / [法] 说法, 用语, 发言",
+"en": "n. a manner of speaking that is natural to native speakers of a language"
+},
+{
+"word": "amputate",
+"pos": "vt",
+"zh": "vt. 切断, 删除",
+"en": "v. remove surgically"
+},
+{
+"word": "inasmuch",
+"pos": "adv",
+"zh": "adv. 因...之故, 在...范围内",
+"en": "adv. In like degree; in like manner; seeing that; /    considering that; since; -- followed by as. See In as much as, un…"
+},
+{
+"word": "mulberry",
+"pos": "n",
+"zh": "n. 桑树, 桑椹, 深紫红色 / [医] 桑树; 桑葚",
+"en": "n. any of several trees of the genus Morus having edible fruit that resembles the blackberry / n. sweet usually dark pur…"
+},
+{
+"word": "gnome",
+"pos": "n",
+"zh": "n. 格言, 箴言, 侏儒, 土地神",
+"en": "n. a legendary creature resembling a tiny old man; lives in the depths of the earth and guards buried treasure / n. a sh…"
+},
+{
+"word": "retrograde",
+"pos": "a/vi",
+"zh": "a. 后退的, 倒退的, 退步的 / vi. 倒退, 退步, 回顾",
+"en": "v. move backward in an orbit, of celestial bodies / v. move in a direction contrary to the usual one / v. move back"
+},
+{
+"word": "cannibalism",
+"pos": "n",
+"zh": "n. 嗜食同类, 食人, 嗜血成性",
+"en": "n. the practice of eating the flesh of your own kind"
+},
+{
+"word": "alchemy",
+"pos": "n",
+"zh": "n. 炼金术, 魔力 / [化] 炼丹术; 炼金术; 金丹术",
+"en": "n. a pseudoscientific forerunner of chemistry in medieval times"
+},
+{
+"word": "rile",
+"pos": "vt",
+"zh": "vt. 搅浑, 惹怒, 使焦急",
+"en": "v cause annoyance in; disturb, especially by minor irritations / v make turbid by stirring up the sediments of"
+},
+{
+"word": "garish",
+"pos": "a",
+"zh": "a. 穿着花哨的, 炫耀的, 过分装饰的",
+"en": "s tastelessly showy"
+},
+{
+"word": "chameleon",
+"pos": "n",
+"zh": "n. 美洲变色蜥蜴, 善变的人 / [医] 避役属(蜴蜥之一属)",
+"en": "n. a changeable or inconstant person / n. lizard of Africa and Madagascar able to change skin color and having a project…"
+},
+{
+"word": "fro",
+"pos": "adv",
+"zh": "adv. 向那边, 向后",
+"en": "adv. From; away; back or backward; -- now used only in opposition /    to the word to, in the phrase to and fro, that is…"
+},
+{
+"word": "necktie",
+"pos": "n",
+"zh": "n. 领带",
+"en": "n. neckwear consisting of a long narrow piece of material worn (mostly by men) under a collar and tied in knot at the fr…"
+},
+{
+"word": "rasp",
+"pos": "n/vt/vi",
+"zh": "n. 粗锉刀, 刺耳声 / vt. 用粗锉刀锉, 粗声粗气地说 / vi. 粗锉, 锉磨, 发刺耳声",
+"en": "n. uttering in an irritated tone / n. a coarse file with sharp pointed projections / v. scrape with a rasp / v. utter in…"
+},
+{
+"word": "axial",
+"pos": "a",
+"zh": "a. 轴的, 成轴的, 轴向的 / [医] 轴的, 中轴的",
+"en": "a. of or relating to or resembling an axis of rotation / s. situated on or along or in the direction of an axis"
+},
+{
+"word": "chilli",
+"pos": "n",
+"zh": "n. 红辣椒",
+"en": "n very hot and finely tapering pepper of special pungency"
+},
+{
+"word": "didactic",
+"pos": "a",
+"zh": "a. 教训的, 说教的, 教导的, 教诲的 / [医] 教导的",
+"en": "s. instructive (especially excessively)"
+},
+{
+"word": "deadpan",
+"pos": "n",
+"zh": "n. 无表情的脸",
+"en": "s. deliberately impassive in manner / r. without betraying any feeling"
+},
+{
+"word": "decorum",
+"pos": "n",
+"zh": "n. 端正, 礼貌, 合宜, 礼仪",
+"en": "n. propriety in manners and conduct"
+},
+{
+"word": "shoddy",
+"pos": "a/n",
+"zh": "a. 用长弹毛做的, 以次充好的 / n. 长弹毛, 软再生毛, 赝品",
+"en": "n. reclaimed wool fiber"
+},
+{
+"word": "pied",
+"pos": "a",
+"zh": "a. 斑驳的, 杂色的, 穿花衣服的",
+"en": "s having sections or patches colored differently and usually brightly"
+},
+{
+"word": "squabble",
+"pos": "vi/n",
+"zh": "vi. 争吵, 口角 / n. 争吵, 口角",
+"en": "n a quarrel about petty points / v argue over petty things"
+},
+{
+"word": "unmatched",
+"pos": "a",
+"zh": "a. 无比的, 无匹敌的, 不相配的 / [化] 不匹配的",
+"en": "s of the remaining member of a pair, of socks e.g. / s eminent beyond or above comparison"
+},
+{
+"word": "suffuse",
+"pos": "vt",
+"zh": "vt. 遍布, 弥漫, 充满",
+"en": "v. cause to spread or flush or flood through, over, or across / v. to become overspread as with a fluid, a colour, a gle…"
+},
+{
+"word": "retard",
+"pos": "n/vt/vi",
+"zh": "n. 阻止, 延迟 / vt. 妨碍, 延迟, 使减速 / vi. 减速, 延迟",
+"en": "v. cause to move more slowly or operate at a slower rate / v. be delayed"
+},
+{
+"word": "gargantuan",
+"pos": "a",
+"zh": "a. 巨大的, 庞大的",
+"en": "s of great mass; huge and bulky"
+},
+{
+"word": "amalgam",
+"pos": "n",
+"zh": "n. 汞合金, 汞齐 / [化] 汞齐; 汞合金",
+"en": "n. an alloy of mercury with another metal (usually silver) used by dentists to fill cavities in teeth; except for iron a…"
+},
+{
+"word": "silica",
+"pos": "n",
+"zh": "n. 硅石, 二氧化硅 / [化] 二氧化硅",
+"en": "n. a white or colorless vitreous insoluble solid (SiO2); various forms occur widely in the earth's crust as quartz or cr…"
+},
+{
+"word": "hyperbole",
+"pos": "n",
+"zh": "n. 夸张法",
+"en": "n. extravagant exaggeration"
+},
+{
+"word": "stewardess",
+"pos": "n",
+"zh": "n. 空中小姐, 女管理人, 女管家",
+"en": "n. a woman steward on an airplane"
+},
+{
+"word": "thermos",
+"pos": "n",
+"zh": "n. 热水瓶",
+"en": "n. vacuum flask that preserves temperature of hot or cold drinks"
+},
+{
+"word": "bovine",
+"pos": "a",
+"zh": "a. 牛的；似牛的；迟钝的",
+"en": "n. any of various members of the genus Bos / a. of or relating to or belonging to the genus Bos (cattle) / s. dull and s…"
+},
+{
+"word": "tribulation",
+"pos": "n",
+"zh": "n. 苦难, 困苦, 苦难的缘由",
+"en": "n an annoying or frustrating or catastrophic event"
+},
+{
+"word": "actuarial",
+"pos": "a",
+"zh": "a. 保险计算员的, 保险计算的 / [经] 保险公司计算员的, 保险统计",
+"en": "a. of or relating to the work of an actuary"
+},
+{
+"word": "maestro",
+"pos": "n",
+"zh": "n. 音乐大师, 大音乐家",
+"en": "n. an artist of consummate skill"
+},
+{
+"word": "scaffold",
+"pos": "n",
+"zh": "n. 脚手架, 绞刑台 / [化] 脚手架",
+"en": "n. a platform from which criminals are executed (hanged or beheaded) / n. a temporary arrangement erected around a build…"
+},
+{
+"word": "stilt",
+"pos": "n",
+"zh": "n. 高跷, 支柱, 脚柱",
+"en": "n. one of two stout poles with foot rests in the middle; used for walking high above the ground / n. long-legged three-t…"
+},
+{
+"word": "balmy",
+"pos": "a",
+"zh": "a. 芳香的, 温和的, 止痛的 / [化] 香脂气味的",
+"en": "s. informal or slang terms for mentally irregular / s. mild and pleasant"
+},
+{
+"word": "sikh",
+"pos": "n",
+"zh": "n. 锡克教教徒",
+"en": "n. an adherent of Sikhism / a. of or relating to the Sikhs or their religious beliefs and customs"
+},
+{
+"word": "surly",
+"pos": "a",
+"zh": "a. 不和蔼的, 无礼的, 板面孔的, 阴沉的, 粗暴的, 乖戾的",
+"en": "s. inclined to anger or bad feelings with overtones of menace"
+},
+{
+"word": "gregarious",
+"pos": "a",
+"zh": "a. 社交的, 群居的",
+"en": "a. (of animals) tending to form a group with others of the same species / s. instinctively or temperamentally seeking an…"
+},
+{
+"word": "automate",
+"pos": "vt",
+"zh": "vt.vi. (使)自动化 / [计] 自动化",
+"en": "v make automatic or control or operate automatically"
+},
+{
+"word": "ramshackle",
+"pos": "a",
+"zh": "a. 象要倒的, 摇晃的, 放荡的",
+"en": "s in deplorable condition"
+},
+{
+"word": "enmity",
+"pos": "n",
+"zh": "n. 敌意, 憎恨",
+"en": "n a state of deep-seated ill-will / n the feeling of a hostile person"
+},
+{
+"word": "preservative",
+"pos": "a/n",
+"zh": "a. 有助于保存的, 有保存力的 / n. 预防药, 防腐剂",
+"en": "n. a chemical compound that is added to protect against decay or decomposition / s. tending or having the power to prese…"
+},
+{
+"word": "wristwatch",
+"pos": "n",
+"zh": "n. 手表",
+"en": "n. a watch that is worn strapped to the wrist"
+},
+{
+"word": "viscous",
+"pos": "a",
+"zh": "a. 粘的, 粘性的 / [医] 粘的",
+"en": "s having a relatively high resistance to flow / s having the sticky properties of an adhesive"
+},
+{
+"word": "xerox",
+"pos": "v",
+"zh": "v. 静电复印",
+"en": "n. a copy made by a xerographic printer / n. a duplicator (trade mark Xerox) that copies graphic matter by the action of…"
+},
+{
+"word": "vilify",
+"pos": "vt",
+"zh": "vt. 诽谤, 贬低 / [法] 诋毁, 中伤, 诽谤",
+"en": "v. spread negative information about"
+},
+{
+"word": "overcast",
+"pos": "a",
+"zh": "a. 阴天的, 阴暗的, 愁闷的",
+"en": "n. a long whipstitch or overhand stitch overlying an edge to prevent raveling / n. a cast that falls beyond the intended…"
+},
+{
+"word": "fortitude",
+"pos": "n",
+"zh": "n. 刚毅, 坚毅, 不屈不挠",
+"en": "n. strength of mind that enables one to endure adversity with courage"
+},
+{
+"word": "organically",
+"pos": "adv",
+"zh": "adv. 有机性地, 器官上地, 有组织地",
+"en": "r. as an important constituent / r. involving carbon compounds / r. in an organic manner"
+},
+{
+"word": "baste",
+"pos": "vt",
+"zh": "vt. 用长针脚粗缝, 润以油脂, 狠揍",
+"en": "n. a loose temporary sewing stitch to hold layers of fabric together / v. cover with liquid before cooking / v. sew toge…"
+},
+{
+"word": "litigant",
+"pos": "a/n",
+"zh": "a. 诉讼的 / n. 诉讼当事人, 诉讼关系人",
+"en": "n. (law) a party to a lawsuit; someone involved in litigation"
+},
+{
+"word": "courtly",
+"pos": "a",
+"zh": "a. 谦恭的, 礼让的, 有教养的",
+"en": "s. refined or imposing in manner or appearance; befitting a royal court"
+},
+{
+"word": "subsist",
+"pos": "vt/vi",
+"zh": "vt. 供给食物, 供养 / vi. 生存, 存在",
+"en": "v support oneself"
+},
+{
+"word": "derogatory",
+"pos": "a",
+"zh": "a. 贬损的 / [法] 毁损的, 减损的",
+"en": "s expressive of low opinion"
+},
+{
+"word": "platonic",
+"pos": "a",
+"zh": "a. 空谈的, 不实际的, 柏拉图哲学的, 柏拉图的",
+"en": "a. of or relating to or characteristic of Plato or his philosophy / s. free from physical desire"
+},
+{
+"word": "cog",
+"pos": "n/vt",
+"zh": "n. 嵌齿, 小船 / vt. 给...装配齿轮, 欺骗",
+"en": "n. a subordinate who performs an important but routine function / n. tooth on the rim of gear wheel / v. roll steel ingo…"
+},
+{
+"word": "dehydrate",
+"pos": "vt",
+"zh": "vt. (使)脱水 / [医] 脱水, 去水",
+"en": "v. preserve by removing all water and liquids from / v. remove water from"
+},
+{
+"word": "exalt",
+"pos": "vt/vi",
+"zh": "vt. 提升, 提高, 赞扬, 使得意 / vi. 使人兴奋, 使人得意",
+"en": "v. raise in rank, character, or status"
+},
+{
+"word": "snob",
+"pos": "n",
+"zh": "n. 势利的人, 假内行",
+"en": "n. a person regarded as arrogant and annoying"
+},
+{
+"word": "confederate",
+"pos": "n/a/v",
+"zh": "n. 同盟者, 同盟国 / a. 同盟的, 联合的 / v. (使)联盟, (使)联合",
+"en": "n. a supporter of the Confederate States of America / n. someone who assists in a plot / v. form a confederation with; o…"
+},
+{
+"word": "indie",
+"pos": "n",
+"zh": "n. 独立制片人, 独立制作的影(唱)片",
+"en": "n. a pop group not affiliated with a major record company / n. an independent film company not associated with an establ…"
+},
+{
+"word": "personification",
+"pos": "n",
+"zh": "n. 拟人, 人格化, 拟人法, 化身, 象征",
+"en": "n. a person who represents an abstract quality / n. representing an abstract quality or idea as a person or creature / n…"
+},
+{
+"word": "weasel",
+"pos": "n/vi",
+"zh": "n. 鼬鼠, 狡猾的人, 告密者, 狡辩之辞 / vi. 躲避, 告密",
+"en": "n. a person who is regarded as treacherous or sneaky / n. small carnivorous mammal with short legs and elongated body an…"
+},
+{
+"word": "innermost",
+"pos": "a",
+"zh": "a. 内心的, 秘密的, 最深处的",
+"en": "s being deepest within the self / s situated or occurring farthest within"
+}
+]

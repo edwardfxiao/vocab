@@ -1,0 +1,602 @@
+[
+{
+"word": "congenital",
+"pos": "a",
+"zh": "a. 天生的, 先天的 / [医] 先天的",
+"en": "s. present at birth but not necessarily hereditary; acquired during fetal development"
+},
+{
+"word": "pacifist",
+"pos": "n",
+"zh": "n. 和平主义者, 反战论者, 不抵抗主义者",
+"en": "n. someone opposed to violence as a means of settling disputes / s. opposed to war"
+},
+{
+"word": "entirety",
+"pos": "n",
+"zh": "n. 全部, 整体 / [法] 共有制, 整体, 全部",
+"en": "n. the state of being total and complete"
+},
+{
+"word": "monograph",
+"pos": "n/vt",
+"zh": "n. 专题论文, 专著, 专刊 / vt. 写专题论文",
+"en": "n. a detailed and documented treatise on a particular subject"
+},
+{
+"word": "raucous",
+"pos": "a",
+"zh": "a. 沙哑的, 粗声的, 喧闹的",
+"en": "s. unpleasantly loud and harsh / s. disturbing the public peace; loud and rough"
+},
+{
+"word": "brooch",
+"pos": "n",
+"zh": "n. 胸针, 领针",
+"en": "n. a decorative pin worn by women / v. fasten with or as if with a brooch"
+},
+{
+"word": "consonant",
+"pos": "n/a",
+"zh": "n. 辅音 / a. 一致的, 调和的",
+"en": "n. a speech sound that is not a vowel / n. a letter of the alphabet standing for a spoken consonant / s. involving or ch…"
+},
+{
+"word": "droplet",
+"pos": "n",
+"zh": "n. 小滴 / [医] 小滴",
+"en": "n. a tiny drop"
+},
+{
+"word": "proverb",
+"pos": "n/vt",
+"zh": "n. 谚语, 格言, 箴言 / vt. 使众所周知, 用谚语表达",
+"en": "n. a condensed but memorable saying embodying some important fact of experience that is taken as true by many people"
+},
+{
+"word": "adhesive",
+"pos": "a/n",
+"zh": "a. 粘着的, 涂有粘性物质的 / n. 粘合剂, 橡皮膏",
+"en": "a. tending to adhere"
+},
+{
+"word": "overestimate",
+"pos": "vt/n",
+"zh": "vt. 评价过高, 过高估价 / n. 估计过高, 评价过高",
+"en": "n. an appraisal that is too high / n. a calculation that results in an estimate that is too high / v. make too high an e…"
+},
+{
+"word": "smog",
+"pos": "n",
+"zh": "n. 烟雾 / [化] 烟雾",
+"en": "n. air pollution by a mixture of smoke and fog"
+},
+{
+"word": "quell",
+"pos": "vt",
+"zh": "vt. 压制, 平息, 减轻",
+"en": "v. overcome or allay"
+},
+{
+"word": "enrage",
+"pos": "vt",
+"zh": "vt. 激怒, 使暴怒",
+"en": "v. put into a rage; make violently angry"
+},
+{
+"word": "granule",
+"pos": "n",
+"zh": "n. 小粒, 细粒, 颗粒 / [计] 区组",
+"en": "n. a tiny grain"
+},
+{
+"word": "cello",
+"pos": "n",
+"zh": "n. 大提琴",
+"en": "n. a large stringed instrument; seated player holds it upright while playing"
+},
+{
+"word": "holster",
+"pos": "n",
+"zh": "n. 手枪皮套",
+"en": "n. a sheath (usually leather) for carrying a handgun / n. a belt with loops or slots for carrying small hand tools"
+},
+{
+"word": "bicker",
+"pos": "vi/n",
+"zh": "vi. 斗嘴, 潺潺而流, 闪动 / n. 口角, 流水声",
+"en": "n. a quarrel about petty points"
+},
+{
+"word": "understate",
+"pos": "v",
+"zh": "v. 不完全地陈述, 保守地说, 有意轻描淡写",
+"en": "v. represent as less significant or important"
+},
+{
+"word": "torpedo",
+"pos": "n/vt",
+"zh": "n. 鱼雷, 水雷, 地雷 / vt. 用鱼雷袭击, 破坏",
+"en": "n. an explosive device that is set off in an oil well (or a gas well) to start or to increase the flow of oil (or gas) /…"
+},
+{
+"word": "stockholder",
+"pos": "n",
+"zh": "n. 股东 / [法] 股东, 股票持有者, 股票所有人",
+"en": "n. someone who holds shares of stock in a corporation"
+},
+{
+"word": "bigotry",
+"pos": "n",
+"zh": "n. 盲从, 偏见, 偏执的行为(或态度)",
+"en": "n. the intolerance and prejudice of a bigot"
+},
+{
+"word": "shale",
+"pos": "n",
+"zh": "n. 页岩",
+"en": "n. a sedimentary rock formed by the deposition of successive layers of clay"
+},
+{
+"word": "auspice",
+"pos": "n",
+"zh": "n. 吉兆, 占卜, 赞助",
+"en": "n. a favorable omen"
+},
+{
+"word": "painkiller",
+"pos": "n",
+"zh": "n. 解痛药, 止痛片, 止痛药",
+"en": "n a medicine used to relieve pain"
+},
+{
+"word": "warring",
+"pos": "a",
+"zh": "a. 交战的, 敌对的, 冲突的 / [法] 战争, 敌对行为",
+"en": "v make or wage war / s engaged in war"
+},
+{
+"word": "absentee",
+"pos": "n",
+"zh": "n. 缺席者, 不在者 / [经] 缺勤者, 缺席者, 未到工者",
+"en": "n. one that is absent or not in residence"
+},
+{
+"word": "repress",
+"pos": "vt/vi",
+"zh": "vt. 镇压, 抑制, 压制 / vi. 压制",
+"en": "v. put down by force or intimidation / v. block the action of"
+},
+{
+"word": "violet",
+"pos": "n/a",
+"zh": "n. 堇菜, 紫罗兰 / a. 堇菜科的, 紫罗兰色的",
+"en": "n. any of numerous low-growing violas with small flowers / n. a variable color that lies beyond blue in the spectrum"
+},
+{
+"word": "reparation",
+"pos": "n",
+"zh": "n. 补偿, 赔偿, 弥补, 修复, 修理 / [经] 赔偿, 补偿, 修理",
+"en": "n. compensation (given or received) for an insult or injury / n. (usually plural) compensation exacted from a defeated n…"
+},
+{
+"word": "sarcastic",
+"pos": "a",
+"zh": "a. 讽刺的, 讥讽的",
+"en": "a. expressing or expressive of ridicule that wounds"
+},
+{
+"word": "bonanza",
+"pos": "n",
+"zh": "n. 富矿带, 带来好运的事物, 幸运",
+"en": "n. an especially rich vein of precious ore"
+},
+{
+"word": "trilogy",
+"pos": "n",
+"zh": "n. 三部剧, 三部曲 / [医] 三联, 三联症",
+"en": "n. a set of three literary or dramatic works related in subject or theme"
+},
+{
+"word": "analogue",
+"pos": "n",
+"zh": "n. 类似物, 相似情况 / [医] 类似物, 同型物, 相似器官, 同功异质体",
+"en": "n. something having the property of being analogous to something else / a. of a circuit or device having an output that …"
+},
+{
+"word": "stardom",
+"pos": "n",
+"zh": "n. 明星身分, 明星们",
+"en": "n. the status of being acknowledged as a star"
+},
+{
+"word": "topography",
+"pos": "n",
+"zh": "n. 地志, 地形学, 地势, 局部解剖学 / [医] 局部解剖, 局部记载",
+"en": "n. the configuration of a surface and the relations among its man-made and natural features / n. precise detailed study …"
+},
+{
+"word": "prism",
+"pos": "n",
+"zh": "n. 棱镜, 棱柱 / [化] 棱镜",
+"en": "n. a polyhedron with two congruent and parallel faces (the bases) and whose lateral faces are parallelograms / n. optica…"
+},
+{
+"word": "sheikh",
+"pos": "n",
+"zh": "n. 酋长, 王子, 村长, 族长, 教长, 导师, 有威信的丈夫",
+"en": "n the leader of an Arab village or family"
+},
+{
+"word": "diva",
+"pos": "n",
+"zh": "n. 歌剧女主角/首席女主角, 主要女歌手",
+"en": "n a distinguished female operatic singer; a female operatic star"
+},
+{
+"word": "rudder",
+"pos": "n",
+"zh": "n. 舵, 方向舵, 指导原则",
+"en": "n. a hinged vertical airfoil mounted at the tail of an aircraft and used to make horizontal course changes / n. (nautica…"
+},
+{
+"word": "shellfish",
+"pos": "n",
+"zh": "n. 贝, 甲壳类水生物 / [医] 牡蛎",
+"en": "n. meat of edible aquatic invertebrate with a shell (especially a mollusk or crustacean)"
+},
+{
+"word": "scooter",
+"pos": "n",
+"zh": "n. 小型摩托车, 踏板车 / [机] 机车",
+"en": "n. child's two-wheeled vehicle operated by foot"
+},
+{
+"word": "sidestep",
+"pos": "n/vt/vi",
+"zh": "n. 横跨的一步, 台阶 / vt. 横跨一步躲避, 回避 / vi. 回避问题, 躲避打击",
+"en": "n. a step to one side (as in boxing or dancing)"
+},
+{
+"word": "whimsical",
+"pos": "a",
+"zh": "a. 怪念头多的, 反复无常的, 古怪的, 异想天开的",
+"en": "s determined by chance or impulse or whim rather than by necessity or reason"
+},
+{
+"word": "finch",
+"pos": "n",
+"zh": "n. 雀科鸣鸟",
+"en": "n. any of numerous small songbirds with short stout bills adapted for crushing seeds"
+},
+{
+"word": "recoil",
+"pos": "n/vi",
+"zh": "n. 畏缩, 后退, 弹回, 反作用, 后坐力 / vi. 退却, 畏缩, 弹回, 撤退, 反冲, 报应",
+"en": "n. the backward jerk of a gun when it is fired / n. a movement back from an impact"
+},
+{
+"word": "corrosion",
+"pos": "n",
+"zh": "n. 腐蚀, 侵蚀, 腐蚀产生的物质, 铁锈, 锈 / [计] 腐蚀",
+"en": "n. a state of deterioration in metals caused by oxidation or chemical action / n. erosion by chemical action"
+},
+{
+"word": "mystic",
+"pos": "a/n",
+"zh": "a. 神秘的, 奥秘的 / n. 神秘主义者",
+"en": "n. someone who believes in the existence of realities beyond human comprehension / a. relating to or resembling mysticis…"
+},
+{
+"word": "astute",
+"pos": "a",
+"zh": "a. 敏锐的, 狡猾的",
+"en": "s. marked by practical hardheaded intelligence"
+},
+{
+"word": "abstention",
+"pos": "n",
+"zh": "n. 戒绝, 回避, 弃权",
+"en": "n the trait of abstaining (especially from alcohol)"
+},
+{
+"word": "prowl",
+"pos": "n/vi/vt",
+"zh": "n. 潜行, 徘徊, 悄悄踱步 / vi. 潜行以觅食, 徘徊 / vt. 徘徊",
+"en": "n. the act of prowling (walking about in a stealthy manner) / v. move about in or as if in a predatory manner / v. loite…"
+},
+{
+"word": "vestige",
+"pos": "n",
+"zh": "n. 遗迹, 痕迹, 残余, 丝毫, 退化的器官 / [医] 遗迹, 剩件, 剩余",
+"en": "n an indication that something has been present"
+},
+{
+"word": "figurine",
+"pos": "n",
+"zh": "n. 小雕像",
+"en": "n. a small carved or molded figure"
+},
+{
+"word": "quail",
+"pos": "n/vi",
+"zh": "n. 鹌鹑 / vi. 胆怯, 畏缩",
+"en": "n. flesh of quail; suitable for roasting or broiling if young; otherwise must be braised / n. small gallinaceous game bi…"
+},
+{
+"word": "morphology",
+"pos": "n",
+"zh": "n. 形态学, 词法, 形态 / [医] 形态学",
+"en": "n. the branch of biology that deals with the structure of animals and plants / n. studies of the rules for forming admis…"
+},
+{
+"word": "entrench",
+"pos": "vt/vi",
+"zh": "vt. 围以壕沟, 防护, 保卫, 使处于牢固地位 / vi. 掘壕, 侵犯",
+"en": "v. fix firmly or securely / v. occupy a trench or secured area"
+},
+{
+"word": "quartz",
+"pos": "n",
+"zh": "n. 石英 / [化] 石英",
+"en": "n. a hard glossy mineral consisting of silicon dioxide in crystal form; present in most rocks (especially sandstone and …"
+},
+{
+"word": "glee",
+"pos": "n",
+"zh": "n. 欢乐, 高兴",
+"en": "n great merriment / n malicious satisfaction"
+},
+{
+"word": "extracurricular",
+"pos": "a",
+"zh": "a. 课外的, 业余的",
+"en": "s. outside the regular academic curriculum / s. outside the regular duties of your job or profession"
+},
+{
+"word": "heirloom",
+"pos": "n",
+"zh": "n. 传家宝, 动产继承物 / [法] 祖传动产, 传家宝",
+"en": "n. (law) any property that is considered by law or custom as inseparable from an inheritance is inherited with that inhe…"
+},
+{
+"word": "discursive",
+"pos": "a",
+"zh": "a. 离题的, 东拉西扯的",
+"en": "s proceeding to a conclusion by reason or argument rather than intuition / s (of e.g. speech and writing) tending to dep…"
+},
+{
+"word": "uproar",
+"pos": "n",
+"zh": "n. 骚动, 喧嚣",
+"en": "n a state of commotion and noise and confusion / n loud confused noise from many sources"
+},
+{
+"word": "candor",
+"pos": "n",
+"zh": "n. 坦白, 直率",
+"en": "n. the quality of being honest and straightforward in attitude and speech"
+},
+{
+"word": "laity",
+"pos": "n",
+"zh": "n. 俗人, 外行 / [医] 外行[人]",
+"en": "n. in Christianity, members of a religious community that do not have the priestly responsibilities of ordained clergy"
+},
+{
+"word": "ply",
+"pos": "n/vt/vi",
+"zh": "n. 厚度, 板层 / vt. 使用, 使劲挥舞, 从事, 折, 弯 / vi. 辛勤工作, 定期航行",
+"en": "n. one of the strands twisted together to make yarn or rope or thread; often used in combination / n. (usually in combin…"
+},
+{
+"word": "err",
+"pos": "vi",
+"zh": "vi. 犯错, 做错, 犯罪 / [法] 弄错, 犯错误, 陈述",
+"en": "v. to make a mistake or be incorrect"
+},
+{
+"word": "arcane",
+"pos": "a",
+"zh": "a. 神秘的, 晦涩难解的",
+"en": "s. requiring secret or mysterious knowledge"
+},
+{
+"word": "renegade",
+"pos": "n/a/vi",
+"zh": "n. 背教者, 变节者, 脱党者 / a. 背弃的, 脱离的, 叛徒的 / vi. 背叛, 背弃, 脱离",
+"en": "n. someone who rebels and becomes an outlaw"
+},
+{
+"word": "hoax",
+"pos": "vt/n",
+"zh": "vt. 欺骗, 哄骗, 愚弄 / n. 愚弄人, 恶作剧",
+"en": "v. subject to a playful hoax or joke"
+},
+{
+"word": "anorexia",
+"pos": "n",
+"zh": "n. 食欲缺乏, 厌食 / [医] 食欲缺乏, 厌食",
+"en": "n. a prolonged disorder of eating due to loss of appetite"
+},
+{
+"word": "aspen",
+"pos": "n/a",
+"zh": "n. 山杨 / a. 山杨的, 颤抖的",
+"en": "n. any of several trees of the genus Populus having leaves on flattened stalks so that they flutter in the lightest wind"
+},
+{
+"word": "newscast",
+"pos": "n",
+"zh": "n. 新闻广播",
+"en": "n. a broadcast of news or commentary on the news"
+},
+{
+"word": "sonnet",
+"pos": "n",
+"zh": "n. 十四行诗",
+"en": "n. a verse form consisting of 14 lines with a fixed rhyme scheme / v. praise in a sonnet / v. compose a sonnet"
+},
+{
+"word": "axle",
+"pos": "n",
+"zh": "n. 轴, 车轴 / [电] 轴",
+"en": "n. a shaft on which a wheel rotates"
+},
+{
+"word": "skirmish",
+"pos": "n/vi",
+"zh": "n. 前哨战, 小争论, 小冲突 / vi. 发生小争论, 侦察",
+"en": "v. engage in a skirmish"
+},
+{
+"word": "fluency",
+"pos": "n",
+"zh": "n. 流畅, 雄辩, 善辩",
+"en": "n. skillfulness in speaking or writing / n. the quality of being facile in speech and writing"
+},
+{
+"word": "contiguous",
+"pos": "a",
+"zh": "a. 邻近的, 接近的 / [医] 接触的",
+"en": "s. very close or connected in space or time"
+},
+{
+"word": "replete",
+"pos": "a",
+"zh": "a. 装满的, 充满的, 充实的, 吃饱的",
+"en": "v fill to satisfaction / s filled to satisfaction with food or drink / s (followed by `with')deeply filled or permeated"
+},
+{
+"word": "hydrocarbon",
+"pos": "n",
+"zh": "n. 碳氢化合物 / [化] 烃; 碳氢化合物",
+"en": "n. an organic compound containing only carbon and hydrogen"
+},
+{
+"word": "primordial",
+"pos": "a",
+"zh": "a. 原始的, 自原始时代的 / [医] 原始的",
+"en": "s having existed from the beginning; in an earliest or original stage or state"
+},
+{
+"word": "seaweed",
+"pos": "n",
+"zh": "n. 海草, 海藻 / [医] 海藻",
+"en": "n. plant growing in the sea, especially marine algae"
+},
+{
+"word": "thorny",
+"pos": "a",
+"zh": "a. 多刺的, 令人苦恼的",
+"en": "s. bristling with perplexities"
+},
+{
+"word": "encase",
+"pos": "vt",
+"zh": "vt. 把...装入箱内, 包住",
+"en": "v. enclose in, or as if in, a case"
+},
+{
+"word": "pare",
+"pos": "vt",
+"zh": "vt. 剥, 削, 消减",
+"en": "v. decrease gradually or bit by bit / v. remove the edges from and cut down to the desired size"
+},
+{
+"word": "linoleum",
+"pos": "n",
+"zh": "n. 油地毡, 漆布 / [化] 油毡; 亚麻油毡",
+"en": "n. a floor covering"
+},
+{
+"word": "clot",
+"pos": "n/v",
+"zh": "n. 凝块, 一团 / v. (使)凝结, (使)聚集",
+"en": "n. a lump of material formed from the content of a liquid / v. change from a liquid to a thickened or solid state / v. c…"
+},
+{
+"word": "nutritious",
+"pos": "a",
+"zh": "a. 滋养的, 营养的 / [医] 有营养的",
+"en": "s of or providing nourishment"
+},
+{
+"word": "kiosk",
+"pos": "n",
+"zh": "n. 亭, 凉亭, 报摊",
+"en": "n small area set off by walls for special use"
+},
+{
+"word": "craven",
+"pos": "n/a",
+"zh": "n. 懦夫, 怯懦者, 胆小鬼 / a. 怯懦的, 畏缩的, 胆小的",
+"en": "s. lacking even the rudiments of courage; abjectly fearful"
+},
+{
+"word": "abate",
+"pos": "vt/vi",
+"zh": "vt. 减少, 减轻, 减弱, 废除, 打折扣 / vi. 减轻, 减弱, 减少, 失效, 被废除",
+"en": "v. become less in amount or intensity"
+},
+{
+"word": "veritable",
+"pos": "a",
+"zh": "a. 名副其实的, 真实的, 确实的, 真的",
+"en": "s often used as intensifiers / s not counterfeit or copied"
+},
+{
+"word": "conveyance",
+"pos": "n",
+"zh": "n. 运输, 运输工具, 财产转让 / [经] 运输工具, 转让证书, 财产的转让",
+"en": "n. document effecting a property transfer / n. the transmission of information / n. something that serves as a means of …"
+},
+{
+"word": "nascent",
+"pos": "a",
+"zh": "a. 发生中的, 开始存在的, 初期的 / [医] 初发的, 初生的",
+"en": "a. being born or beginning"
+},
+{
+"word": "qualifier",
+"pos": "n",
+"zh": "n. 取得资格的人, 限定语 / [计] 限定词",
+"en": "n. a contestant who meets certain requirements and so qualifies to take part in the next stage of competition"
+},
+{
+"word": "infuriate",
+"pos": "a/vt",
+"zh": "a. 狂怒的 / vt. 激怒",
+"en": "v. make furious"
+},
+{
+"word": "minuscule",
+"pos": "n/a",
+"zh": "n. 小书写体, 小写字 / a. 用小书写体的, 小写字的",
+"en": "n. a small cursive script developed from uncial between the 7th and 9th centuries and used in medieval manuscripts / a. …"
+},
+{
+"word": "alibi",
+"pos": "n/v",
+"zh": "n. 不在犯罪现场, 托辞 / v. 为...辩解",
+"en": "n. (law) a defense by an accused person purporting to show that he or she could not have committed the crime in question…"
+},
+{
+"word": "fanfare",
+"pos": "n",
+"zh": "n. 喇叭边(或号角)嘹亮吹奏声, 吹牛",
+"en": "n a gaudy outward display / n (music) a short lively tune played on brass instruments"
+},
+{
+"word": "alkali",
+"pos": "n/a",
+"zh": "n. 碱 / a. 碱性的",
+"en": "n. a mixture of soluble salts found in arid soils and some bodies of water; detrimental to agriculture"
+},
+{
+"word": "cardiologist",
+"pos": "n",
+"zh": "n. 心脏病学家 / [医] 心[脏]病学家",
+"en": "n. a specialist in cardiology; a specialist in the structure and function and disorders of the heart"
+}
+]

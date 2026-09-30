@@ -1,0 +1,602 @@
+[
+{
+"word": "deity",
+"pos": "n",
+"zh": "n. 神, 神性",
+"en": "n. any supernatural being worshipped as controlling some part of the world or some aspect of life or who is the personif…"
+},
+{
+"word": "singular",
+"pos": "n/a",
+"zh": "n. 单数 / a. 异常的, 单一的",
+"en": "n. the form of a word that is used to denote a singleton / s. being a single and separate person or thing / a. composed …"
+},
+{
+"word": "depreciation",
+"pos": "n",
+"zh": "n. 价值减低, 减价, 跌落, 贬低, 折旧 / [化] 折旧; 减值",
+"en": "n. a decrease in price or value / n. decrease in value of an asset due to obsolescence or use"
+},
+{
+"word": "hypocrisy",
+"pos": "n",
+"zh": "n. 伪善 / [法] 伪善, 虚伪",
+"en": "n. an expression of agreement that is not supported by real conviction / n. insincerity by virtue of pretending to have …"
+},
+{
+"word": "captive",
+"pos": "n/a",
+"zh": "n. 俘虏, 迷恋者 / a. 被俘的, 被迷住的",
+"en": "n. an animal that is confined / n. a person held in the grip of a strong emotion or passion / s. being in captivity / s.…"
+},
+{
+"word": "cuckoo",
+"pos": "n",
+"zh": "n. 杜鹃鸟, 布谷鸟",
+"en": "n. any of numerous European and North American birds having pointed wings and a long tail / v. repeat monotonously, like…"
+},
+{
+"word": "curly",
+"pos": "a",
+"zh": "a. 拳曲的, 卷毛的, 弯曲的",
+"en": "a. (of hair) having curls or waves"
+},
+{
+"word": "duplicate",
+"pos": "n/a/vt",
+"zh": "n. 副本, 复本, 复制品 / a. 复制的, 二重的 / vt. 复制, 使加倍 / [计] 复制",
+"en": "n. a copy that corresponds to an original exactly / v. make or do or perform again / v. make a duplicate or duplicates o…"
+},
+{
+"word": "nought",
+"pos": "n",
+"zh": "n. 没有, 零, 无",
+"en": "n a mathematical element that when added to another number yields the same number"
+},
+{
+"word": "germ",
+"pos": "n",
+"zh": "n. 细菌, 种子, 生殖细胞, 根源 / [医] 芽胞, 胚, 胚芽, 病菌",
+"en": "n. a small apparently simple structure (as a fertilized egg) from which new tissue can develop into a complete organism"
+},
+{
+"word": "hysterical",
+"pos": "a",
+"zh": "a. 歇斯底里的, 异常兴奋的 / [医] 癔病的, 歇斯底里的",
+"en": "s. marked by excessive or uncontrollable emotion"
+},
+{
+"word": "drugstore",
+"pos": "n",
+"zh": "n. 药房, 杂货店",
+"en": "n. a retail shop where medicine and other articles are sold"
+},
+{
+"word": "stray",
+"pos": "n/a/vi",
+"zh": "n. 走失的家畜, 浪子 / a. 迷途的, 偶然的 / vi. 迷路, 彷徨, 流浪",
+"en": "n. an animal that has strayed (especially a domestic animal) / v. wander from a direct course or at random / s. (of an a…"
+},
+{
+"word": "digestion",
+"pos": "n",
+"zh": "n. 消化力, 领悟 / [化] 消化; 消化作用; 蒸煮; 蒸煮作用; 煮解; 浸提; 陈化",
+"en": "n. the process of decomposing organic matter (as in sewage) by bacteria or by chemical action or heat / n. the organic p…"
+},
+{
+"word": "chic",
+"pos": "n/a",
+"zh": "n. 漂亮, 别致的款式 / a. 漂亮的, 别致的",
+"en": "n. elegance by virtue of being fashionable / s. elegant and stylish"
+},
+{
+"word": "elude",
+"pos": "vt",
+"zh": "vt. 逃避, 规避, 把...难倒",
+"en": "v. escape, either physically or mentally / v. be incomprehensible to; escape understanding by"
+},
+{
+"word": "sprawl",
+"pos": "vi/vt/n",
+"zh": "vi. 伸开手足躺, 爬行, 蔓生, 蔓延 / vt. 懒散地伸开, 使蔓生, 使不规则地伸展 / n. 伸开手足躺卧姿势",
+"en": "n. an ungainly posture with arms and legs spread about / v. sit or lie with one's limbs spread out / v. go, come, or spr…"
+},
+{
+"word": "watt",
+"pos": "n",
+"zh": "n. 瓦(特) / [化] 瓦; 瓦特",
+"en": "n. a unit of power equal to 1 joule per second; the power dissipated by a current of 1 ampere flowing across a resistanc…"
+},
+{
+"word": "nave",
+"pos": "n",
+"zh": "n. (教堂)中殿, 中央广场, 轮毂 / [机] 轮毂",
+"en": "n. the central area of a church"
+},
+{
+"word": "overflow",
+"pos": "n/v",
+"zh": "n. 溢值, 超值, 泛滥 / v. (使)泛滥, (使)溢出, (使)充溢 / [计] 上溢; 溢出",
+"en": "n. the occurrence of surplus liquid (as water) exceeding the limit or capacity / v. flow or run over (a limit or brim)"
+},
+{
+"word": "grunt",
+"pos": "vi/vt/n",
+"zh": "vi. 作呼噜声 / vt. 咕哝 / n. 呼噜声, 咕哝",
+"en": "n. the short low gruff noise of the kind made by hogs / n. an unskilled or low-ranking soldier or other worker / n. medi…"
+},
+{
+"word": "stiffly",
+"pos": "adv",
+"zh": "adv. 呆板地, 顽固地, 僵硬地",
+"en": "r. in a stiff manner"
+},
+{
+"word": "bibliography",
+"pos": "n",
+"zh": "n. 参考书目 / [计] 书目; 文献目录",
+"en": "n. a list of writings with time and place of publication (such as the writings of a single author or the works referred …"
+},
+{
+"word": "carton",
+"pos": "n",
+"zh": "n. 硬纸盒, 纸板箱 / [化] 卡纸",
+"en": "n. the quantity contained in a carton / n. a box made of cardboard; opens by flaps on top"
+},
+{
+"word": "engender",
+"pos": "vt/vi",
+"zh": "vt. 产生, 引起 / vi. 发生, 形成",
+"en": "v. call forth"
+},
+{
+"word": "grandma",
+"pos": "n",
+"zh": "n. 奶奶, 外婆",
+"en": "n. the mother of your father or mother"
+},
+{
+"word": "artisan",
+"pos": "n",
+"zh": "n. 工匠, 技工 / [经] 熟练技术工, 匠人",
+"en": "n a skilled worker who practices some trade or handicraft"
+},
+{
+"word": "dissertation",
+"pos": "n",
+"zh": "n. 论文",
+"en": "n. a treatise advancing a new point of view resulting from research; usually a requirement for an advanced academic degr…"
+},
+{
+"word": "metabolism",
+"pos": "n",
+"zh": "n. 新陈代谢, 变态 / [化] 新陈代谢; 代谢",
+"en": "n. the organic processes (in a cell or organism) that are necessary for life"
+},
+{
+"word": "daisy",
+"pos": "n/a",
+"zh": "n. 雏菊, 一流人物 / a. 第一流的",
+"en": "n. any of numerous composite plants having flower heads with well-developed ray flowers usually arranged in a single who…"
+},
+{
+"word": "infusion",
+"pos": "n",
+"zh": "n. 注入, 泡制, 注入物 / [化] 浸渍; 浸泡",
+"en": "n. a solution obtained by steeping or soaking a substance (usually in water) / n. the process of extracting certain acti…"
+},
+{
+"word": "shriek",
+"pos": "n/vi/vt",
+"zh": "n. 尖锐的响声 / vi. 尖叫, 发尖声 / vt. 尖声发出",
+"en": "v. utter a shrill cry"
+},
+{
+"word": "opaque",
+"pos": "n/a",
+"zh": "n. 不透明物 / a. 不透明的, 不传热的, 不传导的, 阴暗的 / [计] 白底",
+"en": "a. not transmitting or reflecting light or radiant energy; impenetrable to sight / s. not clearly understood or expresse…"
+},
+{
+"word": "nausea",
+"pos": "n",
+"zh": "n. 反胃, 晕船, 恶心, 厌恶 / [医] 恶心",
+"en": "n. the state that precedes vomiting / n. disgust so strong it makes you feel sick"
+},
+{
+"word": "optics",
+"pos": "n",
+"zh": "n. 光学 / [化] 光学",
+"en": "n. the branch of physics that studies the physical properties of light / n. optical properties"
+},
+{
+"word": "emancipation",
+"pos": "n",
+"zh": "n. 释放, 解放 / [医] 解放(胎儿在母体内成立局部自主状态)",
+"en": "n. freeing someone from the control of another; especially a parent's relinquishing authority and control over a minor c…"
+},
+{
+"word": "numb",
+"pos": "a/vt",
+"zh": "a. 麻木的, 失去知觉的 / vt. 使麻木, 使昏迷, 使失去知觉",
+"en": "v. make numb or insensitive / s. so frightened as to be unable to move; stunned or paralyzed with terror; petrified"
+},
+{
+"word": "psychoanalysis",
+"pos": "n",
+"zh": "n. 心理分析 / [医] 精神分析",
+"en": "n. a set of techniques for exploring underlying motives and a method of treating various mental disorders; based on the …"
+},
+{
+"word": "yen",
+"pos": "n/vi",
+"zh": "n. 日元(日本货币单位), 渴望, 嗜好 / vi. 渴望",
+"en": "n. the basic unit of money in Japan; equal to 100 sen"
+},
+{
+"word": "gleam",
+"pos": "n/vi/vt",
+"zh": "n. 光束, 微光, 反光 / vi. 闪烁, 隐约地闪现 / vt. 使发微光, 使闪烁",
+"en": "n. an appearance of reflected light / n. a flash of light (especially reflected light) / v. shine brightly, like a star …"
+},
+{
+"word": "orchid",
+"pos": "n",
+"zh": "n. 兰花, 淡紫色 / [医] 兰科植物",
+"en": "n. any of numerous plants of the orchid family usually having flowers of unusual shapes and beautiful colors"
+},
+{
+"word": "miraculous",
+"pos": "a",
+"zh": "a. 奇迹的, 不可思议的",
+"en": "s being or having the character of a miracle / s peculiarly fortunate or appropriate; as if by divine intervention"
+},
+{
+"word": "humiliate",
+"pos": "vt",
+"zh": "vt. 使丢脸, 使蒙羞, 屈辱",
+"en": "v. cause to feel shame; hurt the pride of"
+},
+{
+"word": "pronoun",
+"pos": "n",
+"zh": "n. 代词",
+"en": "n. a function word that is used in place of a noun or noun phrase"
+},
+{
+"word": "tyranny",
+"pos": "n",
+"zh": "n. 专制, 暴政 / [法] 苛政, 暴政, 专横",
+"en": "n a form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or oppositio…"
+},
+{
+"word": "heavenly",
+"pos": "a",
+"zh": "a. 天上的, 神圣的, 天国似的",
+"en": "a. of or belonging to heaven or god"
+},
+{
+"word": "scurry",
+"pos": "vi/n",
+"zh": "vi. 急赶, 急跑, 急转 / n. 急赶, 急跑, 急转, 阵雪, 阵雨",
+"en": "v. to move about or proceed hurriedly"
+},
+{
+"word": "gangster",
+"pos": "n",
+"zh": "n. 流氓, 歹徒 / [法] 暴徒, 恶棍, 打手",
+"en": "n. a criminal who is a member of gang"
+},
+{
+"word": "assemblage",
+"pos": "n",
+"zh": "n. 集合, 装配, 一群人 / [法] 配合, 集合, 集合物",
+"en": "n a group of persons together in one place / n a system of components assembled together for a particular purpose / n th…"
+},
+{
+"word": "sterile",
+"pos": "a",
+"zh": "a. 不毛的, 不孕的, 无菌的, 贫瘠的, 无效的, 枯燥的 / [医] 无菌的, 消毒的; 不育的",
+"en": "a. incapable of reproducing / s. deficient in originality or creativity; lacking powers of invention"
+},
+{
+"word": "multilateral",
+"pos": "a",
+"zh": "a. 多边的, 多国的 / [经] 多边的, 涉及多方的",
+"en": "a. having many parts or sides"
+},
+{
+"word": "extinct",
+"pos": "a",
+"zh": "a. 熄灭的, 灭绝的, 耗尽的 / [法] 消灭了的, 过时的, 无效的",
+"en": "a. no longer in existence; lost or especially having died out leaving no living representatives / a. (of e.g. volcanos) …"
+},
+{
+"word": "muted",
+"pos": "a",
+"zh": "a. 变弱了的, 变柔和了的",
+"en": "v deaden (a sound or noise), especially by wrapping / s in a softened tone / s being or made softer or less loud or clea…"
+},
+{
+"word": "unilateral",
+"pos": "a",
+"zh": "a. 单方面的, 单边的, 片面的 / [医] 单侧的, 一侧的",
+"en": "a. involving only one part or side / s. tracing descent from either the paternal or the maternal line only"
+},
+{
+"word": "gorilla",
+"pos": "n",
+"zh": "n. 大猩猩, 残暴的男人, 歹徒",
+"en": "n. largest anthropoid ape; terrestrial and vegetarian; of forests of central west Africa"
+},
+{
+"word": "assimilation",
+"pos": "n",
+"zh": "n. 同化, 同化作用, 吸收 / [化] 同化; 同化作用",
+"en": "n. the state of being assimilated; people of different backgrounds come to see themselves as part of a larger national f…"
+},
+{
+"word": "futile",
+"pos": "a",
+"zh": "a. 无用的, 琐细的, 不重要的",
+"en": "s. producing no result or effect"
+},
+{
+"word": "ferret",
+"pos": "n/vt/vi",
+"zh": "n. 白鼬, 雪貂, 侦探 / vt. 用雪貂打猎, 搜出, 驱出 / vi. 搜索",
+"en": "n. domesticated albino variety of the European polecat bred for hunting rats and rabbits / v. hound or harry relentlessl…"
+},
+{
+"word": "salty",
+"pos": "a",
+"zh": "a. 有盐分的, 咸味浓的, 海洋的, 辛辣的, 有经验的",
+"en": "a. containing or filled with salt / s. one of the four basic taste sensations; like the taste of sea water"
+},
+{
+"word": "idol",
+"pos": "n",
+"zh": "n. 偶像, 崇拜物, 宠儿, 幻象, 谬论",
+"en": "n. a material effigy that is worshipped / n. someone who is adored blindly and excessively"
+},
+{
+"word": "reshape",
+"pos": "vt/vi",
+"zh": "vt. 改造, 使成新的形状, 打开新局面 / vt. 整形 / vi. 整形 / [计] 整形",
+"en": "v. shape anew or differently / v. shape again or shape differently"
+},
+{
+"word": "refinery",
+"pos": "n",
+"zh": "n. 精炼厂 / [化] 精炼厂炼糖厂",
+"en": "n. an industrial plant for purifying a crude substance"
+},
+{
+"word": "ordinarily",
+"pos": "adv",
+"zh": "adv. 通常, 普通, 一般地",
+"en": "r under normal conditions"
+},
+{
+"word": "neutron",
+"pos": "n",
+"zh": "n. 中子 / [化] 中子",
+"en": "n. an elementary particle with 0 charge and mass about equal to a proton; enters into the structure of the atomic nucleu…"
+},
+{
+"word": "hustle",
+"pos": "n/vt/vi",
+"zh": "n. 心碌, 挤, 推, 拥挤喧嚷 / vt. 催促, 乱挤活动, 硬逼, 强夺 / vi. 赶紧, 硬挤过去",
+"en": "v. cause to move furtively and hurriedly / v. sell something to or obtain something from by energetic and especially und…"
+},
+{
+"word": "neuron",
+"pos": "n",
+"zh": "n. 神经原, 轴索, 神经细胞 / [计] 神经元",
+"en": "n a cell that is specialized to conduct nerve impulses"
+},
+{
+"word": "outlaw",
+"pos": "n/vt",
+"zh": "n. 被剥夺法律保护的人, 罪犯 / vt. 使...失去法律保护, 将...逐出社会, 宣告非法, 取缔",
+"en": "v. declare illegal; outlaw"
+},
+{
+"word": "cripple",
+"pos": "n/vt/a",
+"zh": "n. 跛者, 残废 / vt. 使跛, 使成残废, 削弱 / a. 跛的, 残废的",
+"en": "n. someone who is unable to walk normally because of an injury or disability to the legs or back / v. deprive of strengt…"
+},
+{
+"word": "braid",
+"pos": "n/vt",
+"zh": "n. 辫子, 穗带 / vt. 编成辫, 镶边",
+"en": "n. a hairdo formed by braiding or twisting the hair / n. trimming used to decorate clothes or curtains / v. make by brai…"
+},
+{
+"word": "shady",
+"pos": "a",
+"zh": "a. 荫凉的, 成荫的, 阴暗的, 隐蔽的 / [法] 成问题的, 令人怀疑的",
+"en": "s. filled with shade"
+},
+{
+"word": "waver",
+"pos": "n/vi",
+"zh": "n. 动摇, 踌躇, 挥动者 / vi. 摇摆, 颤抖, 摆动, 摇曳, 犹豫",
+"en": "n. someone who communicates by waving / n. the act of moving back and forth / v. sway to and fro"
+},
+{
+"word": "salient",
+"pos": "a/n",
+"zh": "a. 显著的, 突出的, 跳跃的 / n. 凸角, 突出部分",
+"en": "n. (military) the part of the line of battle that projects closest to the enemy / a. (of angles) pointing outward at an …"
+},
+{
+"word": "carcass",
+"pos": "n",
+"zh": "n. 尸体 / [医] 屠体(宰后除脏的畜体)",
+"en": "n the dead body of an animal especially one slaughtered and dressed for food"
+},
+{
+"word": "magician",
+"pos": "n",
+"zh": "n. 魔术家, 幻术家, 术士",
+"en": "n. someone who performs magic tricks to amuse an audience"
+},
+{
+"word": "prophecy",
+"pos": "n",
+"zh": "n. 预言, 预言能力",
+"en": "n. knowledge of the future (usually said to be obtained from a divine source) / n. a prediction uttered under divine ins…"
+},
+{
+"word": "bandage",
+"pos": "n",
+"zh": "n. 绷带 / [化] 帘布筒; 实心轮胎; 紧带; 绷带",
+"en": "n. a piece of soft material that covers and protects an injured part of the body / v. dress by covering or binding"
+},
+{
+"word": "hoist",
+"pos": "n/v",
+"zh": "n. 升高, 起重机, 推动 / v. 升起, 升高, 举起",
+"en": "n. lifting device for raising heavy or cumbersome objects / v. raise or haul up with or as if with mechanical help / v. …"
+},
+{
+"word": "tangle",
+"pos": "n/vt/vi",
+"zh": "n. 缠结, 纠结的一团, 困惑, 纠纷, 混乱 / vt. 使缠结, 缠住 / vi. 缠结, 乱作一团",
+"en": "n. a twisted and tangled mass that is highly interwoven / n. something jumbled or confused"
+},
+{
+"word": "jagged",
+"pos": "a",
+"zh": "a. 锯齿状的 / [电] 锯齿形的",
+"en": "s. having a sharply uneven surface or outline"
+},
+{
+"word": "lapse",
+"pos": "n/vi/vt",
+"zh": "n. 过失, 流逝, 失效 / vi. 犯错, 堕落, 减退, 消失, 流逝 / vt. 使失效",
+"en": "n. a break or intermission in the occurrence of something / v. end, at least for a long time / v. drop to a lower level,…"
+},
+{
+"word": "aggravate",
+"pos": "vt",
+"zh": "vt. 使恶化, 使更严重, 加重",
+"en": "v make worse / v exasperate or irritate"
+},
+{
+"word": "paralyse",
+"pos": "vt",
+"zh": "vt. 使麻痹, 使瘫痪, 使无力, 使气馁, 终止 / [医] 使麻痹, 使瘫痪",
+"en": "v make powerless and unable to function / v cause to be paralyzed and immobile"
+},
+{
+"word": "utmost",
+"pos": "n/a",
+"zh": "n. 极限, 最大限度, 极度 / a. 极度的, 最远的",
+"en": "n. the greatest possible degree"
+},
+{
+"word": "obstruct",
+"pos": "vt/vi",
+"zh": "vt. 阻隔, 妨碍, 阻塞, 遮没 / vi. 设障碍",
+"en": "v. hinder or prevent the progress or accomplishment of / v. block passage through / v. shut out from view or get in the …"
+},
+{
+"word": "depress",
+"pos": "vt",
+"zh": "vt. 使沮丧, 压低, 降低, 使萧条 / [化] 推下",
+"en": "v. lower someone's spirits; make downhearted / v. lower (prices or markets) / v. lessen the activity or force of"
+},
+{
+"word": "override",
+"pos": "vt",
+"zh": "vt. 推翻, 无视, 对...有最后发言权, 制服, 践踏, 奔越过 / [经] 代理佣金, 代销佣金",
+"en": "n. a manually operated device to correct the operation of an automatic device / v. prevail over / v. counteract the norm…"
+},
+{
+"word": "notch",
+"pos": "n/vt",
+"zh": "n. 刻痕, 等级, 峡谷 / vt. 刻凹痕, 用刻痕计算, 赢得",
+"en": "n. a V-shaped indentation / n. a V-shaped or U-shaped indentation carved or scratched into a surface / n. a small cut / …"
+},
+{
+"word": "attentive",
+"pos": "a",
+"zh": "a. 注意的, 留心的",
+"en": "a. (often followed by `to') giving care or attention"
+},
+{
+"word": "perish",
+"pos": "vi/vt",
+"zh": "vi. 毁灭, 丧生, 凋谢, 颓丧, 死亡, 腐烂 / vt. 毁坏, 使麻木, 使丧生, 耗尽",
+"en": "v pass from physical life and lose all bodily attributes and functions necessary to sustain life"
+},
+{
+"word": "hectic",
+"pos": "a/n",
+"zh": "a. 脸上发红, 发热的, 潮热的, 肺病的 / n. 脸红, 潮热病人",
+"en": "s marked by intense agitation or emotion"
+},
+{
+"word": "emigrate",
+"pos": "v",
+"zh": "v. (使)移居, (使)移民",
+"en": "v. leave one's country of residence for a new one"
+},
+{
+"word": "haste",
+"pos": "n",
+"zh": "n. 匆忙, 急忙",
+"en": "n. overly eager speed (and possible carelessness) / n. the act of moving hurriedly and in a careless manner"
+},
+{
+"word": "surname",
+"pos": "n/vt",
+"zh": "n. 姓, 别号, 绰号 / vt. 呼以姓氏, 起绰号",
+"en": "n. the name used to identify the members of a family (as distinguished from each member's given name)"
+},
+{
+"word": "deflect",
+"pos": "vt/vi",
+"zh": "vt. 转移, 使偏斜 / vi. 偏斜",
+"en": "v. turn from a straight course, fixed direction, or line of interest / v. turn aside and away from an initial or intende…"
+},
+{
+"word": "anthem",
+"pos": "n",
+"zh": "n. 圣歌, 赞美诗",
+"en": "n. a song of devotion or loyalty (as to a nation or school)"
+},
+{
+"word": "vanity",
+"pos": "n",
+"zh": "n. 虚荣心, 虚无, 自负, 空虚, 时髦的小摆饰",
+"en": "n. the quality of being valueless or futile"
+},
+{
+"word": "limp",
+"pos": "n/a/vi",
+"zh": "n. 跛行 / a. 柔软的, 无力的, 软弱的 / vi. 跛行",
+"en": "v. walk impeded by some physical limitation or injury / v. proceed slowly or with difficulty / s. not firm / s. lacking …"
+},
+{
+"word": "meagre",
+"pos": "a",
+"zh": "a. 瘦的, 不毛的, 贫乏的, 贫弱的, 少量的, 力量不够的, 质不高的, 量不足的",
+"en": "a deficient in amount or quality or extent"
+},
+{
+"word": "traveling",
+"pos": "a",
+"zh": "a. 旅行的, 旅行用的, 移动的",
+"en": "n the act of going from one place to another / v change location; move, travel, or proceed, also metaphorically / v unde…"
+},
+{
+"word": "ludicrous",
+"pos": "a",
+"zh": "a. 可笑的, 滑稽的, 荒唐的",
+"en": "s broadly or extravagantly humorous; resembling farce / s incongruous; inviting ridicule"
+}
+]

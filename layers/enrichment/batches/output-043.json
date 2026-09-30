@@ -1,0 +1,1758 @@
+{
+"protocol": {
+"gloss": "协议，规程；(外交)礼仪；(实验、治疗)方案",
+"trap": "",
+"root": {
+"key": "proto",
+"meaning": "第一，最初",
+"match": "proto"
+},
+"confusable": [],
+"synonyms": [
+"procedure",
+"convention",
+"etiquette"
+],
+"antonyms": []
+},
+"profitable": {
+"gloss": "有利可图的，赚钱的；有益的",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"lucrative",
+"rewarding",
+"beneficial"
+],
+"antonyms": [
+"unprofitable"
+]
+},
+"vocal": {
+"gloss": "直言的，公开表态的；嗓音的；n. 声乐部分",
+"trap": "常用义是“公开发声、直言不讳”(a vocal critic)，不只是“声音的”",
+"root": {
+"key": "voc",
+"meaning": "声音/叫",
+"match": "voc"
+},
+"confusable": [
+"vocational",
+"focal"
+],
+"synonyms": [
+"outspoken",
+"oral"
+],
+"antonyms": [
+"silent",
+"quiet"
+]
+},
+"deprive": {
+"gloss": "剥夺，使丧失(deprive sb of)",
+"trap": "",
+"root": {
+"key": "priv",
+"meaning": "单独，剥夺",
+"match": "priv"
+},
+"confusable": [
+"derive",
+"deprave"
+],
+"synonyms": [
+"strip",
+"dispossess",
+"deny"
+],
+"antonyms": [
+"provide",
+"endow"
+]
+},
+"warehouse": {
+"gloss": "仓库，货栈；(数据)仓库",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"storehouse",
+"depot",
+"storeroom"
+],
+"antonyms": []
+},
+"openly": {
+"gloss": "公开地，坦率地",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"publicly",
+"frankly",
+"candidly"
+],
+"antonyms": [
+"secretly",
+"covertly"
+]
+},
+"tyre": {
+"gloss": "(英式)轮胎(=美式 tire)",
+"trap": "英式拼写，美式为 tire；与 tire“使疲倦”同音",
+"root": null,
+"confusable": [
+"tire",
+"tier"
+],
+"synonyms": [
+"tire"
+],
+"antonyms": []
+},
+"drown": {
+"gloss": "淹死，溺死；淹没；(声音)盖过(drown out)",
+"trap": "",
+"root": null,
+"confusable": [
+"drawn",
+"drone"
+],
+"synonyms": [
+"submerge",
+"flood",
+"engulf"
+],
+"antonyms": []
+},
+"terrain": {
+"gloss": "地形，地势；地带",
+"trap": "",
+"root": {
+"key": "terr",
+"meaning": "土地",
+"match": "terr"
+},
+"confusable": [
+"terrace",
+"tureen"
+],
+"synonyms": [
+"landscape",
+"topography",
+"ground"
+],
+"antonyms": []
+},
+"bucket": {
+"gloss": "桶，水桶；一桶(的量)；(计算)存储桶",
+"trap": "",
+"root": null,
+"confusable": [
+"buckle",
+"budget"
+],
+"synonyms": [
+"pail"
+],
+"antonyms": []
+},
+"risky": {
+"gloss": "有风险的，冒险的",
+"trap": "",
+"root": null,
+"confusable": [
+"risque"
+],
+"synonyms": [
+"dangerous",
+"hazardous",
+"perilous"
+],
+"antonyms": [
+"safe",
+"secure"
+]
+},
+"compact": {
+"gloss": "a. 紧凑的，小巧的；密实的；v. 压实；n. 协议；粉盒",
+"trap": "n. 义“协议、契约”(social compact)容易被忽略",
+"root": null,
+"confusable": [
+"compress",
+"impact"
+],
+"synonyms": [
+"dense",
+"concise",
+"condensed"
+],
+"antonyms": [
+"loose",
+"bulky",
+"spacious"
+]
+},
+"deploy": {
+"gloss": "部署，调配；(软件)发布上线；有效运用",
+"trap": "",
+"root": {
+"key": "plic",
+"meaning": "折叠",
+"match": "ploy"
+},
+"confusable": [
+"employ",
+"decoy"
+],
+"synonyms": [
+"position",
+"station",
+"utilize"
+],
+"antonyms": [
+"withdraw"
+]
+},
+"embark": {
+"gloss": "开始，着手(embark on)；上船，登机",
+"trap": "",
+"root": {
+"key": "barc",
+"meaning": "船(barca)",
+"match": "bark"
+},
+"confusable": [
+"embargo",
+"embarrass"
+],
+"synonyms": [
+"begin",
+"undertake",
+"board"
+],
+"antonyms": [
+"disembark"
+]
+},
+"genre": {
+"gloss": "(文艺作品的)类型，体裁，流派",
+"trap": "法语借词，读 /ˈʒɒnrə/；与 gender 同源(gen 种类)",
+"root": {
+"key": "gen",
+"meaning": "产生/种族",
+"match": "gen"
+},
+"confusable": [
+"gender",
+"general"
+],
+"synonyms": [
+"category",
+"type",
+"style",
+"kind"
+],
+"antonyms": []
+},
+"depart": {
+"gloss": "离开，出发；背离(depart from)；(委婉)去世",
+"trap": "",
+"root": {
+"key": "part",
+"meaning": "分开，部分",
+"match": "part"
+},
+"confusable": [
+"deport",
+"department"
+],
+"synonyms": [
+"leave",
+"exit",
+"deviate"
+],
+"antonyms": [
+"arrive",
+"stay"
+]
+},
+"distract": {
+"gloss": "分散(注意力)，使分心；使困扰",
+"trap": "distract 使分心 vs detract 减损(detract from)",
+"root": {
+"key": "tract",
+"meaning": "拉",
+"match": "tract"
+},
+"confusable": [
+"detract"
+],
+"synonyms": [
+"divert",
+"sidetrack"
+],
+"antonyms": [
+"focus",
+"concentrate"
+]
+},
+"irrelevant": {
+"gloss": "无关的，不相干的；不重要的",
+"trap": "",
+"root": {
+"key": "lev",
+"meaning": "举起/轻",
+"match": "lev"
+},
+"confusable": [
+"irreverent"
+],
+"synonyms": [
+"unrelated",
+"immaterial",
+"extraneous"
+],
+"antonyms": [
+"relevant",
+"pertinent"
+]
+},
+"planner": {
+"gloss": "规划师，策划者；日程本，记事簿",
+"trap": "",
+"root": null,
+"confusable": [
+"planer"
+],
+"synonyms": [
+"organizer",
+"scheduler",
+"strategist"
+],
+"antonyms": []
+},
+"chunk": {
+"gloss": "大块，厚块；相当大的一部分；(语言)语块",
+"trap": "",
+"root": null,
+"confusable": [
+"chuck",
+"chink"
+],
+"synonyms": [
+"lump",
+"block",
+"portion",
+"hunk"
+],
+"antonyms": []
+},
+"crude": {
+"gloss": "粗糙的，粗略的；粗俗的；未提炼的；n. 原油",
+"trap": "既指“粗鲁、粗略”也指“未加工的”，crude oil＝原油",
+"root": null,
+"confusable": [
+"cruel",
+"crux"
+],
+"synonyms": [
+"rough",
+"rudimentary",
+"vulgar",
+"raw"
+],
+"antonyms": [
+"refined",
+"sophisticated"
+]
+},
+"summon": {
+"gloss": "召集，传唤；鼓起(勇气、力气)；召唤",
+"trap": "summon up courage 鼓起勇气；名词 summons 是“传票”",
+"root": null,
+"confusable": [
+"salmon",
+"sermon"
+],
+"synonyms": [
+"convene",
+"call",
+"muster"
+],
+"antonyms": [
+"dismiss"
+]
+},
+"manufacture": {
+"gloss": "(大规模)制造，生产；n. 制造业；捏造(证据)",
+"trap": "man(手)+fac(做)，原义“手工制作”，今指机器大规模生产",
+"root": {
+"key": "fac",
+"meaning": "做",
+"match": "fac"
+},
+"confusable": [],
+"synonyms": [
+"produce",
+"fabricate",
+"make"
+],
+"antonyms": []
+},
+"jungle": {
+"gloss": "丛林，热带雨林；弱肉强食之地；杂乱之物",
+"trap": "",
+"root": null,
+"confusable": [
+"juggle",
+"jingle"
+],
+"synonyms": [
+"rainforest",
+"wilderness"
+],
+"antonyms": []
+},
+"outlet": {
+"gloss": "出口，排放口；发泄途径；专卖店，折扣店；电源插座",
+"trap": "美式 outlet 指电源插座；outlet store 是奥特莱斯折扣店",
+"root": null,
+"confusable": [
+"inlet",
+"outlay"
+],
+"synonyms": [
+"vent",
+"channel",
+"store"
+],
+"antonyms": [
+"inlet"
+]
+},
+"migration": {
+"gloss": "迁徙，移居，移民；(数据、系统)迁移",
+"trap": "",
+"root": {
+"key": "migr",
+"meaning": "迁移",
+"match": "migr"
+},
+"confusable": [
+"mitigation"
+],
+"synonyms": [
+"movement",
+"relocation",
+"exodus"
+],
+"antonyms": []
+},
+"invade": {
+"gloss": "侵略，入侵；侵扰，侵犯(隐私)；(疾病、物种)侵入",
+"trap": "",
+"root": {
+"key": "vad",
+"meaning": "走",
+"match": "vad"
+},
+"confusable": [
+"evade",
+"pervade"
+],
+"synonyms": [
+"attack",
+"occupy",
+"intrude",
+"encroach"
+],
+"antonyms": [
+"withdraw",
+"retreat"
+]
+},
+"retailer": {
+"gloss": "零售商，零售店",
+"trap": "re+tail(切)＝切成小份卖；反义 wholesale 批发",
+"root": {
+"key": "tail",
+"meaning": "切割",
+"match": "tail"
+},
+"confusable": [
+"retainer"
+],
+"synonyms": [
+"seller",
+"merchant",
+"shop"
+],
+"antonyms": [
+"wholesaler"
+]
+},
+"hurricane": {
+"gloss": "飓风(大西洋热带气旋)；风暴",
+"trap": "大西洋叫 hurricane，太平洋叫 typhoon，印度洋叫 cyclone",
+"root": null,
+"confusable": [],
+"synonyms": [
+"typhoon",
+"cyclone",
+"storm"
+],
+"antonyms": []
+},
+"passive": {
+"gloss": "被动的，消极的；顺从的；(语法)被动语态的",
+"trap": "",
+"root": {
+"key": "pass",
+"meaning": "承受，遭受(pati)",
+"match": "pass"
+},
+"confusable": [
+"pensive",
+"massive"
+],
+"synonyms": [
+"inactive",
+"submissive",
+"compliant"
+],
+"antonyms": [
+"active",
+"assertive"
+]
+},
+"interference": {
+"gloss": "干涉，干预；(信号)干扰；(物理)干涉",
+"trap": "",
+"root": {
+"key": "fer",
+"meaning": "带来",
+"match": "fer"
+},
+"confusable": [
+"inference",
+"interface"
+],
+"synonyms": [
+"intervention",
+"meddling",
+"disruption"
+],
+"antonyms": []
+},
+"curiosity": {
+"gloss": "好奇心，求知欲；珍奇之物",
+"trap": "",
+"root": {
+"key": "cur",
+"meaning": "关心/跑",
+"match": "cur"
+},
+"confusable": [
+"curio",
+"courtesy"
+],
+"synonyms": [
+"inquisitiveness",
+"interest"
+],
+"antonyms": [
+"indifference",
+"apathy"
+]
+},
+"honestly": {
+"gloss": "诚实地，坦率地；(加强语气)说实话，真的",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"truthfully",
+"frankly",
+"sincerely"
+],
+"antonyms": [
+"dishonestly"
+]
+},
+"skip": {
+"gloss": "跳过，略过；蹦跳；跳绳；逃(课)；n. (英)大垃圾箱",
+"trap": "skip class 逃课；英式 skip 还指工地用的大垃圾箱",
+"root": null,
+"confusable": [
+"skid",
+"slip"
+],
+"synonyms": [
+"omit",
+"bypass",
+"hop"
+],
+"antonyms": [
+"include",
+"attend"
+]
+},
+"ambassador": {
+"gloss": "大使；(品牌、亲善)代言人",
+"trap": "brand ambassador 品牌大使、代言人",
+"root": null,
+"confusable": [],
+"synonyms": [
+"envoy",
+"diplomat",
+"representative"
+],
+"antonyms": []
+},
+"aggression": {
+"gloss": "侵略，攻击；攻击性，好斗",
+"trap": "",
+"root": {
+"key": "grad",
+"meaning": "走/步",
+"match": "gress"
+},
+"confusable": [
+"aggregation"
+],
+"synonyms": [
+"hostility",
+"violence",
+"belligerence"
+],
+"antonyms": [
+"peacefulness",
+"passivity"
+]
+},
+"robot": {
+"gloss": "机器人；自动程序(网络爬虫)",
+"trap": "来自捷克语 robota“苦役”，1920 年剧本《R.U.R.》首创",
+"root": null,
+"confusable": [],
+"synonyms": [
+"automaton",
+"android",
+"bot"
+],
+"antonyms": []
+},
+"journalism": {
+"gloss": "新闻业，新闻工作；新闻写作",
+"trap": "",
+"root": {
+"key": "journ",
+"meaning": "日(diurnus)",
+"match": "journ"
+},
+"confusable": [],
+"synonyms": [
+"reporting",
+"press",
+"media"
+],
+"antonyms": []
+},
+"widen": {
+"gloss": "加宽，变宽；扩大(范围、差距)",
+"trap": "",
+"root": null,
+"confusable": [
+"widow"
+],
+"synonyms": [
+"broaden",
+"expand",
+"extend"
+],
+"antonyms": [
+"narrow"
+]
+},
+"ecosystem": {
+"gloss": "生态系统；(商业、科技)生态圈",
+"trap": "",
+"root": {
+"key": "eco",
+"meaning": "家，环境(oikos)",
+"match": "eco"
+},
+"confusable": [],
+"synonyms": [
+"environment",
+"habitat",
+"biome"
+],
+"antonyms": []
+},
+"revive": {
+"gloss": "复苏，复兴；使苏醒；重新采用，重演",
+"trap": "",
+"root": {
+"key": "viv",
+"meaning": "活",
+"match": "viv"
+},
+"confusable": [
+"revise",
+"review"
+],
+"synonyms": [
+"resuscitate",
+"restore",
+"rejuvenate"
+],
+"antonyms": [
+"kill",
+"suppress"
+]
+},
+"reassure": {
+"gloss": "使安心，打消疑虑",
+"trap": "不是“再保证”，是“让人放心”",
+"root": null,
+"confusable": [
+"reinsure",
+"ensure"
+],
+"synonyms": [
+"comfort",
+"soothe",
+"encourage"
+],
+"antonyms": [
+"alarm",
+"worry",
+"unsettle"
+]
+},
+"likewise": {
+"gloss": "同样地，也；(回应)我也一样",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"similarly",
+"also",
+"equally"
+],
+"antonyms": [
+"otherwise",
+"conversely"
+]
+},
+"feather": {
+"gloss": "羽毛；v. 饰以羽毛，(桨)平放",
+"trap": "birds of a feather 物以类聚",
+"root": null,
+"confusable": [
+"father",
+"fetter"
+],
+"synonyms": [
+"plume",
+"plumage"
+],
+"antonyms": []
+},
+"dip": {
+"gloss": "v. 蘸，浸；下降，下沉；n. 短暂下跌；蘸酱；游一会儿",
+"trap": "buy the dip 逢低买入；dip 也指蘸酱",
+"root": null,
+"confusable": [
+"deep"
+],
+"synonyms": [
+"dunk",
+"immerse",
+"drop",
+"decline"
+],
+"antonyms": [
+"rise",
+"surge"
+]
+},
+"transmit": {
+"gloss": "传送，传输；传播(疾病)；发射(信号)；传递(知识)",
+"trap": "",
+"root": {
+"key": "mit",
+"meaning": "送",
+"match": "mit"
+},
+"confusable": [
+"transit",
+"transmute"
+],
+"synonyms": [
+"send",
+"convey",
+"broadcast",
+"spread"
+],
+"antonyms": [
+"receive"
+]
+},
+"stall": {
+"gloss": "n. 货摊；牲畜棚，隔间；v. 停转，熄火；拖延；停滞",
+"trap": "动词常指“发动机熄火”或“拖延时间”(stall for time)",
+"root": null,
+"confusable": [
+"stale",
+"stalk",
+"install"
+],
+"synonyms": [
+"booth",
+"stand",
+"delay",
+"halt"
+],
+"antonyms": [
+"proceed",
+"advance"
+]
+},
+"boast": {
+"gloss": "自夸，吹嘘；(自豪地)拥有(a city boasts…)",
+"trap": "boast 常作“(某地)拥有、以…为傲”，不一定贬义",
+"root": null,
+"confusable": [
+"boost",
+"beast"
+],
+"synonyms": [
+"brag",
+"crow",
+"flaunt"
+],
+"antonyms": []
+},
+"plunge": {
+"gloss": "猛跌，骤降；跳入，投入；使陷入",
+"trap": "take the plunge 下定决心做(某事)",
+"root": null,
+"confusable": [
+"lunge",
+"plunder"
+],
+"synonyms": [
+"dive",
+"plummet",
+"drop",
+"thrust"
+],
+"antonyms": [
+"soar",
+"rise"
+]
+},
+"timetable": {
+"gloss": "时间表，课程表；时刻表；日程安排",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"schedule",
+"agenda",
+"itinerary"
+],
+"antonyms": []
+},
+"lid": {
+"gloss": "盖子；眼睑(eyelid)；(口)限制，控制",
+"trap": "keep a lid on 控制住；blow the lid off 揭发",
+"root": null,
+"confusable": [
+"lit"
+],
+"synonyms": [
+"cover",
+"top",
+"cap"
+],
+"antonyms": []
+},
+"excess": {
+"gloss": "过量，过度；超出部分；a. 过量的，额外的",
+"trap": "excess 过量 vs access 进入 vs assess 评估",
+"root": {
+"key": "ced",
+"meaning": "走",
+"match": "cess"
+},
+"confusable": [
+"access",
+"assess"
+],
+"synonyms": [
+"surplus",
+"overabundance",
+"surfeit"
+],
+"antonyms": [
+"shortage",
+"deficiency",
+"lack"
+]
+},
+"unfold": {
+"gloss": "(事件)展开，逐渐呈现；打开，展开；透露",
+"trap": "常用义“(故事、局势)逐渐展开”(as events unfold)",
+"root": null,
+"confusable": [
+"unfurl",
+"untold"
+],
+"synonyms": [
+"develop",
+"reveal",
+"open",
+"spread"
+],
+"antonyms": [
+"fold"
+]
+},
+"validity": {
+"gloss": "有效性，合法性；正确性，合理性",
+"trap": "",
+"root": {
+"key": "val",
+"meaning": "强/价值",
+"match": "val"
+},
+"confusable": [
+"velocity"
+],
+"synonyms": [
+"soundness",
+"legitimacy",
+"cogency"
+],
+"antonyms": [
+"invalidity"
+]
+},
+"activate": {
+"gloss": "激活，启动；使活化",
+"trap": "",
+"root": {
+"key": "act",
+"meaning": "做",
+"match": "act"
+},
+"confusable": [
+"actuate"
+],
+"synonyms": [
+"trigger",
+"launch",
+"enable"
+],
+"antonyms": [
+"deactivate",
+"disable"
+]
+},
+"suppress": {
+"gloss": "镇压，压制；抑制(情感、反应)；封锁，隐瞒",
+"trap": "suppress 压制 vs oppress 压迫 vs repress 压抑",
+"root": {
+"key": "press",
+"meaning": "压",
+"match": "press"
+},
+"confusable": [
+"oppress",
+"repress",
+"depress"
+],
+"synonyms": [
+"quell",
+"stifle",
+"restrain",
+"curb"
+],
+"antonyms": [
+"encourage",
+"express",
+"release"
+]
+},
+"immense": {
+"gloss": "巨大的，极大的",
+"trap": "im(不)+mens(测量)＝大到无法测量",
+"root": {
+"key": "mens",
+"meaning": "测量",
+"match": "mens"
+},
+"confusable": [
+"immerse"
+],
+"synonyms": [
+"huge",
+"enormous",
+"vast",
+"massive"
+],
+"antonyms": [
+"tiny",
+"minute"
+]
+},
+"arouse": {
+"gloss": "引起，激起(兴趣、怀疑)；唤醒；使性兴奋",
+"trap": "arouse 引起(情绪) vs arise 出现、发生 vs rise 上升",
+"root": null,
+"confusable": [
+"arise",
+"rouse"
+],
+"synonyms": [
+"provoke",
+"stimulate",
+"awaken",
+"evoke"
+],
+"antonyms": [
+"calm",
+"dampen"
+]
+},
+"compliance": {
+"gloss": "遵守，合规；顺从；(物理)柔量",
+"trap": "in compliance with 遵照；企业“合规部门”即此词",
+"root": {
+"key": "ple",
+"meaning": "满，完成",
+"match": "pli"
+},
+"confusable": [
+"compliment",
+"complacence"
+],
+"synonyms": [
+"conformity",
+"obedience",
+"adherence"
+],
+"antonyms": [
+"noncompliance",
+"defiance",
+"violation"
+]
+},
+"substitute": {
+"gloss": "替代品，代替者；替补队员；v. 代替",
+"trap": "substitute A for B＝用 A 代替 B，介词方向易错",
+"root": {
+"key": "sta",
+"meaning": "站立",
+"match": "stitut"
+},
+"confusable": [
+"constitute",
+"institute"
+],
+"synonyms": [
+"replacement",
+"alternative",
+"surrogate",
+"replace"
+],
+"antonyms": []
+},
+"supposedly": {
+"gloss": "据说，据称，按理说(常暗含怀疑)",
+"trap": "常带怀疑语气：“据称(其实未必)”",
+"root": {
+"key": "pos",
+"meaning": "放置",
+"match": "pos"
+},
+"confusable": [
+"presumably"
+],
+"synonyms": [
+"allegedly",
+"purportedly",
+"reportedly"
+],
+"antonyms": [
+"actually",
+"really"
+]
+},
+"clarify": {
+"gloss": "澄清，阐明，说明；使(液体)澄清",
+"trap": "",
+"root": {
+"key": "clar",
+"meaning": "清楚，明亮",
+"match": "clar"
+},
+"confusable": [
+"classify"
+],
+"synonyms": [
+"explain",
+"elucidate",
+"illuminate"
+],
+"antonyms": [
+"confuse",
+"obscure"
+]
+},
+"streak": {
+"gloss": "连胜/连败期；条纹，条痕；性格特点；v. 飞奔",
+"trap": "a winning streak 连胜；a streak of… 一丝(性格)",
+"root": null,
+"confusable": [
+"strike",
+"stroke",
+"stream"
+],
+"synonyms": [
+"stripe",
+"run",
+"trace",
+"dash"
+],
+"antonyms": []
+},
+"specialty": {
+"gloss": "专业，专长；特产，特色菜；a. 专门的",
+"trap": "美式 specialty，英式 speciality",
+"root": {
+"key": "spec",
+"meaning": "看",
+"match": "spec"
+},
+"confusable": [],
+"synonyms": [
+"forte",
+"expertise",
+"strength"
+],
+"antonyms": []
+},
+"decoration": {
+"gloss": "装饰，装饰品；勋章",
+"trap": "",
+"root": null,
+"confusable": [
+"dedication"
+],
+"synonyms": [
+"ornament",
+"adornment",
+"embellishment",
+"medal"
+],
+"antonyms": []
+},
+"glimpse": {
+"gloss": "一瞥，一眼；短暂的感受/体验；v. 瞥见",
+"trap": "glimpse 是“瞥见(无意)”；glance 是“扫一眼(有意)”",
+"root": null,
+"confusable": [
+"glance",
+"glimmer"
+],
+"synonyms": [
+"glance",
+"peek",
+"look"
+],
+"antonyms": []
+},
+"sneak": {
+"gloss": "偷偷地走/做，溜；偷带；n. 告密者；a. 突然的，暗中的",
+"trap": "过去式 snuck(美)/sneaked；sneakers 运动鞋",
+"root": null,
+"confusable": [
+"snake",
+"snack"
+],
+"synonyms": [
+"creep",
+"slip",
+"steal",
+"smuggle"
+],
+"antonyms": []
+},
+"entail": {
+"gloss": "需要，牵涉，使成为必要；n. 限定继承",
+"trap": "常考义“需要、涉及”(The job entails travel.)",
+"root": {
+"key": "tail",
+"meaning": "切割",
+"match": "tail"
+},
+"confusable": [
+"detail",
+"curtail"
+],
+"synonyms": [
+"involve",
+"require",
+"necessitate"
+],
+"antonyms": []
+},
+"monkey": {
+"gloss": "猴子；v. 胡闹，瞎摆弄(monkey with)",
+"trap": "monkey business 胡闹、欺骗",
+"root": null,
+"confusable": [
+"money",
+"monk"
+],
+"synonyms": [
+"primate",
+"ape"
+],
+"antonyms": []
+},
+"artifact": {
+"gloss": "人工制品，(考古)文物；(实验、影像中的)伪影，假象",
+"trap": "科研中 artifact 指测量/图像中的“伪影、人为假象”",
+"root": {
+"key": "fac",
+"meaning": "做",
+"match": "fac"
+},
+"confusable": [
+"artifice"
+],
+"synonyms": [
+"relic",
+"object",
+"antiquity"
+],
+"antonyms": []
+},
+"motorway": {
+"gloss": "(英)高速公路",
+"trap": "英式 motorway ＝ 美式 freeway/expressway",
+"root": {
+"key": "mov",
+"meaning": "动",
+"match": "mot"
+},
+"confusable": [],
+"synonyms": [
+"highway",
+"freeway",
+"expressway"
+],
+"antonyms": []
+},
+"listener": {
+"gloss": "听者，听众(广播)；(编程)监听器",
+"trap": "",
+"root": null,
+"confusable": [],
+"synonyms": [
+"audience",
+"hearer"
+],
+"antonyms": [
+"speaker"
+]
+},
+"mentor": {
+"gloss": "导师，良师益友；v. 指导，辅导",
+"trap": "源自《奥德赛》中的智者 Mentor；被指导者是 mentee",
+"root": {
+"key": "ment",
+"meaning": "心智",
+"match": "ment"
+},
+"confusable": [
+"mention",
+"monitor"
+],
+"synonyms": [
+"adviser",
+"guide",
+"coach",
+"tutor"
+],
+"antonyms": [
+"mentee"
+]
+},
+"lightning": {
+"gloss": "闪电；a. 闪电般的，极快的",
+"trap": "lightning 闪电 vs lightening 减轻、变亮",
+"root": null,
+"confusable": [
+"lightening",
+"lighting"
+],
+"synonyms": [
+"bolt",
+"flash"
+],
+"antonyms": []
+},
+"strand": {
+"gloss": "(线、绳的)一股；(问题的)一个方面；v. 使滞留，搁浅",
+"trap": "be stranded 被困、滞留(航班取消等)",
+"root": null,
+"confusable": [
+"stand",
+"strain"
+],
+"synonyms": [
+"thread",
+"fiber",
+"element",
+"maroon"
+],
+"antonyms": []
+},
+"legally": {
+"gloss": "合法地；法律上，依法",
+"trap": "",
+"root": {
+"key": "leg",
+"meaning": "法律/选择/读",
+"match": "leg"
+},
+"confusable": [],
+"synonyms": [
+"lawfully",
+"legitimately"
+],
+"antonyms": [
+"illegally"
+]
+},
+"occurrence": {
+"gloss": "发生的事，事件；发生，出现(的频率)",
+"trap": "拼写：双 c 双 r，occurrence",
+"root": {
+"key": "cur",
+"meaning": "关心/跑",
+"match": "cur"
+},
+"confusable": [],
+"synonyms": [
+"event",
+"incident",
+"happening",
+"instance"
+],
+"antonyms": []
+},
+"layout": {
+"gloss": "布局，版面设计；平面布置图；(网页)排版",
+"trap": "",
+"root": null,
+"confusable": [
+"outlay"
+],
+"synonyms": [
+"arrangement",
+"design",
+"format"
+],
+"antonyms": []
+},
+"injection": {
+"gloss": "注射，注射剂；(资金)注入；(计算)注入攻击",
+"trap": "",
+"root": {
+"key": "ject",
+"meaning": "投掷",
+"match": "ject"
+},
+"confusable": [
+"injunction"
+],
+"synonyms": [
+"shot",
+"jab",
+"infusion"
+],
+"antonyms": []
+},
+"compile": {
+"gloss": "汇编，编纂，收集整理；(计算)编译",
+"trap": "compile 收集整理(a list/report)；编程中指“编译”",
+"root": null,
+"confusable": [
+"comply",
+"complete"
+],
+"synonyms": [
+"assemble",
+"collect",
+"gather",
+"compose"
+],
+"antonyms": []
+},
+"independently": {
+"gloss": "独立地，自主地；各自地，互不相关地",
+"trap": "",
+"root": {
+"key": "pend",
+"meaning": "悬挂/称重",
+"match": "pend"
+},
+"confusable": [],
+"synonyms": [
+"autonomously",
+"separately",
+"alone"
+],
+"antonyms": [
+"dependently",
+"jointly"
+]
+},
+"rib": {
+"gloss": "肋骨；肋状物，(伞、船)骨架；v. 取笑，逗弄",
+"trap": "",
+"root": null,
+"confusable": [
+"rip",
+"rub"
+],
+"synonyms": [],
+"antonyms": []
+},
+"bored": {
+"gloss": "感到无聊的，厌倦的",
+"trap": "bored 感到无聊 vs boring 令人无聊；bored with/by",
+"root": null,
+"confusable": [
+"board"
+],
+"synonyms": [
+"uninterested",
+"weary",
+"jaded"
+],
+"antonyms": [
+"interested",
+"excited"
+]
+},
+"thereafter": {
+"gloss": "此后，之后",
+"trap": "",
+"root": null,
+"confusable": [
+"hereafter",
+"thereby"
+],
+"synonyms": [
+"afterwards",
+"subsequently",
+"thereupon"
+],
+"antonyms": [
+"before",
+"previously"
+]
+},
+"dreadful": {
+"gloss": "糟糕的，极差的；可怕的，令人恐惧的",
+"trap": "口语中多指“糟糕透了”(a dreadful mistake)，未必“恐怖”",
+"root": null,
+"confusable": [
+"dreary"
+],
+"synonyms": [
+"terrible",
+"awful",
+"horrible",
+"appalling"
+],
+"antonyms": [
+"wonderful",
+"delightful"
+]
+},
+"bang": {
+"gloss": "n. 巨响；猛击；(美)刘海；v. 猛敲；adv. 正好",
+"trap": "bang on 恰好、正中；Big Bang 宇宙大爆炸",
+"root": null,
+"confusable": [
+"bank"
+],
+"synonyms": [
+"boom",
+"blast",
+"slam",
+"crash"
+],
+"antonyms": []
+},
+"debris": {
+"gloss": "碎片，残骸；废墟，垃圾",
+"trap": "读 /ˈdebriː/，词尾 s 不发音(法语借词)",
+"root": null,
+"confusable": [
+"debit",
+"debrief"
+],
+"synonyms": [
+"rubble",
+"wreckage",
+"remains",
+"litter"
+],
+"antonyms": []
+},
+"kilometre": {
+"gloss": "公里，千米(英式拼写，美式 kilometer)",
+"trap": "英式 -metre，美式 -meter",
+"root": {
+"key": "metr",
+"meaning": "测量",
+"match": "metr"
+},
+"confusable": [],
+"synonyms": [],
+"antonyms": []
+},
+"slavery": {
+"gloss": "奴隶制；奴役，奴隶身份；苦役",
+"trap": "slave 源于中世纪被大量奴役的 Slav(斯拉夫人)",
+"root": null,
+"confusable": [],
+"synonyms": [
+"bondage",
+"servitude",
+"enslavement"
+],
+"antonyms": [
+"freedom",
+"liberty",
+"emancipation"
+]
+},
+"fling": {
+"gloss": "v. (用力)扔，抛；猛地移动；n. 短暂恋情；尽情放纵",
+"trap": "n. 义“短暂恋情/放纵”(a holiday fling)常被忽略",
+"root": null,
+"confusable": [
+"flint",
+"cling",
+"sling"
+],
+"synonyms": [
+"hurl",
+"toss",
+"throw",
+"cast"
+],
+"antonyms": []
+},
+"worship": {
+"gloss": "崇拜，敬奉；做礼拜；(对人)极度崇拜",
+"trap": "worth(价值)+ship：赋予价值即“崇拜”",
+"root": null,
+"confusable": [
+"warship",
+"workshop"
+],
+"synonyms": [
+"revere",
+"adore",
+"venerate",
+"idolize"
+],
+"antonyms": [
+"despise",
+"scorn"
+]
+},
+"ash": {
+"gloss": "灰，灰烬；(火山)灰；白蜡树",
+"trap": "ashes 也指骨灰；Ash Wednesday 圣灰星期三",
+"root": null,
+"confusable": [
+"ache"
+],
+"synonyms": [
+"cinders",
+"embers",
+"residue"
+],
+"antonyms": []
+},
+"beneficial": {
+"gloss": "有益的，有利的",
+"trap": "≠beneficent 行善的、beneficiary 受益人",
+"root": {
+"key": "bene",
+"meaning": "好",
+"match": "bene"
+},
+"confusable": [
+"beneficent"
+],
+"synonyms": [
+"advantageous",
+"helpful",
+"favorable",
+"useful"
+],
+"antonyms": [
+"harmful",
+"detrimental"
+]
+},
+"cure": {
+"gloss": "n. 疗法；解决办法；v. 治愈；解决；腌制，熏制；固化",
+"trap": "cure 也指腌制/熏制食物(cured ham)和树脂固化",
+"root": {
+"key": "cur",
+"meaning": "关心/跑",
+"match": "cur"
+},
+"confusable": [
+"curb",
+"curl"
+],
+"synonyms": [
+"remedy",
+"heal",
+"treatment",
+"fix"
+],
+"antonyms": []
+},
+"revision": {
+"gloss": "修订，修改；修订版；(英)复习(备考)",
+"trap": "英式 revision/revise 常指“复习功课”，不是“修改”",
+"root": {
+"key": "vis",
+"meaning": "看",
+"match": "vis"
+},
+"confusable": [
+"vision",
+"division"
+],
+"synonyms": [
+"amendment",
+"modification",
+"review",
+"editing"
+],
+"antonyms": []
+},
+"thrust": {
+"gloss": "n. 主旨，要点；推力；v. 猛推，塞；强加",
+"trap": "the thrust of an argument＝论点主旨；过去式同形",
+"root": null,
+"confusable": [
+"trust",
+"thirst"
+],
+"synonyms": [
+"push",
+"shove",
+"drive",
+"gist"
+],
+"antonyms": [
+"pull",
+"drag"
+]
+},
+"hunger": {
+"gloss": "饥饿；饥荒；渴望；v. 渴望(hunger for)",
+"trap": "",
+"root": null,
+"confusable": [
+"hanger",
+"hunker"
+],
+"synonyms": [
+"starvation",
+"famine",
+"craving",
+"appetite"
+],
+"antonyms": [
+"satiety",
+"fullness"
+]
+},
+"amend": {
+"gloss": "修正，修订(法律、文件)；改进",
+"trap": "amend 修订(法案) vs emend 校订(文本) vs mend 修补",
+"root": {
+"key": "mend",
+"meaning": "缺点，错误(menda)",
+"match": "mend"
+},
+"confusable": [
+"emend",
+"mend",
+"commend"
+],
+"synonyms": [
+"revise",
+"modify",
+"alter",
+"correct"
+],
+"antonyms": []
+},
+"comparative": {
+"gloss": "比较的，相对的；n. (语法)比较级",
+"trap": "comparative 比较的 vs comparable 可比的、相当的",
+"root": {
+"key": "par",
+"meaning": "相等",
+"match": "par"
+},
+"confusable": [
+"competitive"
+],
+"synonyms": [
+"relative"
+],
+"antonyms": [
+"absolute",
+"superlative"
+]
+},
+"cemetery": {
+"gloss": "墓地，公墓",
+"trap": "拼写 -tery 不是 -tary；希腊语原义“睡觉的地方”",
+"root": null,
+"confusable": [
+"symmetry"
+],
+"synonyms": [
+"graveyard",
+"churchyard",
+"necropolis"
+],
+"antonyms": []
+}
+}

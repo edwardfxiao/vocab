@@ -1,0 +1,602 @@
+[
+{
+"word": "fig",
+"pos": "n/vt",
+"zh": "n. 无花果, 无价值的东西, 少许, 服装 / vt. 打扮, 使马跑快",
+"en": "n. Mediterranean tree widely cultivated for its edible fruit / n. fleshy sweet pear-shaped yellowish or purple multiple …"
+},
+{
+"word": "anymore",
+"pos": "adv",
+"zh": "adv. 再也不, 不再",
+"en": "r. at the present or from now on; usually used with a negative"
+},
+{
+"word": "judgment",
+"pos": "n",
+"zh": "n. 裁判, 宣告, 判决书 / [医] 判断",
+"en": "n. an opinion formed by judging something / n. the act of judging or assessing a person or situation or event / n. (law)…"
+},
+{
+"word": "parish",
+"pos": "n",
+"zh": "n. 教区, 堂区 / [法] 救贫区, 教区",
+"en": "n. a local church community / n. the local subdivision of a diocese committed to one pastor"
+},
+{
+"word": "bob",
+"pos": "vt/vi/n",
+"zh": "vt. 剪短, 敲击 / vi. 振动, 上下跳动 / n. 短发, 悬挂的饰品, 浮子, 摆动, 轻敲, 5便士",
+"en": "n. a hair style for women and children; a short haircut all around / n. a hanging weight, especially a metal ball on a s…"
+},
+{
+"word": "shareholder",
+"pos": "n",
+"zh": "n. 股东 / [法] 股东, 股票持有人",
+"en": "n someone who holds shares of stock in a corporation"
+},
+{
+"word": "statutory",
+"pos": "a",
+"zh": "a. 法令的, 法定的, 可依法惩处的 / [经] 法定的",
+"en": "a. relating to or created by statutes / s. prescribed or authorized by or punishable under a statute"
+},
+{
+"word": "tablespoon",
+"pos": "n",
+"zh": "n. 大汤匙 / [医] 汤匙, 大匙(15毫升)",
+"en": "n. as much as a tablespoon will hold / n. a spoon larger than a dessert spoon; used for serving"
+},
+{
+"word": "teaspoon",
+"pos": "n",
+"zh": "n. 茶匙 / [医] 茶匙(4毫升)",
+"en": "n. as much as a teaspoon will hold / n. a small spoon used for stirring tea or coffee; holds about one fluid dram"
+},
+{
+"word": "respondent",
+"pos": "a/n",
+"zh": "a. 回答的, 应答的, 反射的 / n. 应答者, 被告",
+"en": "n. the codefendant (especially in a divorce proceeding) who is accused of adultery with the corespondent / n. someone wh…"
+},
+{
+"word": "nineteenth",
+"pos": "num",
+"zh": "num. 第十九, 十九分之一",
+"en": "n. position 19 in a countable series of things / s. coming next after the eighteenth in position"
+},
+{
+"word": "supplier",
+"pos": "n",
+"zh": "n. 供应者, 供给国, 供应商 / [化] 承制厂; 供应厂商",
+"en": "n. someone whose business is to supply a particular service or commodity"
+},
+{
+"word": "teen",
+"pos": "n",
+"zh": "n. 愤怒, 悲哀",
+"en": "n a juvenile between the onset of puberty and maturity / s being of the age 13 through 19"
+},
+{
+"word": "scenario",
+"pos": "n",
+"zh": "n. 剧本提纲, 情节, 剧本, 方案, 事态 / [计] 方案",
+"en": "n. an outline or synopsis of a play (or, by extension, of a literary work) / n. a setting for a work of art or literatur…"
+},
+{
+"word": "nick",
+"pos": "n/vt/vi",
+"zh": "n. 刻痕, 缺口, 划痕 / vt. 刻痕于, 弄缺, 擦伤 / vi. 狙击",
+"en": "n. (British slang) a prison / v. cut slightly, with a razor / v. cut a nick into / v. divide or reset the tail muscles o…"
+},
+{
+"word": "sergeant",
+"pos": "n",
+"zh": "n. 警察小队长, 军士",
+"en": "n. any of several noncommissioned officer ranks in the Army or Air Force or Marines ranking above a corporal"
+},
+{
+"word": "treasury",
+"pos": "n",
+"zh": "n. 国库, 宝库, 财政部, 国库券 / [经] 库存, 国库, 金库",
+"en": "n. the funds of a government or institution or individual / n. the government department responsible for collecting and …"
+},
+{
+"word": "constituency",
+"pos": "n",
+"zh": "n. 选民, 顾客, 读者 / [法] 选区, 全体选民, 选区内的选民",
+"en": "n. the body of voters who elect a representative for their area"
+},
+{
+"word": "meter",
+"pos": "n/vt",
+"zh": "n. 米, 公尺, 仪表, 计量器 / vt. 以仪表计量",
+"en": "n. the basic unit of length adopted under the Systeme International d'Unites (approximately 1.094 yards) / n. any of var…"
+},
+{
+"word": "aide",
+"pos": "n",
+"zh": "n. 助手, 副官 / [计] 数据输入的可说明性",
+"en": "n. someone who acts as assistant"
+},
+{
+"word": "closure",
+"pos": "n/vt",
+"zh": "n. 关闭 / vt. 使终止",
+"en": "n. a rule for limiting or ending debate in a deliberative body / n. a Gestalt principle of organization holding that the…"
+},
+{
+"word": "cholesterol",
+"pos": "n",
+"zh": "n. 胆固醇 / [化] 胆固醇; 胆固醇",
+"en": "n. an animal sterol that is normally synthesized by the liver; the most abundant steroid in animal tissues"
+},
+{
+"word": "taxpayer",
+"pos": "n",
+"zh": "n. 纳税人 / [法] 纳税人, 纳税义务人",
+"en": "n. someone who pays taxes"
+},
+{
+"word": "borough",
+"pos": "n",
+"zh": "n. 自治的市镇, 区",
+"en": "n. one of the administrative divisions of a large city / n. an English town that forms the constituency of a member of p…"
+},
+{
+"word": "vendor",
+"pos": "n",
+"zh": "n. 小贩, 卖主, 自动售货机 / [计] 计算机销售商",
+"en": "n someone who promotes or exchanges goods or services for money"
+},
+{
+"word": "directive",
+"pos": "a/n",
+"zh": "a. 指导的, 指挥的, 方向的 / n. 指令 / [计] 指令; 命令",
+"en": "n. a pronouncement encouraging or banning some activity"
+},
+{
+"word": "constable",
+"pos": "n",
+"zh": "n. 治安官, 警官, 总管 / [法] 警察, 警官, 巡警",
+"en": "n. a lawman with less authority and jurisdiction than a sheriff / n. English landscape painter (1776-1837) / n. a police…"
+},
+{
+"word": "electoral",
+"pos": "a",
+"zh": "a. 选举人的, 选举的, (有关)选举的 / [法] 选举的, 选举人的, 由选举人组成的",
+"en": "a. of or relating to elections / s. relating to or composed of electors"
+},
+{
+"word": "tribunal",
+"pos": "n",
+"zh": "n. 法庭, 法官席, 裁决 / [法] 法庭, 裁判所, 裁判",
+"en": "n an assembly (including one or more judges) to conduct judicial business"
+},
+{
+"word": "suburban",
+"pos": "a/n",
+"zh": "a. 郊外的, 郊区的, (贬)偏狭的, 土气的, 见识不广的 / n. 郊区居民",
+"en": "a. relating to or characteristic of or situated in suburbs"
+},
+{
+"word": "trustee",
+"pos": "n",
+"zh": "n. 受托人, 理事 / [计] 委托者",
+"en": "n. a person (or institution) to whom legal title to property is entrusted to use for another's benefit"
+},
+{
+"word": "gastric",
+"pos": "a",
+"zh": "a. 胃的 / [医] 胃的",
+"en": "a. relating to or involving the stomach"
+},
+{
+"word": "eighteenth",
+"pos": "num",
+"zh": "num. 第十八, 十八分之一",
+"en": "n. position 18 in a countable series of things / s. coming next after the seventeenth in position"
+},
+{
+"word": "abbey",
+"pos": "n",
+"zh": "n. 大修道院",
+"en": "n. a church associated with a monastery or convent / n. a convent ruled by an abbess / n. a monastery ruled by an abbot"
+},
+{
+"word": "fiscal",
+"pos": "a",
+"zh": "a. 财政的, 国库的 / [经] 财政上的, 会计的, 国库的",
+"en": "a. involving financial matters"
+},
+{
+"word": "freshman",
+"pos": "n",
+"zh": "n. 新手, 生手, 大学一年级学生, (美)中学一年级学生",
+"en": "n. a first-year undergraduate / s. used of a person in the first year of an experience (especially in United States high…"
+},
+{
+"word": "stance",
+"pos": "n",
+"zh": "n. 准备击球姿势, 站立的姿势, 位置, 姿态 / [经] 地位, 形势",
+"en": "n. standing posture"
+},
+{
+"word": "bastard",
+"pos": "n/a",
+"zh": "n. 私生子, 劣货 / a. 私生的, 杂种的, 不合标准的",
+"en": "n. the illegitimate offspring of unmarried parents / n. derogatory term for a variation that is not genuine; something i…"
+},
+{
+"word": "polytechnic",
+"pos": "a/n",
+"zh": "a. 各种工艺的, 工艺教育的 / n. 工艺专科学校, 理工专科学校",
+"en": "n a technical school offering instruction in many industrial arts and applied sciences"
+},
+{
+"word": "timing",
+"pos": "n",
+"zh": "n. 时间选择, 时间测定, 定时, 调速 / [计] 定时器时钟",
+"en": "n. the time when something happens / n. the regulation of occurrence, pace, or coordination to achieve a desired effect …"
+},
+{
+"word": "sidewalk",
+"pos": "n",
+"zh": "n. 人行道",
+"en": "n. walk consisting of a paved area for pedestrians; usually beside a street or roadway"
+},
+{
+"word": "technological",
+"pos": "a",
+"zh": "a. 技术的 / [经] 工艺的, 技术的",
+"en": "s. based in scientific and industrial progress"
+},
+{
+"word": "theology",
+"pos": "n",
+"zh": "n. 神学",
+"en": "n. the rational and systematic study of religion and its influences and of the nature of religious truth / n. a particul…"
+},
+{
+"word": "pastor",
+"pos": "n",
+"zh": "n. 牧师",
+"en": "n. only the rose-colored starlings; in some classifications considered a separate genus"
+},
+{
+"word": "teenage",
+"pos": "a",
+"zh": "a. 十三岁到十九岁的",
+"en": "s being of the age 13 through 19"
+},
+{
+"word": "coup",
+"pos": "n",
+"zh": "n. 砰然的一击, 妙计, 出乎意料的行动, 政变 / [医] 发作, 中, 击",
+"en": "n. a brilliant and notable success"
+},
+{
+"word": "pizza",
+"pos": "n",
+"zh": "n. 比萨饼",
+"en": "n. Italian open pie made of thin bread dough spread with a spiced mixture of e.g. tomato sauce and cheese"
+},
+{
+"word": "pro",
+"pos": "adv",
+"zh": "adv. 正面地 / [计] 可编程远程操作",
+"en": "n. an argument in favor of a proposal / a. in favor of (an action or proposal etc.) / r. in favor of a proposition, opin…"
+},
+{
+"word": "trailer",
+"pos": "n",
+"zh": "n. 追踪者, 拖车 / [电] 拖车",
+"en": "n. a large transport conveyance designed to be pulled by a truck or tractor / n. a wheeled vehicle that can be pulled by…"
+},
+{
+"word": "o'clock",
+"pos": "n",
+"zh": "n. ...点钟, 钟头",
+"en": "r. according to the clock"
+},
+{
+"word": "matrix",
+"pos": "n",
+"zh": "n. 母体, 子宫, 基质, 脉石, 模型, 矩阵 / [计] 矩阵",
+"en": "n. (mathematics) a rectangular array of quantities or expressions set out by rows and columns; treated as a single eleme…"
+},
+{
+"word": "striker",
+"pos": "n",
+"zh": "n. 打击者, 罢工者 / [经] 罢工者",
+"en": "n. a forward on a soccer team / n. someone receiving intensive training for a naval technical rating / n. an employee on…"
+},
+{
+"word": "juror",
+"pos": "n",
+"zh": "n. 陪审员, 审查委员 / [法] 陪审员, 陪审官, 宣誓者",
+"en": "n. someone who serves (or waits to be called to serve) on a jury"
+},
+{
+"word": "broker",
+"pos": "n",
+"zh": "n. 掮客, 经纪人 / [经] 经纪人, 掮客",
+"en": "v. act as a broker"
+},
+{
+"word": "diabetes",
+"pos": "n",
+"zh": "n. 糖尿病, 多尿症 / [医] 糖尿病; 多尿症",
+"en": "n. a polygenic disease characterized by abnormally high glucose levels in the blood; any of several metabolic disorders …"
+},
+{
+"word": "inmate",
+"pos": "n",
+"zh": "n. 同住者, 被收容者 / [法] 内部的, 接近中心的, 内在的",
+"en": "n. one of several resident of a dwelling (especially someone confined to a prison or hospital)"
+},
+{
+"word": "courtroom",
+"pos": "n",
+"zh": "n. 法庭, 审判室 / [法] 法庭, 审判室",
+"en": "n a room in which a lawcourt sits"
+},
+{
+"word": "symbolic",
+"pos": "a",
+"zh": "a. 象征的, 符号的 / [电] 符号化",
+"en": "a. relating to or using or proceeding by means of symbols / a. using symbolism"
+},
+{
+"word": "provincial",
+"pos": "n/a",
+"zh": "n. 外地人, 粗野的人 / a. 省的, 外地的, 偏狭的",
+"en": "n. (Roman Catholic Church) an official in charge of an ecclesiastical province acting under the superior general of a re…"
+},
+{
+"word": "trophy",
+"pos": "n/vt",
+"zh": "n. 战利品, 奖品 / vt. 用战利品装饰",
+"en": "n. an award for success in war or hunting / n. something given as a token of victory"
+},
+{
+"word": "advisory",
+"pos": "a",
+"zh": "a. 顾问的, 咨询的, 劝告的 / [法] 劝告的, 忠告的, 咨询的",
+"en": "n. an announcement that usually advises or warns the public of some threat / s. giving advice"
+},
+{
+"word": "bloke",
+"pos": "n",
+"zh": "n. 小子, 家伙",
+"en": "n a boy or man"
+},
+{
+"word": "debut",
+"pos": "n/v",
+"zh": "n. 初次登台, 开张 / v. 初次登台",
+"en": "n. the presentation of a debutante in society / v. present for the first time to the public / v. appear for the first ti…"
+},
+{
+"word": "antibody",
+"pos": "n",
+"zh": "n. 抗体 / [化] 抗体",
+"en": "n. any of a large variety of proteins normally present in the body or produced in response to an antigen which it neutra…"
+},
+{
+"word": "workstation",
+"pos": "n",
+"zh": "n. 工作站 / [计] 工作站",
+"en": "n. a desktop digital computer that is conventionally considered to be more powerful than a microcomputer"
+},
+{
+"word": "casino",
+"pos": "n",
+"zh": "n. 卡西诺赌场, 卡西诺牌戏",
+"en": "n. a public building for gambling and entertainment / n. a card game in which cards face up on the table are taken with …"
+},
+{
+"word": "sibling",
+"pos": "n",
+"zh": "n. 兄弟, 同胞 / [医] 同胞(兄弟姐妹)",
+"en": "n. a person's brother or sister"
+},
+{
+"word": "hockey",
+"pos": "n",
+"zh": "n. 冰球, 曲棍球",
+"en": "n a game resembling ice hockey that is played on an open field; two opposing teams use curved sticks try to drive a ball…"
+},
+{
+"word": "franchise",
+"pos": "n/vt",
+"zh": "n. 公民权, 特权, 特许经营权, 免赔额 / vt. 给以特权, 给以...公民权",
+"en": "n. an authorization to sell a company's goods or services in a particular place / n. a business established or operated …"
+},
+{
+"word": "backyard",
+"pos": "n",
+"zh": "n. 后院, 后庭",
+"en": "n. the grounds in back of a house"
+},
+{
+"word": "custody",
+"pos": "n",
+"zh": "n. 监护, 拘留, 监禁 / [经] 保管, 照顾, 保护",
+"en": "n. holding by the police"
+},
+{
+"word": "dough",
+"pos": "n",
+"zh": "n. 生面团 / [化] 捏塑体; 生面团",
+"en": "n. a flour mixture stiff enough to knead or roll"
+},
+{
+"word": "reportedly",
+"pos": "adv",
+"zh": "adv. 根据传说, 根据传闻, 据报道",
+"en": "r. according to reports or other information"
+},
+{
+"word": "manor",
+"pos": "n",
+"zh": "n. 庄园 / [法] 采邑, 庄园, 采地",
+"en": "n. the mansion of a lord or wealthy person / n. the landed estate of a lord (including the house on it)"
+},
+{
+"word": "workout",
+"pos": "n",
+"zh": "n. 试验, 试用, 锻炼",
+"en": "n the activity of exerting your muscles in various ways to keep fit"
+},
+{
+"word": "takeover",
+"pos": "n",
+"zh": "n. 接管, 接收 / [经] 接收",
+"en": "n. a change by sale or merger in the controlling interest of a corporation"
+},
+{
+"word": "squadron",
+"pos": "n",
+"zh": "n. 骑兵营, 分遣队, 小舰队",
+"en": "n. a cavalry unit consisting of two or more troops and headquarters and supporting arms / n. an air force unit larger th…"
+},
+{
+"word": "ulcer",
+"pos": "n",
+"zh": "n. 溃疡, 腐烂物 / [医] 溃疡",
+"en": "n. a circumscribed inflammatory and often suppurating lesion on the skin or an internal mucous surface resulting in necr…"
+},
+{
+"word": "marketplace",
+"pos": "n",
+"zh": "n. 市场",
+"en": "n. an area in a town where a public mercantile establishment is set up"
+},
+{
+"word": "pasta",
+"pos": "n",
+"zh": "n. 意大利面食 / [医] 糊剂, 泥膏剂",
+"en": "n. a dish that contains pasta as its main ingredient / n. shaped and dried dough made from flour and water and sometimes…"
+},
+{
+"word": "albeit",
+"pos": "conj",
+"zh": "conj. 尽管, 虽然",
+"en": "conj. Even though; although; notwithstanding."
+},
+{
+"word": "halfway",
+"pos": "a/adv",
+"zh": "a. 中途的, 不彻底的, 部分的 / adv. 半路地, 在中途, 在半途",
+"en": "s. at a point midway between two extremes / s. including only half or a portion / r. at half the distance; at the middle"
+},
+{
+"word": "wheelchair",
+"pos": "n",
+"zh": "n. 轮椅",
+"en": "n. a movable chair mounted on large wheels; for invalids or those who cannot walk; frequently propelled by the occupant"
+},
+{
+"word": "atop",
+"pos": "adv/prep",
+"zh": "adv. 在顶上 / prep. 在...的顶上",
+"en": "r. on, to, or at the top"
+},
+{
+"word": "ranger",
+"pos": "n",
+"zh": "n. 王室守林人, 骑警, 漫游者",
+"en": "n a member of the Texas state highway patrol; formerly a mounted lawman who maintained order on the frontier / n an offi…"
+},
+{
+"word": "covenant",
+"pos": "n/v",
+"zh": "n. 契约, 盟约 / v. 立契约, 缔结盟约",
+"en": "n. a signed written agreement between two or more parties (nations) to perform some action / n. (Bible) an agreement bet…"
+},
+{
+"word": "wicket",
+"pos": "n",
+"zh": "n. 小门, 腰门, 售票窗",
+"en": "n. cricket equipment consisting of a set of three stumps topped by crosspieces; used in playing cricket / n. a small arc…"
+},
+{
+"word": "philosophical",
+"pos": "a",
+"zh": "a. 哲学的, 冷静的, 达观的, 哲学上的, 哲学家似的",
+"en": "s. characterized by the attitude of a philosopher; meeting trouble with level-headed detachment"
+},
+{
+"word": "lawmaker",
+"pos": "n",
+"zh": "n. 立法者",
+"en": "n a maker of laws; someone who gives a code of laws"
+},
+{
+"word": "trainee",
+"pos": "n",
+"zh": "n. 实习生, 新兵, 受培训者 / [经] 学徒工, 培训人员",
+"en": "n. someone who is being trained"
+},
+{
+"word": "driveway",
+"pos": "n",
+"zh": "n. 车道",
+"en": "n. a road leading up to a private house"
+},
+{
+"word": "brigade",
+"pos": "n",
+"zh": "n. 旅, 队 / [法] 团体, 队, 组",
+"en": "n. army unit smaller than a division / v. form or unite into a brigade"
+},
+{
+"word": "caravan",
+"pos": "n",
+"zh": "n. 旅行队, 有篷顶的大车 / [经] 商队, 结队商贩",
+"en": "n. a procession (of wagons or mules or camels) traveling together in single file / v. travel in a caravan"
+},
+{
+"word": "surveillance",
+"pos": "n",
+"zh": "n. 监视, 监督 / [电] 侦测",
+"en": "n. close observation of a person or group (usually by the police)"
+},
+{
+"word": "woodland",
+"pos": "n",
+"zh": "n. 林区, 林地",
+"en": "n land that is covered with trees and shrubs"
+},
+{
+"word": "testament",
+"pos": "n",
+"zh": "n. 遗嘱, <<圣约书>> / [法] 遗言, 遗嘱, 确实的证明",
+"en": "n. a profession of belief / n. strong evidence for something / n. either of the two main parts of the Christian Bible"
+},
+{
+"word": "unidentified",
+"pos": "a",
+"zh": "a. 未被认出的, 未经确认的",
+"en": "s. not yet identified"
+},
+{
+"word": "ace",
+"pos": "n/a",
+"zh": "n. 幺点, 好手, 少许, 发球得分 / a. 一流的, 杰出的 / [计] 应答允许, 自适应计算机试验, 自动呼叫设备, 自动执行控制",
+"en": "n. one of four playing cards in a deck having a single pip on its face / n. someone who is dazzlingly skilled in any fie…"
+},
+{
+"word": "guerrilla",
+"pos": "n",
+"zh": "n. 游击队",
+"en": "n. a member of an irregular armed force that fights a stronger force by sabotage and harassment"
+},
+{
+"word": "node",
+"pos": "n",
+"zh": "n. 节, 结节, 瘤 / [计] 节点; 结点",
+"en": "n. a connecting point at which several lines come together / n. any thickened enlargement / n. (botany) the small swelli…"
+}
+]

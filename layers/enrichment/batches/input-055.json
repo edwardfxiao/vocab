@@ -1,0 +1,602 @@
+[
+{
+"word": "velvet",
+"pos": "n/a",
+"zh": "n. 天鹅绒 / a. 天鹅绒的",
+"en": "n. a silky densely piled fabric with a plain back / s. smooth and soft to sight or hearing or touch or taste / s. resemb…"
+},
+{
+"word": "manifestation",
+"pos": "n",
+"zh": "n. 显示, 证明, 示威运动 / [医] 表现, 表示",
+"en": "n. a clear appearance / n. a manifest indication of the existence or presence or nature of some person or thing"
+},
+{
+"word": "stereo",
+"pos": "n/a",
+"zh": "n. 铅版, 立体照片 / a. 立体的, 立体感觉的",
+"en": "n. reproducer in which two microphones feed two or more loudspeakers to give a three-dimensional effect to the sound / n…"
+},
+{
+"word": "lethal",
+"pos": "a/n",
+"zh": "a. 致命的 / n. 致死因子",
+"en": "s of an instrument of certain death"
+},
+{
+"word": "olive",
+"pos": "n/a",
+"zh": "n. 橄榄, 橄榄树, 橄榄色, 橄榄枝 / a. 黄绿色的, 黄褐色的, 橄榄色的",
+"en": "n. small ovoid fruit of the European olive tree; important food and source of oil / n. evergreen tree cultivated in the …"
+},
+{
+"word": "slump",
+"pos": "n/vi",
+"zh": "n. 暴跌, 垂头弯腰的姿态 / vi. 猛然掉落, 陷入, 衰落(经济等)",
+"en": "n. a noticeable deterioration in performance or quality / v. assume a drooping posture or carriage / v. fall or sink hea…"
+},
+{
+"word": "roller",
+"pos": "n",
+"zh": "n. 滚筒, 滚轴, 压路机 / [化] 滚柱; 托辊",
+"en": "n. a grounder that rolls along the infield / n. a long heavy sea wave as it advances towards the shore / n. a small whee…"
+},
+{
+"word": "voucher",
+"pos": "n/vt",
+"zh": "n. 证人, 保证人, 证明者, 凭证, 凭单 / vt. 证实...的可靠性",
+"en": "n. someone who vouches for another or for the correctness of a statement / n. a document that serves as evidence of some…"
+},
+{
+"word": "provisional",
+"pos": "a",
+"zh": "a. 暂时的, 暂定的, 临时的 / [医] 临时的",
+"en": "s under terms not final or fully worked out or agreed upon"
+},
+{
+"word": "credential",
+"pos": "n",
+"zh": "n. 国书, 凭据, 证明书 / [经] 凭证, 证书",
+"en": "n a document attesting to the truth of certain stated facts"
+},
+{
+"word": "departmental",
+"pos": "a",
+"zh": "a. 部门的, 各部的, 分科的",
+"en": "a. of or relating to a department"
+},
+{
+"word": "swirl",
+"pos": "n/vt/vi",
+"zh": "n. 漩涡, 涡动 / vt. 使成漩涡 / vi. 打漩, 盘绕, 眩晕",
+"en": "n the shape of something rotating rapidly / v turn in a twisting or spinning motion / v flow in a circular current, of l…"
+},
+{
+"word": "distortion",
+"pos": "n",
+"zh": "n. 扭曲, 变形, 曲解 / [计] 畸变; 失真",
+"en": "n. a change for the worse / n. a change (usually undesired) in the waveform of an acoustic or analog electrical signal; …"
+},
+{
+"word": "affinity",
+"pos": "n",
+"zh": "n. 吸引, 姻亲关系, 类同 / [化] 亲合力; 亲合能; 亲合势; 近似; 类似",
+"en": "n. (immunology) the attraction between an antigen and an antibody / n. (anthropology) kinship by marriage or adoption; n…"
+},
+{
+"word": "distraction",
+"pos": "n",
+"zh": "n. 娱乐, 分心的事物, 分心 / [医] 注意力分散, 内脱位, 牙弓过宽",
+"en": "n. mental turmoil / n. an obstacle to attention / n. the act of distracting; drawing someone's attention away from somet…"
+},
+{
+"word": "reliance",
+"pos": "n",
+"zh": "n. 信任, 信赖, 受信赖的人(或事) / [法] 信任, 信赖, 信心",
+"en": "n. certainty based on past experience / n. the state of relying on something"
+},
+{
+"word": "roam",
+"pos": "v/n",
+"zh": "v. 漫游, 闲逛, 徜徉 / n. 漫步, 漫游",
+"en": "v move about aimlessly or without any destination, often in search of food or employment"
+},
+{
+"word": "heroic",
+"pos": "a/n",
+"zh": "a. 英勇的, 英雄式的, 壮丽雄伟的 / n. 英雄诗, 史诗, 英勇行为",
+"en": "a. relating to or characteristic of heroes of antiquity / s. having or displaying qualities appropriate for heroes"
+},
+{
+"word": "foam",
+"pos": "n/vi/vt",
+"zh": "n. 泡沫, 水沫, 泡沫材料 / vi. 起泡沫, 吐白沫 / vt. 使起泡沫",
+"en": "n. a mass of small bubbles formed in or on a liquid / n. a lightweight material in cellular form; made by introducing ga…"
+},
+{
+"word": "affiliation",
+"pos": "n",
+"zh": "n. 联系, 从属关系 / [医] 父权(判定私生儿的父亲)",
+"en": "n. a social or business relationship / n. the act of becoming formally connected or joined"
+},
+{
+"word": "asteroid",
+"pos": "n/a",
+"zh": "n. 小行星, 海盘车 / a. 星状的",
+"en": "n. any of numerous small celestial bodies composed of rock and metal that move around the sun (mainly between the orbits…"
+},
+{
+"word": "blonde",
+"pos": "a/n",
+"zh": "a. (头发)亚麻色的, 淡色的, 白肤金发碧眼的, 白里透红的, 白皙的, 淡黄色的 / n. 肤色白皙的金发女人",
+"en": "n a person with fair skin and hair / n a light grayish yellow to near white / a being or having light colored skin and h…"
+},
+{
+"word": "bald",
+"pos": "a/vi",
+"zh": "a. 秃头的, 光秃的, 单调的, 赤裸的 / vi. 变秃",
+"en": "v. grow bald; lose hair on one's head / s. with no effort to conceal / s. lacking hair on all or most of the scalp / s. …"
+},
+{
+"word": "patronage",
+"pos": "n",
+"zh": "n. 赞助, 恩赐态度, 光顾, 任免权, 保护人的身分 / [经] 光顾, 资助, 赞助",
+"en": "n. (politics) granting favors or giving contracts or making appointments to office in return for political support / v. …"
+},
+{
+"word": "bookstore",
+"pos": "n",
+"zh": "n. 书店",
+"en": "n a shop where books are sold"
+},
+{
+"word": "solvent",
+"pos": "n/a",
+"zh": "n. 溶剂 / a. 有偿付能力的, 有溶解力的",
+"en": "n. a liquid substance capable of dissolving other substances / a. capable of meeting financial obligations"
+},
+{
+"word": "anticipation",
+"pos": "n",
+"zh": "n. 预期, 预料 / [医] 提前出现(如遗传病)",
+"en": "n. an expectation / n. something expected (as on the basis of a norm) / n. anticipating with confidence of fulfillment"
+},
+{
+"word": "unveil",
+"pos": "vt/vi",
+"zh": "vt. 揭开, 揭幕, 除去...的面纱 / vi. 显露, 除去面纱",
+"en": "v. remove the veil from / v. remove the cover from"
+},
+{
+"word": "fixture",
+"pos": "n",
+"zh": "n. 固定(状态), 固定物, 设备 / [计] 夹具",
+"en": "n. an object firmly fixed in place (especially in a household)"
+},
+{
+"word": "honesty",
+"pos": "n",
+"zh": "n. 诚实, 公正, 正直",
+"en": "n. the quality of being honest / n. southeastern European plant cultivated for its fragrant purplish flowers and round f…"
+},
+{
+"word": "crisp",
+"pos": "a/v/n",
+"zh": "a. 脆的, 新鲜的, 活泼的 / v. (使)烘脆, (使)拳曲, (使)起皱 / n. 松脆物",
+"en": "s. (of something seen or heard) clearly defined / s. tender and brittle / s. pleasantly cold and invigorating / s. pleas…"
+},
+{
+"word": "meditation",
+"pos": "n",
+"zh": "n. 沉思, 冥想",
+"en": "n. continuous and profound contemplation or musing on a subject or series of subjects of a deep or abstruse nature / n. …"
+},
+{
+"word": "fearful",
+"pos": "a",
+"zh": "a. 可怕的, 恐怕的, 担心的",
+"en": "s. experiencing or showing fear / s. extremely distressing / s. timid by nature or revealing timidity"
+},
+{
+"word": "overturn",
+"pos": "n/vt/vi",
+"zh": "n. 倾覆, 破灭, 革命 / vt. 推翻, 颠倒 / vi. 翻倒",
+"en": "n. an improbable and unexpected victory / v. turn from an upright or normal position / v. cause to overturn from an upri…"
+},
+{
+"word": "subordinate",
+"pos": "n/a/vt",
+"zh": "n. 属下, 附属物 / a. 下级的, 次要的, 附属的 / vt. 使居下位, 使服从",
+"en": "n. an assistant subject to the authority or control of another / v. rank or order as less important or consider of less …"
+},
+{
+"word": "peripheral",
+"pos": "a",
+"zh": "a. 周边的, 周围的, 圆周的, 无关紧要的, 肤浅的 / [医] 外周的, 周围的, 末梢的",
+"en": "n. (computer science) electronic equipment connected by cable to the CPU of a computer / a. on or near an edge or consti…"
+},
+{
+"word": "consultancy",
+"pos": "n",
+"zh": "n. 商量, 协商, 磋商, 会诊, 与...商量, 咨询, 请教, 找(医生)看病, 查阅, 考虑 / [经] 咨询业务, 咨询服务",
+"en": "n. the practice of giving expert advice within a particular field"
+},
+{
+"word": "transcript",
+"pos": "n",
+"zh": "n. 抄本, 副本, 成绩单 / [法] 法院文本, 官方记录, 记录的副本",
+"en": "n. something that has been transcribed; a written record (usually typewritten) of dictated or recorded speech / n. a rep…"
+},
+{
+"word": "standpoint",
+"pos": "n",
+"zh": "n. 立场, 观点",
+"en": "n a mental position from which things are viewed"
+},
+{
+"word": "empower",
+"pos": "vt",
+"zh": "vt. 授予权力, 允许, 使能够 / [法] 授权, 准许, 转委",
+"en": "v. give or delegate power or authority to"
+},
+{
+"word": "groan",
+"pos": "n/vi/vt",
+"zh": "n. 呻吟, 叹息 / vi. 呻吟, 抱怨, 受压迫 / vt. 呻吟地说",
+"en": "n. an utterance expressing pain or disapproval / v. indicate pain, discomfort, or displeasure"
+},
+{
+"word": "tug",
+"pos": "n/v",
+"zh": "n. 用力拉, 拖曳, 苦干, 挣扎, 绳索 / v. 用力拉",
+"en": "n. a sudden abrupt pull / v. pull hard / v. strive and make an effort to reach a goal / v. tow (a vessel) with a tug"
+},
+{
+"word": "lobster",
+"pos": "n",
+"zh": "n. 龙虾",
+"en": "n. flesh of a lobster / n. any of several edible marine crustaceans of the families Homaridae and Nephropsidae and Palin…"
+},
+{
+"word": "novelist",
+"pos": "n",
+"zh": "n. 小说家",
+"en": "n. one who writes novels"
+},
+{
+"word": "saddle",
+"pos": "n/vt/vi",
+"zh": "n. 鞍, 马鞍, 车座, 鞍状物 / vt. 装以马鞍, 使负担 / vi. 跨上马鞍",
+"en": "n. a seat for the rider of a horse or camel / n. cut of meat (especially mutton or lamb) consisting of part of the backb…"
+},
+{
+"word": "dwarf",
+"pos": "n/v",
+"zh": "n. 矮子, 侏儒 / v. (使)变矮小",
+"en": "n. a person who is markedly small / n. a plant or animal that is atypically small / v. check the growth of"
+},
+{
+"word": "partisan",
+"pos": "n/a",
+"zh": "n. 党羽, 虔诚信徒, 同党, 游击队员 / a. 党派的, 偏袒的, 效忠的, 献身的, 盲目推崇的",
+"en": "n. a fervent and even militant proponent of something / n. a pike with a long tapering double-edged blade with lateral p…"
+},
+{
+"word": "abundant",
+"pos": "a",
+"zh": "a. 丰富的, 充分的, 大量的",
+"en": "a. present in great quantity"
+},
+{
+"word": "prone",
+"pos": "a",
+"zh": "a. 俯伏的, 面向下的, 有...倾向的 / [医] 旋前的, 伏的, 俯的",
+"en": "s. having a tendency (to); often used in combination / s. lying face downward"
+},
+{
+"word": "restrictive",
+"pos": "a/n",
+"zh": "a. 限制的, 约束的, 限定的 / n. 限制词",
+"en": "a. serving to restrict / s. (of tariff) protective of national interests by restricting imports"
+},
+{
+"word": "limestone",
+"pos": "n",
+"zh": "n. 石灰石 / [化] 石灰石; 石灰岩",
+"en": "n. a sedimentary rock consisting mainly of calcium that was deposited by the remains of marine animals"
+},
+{
+"word": "fluctuation",
+"pos": "n",
+"zh": "n. 变动, 波动, 动摇 / [化] 涨落; 起伏; 波动; 脉动",
+"en": "n. a wave motion / n. the quality of being unsteady and subject to changes"
+},
+{
+"word": "hose",
+"pos": "n/vt",
+"zh": "n. 水管, 橡皮软管, 长统袜 / vt. 用水管浇",
+"en": "n. man's close-fitting garment of the 16th and 17th centuries covering the legs and reaching up to the waist; worn with …"
+},
+{
+"word": "archaeological",
+"pos": "a",
+"zh": "a. 考古学的, 考古学上的",
+"en": "a. related to or dealing with or devoted to archaeology"
+},
+{
+"word": "mobilize",
+"pos": "vt/vi",
+"zh": "vt. 动员, 调动, 使流通 / vi. 动员",
+"en": "v. make ready for action or use / v. get ready for war / v. cause to move around"
+},
+{
+"word": "syllable",
+"pos": "n/vt",
+"zh": "n. 音节 / vt. 分成音节 / [计] 字节",
+"en": "n. a unit of spoken language larger than a phoneme"
+},
+{
+"word": "consortium",
+"pos": "n",
+"zh": "n. 协会, 合伙, (国际性)财团 / [经] 合作, 联合, 财团",
+"en": "n. an association of companies for some definite purpose"
+},
+{
+"word": "lazy",
+"pos": "a/vi",
+"zh": "a. 懒惰的, 怠惰的, 缓慢的 / vi. 懒散",
+"en": "s. moving slowly and gently"
+},
+{
+"word": "crouch",
+"pos": "n/vi/vt",
+"zh": "n. 蹲伏, 蜷缩 / vi. 蹲下, 蜷着, 缩着 / vt. 低头",
+"en": "n. the act of bending low with the limbs close to the body / v. bend one's back forward from the waist on down"
+},
+{
+"word": "questionable",
+"pos": "a",
+"zh": "a. 可疑的 / [法] 可疑的, 有问题的, 不可靠的",
+"en": "a. subject to question / s. able to be refuted"
+},
+{
+"word": "intercourse",
+"pos": "n",
+"zh": "n. 交往, 交流 / [医] 交际, 往来",
+"en": "n. communication between individuals"
+},
+{
+"word": "poise",
+"pos": "n/vt/vi",
+"zh": "n. 平衡, 均衡, 姿势, 镇静, 安静, 砝码 / vt. 使平衡, 使悬着, 保持...姿势 / vi. 平衡, 悬着, 准备好",
+"en": "n. a cgs unit of dynamic viscosity equal to one dyne-second per square centimeter; the viscosity of a fluid in which a f…"
+},
+{
+"word": "proportional",
+"pos": "a/n",
+"zh": "a. 比例的, 相称的 / n. 比例项",
+"en": "n. one of the quantities in a mathematical proportion / s. properly related in size or degree or other measurable charac…"
+},
+{
+"word": "marital",
+"pos": "a",
+"zh": "a. 丈夫的, 婚姻的, 夫妇间的 / [医] 婚姻的",
+"en": "a. of or relating to the state of marriage"
+},
+{
+"word": "homemade",
+"pos": "a",
+"zh": "a. 自制的, 国产的",
+"en": "a. made or produced in the home or by yourself"
+},
+{
+"word": "excavation",
+"pos": "n",
+"zh": "n. 挖掘, 发掘, 挖掘的洞 / [医] 陷凹, 挖除",
+"en": "n. the act of digging / n. a hole in the ground made by excavating"
+},
+{
+"word": "odour",
+"pos": "n",
+"zh": "n. 气味, 臭气, 香气, 味道, 迹象, 名誉, 声誉 / [医] 气味",
+"en": "n the sensation that results when olfactory receptors in the nose are stimulated by particular chemicals in gaseous form…"
+},
+{
+"word": "wedge",
+"pos": "n/vt/vi",
+"zh": "n. 楔子, 楔形物, 起因, 导致分裂的东西 / vt. 楔住, 挤进, 楔入 / vi. 楔入, 挤进",
+"en": "n. any shape that is triangular in cross section / n. (golf) an iron with considerable loft and a broad sole / n. someth…"
+},
+{
+"word": "diploma",
+"pos": "n",
+"zh": "n. 文凭, 毕业证书 / [医] 文凭",
+"en": "n. a document certifying the successful completion of a course of study"
+},
+{
+"word": "sandy",
+"pos": "a",
+"zh": "a. 沙的, 沙地的, 多沙的",
+"en": "s of hair color; pale yellowish to yellowish brown / a resembling or containing or abounding in sand; or growing in sand…"
+},
+{
+"word": "pharmaceutical",
+"pos": "a/n",
+"zh": "a. 药学的, 制药的, 药用的, 药物的, 药剂师的, 药师的 / n. 药品, 成药, 药剂",
+"en": "n. drug or medicine that is prepared or dispensed in pharmacies and used in medical treatment / a. of or relating to pha…"
+},
+{
+"word": "prototype",
+"pos": "n",
+"zh": "n. 原型 / [计] 样机; 原型",
+"en": "n. a standard or typical example"
+},
+{
+"word": "magnet",
+"pos": "n",
+"zh": "n. 磁铁, 有吸引力之人, 有吸引力之物 / [化] 磁体",
+"en": "n. (physics) a device that attracts iron and produces a magnetic field"
+},
+{
+"word": "emit",
+"pos": "vt",
+"zh": "vt. 发出, 放射, 发表(意见等), 散发, 发行 / [化] 放射",
+"en": "v. expel (gases or odors) / v. give off, send forth, or discharge; as of light, heat, or radiation, vapor, etc."
+},
+{
+"word": "noun",
+"pos": "n",
+"zh": "n. 名词",
+"en": "n. a content word that can be used to refer to a person, place, thing, quality, or action / n. the word class that can s…"
+},
+{
+"word": "embryo",
+"pos": "n",
+"zh": "n. 胚胎, 胎儿, 胚芽 / [医] 胚, 胚胎",
+"en": "n. (botany) a minute rudimentary plant contained within a seed or an archegonium / n. an animal organism in the early st…"
+},
+{
+"word": "quantitative",
+"pos": "a",
+"zh": "a. 数量的, 定量的 / [医] 定量的, 数量的",
+"en": "a. expressible as a quantity or relating to or susceptible of measurement / a. relating to the measurement of quantity /…"
+},
+{
+"word": "efficacy",
+"pos": "n",
+"zh": "n. 功效, 效力 / [医] 效能, 功效, 效验",
+"en": "n. capacity or power to produce a desired effect"
+},
+{
+"word": "ample",
+"pos": "a",
+"zh": "a. 大量的, 充足的, 丰富的",
+"en": "a. more than enough in size or scope or capacity / s. affording an abundant supply / s. fairly large"
+},
+{
+"word": "mutation",
+"pos": "n",
+"zh": "n. 变化, 突变, 元音变化 / [化] 突变",
+"en": "n. (genetics) any event that changes genetic structure; any alteration in the inherited nucleic acid sequence of the gen…"
+},
+{
+"word": "stripe",
+"pos": "n",
+"zh": "n. 斑纹, 条纹 / [医] 纹, 条纹",
+"en": "n. a piece of braid, usually on the sleeve, indicating military rank or length of service / n. a kind or category / n. a…"
+},
+{
+"word": "potent",
+"pos": "a",
+"zh": "a. 有力的, 有说服力的, 有效的 / [医] 有力的, 有性交能力的",
+"en": "s. having great influence / s. having or wielding force or authority / a. having a strong physiological or chemical effe…"
+},
+{
+"word": "foremost",
+"pos": "a/adv",
+"zh": "a. 最初的, 最重要的 / adv. 在最前",
+"en": "s. preceding all others in spatial position / s. situated closest to the bow / r. prominently forward"
+},
+{
+"word": "den",
+"pos": "n",
+"zh": "n. 兽穴, 洞穴 / [法] 匪巢, 贼窝",
+"en": "n. a unit of 8 to 10 cub scouts / n. a room that is comfortable and secluded"
+},
+{
+"word": "ion",
+"pos": "n",
+"zh": "n. 离子 / [化] 离子",
+"en": "n. a particle that is electrically charged (positive or negative); an atom or molecule or group that has lost or gained …"
+},
+{
+"word": "sorrow",
+"pos": "n/vi",
+"zh": "n. 悲伤, 哀惜, 不幸 / vi. 悲伤, 懊悔, 遗憾",
+"en": "n. an emotion of great sadness associated with loss or bereavement / n. sadness associated with some wrong done or some …"
+},
+{
+"word": "oyster",
+"pos": "n",
+"zh": "n. 牡蛎, 蚝, 沉默者",
+"en": "n. marine mollusks having a rough irregular shell; found on the sea bed mostly in coastal waters / n. a small muscle on …"
+},
+{
+"word": "warranty",
+"pos": "n",
+"zh": "n. 正当理由, 授权, 担保, 保证, 根据 / [经] 保单, 担保书, 保证书",
+"en": "n a written assurance that some product or service will be provided or will meet certain specifications"
+},
+{
+"word": "conditioning",
+"pos": "n",
+"zh": "n. 调节, 条件作用, 整修 / [计] 调节; 调整",
+"en": "n. a learning process in which an organism's behavior becomes dependent on the occurrence of a stimulus in its environme…"
+},
+{
+"word": "scholarly",
+"pos": "a",
+"zh": "a. 学者派头的, 学者风度的, 有学问的, 博学的, 好学的",
+"en": "a. characteristic of scholars or scholarship"
+},
+{
+"word": "volcano",
+"pos": "n",
+"zh": "n. 火山",
+"en": "n. a mountain formed by volcanic material"
+},
+{
+"word": "deteriorate",
+"pos": "v",
+"zh": "v. (使)恶化",
+"en": "v. become worse or disintegrate"
+},
+{
+"word": "chuckle",
+"pos": "n/vi",
+"zh": "n. 咯咯的笑声, 轻笑 / vi. 咯咯的笑, 咕咕叫",
+"en": "v. laugh quietly or with restraint"
+},
+{
+"word": "incapable",
+"pos": "a",
+"zh": "a. 无能力的, 不能的 / [机] 不能行的, 耐不住的",
+"en": "a. (followed by `of') lacking capacity or ability / s. not being susceptible to or admitting of something (usually follo…"
+},
+{
+"word": "swamp",
+"pos": "n/vt/vi",
+"zh": "n. 沼泽, 进退两难的困境 / vt. 淹没, 击溃, 清除, 使陷于沼泽 / vi. 陷于沼泽, 淹没",
+"en": "n. low land that is seasonally flooded; has more woody plants than a marsh and better drainage than a bog / n. a situati…"
+},
+{
+"word": "awesome",
+"pos": "a",
+"zh": "a. 引起敬畏的, 可怕的",
+"en": "s inspiring awe or admiration or wonder"
+},
+{
+"word": "standardized",
+"pos": "a",
+"zh": "a. 标准化的；标准的；定型的",
+"en": "s. brought into conformity with a standard"
+},
+{
+"word": "fictional",
+"pos": "a",
+"zh": "a. 虚构的, 编造的, 小说式的 / [法] 拟制的, 假定的, 虚构的",
+"en": "a. related to or involving literary fiction"
+},
+{
+"word": "oblige",
+"pos": "vt/vi",
+"zh": "vt. 强制, 施恩惠于, 使感激 / vi. 施恩惠, 帮忙",
+"en": "v. bind by an obligation; cause to be indebted / v. provide a service or favor for someone"
+},
+{
+"word": "bait",
+"pos": "n/vt/vi",
+"zh": "n. 饵 / vt. 以饵引诱, 欺负 / vi. 中途休息",
+"en": "n. anything that serves as an enticement / n. something used to lure fish or other animals into danger so they can be tr…"
+}
+]

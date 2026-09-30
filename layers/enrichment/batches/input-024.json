@@ -1,0 +1,602 @@
+[
+{
+"word": "laboratory",
+"pos": "n",
+"zh": "n. 实验室, 研究室, 化工厂 / [医] 实验室, 检验室, 化验室",
+"en": "n a workplace for the conduct of scientific research / n a region resembling a laboratory inasmuch as it offers opportun…"
+},
+{
+"word": "disaster",
+"pos": "n",
+"zh": "n. 灾祸, 不幸, 彻底失败",
+"en": "n. an act that has disastrous consequences"
+},
+{
+"word": "owe",
+"pos": "vt/vi",
+"zh": "vt. 亏欠, 负...债, 归功于, 怀有, 应给予, 感恩 / vi. 欠钱",
+"en": "v. be obliged to pay or repay / v. be indebted to, in an abstract or intellectual sense / v. be in debt"
+},
+{
+"word": "mood",
+"pos": "n",
+"zh": "n. 心情, 气氛, 生气, 基调 / [医] 心境",
+"en": "n. verb inflections that express how the action or state is conceived by the speaker"
+},
+{
+"word": "gradually",
+"pos": "adv",
+"zh": "adv. 逐渐地",
+"en": "r. in a gradual manner"
+},
+{
+"word": "bay",
+"pos": "n/vt/vi",
+"zh": "n. 海湾, 狗吠声, 月桂 / vt. 吠, 使走投无路 / vi. 吠",
+"en": "n. an indentation of a shoreline larger than a cove but smaller than a gulf / n. the sound of a hound on the scent / n. …"
+},
+{
+"word": "enhance",
+"pos": "vt",
+"zh": "vt. 提高, 加强, 增加",
+"en": "v. increase / v. make better or more attractive"
+},
+{
+"word": "mystery",
+"pos": "n",
+"zh": "n. 秘密, 神秘, 奥秘",
+"en": "n. something that baffles understanding and cannot be explained / n. a story about a crime (usually murder) presented as…"
+},
+{
+"word": "poverty",
+"pos": "n",
+"zh": "n. 贫穷, 贫困, 缺乏 / [医] 贫乏, 缺乏",
+"en": "n. the state of having little or no money and few or no material possessions"
+},
+{
+"word": "promotion",
+"pos": "n",
+"zh": "n. 晋级, 创建, 增进 / [经] 推广, 推销, 促进",
+"en": "n. a message issued in behalf of some product or cause or idea or person or institution / n. act of raising in rank or p…"
+},
+{
+"word": "possession",
+"pos": "n",
+"zh": "n. 拥有, 占有, 所有, 财产, 领土, 领地, 自制, 着迷 / [经] 占有, 持有",
+"en": "n. the act of having and controlling property / n. anything owned or possessed / n. being controlled by passion or the s…"
+},
+{
+"word": "evaluate",
+"pos": "vt",
+"zh": "vt. 评估, 评价, 赋值",
+"en": "v. form a critical opinion of"
+},
+{
+"word": "dollar",
+"pos": "n",
+"zh": "n. 美元, 元(加、澳等国货币单位) / [经] 纯经济的, 美元, 元",
+"en": "n. the basic monetary unit in many countries; equal to 100 cents / n. a piece of paper money worth one dollar / n. a Uni…"
+},
+{
+"word": "symbol",
+"pos": "n",
+"zh": "n. 符号, 象征, 代号, 信条 / [计] 符号; 码元",
+"en": "n. an arbitrary sign (written or printed) that has acquired a conventional significance / n. something visible that by a…"
+},
+{
+"word": "certificate",
+"pos": "n/vt",
+"zh": "n. 证书, 证明书 / vt. 发给证明书, 用证书批准, 用证书证明",
+"en": "n. a document attesting to the truth of certain stated facts / v. present someone with a certificate / v. authorize by c…"
+},
+{
+"word": "wet",
+"pos": "n/a/vi/vt",
+"zh": "n. 湿气, 潮湿, 水分, 雨天 / a. 湿的, 潮的, 搞错的, 下雨的, 反对禁酒的 / vi. 变湿 / vt. 使...湿",
+"en": "v. cause to become wet / v. make one's bed or clothes wet by urinating / a. covered or soaked with a liquid such as wate…"
+},
+{
+"word": "custom",
+"pos": "n/a",
+"zh": "n. 习惯, 风俗, 海关, 自定义 / a. 定制的 / [计] 定制; 自定义",
+"en": "n. accepted or habitual practice / n. a specific practice of long standing / n. habitual patronage"
+},
+{
+"word": "accomplish",
+"pos": "vt",
+"zh": "vt. 完成, 达到, 实现, 使完美",
+"en": "v put in effect / v to gain with effort"
+},
+{
+"word": "angle",
+"pos": "n/vi/vt",
+"zh": "n. 角, 角度, 角落 / vi. 钓鱼, 谋取, 博取, 斜向移动, 转变角度 / vt. 使转动角度, 在...钓鱼, 获取",
+"en": "n. the space between two lines or planes that intersect; the inclination of one line to another; measured in degrees or …"
+},
+{
+"word": "monitor",
+"pos": "n/v",
+"zh": "n. 监督器, 级长, 监听员, 班长, 监视器, 告诫物 / v. 监视, 监听, 监督 / [计] 监视器, 监视程序; 监视",
+"en": "n. an ironclad vessel built by Federal forces to do battle with the Merrimac / n. display produced by a device that take…"
+},
+{
+"word": "entertainment",
+"pos": "n",
+"zh": "n. 娱乐, 款待, 娱乐表演",
+"en": "n. an activity that is diverting and that holds the attention"
+},
+{
+"word": "bean",
+"pos": "n",
+"zh": "n. 豆子 / [化] 油嘴; 豆",
+"en": "n. any of various edible seeds of plants of the family Leguminosae used for food / n. any of various seeds or fruits tha…"
+},
+{
+"word": "alliance",
+"pos": "n",
+"zh": "n. 联盟, 联合 / [法] 同盟, 联盟, 联姻",
+"en": "n. the state of being allied or confederated / n. a connection based on kinship or marriage or common interest / n. an o…"
+},
+{
+"word": "evaluation",
+"pos": "n",
+"zh": "n. 评估, 估价, 求值 / [计] 鉴定; 评价; 求值",
+"en": "n. act of ascertaining or fixing the value or worth of / n. an appraisal of the value of something"
+},
+{
+"word": "commander",
+"pos": "n",
+"zh": "n. 司令官, 指挥官",
+"en": "n. someone in an official position of authority who can command or control others / n. a commissioned naval officer who …"
+},
+{
+"word": "dependent",
+"pos": "n/a",
+"zh": "n. 依赖他人者 / a. 依赖的, 从属的",
+"en": "a. relying on or requiring a person or thing for support, supply, or what is needed / s. contingent on something else / …"
+},
+{
+"word": "digital",
+"pos": "a/n",
+"zh": "a. 数字显示的, 数字的 / n. 数字仪表, 数字式电子表(或时钟) / [计] 数字, 数字式",
+"en": "a. displaying numbers rather than scale positions / a. relating to or performed with the fingers / a. of a circuit or de…"
+},
+{
+"word": "subsequently",
+"pos": "adv",
+"zh": "adv. 后来, 随后",
+"en": "r. happening at a time subsequent to a reference time"
+},
+{
+"word": "bid",
+"pos": "n/v",
+"zh": "n. 出价 / v. 命令, 吩咐, 请求, 表示, 宣布, 投标",
+"en": "n. an attempt to get something / n. a formal proposal to buy at a specified price / n. (bridge) the number of tricks a b…"
+},
+{
+"word": "expansion",
+"pos": "n",
+"zh": "n. 扩充, 开展, 膨胀 / [计] 扩展",
+"en": "n. the act of increasing (something) in size or volume or quantity or scope / n. a function expressed as a sum or produc…"
+},
+{
+"word": "psychological",
+"pos": "a",
+"zh": "a. 心理学的, 精神上的, 心灵的 / [法] 心理上的, 心理学的",
+"en": "s. mental or emotional as opposed to physical in nature / a. of or relating to or determined by psychology"
+},
+{
+"word": "radical",
+"pos": "n/a",
+"zh": "n. 激进分子, 词根, 基础, 根式, 根 / a. 激进的, 根本的, 基本的, 根的",
+"en": "n. a person who has radical ideas or opinions / n. (mathematics) a quantity expressed as the root of another quantity / …"
+},
+{
+"word": "anger",
+"pos": "n/vt/vi",
+"zh": "n. 忿怒 / vt. 激怒, 使发怒 / vi. 发怒",
+"en": "n. a strong emotion; a feeling that is oriented toward some real or supposed grievance / n. the state of being angry / v…"
+},
+{
+"word": "chancellor",
+"pos": "n",
+"zh": "n. 大臣, 总理, 首相, 大使馆/领事馆的一等秘书, 司法官, 大学校长",
+"en": "n. the person who is head of state (in several countries) / n. the honorary or titular head of a university"
+},
+{
+"word": "approximately",
+"pos": "adv",
+"zh": "adv. 大约, 大致, 近于 / [经] 大约, 近似",
+"en": "r. (of quantities) imprecise but fairly close to correct"
+},
+{
+"word": "ratio",
+"pos": "n",
+"zh": "n. 比, 比率 / [医] 比, 比率, 比例",
+"en": "n. the relative magnitudes of two quantities (usually expressed as a quotient)"
+},
+{
+"word": "missile",
+"pos": "n/a",
+"zh": "n. 发射物, 导弹, 飞弹, 火箭 / a. 可发射的",
+"en": "n. a rocket carrying a warhead of conventional or nuclear explosives; may be ballistic or directed by remote control"
+},
+{
+"word": "disorder",
+"pos": "n/vt",
+"zh": "n. 杂乱, 混乱 / vt. 扰乱, 使失调",
+"en": "n. a physical condition in which there is a disturbance of normal functioning / n. a disturbance of the peace or of publ…"
+},
+{
+"word": "false",
+"pos": "a/adv",
+"zh": "a. 错误的, 虚伪的, 假的, 不老实的 / adv. 不准确地, 欺诈地",
+"en": "a. not in accordance with the fact or reality or actuality / s. arising from error / s. erroneous and usually accidental…"
+},
+{
+"word": "wire",
+"pos": "n/vt/vi",
+"zh": "n. 电线, 电报, 电信, 铁丝网, 金属丝 / vt. 用金属丝捆扎, 拍电报 / vi. 打电报",
+"en": "n. ligament made of metal and used to fasten things or make cages or fences etc / n. a metal conductor that carries elec…"
+},
+{
+"word": "sensitive",
+"pos": "a",
+"zh": "a. 敏感的, 易感的, 灵敏的, 感光的 / [机] 敏感的, 灵敏的, 感度高的",
+"en": "a. responsive to physical stimuli / a. being susceptible to the attitudes, feelings, or circumstances of others / s. hur…"
+},
+{
+"word": "transportation",
+"pos": "n",
+"zh": "n. 运输, 输送, 交通车辆 / [经] 运转, 运输, 运输费",
+"en": "n. the act of moving something from one location to another / n. the commercial enterprise of moving goods and materials"
+},
+{
+"word": "holy",
+"pos": "a/n",
+"zh": "a. 神圣的, 圣洁的, 至善的 / n. 神圣的东西",
+"en": "a. belonging to or derived from or associated with a divine power"
+},
+{
+"word": "twin",
+"pos": "n/a/vi/vt",
+"zh": "n. 双胞胎中一人, 一对非常相像的人(或物)中的一个 / a. 双胞胎的, 成对的, 孪生的 / vi. 生双胞胎, 成对 / vt. 怀(双胞胎), 使成对",
+"en": "n. either of two offspring born at the same time from the same pregnancy / n. a waterfall in the Snake River in southern…"
+},
+{
+"word": "tendency",
+"pos": "n",
+"zh": "n. 趋向, 倾向 / [医] 趋向, 趋势",
+"en": "n. a characteristic likelihood of or natural disposition toward a certain condition or character or effect / n. a genera…"
+},
+{
+"word": "chamber",
+"pos": "n/vt/a",
+"zh": "n. 室, 房间, 枪膛 / vt. 装(弹药), 把...关在室内 / a. 室内的",
+"en": "n. a natural or artificial enclosed space / n. an enclosed volume in the body / n. a room where a judge transacts busine…"
+},
+{
+"word": "honour",
+"pos": "n/vt",
+"zh": "n. 荣誉, 头衔, 信用, 尊敬, 名誉, 阁下, 勋章 / vt. 尊敬, 授予荣誉, 承兑, 实践",
+"en": "n the state of being honored / n a tangible symbol signifying approval or distinction / n the quality of being honorable…"
+},
+{
+"word": "deposit",
+"pos": "n/vt/vi",
+"zh": "n. 存款, 定金, 堆积物 / vt. 存放, 堆积 / vi. 沉淀",
+"en": "n. the phenomenon of sediment or gravel accumulating / n. money deposited in a bank or some similar institution / n. mon…"
+},
+{
+"word": "luck",
+"pos": "n/vi",
+"zh": "n. 运气, 幸运, 好运, 侥幸 / vi. 靠好运成功",
+"en": "n. an unknown and unpredictable phenomenon that causes an event to result one way rather than another / n. an unknown an…"
+},
+{
+"word": "rent",
+"pos": "n/vt/vi/a",
+"zh": "n. 租金, 房租, 出租物, 裂缝, 破裂处, 分裂 / vt. 租用, 租出 / vi. 出租 / a. 分裂的, 破裂的 / rend的过去式和过去分词",
+"en": "n. a payment or series of payments made by the lessee to an owner for use of some property, facility, equipment, or serv…"
+},
+{
+"word": "pure",
+"pos": "a",
+"zh": "a. 纯的, 纯净的, 纯洁的, 清白的, 完美的, 无瑕的, 抽象的 / [医] 的, 纯净的",
+"en": "a. free of extraneous elements of any kind / s. free from discordant qualities / s. concerned with theory and data rathe…"
+},
+{
+"word": "acceptable",
+"pos": "a",
+"zh": "a. 可接受的, 合意的, 可忍受的",
+"en": "a. worthy of acceptance or satisfactory / s. judged to be in conformity with approved usage / s. adequate for the purpos…"
+},
+{
+"word": "clinic",
+"pos": "n",
+"zh": "n. 诊所, 临床教学 / [医] 诊所(门诊部); 临床(讲解); 临床(学)科",
+"en": "n. a medical establishment run by a group of medical specialists / n. meeting for diagnosis of problems and instruction …"
+},
+{
+"word": "veteran",
+"pos": "n/a",
+"zh": "n. 老手, 退伍军人, 老兵, 老树 / a. 老兵的, 老练的, 经验丰富的",
+"en": "n. a serviceman who has seen considerable active service / n. a person who has served in the armed forces / n. an experi…"
+},
+{
+"word": "smell",
+"pos": "n/vt/vi",
+"zh": "n. 味道, 气味, 嗅觉, 嗅, 臭味, 气息 / vt. 闻, 探出, 察觉, 发出...的气味 / vi. 嗅, 散发气味, 发臭",
+"en": "n. the sensation that results when olfactory receptors in the nose are stimulated by particular chemicals in gaseous for…"
+},
+{
+"word": "phenomenon",
+"pos": "n",
+"zh": "n. 现象, 迹象, 表现, 奇迹, 奇才 / [化] 现象",
+"en": "n. any state or process known through the senses rather than by intuition or reasoning / n. a remarkable development"
+},
+{
+"word": "nervous",
+"pos": "a",
+"zh": "a. 神经紧张的, 不安的, 神经的 / [医] 神经的; 神经质的, 神经过敏的",
+"en": "s. easily agitated / a. of or relating to the nervous system"
+},
+{
+"word": "tourist",
+"pos": "n/a",
+"zh": "n. 观光客, 旅行者 / a. 旅游的",
+"en": "n. someone who travels for pleasure"
+},
+{
+"word": "festival",
+"pos": "a/n",
+"zh": "a. 节日的, 喜庆的, 快乐的 / n. 节日, 庆祝, 欢宴",
+"en": "n. a day or period of time set aside for feasting and celebration / n. an organized series of acts and performances (usu…"
+},
+{
+"word": "qualification",
+"pos": "n",
+"zh": "n. 资格, 条件, 限制 / [计] 限定",
+"en": "n. an attribute that must be met or complied with and that fits a person for something / n. the act of modifying or chan…"
+},
+{
+"word": "toss",
+"pos": "n/vt/vi",
+"zh": "n. 投掷, 抛, 摇摆, 震荡, 掷钱币决定 / vt. 投掷, 猛抬, 摇荡, 使不安, 掷钱币决定 / vi. 被到处扔, 摇摆, 颠簸, 辗转, 掷钱币决定某事",
+"en": "n. an abrupt movement / v. agitate"
+},
+{
+"word": "adequate",
+"pos": "a",
+"zh": "a. 适当的, 足够的 / [法] 胜任的, 适当的, 充分的",
+"en": "a. having the requisite qualities or resources to meet a task / s. sufficient for the purpose / s. about average; accept…"
+},
+{
+"word": "bury",
+"pos": "vt",
+"zh": "vt. 埋葬, 埋藏",
+"en": "v. cover from sight / v. place in a grave or tomb / v. place in the earth and cover with soil / v. embed deeply"
+},
+{
+"word": "pray",
+"pos": "v",
+"zh": "v. 祈祷, 恳求, 请",
+"en": "v. address a deity, a prophet, a saint or an object of worship; say a prayer"
+},
+{
+"word": "tomato",
+"pos": "n",
+"zh": "n. 番茄, 西红柿",
+"en": "n. mildly acid red or yellow pulpy fruit eaten as a vegetable / n. native to South America; widely cultivated in many va…"
+},
+{
+"word": "butter",
+"pos": "n/vt",
+"zh": "n. 奶油, 黄油 / vt. 涂黄油于",
+"en": "n. an edible emulsion of fat globules made by churning milk or cream; for cooking and table use / n. a fighter who strik…"
+},
+{
+"word": "rapid",
+"pos": "a/n",
+"zh": "a. 迅速的, 飞快的, 急促的, 陡的 / n. 急流",
+"en": "n. a part of a river where the current is very fast / s. done or occurring in a brief period of time / s. characterized …"
+},
+{
+"word": "deficit",
+"pos": "n",
+"zh": "n. 赤字, 不足额 / [医] 短缺",
+"en": "n. the property of being an amount by which something is less than expected or required / n. a deficiency or failure in …"
+},
+{
+"word": "awareness",
+"pos": "n",
+"zh": "n. 意识, 认识 / [计] 识别, 议定, 明白",
+"en": "n. having knowledge of / n. state of elementary or undifferentiated consciousness"
+},
+{
+"word": "bathroom",
+"pos": "n",
+"zh": "n. 浴室, 厕所",
+"en": "n. a room (as in a residence) containing a bathtub or shower and usually a washbasin and toilet"
+},
+{
+"word": "frequency",
+"pos": "n",
+"zh": "n. 频率, 频数 / [计] 频率",
+"en": "n. the number of occurrences within a given time period / n. the ratio of the number of observations in a statistical ca…"
+},
+{
+"word": "electronic",
+"pos": "a",
+"zh": "a. 电子的 / [计] 电子工业协会接口",
+"en": "a. of or relating to electronics; concerned with or using devices that operate on principles governing the behavior of e…"
+},
+{
+"word": "ally",
+"pos": "n/vt/vi",
+"zh": "n. 同盟者, 同盟国, 助手 / vt. 使联盟, 使联合, 使有关系 / vi. 结盟",
+"en": "n. a friendly nation / n. an associate who provides cooperation or assistance / v. become an ally or associate, as by a …"
+},
+{
+"word": "mixture",
+"pos": "n",
+"zh": "n. 混合, 混淆, 混合物 / [化] 混合物",
+"en": "n. (chemistry) a substance consisting of two or more substances mixed together (not in fixed proportions and not with ch…"
+},
+{
+"word": "smoke",
+"pos": "n/vi/vt",
+"zh": "n. 烟, 雾气, 烟熏剂, 抽烟, 烟色 / vi. 吸烟, 冒烟, 弥漫 / vt. 以烟熏, 抽烟而导致...",
+"en": "n. a cloud of fine particles suspended in a gas / n. a hot vapor containing fine particles of carbon being produced by c…"
+},
+{
+"word": "confront",
+"pos": "vt",
+"zh": "vt. 使面对, 对抗, 遭遇, 使对质, 比较 / [法] 对证, 使对质, 比较",
+"en": "v. oppose, as in hostility or a competition / v. deal with (something unpleasant) head on / v. present somebody with som…"
+},
+{
+"word": "resist",
+"pos": "v/n",
+"zh": "v. 抵抗, 耐得住, 抵制, 反抗 / n. 防染材料",
+"en": "v. stand up or offer resistance to somebody or something / v. withstand the force of something / v. resist immunological…"
+},
+{
+"word": "fifth",
+"pos": "num",
+"zh": "num. 第五, 五分之一",
+"en": "n. a quantity of liquor equal to one fifth of a United States gallon / n. position five in a countable series of things …"
+},
+{
+"word": "toy",
+"pos": "n/a/vi",
+"zh": "n. 玩具, 小玩艺儿, 小型的东西, 消遣 / a. 供玩耍的, 作为玩具的 / vi. 玩弄, 戏弄, 调情",
+"en": "n. a nonfunctional replica of something else (frequently used as a modifier) / n. a device regarded as providing amuseme…"
+},
+{
+"word": "absolute",
+"pos": "a/n",
+"zh": "a. 绝对的, 专制的, 完全的, 独立的 / n. 绝对事物",
+"en": "n. something that is conceived or that exists independently and not in relation to other things; something that does not…"
+},
+{
+"word": "dimension",
+"pos": "n/vt",
+"zh": "n. 尺寸, 次元, 面积, 维数 / vt. 标出尺寸",
+"en": "n. the magnitude of something in a particular direction (especially length or width or height) / n. one of three Cartesi…"
+},
+{
+"word": "fellow",
+"pos": "n/a",
+"zh": "n. 男人, 朋友, 同事 / a. 同伴的, 同事的, 同道的",
+"en": "n. a member of a learned society / n. an informal form of address for a man"
+},
+{
+"word": "routine",
+"pos": "n/a",
+"zh": "n. 常规, 日常工作, 惯例, 例行公事 / a. 日常的, 常规的 / [计] 例程",
+"en": "n. an unvarying or habitual method or procedure / n. a set sequence of steps, part of larger computer program"
+},
+{
+"word": "rough",
+"pos": "n/a/vt/vi/adv",
+"zh": "n. 粗糙的东西, 毛坯, 未加工品, 梗概, 草图, 暴徒, 艰难 / a. 粗糙的, 粗暴的, 蓬乱的, 草率的, 大致的, 简陋的, 暴风雨的, 艰难的 / vt. 使粗糙,…",
+"en": "n. the part of a golf course bordering the fairway where the grass is not cut short / a. having or caused by an irregula…"
+},
+{
+"word": "smooth",
+"pos": "a/vt/vi/n",
+"zh": "a. 平滑的, 平稳的, 流畅的, 和蔼的, 安祥的, 圆滑的, 调匀的, 无毛的 / vt. 使光滑, 烫平, 使平和, 消除 / vi. 变平滑, 变平静 / n. 一块平地,…",
+"en": "n. the act of smoothing / v. make smooth or smoother, as if by rubbing / v. free from obstructions / a. having a surface…"
+},
+{
+"word": "nearby",
+"pos": "a/adv/prep",
+"zh": "a. 附近的, 近旁的 / adv. 在附近, 近旁地 / prep. 在...附近",
+"en": "s. close at hand / r. not far away in relative terms"
+},
+{
+"word": "remarkable",
+"pos": "a",
+"zh": "a. 不平常的, 值得注意的, 显著的",
+"en": "s. unusual or striking"
+},
+{
+"word": "peer",
+"pos": "n/vi/vt",
+"zh": "n. 同等的人, 匹敌, 贵族 / vi. 凝视, 窥视, 费力地看, 隐现 / vt. 与...同等, 封为贵族",
+"en": "n. a person who is of equal standing with another in a group / n. a nobleman (duke or marquis or earl or viscount or bar…"
+},
+{
+"word": "precisely",
+"pos": "adv",
+"zh": "adv. 精确地, 明确地, 刻板地, 拘泥地, 正好, 恰恰, 对, 正是如此, 确实如此, 不错",
+"en": "r. indicating exactness or preciseness / r. in a precise manner / r. just as it should be"
+},
+{
+"word": "personnel",
+"pos": "n",
+"zh": "n. 人员, 人事部门, 人事科(处) / [经] 人事, 全体人员, 职工",
+"en": "n group of people willing to obey orders / n the department responsible for hiring and training and placing employees an…"
+},
+{
+"word": "designer",
+"pos": "n",
+"zh": "n. 设计者, 谋划者, 制图者 / [计] 设计员",
+"en": "n. a person who devises plots or intrigues"
+},
+{
+"word": "maximum",
+"pos": "n/a",
+"zh": "n. 极点, 最大量, 极大 / a. 最高的, 最大的, 最大极限的 / [计] 最大值",
+"en": "n. the largest possible quantity / n. the point on a curve where the tangent changes from positive on the left to negati…"
+},
+{
+"word": "furniture",
+"pos": "n",
+"zh": "n. 家具, 帆具",
+"en": "n. furnishings that make a room or other area ready for occupancy"
+},
+{
+"word": "brilliant",
+"pos": "a",
+"zh": "a. 光辉的, 灿烂的, 有才气的 / [机] 亮的",
+"en": "s. of surpassing excellence / s. characterized by grandeur / s. full of light; shining intensely"
+},
+{
+"word": "educator",
+"pos": "n",
+"zh": "n. 教育家",
+"en": "n. someone who educates young people"
+},
+{
+"word": "belt",
+"pos": "n",
+"zh": "n. 带子, 地带 / [医] 带, 腰带, 束带, 地带, 区",
+"en": "n. endless loop of flexible material between two rotating shafts or pulleys / n. a band to tie or buckle around the body…"
+},
+{
+"word": "register",
+"pos": "n/vt/vi",
+"zh": "n. 寄存器, 记录, 登记簿, 注册 / vt. 记录, 注册, 提示, 表达, 把...挂号 / vi. 登记, 注册, 挂号 / [计] 寄存器",
+"en": "n. an official written record of names or events or transactions / n. (music) the timbre that is characteristic of a cer…"
+},
+{
+"word": "immigration",
+"pos": "n",
+"zh": "n. 移民, 移居 / [医] 移民",
+"en": "n. migration into a place (especially migration to a country of which you are not a native in order to settle there) / n…"
+},
+{
+"word": "birthday",
+"pos": "n",
+"zh": "n. 生日",
+"en": "n. an anniversary of the day on which a person was born (or the celebration of it) / n. the date on which a person was b…"
+},
+{
+"word": "retirement",
+"pos": "n",
+"zh": "n. 退休, 隐居, 撤退 / [经] 退休, 退股, (固定资产)报废",
+"en": "n. the state of being retired from one's business or occupation / n. withdrawal from your position or occupation / n. wi…"
+}
+]

@@ -1,0 +1,602 @@
+[
+{
+"word": "amaze",
+"pos": "vt",
+"zh": "vt. 使吃惊",
+"en": "v. affect with wonder"
+},
+{
+"word": "zoom",
+"pos": "n/vi/vt",
+"zh": "n. 急速上升, 变焦摄影, 嗡嗡声 / vi. 猛增, 急速上升, 摄象机移动 / vt. 使摄象机移动 / [计] 缩放",
+"en": "v. move along very quickly / v. move with a low humming noise"
+},
+{
+"word": "coax",
+"pos": "vt/vi",
+"zh": "vt. 哄, 诱骗, 耐心地摆弄 / vi. 哄骗 / [计] 同轴电缆",
+"en": "n a transmission line for high-frequency signals / v influence or urge by gentle urging, caressing, or flattering"
+},
+{
+"word": "rectify",
+"pos": "vt",
+"zh": "vt. 订正, 矫正, 改正, 调正, 校正, 精馏, 整流 / [化] 精馏",
+"en": "v. math: determine the length of / v. set straight or right / v. convert into direct current"
+},
+{
+"word": "negligible",
+"pos": "a",
+"zh": "a. 可以忽略的, 不足取的, 无用的 / [医] 可不计的, 可忽视的",
+"en": "s. so small as to be meaningless; insignificant / s. not worth considering"
+},
+{
+"word": "intruder",
+"pos": "n",
+"zh": "n. 侵入者, 干扰者, 妨碍者 / [计] 入侵者",
+"en": "n. someone who intrudes on the privacy or property of another without permission"
+},
+{
+"word": "affective",
+"pos": "a",
+"zh": "a. 情感的, 表达感情的 / [医] 感情的, 情感的",
+"en": "s characterized by emotion"
+},
+{
+"word": "sensational",
+"pos": "a",
+"zh": "a. 使人感动的, 非常好的",
+"en": "a. causing intense interest, curiosity, or emotion / a. relating to or concerned in sensation"
+},
+{
+"word": "repetitive",
+"pos": "a",
+"zh": "a. 重复的, 反复性的",
+"en": "a. characterized by repetition"
+},
+{
+"word": "renovate",
+"pos": "vt",
+"zh": "vt. 更新, 革新, 刷新, 修复, 使恢复活力",
+"en": "v. restore to a previous or better condition"
+},
+{
+"word": "brisk",
+"pos": "a/vt/vi",
+"zh": "a. 强烈的, 寒冷而干燥的, 活泼的 / vt. 使活泼 / vi. 活跃起来",
+"en": "v. become brisk / s. very active"
+},
+{
+"word": "meteor",
+"pos": "n",
+"zh": "n. 流星, 大气现象",
+"en": "n. a streak of light in the sky at night that results when a meteoroid hits the earth's atmosphere and air friction caus…"
+},
+{
+"word": "advisable",
+"pos": "a",
+"zh": "a. 适当的, 明智的",
+"en": "a. worthy of being recommended or suggested; prudent or wise"
+},
+{
+"word": "adjoining",
+"pos": "a",
+"zh": "a. 邻接的, 毗连的 / [机] 联接",
+"en": "v lie adjacent to another or share a boundary / v be in direct physical contact with; make contact / v attach or add"
+},
+{
+"word": "eminent",
+"pos": "a",
+"zh": "a. 显赫的, 杰出的, 有名的",
+"en": "s. standing above others in quality or position / s. of imposing height; especially standing out above others"
+},
+{
+"word": "pneumonia",
+"pos": "n",
+"zh": "n. 肺炎 / [医] 肺炎",
+"en": "n. respiratory disease characterized by inflammation of the lung parenchyma (excluding the bronchi) with congestion caus…"
+},
+{
+"word": "crossroads",
+"pos": "n",
+"zh": "n. 十字路口, 交叉路口, 聚会的中心地点, (喻)需作抉择的重要关头, 紧要关头",
+"en": "n. a point where a choice must be made"
+},
+{
+"word": "eyewitness",
+"pos": "n",
+"zh": "n. 目击者, 见证人",
+"en": "n. a spectator who can describe what happened / v. be present at an event and see it with one's own eyes"
+},
+{
+"word": "obscene",
+"pos": "a",
+"zh": "a. 淫秽的, 猥亵的, 讨人厌的, 可憎的 / [法] 猥亵的, 海洋的, 污秽的",
+"en": "s. designed to incite to indecency or lust"
+},
+{
+"word": "guise",
+"pos": "n/v",
+"zh": "n. 相似, 外观, 伪装 / v. 穿戴, 伪装",
+"en": "n. an artful or simulated semblance"
+},
+{
+"word": "accompaniment",
+"pos": "n",
+"zh": "n. 伴随物, 附加物, 伴奏",
+"en": "n. an event or situation that happens at the same time as or in connection with another / n. a musical part (vocal or in…"
+},
+{
+"word": "pathogen",
+"pos": "n",
+"zh": "n. 病原体 / [医] 病原体",
+"en": "n. any disease-producing agent (especially a virus or bacterium or other microorganism)"
+},
+{
+"word": "cradle",
+"pos": "n/vt/vi",
+"zh": "n. 摇篮, 发祥地, 孩提时代 / vt. 放在摇篮内, 抚育 / vi. 刈割",
+"en": "n. a baby bed with sides and rockers / n. birth of a person / v. hold gently and carefully / v. bring up from infancy"
+},
+{
+"word": "inaccurate",
+"pos": "a",
+"zh": "a. 错误的, 不准确的 / [化] 不精确",
+"en": "a. not exact"
+},
+{
+"word": "thriller",
+"pos": "n",
+"zh": "n. 使人激动的东西, 使人毛骨悚然的东西, 使人毛骨悚然的小说",
+"en": "n. a suspenseful adventure story or play or movie"
+},
+{
+"word": "pulp",
+"pos": "n/vt/vi",
+"zh": "n. 果肉, 纸浆 / vt. 使化成纸浆, 除去...果肉 / vi. 变成纸浆",
+"en": "n. any soft or soggy mass / n. a soft moist part of a fruit / n. a mixture of cellulose fibers / n. an inexpensive magaz…"
+},
+{
+"word": "woo",
+"pos": "vt/vi",
+"zh": "vt. 追求, 向...求爱, 恳求 / vi. 求爱, 央求",
+"en": "v. seek someone's favor / v. make amorous advances towards"
+},
+{
+"word": "triumphant",
+"pos": "a",
+"zh": "a. 得胜的, 得意洋洋的",
+"en": "s. experiencing triumph"
+},
+{
+"word": "shrewd",
+"pos": "a",
+"zh": "a. 精明的, 锐利的, 剧烈的, 机灵的, 厉害的",
+"en": "s marked by practical hardheaded intelligence / s used of persons"
+},
+{
+"word": "crank",
+"pos": "a/n/vt/vi",
+"zh": "a. 不稳的, 脾气暴燥的, 易怒的 / n. 曲柄, 奇想 / vt. 装曲柄 / vi. 转动曲柄",
+"en": "n. a hand tool consisting of a rotating shaft with parallel handle / v. start by cranking / v. rotate with a crank / v. …"
+},
+{
+"word": "disapproval",
+"pos": "n",
+"zh": "n. 不赞成",
+"en": "n. a feeling of disliking something or what someone is doing / n. the expression of disapproval / n. the act of disappro…"
+},
+{
+"word": "clumsy",
+"pos": "a",
+"zh": "a. 笨拙的, 不雅观的, 粗陋的",
+"en": "s lacking grace in movement or posture / s not elegant or graceful in expression / s difficult to handle or manage espec…"
+},
+{
+"word": "bland",
+"pos": "a",
+"zh": "a. 温和的, 乏味的, 冷漠的 / [医] 温和的, 淡的",
+"en": "s. lacking taste or flavor or tang / s. lacking stimulating characteristics; uninteresting"
+},
+{
+"word": "seep",
+"pos": "vi/n",
+"zh": "vi. 渗出, 渗流, 漏 / n. 小泉, 水陆两用吉普车",
+"en": "v. pass gradually or leak through or as if through small openings"
+},
+{
+"word": "woollen",
+"pos": "n/a",
+"zh": "n. 毛织品 / a. 羊毛制的",
+"en": "n a fabric made from the hair of sheep / a of or related to or made of wool"
+},
+{
+"word": "vista",
+"pos": "n",
+"zh": "n. 远景, 展望, 回想",
+"en": "n the visual percept of a region"
+},
+{
+"word": "cherish",
+"pos": "vt",
+"zh": "vt. 珍爱, 怀有, 爱护",
+"en": "v be fond of; be attached to"
+},
+{
+"word": "jargon",
+"pos": "n",
+"zh": "n. 专门术语, 行话, 梦话, 土语 / [计] 行话",
+"en": "n. specialized technical terminology characteristic of a particular subject"
+},
+{
+"word": "unravel",
+"pos": "vt/vi",
+"zh": "vt. 阐明, 解决, 解开 / vi. 散开",
+"en": "v. become or cause to become undone by separating the fibers or threads of"
+},
+{
+"word": "trough",
+"pos": "n",
+"zh": "n. 槽, 水槽, 饲料槽 / [化] 料槽",
+"en": "n. a narrow depression (as in the earth or between ocean waves or in the ocean bed) / n. a long narrow shallow receptacl…"
+},
+{
+"word": "rhyme",
+"pos": "n/vi/vt",
+"zh": "n. 韵, 押韵, 韵文 / vi. 押韵 / vt. 使押韵, 用韵诗表达",
+"en": "n. correspondence in the sounds of two or more lines (especially final sounds) / v. compose rhymes / v. be similar in so…"
+},
+{
+"word": "refinement",
+"pos": "n",
+"zh": "n. 精致, 高尚, 精巧 / [医] 精制, 精练",
+"en": "n. the result of improving something / n. the quality of excellence in thought and manners and taste"
+},
+{
+"word": "smuggle",
+"pos": "vt/vi",
+"zh": "vt. 偷运, 走私, 私运 / vi. 走私",
+"en": "v. import or export without paying customs duties"
+},
+{
+"word": "ounce",
+"pos": "n",
+"zh": "n. 盎司, 少量, 雪豹 / [医] 英两, Г",
+"en": "n. a unit of apothecary weight equal to 480 grains or one twelfth of a pound / n. a unit of weight equal to one sixteent…"
+},
+{
+"word": "amidst",
+"pos": "prep",
+"zh": "prep. 在...当中",
+"en": "prep. Alt. of Amid"
+},
+{
+"word": "agitation",
+"pos": "n",
+"zh": "n. 激动, 焦虑, 煽动, 搅动, 摇动 / [化] 搅拌; 搅拌作用",
+"en": "n. a mental state of extreme emotional disturbance / n. a state of agitation or turbulent change or development / n. the…"
+},
+{
+"word": "visualize",
+"pos": "vt/vi",
+"zh": "vt. 使看得见, 使具体化, 想象, 设想 / vi. 想象, 显形",
+"en": "v. imagine; conceive of; see in one's mind / v. view the outline of by means of an X-ray / v. form a mental picture of s…"
+},
+{
+"word": "amazement",
+"pos": "n",
+"zh": "n. 惊愕, 惊异",
+"en": "n the feeling that accompanies something extremely surprising"
+},
+{
+"word": "mint",
+"pos": "n/vt",
+"zh": "n. 薄荷, 造币厂, 巨额 / vt. 铸造, 铸币, 制造",
+"en": "n. any north temperate plant of the genus Mentha with aromatic leaves and small mauve flowers / n. any member of the min…"
+},
+{
+"word": "avid",
+"pos": "a",
+"zh": "a. 渴望的, 急切的, 劲头十足的",
+"en": "s. (often followed by `for') ardently or excessively desirous / s. marked by active interest and enthusiasm"
+},
+{
+"word": "parrot",
+"pos": "n/vt",
+"zh": "n. 鹦鹉, 应声虫 / vt. 学舌, 机械地模仿",
+"en": "n. usually brightly colored zygodactyl tropical birds with short hooked beaks and the ability to mimic sounds / n. a cop…"
+},
+{
+"word": "paramount",
+"pos": "n/a",
+"zh": "n. 首长, 最高当局 / a. 最重要的, 最高的, 至上的",
+"en": "s having superior power and influence"
+},
+{
+"word": "notoriously",
+"pos": "adv",
+"zh": "adv. 臭名昭著的, 声名狼藉的",
+"en": "r. to a notorious degree"
+},
+{
+"word": "endow",
+"pos": "vt",
+"zh": "vt. 捐赠, 捐助, 赋予 / [法] 赠送财产给, 分给寡妇一份遗产, 授与",
+"en": "v. give qualities or abilities to / v. furnish with an endowment"
+},
+{
+"word": "gale",
+"pos": "n",
+"zh": "n. 狂风, 大风, 定期租金 / [经] 地租, 年金",
+"en": "n. a strong wind moving 45-90 knots; force 7 to 10 on Beaufort scale"
+},
+{
+"word": "mythology",
+"pos": "n",
+"zh": "n. 神话",
+"en": "n. myths collectively; the body of stories associated with a culture or institution or person / n. the study of myths"
+},
+{
+"word": "jolly",
+"pos": "a/vt/vi/adv",
+"zh": "a. 愉快的, 高兴的, 宜人的 / vt. 恭维, 使高兴, 取笑 / vi. 开玩笑 / adv. 非常, 极为",
+"en": "n. a happy party"
+},
+{
+"word": "spade",
+"pos": "n/vt/vi",
+"zh": "n. 铲子, 锄, 铲刀, 黑桃 / vt. 以锄掘, 把...弄实抹平 / vi. 铲",
+"en": "n. a playing card in the major suit that has one or more black figures on it / n. a sturdy hand shovel that can be pushe…"
+},
+{
+"word": "rampant",
+"pos": "a",
+"zh": "a. 猖獗的, 蔓生的, 猛烈的, 跃立作扑击状的",
+"en": "s. unrestrained and violent / s. rearing on left hind leg with forelegs elevated and head usually in profile / s. (of a …"
+},
+{
+"word": "scissors",
+"pos": "",
+"zh": "pl. 剪刀 / [医] 剪",
+"en": "n. an edge tool having two crossed pivoting blades / n. a wrestling hold in which you wrap your legs around the opponent…"
+},
+{
+"word": "precipitate",
+"pos": "n/vt/vi/a",
+"zh": "n. 沉淀物, 凝结物, 结果 / vt. 猛抛, 使陷入, 促成, 使沉淀 / vi. 猛地落下 / a. 突然的, 猛地落下的, 轻率的",
+"en": "n. a precipitated solid substance in suspension or after settling or filtering / v. bring about abruptly / v. separate a…"
+},
+{
+"word": "pleasantly",
+"pos": "adv",
+"zh": "adv. 和蔼地, 亲切地；友好地；愉快地",
+"en": "r. in a cheerful manner / r. in an enjoyable manner"
+},
+{
+"word": "generalization",
+"pos": "n",
+"zh": "n. 一般化, 普遍化, 概括 / [化] 推广; 普适化",
+"en": "n. reasoning from detailed facts to general principles / n. an idea or conclusion having general application / n. (psych…"
+},
+{
+"word": "moss",
+"pos": "n/vt",
+"zh": "n. 苔藓, 泥沼 / vt. 使长满苔藓",
+"en": "n. tiny leafy-stemmed flowerless plants"
+},
+{
+"word": "shred",
+"pos": "n/v",
+"zh": "n. 碎布条, 细片, 少量 / v. 撕碎",
+"en": "n. a tiny or scarcely detectable amount / v. tear into shreds"
+},
+{
+"word": "stipulate",
+"pos": "v",
+"zh": "v. 规定, 保证",
+"en": "v. specify as a condition or requirement in a contract or agreement; make an express demand or provision in an agreement…"
+},
+{
+"word": "automotive",
+"pos": "a",
+"zh": "a. 汽车的",
+"en": "a. of or relating to motor vehicles / s. containing within itself the means of propulsion or movement"
+},
+{
+"word": "exterior",
+"pos": "n/a",
+"zh": "n. 外部, 表面, 外貌 / a. 外部的, 外在的, 表面的",
+"en": "a. situated in or suitable for the outdoors or outside of a building"
+},
+{
+"word": "instinctive",
+"pos": "a",
+"zh": "a. 本能的, 天生的, 直觉的 / [医] 本能的",
+"en": "s unthinking; prompted by (or as if by) instinct"
+},
+{
+"word": "veer",
+"pos": "vi/vt/n",
+"zh": "vi. 转向 / vt. 使转向 / n. 转向",
+"en": "v. shift to a clockwise direction"
+},
+{
+"word": "turbulent",
+"pos": "a",
+"zh": "a. 狂暴的, 骚乱的, 紊乱的",
+"en": "s characterized by unrest or disorder or insubordination / s (of a liquid) agitated vigorously; in a state of turbulence"
+},
+{
+"word": "supersede",
+"pos": "vt",
+"zh": "vt. 代替, 取代, 接替 / [法] 替代, 替换, 充任",
+"en": "v take the place or move into the position of"
+},
+{
+"word": "statesman",
+"pos": "n",
+"zh": "n. 政治家",
+"en": "n. a man who is a respected leader in national or international affairs"
+},
+{
+"word": "elegance",
+"pos": "n",
+"zh": "n. 高雅, 典雅, 优雅",
+"en": "n. a refined quality of gracefulness and good taste / n. a quality of neatness and ingenious simplicity in the solution …"
+},
+{
+"word": "unanimous",
+"pos": "a",
+"zh": "a. 意见一致的, 无异议的",
+"en": "s in complete agreement / s acting together as a single undiversified whole"
+},
+{
+"word": "refreshing",
+"pos": "a",
+"zh": "a. 使清爽的, 有精神的, 爽快的",
+"en": "v refresh one's memory / v make (to feel) fresh / v become or make oneself fresh again / v make fresh again / s impartin…"
+},
+{
+"word": "ailment",
+"pos": "n",
+"zh": "n. 病痛, 疾病 / [医] 疾病",
+"en": "n. an often persistent bodily disorder or disease; a cause for complaining"
+},
+{
+"word": "dread",
+"pos": "n/a/v",
+"zh": "n. 恐惧, 可怕的人(或事) / a. 可怕的, 可怖的 / v. 恐惧, 害怕",
+"en": "n fearful expectation or anticipation / v be afraid or scared of; be frightened of / s causing fear or dread or terror"
+},
+{
+"word": "intellect",
+"pos": "n",
+"zh": "n. 智力, 出众的才华, 知识分子 / [医] 智力, 才智",
+"en": "n knowledge and intellectual ability / n the capacity for rational thought or inference or discrimination / n a person w…"
+},
+{
+"word": "childish",
+"pos": "a",
+"zh": "a. 天真的, 孩子气的",
+"en": "s. indicating a lack of maturity"
+},
+{
+"word": "amuse",
+"pos": "vt",
+"zh": "vt. 消遣, 娱乐, 使发笑",
+"en": "v. occupy in an agreeable, entertaining or pleasant fashion / v. make (somebody) laugh"
+},
+{
+"word": "versatile",
+"pos": "a",
+"zh": "a. 多才多艺的, 万用的, 万向的",
+"en": "s. having great diversity or variety / s. changeable or inconstant / s. competent in many areas and able to turn with ea…"
+},
+{
+"word": "brittle",
+"pos": "a",
+"zh": "a. 易碎的, 脆弱的, 易坏的 / [机] 脆的, 脆性的, 易碎的",
+"en": "n. caramelized sugar cooled in thin sheets / s. having little elasticity; hence easily cracked or fractured or snapped /…"
+},
+{
+"word": "semiconductor",
+"pos": "n",
+"zh": "n. 半导体 / [化] 半导体",
+"en": "n. a substance as germanium or silicon whose electrical conductivity is intermediate between that of a metal and an insu…"
+},
+{
+"word": "irresistible",
+"pos": "a",
+"zh": "a. 不可抵抗的, 不能压制的 / [经] 不可抗力",
+"en": "a. impossible to resist; overpowering / s. overpoweringly attractive"
+},
+{
+"word": "dizzy",
+"pos": "a/vt",
+"zh": "a. 晕眩的, 眼花缭乱的 / vt. 使晕眩",
+"en": "v. make dizzy or giddy / s. having or causing a whirling sensation; liable to falling"
+},
+{
+"word": "recourse",
+"pos": "n",
+"zh": "n. 求援, 求助, 追索权 / [经] 追索权",
+"en": "n. act of turning to for assistance / n. something or someone turned to for assistance or security"
+},
+{
+"word": "rumble",
+"pos": "n/vi/vt",
+"zh": "n. 隆隆声, 辘辘声 / vi. 发隆隆声, 辘辘响 / vt. 使隆隆响, 低沉地说",
+"en": "n. a loud low dull continuous noise / n. a servant's seat (or luggage compartment) in the rear of a carriage / n. a figh…"
+},
+{
+"word": "juicy",
+"pos": "a",
+"zh": "a. 多汁液的, 生动的, 多水分的",
+"en": "a. full of juice / s. having strong sexual appeal"
+},
+{
+"word": "intentional",
+"pos": "a",
+"zh": "a. 故意的, 与目的有关的 / [法] 故意的, 有意的",
+"en": "s. characterized by conscious design or purpose"
+},
+{
+"word": "subside",
+"pos": "vi",
+"zh": "vi. 沉淀, 沉降, 平息",
+"en": "v. wear off or die down / v. sink to a lower level or form a depression / v. sink down or precipitate"
+},
+{
+"word": "professionalism",
+"pos": "n",
+"zh": "n. 职业特性, 专业技巧, 职业行为, 职业作风, (褒)专业人员的特质, 职业化 / [经] 职业特性, 职业作风, 职业化",
+"en": "n. the expertness characteristic of a professional person"
+},
+{
+"word": "vomit",
+"pos": "vt/vi/n",
+"zh": "vt. 吐出, 呕吐 / vi. 呕吐 / n. 呕吐, 呕吐物, 催吐剂",
+"en": "n. the matter ejected in vomiting / n. the reflex act of ejecting the contents of the stomach through the mouth / v. eje…"
+},
+{
+"word": "rhythmic",
+"pos": "a",
+"zh": "a. 有韵律的, 有节奏的",
+"en": "a recurring with measured regularity"
+},
+{
+"word": "pilgrim",
+"pos": "n/vi",
+"zh": "n. 旅行者, 朝圣者, 香客 / vi. 朝圣",
+"en": "n. someone who journeys in foreign lands / n. one of the colonists from England who sailed to America on the Mayflower a…"
+},
+{
+"word": "endlessly",
+"pos": "adv",
+"zh": "adv. 不断地, 无穷尽地",
+"en": "r. with unflagging resolve / r. (spatial sense) without bounds"
+},
+{
+"word": "illicit",
+"pos": "a",
+"zh": "a. 不法的, 不正当的, 禁止的 / [法] 违法的, 违禁的, 被禁止的",
+"en": "a. contrary to accepted morality (especially sexual morality) or convention"
+},
+{
+"word": "snail",
+"pos": "n/vt/vi",
+"zh": "n. 蜗牛, 行动迟缓的人, 脑筋迟钝的人, 蜗形凸轮 / vt. (蜗牛般)缓慢地打发(时间) / vi. 缓慢移动",
+"en": "n. freshwater or marine or terrestrial gastropod mollusk usually having an external enclosing spiral shell / v. gather s…"
+},
+{
+"word": "rift",
+"pos": "n/vi/vt",
+"zh": "n. 裂口, 空隙 / vi. 裂开 / vt. 使分开, 使割开",
+"en": "n. a gap between cloud masses / n. a narrow fissure in rock"
+},
+{
+"word": "facet",
+"pos": "n",
+"zh": "n. (多面体的)面, 方面, 琢面 / [医] 小平面, 小面",
+"en": "n. a smooth surface (as of a bone or cut gemstone)"
+}
+]

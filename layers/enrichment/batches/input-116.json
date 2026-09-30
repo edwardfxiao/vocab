@@ -1,0 +1,602 @@
+[
+{
+"word": "incinerate",
+"pos": "vi/vt",
+"zh": "vi. 烧成灰, 灰化 / vt. 焚化",
+"en": "v. become reduced to ashes"
+},
+{
+"word": "businesswoman",
+"pos": "n",
+"zh": "n. 商人, 办理实务的人, 经商者",
+"en": "n. a female businessperson"
+},
+{
+"word": "nonsensical",
+"pos": "a",
+"zh": "a. 无意义的, 荒谬的",
+"en": "s incongruous; inviting ridicule / s having no intelligible meaning"
+},
+{
+"word": "mutilate",
+"pos": "vt",
+"zh": "vt. 切断, 使残废, 使不完整 / [医] 致残毁",
+"en": "v. destroy or injure severely / v. destroy or injure severely"
+},
+{
+"word": "misnomer",
+"pos": "n",
+"zh": "n. 取名不当 / [法] 叫错姓名, 用词不当, 使用不适名称",
+"en": "n. an incorrect or unsuitable name"
+},
+{
+"word": "subspecies",
+"pos": "n",
+"zh": "n. 亚种",
+"en": "n. (biology) a taxonomic group that is a division of a species; usually arises as a consequence of geographical isolatio…"
+},
+{
+"word": "equanimity",
+"pos": "n",
+"zh": "n. 平静, 镇定, 沉着",
+"en": "n steadiness of mind under stress"
+},
+{
+"word": "diffident",
+"pos": "a",
+"zh": "a. 无自信的, 谦虚谨慎的, 羞怯的",
+"en": "s. showing modest reserve / a. lacking self-confidence"
+},
+{
+"word": "slurp",
+"pos": "n/v",
+"zh": "n. 吃的声音 / v. 出声地吃(或喝)",
+"en": "v. eat noisily"
+},
+{
+"word": "deface",
+"pos": "vt",
+"zh": "vt. 损伤外观 / [法] 毁伤外貌, 破坏外观, 涂污",
+"en": "v. mar or spoil the appearance of"
+},
+{
+"word": "sensitize",
+"pos": "vt/vi",
+"zh": "vt. 使敏感, 使具有感光性 / vi. 变得敏感",
+"en": "v. make sensitive or aware / v. cause to sense; make sensitive / v. make sensitive to a drug or allergen"
+},
+{
+"word": "sentinel",
+"pos": "n/vt",
+"zh": "n. 哨兵, 标记 / vt. 警戒, 守卫 / [计] 标记",
+"en": "n a person employed to keep watch for some anticipated event"
+},
+{
+"word": "whitewash",
+"pos": "n",
+"zh": "n. 白色涂料, 粉饰, 得零分的惨败",
+"en": "n. a defeat in which the losing person or team fails to score / n. wash consisting of lime and size in water; used for w…"
+},
+{
+"word": "vermin",
+"pos": "n",
+"zh": "n. 害虫, 歹徒 / [医] 虫, 体外寄生虫(如蚤、臭虫、蚤等)",
+"en": "n. an irritating or obnoxious person / n. any of various small animals or insects that are pests; e.g. cockroaches or ra…"
+},
+{
+"word": "undivided",
+"pos": "a",
+"zh": "a. 未分开的, 专一的, (组织等)未分裂的 / [法] 不可分割的, 完整的, 未分割的",
+"en": "s. not parted by conflict of opinion / s. not shared by or among others / s. not separated into parts or shares; constit…"
+},
+{
+"word": "lien",
+"pos": "n",
+"zh": "n. 留置权, 扣押权 / [医] 脾",
+"en": "n. the right to take another's property if an obligation is not discharged"
+},
+{
+"word": "maelstrom",
+"pos": "n",
+"zh": "n. 大漩涡, 极度混乱",
+"en": "n a powerful circular current of water (usually the result of conflicting tides)"
+},
+{
+"word": "brocade",
+"pos": "n",
+"zh": "n. 织锦",
+"en": "n. thick heavy expensive material with a raised pattern / v. weave a design into (textiles)"
+},
+{
+"word": "odious",
+"pos": "a",
+"zh": "a. 可憎的, 可厌的, 丑恶的",
+"en": "s unequivocally detestable"
+},
+{
+"word": "revile",
+"pos": "v",
+"zh": "v. 辱骂, 斥责",
+"en": "v spread negative information about"
+},
+{
+"word": "mongrel",
+"pos": "n/a",
+"zh": "n. 杂种, 杂种狗, 混血儿 / a. 杂种的, 混血儿的",
+"en": "n derogatory term for a variation that is not genuine; something irregular or inferior or of dubious origin / n an infer…"
+},
+{
+"word": "lethargic",
+"pos": "a",
+"zh": "a. 昏睡的, 无生气的, 泠漠的, 冷淡的 / [医] 昏睡的, 嗜眠的",
+"en": "a. deficient in alertness or activity"
+},
+{
+"word": "irrepressible",
+"pos": "a",
+"zh": "a. 约束不住的, 抑制不住的",
+"en": "s. impossible to repress or control"
+},
+{
+"word": "jest",
+"pos": "n/vi/vt",
+"zh": "n. 笑柄, 笑话 / vi. 讲笑话, 嘲笑, 开玩笑 / vt. 嘲笑",
+"en": "n. activity characterized by good humor"
+},
+{
+"word": "airlift",
+"pos": "n/vt",
+"zh": "n. 空运, 空中补给线, 空运物资 / vt. 空运",
+"en": "n. transportation of people or goods by air (especially when other means of access are unavailable) / v. fly people or g…"
+},
+{
+"word": "cleft",
+"pos": "n/a",
+"zh": "n. 裂缝, 裂口 / a. 劈开的 / cleave的过去式和过去分词",
+"en": "n. a split or indentation in something (as the palate or chin) / s. having one or more incisions reaching nearly to the …"
+},
+{
+"word": "unrestrained",
+"pos": "a",
+"zh": "a. 未克制的, 无限制的, 放纵的 / [法] 无拘束的, 无限制的:自由的, 过度的",
+"en": "a. not subject to restraint"
+},
+{
+"word": "pillage",
+"pos": "n/v",
+"zh": "n. 掠夺, 抢劫, 掠夺物, 战利品 / v. 掠夺, 抢劫",
+"en": "n goods or money obtained illegally / n the act of stealing valuable things from a place / v steal goods; take as spoils"
+},
+{
+"word": "ravenous",
+"pos": "a",
+"zh": "a. 贪婪的, 饿极的, 狼吞虎咽的",
+"en": "s extremely hungry / s devouring or craving food in great quantities"
+},
+{
+"word": "diabolical",
+"pos": "a",
+"zh": "a. 恶魔的",
+"en": "s showing the cunning or ingenuity or wickedness typical of a devil / s extremely evil or cruel; expressive of cruelty o…"
+},
+{
+"word": "efficacious",
+"pos": "a",
+"zh": "a. 有效的, 灵验的",
+"en": "a. marked by qualities giving the power to produce an intended effect"
+},
+{
+"word": "interconnect",
+"pos": "vt",
+"zh": "vt. 使互相连接",
+"en": "v. cause to be interconnected or interwoven"
+},
+{
+"word": "fission",
+"pos": "n",
+"zh": "n. 裂开, 分裂, 分体 / [化] 裂变",
+"en": "n. reproduction of some unicellular organisms by division of the cell into two more or less equal parts / n. a nuclear r…"
+},
+{
+"word": "pediatrics",
+"pos": "n",
+"zh": "n. 小儿科 / [医] 儿科学",
+"en": "n. the branch of medicine concerned with the treatment of infants and children"
+},
+{
+"word": "kaleidoscope",
+"pos": "n",
+"zh": "n. 万花筒",
+"en": "n. a complex pattern of constantly changing colors and shapes / n. an optical toy in a tube; it produces symmetrical pat…"
+},
+{
+"word": "haughty",
+"pos": "a",
+"zh": "a. 傲慢的, 骄傲的, 崇高的",
+"en": "s having or showing arrogant superiority to and disdain of those one views as unworthy"
+},
+{
+"word": "modicum",
+"pos": "n",
+"zh": "n. 少量",
+"en": "n. a small or moderate or token amount"
+},
+{
+"word": "convergent",
+"pos": "a",
+"zh": "a. 趋集于一点的, 会聚性的, 收敛的 / [医] 会聚的, 集合的",
+"en": "a. tending to come together from different directions"
+},
+{
+"word": "morass",
+"pos": "n",
+"zh": "n. 沼泽, 困境, 乱糟糟的一堆",
+"en": "n a soft wet area of low-lying land that sinks underfoot"
+},
+{
+"word": "hodgepodge",
+"pos": "n",
+"zh": "n. 杂烩菜, 混杂物",
+"en": "n a motley assortment of things / n a theory or argument made up of miscellaneous or incongruous ideas"
+},
+{
+"word": "machination",
+"pos": "n",
+"zh": "n. 阴谋, 图谋, 策划 / [法] 诡计, 奸计, 阴谋",
+"en": "n a crafty and involved plot to achieve your (usually sinister) ends"
+},
+{
+"word": "recant",
+"pos": "vt/vi",
+"zh": "vt. 放弃 / vi. 放弃信仰, 撤回声明, 公开认错",
+"en": "v formally reject or disavow a formerly held belief, usually under pressure"
+},
+{
+"word": "proselytize",
+"pos": "vt/vi",
+"zh": "vt. 使改变宗教信仰 / vi. 劝诱改变宗教信仰",
+"en": "v. convert to another faith or religion"
+},
+{
+"word": "atheism",
+"pos": "n",
+"zh": "n. 无神论",
+"en": "n. the doctrine or belief that there is no God / n. a lack of belief in the existence of God or gods"
+},
+{
+"word": "mannered",
+"pos": "a",
+"zh": "a. 守规矩的, 矫饰的",
+"en": "s. having unnatural mannerisms"
+},
+{
+"word": "lusty",
+"pos": "a",
+"zh": "a. 健壮的, 精力充沛的",
+"en": "s vigorously passionate / s endowed with or exhibiting great bodily or mental health"
+},
+{
+"word": "abeyance",
+"pos": "n",
+"zh": "n. 中止, 暂搁, 停止, 归属待定 / [化] 潜态",
+"en": "n. temporary cessation or suspension"
+},
+{
+"word": "feline",
+"pos": "a/n",
+"zh": "a. 猫的, 猫科的, 猫一样的 / n. 猫, 猫科动物",
+"en": "n. any of various lithe-bodied roundheaded fissiped mammals, many with retractile claws / a. of or relating to cats"
+},
+{
+"word": "pejorative",
+"pos": "a/n",
+"zh": "a. 贬损的, 轻蔑的 / n. 轻蔑语, 贬义词",
+"en": "s expressing disapproval"
+},
+{
+"word": "presumptuous",
+"pos": "a",
+"zh": "a. 放肆的, 冒昧的, 傲慢的",
+"en": "s excessively forward"
+},
+{
+"word": "conflagration",
+"pos": "n",
+"zh": "n. 大火灾, 大火, 冲突 / [化] 暴燃; 快速燃烧",
+"en": "n. a very intense and uncontrolled fire"
+},
+{
+"word": "pittance",
+"pos": "n",
+"zh": "n. 少量津贴, 小额施舍, 少量",
+"en": "n. an inadequate payment"
+},
+{
+"word": "talisman",
+"pos": "n",
+"zh": "n. 护身符, 驱邪物, 法宝",
+"en": "n a trinket or piece of jewelry usually hung about the neck and thought to be a magical protection against evil or disea…"
+},
+{
+"word": "irreconcilable",
+"pos": "a",
+"zh": "a. 不能和解的, 不能协调的, 矛盾的",
+"en": "a. impossible to reconcile"
+},
+{
+"word": "rancor",
+"pos": "n",
+"zh": "n. 敌意, 深仇",
+"en": "n a feeling of deep and bitter anger and ill-will"
+},
+{
+"word": "lethargy",
+"pos": "n",
+"zh": "n. 昏睡, 瞌睡, 无力气 / [医] 昏睡, 嗜眠",
+"en": "n. a state of comatose torpor (as found in sleeping sickness)"
+},
+{
+"word": "undifferentiated",
+"pos": "a",
+"zh": "a. 无差别的, 一致的, 尚未显出差别的",
+"en": "a. not differentiated"
+},
+{
+"word": "gaggle",
+"pos": "n/vi",
+"zh": "n. 鹅群, 一群, 嘎嘎叫声 / vi. 嘎嘎地叫",
+"en": "n. a flock of geese / v. make a noise characteristic of a goose"
+},
+{
+"word": "expediency",
+"pos": "n",
+"zh": "n. 权宜, 方便, 私利",
+"en": "n the quality of being suited to the end in view"
+},
+{
+"word": "dismember",
+"pos": "vt",
+"zh": "vt. 割断手足, 支解, 分割",
+"en": "v. separate the limbs from the body / v. divide into pieces"
+},
+{
+"word": "demur",
+"pos": "vi/n",
+"zh": "vi. 提出异议, 反对, 抗辩 / n. 异议, 反对",
+"en": "n. (law) a formal objection to an opponent's pleadings / v. take exception to / v. enter a demurrer"
+},
+{
+"word": "impale",
+"pos": "vt",
+"zh": "vt. 刺穿, 使绝望, 钉住",
+"en": "v. kill by piercing with a spear or sharp pole"
+},
+{
+"word": "trowel",
+"pos": "n/vt",
+"zh": "n. 泥铲, 泥刀 / vt. 用泥铲涂",
+"en": "n. a small hand tool with a handle and flat metal blade; used for scooping or spreading plaster or similar materials / v…"
+},
+{
+"word": "redemptive",
+"pos": "a",
+"zh": "a. 赎回的, 救世的, 赎身的",
+"en": "a. of or relating to or resulting in redemption / s. bringing about salvation or redemption from sin"
+},
+{
+"word": "functionary",
+"pos": "n/a",
+"zh": "n. 职员, 负责人员, 官员 / a. 机能的, 作用的, 职务的",
+"en": "n a worker who holds or is invested with an office"
+},
+{
+"word": "seashell",
+"pos": "n",
+"zh": "n. 海贝壳",
+"en": "n. the shell of a marine organism"
+},
+{
+"word": "simile",
+"pos": "n",
+"zh": "n. 明喻, 明喻说法",
+"en": "n. a figure of speech that expresses a resemblance between things of different kinds (usually formed with `like' or `as'…"
+},
+{
+"word": "gaffe",
+"pos": "n",
+"zh": "n. 过失, 失态, 出丑",
+"en": "n a socially awkward or tactless act"
+},
+{
+"word": "subliminal",
+"pos": "a",
+"zh": "a. 下意识的, 潜在意识的 / [医] 阈下的, 限下的",
+"en": "s. below the threshold of conscious perception"
+},
+{
+"word": "earthenware",
+"pos": "n",
+"zh": "n. 陶器 / [化] 陶器; 土器",
+"en": "n. ceramic ware made of porous clay fired at low heat"
+},
+{
+"word": "scythe",
+"pos": "n/vt",
+"zh": "n. 长柄大镰刀, 大钐镰 / vt. 用大镰刀割",
+"en": "n. an edge tool for cutting grass; has a long handle that must be held with both hands and a curved blade that moves par…"
+},
+{
+"word": "fete",
+"pos": "n/vt",
+"zh": "n. 庆祝, 祭祀, 节日 / vt. 宴请, 招待",
+"en": "n. an elaborate party (often outdoors)"
+},
+{
+"word": "prim",
+"pos": "a/vt/vi",
+"zh": "a. 整洁的, 端正的, 规规矩矩的, 呆板的, 拘谨的 / vt. 弄整齐, 使显出一本正经的表情 / vi. 作出一本正经的样子",
+"en": "v. assume a prim appearance / v. contract one's lips / v. dress primly"
+},
+{
+"word": "unrepentant",
+"pos": "a",
+"zh": "a. 不改悔的, 不悔悟的, 顽固不化的 / [法] 毫不悔改的",
+"en": "a not penitent or remorseful / s stubbornly persistent in wrongdoing"
+},
+{
+"word": "temerity",
+"pos": "n",
+"zh": "n. 鲁莽, 蛮勇",
+"en": "n fearless daring"
+},
+{
+"word": "redoubtable",
+"pos": "a",
+"zh": "a. 可怕的, 厉害的, 可敬的",
+"en": "s. worthy of respect or honor"
+},
+{
+"word": "redolent",
+"pos": "a",
+"zh": "a. 芬芳的, 有...香味的, 令人想起...的",
+"en": "s. (used with `of' or `with') noticeably odorous"
+},
+{
+"word": "nebulous",
+"pos": "a",
+"zh": "a. 星云的, 星云状的, 朦胧的",
+"en": "s. lacking definition or definite content"
+},
+{
+"word": "figurehead",
+"pos": "n",
+"zh": "n. 装饰船头的人像, 傀儡领袖",
+"en": "n. figure on the bow of some sailing vessels"
+},
+{
+"word": "quibble",
+"pos": "n/vi/vt",
+"zh": "n. 遁词, 双关语 / vi. 吹毛求疵, 争吵, 说模棱两可的话 / vt. 对...诡辩",
+"en": "n. an evasion of the point of an argument by raising irrelevant distinctions or objections / v. evade the truth of a poi…"
+},
+{
+"word": "unadorned",
+"pos": "a",
+"zh": "a. 无装饰的, 未装饰的, 不加渲染的, 朴素的",
+"en": "a. not decorated with something to increase its beauty or distinction"
+},
+{
+"word": "malign",
+"pos": "a/vt",
+"zh": "a. 有害的, 恶性的, 有恶意的 / vt. 诽谤, 说坏话",
+"en": "a. evil or harmful in nature or influence"
+},
+{
+"word": "elegy",
+"pos": "n",
+"zh": "n. 悲歌, 哀歌, 挽歌",
+"en": "n. a mournful poem; a lament for the dead"
+},
+{
+"word": "tussle",
+"pos": "n/vi",
+"zh": "n. 扭打, 争斗, 论争 / vi. 扭打, 打斗",
+"en": "n disorderly fighting / v fight or struggle in a confused way at close quarters / v make messy or untidy"
+},
+{
+"word": "hibernation",
+"pos": "n",
+"zh": "n. 过冬, 冬眠, 避寒 / [医] 冬眠, 冬蛰",
+"en": "n. the torpid or resting state in which some animals pass the winter / n. cessation from or slowing of activity during t…"
+},
+{
+"word": "naivety",
+"pos": "n",
+"zh": "n. 无邪的行为；天真烂漫（等于naivete）",
+"en": "n lack of sophistication or worldliness"
+},
+{
+"word": "daunt",
+"pos": "vt",
+"zh": "vt. 威吓, 难倒, 使气馁",
+"en": "v. cause to lose courage"
+},
+{
+"word": "debrief",
+"pos": "vt",
+"zh": "vt. 听取报告, 盘问",
+"en": "v. put someone through a debriefing and make him report"
+},
+{
+"word": "alias",
+"pos": "n/adv",
+"zh": "n. 别名, 化名 / adv. 以化名为人所知 / [计] 别名; 替换入口",
+"en": "n. a name that has been assumed temporarily / r. as known or named at another time or place"
+},
+{
+"word": "squall",
+"pos": "n/vi/vt",
+"zh": "n. 飑, 喊叫 / vi. 起飑, 嚎啕, 叫嚷 / vt. 尖叫",
+"en": "n. sudden violent winds; often accompanied by precipitation / v. make high-pitched, whiney noises / v. blow in a squall"
+},
+{
+"word": "sinuous",
+"pos": "a",
+"zh": "a. 弯弯曲曲的, 迂回的, 运动柔软的 / [医] 纡曲的",
+"en": "s curved or curving in and out"
+},
+{
+"word": "attenuate",
+"pos": "a/vt/vi",
+"zh": "a. 纤细的, 稀薄的, 稀释的 / vt. 使减弱, 使纤细 / vi. 变稀薄, 变纤细, 减少 / [计] 衰减",
+"en": "v. become weaker, in strength, value, or magnitude / s. reduced in strength"
+},
+{
+"word": "diction",
+"pos": "n",
+"zh": "n. 措辞, 发音, 用语",
+"en": "n the articulation of speech regarded from the point of view of its intelligibility to the audience / n the manner in wh…"
+},
+{
+"word": "foretell",
+"pos": "vt",
+"zh": "vt. 预言, 预告, 预示",
+"en": "v foreshadow or presage / v make a prediction about; tell in advance / v indicate by signs"
+},
+{
+"word": "legible",
+"pos": "a",
+"zh": "a. 清晰的, 易读的",
+"en": "a. (of handwriting, print, etc.) capable of being read or deciphered"
+},
+{
+"word": "inimical",
+"pos": "a",
+"zh": "a. 有敌意的, 有害的, 抵触的",
+"en": "s not friendly"
+},
+{
+"word": "gullible",
+"pos": "a",
+"zh": "a. 易受骗的 / [法] 易受骗的, 轻信的",
+"en": "s. easily tricked because of being too trusting"
+},
+{
+"word": "whimsy",
+"pos": "n",
+"zh": "n. 怪念头, 离奇的东西, 反复无常, 绞盘",
+"en": "n an odd or fanciful or capricious idea / n the trait of acting unpredictably and more from whim or caprice than from re…"
+},
+{
+"word": "largesse",
+"pos": "n",
+"zh": "n. 慷慨的赠与, 慷慨赠与物, 慷慨的赏钱",
+"en": "n a gift or money given (as for service or out of benevolence); usually given ostentatiously / n liberality in bestowing…"
+},
+{
+"word": "monotone",
+"pos": "a/n",
+"zh": "a. 单调的 / n. 单调",
+"en": "n. an unchanging intonation / n. a single tone repeated with different words or different rhythms (especially in renderi…"
+}
+]

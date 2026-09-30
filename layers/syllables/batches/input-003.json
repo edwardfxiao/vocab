@@ -1,0 +1,604 @@
+[
+ {
+  "word": "pessimism",
+  "split": "pes·si·mism",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "'pesimizm"
+ },
+ {
+  "word": "helpline",
+  "split": "helpline",
+  "source": "pyphen",
+  "ref": 2,
+  "ipa": "ˈhelplaɪn"
+ },
+ {
+  "word": "chasm",
+  "split": "chasm",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'kæzәm"
+ },
+ {
+  "word": "superfluous",
+  "split": "su·per·flu·ous",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "sju'pә:fluәs"
+ },
+ {
+  "word": "microcosm",
+  "split": "mi·cro·cosm",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "'maikrәukɒzm"
+ },
+ {
+  "word": "mannerism",
+  "split": "man·ner·ism",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "'mænәrizm"
+ },
+ {
+  "word": "circumference",
+  "split": "cir·cum·fer·ence",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "sә'kʌmfәrәns"
+ },
+ {
+  "word": "appreciable",
+  "split": "ap·pre·ci·a·ble",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "ә'pri:ʃiәbl"
+ },
+ {
+  "word": "sundial",
+  "split": "sun·di·al",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'sʌndaiәl"
+ },
+ {
+  "word": "waggon",
+  "split": "wag·gon",
+  "source": "moby",
+  "ref": 0,
+  "ipa": ""
+ },
+ {
+  "word": "photojournalism",
+  "split": "pho·to·jour·nal·ism",
+  "source": "moby",
+  "ref": 0,
+  "ipa": ",fәutәu'dʒә:nәlizm"
+ },
+ {
+  "word": "flyover",
+  "split": "fly·o·ver",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'flaiәjvә(r)"
+ },
+ {
+  "word": "coeducation",
+  "split": "co·ed·u·ca·tion",
+  "source": "moby",
+  "ref": 4,
+  "ipa": ".kәuedju'keiʃәn"
+ },
+ {
+  "word": "email",
+  "split": "email",
+  "source": "pyphen",
+  "ref": 2,
+  "ipa": "'i:'meil"
+ },
+ {
+  "word": "first-aid",
+  "split": "first-aid",
+  "source": "moby",
+  "ref": 1,
+  "ipa": "'f\\\\\\\\:st'eid"
+ },
+ {
+  "word": "high-rise",
+  "split": "high-rise",
+  "source": "moby",
+  "ref": 0,
+  "ipa": ""
+ },
+ {
+  "word": "open-book",
+  "split": "o·pen-book",
+  "source": "moby",
+  "ref": 0,
+  "ipa": ""
+ },
+ {
+  "word": "phone-in",
+  "split": "phone-in",
+  "source": "pyphen",
+  "ref": 0,
+  "ipa": ""
+ },
+ {
+  "word": "water-skiing",
+  "split": "wa·ter-ski·ing",
+  "source": "moby",
+  "ref": 0,
+  "ipa": ""
+ },
+ {
+  "word": "colourful",
+  "split": "colour·ful",
+  "source": "pyphen",
+  "ref": 3,
+  "ipa": "'kʌlәful"
+ },
+ {
+  "word": "firearm",
+  "split": "fire·arm",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'faiә'ɑ:m"
+ },
+ {
+  "word": "ceasefire",
+  "split": "cease·fire",
+  "source": "pyphen",
+  "ref": 3,
+  "ipa": "ˈsi:sfaɪə(r)"
+ },
+ {
+  "word": "premiere",
+  "split": "prem·i·ere",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "pri'miә"
+ },
+ {
+  "word": "scepticism",
+  "split": "scep·ti·cism",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "'skeptisizm"
+ },
+ {
+  "word": "fascism",
+  "split": "fas·cism",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'fæʃizm"
+ },
+ {
+  "word": "watercolour",
+  "split": "wa·ter·colour",
+  "source": "pyphen",
+  "ref": 2,
+  "ipa": "'wɒtә.kælә"
+ },
+ {
+  "word": "veterinary",
+  "split": "vet·er·i·nar·y",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "'vetәrinәri"
+ },
+ {
+  "word": "dementia",
+  "split": "de·men·tia",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "di'menʃiә"
+ },
+ {
+  "word": "biodiversity",
+  "split": "bio·di·ver·si·ty",
+  "source": "pyphen",
+  "ref": 6,
+  "ipa": ""
+ },
+ {
+  "word": "fiery",
+  "split": "fier·y",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'faiәri"
+ },
+ {
+  "word": "detainee",
+  "split": "de·tainee",
+  "source": "pyphen",
+  "ref": 3,
+  "ipa": ".di:tei'ni:"
+ },
+ {
+  "word": "ibid",
+  "split": "ibid",
+  "source": "pyphen",
+  "ref": 2,
+  "ipa": ""
+ },
+ {
+  "word": "rooftop",
+  "split": "rooftop",
+  "source": "pyphen",
+  "ref": 2,
+  "ipa": "'ru:ftɒp"
+ },
+ {
+  "word": "gunfire",
+  "split": "gun·fire",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'gʌnfaiә"
+ },
+ {
+  "word": "spokesperson",
+  "split": "spokesper·son",
+  "source": "pyphen",
+  "ref": 3,
+  "ipa": "'spәukspә:sn"
+ },
+ {
+  "word": "baptism",
+  "split": "bap·tism",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'bæptizm"
+ },
+ {
+  "word": "leukaemia",
+  "split": "leu·kae·mi·a",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "lu:'ki:miә"
+ },
+ {
+  "word": "umpire",
+  "split": "um·pire",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'ʌmpaiә"
+ },
+ {
+  "word": "scour",
+  "split": "scour",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'skauә"
+ },
+ {
+  "word": "pessimistic",
+  "split": "pes·simistic",
+  "source": "pyphen",
+  "ref": 4,
+  "ipa": ".pesi'mistik"
+ },
+ {
+  "word": "conspire",
+  "split": "con·spire",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "kәn'spaiә"
+ },
+ {
+  "word": "platinum",
+  "split": "plat·i·num",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'plætinәm"
+ },
+ {
+  "word": "rigour",
+  "split": "rigour",
+  "source": "pyphen",
+  "ref": 2,
+  "ipa": "'rigә"
+ },
+ {
+  "word": "bonfire",
+  "split": "bon·fire",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'bɒnfaiә"
+ },
+ {
+  "word": "runaway",
+  "split": "run·away",
+  "source": "pyphen",
+  "ref": 3,
+  "ipa": "'rʌnә.wei"
+ },
+ {
+  "word": "satire",
+  "split": "sat·ire",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'sætaiә"
+ },
+ {
+  "word": "surreal",
+  "split": "sur·re·al",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "sә'riәl"
+ },
+ {
+  "word": "memorabilia",
+  "split": "mem·o·ra·bil·i·a",
+  "source": "moby",
+  "ref": 5,
+  "ipa": ".memәrә'biliә"
+ },
+ {
+  "word": "effluent",
+  "split": "ef·fluent",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'efluәnt"
+ },
+ {
+  "word": "attire",
+  "split": "at·tire",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "ә'taiә"
+ },
+ {
+  "word": "anaemia",
+  "split": "a·nae·mi·a",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "ә'ni:mjә"
+ },
+ {
+  "word": "theorem",
+  "split": "the·o·rem",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'θiәrәm"
+ },
+ {
+  "word": "transpire",
+  "split": "tran·spire",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "træn'spaiә"
+ },
+ {
+  "word": "biotech",
+  "split": "biotech",
+  "source": "pyphen",
+  "ref": 3,
+  "ipa": "'baɪəʊtek"
+ },
+ {
+  "word": "frigid",
+  "split": "frigid",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'frigid"
+ },
+ {
+  "word": "microorganism",
+  "split": "mi·cro·or·gan·ism",
+  "source": "moby",
+  "ref": 6,
+  "ipa": ".maikrәu'ɒ:gәnizm"
+ },
+ {
+  "word": "boulevard",
+  "split": "boule·vard",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'bu:lәvɑ:d"
+ },
+ {
+  "word": "vandalism",
+  "split": "van·dal·ism",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "'vændәlizm"
+ },
+ {
+  "word": "tally",
+  "split": "tally",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'tæli"
+ },
+ {
+  "word": "tyrant",
+  "split": "tyrant",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'taiәrәnt"
+ },
+ {
+  "word": "spasm",
+  "split": "spasm",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'spæzm"
+ },
+ {
+  "word": "polythene",
+  "split": "pol·y·thene",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'pɔli,θi:n"
+ },
+ {
+  "word": "fundamentalism",
+  "split": "fun·da·men·tal·ism",
+  "source": "moby",
+  "ref": 6,
+  "ipa": ".fʌndә'mentәlizm"
+ },
+ {
+  "word": "endemic",
+  "split": "endemic",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "en'demik"
+ },
+ {
+  "word": "conduit",
+  "split": "con·duit",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'kɒndit"
+ },
+ {
+  "word": "emerald",
+  "split": "em·er·ald",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'emәrәld"
+ },
+ {
+  "word": "firewood",
+  "split": "fire·wood",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'faiәwud"
+ },
+ {
+  "word": "heterogeneous",
+  "split": "het·er·o·ge·ne·ous",
+  "source": "moby",
+  "ref": 5,
+  "ipa": ".hetәrәu'dʒi:njәs"
+ },
+ {
+  "word": "entirety",
+  "split": "en·tire·ty",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "in'taiәti"
+ },
+ {
+  "word": "prism",
+  "split": "prism",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'prizm"
+ },
+ {
+  "word": "tiresome",
+  "split": "tire·some",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'taiәsәm"
+ },
+ {
+  "word": "buoy",
+  "split": "buoy",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "bɒi. 'bu:i"
+ },
+ {
+  "word": "sumptuous",
+  "split": "sump·tu·ous",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'sʌmptʃuәs"
+ },
+ {
+  "word": "posterior",
+  "split": "pos·te·ri·or",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "pɒ'stiәriә"
+ },
+ {
+  "word": "disinterested",
+  "split": "dis·in·ter·est·ed",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "dis'intristid"
+ },
+ {
+  "word": "inter",
+  "split": "inter",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "in'tә:"
+ },
+ {
+  "word": "conciliatory",
+  "split": "con·cil·ia·to·ry",
+  "source": "moby",
+  "ref": 6,
+  "ipa": "kәn'siliәtәri"
+ },
+ {
+  "word": "tenacity",
+  "split": "tenac·i·ty",
+  "source": "pyphen",
+  "ref": 4,
+  "ipa": "ti'næsiti"
+ },
+ {
+  "word": "dour",
+  "split": "dour",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "duә"
+ },
+ {
+  "word": "demeanour",
+  "split": "de·meanour",
+  "source": "pyphen",
+  "ref": 3,
+  "ipa": "di'mi:nә"
+ },
+ {
+  "word": "euphemism",
+  "split": "eu·phe·mism",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "'ju:fәmizm"
+ },
+ {
+  "word": "altruism",
+  "split": "al·tru·ism",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "'æltruizm"
+ },
+ {
+  "word": "purification",
+  "split": "pu·rifi·ca·tion",
+  "source": "pyphen",
+  "ref": 5,
+  "ipa": ".pjurifi'keiʃәn"
+ },
+ {
+  "word": "workmate",
+  "split": "work·mate",
+  "source": "pyphen",
+  "ref": 0,
+  "ipa": ""
+ },
+ {
+  "word": "preponderance",
+  "split": "pre·pon·der·ance",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "pri'pɒndәrәns"
+ },
+ {
+  "word": "normalization",
+  "split": "nor·mal·iza·tion",
+  "source": "pyphen",
+  "ref": 5,
+  "ipa": ".nɒ:mәlai'zeiʃәn"
+ }
+]

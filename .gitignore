@@ -1,0 +1,11 @@
+node_modules/
+dist/
+data/index.json
+data/*/stories/
+__pycache__/
+.DS_Store
+layers/syllables/mhyph.txt
+layers/syllables/cmudict.dict
+layers/syllables/review.txt
+layers/syllables/review.json
+site/

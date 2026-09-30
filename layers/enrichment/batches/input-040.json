@@ -1,0 +1,602 @@
+[
+{
+"word": "refrigerator",
+"pos": "n",
+"zh": "n. 电冰箱, 冷藏库 / [计] 冷冻机; 致冷器",
+"en": "n. white goods in which food can be stored at low temperatures"
+},
+{
+"word": "coincide",
+"pos": "vi",
+"zh": "vi. 一致, 符合 / [化] 重合",
+"en": "v. go with, fall together / v. be the same"
+},
+{
+"word": "lively",
+"pos": "a",
+"zh": "a. 活泼的, 鲜明的, 生动的",
+"en": "a. full of life and energy / s. full of zest or vigor / s. filled with events or activity"
+},
+{
+"word": "ladder",
+"pos": "n/vi",
+"zh": "n. 梯, 梯状物, 发迹的途径 / vi. 袜子抽丝, 成名",
+"en": "n. steps consisting of two parallel members connected by rungs; for climbing up or down / n. ascending stages by which s…"
+},
+{
+"word": "ancestor",
+"pos": "n",
+"zh": "n. 祖先, 祖宗",
+"en": "n. someone from whom you are descended (but usually more remote than a grandparent)"
+},
+{
+"word": "optimistic",
+"pos": "a",
+"zh": "a. 乐观的, 乐观主义的, 乐天的",
+"en": "a. expecting the best in this best of all possible worlds"
+},
+{
+"word": "cage",
+"pos": "n/vt",
+"zh": "n. 笼, 牢房, 战俘营 / vt. 关进笼内",
+"en": "n. an enclosure made or wire or metal bars in which birds or animals can be kept / n. something that restricts freedom a…"
+},
+{
+"word": "shrimp",
+"pos": "n/vi",
+"zh": "n. 虾, 小虾, 矮子 / vi. 捕小虾",
+"en": "n. small slender-bodied chiefly marine decapod crustaceans with a long tail and single pair of pincers; many species are…"
+},
+{
+"word": "ruler",
+"pos": "n",
+"zh": "n. 统治者, 管理者, 尺, 直尺 / n. 划线板 / [计] 标尺",
+"en": "n. a person who rules or commands"
+},
+{
+"word": "keeper",
+"pos": "n",
+"zh": "n. 监护人, 管理人, 看守人 / [机] 保管人, 看守人, 保持片",
+"en": "n. someone in charge of other people"
+},
+{
+"word": "hostile",
+"pos": "a/n",
+"zh": "a. 敌人的, 怀敌意的, 敌对的 / n. 敌对分子",
+"en": "n. troops belonging to the enemy's military forces / a. characterized by enmity or ill will / a. not belonging to your o…"
+},
+{
+"word": "formulate",
+"pos": "vt",
+"zh": "vt. 用公式表示, 明确叙述, 制订 / [机] 公式化, 公式表示",
+"en": "v. prepare according to a formula"
+},
+{
+"word": "homeland",
+"pos": "n",
+"zh": "n. 本国, 故国",
+"en": "n the country where you were born"
+},
+{
+"word": "wolf",
+"pos": "n/vt",
+"zh": "n. 狼, 残忍贪婪之人, 极度穷困 / vt. 狼吞虎咽, 大吃",
+"en": "n. any of various predatory carnivorous canine mammals of North America and Eurasia that usually hunt in packs / n. Aust…"
+},
+{
+"word": "rack",
+"pos": "n/vt/vi",
+"zh": "n. 架, 行李架, 饲草架, 搁物架, 痛苦, 折磨, 齿条, 行云团 / vt. 把...放在架上, 在架上制作, 折磨, 使痛苦, 压榨, 榨取, 猛烈撕拉, 拷问 / vi…",
+"en": "n. framework for holding objects / n. rib section of a forequarter of veal or pork or especially lamb or mutton / n. an …"
+},
+{
+"word": "reproduce",
+"pos": "v",
+"zh": "v. 繁殖, 再生, 复制, 生殖 / [计] 复制",
+"en": "v. make a copy or equivalent of / v. have offspring or produce more individuals of a given animal or plant / v. recreate…"
+},
+{
+"word": "correspondence",
+"pos": "n",
+"zh": "n. 相符, 通信, 信件 / [医] 对应, 相对",
+"en": "n. communication by the exchange of letters"
+},
+{
+"word": "costume",
+"pos": "n",
+"zh": "n. 装束, 服装",
+"en": "n. the attire worn in a play or at a fancy dress ball / n. unusual or period attire not characteristic of or appropriate…"
+},
+{
+"word": "supper",
+"pos": "n",
+"zh": "n. 晚餐",
+"en": "n. a light evening meal; served in early evening if dinner is at midday or served late in the evening at bedtime / n. a …"
+},
+{
+"word": "cartoon",
+"pos": "n/v",
+"zh": "n. 卡通画, 漫画 / v. 画漫画",
+"en": "n. a humorous or satirical drawing published in a newspaper or magazine / n. a film made by photographing a series of ca…"
+},
+{
+"word": "creep",
+"pos": "n/vi",
+"zh": "n. 爬, 徐行, 蠕动 / vi. 爬, 蔓延, 潜行",
+"en": "n. someone unpleasantly strange or eccentric / n. a slow longitudinal movement or deformation / n. a pen that is fenced …"
+},
+{
+"word": "bug",
+"pos": "n/vt/vi",
+"zh": "n. 错误, 虫, 病菌, 缺陷, 窃听器, 癖好, 防盗报警器, 双座小汽车, 要人 / vt. 装防盗报警器, 装窃听器, 激怒 / vi. 捉虫, 暴突 / [计] 缺点, …",
+"en": "n. general term for any insect or similar creeping or crawling invertebrate / n. a fault or defect in a computer program…"
+},
+{
+"word": "bless",
+"pos": "vt",
+"zh": "vt. 祝福, 祈佑, 使神圣化",
+"en": "v. give a benediction to / v. confer prosperity or happiness on / v. make the sign of the cross over someone in order to…"
+},
+{
+"word": "accessible",
+"pos": "a",
+"zh": "a. 易接近的, 可进入的, 可使用的, 易受影响的, 可理解的",
+"en": "a. capable of being reached / s. capable of being read with comprehension / s. easily obtained / s. easy to get along wi…"
+},
+{
+"word": "verdict",
+"pos": "n",
+"zh": "n. 裁决, 判决, 判断性意见, 定论, 结论 / [法] 定论, 判断, 意见",
+"en": "n. (law) the findings of a jury on issues of fact submitted to it for decision; can be used in formulating a judgment"
+},
+{
+"word": "deem",
+"pos": "v",
+"zh": "v. 认为, 相信",
+"en": "v. keep in mind or convey as a conviction or view"
+},
+{
+"word": "inhabitant",
+"pos": "n",
+"zh": "n. 居民, 居住者 / [医] 居民",
+"en": "n. a person who inhabits a particular place"
+},
+{
+"word": "classify",
+"pos": "vt",
+"zh": "vt. 分类, 归类, 分等 / [建] 分类, 分级, 分粒",
+"en": "v. arrange or order by classes or categories / v. declare unavailable, as for security reasons"
+},
+{
+"word": "sleeve",
+"pos": "n/vt",
+"zh": "n. 袖子, 套管 / vt. 缝上袖子",
+"en": "n. the part of a garment that is attached at the armhole and that provides a cloth covering for the arm / n. small case …"
+},
+{
+"word": "lamb",
+"pos": "n/v",
+"zh": "n. 小羊, 羔羊 / v. 产羊羔",
+"en": "n. young sheep / n. English essayist (1775-1834) / n. a person easily deceived or cheated (especially in financial matte…"
+},
+{
+"word": "bankruptcy",
+"pos": "n",
+"zh": "n. 破产者 / [经] 破产, 倒闭",
+"en": "n. a state of complete lack of some abstract property / n. inability to discharge all your debts as they come due / n. a…"
+},
+{
+"word": "vaccine",
+"pos": "n/a",
+"zh": "n. 牛痘苗, 疫苗 / a. 疫苗的, 牛痘的",
+"en": "n. immunogen consisting of a suspension of weakened or dead pathogenic cells injected in order to stimulate the producti…"
+},
+{
+"word": "exam",
+"pos": "n",
+"zh": "n. 考试, 测验",
+"en": "n a set of questions or exercises evaluating skill or knowledge"
+},
+{
+"word": "drawer",
+"pos": "n",
+"zh": "n. 抽屉, 开票人 / [计] 抽屉",
+"en": "n. a boxlike container in a piece of furniture; made so as to slide in and out / n. the person who writes a check or dra…"
+},
+{
+"word": "collaboration",
+"pos": "n",
+"zh": "n. 合作, 勾结 / [法] 通敌卖国者, 奸细",
+"en": "n. act of working jointly / n. act of cooperating traitorously with an enemy that is occupying your country"
+},
+{
+"word": "patience",
+"pos": "n",
+"zh": "n. 耐性, 忍耐",
+"en": "n. good-natured tolerance of delay or incompetence"
+},
+{
+"word": "orbit",
+"pos": "n/vt/vi",
+"zh": "n. 轨道, 常轨, 眼眶 / vt. 绕...轨道而行 / vi. 进入轨道, 盘旋",
+"en": "n. the (usually elliptical) path described by one celestial body in its revolution about another / n. the path of an ele…"
+},
+{
+"word": "spite",
+"pos": "n/vt",
+"zh": "n. 恶意, 怨恨, 使人烦恼的事物 / vt. 故意刁难, 欺侮",
+"en": "n feeling a need to see others suffer / n malevolence by virtue of being malicious or spiteful or nasty / v hurt the fee…"
+},
+{
+"word": "submission",
+"pos": "n",
+"zh": "n. 屈服, 服从, 谦恭, 呈递, 提交, 意见 / [经] 提交, 提出, 提交公断",
+"en": "n. something (manuscripts or architectural plans and models or estimates or works of art of all genres etc.) submitted f…"
+},
+{
+"word": "prey",
+"pos": "n/vi",
+"zh": "n. 被掠食者, 牺牲者 / vi. 捕食",
+"en": "n. a person who is the aim of an attack (especially a victim of ridicule or exploitation) by some hostile person or infl…"
+},
+{
+"word": "patrol",
+"pos": "n/v",
+"zh": "n. 巡逻, 巡逻员, 侦察队 / v. 巡逻, 巡视",
+"en": "n. a detachment used for security or reconnaissance / n. the activity of going around or through an area at regular inte…"
+},
+{
+"word": "predecessor",
+"pos": "n",
+"zh": "n. 前任, 先辈, 前身 / [医] 初牙, 前辈, 祖先",
+"en": "n. one who precedes you in time (as in holding a position or office)"
+},
+{
+"word": "revelation",
+"pos": "n",
+"zh": "n. 揭露, 泄露, 发觉, 默示, 启示",
+"en": "n. an enlightening or astonishing disclosure / n. communication of knowledge to man by a divine or supernatural agency /…"
+},
+{
+"word": "willingness",
+"pos": "n",
+"zh": "n. 乐意, 心甘情愿, 愿意",
+"en": "n. cheerful compliance"
+},
+{
+"word": "jewelry",
+"pos": "n",
+"zh": "n. 珠宝, 珠宝类",
+"en": "n. an adornment (as a bracelet or ring or necklace) made of precious metals and set with gems (or imitation gems)"
+},
+{
+"word": "calm",
+"pos": "n/a/vi/vt",
+"zh": "n. 平稳, 风平浪静 / a. 平静的, 冷静的 / vi. 平静下来, 镇静 / vt. 使平静",
+"en": "v. make calm or still / v. become quiet or calm, especially after a state of agitation / s. not agitated; without losing…"
+},
+{
+"word": "commerce",
+"pos": "n",
+"zh": "n. 商业, 商务, 贸易 / [经] 商业, 贸易, 商务",
+"en": "n. transactions (sales and purchases) having the objective of supplying commodities (goods and services) / n. social exc…"
+},
+{
+"word": "haul",
+"pos": "n/vi/vt",
+"zh": "n. 用力拖拉, 拖运, 强拉, 捕获量, 拖运距离 / vi. 拖, 拉, 改变方向, 改变主意 / vt. 拖拉, 拖运",
+"en": "v. draw slowly or heavily / v. transport in a vehicle"
+},
+{
+"word": "sterling",
+"pos": "n/a",
+"zh": "n. 英国货币, 标准纯银 / a. 英国货币的, 标准纯银的, 含标准成分的",
+"en": "n. British money; especially the pound sterling as the basic monetary unit of the UK"
+},
+{
+"word": "hitherto",
+"pos": "adv",
+"zh": "adv. 迄今, 至今",
+"en": "r used in negative statement to describe a situation that has existed up to this point or up to the present time"
+},
+{
+"word": "coffin",
+"pos": "n/vt",
+"zh": "n. 棺材, 灵柩 / vt. 把...装进棺材",
+"en": "n. box in which a corpse is buried or cremated / v. place into a coffin"
+},
+{
+"word": "wagon",
+"pos": "n",
+"zh": "n. 四轮马车, 货车 / [法] 囚车, 马车, 运货车",
+"en": "n. any of various kinds of wheeled vehicles drawn by an animal or a tractor / n. a child's four-wheeled toy cart sometim…"
+},
+{
+"word": "afterward",
+"pos": "adv",
+"zh": "adv. 然后, 后来",
+"en": "r happening at a time subsequent to a reference time"
+},
+{
+"word": "broadly",
+"pos": "adv",
+"zh": "adv. 宽广地, 明白地, 无礼貌地",
+"en": "r. without regard to specific details or exceptions / r. in a wide fashion"
+},
+{
+"word": "notable",
+"pos": "n/a",
+"zh": "n. 著名人士, 值得注意之事物 / a. 值得注意的, 显著的",
+"en": "n a celebrity who is an inspiration to others / s worthy of notice / s widely known and esteemed"
+},
+{
+"word": "equality",
+"pos": "n",
+"zh": "n. 平等, 均匀, 相等 / [法] 同等, 平等, 相等",
+"en": "n. the quality of being the same in quantity or measure or value or status / n. a state of being essentially equal or eq…"
+},
+{
+"word": "ruin",
+"pos": "n/vi/vt",
+"zh": "n. 毁灭, 推翻, 废墟 / vi. 毁灭, 衰败, 破坏, 破产, 堕落 / vt. 使毁灭, 毁坏, 使破产",
+"en": "n. an irrecoverable state of devastation and destruction / n. a ruined building / n. an event that results in destructio…"
+},
+{
+"word": "marble",
+"pos": "n/a",
+"zh": "n. 大理石, 石弹, 雕刻品 / a. 大理石的, 冷酷无情的, 有大理石花纹的",
+"en": "n. a hard crystalline metamorphic rock that takes a high polish; used for sculpture and as building material / n. a smal…"
+},
+{
+"word": "immune",
+"pos": "a/n",
+"zh": "a. 免疫的, 免除的, 不受影响的 / n. 免疫者",
+"en": "n. a person who is immune to a particular infection / a. relating to the condition of immunity / s. secure against / s. …"
+},
+{
+"word": "ass",
+"pos": "n",
+"zh": "n. 驴, 傻瓜, 笨蛋, 屁股 / [计] 模拟仿真系统",
+"en": "n. a pompous fool / n. hardy and sure-footed animal smaller and with longer ears than the horse"
+},
+{
+"word": "competence",
+"pos": "n",
+"zh": "n. 胜任, 职称, 能力 / [医] 能力, 活性",
+"en": "n. the quality of being adequately or well qualified physically and intellectually"
+},
+{
+"word": "reliability",
+"pos": "n",
+"zh": "n. 信度, 可靠性 / [计] 可靠性",
+"en": "n the quality of being dependable or reliable"
+},
+{
+"word": "biscuit",
+"pos": "n",
+"zh": "n. 饼干 / [化] 素坯; 饼干",
+"en": "n. small round bread leavened with baking-powder or soda"
+},
+{
+"word": "collar",
+"pos": "n/vt",
+"zh": "n. 衣领, 颈圈 / vt. 控制, 扭住衣领, 给...装上领子",
+"en": "n. a band that fits around the neck and is usually folded over / n. (zoology) an encircling band or marking around the n…"
+},
+{
+"word": "exotic",
+"pos": "a/n",
+"zh": "a. 异国的, 外来的 / n. 外来人, 外来物, 舶来品",
+"en": "s. strikingly strange or unusual"
+},
+{
+"word": "bull",
+"pos": "n",
+"zh": "n. 公牛 / [法] 买方, 买空者",
+"en": "n. uncastrated adult male of domestic cattle / n. a large and strong and heavyset man / n. a serious and ludicrous blund…"
+},
+{
+"word": "clip",
+"pos": "n/vt/vi",
+"zh": "n. 修剪, 夹子, 回形针, 剪下来的东西 / vt. 修剪, 痛打, 夹牢, 剪报 / vi. 剪报",
+"en": "n. any of various small fasteners used to hold loose articles together / n. an article of jewelry that can be clipped on…"
+},
+{
+"word": "hut",
+"pos": "n/v",
+"zh": "n. 小屋, 茅舍, 临时军营 / v. (使)住在茅舍",
+"en": "n. temporary military shelter"
+},
+{
+"word": "thigh",
+"pos": "n",
+"zh": "n. 大腿, 股 / [医] 股, 大腿",
+"en": "n. the part of the leg between the hip and the knee"
+},
+{
+"word": "discourage",
+"pos": "vt",
+"zh": "vt. 使气馁, 阻碍",
+"en": "v. deprive of courage or hope; take away hope from; cause to feel discouraged"
+},
+{
+"word": "runner",
+"pos": "n",
+"zh": "n. 跑步者, 赛跑者, 送信人, 走私船, 操作者, 滑槽 / [化] 碾碎机; 压碎机",
+"en": "n. someone who travels on foot by running / n. a person who is employed to deliver messages or documents / n. a trained …"
+},
+{
+"word": "intimate",
+"pos": "a/vt/n",
+"zh": "a. 亲密的, 私人的, 秘密的 / vt. 暗示, 通知, 告诉 / n. 至交",
+"en": "v. give to understand / s. marked by close acquaintance, association, or familiarity / s. involved in a sexual relations…"
+},
+{
+"word": "workforce",
+"pos": "n",
+"zh": "n. 劳动力；工人总数, 职工总数",
+"en": "n the force of workers available"
+},
+{
+"word": "recruitment",
+"pos": "n",
+"zh": "n. 新兵征召 / [医] 募集[反应], 募集[现象](生理), 复聪(耳科)",
+"en": "n. the act of getting recruits; enlisting people for the army (or for a job or a cause etc.)"
+},
+{
+"word": "secular",
+"pos": "n/a",
+"zh": "n. 修道院外的教士 / a. 世俗的, 现世的, 长期的",
+"en": "a. of or relating to the doctrine that rejects religion and religious considerations / a. of or relating to clergy not b…"
+},
+{
+"word": "documentary",
+"pos": "n/a",
+"zh": "n. 记录片 / a. 文件的",
+"en": "n. a film or TV program presenting the facts about a person or event / a. relating to or consisting of or derived from d…"
+},
+{
+"word": "tender",
+"pos": "a/vt/vi/n",
+"zh": "a. 嫩的, 柔软的, 脆弱的, 温柔的, 亲切的, 未成熟的, 微妙的, 棘手的, 审慎的 / vt. 使变嫩, 提供, 偿还 / vi. 变柔软, 投标 / n. 照料, 看管…",
+"en": "n. something that can be used as an official medium of payment / n. car attached to a locomotive to carry fuel and water…"
+},
+{
+"word": "biology",
+"pos": "n",
+"zh": "n. 生物学 / [化] 生物; 生物学",
+"en": "n. the science that studies living organisms / n. characteristic life processes and phenomena of living organisms"
+},
+{
+"word": "conspiracy",
+"pos": "n",
+"zh": "n. 同谋, 阴谋, 阴谋集团 / [法] 阴谋, 通谋, 共谋",
+"en": "n. a secret agreement between two or more people to perform an unlawful act / n. a plot to carry out some harmful or ill…"
+},
+{
+"word": "rally",
+"pos": "n/v",
+"zh": "n. 重振旗鼓, 集合, 群众集会, 跌停回升 / v. 重整旗鼓, 集合, 恢复精神, 团结, 挖苦, 嘲笑",
+"en": "n. a large gathering of people intended to arouse enthusiasm / n. the feat of mustering strength for a renewed effort / …"
+},
+{
+"word": "dolphin",
+"pos": "n",
+"zh": "n. 海豚",
+"en": "n. any of various small toothed whales with a beaklike snout; larger than porpoises"
+},
+{
+"word": "whale",
+"pos": "n/vi/vt",
+"zh": "n. 鲸 / vi. 捕鲸 / vt. 使惨败, 猛揍",
+"en": "n. any of the larger cetacean mammals having a streamlined body and breathing through a blowhole on the head / v. hunt f…"
+},
+{
+"word": "geographical",
+"pos": "a",
+"zh": "a. 地理学的, 地理的",
+"en": "a of or relating to the science of geography / a determined by geography"
+},
+{
+"word": "indirect",
+"pos": "a",
+"zh": "a. 间接的, 非直截了当的, 不坦率的 / [医] 间接的",
+"en": "s. having intervening factors or persons or influences / a. not direct in spatial dimension; not leading by a straight l…"
+},
+{
+"word": "terrific",
+"pos": "a",
+"zh": "a. 非常好的, 极端的, 可怕的",
+"en": "s. very great or intense / s. causing extreme terror"
+},
+{
+"word": "whoever",
+"pos": "pron",
+"zh": "pron. 任何人, 无论谁",
+"en": "pron. Whatever person; any person who; be or she who; any one /    who; as, he shall be punished, whoever he may be."
+},
+{
+"word": "aluminum",
+"pos": "n",
+"zh": "n. 铝 / [化] 铝Al",
+"en": "n. a silvery ductile metallic element found primarily in bauxite"
+},
+{
+"word": "atom",
+"pos": "n",
+"zh": "n. 原子, 核能, 微粒, 微量 / [计] 原子",
+"en": "n. (physics and chemistry) the smallest component of an element having the chemical properties of the element / n. (nont…"
+},
+{
+"word": "skull",
+"pos": "n",
+"zh": "n. 头盖骨, 头脑, 好学生 / [医] 头颅",
+"en": "n. the bony skeleton of the head of vertebrates"
+},
+{
+"word": "stitch",
+"pos": "n/v",
+"zh": "n. 一针, 疼痛, 针法, 碎布条, 针脚 / v. 缝, 缝合, 装订",
+"en": "n. a link or loop or knot made by an implement in knitting, crocheting, embroidery, or sewing / n. a sharp spasm of pain…"
+},
+{
+"word": "owl",
+"pos": "n",
+"zh": "n. 猫头鹰 / [法] 走私",
+"en": "n. nocturnal bird of prey with hawk-like beak and claws and large head with front-facing eyes"
+},
+{
+"word": "bee",
+"pos": "n",
+"zh": "n. 蜜蜂, 聚会",
+"en": "n. any of numerous hairy-bodied insects including social and solitary species / n. a social gathering to carry out some …"
+},
+{
+"word": "manipulate",
+"pos": "vt",
+"zh": "vt. 操纵, 利用, 操作, 巧妙地处理, 假造",
+"en": "v. influence or control shrewdly or deviously / v. hold something in one's hands and move it / v. control (others or one…"
+},
+{
+"word": "tumour",
+"pos": "n",
+"zh": "n. 瘤, 肿块",
+"en": "n an abnormal new mass of tissue that serves no purpose"
+},
+{
+"word": "cooperative",
+"pos": "a",
+"zh": "a. 合作的；合作社的",
+"en": "n. a jointly owned commercial enterprise (usually organized by farmers or consumers) that produces and distributes goods…"
+},
+{
+"word": "loop",
+"pos": "n/vt/vi",
+"zh": "n. 环, 圈, 弯曲部分, 循环 / vt. 使成环, 以圈结, 以环连结 / vi. 打环, 翻筋斗 / [计] 循环",
+"en": "n. anything with a round or oval shape (formed by a curve that is closed and does not intersect itself) / n. an inner ci…"
+},
+{
+"word": "electron",
+"pos": "n",
+"zh": "n. 电子 / [化] 电子",
+"en": "n. an elementary particle with negative charge"
+},
+{
+"word": "whip",
+"pos": "n/vt/vi",
+"zh": "n. 鞭子, 抽打, 车夫, 搅拌器 / vt. 鞭打, 搅拌, 煽动, 召集, 仓促制成 / vi. 拍击, 急走, 抽打",
+"en": "n. an instrument with a handle and a flexible lash that is used for whipping / n. a legislator appointed by the party to…"
+},
+{
+"word": "puzzle",
+"pos": "n/vt/vi",
+"zh": "n. 难题, 迷惑 / vt. 使困惑, 使为难 / vi. 迷惑, 苦思",
+"en": "n. a particularly baffling problem that is said to have a correct solution / n. a game that tests your ingenuity / v. be…"
+},
+{
+"word": "mushroom",
+"pos": "n/vi/a",
+"zh": "n. 蘑菇形物, 蘑菇, 暴发户 / vi. 迅速生长, 迅速增加, 采蘑菇 / a. 蘑菇形的, 迅速生长的",
+"en": "n. common name for an edible agaric (contrasting with the inedible toadstool) / n. mushrooms and related fleshy fungi (i…"
+}
+]

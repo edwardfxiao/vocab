@@ -1,0 +1,602 @@
+[
+{
+"word": "jelly",
+"pos": "n/v",
+"zh": "n. 果冻, 果冻甜食, 胶状物 / v. (使)结冻, (使)成胶状",
+"en": "n. a preserve made of the jelled juice of fruit / n. any substance having the consistency of jelly or gelatin"
+},
+{
+"word": "unify",
+"pos": "v",
+"zh": "v. 统一, 使成一体",
+"en": "v. become one"
+},
+{
+"word": "apron",
+"pos": "n",
+"zh": "n. 围裙 / [医] 围裙",
+"en": "n. a garment of cloth or leather or plastic that is tied about the waist and worn to protect your clothing / n. (golf) t…"
+},
+{
+"word": "rectangular",
+"pos": "a",
+"zh": "a. 成直角的 / [化] 矩形的",
+"en": "s. having four right angles"
+},
+{
+"word": "practicable",
+"pos": "a",
+"zh": "a. 可实行的, 可做的, 可用的",
+"en": "s usable for a specific purpose / s capable of being done with means at hand and circumstances as they are"
+},
+{
+"word": "pharmacy",
+"pos": "n",
+"zh": "n. 药房, 配药学, 制药业 / [医] 药学, 药剂学, 调剂学, 药房",
+"en": "n. the art and science of preparing and dispensing drugs and medicines,"
+},
+{
+"word": "tanker",
+"pos": "n",
+"zh": "n. 坦克手, 油船, 空中加油飞机, 运油飞机, 油槽/水槽汽车 / [化] 槽车; 油槽船",
+"en": "n. a soldier who drives a tank"
+},
+{
+"word": "sensory",
+"pos": "a",
+"zh": "a. 知觉的, 感觉的, 传递感觉的 / [医] 感觉的",
+"en": "a. involving or derived from the senses"
+},
+{
+"word": "wavelength",
+"pos": "n",
+"zh": "n. 波长 / [化] 波长",
+"en": "n. the distance (measured in the direction of propagation) between two points in the same phase in consecutive cycles of…"
+},
+{
+"word": "cardiac",
+"pos": "n/a",
+"zh": "n. 心脏病患者, 强心剂, 健胃药 / a. 心脏的, (胃的)贲门的",
+"en": "a. of or relating to the heart"
+},
+{
+"word": "mast",
+"pos": "n/vt",
+"zh": "n. 桅, 桅杆, 杆 / vt. 装桅杆于",
+"en": "n. a vertical spar for supporting sails / n. nuts of forest trees (as beechnuts and acorns) accumulated on the ground / …"
+},
+{
+"word": "spiral",
+"pos": "n/a/vi/vt",
+"zh": "n. 螺旋形之物, 螺线 / a. 螺旋形的, 盘旋的 / vi. 螺旋形下降, 螺旋形上升, 螺旋形行进 / vt. 使螺旋形行进",
+"en": "n. a plane curve traced by a point circling about the center but at increasing distances from the center / n. a continuo…"
+},
+{
+"word": "wed",
+"pos": "vt/vi",
+"zh": "vt. 与...结婚, 使结合 / vi. 结婚",
+"en": "s. having been taken in marriage"
+},
+{
+"word": "paw",
+"pos": "n/v",
+"zh": "n. 爪 / v. 以蹄扒地, 用爪子抓, 拼命抓, 向...乱抓, 笨拙地使用, 费力地前进",
+"en": "n. a clawed foot of an animal especially a quadruped / v. scrape with the paws / v. touch clumsily"
+},
+{
+"word": "waterfall",
+"pos": "n",
+"zh": "n. 瀑布",
+"en": "n. a steep descent of the water of a river"
+},
+{
+"word": "whirl",
+"pos": "n/vt/vi",
+"zh": "n. 回旋, 旋转, 急走, 眩晕 / vt. 使旋转, 使回旋, 卷走 / vi. 回旋, 旋转, 急走, 发晕",
+"en": "n. confused movement / n. the shape of something rotating rapidly / v. cause to spin / v. fly around"
+},
+{
+"word": "flirt",
+"pos": "n/vt/vi",
+"zh": "n. 卖弄风骚的人, 急动, 急扔 / vt. 忽然弹出, 轻快摆动, 挥动 / vi. 调情, 玩弄, 摆动, 轻率地对待",
+"en": "n. playful behavior intended to arouse sexual interest"
+},
+{
+"word": "plow",
+"pos": "n/v",
+"zh": "n. 犁 / v. 犁, 耕",
+"en": "n. a farm tool having one or more heavy blades to break the soil and cut a furrow prior to sowing / v. to break and turn…"
+},
+{
+"word": "insulation",
+"pos": "n",
+"zh": "n. 绝缘；隔离, 孤立",
+"en": "n. the state of being isolated or detached / n. the act of protecting something by surrounding it with material that red…"
+},
+{
+"word": "flutter",
+"pos": "n/vi/vt",
+"zh": "n. 摆动, 鼓翼, 烦扰 / vi. 摆动, 鼓翼, 烦扰 / vt. 拍(翅), 使焦急 / [计] 颤动",
+"en": "n. abnormally rapid beating of the auricles of the heart (especially in a regular rhythm); can result in heart block / v…"
+},
+{
+"word": "competitiveness",
+"pos": "",
+"zh": "[经] 竞争",
+"en": "n. an aggressive willingness to compete"
+},
+{
+"word": "brag",
+"pos": "n/v",
+"zh": "n. 吹牛 / v. 吹牛",
+"en": "n. an instance of boastful talk"
+},
+{
+"word": "buzz",
+"pos": "n/vi/vt",
+"zh": "n. 嗡嗡声, 流言 / vi. 发出嗡嗡声, 说闲话 / vt. 使嗡嗡叫, 散布",
+"en": "n. sound of rapid vibration / n. a confusion of activity and gossip / v. make a buzzing sound / v. fly low"
+},
+{
+"word": "thump",
+"pos": "n/v",
+"zh": "n. 重打, 重击声 / v. 重打, 撞击, 痛打",
+"en": "n. a heavy dull sound (as made by impact of heavy objects) / n. a heavy blow with the hand / v. hit hard with the hand, …"
+},
+{
+"word": "ecstasy",
+"pos": "n",
+"zh": "n. 狂喜, 心醉神迷, 忘形 / [医] 入迷",
+"en": "n. a state of being carried away by overwhelming emotion / n. a state of elated bliss"
+},
+{
+"word": "physiological",
+"pos": "a",
+"zh": "a. 生理学的, 生理学上的, 生理机能的 / [医] 生理学的, 生理的",
+"en": "a. of or relating to the biological study of physiology"
+},
+{
+"word": "carpenter",
+"pos": "n",
+"zh": "n. 木匠",
+"en": "n. a woodworker who makes or repairs wooden objects / v. work as a carpenter"
+},
+{
+"word": "finite",
+"pos": "a/n",
+"zh": "a. 有限的, 有穷的, 限定的 / n. 有限物",
+"en": "a. bounded or limited in magnitude or spatial or temporal extent / a. of verbs; relating to forms of the verb that are l…"
+},
+{
+"word": "souvenir",
+"pos": "n",
+"zh": "n. 纪念品",
+"en": "n something of sentimental value / n a reminder of past events"
+},
+{
+"word": "antiquity",
+"pos": "n",
+"zh": "n. 古老, 古代, 古代人, 古物",
+"en": "n. the historic period preceding the Middle Ages in Europe / n. an artifact surviving from the past"
+},
+{
+"word": "termination",
+"pos": "n",
+"zh": "n. 终止, 结束, 结果, 词尾 / [化] 终止",
+"en": "n. a coming to an end of a contract period / n. the act of ending something"
+},
+{
+"word": "instalment",
+"pos": "n",
+"zh": "n. 就职, 装设, 分期付款",
+"en": "n a part of a broadcast serial / n a part of a published serial / n the act of installing something (as equipment)"
+},
+{
+"word": "hound",
+"pos": "n/vt",
+"zh": "n. 猎犬 / vt. 带猎犬狩猎, 追捕, 激励, 使追逐",
+"en": "n. any of several breeds of dog used for hunting typically having large drooping ears / v. pursue or chase relentlessly"
+},
+{
+"word": "stratum",
+"pos": "n",
+"zh": "n. 层, 地层, 阶层 / [医] 层",
+"en": "n. one of several parallel layers of material arranged one on top of another (such as a layer of tissue or cells in an o…"
+},
+{
+"word": "bakery",
+"pos": "n",
+"zh": "n. 面包店",
+"en": "n. a workplace where baked goods (breads and cakes and pastries) are produced or sold"
+},
+{
+"word": "cheerfully",
+"pos": "adv",
+"zh": "adv. 高高兴兴地",
+"en": "r. in a cheerful manner"
+},
+{
+"word": "intern",
+"pos": "n/vi/vt",
+"zh": "n. 实习生, 被拘留者 / vi. 作实习医师(教师、实习生) / vt. 拘留, 扣留",
+"en": "n. an advanced student or graduate in medicine gaining supervised practical experience (`houseman' is a British term) / …"
+},
+{
+"word": "ratify",
+"pos": "vt",
+"zh": "vt. 批准, 认可 / [经] 证实, 肯定, 确认",
+"en": "v approve and express assent, responsibility, or obligation"
+},
+{
+"word": "nostalgia",
+"pos": "n",
+"zh": "n. 乡愁, 向往过去, 怀旧之情 / [医] 怀乡病",
+"en": "n. longing for something past"
+},
+{
+"word": "accordance",
+"pos": "n",
+"zh": "n. 一致, 和谐",
+"en": "n. the act of granting rights"
+},
+{
+"word": "parachute",
+"pos": "n/vi",
+"zh": "n. 降落伞 / vi. 跳伞",
+"en": "n. rescue equipment consisting of a device that fills with air and retards your fall"
+},
+{
+"word": "automated",
+"pos": "a",
+"zh": "a. 自动化的；机械化的",
+"en": "s. operated by automation"
+},
+{
+"word": "exquisite",
+"pos": "a",
+"zh": "a. 精致的, 细腻的, 敏锐的",
+"en": "s. intense or sharp / s. lavishly elegant and refined / s. of extreme beauty"
+},
+{
+"word": "immerse",
+"pos": "vt",
+"zh": "vt. 沉浸, 使陷入 / [医] 浸[入]",
+"en": "v. thrust or throw into / v. enclose or envelop completely, as if by swallowing"
+},
+{
+"word": "petroleum",
+"pos": "n",
+"zh": "n. 石油 / [化] 石油",
+"en": "n. a dark oil consisting mainly of hydrocarbons"
+},
+{
+"word": "aura",
+"pos": "n",
+"zh": "n. 气氛, 气味 / [医] 先兆",
+"en": "n. a sensation (as of a cold breeze or bright light) that precedes the onset of certain disorders such as a migraine att…"
+},
+{
+"word": "marshal",
+"pos": "n/vt/vi",
+"zh": "n. 元帅, 陆空军高级将官, 典礼官, 执法官 / vt. 整理, 引领, 统率 / vi. 排列, 各就各位",
+"en": "n. a law officer having duties similar to those of a sheriff in carrying out the judgments of a court of law / n. (in so…"
+},
+{
+"word": "flap",
+"pos": "n/v",
+"zh": "n. 飘, 摆动, 拍打, 拍打声, 片状垂悬物 / v. 拍打, 鼓翼而飞, 飘动",
+"en": "n. any broad thin and limber covering attached at one edge; hangs loose or projects freely / n. the motion made by flapp…"
+},
+{
+"word": "feudal",
+"pos": "a",
+"zh": "a. 封建制度的, 封地的, 领地的",
+"en": "a. of or relating to or characteristic of feudalism"
+},
+{
+"word": "ascent",
+"pos": "n",
+"zh": "n. 上升, 提高, 攀登, 上坡路",
+"en": "n. an upward slope or grade (as in a road)"
+},
+{
+"word": "woe",
+"pos": "n",
+"zh": "n. 悲哀, 悲痛, 苦痛",
+"en": "n. intense mournfulness"
+},
+{
+"word": "ripple",
+"pos": "n/vt/vi",
+"zh": "n. 涟波, 涟漪, 波纹, 粗钢梳 / vt. 使起涟漪 / vi. 起微波, 起潺潺声",
+"en": "n. a small wave on the surface of a liquid / n. (electronics) an oscillation of small amplitude imposed on top of a stea…"
+},
+{
+"word": "patriotism",
+"pos": "n",
+"zh": "n. 爱国心, 爱国精神, 爱国主义",
+"en": "n. love of country and willingness to sacrifice for it"
+},
+{
+"word": "softball",
+"pos": "n",
+"zh": "n. 垒球运动, 垒球",
+"en": "n. ball used in playing softball / n. a game closely resembling baseball that is played on a smaller diamond and with a …"
+},
+{
+"word": "moderately",
+"pos": "adv",
+"zh": "adv. 适当地, 适度地, 中庸地",
+"en": "r. with moderation; in a moderate manner"
+},
+{
+"word": "alienate",
+"pos": "vt",
+"zh": "vt. 使疏远, 离间, 转让 / [法] 转让, 让与, 疏远",
+"en": "v. make withdrawn or isolated or emotionally dissociated"
+},
+{
+"word": "badger",
+"pos": "n/vt",
+"zh": "n. 獾, 獾皮毛 / vt. 纠缠",
+"en": "n. sturdy carnivorous burrowing mammal with strong claws; widely distributed in the northern hemisphere / v. persuade th…"
+},
+{
+"word": "sting",
+"pos": "n/vt/vi",
+"zh": "n. 叮, 刺痛, 刺激, 讽刺 / vt. 叮, 刺痛, 刺激, 使苦恼 / vi. 叮, 刺痛",
+"en": "n. a kind of pain; something as sudden and painful as being stung / n. a painful wound caused by the thrust of an insect…"
+},
+{
+"word": "pore",
+"pos": "n/vi/vt",
+"zh": "n. 毛孔, 小孔, 气孔 / vi. 专心阅读, 细想, 钻研, 沉思, 注视 / vt. 使注视得",
+"en": "n. any tiny hole admitting passage of a liquid (fluid or gas) / n. any small opening in the skin or outer surface of an …"
+},
+{
+"word": "shortcoming",
+"pos": "n",
+"zh": "n. 缺点, 短处",
+"en": "n a failing or deficiency"
+},
+{
+"word": "exhaustion",
+"pos": "n",
+"zh": "n. 抽空, 耗尽, 疲惫, 筋疲力尽 / [化] 抽空",
+"en": "n. extreme fatigue / n. the act of exhausting something entirely"
+},
+{
+"word": "regeneration",
+"pos": "n",
+"zh": "n. 再生, 重建 / [化] 再生作用",
+"en": "n. (biology) growth anew of lost tissue or destroyed parts or organs / n. the activity of spiritual or physical renewal"
+},
+{
+"word": "pinpoint",
+"pos": "n/vt/a",
+"zh": "n. 极小之物, 针尖, 立锥之地, 精确位置 / vt. 精确地找到, 准确地轰炸, 刺穿, 准确描述, 使突出, 强调 / a. 针尖的, 极微的, 精确的, 详尽的, 精确定…",
+"en": "n. a very brief moment / n. the sharp point of a pin / v. locate exactly"
+},
+{
+"word": "mince",
+"pos": "n/vt/vi",
+"zh": "n. 切碎物 / vt. 切碎, 矫揉做作地说 / vi. 碎步走, 装腔作势",
+"en": "n. food chopped into small bits / v. make less severe or harsh / v. walk daintily / v. cut into small pieces"
+},
+{
+"word": "glamour",
+"pos": "n/vt",
+"zh": "n. 魅力, 迷人的美, 魔法 / vt. 迷惑",
+"en": "n alluring beauty or charm (often with sex-appeal) / v cast a spell over someone or something; put a hex on someone or s…"
+},
+{
+"word": "pivotal",
+"pos": "a",
+"zh": "a. 枢轴的, 关键的, 起中心作用的",
+"en": "s. being of crucial importance"
+},
+{
+"word": "cosmos",
+"pos": "n",
+"zh": "n. 宇宙, 秩序, 和谐, 大波斯菊 / [医] 大波斯菊",
+"en": "n. any of various mostly Mexican herbs of the genus Cosmos having radiate heads of variously colored flowers and pinnate…"
+},
+{
+"word": "haze",
+"pos": "n/vt/vi",
+"zh": "n. 薄雾, 阴霾, 疑惑 / vt. 使变朦胧, 使变糊涂 / vi. 变朦胧, 变糊涂",
+"en": "n. atmospheric moisture or dust or smoke that causes reduced visibility / v. become hazy, dull, or cloudy / v. harass by…"
+},
+{
+"word": "anatomy",
+"pos": "n",
+"zh": "n. 剖析, 解剖学, 骨骼, 结构 / [医] 解剖学, 解剖",
+"en": "n. the branch of morphology that deals with the structure of animals / n. a detailed analysis"
+},
+{
+"word": "scenic",
+"pos": "a/n",
+"zh": "a. 风景好的, 戏剧性的, 舞台的, 布景的 / n. 风光影片, 风景照片",
+"en": "s. used of locations; having beautiful natural scenery / a. of or relating to the stage or stage scenery"
+},
+{
+"word": "solitude",
+"pos": "n",
+"zh": "n. 孤独, 单独, 孤寂",
+"en": "n. a state of social isolation / n. the state or situation of being alone / n. a solitary place"
+},
+{
+"word": "bloc",
+"pos": "n",
+"zh": "n. 集团",
+"en": "n. a group of countries in special alliance"
+},
+{
+"word": "courageous",
+"pos": "a",
+"zh": "a. 勇敢的, 大胆的, 有胆量的",
+"en": "a possessing or displaying courage; able to face and deal with danger or fear without flinching"
+},
+{
+"word": "compression",
+"pos": "n",
+"zh": "n. 压缩, 压紧 / [计] 压缩",
+"en": "n. the process or result of becoming smaller or pressed together / n. encoding information while reducing the bandwidth …"
+},
+{
+"word": "sculptor",
+"pos": "n",
+"zh": "n. 雕刻家",
+"en": "n. an artist who creates sculptures / n. a faint constellation in the southern hemisphere near Phoenix and Cetus"
+},
+{
+"word": "tutorial",
+"pos": "n/a",
+"zh": "n. 个别指导, 论文, 学习指南, 指导手册 / a. 个别指导的, 家庭教师的, 辅导的 / [计] 教程",
+"en": "n. a session of intensive tuition given by a tutor to an individual or to a small number of students / a. of or relating…"
+},
+{
+"word": "disconnect",
+"pos": "vt/vi",
+"zh": "vt. 使分离, 使不相连, 拆开 / vi. 断开 / [计] 断开",
+"en": "v. make disconnected, disjoin or unfasten"
+},
+{
+"word": "fragrance",
+"pos": "n",
+"zh": "n. 芬芳, 香味",
+"en": "n a distinctive odor that is pleasant / n a pleasingly sweet olfactory property"
+},
+{
+"word": "wasp",
+"pos": "n",
+"zh": "n. 黄蜂, 胡蜂, 易怒的人, 刻毒的人 / [医] 胡蜂, 黄蜂",
+"en": "n. a white person of Anglo-Saxon ancestry who belongs to a Protestant denomination / n. social or solitary hymenopterans…"
+},
+{
+"word": "intermediary",
+"pos": "n/a",
+"zh": "n. 仲裁者, 调解者, 媒介物, 中间人 / a. 中间的, 媒介的",
+"en": "n a negotiator who acts as a link between parties"
+},
+{
+"word": "converge",
+"pos": "vi/vt",
+"zh": "vi. 聚合, 集中于一点 / vt. 使集合",
+"en": "v. be adjacent or come together / v. approach a limit as the number of terms increases without limit / v. move or draw t…"
+},
+{
+"word": "cork",
+"pos": "n",
+"zh": "n. 软木塞, 软木树, 软木 / [化] 木栓",
+"en": "n. outer bark of the cork oak; used for stoppers for bottles etc. / n. a port city in southern Ireland / n. the plug in …"
+},
+{
+"word": "porcelain",
+"pos": "n/a",
+"zh": "n. 瓷器, 瓷 / a. 瓷制的",
+"en": "n. ceramic ware made of a more or less translucent ceramic"
+},
+{
+"word": "jeep",
+"pos": "n/vi/vt",
+"zh": "n. 吉普车 / vi. 乘吉普车 / vt. 用吉普车运",
+"en": "n. a car suitable for traveling over rough terrain"
+},
+{
+"word": "expanse",
+"pos": "n",
+"zh": "n. 宽阔区域, 宽阔, 天空",
+"en": "n. a wide and open space or area as of surface or land or sky"
+},
+{
+"word": "pronunciation",
+"pos": "n",
+"zh": "n. 发音, 读法",
+"en": "n. the manner in which someone utters a word / n. the way a word or a language is customarily spoken"
+},
+{
+"word": "inventor",
+"pos": "n",
+"zh": "n. 发明家 / [法] 发明人, 发明家, 创造者",
+"en": "n. someone who is the first to think of or make something"
+},
+{
+"word": "ore",
+"pos": "n",
+"zh": "n. 矿石 / [经] 矿",
+"en": "n. a mineral that contains metal that is valuable enough to be mined / n. a monetary subunit in Denmark and Norway and S…"
+},
+{
+"word": "expressly",
+"pos": "adv",
+"zh": "adv. 明白地, 清楚地, 特意地",
+"en": "r. with specific intentions; for the express purpose"
+},
+{
+"word": "gourmet",
+"pos": "n",
+"zh": "n. 美食家",
+"en": "n a person devoted to refined sensuous enjoyment (especially good food and drink)"
+},
+{
+"word": "subdivision",
+"pos": "n",
+"zh": "n. 细分, 分部 / [医] 再分; 亚门",
+"en": "n. an area composed of subdivided lots / n. the act of subdividing; division of something previously divided"
+},
+{
+"word": "retort",
+"pos": "n/vi/vt",
+"zh": "n. 反驳, 顶嘴, 蒸馏器, 曲颈甑 / vi. 反驳, 回嘴, 反击 / vt. 反击, 反驳, 蒸馏",
+"en": "n. a vessel where substances are distilled or decomposed by heat / v. answer back"
+},
+{
+"word": "nebula",
+"pos": "n",
+"zh": "n. 星云, 角膜云翳 / [医] 薄翳; 角膜翳, 角膜云翳; 喷雾剂",
+"en": "n. a medicinal liquid preparation intended for use in an atomizer / n. cloudiness of the urine / n. an immense cloud of …"
+},
+{
+"word": "arrogance",
+"pos": "n",
+"zh": "n. 傲慢态度, 自大",
+"en": "n. overbearing pride evidenced by a superior manner toward inferiors"
+},
+{
+"word": "aquatic",
+"pos": "n/a",
+"zh": "n. 水生动物, 水生植物 / a. 水生的, 水中的, 水上的",
+"en": "n. a plant that lives in or on water / a. relating to or consisting of or being in water / a. operating or living or gro…"
+},
+{
+"word": "disappoint",
+"pos": "vt",
+"zh": "vt. 使失望",
+"en": "v. fail to meet the hopes or expectations of"
+},
+{
+"word": "geometric",
+"pos": "a",
+"zh": "a. 几何学的, 几何学上的, 几何学图形的",
+"en": "s. characterized by simple geometric forms in design and decoration / a. of or relating to or determined by geometry"
+},
+{
+"word": "scum",
+"pos": "n/vt/vi",
+"zh": "n. 浮渣, 糟粕, 浮藻, 熔渣, 不起好作用的人 / vt. 撇去(浮沫) / vi. 产生泡沫",
+"en": "n. a film of impurities or vegetation that can form on the surface of a liquid / v. remove the scum from"
+},
+{
+"word": "addictive",
+"pos": "a",
+"zh": "a. 上瘾的",
+"en": "a. causing or characterized by addiction"
+},
+{
+"word": "vapor",
+"pos": "n/vi/vt",
+"zh": "n. 汽, 蒸气 / vi. 蒸发 / vt. 使蒸发",
+"en": "n. a visible suspension in the air of particles of some substance"
+}
+]

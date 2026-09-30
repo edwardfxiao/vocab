@@ -1,0 +1,602 @@
+[
+{
+"word": "equitable",
+"pos": "a",
+"zh": "a. 公平的, 公正的 / [法] 公平的, 公正的, 平衡法的",
+"en": "a. fair to all parties as dictated by reason and conscience"
+},
+{
+"word": "kinship",
+"pos": "n",
+"zh": "n. 亲属关系 / [法] 亲属关系, 家族关系, 关系",
+"en": "n. (anthropology) relatedness or connection by blood or marriage or adoption"
+},
+{
+"word": "burner",
+"pos": "n",
+"zh": "n. 火炉, 烧火的人 / [化] 灯; 灯头; 烧嘴炉; 燃烧器; 燃烧炉",
+"en": "n. an apparatus for burning fuel (or refuse) / n. the heating elements of a stove or range on which pots and pans are pl…"
+},
+{
+"word": "concerto",
+"pos": "n",
+"zh": "n. 协奏曲",
+"en": "n. a composition for orchestra and a soloist"
+},
+{
+"word": "blush",
+"pos": "vi/vt/n",
+"zh": "vi. 脸红, 羞愧 / vt. 弄成红色 / n. 脸红",
+"en": "n. sudden reddening of the face (as from embarrassment or guilt or shame or modesty) / v. turn red, as if in embarrassme…"
+},
+{
+"word": "decidedly",
+"pos": "adv",
+"zh": "adv. 决定了, 坚决, 明显, 显而易见, 显然, 明确, 果断, 毫无疑问",
+"en": "r. without question and beyond doubt"
+},
+{
+"word": "clamp",
+"pos": "n/vt",
+"zh": "n. 夹钳 / vt. 夹紧, 强加",
+"en": "n. a device (generally used by carpenters) that holds things firmly together / v. fasten or fix with a clamp / v. impose…"
+},
+{
+"word": "rig",
+"pos": "n/vt",
+"zh": "n. 装备, 帆装 / vt. 装配, 装扮, 给船装帆, 垄断, 操纵",
+"en": "n. gear (including necessary machinery) for a particular enterprise / n. formation of masts, spars, sails, etc., on a ve…"
+},
+{
+"word": "pristine",
+"pos": "a",
+"zh": "a. 太古的, 原来的, 古时的, 原始的",
+"en": "s. completely free from dirt or contamination / s. immaculately clean and unused"
+},
+{
+"word": "recurrence",
+"pos": "n",
+"zh": "n. 再现, 再发生, 反复, 循环 / [医] 复发, 再发",
+"en": "n. happening again (especially at regular intervals)"
+},
+{
+"word": "determinant",
+"pos": "n/a",
+"zh": "n. 决定物, 决定因素 / a. 决定性的 / [计] 判定",
+"en": "n. a determining or causal element or factor / n. a square matrix used to solve simultaneous equations"
+},
+{
+"word": "growl",
+"pos": "n/v",
+"zh": "n. 吠声, 咆哮声 / v. 怒吠, 咆哮, 吼",
+"en": "n. the sound of growling (as made by animals)"
+},
+{
+"word": "diver",
+"pos": "n",
+"zh": "n. 潜水者",
+"en": "n. someone who works underwater / n. someone who dives (into water)"
+},
+{
+"word": "improper",
+"pos": "a",
+"zh": "a. 不合适的, 错误的, 不成体统的, 不道德的 / [法] 不适当的, 不合适的, 不正确的",
+"en": "a. not suitable or right or appropriate / s. not conforming to legality, moral law, or social convention / s. not approp…"
+},
+{
+"word": "bamboo",
+"pos": "n",
+"zh": "n. 竹子 / [医] 竹类",
+"en": "n. the hard woody stems of bamboo plants; used in construction and crafts and fishing poles / n. woody tropical grass ha…"
+},
+{
+"word": "prosper",
+"pos": "vi/vt",
+"zh": "vi. 繁荣, 兴隆, 成功 / vt. 使成功, 使昌盛",
+"en": "v make steady progress; be at the high point in one's career or reach a high point in historical significance or importa…"
+},
+{
+"word": "pianist",
+"pos": "n",
+"zh": "n. 钢琴家, 钢琴演奏者",
+"en": "n. a person who plays the piano"
+},
+{
+"word": "heartbeat",
+"pos": "n",
+"zh": "n. 心跳",
+"en": "n. an animating or vital unifying force"
+},
+{
+"word": "downward",
+"pos": "a",
+"zh": "a. 向下的",
+"en": "s. on or toward a surface regarded as a base"
+},
+{
+"word": "adaptive",
+"pos": "a",
+"zh": "a. 适应的, 能适应的",
+"en": "a. having a capacity for adaptation"
+},
+{
+"word": "stainless",
+"pos": "a",
+"zh": "a. 无瑕疵的, 不锈的 / [机] 不绣的, 污染的",
+"en": "s. (of reputation) free from blemishes"
+},
+{
+"word": "adventurer",
+"pos": "n",
+"zh": "n. 冒险家, 投机者 / [法] 冒险者, 投机者",
+"en": "n. a person who enjoys taking risks"
+},
+{
+"word": "sentimental",
+"pos": "a",
+"zh": "a. 感伤的, 感情用事的",
+"en": "s. given to or marked by sentiment or sentimentality"
+},
+{
+"word": "oxide",
+"pos": "n",
+"zh": "n. 氧化物 / [医] 氧化物",
+"en": "n. any compound of oxygen with another element or a radical"
+},
+{
+"word": "inclusive",
+"pos": "a",
+"zh": "a. 包含的, 包括的",
+"en": "a. including much or everything; and especially including stated limits"
+},
+{
+"word": "memorize",
+"pos": "vt",
+"zh": "vt. 记住, 熟记, 背熟",
+"en": "v. commit to memory; learn by heart"
+},
+{
+"word": "upscale",
+"pos": "a",
+"zh": "a. 迎合高层次消费者的；质优价高的",
+"en": "s. appropriate for people with good incomes"
+},
+{
+"word": "silicon",
+"pos": "n",
+"zh": "n. 硅 / [化] 硅Si",
+"en": "n. a tetravalent nonmetallic element; next to oxygen it is the most abundant element in the earth's crust; occurs in cla…"
+},
+{
+"word": "reviewer",
+"pos": "n",
+"zh": "n. 评论者, 书评作者, 评论家, 剧评家, 报刊评论家",
+"en": "n. someone who reads manuscripts and judges their suitability for publication"
+},
+{
+"word": "puff",
+"pos": "n/v",
+"zh": "n. 一阵喷烟, 肿块, 喘息 / v. 喷出, 张开, 吹捧, (使)充气, 喘气, (使)骄傲, (使)膨胀",
+"en": "n. a short light gust of air / n. a light inflated pastry or puff shell / n. exaggerated praise (as for promotional purp…"
+},
+{
+"word": "misunderstand",
+"pos": "vt",
+"zh": "vt. 误解, 误会",
+"en": "v interpret in the wrong way"
+},
+{
+"word": "genus",
+"pos": "n",
+"zh": "n. 种, 类 / [医] 属(分类)",
+"en": "n. a general kind of something / n. (biology) taxonomic group containing one or more species"
+},
+{
+"word": "hallmark",
+"pos": "n/vt",
+"zh": "n. 纯度检验证明, 品质证明 / vt. 加盖纯度检验证明",
+"en": "n. a distinctive characteristic or attribute"
+},
+{
+"word": "cucumber",
+"pos": "n",
+"zh": "n. 黄瓜 / [医] 黄瓜, 胡瓜",
+"en": "n. a melon vine of the genus Cucumis; cultivated from earliest times for its cylindrical green fruit / n. cylindrical gr…"
+},
+{
+"word": "coldly",
+"pos": "adv",
+"zh": "adv. 冷淡地",
+"en": "r. in a cold unemotional manner"
+},
+{
+"word": "lava",
+"pos": "n",
+"zh": "n. 熔岩, 火山岩 / [医] 火山石(一种顺势疗法药)",
+"en": "n. rock that in its molten form (as magma) issues from volcanos; lava is what magma is called when it reaches the surfac…"
+},
+{
+"word": "asphalt",
+"pos": "n/a/vt",
+"zh": "n. 柏油 / a. 用柏油铺成的 / vt. 以柏油铺",
+"en": "n. mixed asphalt and crushed gravel or sand; used especially for paving but also for roofing / n. a dark bituminous subs…"
+},
+{
+"word": "savor",
+"pos": "n/vi/vt",
+"zh": "n. 滋味, 气味, 食欲 / vi. 有...的滋味 / vt. 加调味品于, 使有风味, 尝到",
+"en": "v. taste appreciatively / v. give taste to"
+},
+{
+"word": "euro",
+"pos": "n",
+"zh": "n. 欧元（欧盟的统一货币单位）",
+"en": "n. the basic monetary unit of most members of the European Union (introduced in 1999); in 2002 twelve European nations (…"
+},
+{
+"word": "spear",
+"pos": "n/vt/vi/a",
+"zh": "n. 矛, 枪, 持矛者, 嫩枝 / vt. 用矛刺 / vi. 刺, 戳 / a. 父系的",
+"en": "n. a long pointed rod used as a tool or weapon / n. an implement with a shaft and barbed point used for catching fish / …"
+},
+{
+"word": "notation",
+"pos": "n",
+"zh": "n. 记号, 符号表示法, 注释 / [计] 记数法",
+"en": "n. a technical system of symbols used to represent special things / n. the activity of representing something by a speci…"
+},
+{
+"word": "weekday",
+"pos": "n",
+"zh": "n. 周日, 平日 / [计] 工作日",
+"en": "n. any day except Sunday (and sometimes except Saturday)"
+},
+{
+"word": "dorm",
+"pos": "n",
+"zh": "n. 宿舍",
+"en": "n a college or university building containing living quarters for students"
+},
+{
+"word": "ledge",
+"pos": "n",
+"zh": "n. 突出部分, 暗礁, 矿层",
+"en": "n. a projecting ridge on a mountain or submerged under water"
+},
+{
+"word": "overtime",
+"pos": "n/a/adv/vt",
+"zh": "n. 超时, 加班, 延长时间 / a. 超时的, 加班的 / adv. 加班地 / vt. 使超过时间",
+"en": "n. work done in addition to regular working hours / n. playing time beyond regulation, to break a tie / r. beyond the re…"
+},
+{
+"word": "aroma",
+"pos": "n",
+"zh": "n. 浓香, 香气 / [医] 香气, 芳香气",
+"en": "n. a distinctive odor that is pleasant"
+},
+{
+"word": "impatiently",
+"pos": "adv",
+"zh": "adv. 不耐烦, 忍受不了, 急躁, [表]急欲, 急切",
+"en": "r. with impatience; in an impatient manner"
+},
+{
+"word": "relay",
+"pos": "n/vt/vi",
+"zh": "n. 驿马, 替班, 中继, 接力 / vt. 分程传递, 转播, 使接替 / vi. 接力传送, 转播",
+"en": "n. the act of passing something along from one person or group to another / n. a crew of workers who relieve another cre…"
+},
+{
+"word": "thwart",
+"pos": "a/vt/prep/adv",
+"zh": "a. 横放的 / vt. 反对, 阻挠, 横过 / prep. 横过 / adv. 横过",
+"en": "n. a crosspiece spreading the gunnels of a boat; used as a seat in a rowboat / v. hinder or prevent (the efforts, plans,…"
+},
+{
+"word": "jog",
+"pos": "n/v",
+"zh": "n. 轻推, 轻撞, 慢跑 / v. 轻推, (使)蹒跚行进, (使)慢跑",
+"en": "n. a sharp change in direction / n. a slow pace of running / v. run for exercise / v. give a slight push to"
+},
+{
+"word": "awfully",
+"pos": "adv",
+"zh": "adv. 恶劣地, 非常地, 极端地",
+"en": "r used as intensifiers / r of a dreadful kind / r in a terrible manner"
+},
+{
+"word": "lantern",
+"pos": "n/vt",
+"zh": "n. 灯笼, 提灯, 航标灯 / vt. 装上提灯",
+"en": "n. light in a transparent protective case"
+},
+{
+"word": "plateau",
+"pos": "n",
+"zh": "n. 高地, 高原, (上升后的)稳定水平 / [医] 高原, 平顶, 坪",
+"en": "n a relatively flat highland"
+},
+{
+"word": "slaughter",
+"pos": "n/vt",
+"zh": "n. 残杀, 屠杀, 杀戮 / vt. 残杀, 屠杀, 亏本出售",
+"en": "n. the killing of animals (as for food) / n. the savage and excessive killing of many people"
+},
+{
+"word": "fender",
+"pos": "n",
+"zh": "n. 防卫物, 挡泥板",
+"en": "n. a barrier that surrounds the wheels of a vehicle to block splashing water or mud / n. an inclined metal frame at the …"
+},
+{
+"word": "heroine",
+"pos": "n",
+"zh": "n. 巾帼英雄, 烈妇, 女主角 / [化] 海洛因; 二醋吗啡; 二乙酰吗啡",
+"en": "n. the main good female character in a work of fiction / n. a woman possessing heroic qualities or a woman who has perfo…"
+},
+{
+"word": "glider",
+"pos": "n",
+"zh": "n. 滑翔员, 滑翔机",
+"en": "n. aircraft supported only by the dynamic action of air against its surfaces"
+},
+{
+"word": "retrospect",
+"pos": "n/v",
+"zh": "n. 回顾, 追忆, 回溯 / v. 回顾, 追忆",
+"en": "n. contemplation of things past"
+},
+{
+"word": "trot",
+"pos": "n/vi/vt",
+"zh": "n. 快步 / vi. 快步走, 小跑 / vt. 使小跑, 策马小跑",
+"en": "n. a gait faster than a walk; diagonally opposite legs strike the ground together / v. run at a moderately swift pace / …"
+},
+{
+"word": "subsection",
+"pos": "n",
+"zh": "n. 分部, 分区, 分支 / [经] 分部, 分段, 小小组",
+"en": "n. a section of a section; a part of a part; i.e., a part of something already divided"
+},
+{
+"word": "mingle",
+"pos": "v",
+"zh": "v. (使)混合",
+"en": "v. get involved or mixed-up with"
+},
+{
+"word": "floral",
+"pos": "a",
+"zh": "a. 花似的, 花的, 植物的",
+"en": "s. resembling or made of or suggestive of flowers / a. relating to or associated with flowers / a. of or relating to the…"
+},
+{
+"word": "torque",
+"pos": "n",
+"zh": "n. 扭转力, 转矩, 项圈 / [化] 转矩",
+"en": "n a twisting force"
+},
+{
+"word": "imperative",
+"pos": "n/a",
+"zh": "n. 命令, 必要的事, 规则, 祈使语气 / a. 命令式的, 急需的, 势在必行的, 强制的",
+"en": "n. some duty that is essential and urgent / a. requiring attention or action / a. relating to verbs in the imperative mo…"
+},
+{
+"word": "gravitational",
+"pos": "a",
+"zh": "a. 重力的",
+"en": "a. of or relating to or caused by gravitation"
+},
+{
+"word": "respectful",
+"pos": "a",
+"zh": "a. 表示尊敬的, 有礼貌的, 谦恭的",
+"en": "a. full of or exhibiting respect / s. feeling or manifesting veneration"
+},
+{
+"word": "humidity",
+"pos": "n",
+"zh": "n. 湿气, 潮湿, 湿度 / [计] 湿度",
+"en": "n. wetness in the atmosphere"
+},
+{
+"word": "martyr",
+"pos": "n/vt",
+"zh": "n. 烈士, 受苦者, 受难者 / vt. 使成为烈士, 使受苦",
+"en": "n. one who suffers for the sake of principle / n. one who voluntarily suffers death as the penalty for refusing to renou…"
+},
+{
+"word": "ominous",
+"pos": "a",
+"zh": "a. 恶兆的, 不吉利的, 预兆的",
+"en": "s threatening or foreshadowing evil or tragic developments / s presaging ill fortune"
+},
+{
+"word": "howl",
+"pos": "n/vi/vt",
+"zh": "n. 嗥叫, 吠声, 号叫 / vi. 狂吠, 咆哮, 呼啸 / vt. 对...吼叫, 狂喊着说",
+"en": "n. a long loud emotional utterance / n. the long plaintive cry of a hound or a wolf / n. a loud sustained noise resembli…"
+},
+{
+"word": "modernization",
+"pos": "n",
+"zh": "n. 现代化",
+"en": "n. making modern in appearance or behavior / n. a modernized version (as of a play)"
+},
+{
+"word": "crane",
+"pos": "n/vt/vi",
+"zh": "n. 鹤, 起重机 / vt. 伸颈, 起重机起吊 / vi. 伸颈看, 迟疑",
+"en": "n. United States writer (1871-1900) / n. United States poet (1899-1932) / n. lifts and moves heavy objects; lifting tack…"
+},
+{
+"word": "jeopardy",
+"pos": "n",
+"zh": "n. 危难, 危险 / [法] 危险, 危难, 危险处境",
+"en": "n a source of danger; a possibility of incurring loss or misfortune"
+},
+{
+"word": "vie",
+"pos": "vi/vt",
+"zh": "vi. 争, 竞争, 争胜 / vt. 提出...来竞争, 以...作较量",
+"en": "v compete for something; engage in a contest; measure oneself against others"
+},
+{
+"word": "crow",
+"pos": "n/vi",
+"zh": "n. 啼叫, 乌鸦, 鸡鸣, 撬棍 / vi. 啼叫, 报晓",
+"en": "n. black birds having a raucous call / n. the cry of a cock (or an imitation of it) / n. a member of the Siouan people f…"
+},
+{
+"word": "variability",
+"pos": "n",
+"zh": "n. 易变, 变化性, 变异性 / [化] 可变性; 变异性",
+"en": "n. the quality of being subject to variation"
+},
+{
+"word": "indefinitely",
+"pos": "adv",
+"zh": "adv. 无期限地",
+"en": "r. to an indefinite extent; for an indefinite time"
+},
+{
+"word": "untouched",
+"pos": "a",
+"zh": "a. 未触摸过的, 未改变的, 未受影响的",
+"en": "s. still full / a. not having come in contact"
+},
+{
+"word": "faulty",
+"pos": "a",
+"zh": "a. 有过失的, 有缺点的, 不完美的, 应受责备的 / [经] 缺点多的",
+"en": "s. characterized by errors; not agreeing with a model or not following established rules; the wrong side of the road\""
+},
+{
+"word": "downturn",
+"pos": "n",
+"zh": "n. (尤指经济方面的)衰退, 下降趋势 / [电] 低迷时期",
+"en": "n. a worsening of business or economic activity"
+},
+{
+"word": "unreliable",
+"pos": "a",
+"zh": "a. 不可靠的 / [法] 不可靠的, 靠不住的",
+"en": "a. not worthy of reliance or trust / s. lacking a sense of responsibility"
+},
+{
+"word": "butcher",
+"pos": "n/vt",
+"zh": "n. 屠夫, 肉商, 小贩 / vt. 屠宰, 屠杀",
+"en": "n. a retailer of meat / n. a brutal indiscriminate murderer / n. a person who slaughters or dresses meat for market / v.…"
+},
+{
+"word": "thankful",
+"pos": "a",
+"zh": "a. 感谢的, 感激的, 欣慰的",
+"en": "a feeling or showing gratitude"
+},
+{
+"word": "muster",
+"pos": "n/vt/vi",
+"zh": "n. 召集, 集合, 检阅, 清单, 花名册, 样品 / vt. 召集, 集合, 应召 / vi. 集合, 集中",
+"en": "n. a gathering of military personnel for duty / v. gather or bring together / v. call to duty, military service, jury du…"
+},
+{
+"word": "tedious",
+"pos": "a",
+"zh": "a. 沉闷的, 冗长乏味的",
+"en": "s so lacking in interest as to cause mental weariness / s using or containing too many words"
+},
+{
+"word": "hamper",
+"pos": "n/vt",
+"zh": "n. 食篮, 阻碍物, 食盒 / vt. 阻碍, 使困累, 妨碍, 牵制",
+"en": "n. a basket usually with a cover / v. prevent the progress or free movement of"
+},
+{
+"word": "skilful",
+"pos": "a",
+"zh": "a. 灵巧的, 熟练的, 制作精巧的",
+"en": "s having or showing knowledge and skill and aptitude"
+},
+{
+"word": "oblivious",
+"pos": "a",
+"zh": "a. 遗忘的, 健忘的, 不知不觉的 / [法] 忘却的, 健忘的, 不在意的",
+"en": "s. (followed by `to' or `of') lacking conscious awareness of"
+},
+{
+"word": "narcotic",
+"pos": "n/a",
+"zh": "n. 麻醉药, 镇静剂 / a. 麻醉的, 催眠的",
+"en": "n. a drug that produces numbness or stupor; often taken for pleasure or to reduce pain; extensive use can lead to addict…"
+},
+{
+"word": "multitude",
+"pos": "n",
+"zh": "n. 多数, 群众",
+"en": "n. a large gathering of people / n. the common people generally"
+},
+{
+"word": "chilly",
+"pos": "a",
+"zh": "a. 寒冷的, 冷淡的, 不友好的 / [建] 番椒, 冷",
+"en": "s. not characterized by emotion / s. appreciably or disagreeably cold / s. lacking warmth of feeling"
+},
+{
+"word": "confidently",
+"pos": "adv",
+"zh": "adv. 自信地；安心地",
+"en": "r. with confidence; in a confident manner"
+},
+{
+"word": "degrade",
+"pos": "v",
+"zh": "v. (使)降级, (使)退化",
+"en": "v. reduce the level of land, as by erosion / v. lower the grade of something; reduce its worth"
+},
+{
+"word": "vitality",
+"pos": "n",
+"zh": "n. 活力, 生命力 / [医] 生机, 活力, 生活",
+"en": "n. an energetic style"
+},
+{
+"word": "satisfactorily",
+"pos": "adv",
+"zh": "adv. 令人满意地",
+"en": "r. in a satisfactory manner"
+},
+{
+"word": "lag",
+"pos": "n/a/vi/vt",
+"zh": "n. 落后, 囚犯, 迟延, 桶板, 防护套 / a. 最后的 / vi. 落后, 蹒跚, 缓缓而行, 滞后 / vt. 落后于, 押往监狱, 加上外套 / [计] 延迟; 落后",
+"en": "v. hang (back) or fall (behind) in movement, progress, development, etc. / v. throw or pitch at a mark, as with coins / …"
+},
+{
+"word": "prolong",
+"pos": "vt",
+"zh": "vt. 延长, 拖延, 拖长 / [化] 冷凝管",
+"en": "v. lengthen in time; cause to be or last longer / v. lengthen or extend in duration or space"
+},
+{
+"word": "persuasive",
+"pos": "a",
+"zh": "a. 有说服力的, 劝诱的, 劝导性的",
+"en": "a. intended or having the power to induce action or belief"
+},
+{
+"word": "disruptive",
+"pos": "a",
+"zh": "a. 分裂的, 破坏(性)的 / [计] 击穿的, 中断的",
+"en": "s. characterized by unrest or disorder or insubordination"
+},
+{
+"word": "perpetual",
+"pos": "a",
+"zh": "a. 永久的, 不断的, 无期限的, 没完没了的, 四季开花的 / [经] 永远的, 终身的, 持续的",
+"en": "s continuing forever or indefinitely / s uninterrupted in time and indefinitely long continuing"
+}
+]

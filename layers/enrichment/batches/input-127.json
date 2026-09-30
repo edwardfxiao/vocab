@@ -1,0 +1,602 @@
+[
+{
+"word": "truncate",
+"pos": "vt/a",
+"zh": "vt. 切去头端, 缩短, 截棱, 使成平面 / a. 切去了头的, 缩短了的",
+"en": "v. replace a corner by a plane / v. approximate by ignoring all terms beyond a chosen one / v. make shorter as if by cut…"
+},
+{
+"word": "oligarchy",
+"pos": "n",
+"zh": "n. 寡头政治, 寡头政治的政府 / [法] 寡头政治, 寡头政治集团, 少数人垄断的组织",
+"en": "n. a political system governed by a few people"
+},
+{
+"word": "chlorophyll",
+"pos": "n",
+"zh": "n. 叶绿素, 含有叶绿素的绿色蜡状物质 / [化] 叶绿素",
+"en": "n. any of a group of green pigments found in photosynthetic organisms; there are four naturally occurring forms"
+},
+{
+"word": "iconoclastic",
+"pos": "a",
+"zh": "a. 反对偶象崇拜的, 打破旧习的",
+"en": "s. characterized by attack on established beliefs or institutions / s. destructive of images used in religious worship; …"
+},
+{
+"word": "ruminate",
+"pos": "v",
+"zh": "v. 反刍, 沉思",
+"en": "v. chew the cuds"
+},
+{
+"word": "erasure",
+"pos": "n",
+"zh": "n. 擦除, 抹掉 / [电] 擦掉",
+"en": "n. a correction made by erasing / n. a surface area where something has been erased"
+},
+{
+"word": "palatial",
+"pos": "a",
+"zh": "a. 宫殿似的, 宏伟的, 堂皇的, 庄严的",
+"en": "a. relating to or being a palace / s. suitable for or like a palace"
+},
+{
+"word": "counterclockwise",
+"pos": "a/adv",
+"zh": "a. 反时针方向的 / adv. 反时针方向",
+"en": "a. in the direction opposite to the rotation of the hands of a clock / r. in a direction opposite to the direction in wh…"
+},
+{
+"word": "guile",
+"pos": "n",
+"zh": "n. 狡猾, 狡计",
+"en": "n shrewdness as demonstrated by being skilled in deception / n the quality of being crafty / n the use of tricks to dece…"
+},
+{
+"word": "entrap",
+"pos": "vt",
+"zh": "vt. 骗入, 诱捕, 使陷入",
+"en": "v take or catch as if in a snare or trap / v catch in or as if in a trap"
+},
+{
+"word": "decant",
+"pos": "vt",
+"zh": "vt. 轻轻倒出, 移入其他容器 / [医] 倾泻, 倾析",
+"en": "v. pour out"
+},
+{
+"word": "debase",
+"pos": "vt",
+"zh": "vt. 贬低, 降低",
+"en": "v. lower in value by increasing the base-metal content"
+},
+{
+"word": "conjoin",
+"pos": "v",
+"zh": "v. (使)结合, (使)连结, (使)联合",
+"en": "v make contact or come together / v take in marriage"
+},
+{
+"word": "subterfuge",
+"pos": "n",
+"zh": "n. 遁辞, 借口, 托辞 / [法] 遁词, 托词, 藉口",
+"en": "n. something intended to misrepresent the true nature of an activity"
+},
+{
+"word": "patrimony",
+"pos": "n",
+"zh": "n. 祖传的财物, 继承物 / [经] 世袭财产, 遗产",
+"en": "n. a church endowment"
+},
+{
+"word": "arboretum",
+"pos": "n",
+"zh": "n. 树木园, 植物园",
+"en": "n. a facility where trees and shrubs are cultivated for exhibition"
+},
+{
+"word": "prickle",
+"pos": "n/v",
+"zh": "n. 刺, 刺痛, 柳条篮子 / v. 刺, 扎, 戳, 引起刺痛, 使感到刺痛",
+"en": "v. cause a prickling sensation / v. make a small hole into, as with a needle or a thorn"
+},
+{
+"word": "strangulation",
+"pos": "n",
+"zh": "n. 勒杀, 绞死, 压缩 / [医] 绞窄; 勒颈, 勒颈窒息",
+"en": "n. the condition of having respiration stopped by compression of the air passage / n. (pathology) constriction of a body…"
+},
+{
+"word": "catalyze",
+"pos": "vt",
+"zh": "vt. 催化, 促进, 刺激 / [医] 催化",
+"en": "v. change by catalysis or cause to catalyze"
+},
+{
+"word": "gulch",
+"pos": "n",
+"zh": "n. 地沟, 冲沟",
+"en": "n. a narrow gorge with a stream running through it"
+},
+{
+"word": "bespeak",
+"pos": "vt/n",
+"zh": "vt. 预约, 订, 表示 / n. 预约",
+"en": "v. be a signal for or a symptom of"
+},
+{
+"word": "bonhomie",
+"pos": "n",
+"zh": "n. 愉快, 温和, 和蔼",
+"en": "n a disposition to be friendly and approachable (easy to talk to)"
+},
+{
+"word": "taxicab",
+"pos": "n",
+"zh": "n. 出租车",
+"en": "n a car driven by a person whose job is to take passengers where they want to go in exchange for money"
+},
+{
+"word": "swindle",
+"pos": "n/v",
+"zh": "n. 骗取, 欺诈, 骗局 / v. 骗取, 诈取",
+"en": "n. the act of swindling by some fraudulent scheme"
+},
+{
+"word": "congeal",
+"pos": "v",
+"zh": "v. (使)冻结, (使)凝结",
+"en": "v become gelatinous"
+},
+{
+"word": "coterie",
+"pos": "n",
+"zh": "n. 同人, 圈内人, 小集团",
+"en": "n an exclusive circle of people with a common purpose"
+},
+{
+"word": "hominid",
+"pos": "n",
+"zh": "n. 人科的动物",
+"en": "n. a primate of the family Hominidae"
+},
+{
+"word": "nonchalance",
+"pos": "n",
+"zh": "n. 不关心, 冷淡, 无动于衷",
+"en": "n. the trait of remaining calm and seeming not to care; a casual lack of concern"
+},
+{
+"word": "snide",
+"pos": "n/a",
+"zh": "n. 赝品, 假珠宝 / a. 伪造的, 不诚实的, 卑鄙的, 险恶的",
+"en": "s expressive of contempt"
+},
+{
+"word": "gibbon",
+"pos": "n",
+"zh": "n. 长臂猿 / [医] 长臂猿",
+"en": "n. English historian best known for his history of the Roman Empire (1737-1794) / n. smallest and most perfectly anthrop…"
+},
+{
+"word": "sedition",
+"pos": "n",
+"zh": "n. 煽动骚乱, 暴动, 妨害治安, 骚动 / [法] 煽动, 煽动叛逆罪, 暴动",
+"en": "n. an illegal action inciting resistance to lawful authority and tending to cause the disruption or overthrow of the gov…"
+},
+{
+"word": "byline",
+"pos": "n",
+"zh": "n. 副业, 署名报道",
+"en": ""
+},
+{
+"word": "nihilism",
+"pos": "n",
+"zh": "n. 虚无主义, 无政府主义 / [医] 虚无妄想; 虚无主义",
+"en": "n. a revolutionary doctrine that advocates destruction of the social system for its own sake / n. complete denial of all…"
+},
+{
+"word": "highbrow",
+"pos": "n/a",
+"zh": "n. (自以为)文化修养高的人, 卖弄知识的人 / a. 自炫博学的, 知识分子的, 不切实际的",
+"en": "n. a person of intellectual or erudite tastes / s. highly cultured or educated"
+},
+{
+"word": "swank",
+"pos": "vi/n",
+"zh": "vi. 出风头, 炫耀 / n. 出风头, 炫耀, 虚张声势, 优雅",
+"en": "s. imposingly fashionable and elegant"
+},
+{
+"word": "surfeit",
+"pos": "n/vt/vi",
+"zh": "n. 过食, 过度, 恶心 / vt. 使厌腻, 使沉溺于 / vi. 饮食过度",
+"en": "n. the state of being more than full / v. supply or feed to surfeit / v. indulge (one's appetite) to satiety"
+},
+{
+"word": "phlegmatic",
+"pos": "a",
+"zh": "a. 粘液质的, (正式)平静的, 不动情的, 不动感情的, 冷漠的, 冷淡的, 迟钝的 / [医] 粘液质的, 迟钝的",
+"en": "s. showing little emotion"
+},
+{
+"word": "skein",
+"pos": "n",
+"zh": "n. 一束, 飞鸟群, 纠纷 / [医] 染色质纽, 丝球; 线团, 线球",
+"en": "n. coils of worsted yarn"
+},
+{
+"word": "opacity",
+"pos": "n",
+"zh": "n. 不透明, 电波不透过, 不透明体 / [医] 浑浊, 不透明, 不透光, 不透明区, 浊斑",
+"en": "n. the phenomenon of not permitting the passage of electromagnetic radiation / n. incomprehensibility resulting from obs…"
+},
+{
+"word": "emaciated",
+"pos": "a",
+"zh": "a. 瘦弱的, 衰弱的",
+"en": "v cause to grow thin or weak / v grow weak and thin or waste away physically / s very thin especially from disease or hu…"
+},
+{
+"word": "palliative",
+"pos": "a/n",
+"zh": "a. 缓和的, 减轻的, 掩饰的 / n. 辩解, 缓和物",
+"en": "n. remedy that alleviates pain without curing"
+},
+{
+"word": "augur",
+"pos": "n/v",
+"zh": "n. 占卜官, 预言者 / v. 预示, 预言",
+"en": "n. (ancient Rome) a religious official who interpreted omens to guide public policy / v. predict from an omen"
+},
+{
+"word": "sacrilege",
+"pos": "n",
+"zh": "n. 亵渎圣物, 冒渎, 渎圣行为 / [法] 橇门入教堂行窃, 窃取圣物",
+"en": "n blasphemous behavior; the act of depriving something of its sacred character"
+},
+{
+"word": "profligate",
+"pos": "a/n",
+"zh": "a. 放荡的, 不检点的, 浪费的 / n. 放荡者, 享乐者",
+"en": "n a dissolute man in fashionable society / n a recklessly extravagant consumer / s recklessly wasteful / s unrestrained …"
+},
+{
+"word": "orifice",
+"pos": "n",
+"zh": "n. 孔口 / [医] 口, 管口",
+"en": "n. an aperture or hole that opens into a bodily cavity"
+},
+{
+"word": "lifesaver",
+"pos": "n",
+"zh": "n. 救命者, 救生员, 济急的人",
+"en": "n an attendant employed at a beach or pool to protect swimmers from accidents / n a life preserver in the form of a ring…"
+},
+{
+"word": "gauche",
+"pos": "a",
+"zh": "a. 缺乏社经验的, 笨拙的, 粗鲁的, 无礼的, 偏转的",
+"en": "s. lacking social polish"
+},
+{
+"word": "trapeze",
+"pos": "n",
+"zh": "n. 吊秋千",
+"en": "n. a swing used by circus acrobats"
+},
+{
+"word": "torrid",
+"pos": "a",
+"zh": "a. 晒热的, 酷热的, 炎热的",
+"en": "s. emotionally charged and vigorously energetic / s. extremely hot"
+},
+{
+"word": "callow",
+"pos": "a",
+"zh": "a. 年轻而无经验的, (鸟)羽毛未丰的 / [机] 无羽毛的",
+"en": "s young and inexperienced"
+},
+{
+"word": "filial",
+"pos": "a",
+"zh": "a. 子女的, 当做子女的, 孝顺的 / [医] 子女的",
+"en": "a. designating the generation or the sequence of generations following the parental generation / a. relating to or chara…"
+},
+{
+"word": "vagabond",
+"pos": "n/vi/a",
+"zh": "n. 流浪者, 浪子, 流氓 / vi. 到处流浪 / a. 流浪的, 漂泊的, 浪荡的, 流浪者的",
+"en": "n. anything that resembles a vagabond in having no fixed place"
+},
+{
+"word": "desecrate",
+"pos": "vt",
+"zh": "vt. 供俗用, 亵渎, 轻蔑地对待",
+"en": "v. violate the sacred character of a place or language / v. remove the consecration from a person or an object"
+},
+{
+"word": "ersatz",
+"pos": "n",
+"zh": "n. 代用品",
+"en": "n. an artificial or inferior substitute or imitation / s. artificial and inferior"
+},
+{
+"word": "fossilized",
+"pos": "v",
+"zh": "v. 使成化石( fossilize的过去式和过去分词); 使陈腐; 变成化石; 变陈腐",
+"en": "s. set in a rigidly conventional pattern of behavior, habits, or beliefs"
+},
+{
+"word": "forbearance",
+"pos": "n",
+"zh": "n. 节制, 自制, 忍耐 / [法] 债务偿还期的延展, 忍耐, 宽容",
+"en": "n. a delay in enforcing rights or claims or privileges; refraining from acting"
+},
+{
+"word": "ensnare",
+"pos": "vt",
+"zh": "vt. 以陷阱捕捉, 诱入圈套, 诱捕",
+"en": "v. take or catch as if in a snare or trap"
+},
+{
+"word": "gossamer",
+"pos": "n/a",
+"zh": "n. 小蜘蛛网, 蛛丝, 薄纱 / a. 薄弱的, 轻飘飘的",
+"en": "n. a gauze fabric with an extremely fine texture"
+},
+{
+"word": "beguile",
+"pos": "vt",
+"zh": "vt. 诱骗",
+"en": "v influence by slyness / v attract; cause to be enamored"
+},
+{
+"word": "apocryphal",
+"pos": "a",
+"zh": "a. 伪的, 不足凭信的",
+"en": "s. being of questionable authenticity / a. of or belonging to the Apocrypha"
+},
+{
+"word": "herculean",
+"pos": "a",
+"zh": "a. 魁梧有力的",
+"en": "s. displaying superhuman strength or power / s. extremely difficult; requiring the strength of a Hercules"
+},
+{
+"word": "deactivate",
+"pos": "vt",
+"zh": "vt. 撤消遣散, 复员, 使无效, 使不活动",
+"en": "v. remove from active military status or reassign"
+},
+{
+"word": "herdsman",
+"pos": "n",
+"zh": "n. 牧人, 牧主",
+"en": "n someone who drives a herd"
+},
+{
+"word": "behoove",
+"pos": "vt/vi",
+"zh": "vt. 理应, 应该 / vi. 理所当然",
+"en": "v. be appropriate or necessary"
+},
+{
+"word": "cipher",
+"pos": "n/v",
+"zh": "n. 零, 暗号, 密码, 无用的东西, 阿拉伯数字 / v. 计算, 做算术",
+"en": "n. a message written in a secret code / n. a person of no influence / n. a secret method of writing"
+},
+{
+"word": "fungicide",
+"pos": "n",
+"zh": "n. 杀真菌剂 / [化] 杀菌剂; 防霉剂",
+"en": "n any agent that destroys or prevents the growth of fungi"
+},
+{
+"word": "bungle",
+"pos": "v/n",
+"zh": "v. 拙劣地工作, 粗制滥造, 把...搞糟 / n. 粗劣, 失误, 笨拙",
+"en": "v. spoil by behaving clumsily or foolishly"
+},
+{
+"word": "osprey",
+"pos": "n",
+"zh": "n. 白色的羽毛, 鹗",
+"en": "n. large harmless hawk found worldwide that feeds on fish and builds a bulky nest often occupied for years"
+},
+{
+"word": "petroglyph",
+"pos": "n",
+"zh": "n. 岩石雕刻, 岩画",
+"en": "n. a carving or line drawing on rock (especially one made by prehistoric people)"
+},
+{
+"word": "oration",
+"pos": "n",
+"zh": "n. 演说, 致辞, 引语",
+"en": "n. an instance of oratory"
+},
+{
+"word": "alabaster",
+"pos": "n/a",
+"zh": "n. 雪花石膏 / a. 雪花石膏制的",
+"en": "n. a compact fine-textured, usually white gypsum used for carving / n. a hard compact kind of calcite / n. a very light …"
+},
+{
+"word": "libretto",
+"pos": "n",
+"zh": "n. 歌词集, 剧本",
+"en": "n. the words of an opera or musical play"
+},
+{
+"word": "impugn",
+"pos": "vt",
+"zh": "vt. 责难, 抨击, 攻击 / [法] 驳斥, 指责, 非难",
+"en": "v. attack as false or wrong"
+},
+{
+"word": "minaret",
+"pos": "n",
+"zh": "n. 光塔",
+"en": "n. slender tower with balconies"
+},
+{
+"word": "imp",
+"pos": "n/vt",
+"zh": "n. 顽童 / vt. 加强, 给...装上翅膀 / [计] 图象处理程序, 接口信息处理器",
+"en": "n. one who is playfully mischievous"
+},
+{
+"word": "excoriate",
+"pos": "vt",
+"zh": "vt. 剥皮, 擦破皮肤, 严厉的责难",
+"en": "v express strong disapproval of / v tear or wear off the skin or make sore by abrading"
+},
+{
+"word": "paleontology",
+"pos": "n",
+"zh": "n. 古生物学 / [医] 古生物学",
+"en": "n. the earth science that studies fossil organisms and related remains"
+},
+{
+"word": "daredevil",
+"pos": "n/a",
+"zh": "n. 铤而走险的人, 蛮勇的人 / a. 蛮勇的, 不怕死的",
+"en": "n. a reckless impetuous irresponsible person / s. presumptuously daring"
+},
+{
+"word": "autocracy",
+"pos": "n",
+"zh": "n. 独裁统治, 独裁统治的国家 / [法] 独裁政治, 专制政治, 独裁政府",
+"en": "n. a political system governed by a single individual / n. a political theory favoring unlimited authority by a single i…"
+},
+{
+"word": "slovenly",
+"pos": "a/adv",
+"zh": "a. 邋遢的, 不修边幅的, 不整洁的, 懒散的, 潦草的, 马虎的 / adv. 邋遢地, 不修边幅地, 不整洁地, 懒散地, 潦草地, 马虎地",
+"en": "s negligent of neatness especially in dress and person; habitually dirty and unkempt"
+},
+{
+"word": "conductivity",
+"pos": "n",
+"zh": "n. 导电率, 传导率, 传导性 / [化] 电导率",
+"en": "n the transmission of heat or electricity or sound"
+},
+{
+"word": "incontrovertible",
+"pos": "a",
+"zh": "a. 无争论余地的, 无疑的, 明白的 / [法] 不可辩驳的, 不容置疑的",
+"en": "s. impossible to deny or disprove"
+},
+{
+"word": "fallacious",
+"pos": "a",
+"zh": "a. 使人误解的, 谬误的, 不合理的, 骗人的",
+"en": "s. containing or based on a fallacy / s. based on an incorrect or misleading notion or information"
+},
+{
+"word": "reptilian",
+"pos": "a/n",
+"zh": "a. 爬虫类的, 像爬虫的, 卑鄙的 / n. 爬行动物",
+"en": "a. of or relating to the class Reptilia"
+},
+{
+"word": "surreptitious",
+"pos": "a",
+"zh": "a. 秘密的, 暗中的, 偷偷摸摸的 / [法] 鬼鬼祟祟的, 秘密的, 欺骗的",
+"en": "s marked by quiet and caution and secrecy; taking pains to avoid being observed / s conducted with or marked by hidden a…"
+},
+{
+"word": "scurrilous",
+"pos": "a",
+"zh": "a. 说话粗鄙恶劣的, 下流的 / [法] 语言粗鄙的, 庸俗的",
+"en": "s expressing offensive reproach"
+},
+{
+"word": "rhinoceros",
+"pos": "n",
+"zh": "n. 犀牛",
+"en": "n. massive powerful herbivorous odd-toed ungulate of southeast Asia and Africa having very thick skin and one or two hor…"
+},
+{
+"word": "fecundity",
+"pos": "n",
+"zh": "n. 多产, 丰饶, 肥沃, 繁殖力 / [医] 生殖能, 生殖力",
+"en": "n. the intellectual productivity of a creative imagination"
+},
+{
+"word": "rejoinder",
+"pos": "n",
+"zh": "n. 回答, 答辩, 答复 / [法] 答辩, 反驳, 第二次答辩",
+"en": "n. a quick reply to a question or remark (especially a witty or critical one) / n. (law) a pleading made by a defendant …"
+},
+{
+"word": "locomotion",
+"pos": "n",
+"zh": "n. 运动, 移动, 旅行 / [医] 行动, 运动",
+"en": "n. the power or ability to move / n. self-propelled movement"
+},
+{
+"word": "canto",
+"pos": "n",
+"zh": "n. 长诗的篇章, 曲调",
+"en": "n. the highest part (usually the melody) in a piece of choral music / n. a major division of a long poem"
+},
+{
+"word": "interjection",
+"pos": "n",
+"zh": "n. 感叹词, 插入语",
+"en": "n. the action of interjecting or interposing an action or remark that interrupts"
+},
+{
+"word": "embezzle",
+"pos": "vt",
+"zh": "vt. 盗用, 挪用 / [经] 贪污(公款), 盗用",
+"en": "v. appropriate (as property entrusted to one's care) fraudulently to one's own use"
+},
+{
+"word": "capacious",
+"pos": "a",
+"zh": "a. 容积大的, 广阔的, 宽敞的",
+"en": "s. large in capacity"
+},
+{
+"word": "waylay",
+"pos": "vt",
+"zh": "vt. 伏击, 埋伏 / [法] 挡路抢劫, 挡路, 挡截",
+"en": "v wait in hiding to attack"
+},
+{
+"word": "ornithologist",
+"pos": "n",
+"zh": "n. 鸟类学者",
+"en": "n. a zoologist who studies birds"
+},
+{
+"word": "torpor",
+"pos": "n",
+"zh": "n. 麻木, 无感觉, 迟钝 / [医] 迟钝, 不活泼",
+"en": "n. a state of motor and mental inactivity with a partial suspension of sensibility"
+},
+{
+"word": "tipple",
+"pos": "vt/vi/n",
+"zh": "vt. (习惯性地)少量饮(酒) / vi. 饮酒 / n. 酒, 含酒饮料",
+"en": "v. drink moderately but regularly"
+},
+{
+"word": "iota",
+"pos": "n",
+"zh": "n. 希腊字母第9位(I,L), 极微小",
+"en": "n. the 9th letter of the Greek alphabet"
+},
+{
+"word": "frisk",
+"pos": "n/vi/vt",
+"zh": "n. 乱跳, 欢闹, 活跃 / vi. 欢跃, 蹦跳 / vt. 轻摇",
+"en": "n. the act of searching someone for concealed weapons or illegal drugs / v. search as for concealed weapons by running t…"
+}
+]

@@ -1,0 +1,1533 @@
+{
+ "hardwood": {
+  "gloss": "硬木，阔叶树木材；硬木地板",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "timber"
+  ],
+  "antonyms": [
+   "softwood"
+  ]
+ },
+ "citrus": {
+  "gloss": "柑橘类水果(橙、柠檬等)；柑橘属植物",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "orange",
+   "lemon"
+  ],
+  "antonyms": []
+ },
+ "stepfather": {
+  "gloss": "继父",
+  "trap": "step- 表示因再婚形成的亲属关系，与‘步’无关",
+  "root": null,
+  "confusable": [
+   "godfather"
+  ],
+  "synonyms": [],
+  "antonyms": [
+   "stepmother"
+  ]
+ },
+ "blockbuster": {
+  "gloss": "大片，畅销书；(原义)巨型炸弹",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "hit",
+   "smash",
+   "bestseller"
+  ],
+  "antonyms": [
+   "flop"
+  ]
+ },
+ "wriggle": {
+  "gloss": "扭动，蠕动；(wriggle out of)设法逃避",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "wiggle",
+   "riddle"
+  ],
+  "synonyms": [
+   "squirm",
+   "wiggle",
+   "writhe"
+  ],
+  "antonyms": []
+ },
+ "asbestos": {
+  "gloss": "石棉(致癌的防火纤维材料)",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [],
+  "antonyms": []
+ },
+ "windscreen": {
+  "gloss": "(英)汽车挡风玻璃(美 windshield)",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "windshield"
+  ],
+  "antonyms": []
+ },
+ "visionary": {
+  "gloss": "有远见的(人)；n.远见者；a.空想的",
+  "trap": "现多为褒义‘有远见的’，不只是‘幻想的’",
+  "root": {
+   "key": "vis",
+   "meaning": "看",
+   "match": "vis"
+  },
+  "confusable": [],
+  "synonyms": [
+   "prophet",
+   "dreamer",
+   "farsighted",
+   "innovative"
+  ],
+  "antonyms": [
+   "realist"
+  ]
+ },
+ "punter": {
+  "gloss": "(英口)顾客，消费者；赌客；撑篙者；踢悬空球者",
+  "trap": "英式口语常指‘顾客、消费者’，不只是‘船夫’",
+  "root": null,
+  "confusable": [
+   "pundit"
+  ],
+  "synonyms": [
+   "customer",
+   "gambler",
+   "bettor"
+  ],
+  "antonyms": []
+ },
+ "knuckle": {
+  "gloss": "指关节；knuckle down 埋头苦干",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "buckle",
+   "nickel"
+  ],
+  "synonyms": [
+   "joint"
+  ],
+  "antonyms": []
+ },
+ "vineyard": {
+  "gloss": "葡萄园",
+  "trap": "读音 /ˈvɪnjəd/，vine 不读 /vaɪn/",
+  "root": null,
+  "confusable": [
+   "orchard"
+  ],
+  "synonyms": [
+   "winery"
+  ],
+  "antonyms": []
+ },
+ "satin": {
+  "gloss": "缎子，绸缎；缎子般光滑的",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "satan",
+   "sateen",
+   "satire"
+  ],
+  "synonyms": [
+   "silk"
+  ],
+  "antonyms": []
+ },
+ "moorland": {
+  "gloss": "(英)高沼地，荒野",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "marshland"
+  ],
+  "synonyms": [
+   "moor",
+   "heath"
+  ],
+  "antonyms": []
+ },
+ "murky": {
+  "gloss": "昏暗浑浊的；含糊不清的，见不得光的",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "mucky",
+   "milky"
+  ],
+  "synonyms": [
+   "gloomy",
+   "obscure",
+   "shady",
+   "cloudy"
+  ],
+  "antonyms": [
+   "clear",
+   "transparent"
+  ]
+ },
+ "inadvertently": {
+  "gloss": "无意地，不小心地",
+  "trap": "重点是‘并非故意’，不是‘漫不经心’",
+  "root": {
+   "key": "vert",
+   "meaning": "转",
+   "match": "vert"
+  },
+  "confusable": [
+   "inadvisably"
+  ],
+  "synonyms": [
+   "accidentally",
+   "unintentionally",
+   "unwittingly"
+  ],
+  "antonyms": [
+   "deliberately",
+   "intentionally"
+  ]
+ },
+ "snooker": {
+  "gloss": "斯诺克台球；v.使陷入困境，阻挠",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "snoop"
+  ],
+  "synonyms": [
+   "billiards",
+   "pool"
+  ],
+  "antonyms": []
+ },
+ "womb": {
+  "gloss": "子宫；(比喻)孕育之地",
+  "trap": "b 不发音，读 /wuːm/",
+  "root": null,
+  "confusable": [
+   "tomb",
+   "comb"
+  ],
+  "synonyms": [
+   "uterus"
+  ],
+  "antonyms": []
+ },
+ "sandstone": {
+  "gloss": "砂岩",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "limestone"
+  ],
+  "synonyms": [],
+  "antonyms": []
+ },
+ "enclave": {
+  "gloss": "飞地；(被包围的)聚居区，小圈子",
+  "trap": "",
+  "root": {
+   "key": "clav",
+   "meaning": "钥匙/关闭",
+   "match": "clav"
+  },
+  "confusable": [
+   "exclave",
+   "conclave"
+  ],
+  "synonyms": [
+   "pocket",
+   "territory"
+  ],
+  "antonyms": [
+   "exclave"
+  ]
+ },
+ "leukaemia": {
+  "gloss": "白血病(美 leukemia)",
+  "trap": "leuk- 白 + -aemia 血；美式拼 leukemia",
+  "root": {
+   "key": "leuk",
+   "meaning": "白",
+   "match": "leuk"
+  },
+  "confusable": [
+   "anaemia"
+  ],
+  "synonyms": [
+   "cancer"
+  ],
+  "antonyms": []
+ },
+ "amiss": {
+  "gloss": "有毛病的，不对劲的；take sth amiss 见怪",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "amid",
+   "abyss"
+  ],
+  "synonyms": [
+   "wrong",
+   "awry",
+   "faulty"
+  ],
+  "antonyms": [
+   "right"
+  ]
+ },
+ "leftist": {
+  "gloss": "左派人士；左派的",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "leftover"
+  ],
+  "synonyms": [
+   "liberal",
+   "socialist",
+   "radical"
+  ],
+  "antonyms": [
+   "rightist",
+   "conservative"
+  ]
+ },
+ "gadget": {
+  "gloss": "小玩意，小巧的电子设备",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "budget",
+   "gasket"
+  ],
+  "synonyms": [
+   "device",
+   "gizmo",
+   "appliance",
+   "tool"
+  ],
+  "antonyms": []
+ },
+ "undercut": {
+  "gloss": "以低价抢生意；削弱，破坏；n.底切",
+  "trap": "不是‘切下来’，主要指‘低价竞争’和‘削弱’",
+  "root": null,
+  "confusable": [
+   "undercurrent"
+  ],
+  "synonyms": [
+   "undermine",
+   "undersell",
+   "weaken"
+  ],
+  "antonyms": [
+   "bolster",
+   "strengthen"
+  ]
+ },
+ "potency": {
+  "gloss": "效力，药效；影响力；性能力",
+  "trap": "",
+  "root": {
+   "key": "pot",
+   "meaning": "能力",
+   "match": "pot"
+  },
+  "confusable": [
+   "poignancy"
+  ],
+  "synonyms": [
+   "strength",
+   "power",
+   "efficacy"
+  ],
+  "antonyms": [
+   "impotence",
+   "weakness"
+  ]
+ },
+ "fallout": {
+  "gloss": "(事件的)不良后果，余波；放射性尘埃",
+  "trap": "现多指‘负面后果’，不只是‘辐射尘’",
+  "root": null,
+  "confusable": [
+   "outfall"
+  ],
+  "synonyms": [
+   "consequence",
+   "repercussion",
+   "aftermath"
+  ],
+  "antonyms": []
+ },
+ "pike": {
+  "gloss": "梭子鱼，狗鱼；长矛；(体操)屈体；(美)收费公路",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "spike",
+   "pique",
+   "peak"
+  ],
+  "synonyms": [
+   "spear",
+   "lance"
+  ],
+  "antonyms": []
+ },
+ "scam": {
+  "gloss": "骗局，诈骗；v.诈骗",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "scan",
+   "scum",
+   "spam"
+  ],
+  "synonyms": [
+   "fraud",
+   "swindle",
+   "hoax",
+   "racket"
+  ],
+  "antonyms": []
+ },
+ "twitch": {
+  "gloss": "抽搐，抽动；急拉；n.抽搐",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "switch",
+   "twitter",
+   "witch"
+  ],
+  "synonyms": [
+   "jerk",
+   "spasm",
+   "tremor",
+   "flinch"
+  ],
+  "antonyms": []
+ },
+ "liken": {
+  "gloss": "把…比作(liken A to B)",
+  "trap": "liken to 是‘把…比作’，不是‘喜欢’(like)",
+  "root": null,
+  "confusable": [
+   "lichen"
+  ],
+  "synonyms": [
+   "compare",
+   "equate"
+  ],
+  "antonyms": [
+   "contrast",
+   "distinguish"
+  ]
+ },
+ "coma": {
+  "gloss": "昏迷；(天文)彗发",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "comma",
+   "comet"
+  ],
+  "synonyms": [
+   "unconsciousness",
+   "stupor"
+  ],
+  "antonyms": []
+ },
+ "gala": {
+  "gloss": "盛会，庆典；(游泳等)运动会；盛大的",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "gallon",
+   "galaxy"
+  ],
+  "synonyms": [
+   "festival",
+   "celebration",
+   "fete"
+  ],
+  "antonyms": []
+ },
+ "cranberry": {
+  "gloss": "蔓越莓，蔓越橘",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "cranky"
+  ],
+  "synonyms": [
+   "berry"
+  ],
+  "antonyms": []
+ },
+ "coronary": {
+  "gloss": "冠状动脉的；n.冠心病发作，心梗",
+  "trap": "常单独作名词指‘心脏病发作’；corona 冠",
+  "root": {
+   "key": "coron",
+   "meaning": "冠",
+   "match": "coron"
+  },
+  "confusable": [
+   "coroner"
+  ],
+  "synonyms": [
+   "cardiac"
+  ],
+  "antonyms": []
+ },
+ "crib": {
+  "gloss": "婴儿床；v.抄袭；n.(学生)小抄；食槽",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "crab",
+   "curb"
+  ],
+  "synonyms": [
+   "cot",
+   "cradle",
+   "copy",
+   "plagiarize"
+  ],
+  "antonyms": []
+ },
+ "colliery": {
+  "gloss": "煤矿(含地面设施)",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "cutlery"
+  ],
+  "synonyms": [
+   "coalmine",
+   "pit"
+  ],
+  "antonyms": []
+ },
+ "spaghetti": {
+  "gloss": "意大利细面条",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "pasta",
+   "noodles"
+  ],
+  "antonyms": []
+ },
+ "pentagon": {
+  "gloss": "五边形；(the Pentagon)五角大楼，美国国防部",
+  "trap": "",
+  "root": {
+   "key": "penta",
+   "meaning": "五",
+   "match": "penta"
+  },
+  "confusable": [
+   "hexagon",
+   "polygon"
+  ],
+  "synonyms": [
+   "polygon"
+  ],
+  "antonyms": []
+ },
+ "inflammation": {
+  "gloss": "炎症，发炎",
+  "trap": "不是‘燃烧’；in+flame 像体内着火般红肿热痛",
+  "root": {
+   "key": "flam",
+   "meaning": "火焰",
+   "match": "flam"
+  },
+  "confusable": [
+   "inflation"
+  ],
+  "synonyms": [
+   "swelling",
+   "irritation"
+  ],
+  "antonyms": []
+ },
+ "sub": {
+  "gloss": "潜艇；替补(队员)；(美)长条三明治；订阅(费)；v.代替",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "sob",
+   "snub"
+  ],
+  "synonyms": [
+   "substitute",
+   "submarine",
+   "subscription"
+  ],
+  "antonyms": []
+ },
+ "inscribe": {
+  "gloss": "题写，铭刻；(几何)内接",
+  "trap": "",
+  "root": {
+   "key": "scrib",
+   "meaning": "写",
+   "match": "scrib"
+  },
+  "confusable": [
+   "ascribe",
+   "circumscribe"
+  ],
+  "synonyms": [
+   "engrave",
+   "carve",
+   "write"
+  ],
+  "antonyms": [
+   "erase"
+  ]
+ },
+ "phoenix": {
+  "gloss": "凤凰，不死鸟；浴火重生的人或物；(Phoenix)菲尼克斯",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "phonics"
+  ],
+  "synonyms": [],
+  "antonyms": []
+ },
+ "friar": {
+  "gloss": "(天主教)托钵修士",
+  "trap": "与 monk 不同：friar 云游乞食，monk 住修道院",
+  "root": null,
+  "confusable": [
+   "fryer",
+   "fair"
+  ],
+  "synonyms": [
+   "monk",
+   "brother"
+  ],
+  "antonyms": []
+ },
+ "judiciary": {
+  "gloss": "司法系统，司法机关；法官(总称)；司法的",
+  "trap": "",
+  "root": {
+   "key": "jud",
+   "meaning": "判断",
+   "match": "jud"
+  },
+  "confusable": [
+   "judicious"
+  ],
+  "synonyms": [
+   "courts",
+   "bench"
+  ],
+  "antonyms": [
+   "legislature",
+   "executive"
+  ]
+ },
+ "belongings": {
+  "gloss": "个人财物，随身物品",
+  "trap": "只作复数，指‘可携带的个人物品’",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "possessions",
+   "property",
+   "effects"
+  ],
+  "antonyms": []
+ },
+ "bedtime": {
+  "gloss": "就寝时间；睡前的(bedtime story)",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [],
+  "antonyms": []
+ },
+ "devolution": {
+  "gloss": "(中央向地方的)权力下放；退化",
+  "trap": "政治语境指‘权力下放’，不是‘退化’(degeneration)",
+  "root": {
+   "key": "volv",
+   "meaning": "卷",
+   "match": "vol"
+  },
+  "confusable": [
+   "evolution",
+   "revolution"
+  ],
+  "synonyms": [
+   "decentralization",
+   "delegation",
+   "transfer"
+  ],
+  "antonyms": [
+   "centralization"
+  ]
+ },
+ "acoustic": {
+  "gloss": "声学的，听觉的；(乐器)原声的，不插电的",
+  "trap": "acoustic guitar 是‘原声吉他’，不插电",
+  "root": {
+   "key": "acou",
+   "meaning": "听",
+   "match": "acou"
+  },
+  "confusable": [
+   "caustic",
+   "agnostic"
+  ],
+  "synonyms": [
+   "sonic",
+   "auditory",
+   "unplugged"
+  ],
+  "antonyms": [
+   "electric"
+  ]
+ },
+ "cartel": {
+  "gloss": "卡特尔，垄断联盟；贩毒集团",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "cartoon",
+   "carton",
+   "cattle"
+  ],
+  "synonyms": [
+   "syndicate",
+   "consortium",
+   "monopoly"
+  ],
+  "antonyms": []
+ },
+ "fraternity": {
+  "gloss": "(美)大学兄弟会；同行，同人；兄弟情谊",
+  "trap": "",
+  "root": {
+   "key": "frater",
+   "meaning": "兄弟",
+   "match": "frater"
+  },
+  "confusable": [
+   "paternity",
+   "maternity"
+  ],
+  "synonyms": [
+   "brotherhood",
+   "guild",
+   "society"
+  ],
+  "antonyms": [
+   "sorority"
+  ]
+ },
+ "rouge": {
+  "gloss": "胭脂，腮红；v.涂胭脂",
+  "trap": "现指‘腮红’，口红是 lipstick；法语‘红色’",
+  "root": null,
+  "confusable": [
+   "rogue",
+   "rough",
+   "rouse"
+  ],
+  "synonyms": [
+   "blusher",
+   "blush"
+  ],
+  "antonyms": []
+ },
+ "crypt": {
+  "gloss": "(教堂的)地下墓室，地下室",
+  "trap": "crypt 隐藏 → cryptic 隐晦的，encrypt 加密",
+  "root": {
+   "key": "crypt",
+   "meaning": "隐藏",
+   "match": "crypt"
+  },
+  "confusable": [
+   "script",
+   "grip"
+  ],
+  "synonyms": [
+   "vault",
+   "tomb",
+   "catacomb"
+  ],
+  "antonyms": []
+ },
+ "strangle": {
+  "gloss": "扼死，勒死；扼杀，压制",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "strange",
+   "struggle",
+   "straggle"
+  ],
+  "synonyms": [
+   "choke",
+   "throttle",
+   "suppress",
+   "stifle"
+  ],
+  "antonyms": []
+ },
+ "appetizer": {
+  "gloss": "开胃菜，头盘；开胃的东西",
+  "trap": "",
+  "root": {
+   "key": "pet",
+   "meaning": "寻求",
+   "match": "pet"
+  },
+  "confusable": [],
+  "synonyms": [
+   "starter"
+  ],
+  "antonyms": [
+   "dessert"
+  ]
+ },
+ "hunch": {
+  "gloss": "预感，直觉；v.弓背，弯腰",
+  "trap": "have a hunch 是‘有预感’；动词是‘弓起背’",
+  "root": null,
+  "confusable": [
+   "hunk",
+   "haunch",
+   "lunch"
+  ],
+  "synonyms": [
+   "intuition",
+   "feeling",
+   "suspicion",
+   "stoop"
+  ],
+  "antonyms": []
+ },
+ "manslaughter": {
+  "gloss": "过失杀人(罪)",
+  "trap": "man+slaughter，非蓄意杀人，区别于 murder 谋杀",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "homicide",
+   "killing"
+  ],
+  "antonyms": []
+ },
+ "linguist": {
+  "gloss": "语言学家；通晓多种语言的人",
+  "trap": "",
+  "root": {
+   "key": "lingu",
+   "meaning": "舌/语言",
+   "match": "lingu"
+  },
+  "confusable": [
+   "linguine"
+  ],
+  "synonyms": [
+   "polyglot",
+   "philologist"
+  ],
+  "antonyms": []
+ },
+ "dinghy": {
+  "gloss": "小艇，(充气)橡皮艇",
+  "trap": "读 /ˈdɪŋɡi/；与 dingy(昏暗肮脏的)形近",
+  "root": null,
+  "confusable": [
+   "dingy"
+  ],
+  "synonyms": [
+   "boat",
+   "raft",
+   "rowboat"
+  ],
+  "antonyms": []
+ },
+ "hector": {
+  "gloss": "威吓，欺凌，大声训斥；(Hector)赫克托耳",
+  "trap": "源自特洛伊英雄 Hector，后转指‘欺凌恐吓’",
+  "root": null,
+  "confusable": [
+   "hectare",
+   "hectic"
+  ],
+  "synonyms": [
+   "bully",
+   "browbeat",
+   "intimidate",
+   "harass"
+  ],
+  "antonyms": []
+ },
+ "shoreline": {
+  "gloss": "海岸线，湖岸线",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "coastline",
+   "coast",
+   "shore"
+  ],
+  "antonyms": []
+ },
+ "asparagus": {
+  "gloss": "芦笋",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [],
+  "antonyms": []
+ },
+ "neural": {
+  "gloss": "神经的；(neural network)神经网络的",
+  "trap": "",
+  "root": {
+   "key": "neur",
+   "meaning": "神经",
+   "match": "neur"
+  },
+  "confusable": [
+   "neutral",
+   "natural"
+  ],
+  "synonyms": [
+   "nervous"
+  ],
+  "antonyms": []
+ },
+ "umpire": {
+  "gloss": "(网球、板球、棒球等)裁判员；v.当裁判，仲裁",
+  "trap": "umpire 用于网球/棒球/板球，referee 用于足球/篮球",
+  "root": null,
+  "confusable": [
+   "empire",
+   "vampire"
+  ],
+  "synonyms": [
+   "referee",
+   "judge",
+   "arbiter",
+   "adjudicator"
+  ],
+  "antonyms": []
+ },
+ "cactus": {
+  "gloss": "仙人掌",
+  "trap": "复数 cacti 或 cactuses",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "succulent"
+  ],
+  "antonyms": []
+ },
+ "horseback": {
+  "gloss": "马背；骑马地(on horseback)",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [],
+  "antonyms": []
+ },
+ "peasantry": {
+  "gloss": "农民(阶级)",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "pheasant"
+  ],
+  "synonyms": [
+   "farmers"
+  ],
+  "antonyms": [
+   "gentry",
+   "aristocracy"
+  ]
+ },
+ "insolvency": {
+  "gloss": "无力偿债，破产",
+  "trap": "solv 松开：solvent 有偿付能力 → insolvent 资不抵债",
+  "root": {
+   "key": "solv",
+   "meaning": "松开",
+   "match": "solv"
+  },
+  "confusable": [
+   "insolence"
+  ],
+  "synonyms": [
+   "bankruptcy",
+   "default"
+  ],
+  "antonyms": [
+   "solvency"
+  ]
+ },
+ "pouch": {
+  "gloss": "小袋，荷包；(袋鼠等的)育儿袋；眼袋",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "porch",
+   "punch",
+   "couch"
+  ],
+  "synonyms": [
+   "bag",
+   "sack",
+   "purse"
+  ],
+  "antonyms": []
+ },
+ "crackdown": {
+  "gloss": "严厉打击，镇压(crackdown on)",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "breakdown"
+  ],
+  "synonyms": [
+   "clampdown",
+   "suppression",
+   "purge"
+  ],
+  "antonyms": []
+ },
+ "remand": {
+  "gloss": "还押候审；(美)发回重审",
+  "trap": "法律词：remand in custody 还押，on remand 候审中",
+  "root": {
+   "key": "mand",
+   "meaning": "命令/委托",
+   "match": "mand"
+  },
+  "confusable": [
+   "remind",
+   "reprimand",
+   "demand"
+  ],
+  "synonyms": [
+   "detain",
+   "recommit"
+  ],
+  "antonyms": [
+   "release"
+  ]
+ },
+ "reshuffle": {
+  "gloss": "(内阁等)改组，人事调整；重新洗牌",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "reorganization",
+   "shake-up",
+   "rearrange"
+  ],
+  "antonyms": []
+ },
+ "orphanage": {
+  "gloss": "孤儿院",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [],
+  "antonyms": []
+ },
+ "rouble": {
+  "gloss": "卢布(俄罗斯货币，美 ruble)",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "rubble",
+   "rouge",
+   "trouble"
+  ],
+  "synonyms": [
+   "ruble"
+  ],
+  "antonyms": []
+ },
+ "unbeaten": {
+  "gloss": "未被击败的，保持不败的；(路)人迹罕至的",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "undefeated",
+   "invincible"
+  ],
+  "antonyms": [
+   "defeated"
+  ]
+ },
+ "diabetic": {
+  "gloss": "糖尿病患者；糖尿病的",
+  "trap": "读 /ˌdaɪəˈbetɪk/；diabetes 结尾读 /tiːz/",
+  "root": null,
+  "confusable": [
+   "dietetic",
+   "diabolic"
+  ],
+  "synonyms": [],
+  "antonyms": []
+ },
+ "posit": {
+  "gloss": "假定，提出(观点)",
+  "trap": "学术用词：posit that... = 假定/主张；不是‘位置’",
+  "root": {
+   "key": "pos",
+   "meaning": "放置",
+   "match": "pos"
+  },
+  "confusable": [
+   "posse"
+  ],
+  "synonyms": [
+   "postulate",
+   "assume",
+   "propose",
+   "hypothesize"
+  ],
+  "antonyms": []
+ },
+ "tenor": {
+  "gloss": "男高音；(文件、谈话的)大意，主旨；(生活的)常态",
+  "trap": "IELTS 常见‘大意、基调’义：the tenor of the debate",
+  "root": {
+   "key": "ten",
+   "meaning": "持有",
+   "match": "ten"
+  },
+  "confusable": [
+   "tenure",
+   "tensor",
+   "tender"
+  ],
+  "synonyms": [
+   "gist",
+   "drift",
+   "substance",
+   "tone"
+  ],
+  "antonyms": []
+ },
+ "stud": {
+  "gloss": "饰钉，铆钉；耳钉；种马；(俚)猛男；v.点缀，散布",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "stub",
+   "stunt"
+  ],
+  "synonyms": [
+   "rivet",
+   "nail",
+   "dot"
+  ],
+  "antonyms": []
+ },
+ "plutonium": {
+  "gloss": "钚(放射性元素，用于核武器)",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "uranium",
+   "polonium"
+  ],
+  "synonyms": [],
+  "antonyms": []
+ },
+ "platoon": {
+  "gloss": "(军)排；一队人",
+  "trap": "军队编制：company 连 > platoon 排 > squad 班",
+  "root": null,
+  "confusable": [
+   "pontoon",
+   "plateau"
+  ],
+  "synonyms": [
+   "unit",
+   "squad",
+   "detachment"
+  ],
+  "antonyms": []
+ },
+ "barefoot": {
+  "gloss": "赤脚的，光着脚(地)",
+  "trap": "",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "shoeless",
+   "unshod"
+  ],
+  "antonyms": [
+   "shod"
+  ]
+ },
+ "upbeat": {
+  "gloss": "乐观的，积极向上的；n.(音乐)弱拍",
+  "trap": "现多作形容词‘乐观的’，不只是音乐术语",
+  "root": null,
+  "confusable": [
+   "upset",
+   "offbeat"
+  ],
+  "synonyms": [
+   "optimistic",
+   "positive",
+   "cheerful",
+   "buoyant"
+  ],
+  "antonyms": [
+   "downbeat",
+   "pessimistic",
+   "gloomy"
+  ]
+ },
+ "placebo": {
+  "gloss": "安慰剂；(比喻)安慰性措施",
+  "trap": "拉丁语‘我将取悦’；placebo effect 安慰剂效应",
+  "root": {
+   "key": "plac",
+   "meaning": "取悦",
+   "match": "plac"
+  },
+  "confusable": [
+   "placard",
+   "plaza"
+  ],
+  "synonyms": [
+   "dummy"
+  ],
+  "antonyms": []
+ },
+ "ballad": {
+  "gloss": "民谣，叙事歌谣；(流行乐)抒情慢歌",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "ballet",
+   "ballot",
+   "salad"
+  ],
+  "synonyms": [
+   "song"
+  ],
+  "antonyms": []
+ },
+ "screenplay": {
+  "gloss": "电影剧本",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "screenshot"
+  ],
+  "synonyms": [
+   "script",
+   "scenario"
+  ],
+  "antonyms": []
+ },
+ "broom": {
+  "gloss": "扫帚；金雀花",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "bloom",
+   "groom",
+   "brook"
+  ],
+  "synonyms": [
+   "brush"
+  ],
+  "antonyms": []
+ },
+ "candid": {
+  "gloss": "坦率的，直言不讳的；(照片)偷拍的，抓拍的",
+  "trap": "拉丁 candidus 洁白 → 坦白；candidate 原指穿白袍求职者",
+  "root": {
+   "key": "cand",
+   "meaning": "白/发光",
+   "match": "cand"
+  },
+  "confusable": [
+   "candied"
+  ],
+  "synonyms": [
+   "frank",
+   "honest",
+   "outspoken",
+   "blunt"
+  ],
+  "antonyms": [
+   "evasive",
+   "guarded"
+  ]
+ },
+ "unison": {
+  "gloss": "一致，齐声(in unison)；齐唱，齐奏",
+  "trap": "",
+  "root": {
+   "key": "son",
+   "meaning": "声音",
+   "match": "son"
+  },
+  "confusable": [
+   "union",
+   "unicorn"
+  ],
+  "synonyms": [
+   "harmony",
+   "concert",
+   "agreement"
+  ],
+  "antonyms": [
+   "discord"
+  ]
+ },
+ "bestow": {
+  "gloss": "授予，赠予(bestow sth on/upon sb)",
+  "trap": "正式用语，常与 honour/title/award 搭配",
+  "root": null,
+  "confusable": [
+   "bestrew",
+   "stow"
+  ],
+  "synonyms": [
+   "confer",
+   "grant",
+   "award",
+   "give"
+  ],
+  "antonyms": [
+   "withhold",
+   "withdraw"
+  ]
+ },
+ "beet": {
+  "gloss": "甜菜；(美)红菜头(=beetroot)",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "beat",
+   "beetle"
+  ],
+  "synonyms": [
+   "beetroot"
+  ],
+  "antonyms": []
+ },
+ "fairway": {
+  "gloss": "(高尔夫)球道；航道",
+  "trap": "高尔夫：tee 发球区 → fairway 球道 → green 果岭",
+  "root": null,
+  "confusable": [
+   "freeway"
+  ],
+  "synonyms": [
+   "channel"
+  ],
+  "antonyms": [
+   "rough"
+  ]
+ },
+ "misconception": {
+  "gloss": "误解，错误观念",
+  "trap": "",
+  "root": {
+   "key": "cap",
+   "meaning": "拿/头",
+   "match": "cep"
+  },
+  "confusable": [],
+  "synonyms": [
+   "fallacy",
+   "myth",
+   "misunderstanding",
+   "delusion"
+  ],
+  "antonyms": [
+   "fact",
+   "truth"
+  ]
+ },
+ "doughnut": {
+  "gloss": "甜甜圈，炸面圈；环状物",
+  "trap": "美式拼写 donut；dough 面团",
+  "root": null,
+  "confusable": [],
+  "synonyms": [
+   "donut"
+  ],
+  "antonyms": []
+ },
+ "hesitant": {
+  "gloss": "犹豫的，迟疑的",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "resistant"
+  ],
+  "synonyms": [
+   "reluctant",
+   "uncertain",
+   "tentative",
+   "wary"
+  ],
+  "antonyms": [
+   "decisive",
+   "confident"
+  ]
+ },
+ "flurry": {
+  "gloss": "一阵(忙乱、活动)；小阵雪；慌张",
+  "trap": "a flurry of activity/emails 一阵忙乱；不是飓风",
+  "root": null,
+  "confusable": [
+   "fury",
+   "furry",
+   "slurry"
+  ],
+  "synonyms": [
+   "burst",
+   "spate",
+   "flutter",
+   "bustle"
+  ],
+  "antonyms": [
+   "calm"
+  ]
+ },
+ "clog": {
+  "gloss": "堵塞(clog up)；木底鞋",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "clot",
+   "cog",
+   "clock"
+  ],
+  "synonyms": [
+   "block",
+   "jam",
+   "obstruct",
+   "choke"
+  ],
+  "antonyms": [
+   "clear"
+  ]
+ },
+ "dismal": {
+  "gloss": "阴沉的，凄凉的；糟糕透顶的(dismal failure)",
+  "trap": "拉丁 dies mali 凶日；口语常指‘差劲的’",
+  "root": null,
+  "confusable": [
+   "dismay",
+   "dismiss"
+  ],
+  "synonyms": [
+   "gloomy",
+   "bleak",
+   "dreary",
+   "miserable"
+  ],
+  "antonyms": [
+   "cheerful",
+   "bright"
+  ]
+ },
+ "noteworthy": {
+  "gloss": "值得注意的，显著的",
+  "trap": "",
+  "root": null,
+  "confusable": [
+   "trustworthy"
+  ],
+  "synonyms": [
+   "notable",
+   "remarkable",
+   "significant",
+   "striking"
+  ],
+  "antonyms": [
+   "insignificant",
+   "trivial"
+  ]
+ },
+ "plume": {
+  "gloss": "(烟、尘、水的)一缕，羽状物；羽毛，翎饰；v.整理羽毛",
+  "trap": "新闻中常见 a plume of smoke 一股浓烟",
+  "root": null,
+  "confusable": [
+   "plum",
+   "plumb"
+  ],
+  "synonyms": [
+   "feather",
+   "column",
+   "cloud"
+  ],
+  "antonyms": []
+ },
+ "sloppy": {
+  "gloss": "马虎的，草率的；(衣服)宽松邋遢的；湿黏的",
+  "trap": "现多指‘马虎草率’(sloppy work)，不只是‘泥泞’",
+  "root": null,
+  "confusable": [
+   "floppy",
+   "sleepy"
+  ],
+  "synonyms": [
+   "careless",
+   "messy",
+   "slipshod",
+   "untidy"
+  ],
+  "antonyms": [
+   "careful",
+   "neat",
+   "meticulous"
+  ]
+ }
+}

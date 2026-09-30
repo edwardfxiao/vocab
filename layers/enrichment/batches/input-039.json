@@ -1,0 +1,602 @@
+[
+{
+"word": "primitive",
+"pos": "n/a",
+"zh": "n. 原始人, 早期艺术家 / a. 原始的, 上古的 / [计] 图元; 原语; 基元",
+"en": "n. a person who belongs to an early stage of civilization / n. a mathematical expression from which another expression i…"
+},
+{
+"word": "seal",
+"pos": "n/vt/vi",
+"zh": "n. 印章, 封条, 海豹, 海豹皮, 火漆, 封蜡, 玺, 保证, 批准, 象征, 标志 / vt. 封闭, 盖印, 盖章 / vi. 猎海豹",
+"en": "n. a device incised to make an impression; used to secure a closing or to authenticate documents / n. the pelt or fur (e…"
+},
+{
+"word": "bronze",
+"pos": "n/a",
+"zh": "n. 青铜, 铜像 / a. 青铜色的",
+"en": "n. an alloy of copper and tin and sometimes other elements; also any copper-base alloy containing other elements in plac…"
+},
+{
+"word": "annually",
+"pos": "adv",
+"zh": "adv. 一年一次, 每年 / [经] 年度的, 每年的",
+"en": "r. without missing a year"
+},
+{
+"word": "orchestra",
+"pos": "n",
+"zh": "n. 管弦乐队, 乐队演奏处",
+"en": "n. a musical organization consisting of a group of instrumentalists including string players / n. seating on the main fl…"
+},
+{
+"word": "lately",
+"pos": "adv",
+"zh": "adv. 近来, 最近",
+"en": "r in the recent past"
+},
+{
+"word": "scarcely",
+"pos": "adv",
+"zh": "adv. 简直不, 一定不, 仅仅",
+"en": "r only a very short time before / r almost not"
+},
+{
+"word": "alternatively",
+"pos": "adv",
+"zh": "adv. 非此即彼",
+"en": "r. in place of, or as an alternative to"
+},
+{
+"word": "scan",
+"pos": "n/vt/vi",
+"zh": "n. 审视, 浏览, 扫描, 细查 / vt. 细看, 浏览, 扫描, 详细调查, 标出格律 / vi. 押韵, 扫描 / [计] 网络软件目录, 编码与分析系统",
+"en": "n. the act of scanning; systematic examination of a prescribed region / n. an image produced by scanning / v. examine mi…"
+},
+{
+"word": "deadline",
+"pos": "n",
+"zh": "n. 最后期限, 截止期限 / [经] 截止日期",
+"en": "n. the point in time at which something must be completed"
+},
+{
+"word": "operational",
+"pos": "a",
+"zh": "a. 操作的, 运作的 / [法] 操作上的, 业务上的, 可起作用的",
+"en": "a. pertaining to a process or series of actions for achieving a result / a. (military) of or intended for or involved in…"
+},
+{
+"word": "rear",
+"pos": "n/a/vt/vi",
+"zh": "n. 后面, 背后, 后方 / a. 后面的, 背面的, 后方的 / vt. 养育, 培养, 饲养, 举起, 树立, 栽种 / vi. 高耸, 暴跳",
+"en": "n. the back of a military formation or procession / n. the side of an object that is opposite its front / n. the side th…"
+},
+{
+"word": "occupational",
+"pos": "a",
+"zh": "a. 职业的, 军事占领的 / [医] 职业的",
+"en": "a. of or relating to the activity or business for which you are trained"
+},
+{
+"word": "ranch",
+"pos": "n/v",
+"zh": "n. 大牧场 / v. 经营牧场",
+"en": "n. farm consisting of a large tract of land along with facilities needed to raise livestock (especially cattle) / v. man…"
+},
+{
+"word": "verbal",
+"pos": "a",
+"zh": "a. 用言辞的, 言语的, 口头的, 逐字的, 动词的 / [医] 言语的, 口述的",
+"en": "s. communicated in the form of words / a. of or relating to or formed from words in general / a. of or relating to or fo…"
+},
+{
+"word": "coastal",
+"pos": "a",
+"zh": "a. 海岸的, 沿海的, 沿岸的 / [法] 海岸的, 沿海的",
+"en": "a. of or relating to a coast / a. located on or near or bordering on a coast"
+},
+{
+"word": "socialism",
+"pos": "n",
+"zh": "n. 社会主义, 社会主义运动",
+"en": "n. a political theory advocating state ownership of industry / n. an economic system based on state ownership of capital"
+},
+{
+"word": "exclusion",
+"pos": "n",
+"zh": "n. 排除, 除外, 逐出 / [医] 排除, 除外, 分离术",
+"en": "n. the state of being excluded"
+},
+{
+"word": "substantially",
+"pos": "adv",
+"zh": "adv. 实质上, 本质上, 大体上",
+"en": "r. in a strong substantial way"
+},
+{
+"word": "tribal",
+"pos": "a",
+"zh": "a. 部落的, 宗族的",
+"en": "a. relating to or characteristic of a tribe"
+},
+{
+"word": "systematic",
+"pos": "a",
+"zh": "a. 有系统的, 分类上的, 体系的 / [医] 系统的, 系的, 分类的",
+"en": "a. characterized by order and planning"
+},
+{
+"word": "downstairs",
+"pos": "n/a/adv",
+"zh": "n. 楼下 / a. 楼下的 / adv. 在楼下",
+"en": "a. on or of lower floors of a building / r. on a floor below"
+},
+{
+"word": "sexually",
+"pos": "adv",
+"zh": "adv. 性别地；两性之间地",
+"en": "r. with respect to sexuality / r. by sexual means"
+},
+{
+"word": "organiser",
+"pos": "",
+"zh": "[经] 组织者, 创立人, 发起人",
+"en": "n someone who enlists workers to join a union / n a person who brings order and organization to an enterprise / n a ligh…"
+},
+{
+"word": "constituent",
+"pos": "n/a",
+"zh": "n. 成分, 选民, 构成物 / a. 构成的, 组织的, 选举的",
+"en": "n. a member of a constituency; a citizen who is represented in a government by officials for whom he or she votes / n. (…"
+},
+{
+"word": "payable",
+"pos": "a",
+"zh": "a. 可付的, 到期的, 应付的, 有利益的 / [经] 应付的",
+"en": "n a liability account showing how much is owed for goods and services purchased on credit / s subject to or requiring pa…"
+},
+{
+"word": "sentiment",
+"pos": "n",
+"zh": "n. 感情, 感伤, 情操, 情绪, 感想, 意见 / [医] 情感, 情操",
+"en": "n. tender, romantic, or nostalgic feeling or emotion"
+},
+{
+"word": "divine",
+"pos": "a/n",
+"zh": "a. 神的, 神圣的, 非凡的 / n. 神学家",
+"en": "v. perceive intuitively or through some inexplicable perceptive powers / v. search by divining, as if with a rod / s. em…"
+},
+{
+"word": "pardon",
+"pos": "n/vt",
+"zh": "n. 原谅, 赦免 / vt. 宽恕, 原谅",
+"en": "n. a warrant granting release from punishment for an offense / v. grant a pardon to"
+},
+{
+"word": "cart",
+"pos": "n/vi/vt",
+"zh": "n. 二轮运货马车 / vi. 驾运货马车 / vt. 用车装载",
+"en": "n. a heavy open wagon usually having two wheels and drawn by an animal / v. transport something in a cart"
+},
+{
+"word": "interim",
+"pos": "a/n",
+"zh": "a. 暂时的, 临时的, 间歇的 / n. 过渡时期",
+"en": "n. the time between one event, process, or period and another / s. serving during an intermediate interval of time"
+},
+{
+"word": "oversee",
+"pos": "vt",
+"zh": "vt. 向下看, 了望, 监督, 偷看到 / [法] 监察, 监督, 俯瞰",
+"en": "v. watch and direct"
+},
+{
+"word": "elder",
+"pos": "n/a",
+"zh": "n. 年长者, 老人, 前辈 / a. 年长的, 资深的",
+"en": "n. a person who is older than you are / n. any of numerous shrubs or small trees of temperate and subtropical northern h…"
+},
+{
+"word": "inspiration",
+"pos": "n",
+"zh": "n. 灵感, 鼓舞人心的人或物, 妙计, 吸气 / [医] 吸[气]",
+"en": "n. arousal of the mind to special unusual activity or creativity / n. a product of your creative thinking and work / n. …"
+},
+{
+"word": "ideological",
+"pos": "a",
+"zh": "a. 意识形态的, 空想的 / [法] 思想的, 思想上的, 意识形态的",
+"en": "a. of or pertaining to or characteristic of an orientation that characterizes the thinking of a group or nation / s. con…"
+},
+{
+"word": "parameter",
+"pos": "n",
+"zh": "n. 参变数, 参变量, 参数, 参量 / [计] 参量; 参数",
+"en": "n. a constant in the equation of a curve that can be varied to yield a family of similar curves / n. any factor that def…"
+},
+{
+"word": "equilibrium",
+"pos": "n",
+"zh": "n. 平衡, 平静, 均衡 / [化] 平衡",
+"en": "n. a stable situation in which forces cancel one another / n. a sensory system located in structures of the inner ear th…"
+},
+{
+"word": "genius",
+"pos": "n",
+"zh": "n. 天才, 天赋, 精神, 神魔 / [医] 特征",
+"en": "n. someone who has exceptional intellectual ability and originality / n. exceptional creative ability"
+},
+{
+"word": "monument",
+"pos": "n",
+"zh": "n. 纪念碑, 纪念物, 石碑",
+"en": "n. an important site that is marked and preserved as public property"
+},
+{
+"word": "premier",
+"pos": "n/a",
+"zh": "n. 总理, 首相 / a. 首位的, 最初的",
+"en": "v. be performed for the first time / v. perform a work for the first time / s. first in rank or degree / s. preceding al…"
+},
+{
+"word": "quest",
+"pos": "n/v",
+"zh": "n. 探索, 寻求, 调查 / v. 寻找, 找, 追寻猎物",
+"en": "n. the act of searching for something / v. make a search (for) / v. search the trail of (game) / v. seek alms, as for re…"
+},
+{
+"word": "sacrifice",
+"pos": "n/vt/vi",
+"zh": "n. 牺牲, 供奉, 祭品 / vt. 牺牲, 祭祀, 贱卖 / vi. 献祭",
+"en": "n. personnel that are sacrificed (e.g., surrendered or lost in order to gain an objective) / n. a loss entailed by givin…"
+},
+{
+"word": "dynamics",
+"pos": "n",
+"zh": "n. 动力学 / [化] 动力学",
+"en": "n. the branch of mechanics concerned with the forces that cause motions of bodies"
+},
+{
+"word": "bye",
+"pos": "interj",
+"zh": "interj. 再会, 回头见 / [计] 结束命令",
+"en": "n. you advance to the next round in a tournament without playing an opponent"
+},
+{
+"word": "treasure",
+"pos": "n/vt",
+"zh": "n. 宝物, 财富 / vt. 珍爱, 重视, 秘藏",
+"en": "n. accumulated wealth in the form of money or jewels etc. / n. any possession that is highly valued by its owner / n. a …"
+},
+{
+"word": "unfortunate",
+"pos": "a",
+"zh": "a. 不幸的, 不合适的, 不吉利的",
+"en": "n. a person who suffers misfortune / a. not favored by fortune; marked or accompanied by or resulting in ill fortune / s…"
+},
+{
+"word": "impressed",
+"pos": "a",
+"zh": "a. 外加的；印象深刻的；了不起的；受感动的",
+"en": "s. deeply or markedly affected or influenced"
+},
+{
+"word": "tempt",
+"pos": "vt",
+"zh": "vt. 诱惑, 引诱, 引起...的兴趣, 吸引, 冒...风险",
+"en": "v. dispose or incline or entice to / v. give rise to a desire by being attractive or inviting / v. try to seduce / v. tr…"
+},
+{
+"word": "freely",
+"pos": "adv",
+"zh": "adv. 自由地, 随意地, 无拘束地, 直率地, 坦白地, 慷慨地, 免费地, 大量地 / [计] 浮动地",
+"en": "r. in a free manner"
+},
+{
+"word": "talented",
+"pos": "a",
+"zh": "a. 天资高的, 有才能的",
+"en": "a. endowed with talent or talents"
+},
+{
+"word": "fortunately",
+"pos": "adv",
+"zh": "adv. 幸运地, 幸亏",
+"en": "r. by good fortune"
+},
+{
+"word": "nominee",
+"pos": "n",
+"zh": "n. 被提名者, 被任命者 / [经] 被指定人",
+"en": "n a politician who is running for public office"
+},
+{
+"word": "definite",
+"pos": "a",
+"zh": "a. 明确的, 一定的 / [法] 明确的, 确切的, 一定的",
+"en": "a. precise; explicit and clearly defined / s. known for certain"
+},
+{
+"word": "gasoline",
+"pos": "n",
+"zh": "n. 汽油 / [化] 汽油",
+"en": "n. a volatile flammable mixture of hydrocarbons (hexane and heptane and octane etc.) derived from petroleum; used mainly…"
+},
+{
+"word": "stiff",
+"pos": "a/n/vt",
+"zh": "a. 坚硬的, 严厉的, 呆板的, 生硬的, 刚强的, 强烈的, 粘的, 稠的, 艰难的 / n. 死尸, 醉鬼, 钞票 / vt. 不肯付...小费",
+"en": "n. an ordinary man / s. not moving or operating freely / s. powerful / r. extremely"
+},
+{
+"word": "advertise",
+"pos": "vt/vi",
+"zh": "vt. 做广告, 通知, 公布 / vi. 做广告",
+"en": "v. call attention to / v. make publicity for; try to sell (a product)"
+},
+{
+"word": "slap",
+"pos": "n/v/adv",
+"zh": "n. 掴, 掌击, 侮辱, 拍击声 / v. 拍击, 惩罚 / adv. 正面地, 直接地, 突然地",
+"en": "n. a blow from a flat object (as an open hand) / v. hit with something flat, like a paddle or the open hand"
+},
+{
+"word": "upwards",
+"pos": "adv",
+"zh": "adv. 以上, 向上",
+"en": "r spatially or metaphorically from a lower to a higher position / r to a later time"
+},
+{
+"word": "supermarket",
+"pos": "n",
+"zh": "n. 超级市场 / [经] 超级市场, 自助售货商店",
+"en": "n. a large self-service grocery store selling groceries and dairy products and household goods"
+},
+{
+"word": "nonsense",
+"pos": "n",
+"zh": "n. 无意义的事, 荒谬言行, 荒唐",
+"en": "n. a message that seems to convey no meaning / s. having no intelligible meaning"
+},
+{
+"word": "toxic",
+"pos": "a",
+"zh": "a. 有毒的, 中毒的 / [医] 中毒的, 毒物的",
+"en": "a. of or relating to or caused by a toxin or poison"
+},
+{
+"word": "grief",
+"pos": "n",
+"zh": "n. 伤心, 忧愁, 悲痛, 不幸, 灾难",
+"en": "n. intense sorrow caused by loss of a loved one (especially by death) / n. something that causes great unhappiness"
+},
+{
+"word": "mysterious",
+"pos": "a",
+"zh": "a. 神秘的, 难解的, 不可思议的",
+"en": "s. having an import not apparent to the senses nor obvious to the intelligence; beyond ordinary understanding"
+},
+{
+"word": "nowadays",
+"pos": "n/adv",
+"zh": "n. 现在, 现时, 当今 / adv. 时下, 现今",
+"en": "r. in these times"
+},
+{
+"word": "rocket",
+"pos": "n/vi/vt",
+"zh": "n. 火箭, 烟火 / vi. 急升, 猛涨, 飞驰 / vt. 用火箭运载",
+"en": "n. any vehicle self-propelled by a rocket engine / n. a jet engine containing its own propellant and driven by reaction …"
+},
+{
+"word": "donate",
+"pos": "v",
+"zh": "v. 捐赠",
+"en": "v. give to a charity or good cause"
+},
+{
+"word": "breakdown",
+"pos": "n",
+"zh": "n. 崩溃, 故障 / [化] 事故; 击穿",
+"en": "n. a mental or physical breakdown / n. a cessation of normal operation / n. an analysis into mutually exclusive categori…"
+},
+{
+"word": "awkward",
+"pos": "a",
+"zh": "a. 笨拙的, 棘手的",
+"en": "s. causing inconvenience / a. lacking grace or skill in manner or movement or performance / s. difficult to handle or ma…"
+},
+{
+"word": "bow",
+"pos": "n/v",
+"zh": "n. 弓, 眼睛框 / v. 用弓拉琴, 弯成弓形 / n. 鞠躬, 屈服",
+"en": "n. a knot with two loops and loose ends; used to tie shoelaces / n. a slightly curved piece of resilient wood with taut …"
+},
+{
+"word": "invariably",
+"pos": "adv",
+"zh": "adv. 不变化地, 恒定地, 始终如一地",
+"en": "r without variation or change, in every case"
+},
+{
+"word": "dignity",
+"pos": "n",
+"zh": "n. 尊严, 高贵 / [法] 尊严, 高位, 高贵",
+"en": "n. the quality of being worthy of esteem or respect / n. formality in bearing and appearance / n. high office or rank or…"
+},
+{
+"word": "dispose",
+"pos": "vt/vi",
+"zh": "vt. 处理, 排列, 布置 / vi. 处置",
+"en": "v. give, sell, or transfer to another / v. make receptive or willing towards an action or attitude or belief / v. place …"
+},
+{
+"word": "affection",
+"pos": "n",
+"zh": "n. 影响, 病, 喜爱, 情感, 倾向 / [医] 疾患, 病变, 病; 感情",
+"en": "n. a positive feeling of liking"
+},
+{
+"word": "parental",
+"pos": "a",
+"zh": "a. 父母亲的, 做双亲的, 作为渊源的 / [医] 父母的, 双亲的",
+"en": "a. designating the generation of organisms from which hybrid offspring are produced / a. relating to or characteristic o…"
+},
+{
+"word": "bubble",
+"pos": "n/vi/vt",
+"zh": "n. 泡沫 / vi. 冒泡, 沸腾 / vt. 使冒泡, 滔滔不绝地说",
+"en": "n. a hollow globule of gas (e.g., air or carbon dioxide) / n. an impracticable and illusory idea / n. a dome-shaped cove…"
+},
+{
+"word": "grace",
+"pos": "n/vt",
+"zh": "n. 优雅, 风度, 慈悲, 恩惠, 体面, 赦免, 恩典, 谢恩祷告 / vt. 使优美",
+"en": "n. (Christian theology) a state of sanctification by God; the state of one who is under such divine influence / n. elega…"
+},
+{
+"word": "barn",
+"pos": "n",
+"zh": "n. 谷仓 / [化] 靶(恩)(核反应截面单位)",
+"en": "n. an outlying farm building for storing grain or animal feed and housing farm animals / n. (physics) a unit of nuclear …"
+},
+{
+"word": "dissolve",
+"pos": "v",
+"zh": "v. 溶解, 解散",
+"en": "n. (film) a gradual transition from one scene to the next; the next scene is gradually superimposed as the former scene …"
+},
+{
+"word": "buddy",
+"pos": "n",
+"zh": "n. 好朋友, 伙伴",
+"en": "n. a close friend who accompanies his buddies in their activities"
+},
+{
+"word": "seventh",
+"pos": "num",
+"zh": "num. 第七, 七分之一",
+"en": "n. position seven in a countable series of things / n. the musical interval between one note and another seven notes awa…"
+},
+{
+"word": "specialize",
+"pos": "vt/vi",
+"zh": "vt. 使特殊化, 列举, 特别指明, 限定...的范围 / vi. 成为专家, 专攻",
+"en": "v. become more focus on an area of activity or field of study / v. suit to a special purpose / v. devote oneself to a sp…"
+},
+{
+"word": "prejudice",
+"pos": "n/vt",
+"zh": "n. 偏见, 成见, 侵害 / vt. 使存偏见, 使有成见, 侵害",
+"en": "v. disadvantage by prejudice / v. influence (somebody's) opinion in advance"
+},
+{
+"word": "shield",
+"pos": "n/vt/vi",
+"zh": "n. 盾, 防卫物, 保护者, 屏蔽 / vt. 保护, 遮蔽, 屏蔽, 庇护, 挡开, 避开 / vi. 起保护作用",
+"en": "n. a protective covering or structure / n. armor carried on the arm to intercept blows / v. protect, hide, or conceal fr…"
+},
+{
+"word": "protective",
+"pos": "a",
+"zh": "a. 给予保护的, 保护的 / [医] 保护的, 防护的, 保护剂, 保护物, 油绸",
+"en": "a. intended or adapted to afford protection of some kind / s. showing care / s. (usually followed by `of') solicitously …"
+},
+{
+"word": "tuck",
+"pos": "n/vt/vi",
+"zh": "n. 缝褶, 活力, 鼓声, 船尾突出部, 食品 / vt. 打褶, 卷起, 挤进, 塞, 收藏 / vi. 缝褶裥, 缩拢",
+"en": "n. eatables (especially sweets) / n. (sports) a bodily position adopted in some sports (such as diving or skiing) in whi…"
+},
+{
+"word": "drum",
+"pos": "n/vi/vt",
+"zh": "n. 鼓, 鼓声 / vi. 击鼓, 作鼓声 / vt. 打鼓奏出 / [计] 磁鼓",
+"en": "n. a musical percussion instrument; usually consists of a hollow cylinder with a membrane stretched across each end / n.…"
+},
+{
+"word": "forthcoming",
+"pos": "a/n",
+"zh": "a. 即将来临的 / n. 来临",
+"en": "s. available when required or as promised"
+},
+{
+"word": "dilemma",
+"pos": "n",
+"zh": "n. 困境, (进退两难的)窘境",
+"en": "n. state of uncertainty or perplexity especially as requiring a choice between equally unfavorable options"
+},
+{
+"word": "hedge",
+"pos": "n/vt/vi/a",
+"zh": "n. 树篱, 障碍, 套头交易 / vt. 用树篱围, 套期保值, 妨碍, 两面下注以防...的损失 / vi. 筑树篱, 躲闪, 两面下注以防损失 / a. 树篱的, 偷偷摸摸的",
+"en": "n. a fence formed by a row of closely planted shrubs or bushes / n. any technique designed to reduce or eliminate financ…"
+},
+{
+"word": "brass",
+"pos": "n/a/v",
+"zh": "n. 黄铜, 黄铜制品 / a. 黄铜的, 铜管乐器的 / v. 镀以黄铜, 支付",
+"en": "n. an alloy of copper and zinc / n. a wind instrument that consists of a brass tube (usually of variable length) that is…"
+},
+{
+"word": "neutral",
+"pos": "n/a",
+"zh": "n. 中立者, 中立国, 非彩色, 空档 / a. 中立的, 中性的, 无色的",
+"en": "n. one who does not side with any party in a war or dispute / s. not supporting or favoring either side in a war, disput…"
+},
+{
+"word": "mature",
+"pos": "a/vt/vi",
+"zh": "a. 成熟的, 到期的, 充分考虑的 / vt. 使成熟 / vi. 成熟, 到期",
+"en": "v. develop and reach maturity; undergo maturation / v. develop and work out fully in one's mind / v. become due for repa…"
+},
+{
+"word": "northeast",
+"pos": "n/a/adv",
+"zh": "n. 东北 / a. 东北的, 向东北的, 来自东北的 / adv. 向东北, 来自东北",
+"en": "n. the compass point midway between north and east; at 45 degrees / n. the northeastern region of the United States / n.…"
+},
+{
+"word": "instantly",
+"pos": "adv",
+"zh": "adv. 立即地, 即刻地",
+"en": "r without delay or hesitation; with no time intervening / r without any delay"
+},
+{
+"word": "shallow",
+"pos": "n/a/v",
+"zh": "n. 水浅的地方, 浅滩 / a. 浅的, 肤浅的 / v. (使)变浅",
+"en": "v. make shallow / v. become shallow / a. lacking physical depth; having little spatial extension downward or inward from…"
+},
+{
+"word": "boring",
+"pos": "a",
+"zh": "a. 烦人的, 无聊的, 无趣的 / [机] 成孔期, 搪孔",
+"en": "n. the act of drilling a hole in the earth in the hope of producing petroleum / s. so lacking in interest as to cause me…"
+},
+{
+"word": "arrow",
+"pos": "n",
+"zh": "n. 箭, 箭状物, 箭头记号",
+"en": "n. a mark to indicate a direction or relation / n. a projectile with a straight thin shaft and an arrowhead on one end a…"
+},
+{
+"word": "stadium",
+"pos": "n",
+"zh": "n. 露天大型运动场 / [医] 期, 病期",
+"en": "n. a large structure for open-air sports or entertainments"
+},
+{
+"word": "virgin",
+"pos": "n/a",
+"zh": "n. 处女 / a. 处女的, 贞洁的, 纯洁的, 初始的, 纯的",
+"en": "n. a person who has never had sex / s. being used or worked for the first time"
+},
+{
+"word": "dot",
+"pos": "n/vt/vi",
+"zh": "n. 点, 圆点, 小数点, 小东西, 嫁妆 / vt. 作小点记号, 加小点于 / vi. 打上点 / [计] 点",
+"en": "n. the shorter of the two telegraphic signals used in Morse code / v. scatter or intersperse like dots or studs / v. mak…"
+}
+]

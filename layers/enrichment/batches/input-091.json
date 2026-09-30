@@ -1,0 +1,602 @@
+[
+{
+"word": "enamel",
+"pos": "n/vt",
+"zh": "n. 珐琅, 瓷釉 / vt. 涂以瓷釉, 彩饰",
+"en": "n. hard white substance covering the crown of a tooth / n. a colored glassy compound (opaque or partially opaque) that i…"
+},
+{
+"word": "prehistoric",
+"pos": "a",
+"zh": "a. 历史以前的, 史前的",
+"en": "s. belonging to or existing in times before recorded history / a. of or relating to times before written history / s. no…"
+},
+{
+"word": "nicotine",
+"pos": "n",
+"zh": "n. 烟碱, 尼古丁 / [化] 烟碱; 尼古丁",
+"en": "n. an alkaloid poison that occurs in tobacco; used in medicine and as an insecticide"
+},
+{
+"word": "treason",
+"pos": "n",
+"zh": "n. 叛逆, 不忠, 叛国罪 / [法] 叛逆, 通敌, 叛国罪",
+"en": "n. a crime that undermines the offender's government / n. disloyalty by virtue of subversive behavior"
+},
+{
+"word": "apricot",
+"pos": "n/a",
+"zh": "n. 杏子, 杏树, 杏黄色 / a. 杏黄色的",
+"en": "n. Asian tree having clusters of usually white blossoms and edible fruit resembling the peach / n. downy yellow to rosy-…"
+},
+{
+"word": "quaint",
+"pos": "a",
+"zh": "a. 古雅的, 离奇有趣的, 奇怪的",
+"en": "s. strange in an interesting or pleasing way / s. very strange or unusual; odd or even incongruous in character or appea…"
+},
+{
+"word": "seedling",
+"pos": "n",
+"zh": "n. 秧苗, 树苗 / [医] 籽苗, 幼苗, 实生苗",
+"en": "n. young plant or tree grown from a seed"
+},
+{
+"word": "resin",
+"pos": "n/vt",
+"zh": "n. 树脂 / vt. 涂树脂于",
+"en": "n. any of a class of solid or semisolid viscous substances obtained either as exudations from certain plants or prepared…"
+},
+{
+"word": "remit",
+"pos": "vt/vi/n",
+"zh": "vt. 宽恕, 赦免, 免除, 汇出, 缓解, 减轻, 把...提交, 使恢复原状, 推迟 / vi. 缓解, 汇款 / n. 移交的事物",
+"en": "n. the topic that a person, committee, or piece of research is expected to deal with or has authority to deal with / v. …"
+},
+{
+"word": "raffle",
+"pos": "n/vt/vi",
+"zh": "n. 抽彩售货, 废物 / vt. 抽彩售货 / vi. 抽彩",
+"en": "n. a lottery in which the prizes are goods rather than money / v. dispose of in a lottery"
+},
+{
+"word": "skid",
+"pos": "vt/vi/n",
+"zh": "vt. 刹住, 滚滑 / vi. 打滑 / n. 刹车, 滑动垫木",
+"en": "n. one of a pair of planks used to make a track for rolling or sliding objects / n. an unexpected slide / v. slide witho…"
+},
+{
+"word": "hospice",
+"pos": "n",
+"zh": "n. 旅客住宿处, 收容所",
+"en": "n. a lodging for travelers (especially one kept by a monastic order) / n. a program of medical and emotional care for th…"
+},
+{
+"word": "dependant",
+"pos": "n",
+"zh": "n. 家眷, 侍从, 食客 / [法] 受赡养人, 家庭负担",
+"en": "n. a person who relies on another person for support (especially financial support)"
+},
+{
+"word": "carriageway",
+"pos": "n",
+"zh": "n. 车行道 / [法] 车道, 马路",
+"en": "n. one of the two sides of a motorway where traffic travels in one direction only usually in two or three lanes"
+},
+{
+"word": "inception",
+"pos": "n",
+"zh": "n. 起初, 获得学位",
+"en": "n an event that is a beginning; a first part or stage of subsequent events"
+},
+{
+"word": "reverence",
+"pos": "n/vt",
+"zh": "n. 尊敬, 敬重, 敬礼, 尊严, 威望 / vt. 崇敬, 敬畏, 尊敬",
+"en": "n. a reverent mental attitude / n. an act showing respect (especially a bow or curtsy) / v. regard with feelings of resp…"
+},
+{
+"word": "matron",
+"pos": "n",
+"zh": "n. 妇女, 主妇, 女总管 / [医] 管理员, 保姆",
+"en": "n. a married woman (usually middle-aged with children) who is staid and dignified / n. a wardress in a prison / n. a wom…"
+},
+{
+"word": "balk",
+"pos": "n/vt/vi",
+"zh": "n. 障碍, 错误, 失败 / vt. 阻止, 错过, 推诿 / vi. 逡巡不前",
+"en": "n. the area on a billiard table behind the balkline / n. an illegal pitching motion while runners are on base"
+},
+{
+"word": "negligent",
+"pos": "a",
+"zh": "a. 疏忽的, 粗心的, 不在意的",
+"en": "a. characterized by neglect and undue lack of concern"
+},
+{
+"word": "obese",
+"pos": "a",
+"zh": "a. 肥胖的 / [医] 肥胖的",
+"en": "s excessively fat"
+},
+{
+"word": "profess",
+"pos": "vt/vi",
+"zh": "vt. 声称, 以...为业, 伪称, 讲授 / vi. 表白, 承认, 当教授",
+"en": "v. practice as a profession, teach, or claim to be knowledgeable about / v. confess one's faith in, or allegiance to / v…"
+},
+{
+"word": "moratorium",
+"pos": "n",
+"zh": "n. 延期偿付, 暂停 / [法] 延期偿付, 延缓履行, 延期偿还期",
+"en": "n. a legally authorized postponement before some obligation must be discharged / n. suspension of an ongoing activity"
+},
+{
+"word": "transient",
+"pos": "n/a",
+"zh": "n. 瞬, 短期居留者, 过境鸟, 瞬变现象 / a. 短暂的, 易变的, 瞬变的, 路过的 / [计] 瞬变过程; 过渡过程; 过渡的; 瞬变的; 瞬时峰值电压",
+"en": "n. one who stays for only a short time / n. (physics) a short-lived oscillation in a system caused by a sudden change of…"
+},
+{
+"word": "sprig",
+"pos": "n/vt",
+"zh": "n. 小树枝, 无头钉 / vt. 用小树枝装饰, 用钉子钉上, 使蔓生",
+"en": "n. an ornament that resembles a spray of leaves or flowers"
+},
+{
+"word": "pharmacist",
+"pos": "n",
+"zh": "n. 药师, 药品商, 药商, 药剂师 / [医] 药师, 调剂员, 药商",
+"en": "n. a health professional trained in the art of preparing and dispensing drugs"
+},
+{
+"word": "clement",
+"pos": "a",
+"zh": "a. 仁慈的, 宽厚的, 温和的",
+"en": "a. (of weather or climate) physically mild / a. (used of persons or behavior) inclined to show mercy"
+},
+{
+"word": "archer",
+"pos": "n",
+"zh": "n. 弓箭手, 射箭运动员",
+"en": "n. a person who is expert in the use of a bow and arrow"
+},
+{
+"word": "convertible",
+"pos": "a/n",
+"zh": "a. 可改变的, 可交换的 / n. 有活动篷的汽车",
+"en": "n. a car that has top that can be folded or removed / n. a corporate security (usually bonds or preferred stock) that ca…"
+},
+{
+"word": "embryonic",
+"pos": "a",
+"zh": "a. 萌芽的, 初期的, 未成熟 / [医] 胚胎的",
+"en": "s. of an organism prior to birth or hatching / s. in an early stage of development"
+},
+{
+"word": "casserole",
+"pos": "n",
+"zh": "n. 餐桌上用有盖的焙盘, 砂锅菜 / [化] 勺皿",
+"en": "n. food cooked and served in a casserole / n. large deep dish in which food can be cooked and served"
+},
+{
+"word": "stag",
+"pos": "n/vi/a",
+"zh": "n. 牡鹿, 男性社交晚会 / vi. 不带女伴参加晚会 / a. 全是男人的",
+"en": "n. adult male deer / v. attend a dance or a party without a female companion"
+},
+{
+"word": "resurgence",
+"pos": "n",
+"zh": "n. 再起, 复活, 再现",
+"en": "n bringing again into activity and prominence"
+},
+{
+"word": "beak",
+"pos": "n",
+"zh": "n. 鸟嘴, 喙 / [医] 嘴, 喙",
+"en": "n. beaklike mouth of animals other than birds (e.g., turtles) / n. horny projecting mouth of a bird / n. a beaklike, tap…"
+},
+{
+"word": "squirm",
+"pos": "vi/n",
+"zh": "vi. 蠕动, 辗转不安 / n. 蠕动",
+"en": "n the act of wiggling / v to move in a twisting or contorted motion, (especially when struggling)"
+},
+{
+"word": "fledgling",
+"pos": "n",
+"zh": "n. 羽毛初长的雏鸟, 刚会飞的幼鸟, 无经验的人",
+"en": "n. young bird that has just fledged or become capable of flying / s. (of a young bird) having acquired its flight feathe…"
+},
+{
+"word": "pantry",
+"pos": "n",
+"zh": "n. 餐具室, 食品室",
+"en": "n. a small storeroom for storing foods or wines"
+},
+{
+"word": "obituary",
+"pos": "a/n",
+"zh": "a. 关于死亡的, 讣告的 / n. 讣告",
+"en": "n. a notice of someone's death; usually includes a short biography"
+},
+{
+"word": "anew",
+"pos": "adv",
+"zh": "adv. 重新, 再",
+"en": "r again but in a new or different way"
+},
+{
+"word": "comma",
+"pos": "n",
+"zh": "n. 逗点, 逗号",
+"en": "n. a punctuation mark (,) used to indicate the separation of elements within the grammatical structure of a sentence / n…"
+},
+{
+"word": "promenade",
+"pos": "n/vi/vt",
+"zh": "n. 散步, 骑马, 舞会 / vi. 漫步, 兜风 / vt. 在...散步",
+"en": "n. a formal ball held for a school class toward the end of the academic year / n. a public area set aside as a pedestria…"
+},
+{
+"word": "tendon",
+"pos": "n",
+"zh": "n. 腱 / [医] 腱",
+"en": "n. a cord or band of inelastic tissue connecting a muscle with its bony attachment"
+},
+{
+"word": "avocado",
+"pos": "n",
+"zh": "n. 鳄梨, 鳄梨树",
+"en": "n. a pear-shaped tropical fruit with green or blackish skin and rich yellowish pulp enclosing a single large seed / n. t…"
+},
+{
+"word": "getaway",
+"pos": "n",
+"zh": "n. 逃走, 起步",
+"en": "n. a rapid escape (as by criminals)"
+},
+{
+"word": "plaid",
+"pos": "n",
+"zh": "n. 格子花呢披风, 格子花呢, 格子图案",
+"en": "n a cloth having a crisscross design"
+},
+{
+"word": "sublime",
+"pos": "a/v/n",
+"zh": "a. 高尚的, 壮观的, 卓越的 / v. 提高, (使)变高尚, (使)纯化, (使)升华 / n. 庄严, 崇高, 顶点",
+"en": "v. vaporize and then condense right back again / v. change or cause to change directly from a solid into a vapor without…"
+},
+{
+"word": "collateral",
+"pos": "a/n",
+"zh": "a. 并行的, 附随的, 旁系的 / n. 旁系亲属, 担保品",
+"en": "n. a security pledged for the repayment of a loan / a. descended from a common ancestor but through different lines / s.…"
+},
+{
+"word": "ecstatic",
+"pos": "n/a",
+"zh": "n. 狂喜的人 / a. 狂喜的",
+"en": "s. feeling great rapture or delight"
+},
+{
+"word": "waive",
+"pos": "vt",
+"zh": "vt. 不坚持要求, 放弃, 推迟考虑, 丢弃 / [经] 放弃权利, 免除, 弃权人",
+"en": "v. do without or cease to hold or adhere to"
+},
+{
+"word": "spire",
+"pos": "n/vi/vt",
+"zh": "n. 尖塔, 尖顶, 锥形体, 螺旋 / vi. 突出, 耸立, 螺旋形上升 / vt. 给...加塔尖",
+"en": "n a tall tower that forms the superstructure of a building (usually a church or temple) and that tapers to a point at th…"
+},
+{
+"word": "metaphysical",
+"pos": "a",
+"zh": "a. 形而上学的, 纯粹哲学的, 抽象的",
+"en": "a. pertaining to or of the nature of metaphysics / s. without material form or substance / s. highly abstract and overly…"
+},
+{
+"word": "obliterate",
+"pos": "vt",
+"zh": "vt. 擦去, 冲刷(掉), 消灭, 忘掉, 盖销(邮票等) / [法] 灭迹, 消灭, 涂抹",
+"en": "v. remove completely from recognition or memory / v. do away with completely, without leaving a trace"
+},
+{
+"word": "infiltrate",
+"pos": "vt/vi/n",
+"zh": "vt. 使浸润, 使潜入, 使渗入 / vi. 渗入 / n. 渗透物",
+"en": "v. cause (a liquid) to enter by penetrating the interstices / v. enter a group or organization in order to spy on the me…"
+},
+{
+"word": "testosterone",
+"pos": "n",
+"zh": "n. 睾丸激素 / [化] 睾酮",
+"en": "n. a potent androgenic hormone produced chiefly by the testes; responsible for the development of male secondary sex cha…"
+},
+{
+"word": "groin",
+"pos": "n",
+"zh": "n. 腹股沟, 交叉拱 / [医] 腹股沟",
+"en": "n. the crease at the junction of the inner part of the thigh with the trunk together with the adjacent region and often …"
+},
+{
+"word": "hypertension",
+"pos": "n",
+"zh": "n. 高血压, 过度紧张 / [医] 高血压, 血压过高, 张力过强, 压力过高",
+"en": "n a common disorder in which blood pressure remains abnormally high (a reading of 140/90 mm Hg or greater)"
+},
+{
+"word": "diversification",
+"pos": "n",
+"zh": "n. 变化, 多样化 / [经] 分散",
+"en": "n. the act of introducing variety (especially in investments or in the variety of goods and services offered) / n. the c…"
+},
+{
+"word": "taut",
+"pos": "a",
+"zh": "a. 拉紧的, 整洁的, 紧张的",
+"en": "s. pulled or drawn tight / s. subjected to great tension; stretched tight"
+},
+{
+"word": "cutback",
+"pos": "n",
+"zh": "n. 情节倒叙, 减少, 短截植物 / [经] 减少",
+"en": "n. a reduction in quantity or rate"
+},
+{
+"word": "remedial",
+"pos": "a",
+"zh": "a. 治疗的, 补救的, 矫正的 / [医] 治疗的",
+"en": "s. tending or intended to rectify or improve"
+},
+{
+"word": "sacrament",
+"pos": "n/vt",
+"zh": "n. 圣礼, 圣事, 誓言 / vt. 使立誓, 使宣誓",
+"en": "n. a formal religious ceremony conferring a specific grace on those who receive it; the two Protestant ceremonies are ba…"
+},
+{
+"word": "gymnastics",
+"pos": "n",
+"zh": "n. 体操, 体育 / [医] 体操, 体育",
+"en": "n. a sport that involves exercises intended to display strength and balance and agility"
+},
+{
+"word": "gully",
+"pos": "n",
+"zh": "n. 小峡谷, 排水沟",
+"en": "n. deep ditch cut by running water (especially after a prolonged downpour)"
+},
+{
+"word": "clientele",
+"pos": "n",
+"zh": "n. 诉讼委托人, 客户 / [法] 委托人, 受保护者, 门徒",
+"en": "n. customers collectively"
+},
+{
+"word": "parity",
+"pos": "n",
+"zh": "n. 同等, 同位, 平价, 奇偶性 / [计] 奇偶性",
+"en": "n. (obstetrics) the number of liveborn children a woman has delivered / n. (mathematics) a relation between a pair of in…"
+},
+{
+"word": "fag",
+"pos": "n/vi/vt",
+"zh": "n. 吃力的工作, 苦工 / vi. 努力地工作 / vt. 使劳累",
+"en": "v. act as a servant for older boys, in British public schools"
+},
+{
+"word": "heartland",
+"pos": "n",
+"zh": "n. 心脏地区, 中心地带",
+"en": "n. the central region of a country or continent; especially a region that is important to a country or to a culture"
+},
+{
+"word": "hedgehog",
+"pos": "n",
+"zh": "n. 豪猪, 刺猬, 难交朋友的人, 防卫森严的阵地",
+"en": "n. small nocturnal Old World mammal covered with both hair and protective spines"
+},
+{
+"word": "narrate",
+"pos": "v",
+"zh": "v. 说故事, 说明, 叙述",
+"en": "v. provide commentary for a film, for example"
+},
+{
+"word": "climatic",
+"pos": "a",
+"zh": "a. 气候的",
+"en": "a. of or relating to a climate"
+},
+{
+"word": "snore",
+"pos": "n/vi/vt",
+"zh": "n. 鼾声, 打鼾 / vi. 打鼾 / vt. 打鼾度过",
+"en": "n. the rattling noise produced when snoring / n. the act of snoring or producing a snoring sound / v. breathe noisily du…"
+},
+{
+"word": "speck",
+"pos": "n/vt",
+"zh": "n. 斑点, 有斑点的东西, 污点, 缺点, 微粒, 肥肉 / vt. 使有斑点",
+"en": "n. a very small spot / v. produce specks in or on"
+},
+{
+"word": "zinc",
+"pos": "n/vt",
+"zh": "n. 锌 / vt. 镀锌于",
+"en": "n. a bluish-white lustrous metallic element; brittle at ordinary temperatures but malleable when heated; used in a wide …"
+},
+{
+"word": "tattered",
+"pos": "a",
+"zh": "a. 破烂的, 褴褛的",
+"en": "s. worn to shreds; or wearing torn or ragged clothing"
+},
+{
+"word": "cellphone",
+"pos": "n",
+"zh": "n. 蜂窝式便携无线电话；大哥大",
+"en": "n a hand-held mobile radiotelephone for use in an area divided into small sections, each with its own short-range transm…"
+},
+{
+"word": "rendition",
+"pos": "n",
+"zh": "n. 译文, 施舍, 表演 / [经] 生产量",
+"en": "n. a performance of a musical composition or a dramatic role etc. / n. handing over prisoners to countries where torture…"
+},
+{
+"word": "curfew",
+"pos": "n",
+"zh": "n. 晚钟, 打晚钟时刻, 宵禁 / [法] 宵禁, 宵禁令",
+"en": "n. the time that the curfew signal is sounded / n. a signal (usually a bell) announcing the start of curfew restrictions…"
+},
+{
+"word": "glisten",
+"pos": "vi/n",
+"zh": "vi. 闪亮, 辉耀 / n. 闪光, 闪耀",
+"en": "n the quality of shining with a bright reflected light / v be shiny, as if wet"
+},
+{
+"word": "courtship",
+"pos": "n",
+"zh": "n. 求爱, 求婚, 求爱时期",
+"en": "n. a man's courting of a woman; seeking the affections of a woman (usually with the hope of marriage)"
+},
+{
+"word": "ledger",
+"pos": "n",
+"zh": "n. 分类帐, 分户总帐, 盖墓石板, 横木 / [经] 分户帐, 分类帐",
+"en": "n. a record in which commercial accounts are recorded"
+},
+{
+"word": "cubicle",
+"pos": "n",
+"zh": "n. 小卧室 / [医] 小隔间(宿舍或病室中的)",
+"en": "n small room in which a monk or nun lives / n small individual study area in a library / n small area set off by walls f…"
+},
+{
+"word": "signatory",
+"pos": "n/a",
+"zh": "n. 协议的签署者, 签约国 / a. 签署的, 签约的",
+"en": "n someone who signs and is bound by a document"
+},
+{
+"word": "margarine",
+"pos": "n",
+"zh": "n. 人造黄油 / [化] 人造奶油; 代奶油",
+"en": "n. a spread made chiefly from vegetable oils and used as a substitute for butter"
+},
+{
+"word": "lookout",
+"pos": "n",
+"zh": "n. 注意, 前途, 了望台, 景色 / [法] 看守, 守望",
+"en": "n. a person employed to keep watch for some anticipated event / n. an elevated post affording a wide view / n. a structu…"
+},
+{
+"word": "affidavit",
+"pos": "n",
+"zh": "n. 宣誓书, 书面陈述 / [经] 宣誓, 声明",
+"en": "n. written declaration made under oath; a written statement sworn to be true before someone legally authorized to admini…"
+},
+{
+"word": "secretariat",
+"pos": "n",
+"zh": "n. 书记处, 秘书之职, 秘书处",
+"en": "n. an administrative unit responsible for maintaining records and other secretarial duties; especially for international…"
+},
+{
+"word": "boar",
+"pos": "n",
+"zh": "n. 公猪, 野猪",
+"en": "n. an uncastrated male hog"
+},
+{
+"word": "malt",
+"pos": "n/a/vt/vi",
+"zh": "n. 麦芽 / a. 麦芽的, 含麦芽的, 用麦芽作的 / vt. 使成麦芽, 用麦芽处理 / vi. 发麦芽",
+"en": "n. a lager of high alcohol content; by law it is considered too alcoholic to be sold as lager or beer / n. a cereal grai…"
+},
+{
+"word": "satire",
+"pos": "n",
+"zh": "n. 讽刺文学, 讽刺",
+"en": "n witty language used to convey insults or scorn"
+},
+{
+"word": "blockade",
+"pos": "n/vt",
+"zh": "n. 阻塞 / vt. 封锁",
+"en": "n. a war measure that isolates some area of importance to the enemy / n. prevents access or progress / v. obstruct acces…"
+},
+{
+"word": "dues",
+"pos": "n",
+"zh": "n. 税, 应付款, 该缴之款 / [经] 会费, 捐费, 手续费",
+"en": "n that which is deserved or owed / n a payment that is due (e.g., as the price of membership)"
+},
+{
+"word": "behold",
+"pos": "vt/vi",
+"zh": "vt. 看到, 注视 / vi. 看",
+"en": "v. see with attention"
+},
+{
+"word": "wring",
+"pos": "n/vt/vi",
+"zh": "n. 扭绞, 拧, 挤 / vt. 拧, 绞, 扭, 勒索, 折磨, 使痛苦 / vi. 蠕动, 扭动, 绞, 扭, 感到痛苦",
+"en": "v. twist and compress, as if in pain or anguish / v. twist, squeeze, or compress in order to extract liquid"
+},
+{
+"word": "nostalgic",
+"pos": "a",
+"zh": "a. 乡愁的, 怀旧的 / [医] 怀乡病的",
+"en": "s. unhappy about being away and longing for familiar things or persons"
+},
+{
+"word": "prawn",
+"pos": "n/vi",
+"zh": "n. 明虾, 对虾 / vi. 捕虾",
+"en": "n. any of various edible decapod crustaceans / n. shrimp-like decapod crustacean having two pairs of pincers; most are e…"
+},
+{
+"word": "caste",
+"pos": "n",
+"zh": "n. 印度的种姓制度, (排他的)社会团体",
+"en": "n. social status or position conferred by a system based on class / n. (Hinduism) a hereditary social class among Hindus…"
+},
+{
+"word": "rebate",
+"pos": "n/vt/vi",
+"zh": "n. 部分退款, 折扣 / vt. 退还, 打折扣 / vi. 退还部分付款",
+"en": "n. a refund of some fraction of the amount paid / v. give a reduction in the price during a sale / v. cut a rebate in (t…"
+},
+{
+"word": "pedestal",
+"pos": "n/vt",
+"zh": "n. 支柱, 基架, 基座, 基础 / vt. 加座, 搁在台上, 支持, 提高...的地位",
+"en": "n. a position of great esteem (and supposed superiority) / n. an architectural support or base (as for a column or statu…"
+},
+{
+"word": "biographer",
+"pos": "n",
+"zh": "n. 传记作者",
+"en": "n. someone who writes an account of a person's life"
+},
+{
+"word": "concurrent",
+"pos": "n/a",
+"zh": "n. 同时发生的事件 / a. 同时发生的, 一致的 / [计] 并行的; 并发的; 同时发生的; 共行的",
+"en": "s occurring or operating at the same time"
+},
+{
+"word": "delineate",
+"pos": "vt",
+"zh": "vt. 描绘...的轮廓, 描绘, 描写",
+"en": "v. trace the shape of / v. describe in vivid detail"
+}
+]

@@ -1,0 +1,602 @@
+[
+{
+"word": "nitrogen",
+"pos": "n",
+"zh": "n. 氮 / [化] 氮N-2",
+"en": "n. a common nonmetallic element that is normally a colorless odorless tasteless inert diatomic gas; constitutes 78 perce…"
+},
+{
+"word": "transparent",
+"pos": "a",
+"zh": "a. 透明的, 显然的, 清晰的 / [计] 透明",
+"en": "s. easily understood or seen through (because of a lack of subtlety)"
+},
+{
+"word": "forestry",
+"pos": "n",
+"zh": "n. 林学, 森林地 / [法] 林地, 林学, 林业",
+"en": "n. the science of planting and caring for forests and the management of growing timber"
+},
+{
+"word": "velocity",
+"pos": "n",
+"zh": "n. 速度, 迅速 / [化] 速度",
+"en": "n distance travelled per unit time"
+},
+{
+"word": "attainment",
+"pos": "n",
+"zh": "n. 达到",
+"en": "n. the act of achieving an aim / n. arrival at a new stage"
+},
+{
+"word": "endeavor",
+"pos": "n/vi",
+"zh": "n. 努力, 尽力 / vi. 努力, 尽力",
+"en": "v. attempt by employing effort"
+},
+{
+"word": "aviation",
+"pos": "n",
+"zh": "n. 航空, 航空学, 飞行术 / [法] 航空, 飞行, 飞行术",
+"en": "n. the aggregation of a country's military aircraft / n. the operation of aircraft to provide transportation / n. the ar…"
+},
+{
+"word": "voltage",
+"pos": "n",
+"zh": "n. 电压, 伏特数 / [化] 电压",
+"en": "n. the rate at which energy is drawn from a source that produces a flow of electricity in a circuit; expressed in volts"
+},
+{
+"word": "lender",
+"pos": "n",
+"zh": "n. 出借人, 贷方 / [经] 出借者, 贷方, 贷款人",
+"en": "n. someone who lends money or gives credit in business matters"
+},
+{
+"word": "substantive",
+"pos": "a/n",
+"zh": "a. 表示实在的, 有实质的, 独立存在的, 大量的, 重大的, 坚实的, 名词的 / n. 名词性实词, 名词",
+"en": "n. any word or group of words functioning as a noun / a. defining rights and duties as opposed to giving the rules by wh…"
+},
+{
+"word": "grammatical",
+"pos": "a",
+"zh": "a. 语法的, 合乎语法的 / [法] 语法上的, 符合语法规则的, 文法上的",
+"en": "a. of or pertaining to grammar / a. conforming to the rules of grammar or usage accepted by native speakers"
+},
+{
+"word": "prevalence",
+"pos": "n",
+"zh": "n. 普遍, 流行, 广泛 / [医] 流行, 盛行",
+"en": "n. the quality of prevailing generally; being widespread / n. (epidemiology) the ratio (for a given time period) of the …"
+},
+{
+"word": "plasma",
+"pos": "n",
+"zh": "n. 血浆, 淋巴液, 原生质, 等离子体 / [化] 等离体; 等离子体",
+"en": "n. the colorless watery fluid of the blood and lymph that contains no cells, but in which the blood cells (erythrocytes,…"
+},
+{
+"word": "strap",
+"pos": "n/vt",
+"zh": "n. 带, 皮带 / vt. (用皮带)捆扎",
+"en": "n. an elongated leather strip (or a strip of similar material) for binding things together or holding something in posit…"
+},
+{
+"word": "vector",
+"pos": "n/vt",
+"zh": "n. 矢量, 传病媒介 / vt. (用无线电)导引, 给...导航 / [计] 矢量; 向量",
+"en": "n. a variable quantity that can be resolved into components / n. a straight line segment whose length is magnitude and w…"
+},
+{
+"word": "conductor",
+"pos": "n",
+"zh": "n. 领导者, 指挥者, 售票员, 向导 / [化] 导体",
+"en": "n. the person who leads a musical group / n. a substance that readily conducts e.g. electricity and heat / n. the person…"
+},
+{
+"word": "receptor",
+"pos": "n",
+"zh": "n. 受体, 感觉器官 / [化] 接受器; 受体",
+"en": "n. a cellular structure that is postulated to exist in order to mediate between a chemical agent that acts on nervous ti…"
+},
+{
+"word": "aquarium",
+"pos": "n",
+"zh": "n. 水族馆, 养鱼池, 水草缸 / [医] 培养缸",
+"en": "n. a tank or pool or bowl filled with water for keeping live fish and underwater animals"
+},
+{
+"word": "secretion",
+"pos": "n",
+"zh": "n. 分泌, 分泌物, 分泌液, 隐蔽 / [医] 分泌; 分泌物",
+"en": "n. the organic process of synthesizing and releasing some substance / n. a functionally specialized substance (especiall…"
+},
+{
+"word": "intensify",
+"pos": "vt/vi",
+"zh": "vt. 加强 / vi. 强化",
+"en": "v. make more intense, stronger, or more marked / v. become more intense / v. make the chemically affected part of (a neg…"
+},
+{
+"word": "arc",
+"pos": "n",
+"zh": "n. 弧, 弧形, 弓形, 弧光 / [化] 弧",
+"en": "n. a continuous portion of a circle"
+},
+{
+"word": "sway",
+"pos": "n/vt/vi",
+"zh": "n. 摇摆, 影响力, 支配 / vt. 摇动, 支配, 弄歪, 使倾斜, 使动摇, 影响 / vi. 摇动, 摇摆, 倾斜, 动摇, 统治, 转向",
+"en": "n. controlling influence"
+},
+{
+"word": "whichever",
+"pos": "pron",
+"zh": "pron. 无论那一个, 任何一个",
+"en": "pron. & a. Alt. of Whichsoever"
+},
+{
+"word": "vicious",
+"pos": "a",
+"zh": "a. 邪恶的, 堕落的, 品性不端的, 恶毒的, 恶性的, 有错误的 / [医] 缺点的, 恶的",
+"en": "s (of persons or their actions) able or disposed to inflict pain or suffering / s having the nature of vice / s bringing…"
+},
+{
+"word": "exaggerate",
+"pos": "v",
+"zh": "v. 夸大, 夸张",
+"en": "v to enlarge beyond bounds or the truth / v do something to an excessive degree"
+},
+{
+"word": "upgrade",
+"pos": "n/adv/vt/vi",
+"zh": "n. 上坡, 升级, 上升 / adv. 往上 / vt. 使升级, 提升, 改良品种 / vi. 升级 / [计] 升级",
+"en": "n. software that provides better performance than an earlier version did / n. a reservation that is improved / n. the pr…"
+},
+{
+"word": "postwar",
+"pos": "a",
+"zh": "a. 战后的",
+"en": "a. belonging to the period after a war"
+},
+{
+"word": "continuously",
+"pos": "adv",
+"zh": "adv. 不断地, 连续地 / [电] 连续地",
+"en": "r. at every point"
+},
+{
+"word": "manifest",
+"pos": "n/a/vi/vt",
+"zh": "n. 载货单, 运货单, 旅客名单 / a. 显然的, 明白的 / vi. 显示, 出现 / vt. 表明, 表现, 证明",
+"en": "n. a customs document listing the contents put on a ship or plane / v. record in a ship's manifest / v. reveal its prese…"
+},
+{
+"word": "overtake",
+"pos": "vt",
+"zh": "vt. 赶上, 突然降临于, 压倒, 代替",
+"en": "v. catch up with and possibly overtake"
+},
+{
+"word": "distort",
+"pos": "vt",
+"zh": "vt. 扭曲, 歪曲 / [法] 歪区, 曲解, 纂改",
+"en": "v make false by mutilation or addition; as of a message or story / v form into a spiral shape / v twist and press out of…"
+},
+{
+"word": "sophomore",
+"pos": "n/a",
+"zh": "n. (大学)二年级生 / a. 二年级学生的, 二年级的",
+"en": "n. a second-year undergraduate / s. used of the second year in United States high school or college"
+},
+{
+"word": "recreational",
+"pos": "a",
+"zh": "a. 消遣的, 娱乐的",
+"en": "a. of or relating to recreation"
+},
+{
+"word": "lick",
+"pos": "n/vt/vi",
+"zh": "n. 舔, 少许, 打 / vt. 舔, 卷过, 鞭打 / vi. 轻轻拍打",
+"en": "n. touching with the tongue / v. pass the tongue over"
+},
+{
+"word": "revert",
+"pos": "vi/vt/n",
+"zh": "vi. 恢复, 复归, 回复, 还原 / vt. 使回复原状, 使回转 / n. 恢复原信仰的人 / [计] 还原",
+"en": "v. go back to a previous state / v. undergo reversion, as in a mutation"
+},
+{
+"word": "trivial",
+"pos": "a",
+"zh": "a. 琐碎的, 不重要的, 轻微的, 平常的",
+"en": "s. concerned with trivialities"
+},
+{
+"word": "idiot",
+"pos": "n",
+"zh": "n. 白痴, 极蠢之人 / [医] 白痴者, 痴子",
+"en": "n. a person of subnormal intelligence"
+},
+{
+"word": "resent",
+"pos": "vt",
+"zh": "vt. 愤恨, 憎恶, 怨恨",
+"en": "v. feel bitter or indignant about"
+},
+{
+"word": "courthouse",
+"pos": "n",
+"zh": "n. 法院, 郡政府所在地",
+"en": "n. a government building that houses the offices of a county government / n. a building that houses judicial courts"
+},
+{
+"word": "precaution",
+"pos": "n/vt",
+"zh": "n. 预防, 留心, 警戒 / vt. 预先警告",
+"en": "n. a precautionary measure warding off impending danger or damage or injury etc. / n. the trait of practicing caution in…"
+},
+{
+"word": "fairness",
+"pos": "n",
+"zh": "n. 晴朗, 光明正大, 美丽 / [经] 公正, 适当",
+"en": "n. conformity with rules or standards / n. ability to make judgments free from discrimination or dishonesty"
+},
+{
+"word": "skeleton",
+"pos": "n/a",
+"zh": "n. 骨骼, 骨瘦如柴的人, 梗概, 骨干, 残骸 / a. 骨骼的, 概略的, 基层的, 骨干的 / [计] 骨架",
+"en": "n. something reduced to its minimal form / n. a scandal that is kept secret / n. the internal supporting structure that …"
+},
+{
+"word": "slash",
+"pos": "v/n",
+"zh": "v. 猛砍, 乱砍 / n. 猛砍, 乱砍, 删减 / [计] 斜线",
+"en": "n. an open tract of land in a forest that is strewn with debris from logging (or fire or wind) / n. a strong sweeping cu…"
+},
+{
+"word": "swap",
+"pos": "n/v",
+"zh": "n. 以货易货 / v. 交换, 替换, 交易 / [计] 交换",
+"en": "v. move (a piece of a program) into memory, in computer science"
+},
+{
+"word": "exceptionally",
+"pos": "adv",
+"zh": "adv. 特殊地；异常地；例外地",
+"en": "r. to an exceptional degree"
+},
+{
+"word": "urgency",
+"pos": "n",
+"zh": "n. 紧急, 催促 / [法] 紧急, 迫切, 紧急之事",
+"en": "n. the state of being urgent; an earnest and insistent necessity / n. pressing importance requiring speedy action / n. a…"
+},
+{
+"word": "finely",
+"pos": "adv",
+"zh": "adv. 雅致地, 仔细地, 敏锐地, 微细地",
+"en": "r. in tiny pieces / r. in an elegant manner / r. in a delicate manner"
+},
+{
+"word": "comfortably",
+"pos": "adv",
+"zh": "adv. 安乐地, 舒服地, 宽裕地",
+"en": "r. in mental comfort; without stress / r. in physical comfort"
+},
+{
+"word": "bleak",
+"pos": "a",
+"zh": "a. 萧瑟的, 荒凉的, 阴冷的",
+"en": "s. unpleasantly cold and damp"
+},
+{
+"word": "amazed",
+"pos": "a",
+"zh": "a. 吃惊的, 惊奇的",
+"en": "s. filled with the emotional impact of overwhelming surprise or shock"
+},
+{
+"word": "artery",
+"pos": "n",
+"zh": "n. 动脉, 干道, 要道 / [医] 动脉",
+"en": "n. a blood vessel that carries blood from the heart to the body / n. a major thoroughfare that bears important traffic"
+},
+{
+"word": "tense",
+"pos": "a/v/n",
+"zh": "a. 紧张的, 拉紧的 / v. (使)紧张, (使)拉紧 / n. 时态",
+"en": "n. a grammatical category of verbs used to express distinctions of time / v. increase the tension on / v. become tense, …"
+},
+{
+"word": "curator",
+"pos": "n",
+"zh": "n. 管理者, 经理, 主管人, 掌管者, 馆长, 大学学监, 监护人, 保护人 / [经] 临时监护人",
+"en": "n. the custodian of a collection (as a museum or library)"
+},
+{
+"word": "postcard",
+"pos": "n",
+"zh": "n. 明信片",
+"en": "n. a card for sending messages by post without an envelope"
+},
+{
+"word": "correction",
+"pos": "n",
+"zh": "n. 订正, 改正, 改正的地方 / [化] 校正",
+"en": "n. the act of offering an improvement to replace a mistake; setting right / n. a quantity that is added or subtracted in…"
+},
+{
+"word": "inferior",
+"pos": "a/n",
+"zh": "a. 次等的, 较差的, 下方的, 下级的 / n. 部下, 次品, 下标(符号)",
+"en": "n. one of lesser rank or station or quality / a. of or characteristic of low rank or importance / a. of low or inferior …"
+},
+{
+"word": "acquaintance",
+"pos": "n",
+"zh": "n. 认识, 相识者",
+"en": "n. personal knowledge or information about someone or something / n. a relationship less intimate than friendship / n. a…"
+},
+{
+"word": "humble",
+"pos": "a/vt",
+"zh": "a. 低下的, 谦逊的, 粗陋的 / vt. 使...卑下, 降低...地位, 贬抑",
+"en": "v. cause to be unpretentious / s. low or inferior in station or quality / a. marked by meekness or modesty; not arrogant…"
+},
+{
+"word": "gum",
+"pos": "n/vt/vi",
+"zh": "n. 树胶, 橡皮, 橡皮糖, 牙床, 老天 / vt. 涂以树胶, 用胶粘, 使有粘性 / vi. 分泌树胶, 发粘",
+"en": "n. any of various substances (soluble in water) that exude from certain plants; they are gelatinous when moist but harde…"
+},
+{
+"word": "fishery",
+"pos": "n",
+"zh": "n. 渔业 / [法] 捕鱼, 捕鱼权",
+"en": "n. a workplace where fish are caught and processed and sold"
+},
+{
+"word": "audio",
+"pos": "a",
+"zh": "a. 音频的, 声音的 / [电] 声频",
+"en": "n. the audible part of a transmitted signal / n. an audible acoustic wave frequency / n. the sound elements of televisio…"
+},
+{
+"word": "deter",
+"pos": "vt",
+"zh": "vt. 制止, 吓住, 威慑",
+"en": "v. try to prevent; show opposition to"
+},
+{
+"word": "coefficient",
+"pos": "n",
+"zh": "n. 系数 / [计] 系数",
+"en": "n. a constant number that serves as a measure of some property or characteristic"
+},
+{
+"word": "tick",
+"pos": "n/vi/vt",
+"zh": "n. 滴答声, 一瞬间, 壁虱, 褥套, 信用, 赊欠 / vi. 滴答响, 活动 / vt. 滴答地记录, 标记号于",
+"en": "n. a metallic tapping sound / n. any of two families of small parasitic arachnids with barbed proboscis; feed on blood o…"
+},
+{
+"word": "cosmic",
+"pos": "a",
+"zh": "a. 宇宙的, 宇宙航行的, 无限的, 有秩序的 / [医] 宇宙的",
+"en": "a. of or from or pertaining to or characteristic of the cosmos or universe / s. inconceivably extended in space or time"
+},
+{
+"word": "swift",
+"pos": "n/a/adv",
+"zh": "n. 褐雨燕, 快速爬行的小蜥蜴, 蝙蝠蛾, 大滚筒 / a. 迅速的, 快的, 敏捷的, 立刻的 / adv. 迅速地, 敏捷地",
+"en": "n. United States meat-packer who began the use of refrigerated railroad cars (1839-1903) / n. an English satirist born i…"
+},
+{
+"word": "handy",
+"pos": "a",
+"zh": "a. 便利的, 敏捷的, 容易取得的 / [化] 便于使用的; 易操作的",
+"en": "n. United States blues musician who transcribed and published traditional blues music (1873-1958) / s. easy to reach / s…"
+},
+{
+"word": "disperse",
+"pos": "vt/vi/a",
+"zh": "vt. 分散, 传播, 散开 / vi. 分散 / a. 分散的 / [计] 分散",
+"en": "v. to cause to separate and go in different directions / v. move away from each other;  / v. separate (light) into spect…"
+},
+{
+"word": "ponder",
+"pos": "v",
+"zh": "v. 沉思, 考虑",
+"en": "v reflect deeply on a subject"
+},
+{
+"word": "complicate",
+"pos": "vt/vi",
+"zh": "vt. 弄复杂, 使错综, 使恶化 / vi. 变复杂",
+"en": "v. make more complicated / v. make more complex, intricate, or richer"
+},
+{
+"word": "rag",
+"pos": "n/vt/vi",
+"zh": "n. 碎布, 抹布, 碎片, 碎屑, 少量, 破旧衣服 / vt. 责骂, 揶揄, 戏弄 / vi. 喧闹",
+"en": "n. a small piece of cloth or paper / n. a week at British universities during which side-shows and processions of floats…"
+},
+{
+"word": "sanctuary",
+"pos": "n",
+"zh": "n. 圣所(指教堂、寺院等), 耶路撒冷的神殿, 避难所 / [法] 庇护所, 避难所, 教堂",
+"en": "n. a consecrated place where sacred objects are kept"
+},
+{
+"word": "denounce",
+"pos": "vt",
+"zh": "vt. 告发, 抨击, 谴责 / [法] 谴责, 斥责, 告发",
+"en": "v. speak out against / v. announce the termination of, as of treaties / v. give away information about somebody"
+},
+{
+"word": "chalk",
+"pos": "n/vt",
+"zh": "n. 粉笔, 白垩 / vt. 用粉笔写, 记录",
+"en": "n. a soft whitish calcite / n. a pure flat white with little reflectance / n. a piece of calcite or a similar substance,…"
+},
+{
+"word": "ascertain",
+"pos": "vt",
+"zh": "vt. 确定, 查明 / [法] 查明, 弄清, 确定",
+"en": "v. learn or discover with certainty"
+},
+{
+"word": "expel",
+"pos": "vt",
+"zh": "vt. 驱逐, 逐出, 排出, 开除 / [医] 排除, 迫出",
+"en": "v. force to leave or move out"
+},
+{
+"word": "credible",
+"pos": "a",
+"zh": "a. 可信的, 可靠的 / [法] 可信的, 可靠的",
+"en": "a. capable of being believed / s. (a common but incorrect usage where `credulous' would be appropriate) credulous / s. a…"
+},
+{
+"word": "pedestrian",
+"pos": "n/a",
+"zh": "n. 行人, 步行者 / a. 人行的, 徒步的, 呆板的, 通俗的, 平淡无奇的",
+"en": "n. a person who travels by foot / s. lacking wit or imagination"
+},
+{
+"word": "tuna",
+"pos": "n",
+"zh": "n. 金枪鱼, 金枪鱼肉",
+"en": "n. tropical American prickly pear of Jamaica / n. important warm-water fatty fish of the genus Thunnus of the family Sco…"
+},
+{
+"word": "astonishing",
+"pos": "a",
+"zh": "a. 令人惊讶的",
+"en": "s. so surprisingly impressive as to stun or overwhelm"
+},
+{
+"word": "recycling",
+"pos": "",
+"zh": "[电] 再循环",
+"en": "n. the act of processing used or abandoned materials for use in creating new products"
+},
+{
+"word": "unexpectedly",
+"pos": "adv",
+"zh": "adv. 想不到的, 突然的, 意外的, 出乎意料的",
+"en": "r. in a way that was not expected"
+},
+{
+"word": "kindly",
+"pos": "a/adv",
+"zh": "a. 和蔼的, 温和的, 爽快的 / adv. 温和地, 亲切地",
+"en": "s. pleasant and agreeable / r. in a kind manner or out of kindness"
+},
+{
+"word": "hobby",
+"pos": "n",
+"zh": "n. 嗜好, 癖好, 爱好",
+"en": "n. a child's plaything consisting of an imitation horse mounted on rockers; the child straddles it and pretends to ride …"
+},
+{
+"word": "enjoyable",
+"pos": "a",
+"zh": "a. 可从中得到乐趣的, 令人愉快的",
+"en": "s. affording satisfaction or pleasure"
+},
+{
+"word": "wary",
+"pos": "a",
+"zh": "a. 谨慎的, 小心的, 机警的, 周到的, 唯恐的",
+"en": "a. marked by keen caution and watchful prudence"
+},
+{
+"word": "signify",
+"pos": "vt/vi",
+"zh": "vt. 象征, 预示 / vi. 要紧, 重要",
+"en": "v. convey or express a meaning / v. make known with a word or signal"
+},
+{
+"word": "saturated",
+"pos": "a",
+"zh": "a. 饱和的, 渗透的 / [医] 饱和的",
+"en": "a. being the most concentrated solution possible at a given temperature; unable to dissolve still more of a substance / …"
+},
+{
+"word": "decay",
+"pos": "n/v",
+"zh": "n. 衰退, 腐败 / v. (使)衰退, (使)腐败",
+"en": "n. the process of gradually becoming inferior / n. a gradual decrease; as of stored charge or current / n. the organic p…"
+},
+{
+"word": "embed",
+"pos": "vt",
+"zh": "vt. 使插入, 使嵌入, 使深留脑中 / [计] 嵌入",
+"en": "v. attach to, as a journalist to a military unit when reporting on a war"
+},
+{
+"word": "cereal",
+"pos": "n/a",
+"zh": "n. 谷类食品, 谷类植物 / a. 谷类的",
+"en": "n. grass whose starchy grains are used as food: wheat; rice; rye; oats; maize; buckwheat; millet / n. a breakfast food p…"
+},
+{
+"word": "robbery",
+"pos": "n",
+"zh": "n. 抢掠, 抢夺 / [法] 强盗, 抢劫, 劫掠",
+"en": "n. larceny by threat of violence"
+},
+{
+"word": "gallon",
+"pos": "n",
+"zh": "n. 加仑 / [医] 加仑",
+"en": "n. United States liquid unit equal to 4 quarts or 3.785 liters / n. a British imperial capacity measure (liquid or dry) …"
+},
+{
+"word": "memorable",
+"pos": "a",
+"zh": "a. 值得纪念的, 难忘的",
+"en": "s. worth remembering"
+},
+{
+"word": "wording",
+"pos": "n",
+"zh": "n. 用词, 措词",
+"en": "n. the manner in which something is expressed in words"
+},
+{
+"word": "congratulate",
+"pos": "vt",
+"zh": "vt. 祝贺, 庆贺",
+"en": "v. express congratulations"
+},
+{
+"word": "drip",
+"pos": "n/v",
+"zh": "n. 水滴 / v. (使)滴下",
+"en": "n. flowing in drops; the formation and falling of drops of liquid / n. the sound of a liquid falling drop by drop / n. (…"
+},
+{
+"word": "notorious",
+"pos": "a",
+"zh": "a. 声名狼藉的, 臭名昭著的, 众人皆知的",
+"en": "s known widely and usually unfavorably;"
+},
+{
+"word": "doubtless",
+"pos": "a/adv",
+"zh": "a. 无疑的, 确定的 / adv. 无疑地, 确定地",
+"en": "r without doubt; certainly"
+},
+{
+"word": "elevate",
+"pos": "vt",
+"zh": "vt. 举起, 提拔, 鼓舞",
+"en": "v give a promotion to or assign to a higher position / v raise from a lower to a higher position / v raise in rank or co…"
+}
+]

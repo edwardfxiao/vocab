@@ -1,0 +1,20 @@
+{
+  "database": "13000-vocabulary",
+  "csv": "vocabulary.csv",
+  "selected": 13000,
+  "groups": {
+    "common_supplement": 3457,
+    "ielts_tag": 4543,
+    "extension": 4890,
+    "academic": 110
+  },
+  "extension_max_frequency_rank": 24322,
+  "wordlist_coverage": {
+    "AWL": 572,
+    "NAWL": 955
+  },
+  "source_sha256": "1a6947e04785db63613a92e14903cdae7954f7e84860b10e68e5c7cbb3f9c3cf",
+  "csv_sha256": "30905124c2f0d068541ee0fd2f3499cfbdd906a9bc0b4918a76afd2d144a94ee",
+  "source": "https://github.com/skywind3000/ECDICT",
+  "license": "MIT"
+}

@@ -1,0 +1,602 @@
+[
+{
+"word": "kelp",
+"pos": "n",
+"zh": "n. 海草, 巨藻, 海草灰 / [医] 海藻",
+"en": "n. large brown seaweeds having fluted leathery fronds"
+},
+{
+"word": "fallible",
+"pos": "a",
+"zh": "a. 易错的, 可能犯错的",
+"en": "a. likely to fail or make errors / s. wanting in moral strength, courage, or will; having the attributes of man as oppos…"
+},
+{
+"word": "fatuous",
+"pos": "a",
+"zh": "a. 发呆的, 愚笨的",
+"en": "s devoid of intelligence"
+},
+{
+"word": "gratuity",
+"pos": "n",
+"zh": "n. 小费, 赠物, 赏钱 / [经] 小帐, 赏金, 退职金",
+"en": "n. a relatively small amount of money given for services rendered (as by a waiter) / n. an award (as for meritorious ser…"
+},
+{
+"word": "baldness",
+"pos": "n",
+"zh": "n. 光秃, 率直, 枯燥 / [医] 秃[发], 脱发",
+"en": "n. the condition of having no hair on the top of the head"
+},
+{
+"word": "zoology",
+"pos": "n",
+"zh": "n. 动物学, 动物区系 / [医] 动物学",
+"en": "n. the branch of biology that studies animals"
+},
+{
+"word": "reverent",
+"pos": "a",
+"zh": "a. 尊敬的, 虔诚的",
+"en": "a. feeling or showing profound respect or veneration"
+},
+{
+"word": "vanquish",
+"pos": "vt",
+"zh": "vt. 打败, 征服, 克服 / [法] 征服, 战胜, 击败",
+"en": "v come out better in a competition, race, or conflict"
+},
+{
+"word": "typhoon",
+"pos": "n",
+"zh": "n. 台风",
+"en": "n. a tropical cyclone occurring in the western Pacific or Indian oceans"
+},
+{
+"word": "oblong",
+"pos": "n/a",
+"zh": "n. 长方形, 长椭圆形 / a. 长方形的, 长椭圆形的",
+"en": "n. a plane figure that deviates from a square or circle due to elongation / s. (of a leaf shape) having a somewhat elong…"
+},
+{
+"word": "perplexity",
+"pos": "n",
+"zh": "n. 困惑, 混乱状态, 使人困惑的事物",
+"en": "n. trouble or confusion resulting from complexity"
+},
+{
+"word": "combustible",
+"pos": "a/n",
+"zh": "a. 易燃的, 燃烧性的, 易动激情的 / n. 易燃物, 可燃物",
+"en": "n. a substance that can be burned to provide heat or power / a. capable of igniting and burning"
+},
+{
+"word": "leprosy",
+"pos": "n",
+"zh": "n. 麻疯病, 腐败 / [医] 麻风",
+"en": "n. chronic granulomatous communicable disease occurring in tropical and subtropical regions; characterized by inflamed n…"
+},
+{
+"word": "meteoric",
+"pos": "a",
+"zh": "a. 流星的, 疾速的, 大气的",
+"en": "a. pertaining to or consisting of meteors or meteoroids / s. like a meteor in speed or brilliance or transience"
+},
+{
+"word": "horticulture",
+"pos": "n",
+"zh": "n. 园艺",
+"en": "n the cultivation of plants"
+},
+{
+"word": "fester",
+"pos": "vi/vt/n",
+"zh": "vi. 溃烂, 生脓 / vt. 使溃烂 / n. 脓疮, 溃烂",
+"en": "n. a sore that has become inflamed and formed pus / v. ripen and generate pus"
+},
+{
+"word": "defile",
+"pos": "vt/vi/n",
+"zh": "vt. 弄脏, 污损, 败坏 / vi. 以纵队前进 / n. 隘路, 狭道",
+"en": "n. a narrow pass (especially one between mountains) / v. place under suspicion or cast doubt upon"
+},
+{
+"word": "sundial",
+"pos": "n",
+"zh": "n. 日规, 日晷",
+"en": "n. timepiece that indicates the daylight hours by the shadow that the gnomon casts on a calibrated dial"
+},
+{
+"word": "headstrong",
+"pos": "a",
+"zh": "a. 顽固的, 刚愎的, 任性的",
+"en": "s habitually disposed to disobedience and opposition"
+},
+{
+"word": "microfilm",
+"pos": "n/v",
+"zh": "n. 缩影胶卷 / v. 缩微拍摄 / [计] 缩微胶片; 缩微胶卷",
+"en": "n. film on which materials are photographed at greatly reduced size; useful for storage; a magnification system is used …"
+},
+{
+"word": "timidity",
+"pos": "n",
+"zh": "n. 胆小, 胆怯, 羞怯",
+"en": "n. fear of the unknown or unfamiliar or fear of making decisions / n. fearfulness in venturing into new and unknown plac…"
+},
+{
+"word": "perspire",
+"pos": "v",
+"zh": "v. 出汗, 流汗, 分泌, 渗出",
+"en": "v excrete perspiration through the pores in the skin"
+},
+{
+"word": "postcode",
+"pos": "n",
+"zh": "n. 邮政编码",
+"en": "n a code of letters and digits added to a postal address to aid in the sorting of mail"
+},
+{
+"word": "truant",
+"pos": "n/a/vi",
+"zh": "n. 懒惰的人, 玩忽职守者, 旷课者 / a. 偷懒的, 旷课的, 游荡的 / vi. 偷懒, 旷课",
+"en": "n. one who is absent from school without permission / s. absent without permission"
+},
+{
+"word": "eke",
+"pos": "vt",
+"zh": "vt. 补充, 增加",
+"en": "v. t. To increase; to add to; to augment; -- now commonly used /    with out, the notion conveyed being to add to, or pi…"
+},
+{
+"word": "bedsit",
+"pos": "n/vt",
+"zh": "n. 卧室兼起居室 / vt. 租用卧室兼起居室",
+"en": "n a furnished sitting room with sleeping accommodations (and some plumbing)"
+},
+{
+"word": "meteorology",
+"pos": "n",
+"zh": "n. 气象学, 气象状态 / [医] 气象学",
+"en": "n. predicting what the weather will be / n. the earth science dealing with phenomena of the atmosphere (especially weath…"
+},
+{
+"word": "waggon",
+"pos": "n",
+"zh": "n. 运货车, 四轮运货马车, (英)铁路货车, 流动服务车, 小型客车, 囚车, 童车",
+"en": "n any of various kinds of wheeled vehicles drawn by an animal or a tractor / n a car that has a long body and rear door …"
+},
+{
+"word": "misconceive",
+"pos": "v",
+"zh": "v. 误解",
+"en": "v interpret in the wrong way"
+},
+{
+"word": "matrimony",
+"pos": "n",
+"zh": "n. 结婚, 婚姻生活, 婚礼 / [法] 婚姻, 结婚, 婚礼",
+"en": "n. the ceremony or sacrament of marriage"
+},
+{
+"word": "shamble",
+"pos": "vi/n",
+"zh": "vi. 蹒跚地走, 摇摇晃晃地走, 摇晃不稳 / n. 蹒跚",
+"en": "n. walking with a slow dragging motion without lifting your feet"
+},
+{
+"word": "navigable",
+"pos": "a",
+"zh": "a. 可航行的, 可通船的, 适于航行的 / [法] 可航行的, 可通航的",
+"en": "s. able to be sailed on or through safely"
+},
+{
+"word": "wreathe",
+"pos": "vt/vi",
+"zh": "vt. 作成花圈, 环绕, 盘绕, 使笼罩 / vi. 扭曲, 成圈, 缭绕",
+"en": "v. move with slow, sinuous movements / v. decorate or deck with wreaths / v. form into a wreath"
+},
+{
+"word": "fetter",
+"pos": "n/vt",
+"zh": "n. 脚镣, 羁绊, 束缚 / vt. 束缚, 加脚镣",
+"en": "n. a shackle for the ankles or feet / v. restrain with fetters"
+},
+{
+"word": "pollinate",
+"pos": "vt",
+"zh": "vt. 对...授粉",
+"en": "v. fertilize by transfering pollen"
+},
+{
+"word": "bitumen",
+"pos": "n",
+"zh": "n. 沥青 / [化] 沥青; 石油沥青",
+"en": "n. any of various naturally occurring impure mixtures of hydrocarbons"
+},
+{
+"word": "granary",
+"pos": "n",
+"zh": "n. 谷仓, 谷物仓, 主要来源, 主要贮藏所",
+"en": "n. a storehouse for threshed grain or animal feed"
+},
+{
+"word": "melodious",
+"pos": "a",
+"zh": "a. 旋律美妙的, 旋律优美的, 有乐曲的",
+"en": "a. containing or constituting or characterized by pleasing melody"
+},
+{
+"word": "handball",
+"pos": "n",
+"zh": "n. 墙手球, 墙手球运动",
+"en": "n. a small rubber ball used in playing the game of handball / n. a game played in a walled court or against a single wal…"
+},
+{
+"word": "politic",
+"pos": "a",
+"zh": "a. 精明的, 明智的, 策略的",
+"en": "a. marked by artful prudence, expedience, and shrewdness / s. smoothly agreeable and courteous with a degree of sophisti…"
+},
+{
+"word": "drowsiness",
+"pos": "n",
+"zh": "n. 睡意 / [医] 倦睡, 瞌睡",
+"en": "n a very sleepy state"
+},
+{
+"word": "natal",
+"pos": "a",
+"zh": "a. 出生的, 诞生的 / [医] 分娩的, 生产的; 臀的",
+"en": "n. a region of eastern South Africa on the Indian Ocean / n. a port city in northeastern Brazil / a. relating to or acco…"
+},
+{
+"word": "profuse",
+"pos": "a",
+"zh": "a. 很多的, 丰富的, 浪费的, 慷慨的",
+"en": "s produced or growing in extreme abundance"
+},
+{
+"word": "photojournalism",
+"pos": "n",
+"zh": "n. 摄影新闻工作, 摄影报道",
+"en": "n. journalism that presents a story primarily through the use of pictures"
+},
+{
+"word": "plagiarize",
+"pos": "v",
+"zh": "v. 剽窃, 抄袭",
+"en": "v. take without referencing from someone else's writing or speech; of intellectual property"
+},
+{
+"word": "apostrophe",
+"pos": "n",
+"zh": "n. 撇号, 呼语法",
+"en": "n. address to an absent or imaginary person / n. the mark (') used to indicate the omission of one or more letters from …"
+},
+{
+"word": "notary",
+"pos": "n",
+"zh": "n. 公证人 / [经] 公证人, 公证员",
+"en": "n. someone legally empowered to witness signatures and certify a document's validity and to take depositions"
+},
+{
+"word": "existent",
+"pos": "a",
+"zh": "a. 存在的, 生存的, 现存的 / [医] 生存者",
+"en": "a. having existence or being or actuality"
+},
+{
+"word": "toddle",
+"pos": "vi/n",
+"zh": "vi. 东倒西歪地走, 蹒跚学步, 溜达 / n. 东倒西歪的走路, 蹒跚",
+"en": "v. walk unsteadily"
+},
+{
+"word": "tropic",
+"pos": "n",
+"zh": "n. 回归线",
+"en": "n. either of two parallels of latitude about 23.5 degrees to the north and south of the equator representing the points …"
+},
+{
+"word": "periscope",
+"pos": "n",
+"zh": "n. 潜望镜(镜头) / [化] 潜望镜",
+"en": "n. an optical instrument that provides a view of an otherwise obstructed field"
+},
+{
+"word": "preposition",
+"pos": "n",
+"zh": "n. 前置词, 介词",
+"en": "n. a function word that combines with a noun or pronoun or noun phrase to form a prepositional phrase that can have an a…"
+},
+{
+"word": "abridge",
+"pos": "vt",
+"zh": "vt. 缩短, 删节, 减少, 剥夺 / [法] 剥夺; 节略",
+"en": "v. reduce in scope while retaining essential elements / v. lessen, diminish, or curtail"
+},
+{
+"word": "flyover",
+"pos": "n",
+"zh": "n. 立交桥, 天桥, 立交马路",
+"en": "n. a flight at a low altitude (usually of military aircraft) over spectators on the ground"
+},
+{
+"word": "entreat",
+"pos": "v",
+"zh": "v. 恳求, 乞求",
+"en": "v ask for or request earnestly"
+},
+{
+"word": "burgeon",
+"pos": "n/v",
+"zh": "n. 芽, 嫩枝 / v. 萌芽, 发芽",
+"en": "v. grow and flourish"
+},
+{
+"word": "fahrenheit",
+"pos": "a/n",
+"zh": "a. 华氏温度计的 / n. 华氏温度计",
+"en": "n. German physicist who invented the mercury thermometer and developed the scale of temperature that bears his name (168…"
+},
+{
+"word": "mucous",
+"pos": "a",
+"zh": "a. 粘液的, 粘的, 粘液性的 / [医] 粘液的",
+"en": "a. of or secreting or covered with or resembling mucus"
+},
+{
+"word": "distend",
+"pos": "v",
+"zh": "v. (使)膨胀, (使)扩张",
+"en": "v. cause to expand as it by internal pressure / v. swell from or as if from internal pressure"
+},
+{
+"word": "seclude",
+"pos": "vt",
+"zh": "vt. 使隔离, 使孤立, 隔开",
+"en": "v. keep away from others"
+},
+{
+"word": "bewilder",
+"pos": "vt",
+"zh": "vt. 使迷惑, 使不知所措",
+"en": "v. cause to be confused emotionally"
+},
+{
+"word": "soundproof",
+"pos": "a",
+"zh": "a. 隔音的",
+"en": "v. insulate against noise / s. impervious to, or not penetrable by, sound"
+},
+{
+"word": "overwrought",
+"pos": "a",
+"zh": "a. 过分劳累的, 过度紧张的, 神经质的, 过度兴奋的, 过分推敲的, 不自然的",
+"en": "s deeply agitated especially from emotion"
+},
+{
+"word": "ostentation",
+"pos": "n",
+"zh": "n. 虚饰, 虚有其表, 卖弄",
+"en": "n. a gaudy outward display / n. lack of elegance as a consequence of being pompous and puffed up with vanity / n. preten…"
+},
+{
+"word": "drowse",
+"pos": "n/vi/vt",
+"zh": "n. 瞌睡 / vi. 打瞌睡 / vt. 使瞌睡",
+"en": "v. be on the verge of sleeping"
+},
+{
+"word": "unsocial",
+"pos": "a",
+"zh": "a. 非社会的, 厌恶社交的, 不喜交际的, 孤僻的",
+"en": "a. not seeking or given to association; being or living without companions"
+},
+{
+"word": "manacle",
+"pos": "n/vt",
+"zh": "n. 手铐, 束缚 / vt. 给...上手铐, 束缚",
+"en": "v. confine or restrain with or as if with manacles or handcuffs"
+},
+{
+"word": "coeducation",
+"pos": "n",
+"zh": "n. 男女同校",
+"en": "n. education of men and women in the same institutions"
+},
+{
+"word": "loth",
+"pos": "a",
+"zh": "a. 不愿意的, 厌恶的",
+"en": "s unwillingness to do something contrary to your custom / s (usually followed by `to') strongly opposed"
+},
+{
+"word": "antonym",
+"pos": "n",
+"zh": "n. 反义词",
+"en": "n. a word that expresses a meaning opposed to the meaning of another word, in which case the two words are antonyms of e…"
+},
+{
+"word": "protract",
+"pos": "vt",
+"zh": "vt. 延长, 拖延, 伸出, 绘制 / [法] 延迟, 拖延, 延长",
+"en": "v lengthen in time; cause to be or last longer"
+},
+{
+"word": "maltreat",
+"pos": "vt",
+"zh": "vt. 虐待, 滥用 / [法] 粗暴对待, 虐待, 乱用",
+"en": "v treat badly"
+},
+{
+"word": "booklist",
+"pos": "",
+"zh": "(某个题目或学科的)推荐书目, 书单",
+"en": ""
+},
+{
+"word": "superintend",
+"pos": "v",
+"zh": "v. 指挥, 管理, 监督",
+"en": "v watch and direct"
+},
+{
+"word": "palpitate",
+"pos": "vi",
+"zh": "vi. 悸动, 心跳, 发抖 / [医] 心悸",
+"en": "v. cause to throb or beat rapidly / v. beat rapidly"
+},
+{
+"word": "transfuse",
+"pos": "vt",
+"zh": "vt. 输血, 充满 / [医] 输血, 输液",
+"en": "v. pour out of one vessel into another / v. give a transfusion (e.g., of blood) to"
+},
+{
+"word": "mischance",
+"pos": "n",
+"zh": "n. 不幸, 灾难",
+"en": "n an unpredictable outcome that is unfortunate / n an instance of misfortune"
+},
+{
+"word": "mathematic",
+"pos": "",
+"zh": "[计] 数学的",
+"en": "a. See Mathematical."
+},
+{
+"word": "inapt",
+"pos": "a",
+"zh": "a. 不适当的, 不熟练的",
+"en": "s not elegant or graceful in expression"
+},
+{
+"word": "close-up",
+"pos": "n",
+"zh": "n. 特写镜头, 仔细的观察, 小传 / [化] 闭合; 接通",
+"en": ""
+},
+{
+"word": "drop-off",
+"pos": "n",
+"zh": "n. 下降, 减少",
+"en": "n a noticeable deterioration in performance or quality / n a steep high face of rock / n a change downward"
+},
+{
+"word": "email",
+"pos": "n",
+"zh": "n. 电子信函",
+"en": "n (computer science) a system of world-wide electronic communication in which a computer user can compose a message at o…"
+},
+{
+"word": "exhilarate",
+"pos": "vt",
+"zh": "vt. 使高兴, 使愉快, 鼓励",
+"en": "v. fill with sublime emotion"
+},
+{
+"word": "first-aid",
+"pos": "a",
+"zh": "a. 急救的",
+"en": ""
+},
+{
+"word": "full-time",
+"pos": "a",
+"zh": "a. 全部时间的, 专任的",
+"en": "a. for the entire time appropriate to an activity / r. for the standard number of hours"
+},
+{
+"word": "high-rise",
+"pos": "a/n",
+"zh": "a. 有多层的, 高楼的 / n. 高楼, 大厦",
+"en": "n. tower consisting of a multistoried building of offices or apartments / a. used of buildings of many stories equipped …"
+},
+{
+"word": "invigilate",
+"pos": "vi",
+"zh": "vi. 看守, 监考",
+"en": "v. watch over (students taking an exam, to prevent cheating)"
+},
+{
+"word": "low-risk",
+"pos": "",
+"zh": "[医]低危的, 低风险的",
+"en": ""
+},
+{
+"word": "midmorning",
+"pos": "n",
+"zh": "n. 上午十时左右",
+"en": ""
+},
+{
+"word": "non-drinker",
+"pos": "n",
+"zh": "n. 不喝酒的人, 戒酒的人",
+"en": ""
+},
+{
+"word": "open-book",
+"pos": "a",
+"zh": "a. 开卷的",
+"en": ""
+},
+{
+"word": "part-time",
+"pos": "a/adv",
+"zh": "a. 兼任的, 半工半读的, 部分时间的 / adv. 部分时间, 兼任地",
+"en": "a. involving less than the standard or customary time for an activity"
+},
+{
+"word": "phone-in",
+"pos": "n",
+"zh": "n. 观众/听众通过电话参与讨论或提问的电视节目/广播节目",
+"en": "n. a program in which the audience participates by telephone"
+},
+{
+"word": "self-defense",
+"pos": "n",
+"zh": "n. 自卫, 自卫术, 自卫权 / [法] 自卫, 正当防卫",
+"en": "n. the act of defending yourself"
+},
+{
+"word": "self-discipline",
+"pos": "n",
+"zh": "n. 自我训练, 自我修养, 自律 / [法] 自律, 自我约束, 自我修养",
+"en": "n. the trait of practicing self discipline"
+},
+{
+"word": "self-sufficient",
+"pos": "a",
+"zh": "a. 自给自足的, 极为自负的",
+"en": "s. able to provide for your own needs without help from others"
+},
+{
+"word": "up-to-date",
+"pos": "a",
+"zh": "a. 直到现在的, 最近的, 现代化的 / [化] 最新的",
+"en": "s. reflecting the latest information or changes / s. in accord with the most fashionable ideas or style"
+},
+{
+"word": "water-clock",
+"pos": "n",
+"zh": "n. 水钟, 滴漏",
+"en": ""
+},
+{
+"word": "water-skiing",
+"pos": "n",
+"zh": "n. 滑水",
+"en": "n. skiing on water while being towed by a motorboat"
+},
+{
+"word": "x-ray",
+"pos": "a/vt/vi",
+"zh": "a. X射线的 / vt. 用X光检查, 照X光 / vi. 使用X光",
+"en": "v. examine by taking x-rays / v. take an x-ray of something or somebody"
+}
+]

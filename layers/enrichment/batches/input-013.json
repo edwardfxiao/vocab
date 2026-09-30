@@ -1,0 +1,602 @@
+[
+{
+"word": "band",
+"pos": "n/v",
+"zh": "n. 带子, 队, 乐队 / v. 联合, 结合 / [计] 频带; 波段; 区",
+"en": "n. instrumentalists not including string players / n. a stripe or stripes of contrasting color / n. an adornment consist…"
+},
+{
+"word": "strike",
+"pos": "n/vt/vi",
+"zh": "n. 罢工, 打击, 殴打 / vt. 打, 撞击, 冲击, 侵袭, 取消, 结算, 打掉, 罢工, 刺透, 使生根, 遇见 / vi. 打, 打击, 抓, 罢工, 搏动, 触礁,…",
+"en": "n. a group's refusal to work in protest against low pay or bad work conditions / n. an attack that is intended to seize …"
+},
+{
+"word": "failure",
+"pos": "n",
+"zh": "n. 失败, 失败者, 不足, 缺乏, 破产 / [计] 故障; 失效",
+"en": "n. an act that fails / n. an event that does not accomplish its intended purpose / n. lack of success / n. a person with…"
+},
+{
+"word": "sky",
+"pos": "n/vt/vi",
+"zh": "n. 天空, 天色, 天堂 / vt. 击向空中, 挂在高处 / vi. 高涨",
+"en": "n. the atmosphere and outer space as viewed from the earth"
+},
+{
+"word": "freedom",
+"pos": "n",
+"zh": "n. 自由, 坦率, 特权 / [法] 自由, 自主, 免除",
+"en": "n. the condition of being free; the power to act or speak or think without externally imposed restraints"
+},
+{
+"word": "reader",
+"pos": "n",
+"zh": "n. 读者, 读物, 文选, 校对人, 讲师 / [计] 阅读程序; 阅读器",
+"en": "n. a person who enjoys reading / n. a person who can read; a literate person / n. one of a series of texts for students …"
+},
+{
+"word": "absolutely",
+"pos": "adv",
+"zh": "adv. 完全地, 绝对地, 确确实实地",
+"en": "r. completely and without qualification; used informally as intensifiers / r. totally and definitely; without question"
+},
+{
+"word": "fair",
+"pos": "n/a/adv/vi",
+"zh": "n. 展览会, 市集, 美好的事物 / a. 公平的, 按规则进行的, 不好不坏的, 晴朗的, 美丽的 / adv. 公平地, 正面地, 有教养地, 清楚地 / vi. 转晴",
+"en": "n. gathering of producers to promote business / n. a competitive exhibition of farm products / v. join so that the exter…"
+},
+{
+"word": "plane",
+"pos": "n/a/vt/vi",
+"zh": "n. 平面, 扁平物, 机翼, 飞机, 水准, 地位 / a. 平的, 平面的 / vt. 将...刨平, 刨平, 掠过水面 / vi. 翱翔, 乘飞机旅行, 刨掉",
+"en": "n. (mathematics) an unbounded two-dimensional shape / n. a level of existence or development / n. a power tool for smoot…"
+},
+{
+"word": "nobody",
+"pos": "n/pron",
+"zh": "n. 小人物, 无名小卒 / pron. 无人, 没有人",
+"en": "n a person of no influence"
+},
+{
+"word": "essential",
+"pos": "n/a",
+"zh": "n. 要素, 要点, 本质 / a. 必要的, 重要的, 本质的 / [计] 本质冒险",
+"en": "s. absolutely necessary; vitally necessary / a. basic and fundamental / a. being or relating to or containing the essenc…"
+},
+{
+"word": "confirm",
+"pos": "vt",
+"zh": "vt. 证实, 确定, 批准, 使巩固 / [计] 确认",
+"en": "v. establish or strengthen as with new evidence or facts / v. strengthen or make more firm / v. make more firm / v. supp…"
+},
+{
+"word": "adopt",
+"pos": "vt",
+"zh": "vt. 采用, 正式通过, 收养, 接受 / [医] 采取",
+"en": "v. choose and follow; as of theories, ideas, policies, strategies or plans / v. take up and practice as one's own / v. t…"
+},
+{
+"word": "powerful",
+"pos": "a",
+"zh": "a. 有力的, 有权力的, 强大的 / [机] 强力的",
+"en": "a. having great power or force or potency or effect"
+},
+{
+"word": "perfect",
+"pos": "n/a/vt",
+"zh": "n. 完成时 / a. 完美的, 完好的, 理想的, 熟练的, 精确的, 完成式的 / vt. 使完美, 修改, 使精通, 改善, 使熟练",
+"en": "v. make perfect or complete / a. being complete of its kind and without defect or blemish / s. precisely accurate or exa…"
+},
+{
+"word": "trust",
+"pos": "n/a/vt/vi",
+"zh": "n. 信任, 信赖, 相信, 受托, 职责, 信心, 托拉斯 / a. 信托的, 托拉斯的 / vt. 信赖, 信任, 相信, 盼望, 赊卖给 / vi. 相信, 信赖, 依靠 /…",
+"en": "n. something (as property) held by one party (the trustee) for the benefit of another (the beneficiary) / n. the trait o…"
+},
+{
+"word": "conduct",
+"pos": "n/vt/vi",
+"zh": "n. 行为, 举动, 指导 / vt. 为人, 指挥, 管理, 实施 / vi. 领导, 传导, 指挥",
+"en": "v. direct the course of; manage or control / v. lead, as in the performance of a composition; Barenboim conducted the Ch…"
+},
+{
+"word": "completely",
+"pos": "adv",
+"zh": "adv. 完全地, 十分地, 圆满地",
+"en": "r. so as to be complete; with everything necessary"
+},
+{
+"word": "conversation",
+"pos": "n",
+"zh": "n. 会话, 说话, 交谈 / [法] 交谈, 社交, 性交",
+"en": "n. the use of speech for informal exchange of views or ideas or information etc."
+},
+{
+"word": "touch",
+"pos": "n/vt/vi",
+"zh": "n. 触觉, 碰, 触, 机灵, 轻触, 格调, 少许, 缺点, 弹力 / vt. 接触, 触摸, 触及, 使接触, 达到, 涉及, 影响到, 使轻度受害, 感动 / vi. 触摸…",
+"en": "n. the event of something coming in contact with the body / n. the faculty by which external objects or forces are perce…"
+},
+{
+"word": "farm",
+"pos": "n/vt/vi",
+"zh": "n. 农场, 农田 / vt. 耕种 / vi. 种田",
+"en": "n. workplace consisting of farm buildings and cultivated land as a unit / v. be a farmer; work as a farmer / v. collect …"
+},
+{
+"word": "sentence",
+"pos": "n/vt",
+"zh": "n. 句子, 命题, 宣判 / vt. 宣判, 判决 / [计] 句子",
+"en": "n. a string of words satisfying the grammatical rules of a language / v. pronounce a sentence on (somebody) in a court o…"
+},
+{
+"word": "file",
+"pos": "n/vi/vt",
+"zh": "n. 档案, 公文箱, 文件夹, 文件, 卷宗, 锉刀 / vi. 列队行进, 用锉刀做 / vt. 归档, 申请, 锉, 琢磨 / [计] 文件",
+"en": "n. a set of related records (either written or electronic) kept together / n. a line of persons or things ranged one beh…"
+},
+{
+"word": "primary",
+"pos": "n/a",
+"zh": "n. 最主要者, 原色 / a. 主要的, 初期的, 根本的, 原始的, 首要的, 基本的 / [计] 初等量; 主要的; 一次的",
+"en": "n. a preliminary election where delegates or nominees are chosen / n. one of the main flight feathers projecting along t…"
+},
+{
+"word": "sleep",
+"pos": "n/vi/vt",
+"zh": "n. 睡眠, 静止, 昏迷, 麻木, 长眠, 冬眠 / vi. 睡觉, 睡眠, 静止 / vt. 睡",
+"en": "n. a natural and periodic state of rest during which consciousness of the world is suspended / n. a torpid state resembl…"
+},
+{
+"word": "obvious",
+"pos": "a",
+"zh": "a. 明显的, 明白的, 显然的, 平淡无奇的",
+"en": "a. easily perceived by the senses or grasped by the mind"
+},
+{
+"word": "length",
+"pos": "n",
+"zh": "n. 长度, 长, 期间, 一段 / [计] 记录长度; 块长; 字长",
+"en": "n. the linear extent in space from one end to the other; the longest dimension of something that is fixed in place / n. …"
+},
+{
+"word": "copy",
+"pos": "n/v",
+"zh": "n. 副本, 摹仿, 一册 / v. 复印, 抄袭, 复制 / [计] 副本; 复制; DOS内部命令:复制文件 / 将几个文件合并成一个文件, 以及将文件传至外设或在设备之间传送",
+"en": "n. a thing made to be similar or identical to another thing / n. matter to be printed; exclusive of graphical materials …"
+},
+{
+"word": "investigation",
+"pos": "n",
+"zh": "n. 调查, 审查 / [医] 调查, 调查研究",
+"en": "n. the work of inquiring into something thoroughly and systematically"
+},
+{
+"word": "balance",
+"pos": "n/vi/vt",
+"zh": "n. 平衡, 差额 / vi. 平衡, 相等 / vt. 称, 权衡, 比较, 使平衡, 结算, 抵消",
+"en": "n. a state of equilibrium / n. equality between the totals of the credit and debit sides of an account / n. equality of …"
+},
+{
+"word": "nuclear",
+"pos": "a",
+"zh": "a. 核子的, 原子能的, 核的, 中心的 / [医] 核的",
+"en": "a. (weapons) deriving destructive energy from the release of atomic energy / a. of or relating to or constituting the nu…"
+},
+{
+"word": "researcher",
+"pos": "n",
+"zh": "n. 研究人员",
+"en": "n a scientist who devotes himself to doing research"
+},
+{
+"word": "branch",
+"pos": "n/vi/vt",
+"zh": "n. 树枝, 支店, 支流, 分部 / vi. 分支, 出枝 / vt. 分割, 用枝状叶脉刺绣花纹装饰 / [计] 分支, 目录分支",
+"en": "n. a division of some larger or more complex organization / n. a division of a stem, or secondary stem arising from the …"
+},
+{
+"word": "conflict",
+"pos": "n/vi",
+"zh": "n. 战斗, 冲突, 矛盾, 争执 / vi. 争执, 战斗, 冲突, 抵触 / [计] 冲突",
+"en": "n. an open clash between two opposing groups (or individuals) / n. opposition between two simultaneous but incompatible …"
+},
+{
+"word": "spirit",
+"pos": "n/vt",
+"zh": "n. 精神, 心灵, 灵魂, 态度, 志气, 人格, 情绪, 心情, 烈酒 / vt. 诱拐, 鼓励, 鼓舞",
+"en": "n. the vital principle or animating force within living things / n. the general atmosphere of a place or situation and t…"
+},
+{
+"word": "league",
+"pos": "n/v",
+"zh": "n. 同盟, 联盟, 盟约 / v. 组联盟, (使)加盟",
+"en": "n. an association of sports teams that organizes matches for its members / n. an association of states or organizations …"
+},
+{
+"word": "doubt",
+"pos": "n/v",
+"zh": "n. 怀疑, 疑惑 / v. 怀疑, 不信",
+"en": "n. the state of being unsure of something / n. uncertainty about the truth or factuality or existence of something / v. …"
+},
+{
+"word": "train",
+"pos": "n/vt/vi",
+"zh": "n. 火车, 列车, 行列, 长队, 一连串的后果, 顺序 / vt. 训练, 教育, 对准 / vi. 受训练, 锻炼",
+"en": "n. public transport provided by a line of railway cars coupled together and drawn by a locomotive / n. a series of conse…"
+},
+{
+"word": "accident",
+"pos": "n",
+"zh": "n. 意外事件, 机遇, 事故, 次要方面 / [化] 意外事故; 事故",
+"en": "n. an unfortunate mishap; especially one causing damage or injury / n. anything that happens suddenly or by chance witho…"
+},
+{
+"word": "camp",
+"pos": "n/vi/vt",
+"zh": "n. 露营, 帐篷 / vi. 露营, 扎营 / vt. 使扎营",
+"en": "n. temporary living quarters specially built by the army for soldiers / n. a group of people living together in a camp /…"
+},
+{
+"word": "brain",
+"pos": "n/vt",
+"zh": "n. 脑 / vt. 打碎脑部",
+"en": "n. that part of the central nervous system that includes all the higher nervous centers; enclosed within the skull; cont…"
+},
+{
+"word": "studio",
+"pos": "n",
+"zh": "n. 工作室, 画室, 演播室, 电影制片厂",
+"en": "n. workplace for the teaching or practice of an art / n. workplace consisting of a room or building where movies or tele…"
+},
+{
+"word": "weekend",
+"pos": "n",
+"zh": "n. 周末, 周末休假",
+"en": "n. a time period usually extending from Friday night through Sunday; more loosely defined as any period of successive da…"
+},
+{
+"word": "dozen",
+"pos": "n/a",
+"zh": "n. 打, 十二个 / a. 一打的",
+"en": "n the cardinal number that is the sum of eleven and one / s denoting a quantity consisting of 12 items or units"
+},
+{
+"word": "strength",
+"pos": "n",
+"zh": "n. 力量, 实力, 强度, 浓度, 人数, 抵抗力 / [化] 强度",
+"en": "n. the property of being physically or mentally strong / n. the condition of financial success"
+},
+{
+"word": "normally",
+"pos": "adv",
+"zh": "adv. 正规地, 合规则, 正常地",
+"en": "r. under normal conditions"
+},
+{
+"word": "contact",
+"pos": "n/vi/vt",
+"zh": "n. 联系, 交际, 熟人, 接触 / vi. 接触, 联系 / vt. 使接触",
+"en": "n. close interaction / n. the act of touching physically / n. the state or condition of touching or of being in immediat…"
+},
+{
+"word": "insurance",
+"pos": "n",
+"zh": "n. 保险, 保险业, 保险费 / [医] 保险",
+"en": "n. promise of reimbursement in the case of loss; paid to people or companies so concerned about hazards that they have m…"
+},
+{
+"word": "battle",
+"pos": "n/v",
+"zh": "n. 战役 / v. 战斗",
+"en": "n. a hostile meeting of opposing military forces in the course of a war / v. battle or contend against in or as if in a …"
+},
+{
+"word": "shape",
+"pos": "n/vt/vi",
+"zh": "n. 形状, 形态, 外形, 形式, 身材 / vt. 定形, 使成形, 塑造, 计划, 使符合 / vi. 成形, 形成, 成长 / [计] 形状",
+"en": "n. any spatial attributes (especially as defined by outline) / n. the spatial arrangement of something as distinct from …"
+},
+{
+"word": "contribution",
+"pos": "n",
+"zh": "n. 捐助, 捐助之物, 贡献 / [经] 贡献, 捐款, 补助品",
+"en": "n. the part played by a person in bringing about a result / n. a voluntary gift (as of money or service or ideas) made t…"
+},
+{
+"word": "transport",
+"pos": "n/vt",
+"zh": "n. 运输, 运输工具, 激动, 狂喜, 流放犯 / vt. 传送, 运输, 流放 / [计] 传送",
+"en": "n. an exchange of molecules (and their kinetic energy and momentum) across the boundary between adjacent layers of a flu…"
+},
+{
+"word": "cash",
+"pos": "n/vt",
+"zh": "n. 现金 / vt. 兑现",
+"en": "n. money in the form of bills or coins / n. prompt payment for goods or services in currency or by check / n. United Sta…"
+},
+{
+"word": "crisis",
+"pos": "n",
+"zh": "n. 危机, 危险期, 紧要关头 / [医] 危象; 骤退, 临界, 极期",
+"en": "n. an unstable situation of extreme danger or difficulty / n. a crucial stage or turning point in the course of somethin…"
+},
+{
+"word": "fan",
+"pos": "n/vt/vi",
+"zh": "n. 风扇, 迷, 狂热者, 爱好者 / vt. 煽动, 刺激, 吹拂 / vi. 飘动, 成扇形散开",
+"en": "n. a device for creating a current of air by movement of a surface or surfaces / n. an ardent follower and admirer / v. …"
+},
+{
+"word": "museum",
+"pos": "n",
+"zh": "n. 博物馆",
+"en": "n. a depository for collecting and displaying objects having scientific or historical or artistic value"
+},
+{
+"word": "stick",
+"pos": "n/vt/vi",
+"zh": "n. 棍, 棒, 刺, 枯枝, 茎, 条状物 / vt. 插进, 刺入, 钉住, 伸出, 粘贴, 停止 / vi. 粘住, 停留, 坚持, 陷住, 伸出",
+"en": "n. an implement consisting of a length of wood / n. a small thin branch of a tree / n. a lever used by a pilot to contro…"
+},
+{
+"word": "hole",
+"pos": "n/vt/vi",
+"zh": "n. 孔, 洞, 穴, 漏洞 / vt. 挖洞, 掘坑 / vi. 进洞, 凿洞",
+"en": "n. an opening into or through something / n. an opening deliberately made in or through something / n. one playing perio…"
+},
+{
+"word": "pair",
+"pos": "n/v",
+"zh": "n. 一双, 一对, 一副 / v. (使)成对",
+"en": "n. a set of two similar things considered as a unit / n. two people considered as a unit / n. a poker hand with 2 cards …"
+},
+{
+"word": "annual",
+"pos": "n/a",
+"zh": "n. 年刊, 年报 / a. 每年的, 一年一次的, 全年的, 一年生的",
+"en": "n. (botany) a plant that completes its entire life cycle within the space of a year / n. a reference book that is publis…"
+},
+{
+"word": "associate",
+"pos": "n/vt/vi",
+"zh": "n. 同伴, 伙伴, 关联的事物 / vt. 使联合, 使发生联系 / vi. 交往 / [计] 关联",
+"en": "n. a person who joins with others in some activity or endeavor / n. a person with subordinate membership in a society, i…"
+},
+{
+"word": "vision",
+"pos": "n/vt",
+"zh": "n. 视觉, 眼光, 视力, 幻想 / vt. 梦见, 想象, 显示",
+"en": "n. a vivid mental image / n. the perceptual experience of seeing / n. a religious or mystical experience of a supernatur…"
+},
+{
+"word": "marry",
+"pos": "vt/vi",
+"zh": "vt. 与...结婚, 娶, 嫁 / vi. 结婚",
+"en": "v. take in marriage / v. perform a marriage ceremony"
+},
+{
+"word": "presence",
+"pos": "n",
+"zh": "n. 出席, 面前, 存在, 仪态, 风度 / [电] 出现",
+"en": "n. the state of being present; current existence / n. the immediate proximity of someone or something / n. an invisible …"
+},
+{
+"word": "ship",
+"pos": "n/vt/vi",
+"zh": "n. 船, 舰 / vt. 以船运送, 装船, 运送 / vi. 上船, 乘船",
+"en": "n. a vessel that carries passengers or freight / v. hire for work on a ship / v. travel by ship / v. place on board a sh…"
+},
+{
+"word": "protection",
+"pos": "n",
+"zh": "n. 保护, 防卫, 贸易保护制度 / [计] 保护",
+"en": "n. the activity of protecting someone or something / n. the condition of being protected / n. the imposition of duties o…"
+},
+{
+"word": "collect",
+"pos": "v/a/adv",
+"zh": "v. 收集, 聚集, 集中, 搜集 / a. 由收到者付款的 / adv. 由收到者付款地",
+"en": "n. a short prayer generally preceding the lesson in the Church of Rome or the Church of England / v. call for and obtain…"
+},
+{
+"word": "slowly",
+"pos": "adv",
+"zh": "adv. 慢慢地, 迟缓地",
+"en": "r. without speed (`slow' is sometimes used informally for `slowly')"
+},
+{
+"word": "queen",
+"pos": "n/vt/vi",
+"zh": "n. 王后, 女王 / vt. 立为女王 / vi. 做女王",
+"en": "n. the only fertile female in a colony of social insects such as bees and ants and termites; its function is to lay eggs…"
+},
+{
+"word": "master",
+"pos": "n/a/vt",
+"zh": "n. 主人, 硕士, 大师, 母机 / a. 主人的, 主要的 / vt. 征服, 控制, 精通",
+"en": "n. directs the work of others / n. an original creation (i.e., an audio recording) from which copies can be made / n. an…"
+},
+{
+"word": "driver",
+"pos": "n",
+"zh": "n. 驾驶员, 驱动器, 驱动程序 / [化] 驱动器",
+"en": "n. the operator of a motor vehicle / n. someone who drives animals that pull a vehicle / n. a golfer who hits the golf b…"
+},
+{
+"word": "spot",
+"pos": "n/a/vt/vi",
+"zh": "n. 污点, 地点, 斑点, 点, 娱乐场所, 处境, 少量 / a. 当场的, 现场的, 现货买卖的, 现金交易的, 抽样的 / vt. 点缀, 玷污, 认出, 准确定...的位…",
+"en": "n. a short section or illustration (as between radio or tv programs or in a magazine) that is often used for advertising…"
+},
+{
+"word": "ice",
+"pos": "n/vt/vi",
+"zh": "n. 冰, 冰淇淋, 糖衣, 冷若冰霜, 矜持, 贿赂 / vt. 使结冰, 冰镇, 覆以糖衣 / vi. 结冰",
+"en": "n. water frozen in the solid state / n. the frozen part of a body of water / n. diamonds / n. a frozen dessert with frui…"
+},
+{
+"word": "boat",
+"pos": "n/vi/vt",
+"zh": "n. 船 / vi. 乘船 / vt. 以船运",
+"en": "n. a small vessel for travel on water / v. ride in a boat on water"
+},
+{
+"word": "employ",
+"pos": "n/vt",
+"zh": "n. 雇用 / vt. 雇用, 使用, 使从事于",
+"en": "n the state of being employed or having a job / v put into service; make work or employ for a particular purpose or for …"
+},
+{
+"word": "drink",
+"pos": "n/v",
+"zh": "n. 饮料, 酒 / v. 喝, 喝酒",
+"en": "n. a single serving of a beverage / n. the act of drinking alcoholic beverages to excess / n. any large deep body of wat…"
+},
+{
+"word": "exercise",
+"pos": "n/vt/vi",
+"zh": "n. 行使, 执行, 运动, 练习, 作业 / vt. 运用, 练习, 运动 / vi. 练习, 锻炼",
+"en": "n. the activity of exerting your muscles in various ways to keep fit / n. systematic training by multiple repetitions / …"
+},
+{
+"word": "consequence",
+"pos": "n",
+"zh": "n. 结果, 重要性 / [法] 结果, 后果, 推断",
+"en": "n. a phenomenon that follows and is caused by some previous phenomenon / n. the outcome of an event especially as relati…"
+},
+{
+"word": "distance",
+"pos": "n",
+"zh": "n. 距离, 远方, 遥远 / [计] 位距",
+"en": "n. the property created by the space between two objects or points / n. a distant region / n. size of the gap between tw…"
+},
+{
+"word": "wood",
+"pos": "n/vt/vi",
+"zh": "n. 木材, 木制品 / vt. 植林于, 给...添加木柴 / vi. 收集木材",
+"en": "n. the hard fibrous lignified substance under the bark of trees / n. United States film actress (1938-1981) / n. English…"
+},
+{
+"word": "relatively",
+"pos": "adv",
+"zh": "adv. 相对地, 比较地, 相当地, 相关地 / [计] 相对地",
+"en": "r. in a relative manner; by comparison to something else"
+},
+{
+"word": "truck",
+"pos": "n/vt/vi",
+"zh": "n. 卡车, 货车, 对...进行交易, 来往, 实物工资, (供应市场的)蔬菜, 废物, 废话 / vt. 对...进行交易, 交往, 以卡车运输 / vi. 驾驶卡车, 以物易…",
+"en": "n. an automotive vehicle suitable for hauling / v. convey (goods etc.) by truck"
+},
+{
+"word": "handle",
+"pos": "n/vt/vi",
+"zh": "n. 柄, 把手, 把柄, 柄状物, 手感 / vt. 触摸, 运用, 买卖, 处理, 操作 / vi. 搬运, 易于操纵 / n. 句柄 / [计] 句柄",
+"en": "n. the appendage to an object that is designed to be held in order to use or move it / v. touch, lift, or hold with the …"
+},
+{
+"word": "august",
+"pos": "n/a",
+"zh": "n. 八月 / a. 威严的, 令人敬畏的",
+"en": "n. the month following July and preceding September / s. of or befitting a lord / s. profoundly honored"
+},
+{
+"word": "mountain",
+"pos": "n",
+"zh": "n. 山, 山脉, 大堆",
+"en": "n. a land mass that projects well above its surroundings; higher than a hill"
+},
+{
+"word": "relevant",
+"pos": "a",
+"zh": "a. 有关联的, 有关系的, 适当的, 相应的 / [法] 有关的, 相关的",
+"en": "a. having a bearing on or connection with the subject at issue"
+},
+{
+"word": "apparently",
+"pos": "adv",
+"zh": "adv. 表面上, 清楚地, 显然地",
+"en": "r. from appearances alone"
+},
+{
+"word": "tradition",
+"pos": "n",
+"zh": "n. 传说, 传统, 交付 / [法] 传统, 惯例, 移交",
+"en": "n. an inherited pattern of thought or action"
+},
+{
+"word": "winter",
+"pos": "n/a/vt/vi",
+"zh": "n. 冬季, 萧条期, 衰退期 / a. 冬天的 / vt. 使度过冬天 / vi. 过冬",
+"en": "n. the coldest season of the year; in the northern hemisphere it extends from the winter solstice to the vernal equinox …"
+},
+{
+"word": "speed",
+"pos": "n/vi/vt",
+"zh": "n. 速率, 速度, 迅速 / vi. 加速, 超速, 快进 / vt. 快速传送, 促进, 使加速 / [计] 中央处理机速度设置程序",
+"en": "n. distance travelled per unit time / n. a rate (usually rapid) at which something happens / n. changing location rapidl…"
+},
+{
+"word": "route",
+"pos": "n/vt",
+"zh": "n. 路径, 途径, 路线 / vt. 确定路线, 按规定路线发送 / [计] 传递, 路由设定程序",
+"en": "v. send documents or materials to appropriate destinations / v. send via a specific route / v. divert in a specified dir…"
+},
+{
+"word": "proportion",
+"pos": "n/vt",
+"zh": "n. 比例, 比率, 均衡, 部分, 面积 / vt. 使成比例, 使均衡",
+"en": "n. the quotient obtained when the magnitude of a part is divided by the magnitude of the whole / n. magnitude or extent …"
+},
+{
+"word": "consideration",
+"pos": "n",
+"zh": "n. 考虑, 原因 / [法] 考虑, 思考, 报酬",
+"en": "n. the process of giving careful thought to something / n. a discussion of a topic (as in a meeting) / n. kind and consi…"
+},
+{
+"word": "assessment",
+"pos": "n",
+"zh": "n. 评估, 估定, 评定的款额 / [化] 评估",
+"en": "n. an amount determined as payable / n. the market value set on assets"
+},
+{
+"word": "roll",
+"pos": "n/vi/vt",
+"zh": "n. 卷, 滚动, 名单, 案卷, 压路机 / vi. 滚, 滚动, 飘流, 起伏, 卷, 绕 / vt. 使滚动, 卷, 绕",
+"en": "n. a list of names / n. photographic film rolled up inside a container to protect it from light / n. anything rolled up …"
+},
+{
+"word": "latter",
+"pos": "a",
+"zh": "a. 后者的, 较后的, 近来的",
+"en": "n. the second of two or the second mentioned of two / a. referring to the second of two things or persons mentioned (or …"
+},
+{
+"word": "emerge",
+"pos": "vi",
+"zh": "vi. 浮现, 形成, 出现, (事实)显露",
+"en": "v. come out into view, as from concealment / v. become known or apparent / v. come up to the surface of or rise"
+},
+{
+"word": "screen",
+"pos": "n/vt/vi",
+"zh": "n. 幕, 银幕, 屏风, 掩蔽物, 屏蔽, 筛子 / vt. 掩蔽, 放映, 拍摄, 掩护, 筛, 甄别 / vi. 拍电影 / [计] 筛选; 屏幕",
+"en": "n. a white or silvered surface where pictures can be projected for viewing / n. the display that is electronically creat…"
+},
+{
+"word": "regional",
+"pos": "a",
+"zh": "a. 地方的, 地域性的 / [医] 区的, 部位的",
+"en": "a. characteristic of a region / s. related or limited to a particular region"
+},
+{
+"word": "resident",
+"pos": "n/a",
+"zh": "n. 居民, 常驻程序, 居住者, 留鸟 / a. 居留的, 定居的",
+"en": "n. someone who lives at a particular place for a prolonged period or who was born there / a. living in a particular plac…"
+}
+]

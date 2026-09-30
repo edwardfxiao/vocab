@@ -1,0 +1,602 @@
+[
+{
+"word": "camel",
+"pos": "n",
+"zh": "n. 骆驼, 打捞浮筒",
+"en": "n. cud-chewing mammal used as a draft or saddle animal in desert regions"
+},
+{
+"word": "sinister",
+"pos": "a",
+"zh": "a. 不吉利的, 凶恶的, 左边的 / [医] 左的",
+"en": "s. on or starting from the wearer's left"
+},
+{
+"word": "diversion",
+"pos": "n",
+"zh": "n. 转移 / [医] 转向",
+"en": "n. an activity that diverts or amuses or stimulates / n. a turning aside (of your course or attention or concern) / n. a…"
+},
+{
+"word": "shipment",
+"pos": "n",
+"zh": "n. 装船, 出货 / [经] 运送, 运送(寄出)货物, 装载",
+"en": "n goods carried by a large vehicle / n the act of sending off something"
+},
+{
+"word": "farewell",
+"pos": "n/interj",
+"zh": "n. 辞别, 再见, 再会 / interj. 再会",
+"en": "n. an acknowledgment or expression of goodwill at parting / n. the act of departing politely"
+},
+{
+"word": "bitterness",
+"pos": "n",
+"zh": "n. 苦味, 悲痛, 怨恨",
+"en": "n. a rough and bitter manner / n. the property of having a harsh unpleasant taste"
+},
+{
+"word": "withstand",
+"pos": "vt",
+"zh": "vt. 抵住, 顶住, 经得起",
+"en": "v resist or confront with resistance / v stand up or offer resistance to somebody or something"
+},
+{
+"word": "irrigation",
+"pos": "n",
+"zh": "n. 灌溉, 冲洗 / [医] 冲洗法, 灌溉",
+"en": "n. supplying dry land with water by means of ditches etc / n. (medicine) cleaning a wound or body organ by flushing or w…"
+},
+{
+"word": "unstable",
+"pos": "a",
+"zh": "a. 不稳定的",
+"en": "a. lacking stability or fixity or firmness / s. highly or violently reactive / s. disposed to psychological variability"
+},
+{
+"word": "extinction",
+"pos": "n",
+"zh": "n. 消失, 消灭, 废止 / [化] 消光; 熄灭",
+"en": "n. no longer active; extinguished / n. no longer in existence / n. the reduction of the intensity of radiation as a cons…"
+},
+{
+"word": "rein",
+"pos": "n/vt/vi",
+"zh": "n. 缰绳, 统治, 支配 / vt. 驾驭, 以缰绳控制, 控制 / vi. 勒住马",
+"en": "n. one of a pair of long straps (usually connected to the bit or the headpiece) used to control a horse / n. any means o…"
+},
+{
+"word": "helper",
+"pos": "n",
+"zh": "n. 帮忙者, 有益的东西 / [机] 助手",
+"en": "n a person who contributes to the fulfillment of a need or furtherance of an effort or purpose / n a person who helps pe…"
+},
+{
+"word": "cabbage",
+"pos": "n",
+"zh": "n. 卷心菜 / [医] 卷心菜, 甘兰",
+"en": "n. any of various types of cabbage / n. any of various cultivars of the genus Brassica oleracea grown for their edible l…"
+},
+{
+"word": "slack",
+"pos": "n/a/adv/vt/vi",
+"zh": "n. 松弛, 松懈, 淡季, 闲散, 家常裤 / a. 松弛的, 不流畅的, 疏忽的, 无力的, 呆滞的, 软弱的, 漏水的 / adv. 马虎地, 缓慢地 / vt. 放松, 使…",
+"en": "n. dust consisting of a mixture of small coal fragments and coal dust and dirt that sifts out when coal is passed over a…"
+},
+{
+"word": "suffice",
+"pos": "vi/vt",
+"zh": "vi. 足够, 有能力 / vt. 满足",
+"en": "v. be sufficient; be adequate, either in quality or quantity"
+},
+{
+"word": "impetus",
+"pos": "n",
+"zh": "n. 动力, 推动力, 动量 / [医] 冲动, 动能, 起始(病)",
+"en": "n a force that moves something along / n the act of applying force suddenly"
+},
+{
+"word": "lumber",
+"pos": "n/vt/vi",
+"zh": "n. 木材, 破旧家俱, 废物, 隆隆声 / vt. 砍伐木材, 乱堆 / vi. 笨拙地移动, 喧闹地向前走, 隆隆地移动",
+"en": "n. the wood of trees cut and prepared for use as building material / v. move heavily or clumsily"
+},
+{
+"word": "harmless",
+"pos": "a",
+"zh": "a. 无害处的, 未受损害的, 无辜的, 无恶意的 / [法] 无害的, 无恶意的, 无损害的",
+"en": "a. not causing or capable of causing harm"
+},
+{
+"word": "glossy",
+"pos": "a",
+"zh": "a. 平滑的, 有光泽的",
+"en": "n. a photograph that is printed on smooth shiny paper / s. (of paper and fabric and leather) having a surface made smoot…"
+},
+{
+"word": "gloomy",
+"pos": "a",
+"zh": "a. 抑沉的, 忧闷的, 黑暗的, 悲观的",
+"en": "s. filled with melancholy and despondency"
+},
+{
+"word": "prevalent",
+"pos": "a",
+"zh": "a. 普遍的, 流行的",
+"en": "s most frequent or common"
+},
+{
+"word": "benign",
+"pos": "a",
+"zh": "a. 善良的, 良性的 / [医] 良性的",
+"en": "a. not dangerous to health; not recurrent or progressive (especially of a tumor) / a. pleasant and beneficial in nature …"
+},
+{
+"word": "climax",
+"pos": "n/v",
+"zh": "n. 高潮, 极点, 层进法 / v. (使)达到顶点, (使)达到高潮",
+"en": "n. the highest point of anything conceived of as growing or developing or unfolding / n. the decisive moment in a novel …"
+},
+{
+"word": "systematically",
+"pos": "adv",
+"zh": "adv. 有系统地, 有组织地, 有条理地",
+"en": "r. in a systematic or consistent manner"
+},
+{
+"word": "selfish",
+"pos": "a",
+"zh": "a. 自私的, 利己主义的, 自我中心的",
+"en": "a. concerned chiefly or only with yourself and your advantage to the exclusion of others"
+},
+{
+"word": "kidnap",
+"pos": "vt",
+"zh": "vt. 绑架, 诱拐, 拐骗 / [法] 拐带, 诱拐, 绑架",
+"en": "v. take away to an undisclosed location against their will and usually in order to extract a ransom"
+},
+{
+"word": "renowned",
+"pos": "a",
+"zh": "a. 有名的, 有声誉的",
+"en": "s widely known and esteemed"
+},
+{
+"word": "imitation",
+"pos": "n",
+"zh": "n. 模仿, 效法, 冒充, 赝品 / [医] 模仿, 仿制, 仿制品",
+"en": "n. the doctrine that representations of nature or human behavior should be accurate imitations / n. something copied or …"
+},
+{
+"word": "harden",
+"pos": "vt/vi",
+"zh": "vt. 使变硬, 使坚强, 使冷酷 / vi. 变硬, 变冷酷",
+"en": "v. become hard or harder / v. make hard or harder"
+},
+{
+"word": "rugged",
+"pos": "a",
+"zh": "a. 高低不平的, 崎岖的, 粗糙的",
+"en": "a. sturdy and strong in constitution or construction; enduring / s. very difficult; severely testing stamina or resoluti…"
+},
+{
+"word": "apt",
+"pos": "a",
+"zh": "a. 有...倾向的, 易于的, 恰当的, 聪明的 / [计] 自动数控语言, 自动图象传输, 自动程序控制, 自动程序设计工具",
+"en": "s. (usually followed by `to') naturally disposed toward / s. at risk of or subject to experiencing something usually unp…"
+},
+{
+"word": "earnest",
+"pos": "n/a",
+"zh": "n. 定金, 诚挚, 认真 / a. 认真的, 热心的, 重要的",
+"en": "n. something of value given by one person to another to bind a contract / s. characterized by a firm and humorless belie…"
+},
+{
+"word": "kindness",
+"pos": "n",
+"zh": "n. 仁慈, 亲切, 和蔼",
+"en": "n. the quality of being warmhearted and considerate and humane and sympathetic / n. a kind act"
+},
+{
+"word": "hurl",
+"pos": "n/vt/vi",
+"zh": "n. 用力的投掷 / vt. 用力投掷, 发射, 愤慨地说出, 丢下 / vi. 猛投, 猛掷",
+"en": "n. a violent throw / v. throw forcefully / v. utter with force; utter vehemently"
+},
+{
+"word": "grievance",
+"pos": "n",
+"zh": "n. 委屈, 冤情, 苦况 / [经] 不满(对雇用条件的)",
+"en": "n. an allegation that something imposes an illegal obligation or denies some legal right or causes injustice / n. a comp…"
+},
+{
+"word": "optimal",
+"pos": "a",
+"zh": "a. 最佳的, 最理想的 / [化] 最优的",
+"en": "s most desirable possible under a restriction expressed or implied"
+},
+{
+"word": "discontent",
+"pos": "n",
+"zh": "n. 不满",
+"en": "v. make dissatisfied"
+},
+{
+"word": "uneven",
+"pos": "a",
+"zh": "a. 不平坦的, 不均等的, 奇数的",
+"en": "a. not even or uniform as e.g. in shape or texture / s. variable and recurring at irregular intervals"
+},
+{
+"word": "preclude",
+"pos": "vt",
+"zh": "vt. 预先排除, 预防, 阻止, 妨碍 / [法] 预防, 排除, 消除",
+"en": "v. make impossible, especially beforehand"
+},
+{
+"word": "staple",
+"pos": "n/a/vt",
+"zh": "n. 主要产物, 常用品, 主要要素, 原料, 订书钉, 钩环 / a. 主要的, 重要的 / vt. 分级, 钉住",
+"en": "n. a natural fiber (raw cotton, wool, hemp, flax) that can be twisted to form yarn / n. a short U-shaped wire nail for s…"
+},
+{
+"word": "annoyed",
+"pos": "a",
+"zh": "a. 恼怒的；烦闷的",
+"en": "s. aroused to impatience or anger / s. troubled persistently especially with petty annoyances"
+},
+{
+"word": "autobiography",
+"pos": "n",
+"zh": "n. 自传",
+"en": "n. a biography of yourself"
+},
+{
+"word": "stagger",
+"pos": "n/vi/vt/a",
+"zh": "n. 蹒跚, 踌躇 / vi. 蹒跚, 犹豫 / vt. 使摇摆, 使踌躇, 交错, 错开 / a. 交错的, 错开的",
+"en": "v. walk as if unable to control one's movements / v. walk with great difficulty / v. to arrange in a systematic order / …"
+},
+{
+"word": "irregular",
+"pos": "n/a",
+"zh": "n. 不规则物, 不合规格之物 / a. 不规则的, 不整齐的, 不合法的",
+"en": "n. merchandise that has imperfections; usually sold at a reduced price without the brand name / a. contrary to rule or a…"
+},
+{
+"word": "hollow",
+"pos": "n/a/vi/vt",
+"zh": "n. 洞, 窟窿, 山谷 / a. 空的, 虚伪的, 空腹的, 凹的 / vi. 形成空洞 / vt. 挖空",
+"en": "n. a cavity or space in something / n. a small valley between mountains / v. remove the interior of / a. not solid; havi…"
+},
+{
+"word": "halve",
+"pos": "vt",
+"zh": "vt. 二等分, 对半分享, 把...减半",
+"en": "v. divide by two; divide into halves"
+},
+{
+"word": "rinse",
+"pos": "n/vt/vi",
+"zh": "n. 清洗, 染发, 染发剂 / vt. 以清水冲洗, 漱, 漂清 / vi. 被漂净",
+"en": "n. a liquid preparation used on wet hair to give it a tint / n. the removal of soap with clean water in the final stage …"
+},
+{
+"word": "alas",
+"pos": "interj",
+"zh": "interj. 唉",
+"en": "n a flat wing-shaped process or winglike part of an organism / n a wing of an insect / r by bad luck"
+},
+{
+"word": "interpersonal",
+"pos": "a",
+"zh": "a. 人与人之间的, 人际(关系)的 / [法] 人与人之间的, 需要与他人接触的",
+"en": "s. occurring among or involving several people"
+},
+{
+"word": "lavatory",
+"pos": "n",
+"zh": "n. 洗脸盆, 厕所",
+"en": "n a room or building equipped with one or more toilets / n a bathroom sink that is permanently installed and connected t…"
+},
+{
+"word": "coarse",
+"pos": "a",
+"zh": "a. 粗糙的, 下等的, 粗俗的 / [计] 粗略的",
+"en": "a. of textures that are rough to the touch or substances consisting of relatively large particles / s. lacking refinemen…"
+},
+{
+"word": "chiefly",
+"pos": "adv",
+"zh": "adv. 主要地",
+"en": "r. for the most part"
+},
+{
+"word": "hare",
+"pos": "n/vi",
+"zh": "n. 野兔 / vi. 飞跑",
+"en": "n. swift timid long-eared mammal larger than a rabbit having a divided upper lip and long hind legs; young born furred a…"
+},
+{
+"word": "relentless",
+"pos": "a",
+"zh": "a. 无情的, 冷酷的, 残酷的",
+"en": "s not to be placated or appeased or moved by entreaty / s never-ceasing"
+},
+{
+"word": "donkey",
+"pos": "n",
+"zh": "n. 驴子, 笨蛋, 顽固者, 辅助发动机, 辅助泵",
+"en": "n. the symbol of the Democratic Party; introduced in cartoons by Thomas Nast in 1874"
+},
+{
+"word": "crumble",
+"pos": "v",
+"zh": "v. (使)粉碎, (使)成为碎屑, 瓦解, 崩溃, 败落",
+"en": "v. fall apart / v. break or fall apart into fragments"
+},
+{
+"word": "canopy",
+"pos": "n/vt",
+"zh": "n. 天篷, 遮篷, 苍穹 / vt. 用天蓬遮盖",
+"en": "n. the transparent covering of an aircraft cockpit / n. the umbrellalike part of a parachute that fills with air / n. a …"
+},
+{
+"word": "certify",
+"pos": "v",
+"zh": "v. 证明, 保证",
+"en": "v. guarantee payment on; of checks / v. guarantee as meeting a certain standard / v. declare legally insane"
+},
+{
+"word": "impatient",
+"pos": "a",
+"zh": "a. 不耐烦的, 着急的, 急切的",
+"en": "a. restless or short-tempered under delay or opposition / s. (usually followed by `to') full of eagerness"
+},
+{
+"word": "merchandise",
+"pos": "n/v",
+"zh": "n. 商品, 货物 / v. 交易, 买卖",
+"en": "n. commodities offered for sale"
+},
+{
+"word": "oriental",
+"pos": "n/a",
+"zh": "n. 东方人, 亚洲人 / a. 东方诸国的, 亚洲的, 东方的",
+"en": "n. a member of an Oriental race; the term is regarded as offensive by Asians (especially by Asian Americans) / s. denoti…"
+},
+{
+"word": "periodically",
+"pos": "adv",
+"zh": "adv. 定期, 循环, 间歇, 周期, 定期刊行, 期刊",
+"en": "r in a sporadic manner"
+},
+{
+"word": "maternal",
+"pos": "a",
+"zh": "a. 母亲的, 母系的, 母方的 / [医] 属母的, 母的, 母性的",
+"en": "a. characteristic of a mother / a. relating to or derived from one's mother"
+},
+{
+"word": "deception",
+"pos": "n",
+"zh": "n. 欺骗, 诡计 / [法] 瞒骗, 诈欺, 欺骗",
+"en": "n. the act of deceiving"
+},
+{
+"word": "herald",
+"pos": "n/vt",
+"zh": "n. 使者, 传令官, 先驱 / vt. 预报, 宣布, 传达, 欢呼",
+"en": "n. (formal) a person who announces important news"
+},
+{
+"word": "workman",
+"pos": "n",
+"zh": "n. 工人, 工匠, 男工",
+"en": "n. an employee who performs manual or industrial labor"
+},
+{
+"word": "blunt",
+"pos": "a",
+"zh": "a. 钝的, 坦率的, 麻痹的",
+"en": "v. make less intense / v. make less sharp / s. having a broad or rounded end / s. used of a knife or other blade; not sh…"
+},
+{
+"word": "incorrect",
+"pos": "a",
+"zh": "a. 不正确的 / [法] 不正确, 错误的, 不适当的",
+"en": "a. not correct; not in conformity with fact or truth / s. (of a word or expression) not agreeing with grammatical princi…"
+},
+{
+"word": "excel",
+"pos": "vt/vi",
+"zh": "vt. 胜过, 优于, 擅长 / vi. 胜过其他",
+"en": "v. distinguish oneself"
+},
+{
+"word": "axe",
+"pos": "n/vt",
+"zh": "n. 斧, 斧头 / vt. 削减(人员、经费、计划、机构等)",
+"en": "v. chop or split with an ax"
+},
+{
+"word": "fungus",
+"pos": "n",
+"zh": "n. 真菌, 真菌类植物 / [医] 真菌, 霉菌, , 蕈, 海绵肿",
+"en": "n. an organism of the kingdom Fungi lacking chlorophyll and feeding on organic matter; ranging from unicellular or multi…"
+},
+{
+"word": "accidentally",
+"pos": "adv",
+"zh": "adv. 偶然地, 意外地",
+"en": "r without advance planning / r of a minor or subordinate nature / r without intention; in an unintentional manner"
+},
+{
+"word": "astronomical",
+"pos": "a",
+"zh": "a. 天文学的, 庞大的",
+"en": "a relating or belonging to the science of astronomy / s inconceivably large"
+},
+{
+"word": "graze",
+"pos": "n/v",
+"zh": "n. 吃草, 放牧, 擦伤, 轻擦 / v. (使)吃草, 放牧, 轻擦, 擦伤",
+"en": "n. a superficial abrasion / n. the act of grazing / v. break the skin (of a body part) by scraping / v. scrape gently"
+},
+{
+"word": "cautiously",
+"pos": "adv",
+"zh": "adv. 慎重地",
+"en": "r. as if with kid gloves; with caution or prudence or tact"
+},
+{
+"word": "hue",
+"pos": "n",
+"zh": "n. 样子, 色度, 色彩, 叫声, 色调 / [计] 色调",
+"en": "n. the quality of a color as determined by its dominant wavelength / v. take on color or become colored"
+},
+{
+"word": "triple",
+"pos": "n/a/vt/vi",
+"zh": "n. 三倍数, 三个一组 / a. 三倍的 / vt. 使增至三倍 / vi. 增至三倍",
+"en": "n. a base hit at which the batter stops safely at third base / n. a quantity that is three times as great as another / v…"
+},
+{
+"word": "compass",
+"pos": "n/vt",
+"zh": "n. 指南针, 范围, 音域 / vt. 包围, 达到, 图谋, 理解",
+"en": "n. navigational instrument for finding directions / n. the limit of capability / n. drafting instrument used for drawing…"
+},
+{
+"word": "beginner",
+"pos": "n",
+"zh": "n. 初学者",
+"en": "n someone new to a field or activity / n a person who founds or establishes some institution"
+},
+{
+"word": "spacious",
+"pos": "a",
+"zh": "a. 广大的, 宽广的",
+"en": "s very large in expanse or scope / s (of buildings and rooms) having ample space"
+},
+{
+"word": "canteen",
+"pos": "n",
+"zh": "n. 水壶, 军中俱乐部, 临时流动餐馆, 小卖部",
+"en": "n. a flask for carrying water; used by soldiers or travelers / n. sells food and personal items to personnel at an insti…"
+},
+{
+"word": "intercept",
+"pos": "n/vt",
+"zh": "n. 截取, 妨碍, 截距 / vt. 拦截, 阻止, 截取",
+"en": "n. the point at which a line intersects a coordinate axis / v. seize on its way"
+},
+{
+"word": "postal",
+"pos": "a",
+"zh": "a. 邮政的, 邮局的 / [经] 邮政的",
+"en": "a. of or relating to the system for delivering mail"
+},
+{
+"word": "acceleration",
+"pos": "n",
+"zh": "n. 加速, 促进, 加速度 / [化] 加速度",
+"en": "n. an increase in rate of change / n. the act of accelerating; increasing the speed / n. (physics) a rate of increase of…"
+},
+{
+"word": "simplify",
+"pos": "vt",
+"zh": "vt. 单一化, 简单化",
+"en": "v. make simpler or easier or reduce in complexity or extent"
+},
+{
+"word": "cafeteria",
+"pos": "n",
+"zh": "n. 自助餐厅 / [经] 自助餐厅",
+"en": "n. a restaurant where you serve yourself and pay a cashier"
+},
+{
+"word": "restless",
+"pos": "a",
+"zh": "a. 不安静的, 慌张的, 休息不充分的 / [医] 不安静的, 不宁的",
+"en": "s. worried and uneasy / s. ceaselessly in motion / a. lacking or not affording physical or mental rest"
+},
+{
+"word": "honorable",
+"pos": "a",
+"zh": "a. 值得尊敬的, 荣耀的, 高贵的",
+"en": "a. worthy of being honored; entitled to honor and respect"
+},
+{
+"word": "filthy",
+"pos": "a",
+"zh": "a. 污秽的, 丑恶的",
+"en": "s. disgustingly dirty; filled or smeared with offensive matter"
+},
+{
+"word": "pave",
+"pos": "vt",
+"zh": "vt. 铺设, 安排, 铺满, 为...铺路 / [化] 铺设",
+"en": "n. a setting with precious stones so closely set that no metal shows / v. cover with a material such as stone or concret…"
+},
+{
+"word": "contingency",
+"pos": "n",
+"zh": "n. 偶然性, 可能性, 意外事故 / [经] 意外事故, 意外开支, 偶然事故",
+"en": "n. the state of being contingent on something"
+},
+{
+"word": "fry",
+"pos": "n/v",
+"zh": "n. 油炸食物, 鱼苗 / v. 油炸, 煎",
+"en": "n. English painter and art critic (1866-1934) / n. English dramatist noted for his comic verse dramas (born 1907) / v. b…"
+},
+{
+"word": "glide",
+"pos": "n/vi/vt",
+"zh": "n. 滑动, 滑过, 流水 / vi. 滑动, 滑翔, 溜走, 流逝 / vt. 使滑动",
+"en": "n. the activity of flying a glider / v. move smoothly and effortlessly / v. fly in or as if in a glider plane / v. cause…"
+},
+{
+"word": "radius",
+"pos": "n",
+"zh": "n. 半径, 范围, 辐射光线 / [电] 半径",
+"en": "n. the length of a line segment between the center and circumference of a circle or sphere / n. a straight line from the…"
+},
+{
+"word": "infectious",
+"pos": "a",
+"zh": "a. 有传染性的, 易传染的 / [医] 传染性的",
+"en": "s. caused by infection or capable of causing infection / a. easily spread; children catch it from their elders\"- Bertran…"
+},
+{
+"word": "hymn",
+"pos": "n/v",
+"zh": "n. 赞美诗, 圣歌 / v. 唱赞美歌",
+"en": "n. a song of praise (to God or to a saint or to a nation) / v. sing a hymn / v. praise by singing a hymn"
+},
+{
+"word": "nervously",
+"pos": "adv",
+"zh": "adv. 焦急地；神经质地；提心吊胆地",
+"en": "r. in an anxiously nervous manner / r. with nervous excitement"
+},
+{
+"word": "infrared",
+"pos": "a/n",
+"zh": "a. 红外线的 / n. 红外线",
+"en": "n. the infrared region of the electromagnetic spectrum; electromagnetic wave frequencies below the visible range / n. el…"
+},
+{
+"word": "novice",
+"pos": "n",
+"zh": "n. 新手, 初学者",
+"en": "n. someone new to a field or activity"
+},
+{
+"word": "plaza",
+"pos": "n",
+"zh": "n. 广场, 市场, 购物区",
+"en": "n. a public square with room for pedestrians / n. mercantile establishment consisting of a carefully landscaped complex …"
+}
+]

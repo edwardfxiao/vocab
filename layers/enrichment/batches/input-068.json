@@ -1,0 +1,602 @@
+[
+{
+"word": "emanate",
+"pos": "vi",
+"zh": "vi. 散发, 发出, 发源",
+"en": "v. proceed or issue forth, as from a source"
+},
+{
+"word": "disapprove",
+"pos": "v",
+"zh": "v. 不赞成",
+"en": "v. consider bad or wrong / v. deem wrong or inappropriate"
+},
+{
+"word": "lash",
+"pos": "n/vt/vi",
+"zh": "n. 鞭子, 鞭打, 睫毛, 责骂, 讽刺 / vt. 鞭打, 摆动, 扎捆, 冲击, 讽刺, 煽动 / vi. 冲洗, 鞭打, 责骂",
+"en": "n. leather strip that forms the flexible part of a whip / v. lash or flick about sharply / v. bind with a rope, chain, o…"
+},
+{
+"word": "commonplace",
+"pos": "n/a",
+"zh": "n. 寻常事, 老生常谈, 普通的东西 / a. 平凡的, 普通的",
+"en": "s. completely ordinary and unremarkable / s. not challenging; dull and lacking excitement"
+},
+{
+"word": "abide",
+"pos": "vi/vt",
+"zh": "vi. 停留, 遵守, 居留, 继续下去 / vt. 忍受, 经受, 屈从于",
+"en": "v dwell / v put up with something or somebody unpleasant"
+},
+{
+"word": "refrain",
+"pos": "n/vi",
+"zh": "n. 重复的话, 叠句, 副歌 / vi. 节制, 避免, 克制",
+"en": "n. the part of a song where a soloist is joined by a group of singers / v. resist doing something"
+},
+{
+"word": "mislead",
+"pos": "vt",
+"zh": "vt. 误导",
+"en": "v. lead someone in the wrong direction or give someone wrong directions"
+},
+{
+"word": "mar",
+"pos": "vt/n",
+"zh": "vt. 损毁, 损伤, 糟蹋 / n. 三月",
+"en": "v. make imperfect"
+},
+{
+"word": "brilliantly",
+"pos": "adv",
+"zh": "adv. 辉煌地, 光亮地, 灿烂地",
+"en": "r. with brightness / r. in an extremely intelligent way"
+},
+{
+"word": "ration",
+"pos": "n/vt",
+"zh": "n. 定额, 定量, 配给 / vt. 配给, 定量供应",
+"en": "n. the food allowance for one day (especially for service personnel) / n. a fixed portion that is allotted (especially i…"
+},
+{
+"word": "envy",
+"pos": "n/vt",
+"zh": "n. 羡慕, 嫉妒 / vt. 羡慕, 嫉妒",
+"en": "n. a feeling of grudging admiration and desire to have something that is possessed by another / n. spite and resentment …"
+},
+{
+"word": "evade",
+"pos": "v",
+"zh": "v. (巧妙地)逃脱, 规避, 逃避",
+"en": "v. practice evasion / v. use cunning or deceit to escape or avoid"
+},
+{
+"word": "tasty",
+"pos": "a",
+"zh": "a. 好吃的, 可口的",
+"en": "a. pleasing to the sense of taste"
+},
+{
+"word": "insignificant",
+"pos": "a",
+"zh": "a. 无关紧要的, 无意义的, 琐碎的",
+"en": "s. not worthy of notice / s. signifying nothing / s. of little importance or influence or power; of minor status / a. de…"
+},
+{
+"word": "forefront",
+"pos": "n",
+"zh": "n. 最前部, 最前线",
+"en": "n. the part in the front or nearest the viewer"
+},
+{
+"word": "haircut",
+"pos": "n",
+"zh": "n. 理发, (男子的)发式",
+"en": "n. the style in which hair has been cut / n. the act of cutting the hair"
+},
+{
+"word": "devour",
+"pos": "vt",
+"zh": "vt. 吞食, 挥霍, 吞没",
+"en": "v. destroy completely / v. enjoy avidly / v. eat immoderately / v. eat greedily"
+},
+{
+"word": "willingly",
+"pos": "adv",
+"zh": "adv. 自动地, 欣然地",
+"en": "r. in a willing manner"
+},
+{
+"word": "sophistication",
+"pos": "n",
+"zh": "n. 诡辩, 老于世故, 复杂(性) / [医] 掺假",
+"en": "n. being expert or having knowledge of some technical subject / n. the quality or character of being intellectually soph…"
+},
+{
+"word": "misfortune",
+"pos": "n",
+"zh": "n. 不幸, 灾祸, 坏运气 / [法] 不幸事故, 不幸, 灾祸",
+"en": "n. unnecessary and unforeseen trouble resulting from an unfortunate event / n. an unfortunate state resulting from unfav…"
+},
+{
+"word": "harness",
+"pos": "n/vt",
+"zh": "n. 马具, 挽具状带子, 甲胄 / vt. 给...上挽具, 驾驭, 披上甲胄, 利用...以产生动力",
+"en": "n. a support consisting of an arrangement of straps for holding something to the body (especially one supporting a perso…"
+},
+{
+"word": "economical",
+"pos": "a",
+"zh": "a. 节俭的, 经济的, 合算的 / [经] 经济的, 节约的",
+"en": "s. avoiding waste"
+},
+{
+"word": "thicken",
+"pos": "vi/vt",
+"zh": "vi. 变浓, 变厚, 变得模糊, 变为复杂 / vt. 使变厚, 加强, 使模糊",
+"en": "v. make thick or thicker / v. become thick or thicker / v. make viscous or dense"
+},
+{
+"word": "despatch",
+"pos": "v/n",
+"zh": "v. 派遣 / n. 派遣",
+"en": "n an official report (usually sent in haste) / n the property of being prompt and efficient / n killing a person or anim…"
+},
+{
+"word": "adventurous",
+"pos": "a",
+"zh": "a. 喜欢冒险的, 有进取心的, 危险的",
+"en": "a. willing to undertake or seeking out new and daring enterprises"
+},
+{
+"word": "shopkeeper",
+"pos": "n",
+"zh": "n. 零售商, 店主, 老板",
+"en": "n. a merchant who owns or manages a shop"
+},
+{
+"word": "sever",
+"pos": "vt/vi",
+"zh": "vt. 切断, 脱离, 分开, 使分离, 断绝, 中断 / vi. 断, 裂开",
+"en": "v. set or keep apart"
+},
+{
+"word": "radiate",
+"pos": "vt/vi/a",
+"zh": "vt. 放射, 散发, 辐射, 传播, 广播 / vi. 发光, 辐射, 流露 / a. 有射线的, 辐射状的",
+"en": "v. send out rays or waves / v. send out real or metaphoric rays / v. extend or spread outward from a center or focus or …"
+},
+{
+"word": "pry",
+"pos": "n/vi/vt",
+"zh": "n. 杠杆, 窥探, 好奇者 / vi. 打听, 窥探 / vt. 撬动, 撬开, 费力得到",
+"en": "v. to move or force, especially in an effort to get something open / v. be nosey / v. make an uninvited or presumptuous …"
+},
+{
+"word": "denomination",
+"pos": "n",
+"zh": "n. 名称, 教派, 面额 / [经] 票面金额, 名称, (度量衡)",
+"en": "n. a group of religious congregations having its own organization and a distinctive faith / n. a class of one kind of un…"
+},
+{
+"word": "redeem",
+"pos": "vt",
+"zh": "vt. 赎回, 挽回, 恢复, 偿还, 补偿 / [经] 履行(契约), 买回, 赎回",
+"en": "v. restore the honor or worth of / v. to turn in (vouchers or coupons) and receive something in exchange / v. pay off (l…"
+},
+{
+"word": "hasten",
+"pos": "vt/vi",
+"zh": "vt. 催促, 加紧 / vi. 赶快, 急忙",
+"en": "v act or move at high speed / v move fast / v speed up the progress of; facilitate / v cause to occur rapidly"
+},
+{
+"word": "vividly",
+"pos": "adv",
+"zh": "adv. 鲜艳, 强烈, 明亮, 鲜明, 活泼, 有生气, 生动, 清晰, 逼真",
+"en": "r. in a vivid manner"
+},
+{
+"word": "humane",
+"pos": "a",
+"zh": "a. 有人情的, 人道的, 仁慈的",
+"en": "a. marked or motivated by concern with the alleviation of suffering / s. showing evidence of moral and intellectual adva…"
+},
+{
+"word": "extravagant",
+"pos": "a",
+"zh": "a. 奢侈的, 挥霍无度的, 浪费的",
+"en": "s. recklessly wasteful"
+},
+{
+"word": "grate",
+"pos": "n/vt",
+"zh": "n. 炉格, 炉篦, 炉栅, 火炉, 壁炉, 格栅 / vt. 装格栅于, 磨擦, 轧碎, 磨碎, 使焦急, 触怒, 使人烦躁, 刺激, 激怒 / vt.vi. 擦响, 发出刺耳的…",
+"en": "n. a frame of iron bars to hold a fire / n. a harsh rasping sound made by scraping something / n. a barrier that has par…"
+},
+{
+"word": "enthusiastically",
+"pos": "adv",
+"zh": "adv. 热心地, 狂热地",
+"en": "r. with enthusiasm; in an enthusiastic manner"
+},
+{
+"word": "metallic",
+"pos": "a",
+"zh": "a. 金属的, 含金属的, 产生金属的 / [经] 金属的",
+"en": "n. a fabric made of a yarn that is partly or entirely of metal / n. a yarn made partly or entirely of metal / a. contain…"
+},
+{
+"word": "boycott",
+"pos": "n/vt",
+"zh": "n. 联合抵制 / vt. 联合抵制",
+"en": "n. a group's refusal to have commercial dealings with some organization in protest against its policies / v. refuse to s…"
+},
+{
+"word": "skim",
+"pos": "vt/vi/n/a",
+"zh": "vt. 撇取浮沫, 略读, 掠过 / vi. 擦过, 浏览 / n. 脱脂乳, 擦过, 表层物 / a. 撇去浮沫的",
+"en": "n. a thin layer covering the surface of a liquid / n. reading or glancing through quickly / v. cause to skip over a surf…"
+},
+{
+"word": "upheaval",
+"pos": "n",
+"zh": "n. 举起, 隆起, 大变动, 剧变",
+"en": "n. (geology) a rise of land to a higher elevation (as in the process of mountain building)"
+},
+{
+"word": "disgrace",
+"pos": "n/vt",
+"zh": "n. 耻辱, 不名誉 / vt. 使受耻辱, 使失体面",
+"en": "n a state of dishonor / v bring shame or dishonor upon / v reduce in worth or character, usually verbally / v damage the…"
+},
+{
+"word": "defer",
+"pos": "vi/vt",
+"zh": "vi. 推迟, 延期, 听从 / vt. 使推迟, 使延期",
+"en": "v hold back to a later time / v yield to another's wish or opinion"
+},
+{
+"word": "curtail",
+"pos": "vt",
+"zh": "vt. 缩减, 剥夺, 简略 / [法] 剥夺特权",
+"en": "v place restrictions on / v terminate or abbreviate before its intended or proper end or its full extent"
+},
+{
+"word": "relinquish",
+"pos": "vt",
+"zh": "vt. 放弃, 撤回, 停止, 松开, 让与 / [法] 让与, 把...交给, 放弃",
+"en": "v part with a possession or right / v do without or cease to hold or adhere to / v turn away from; give up / v release, …"
+},
+{
+"word": "dispel",
+"pos": "vt",
+"zh": "vt. 驱散, 驱逐",
+"en": "v force to go away; used both with concrete and metaphoric meanings / v to cause to separate and go in different directi…"
+},
+{
+"word": "granddaughter",
+"pos": "n",
+"zh": "n. 孙女, 外孙女",
+"en": "n. a female grandchild"
+},
+{
+"word": "derelict",
+"pos": "a/n",
+"zh": "a. 被抛弃了的, 无主的, 玩忽职守的 / n. 遗弃物, 被遗弃的人, 玩忽职守者",
+"en": "n. a person without a home, job, or property / s. failing in what duty requires"
+},
+{
+"word": "unlucky",
+"pos": "a",
+"zh": "a. 不吉利的, 不祥的, 不幸的",
+"en": "a. having or bringing misfortune"
+},
+{
+"word": "contingent",
+"pos": "a/n",
+"zh": "a. 或许发生的, 附随的, 偶然发生的 / n. 偶然事件, 分遣队",
+"en": "n. a gathering of persons representative of some larger group / n. a temporary military unit / s. possible but not certa…"
+},
+{
+"word": "refrigerate",
+"pos": "vt",
+"zh": "vt. 使冷却, 使清凉, 冷藏 / [机] 冷冻",
+"en": "v. preserve by chilling / v. cool or chill in or as if in a refrigerator"
+},
+{
+"word": "overhear",
+"pos": "vt",
+"zh": "vt. 无意中听到, 偷听",
+"en": "v hear, usually without the knowledge of the speakers"
+},
+{
+"word": "gracious",
+"pos": "a",
+"zh": "a. 亲切的, 慈善的",
+"en": "a. characterized by charm, good taste, and generosity of spirit / s. disposed to bestow favors"
+},
+{
+"word": "outweigh",
+"pos": "vt",
+"zh": "vt. 比...重, 比...重要, 比...有价值",
+"en": "v. be heavier than"
+},
+{
+"word": "continuum",
+"pos": "n",
+"zh": "n. 连续统一体, 连续统, 闭联集 / [化] 连续区; 连续谱; 连续介质",
+"en": "n. a continuous nonspatial whole or extent or succession in which no part or portion is distinct or distinguishable from…"
+},
+{
+"word": "indispensable",
+"pos": "n/a",
+"zh": "n. 不可缺少之物 / a. 不可缺少的, 责无旁贷的, 绝对必要的",
+"en": "a. not to be dispensed with; essential / s. unavoidable"
+},
+{
+"word": "generously",
+"pos": "adv",
+"zh": "adv. 宽大地；慷慨地；丰盛地",
+"en": "r in a generous manner"
+},
+{
+"word": "admirable",
+"pos": "a",
+"zh": "a. 可钦佩的, 极好的, 令人惊奇的",
+"en": "s. deserving of the highest esteem or admiration / s. inspiring admiration or approval"
+},
+{
+"word": "entertainer",
+"pos": "n",
+"zh": "n. 表演娱乐节目的人, 演艺人员",
+"en": "n. a person who tries to please or amuse"
+},
+{
+"word": "diversify",
+"pos": "vt",
+"zh": "vt. 使多样化, 使变化",
+"en": "v. make (more) diverse / v. spread into new habitats and produce variety or variegate / v. vary in order to spread risk …"
+},
+{
+"word": "rejoice",
+"pos": "vt/vi",
+"zh": "vt. 使欢喜 / vi. 欣喜, 高兴, 庆祝",
+"en": "v. feel happiness or joy"
+},
+{
+"word": "prudent",
+"pos": "a",
+"zh": "a. 审慎的, 三思而后行的, 精明的, 节俭的",
+"en": "a. careful and sensible; marked by sound judgment"
+},
+{
+"word": "outwards",
+"pos": "adv",
+"zh": "adv. 向外地",
+"en": "r toward the outside"
+},
+{
+"word": "overthrow",
+"pos": "n/vt",
+"zh": "n. 推翻, 瓦解, 倾覆 / vt. 打倒, 推翻, 倾覆",
+"en": "n. the termination of a ruler or institution (especially by force) / v. cause the downfall of; of rulers"
+},
+{
+"word": "doctorate",
+"pos": "n",
+"zh": "n. 博士头衔",
+"en": "n one of the highest earned academic degrees conferred by a university"
+},
+{
+"word": "grumble",
+"pos": "n/vi/vt",
+"zh": "n. 怨言, 满腹牢骚 / vi. 抱怨, 发牢骚, 发隆隆声 / vt. 抱怨",
+"en": "n. a complaint uttered in a low and indistinct tone / v. to utter or emit low dull rumbling sounds"
+},
+{
+"word": "abrupt",
+"pos": "a",
+"zh": "a. 突然的, 唐突的, 陡峭的, 不连贯的",
+"en": "s. marked by sudden changes in subject and sharp transitions / s. exceedingly sudden and unexpected / s. extremely steep…"
+},
+{
+"word": "quake",
+"pos": "vi/n",
+"zh": "vi. 颤抖, 地震 / n. 颤抖, 地震",
+"en": "n shaking and vibration at the surface of the earth resulting from underground movement along a fault plane of from volc…"
+},
+{
+"word": "reckless",
+"pos": "a",
+"zh": "a. 不介意的, 大意的, 鲁莽的, 不顾后果的 / [法] 不注意的, 粗心大意的, 鲁莽的",
+"en": "s marked by defiant disregard for danger or consequences / s characterized by careless unconcern"
+},
+{
+"word": "partition",
+"pos": "n/vt",
+"zh": "n. 分割, 隔离物, 隔墙, 财产分割 / vt. 区分, 瓜分, 隔开, 分割 / [计] 分区; 划分",
+"en": "n. a vertical structure that divides or separates (as a wall divides one room from another) / n. (computer science) the …"
+},
+{
+"word": "luxurious",
+"pos": "a",
+"zh": "a. 豪华的, 奢侈的, 放纵的",
+"en": "s displaying luxury and furnishing gratification to the senses / s rich and superior in quality"
+},
+{
+"word": "dazzling",
+"pos": "a",
+"zh": "a. 眼花缭乱的, 耀眼的",
+"en": "s. amazingly impressive; suggestive of the flashing of lightning"
+},
+{
+"word": "vengeance",
+"pos": "n",
+"zh": "n. 复仇, 报仇 / [法] 报仇, 复仇",
+"en": "n. the act of taking revenge (harming someone in retaliation for something harmful that they have done) especially in th…"
+},
+{
+"word": "slum",
+"pos": "n/vi",
+"zh": "n. 贫民窟 / vi. 访问贫民区",
+"en": "n. a district of a city marked by poverty and inferior living conditions / v. spend time at a lower socio-economic level…"
+},
+{
+"word": "replica",
+"pos": "n",
+"zh": "n. 复制品 / [计] 目录分区复制",
+"en": "n. copy that is not the original; something that has been copied"
+},
+{
+"word": "eradicate",
+"pos": "vt",
+"zh": "vt. 根除, 扑灭, 根绝, 消灭",
+"en": "v kill in large numbers / v destroy completely, as if down to the roots"
+},
+{
+"word": "athletics",
+"pos": "n",
+"zh": "n. 体育运动",
+"en": "n. participation in sports events as an extracurricular activity"
+},
+{
+"word": "condemnation",
+"pos": "n",
+"zh": "n. 非难, 宣告有罪, 非难的理由",
+"en": "n. (law) the act of condemning (as land forfeited for public use) or judging to be unfit for use (as a food product or a…"
+},
+{
+"word": "ape",
+"pos": "n",
+"zh": "n. 无尾猿 / [计] 应用程序评价",
+"en": "n. any of various primates with short tails or no tail at all / v. imitate uncritically and in every aspect"
+},
+{
+"word": "moth",
+"pos": "n",
+"zh": "n. 蛾害, 蛾, 乌头叶菜豆 / [医] 蠹, 蛾",
+"en": "n. typically crepuscular or nocturnal insect having a stout body and feathery or hairlike antennae"
+},
+{
+"word": "lighten",
+"pos": "vt/vi",
+"zh": "vt. 照亮, 点亮, 减轻, 使轻松, 闪出 / vi. 发亮, 打闪, 变轻",
+"en": "v. make more cheerful / v. reduce the weight on; make lighter / v. become more cheerful / v. become lighter"
+},
+{
+"word": "undue",
+"pos": "a",
+"zh": "a. 不适当的, 过度的, 未到期的 / [经] 未到(支付)期的",
+"en": "a. not yet payable / a. not appropriate or proper (or even legal) in the circumstances / s. lacking justification or aut…"
+},
+{
+"word": "sprint",
+"pos": "n/vi/vt",
+"zh": "n. 短距离赛跑 / vi. 全速跑, 冲刺 / vt. 全速跑过",
+"en": "v. run very fast, usually for a short distance"
+},
+{
+"word": "cheaply",
+"pos": "adv",
+"zh": "adv. 便宜地",
+"en": "r. in a cheap manner / r. with little expenditure of money"
+},
+{
+"word": "influx",
+"pos": "n",
+"zh": "n. 流入, 河口, 汇集 / [医] 注入, 流入",
+"en": "n the process of flowing in"
+},
+{
+"word": "greedy",
+"pos": "a",
+"zh": "a. 贪婪的, 贪得的, 贪吃的",
+"en": "s. wanting to eat or drink more than one can reasonably consume"
+},
+{
+"word": "terrifying",
+"pos": "a",
+"zh": "a. 令人恐惧的；骇人的；极大的",
+"en": "v fill with terror; frighten greatly / s causing extreme terror"
+},
+{
+"word": "ensue",
+"pos": "vi/vt",
+"zh": "vi. 跟着发生, 继起 / vt. 追求",
+"en": "v issue or terminate (in a specified way, state, etc.); end"
+},
+{
+"word": "emulate",
+"pos": "vt",
+"zh": "vt. 效法, 尽力赶上, 同...竞争 / [计] 仿真",
+"en": "v. strive to equal or match, especially by imitating / v. imitate the function of (another system), as by modifying the …"
+},
+{
+"word": "banish",
+"pos": "vt",
+"zh": "vt. 驱逐, 消除 / [法] 驱逐, 流放",
+"en": "v. expel from a community or group / v. ban from a place of residence, as for punishment / v. expel, as if by official d…"
+},
+{
+"word": "augment",
+"pos": "v",
+"zh": "v. 增加, 增长 / [计] 增加; 增量; 添加",
+"en": "v. enlarge or increase / v. grow or intensify"
+},
+{
+"word": "abandonment",
+"pos": "n",
+"zh": "n. 放弃, 抛弃, 放纵 / [经] 委付, 废弃, 放弃(采矿权)",
+"en": "n. the act of giving something up / n. the voluntary surrender of property (or a right to property) without attempting t…"
+},
+{
+"word": "starvation",
+"pos": "n",
+"zh": "n. 饥饿, 饿死 / [医] 绝食, 饥锇(指长时期的)",
+"en": "n. a state of extreme hunger resulting from lack of essential nutrients over a prolonged period / n. the act of deprivin…"
+},
+{
+"word": "outward",
+"pos": "a/adv",
+"zh": "a. 向外的, 表面的, 外服的 / adv. 向外, 在外, 表面",
+"en": "a. relating to physical reality rather than with thoughts or the mind / r. toward the outside"
+},
+{
+"word": "solemn",
+"pos": "a",
+"zh": "a. 严肃的, 郑重的, 庄严的",
+"en": "s dignified and somber in manner or character and committed to keeping promises / s characterized by a firm and humorles…"
+},
+{
+"word": "supernatural",
+"pos": "a",
+"zh": "a. 超自然的, 神奇的 / [医] 超自然的",
+"en": "n. supernatural forces and events and beings collectively / a. not existing in nature or subject to explanation accordin…"
+},
+{
+"word": "allude",
+"pos": "vi",
+"zh": "vi. 暗指, 提及",
+"en": "v. make a more or less disguised reference to"
+},
+{
+"word": "epic",
+"pos": "n/a",
+"zh": "n. 史诗, 叙事诗 / a. 史诗的, 叙事诗的",
+"en": "s. very imposing or impressive; surpassing the ordinary (especially in size or scale) / a. constituting or having to do …"
+},
+{
+"word": "informative",
+"pos": "a",
+"zh": "a. 提供消息的, 见闻广博的",
+"en": "a. providing or conveying information"
+},
+{
+"word": "seduce",
+"pos": "vt",
+"zh": "vt. 唆使, 怂恿, 引诱, 诱奸 / [法] 勾引, 诱惑, 诱奸",
+"en": "v. induce to have sex / v. lure or entice away from duty, principles, or proper conduct"
+}
+]

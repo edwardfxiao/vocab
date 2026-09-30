@@ -1,0 +1,602 @@
+[
+{
+"word": "beholden",
+"pos": "a",
+"zh": "a. 负有义务的, 受惠的",
+"en": "s. under a moral obligation to someone"
+},
+{
+"word": "epitaph",
+"pos": "n",
+"zh": "n. 墓志铭, 碑文",
+"en": "n. an inscription on a tombstone or monument in memory of the person buried there / n. a summary statement of commemorat…"
+},
+{
+"word": "adjudicate",
+"pos": "v",
+"zh": "v. 判决, 宣告, 裁定",
+"en": "v put on trial or hear a case and sit as the judge at the trial of / v bring to an end; settle conclusively"
+},
+{
+"word": "abdicate",
+"pos": "vt/vi",
+"zh": "vt. 正式放弃 / vi. 退位, 退出, 辞职",
+"en": "v. give up, such as power, as of monarchs and emperors, or duties and obligations"
+},
+{
+"word": "synopsis",
+"pos": "n",
+"zh": "n. 概要, 摘要, 大意 / [化] 一览表; 提要",
+"en": "n a sketchy summary of the main points of an argument or theory"
+},
+{
+"word": "snicker",
+"pos": "n/vi/vt",
+"zh": "n. 窃笑 / vi. 窃笑 / vt. 窃笑着说",
+"en": "n. a disrespectful laugh / v. laugh quietly"
+},
+{
+"word": "poncho",
+"pos": "n",
+"zh": "n. 南美披风, 雨披",
+"en": "n. a blanket-like cloak with a hole in the center for the head"
+},
+{
+"word": "stupendous",
+"pos": "a",
+"zh": "a. 惊人的, 巨大的",
+"en": "s so great in size or force or extent as to elicit awe"
+},
+{
+"word": "dumbfound",
+"pos": "vt",
+"zh": "vt. 使...惊讶得发呆",
+"en": "v be a mystery or bewildering to"
+},
+{
+"word": "glassware",
+"pos": "n",
+"zh": "n. 玻璃器具 / [化] 玻璃器皿; 玻璃仪器",
+"en": "n. an article of tableware made of glass"
+},
+{
+"word": "interlocutor",
+"pos": "n",
+"zh": "n. 对话者, 谈话者",
+"en": "n. the performer in the middle of a minstrel line who engages the others in talk / n. a person who takes part in a conve…"
+},
+{
+"word": "vendetta",
+"pos": "n",
+"zh": "n. 族间仇杀, 世仇, 宿怨 / [法] 血仇, 近亲复仇, 世仇",
+"en": "n. a feud in which members of the opposing parties murder each other"
+},
+{
+"word": "nefarious",
+"pos": "a",
+"zh": "a. 恶毒的, 极坏的",
+"en": "s. extremely wicked"
+},
+{
+"word": "eminence",
+"pos": "n",
+"zh": "n. 显赫, 名家, 高处 / [医] 隆起, 隆凸",
+"en": "n. high status importance owing to marked superiority"
+},
+{
+"word": "inferno",
+"pos": "n",
+"zh": "n. 地狱, 地狱似的地方",
+"en": "n any place of pain and turmoil;  / n a very intense and uncontrolled fire / n (Christianity) the abode of Satan and the…"
+},
+{
+"word": "transitory",
+"pos": "a",
+"zh": "a. 暂时的, 短暂的, 昙花一现的 / [法] 临时性诉讼, 可选择管辖区的诉讼; 临时的, 过渡的",
+"en": "s lasting a very short time"
+},
+{
+"word": "innovate",
+"pos": "vi",
+"zh": "vi. 改革, 创新",
+"en": "v bring something new to an environment"
+},
+{
+"word": "intercede",
+"pos": "vi",
+"zh": "vi. 说情, 调解 / [法] 代为求情, 从中调停",
+"en": "v. act between parties with a view to reconciling differences"
+},
+{
+"word": "wanton",
+"pos": "n/a/vi/vt",
+"zh": "n. 荡妇, 水性杨花的女人 / a. 恶意的, 不负责任的, 无节制的, 嬉戏的, 繁茂的, 淫荡的 / vi. 变化无常, 嬉戏, 闲荡, 放肆 / vt. 挥霍",
+"en": "n. lewd or lascivious woman / v. indulge in a carefree or voluptuous way of life / v. spend wastefully / v. engage in am…"
+},
+{
+"word": "unremitting",
+"pos": "a",
+"zh": "a. 不懈的, 不断的, 坚忍的, 持续的 / [经] 不间断的, 持续的",
+"en": "s uninterrupted in time and indefinitely long continuing"
+},
+{
+"word": "rapprochement",
+"pos": "n",
+"zh": "n. 和解, 恢复邦交, 恢复友好关系, 重归于好",
+"en": "n the reestablishing of cordial relations"
+},
+{
+"word": "paragon",
+"pos": "n",
+"zh": "n. 杰出典范, 完人, 完美之物",
+"en": "n. an ideal instance; a perfect embodiment of a concept"
+},
+{
+"word": "crinkle",
+"pos": "n/vt/vi",
+"zh": "n. 皱, 波纹 / vt. 使皱, 使缩, 起皱 / vi. 皱, 拳曲",
+"en": "n a slight depression in the smoothness of a surface / v make wrinkles or creases on a smooth surface; make a pressed, f…"
+},
+{
+"word": "hardworking",
+"pos": "a",
+"zh": "a. 苦干的, 不辞辛劳的",
+"en": "s. characterized by hard work and perseverance"
+},
+{
+"word": "opiate",
+"pos": "n/a/vt",
+"zh": "n. 鸦片制剂, 镇静剂 / a. 含鸦片的, 催眠的 / vt. 使麻醉, 使缓和",
+"en": "n. a narcotic drug that contains opium or an opium derivative"
+},
+{
+"word": "enthral",
+"pos": "vt",
+"zh": "vt. 迷住, 奴役, 使做奴隶, 吸引住",
+"en": "v hold spellbound"
+},
+{
+"word": "deferential",
+"pos": "a",
+"zh": "a. 恭敬的 / [医] 输精管的",
+"en": "s showing deference"
+},
+{
+"word": "sedate",
+"pos": "a/vt",
+"zh": "a. 沉着的, 镇静的, 安静的 / vt. 给...服镇静剂",
+"en": "v. cause to be calm or quiet as by administering a sedative to / s. characterized by dignity and propriety"
+},
+{
+"word": "stasis",
+"pos": "n",
+"zh": "n. 停滞, 郁积 / [医] 停滞, 郁滞",
+"en": "n. an abnormal state in which the normal flow of a liquid (such as blood) is slowed or stopped / n. inactivity resulting…"
+},
+{
+"word": "regale",
+"pos": "vt/vi/n",
+"zh": "vt. 款待, 使快乐 / vi. 享用 / n. 盛宴, 佳肴, 款待",
+"en": "v. provide with choice or abundant food or drink"
+},
+{
+"word": "schoolmate",
+"pos": "n",
+"zh": "n. 同窗, 同学",
+"en": "n. an acquaintance that you go to school with"
+},
+{
+"word": "magnificence",
+"pos": "n",
+"zh": "n. 富丽堂皇, 华丽, 宏大",
+"en": "n. the quality of being magnificent or splendid or grand"
+},
+{
+"word": "infirm",
+"pos": "a",
+"zh": "a. 弱的, 虚弱的, 柔弱的 / [医] 衰弱的",
+"en": "s. lacking firmness of will or character or purpose; give me the daggers\" - Shakespeare"
+},
+{
+"word": "accost",
+"pos": "vt",
+"zh": "vt. 招呼, 搭讪, 勾引 / [法] 勾引, 引诱",
+"en": "v speak to someone / v approach with an offer of sexual favors"
+},
+{
+"word": "gaiety",
+"pos": "n",
+"zh": "n. 愉快, 快活, 高兴",
+"en": "n. a gay feeling / n. a festive merry feeling"
+},
+{
+"word": "fuzz",
+"pos": "n/vi/vt",
+"zh": "n. 细毛, 绒毛, 警察 / vi. 作绒毛状飞散, 变成绒毛状 / vt. 起毛, 使模糊",
+"en": "n. the first beard of an adolescent boy"
+},
+{
+"word": "sloth",
+"pos": "n",
+"zh": "n. 怠惰, 懒惰",
+"en": "n. a disinclination to work or exert yourself / n. any of several slow-moving arboreal mammals of South America and Cent…"
+},
+{
+"word": "bucolic",
+"pos": "a/n",
+"zh": "a. 牧民的, 牧歌的, 乡下风味的 / n. 田园诗, 农夫",
+"en": "a. relating to shepherds or herdsmen or devoted to raising sheep or cattle"
+},
+{
+"word": "facile",
+"pos": "a",
+"zh": "a. 容易的, 灵巧的, 温和的",
+"en": "s. arrived at without due care or effort; lacking depth / s. performing adroitly and without effort"
+},
+{
+"word": "threadbare",
+"pos": "a",
+"zh": "a. 衣服磨薄了的, 穿旧了的, 衣着褴褛的, 俗套的, 乏味的",
+"en": "s. having the nap worn away so that the threads show through"
+},
+{
+"word": "provost",
+"pos": "n",
+"zh": "n. 教务长, 监督员, 牧师 / [法] 监督者, 负责官员, 监狱看守",
+"en": "n. a high-ranking university administrator"
+},
+{
+"word": "comatose",
+"pos": "a",
+"zh": "a. 昏睡的, 昏睡状态的 / [医] 昏迷的",
+"en": "a. relating to or associated with a coma / s. in a state of deep and usually prolonged unconsciousness; unable to respon…"
+},
+{
+"word": "irrevocable",
+"pos": "a",
+"zh": "a. 不能挽回的, 不能取消的, 不能变更的 / [经] 不能撤销的, 不能恢复的",
+"en": "a. incapable of being retracted or revoked"
+},
+{
+"word": "opus",
+"pos": "n",
+"zh": "n. 作品",
+"en": "n a musical work that has been created"
+},
+{
+"word": "fiftieth",
+"pos": "num",
+"zh": "num. 第五十, 五十分之一",
+"en": "n. position 50 in a countable series of things / s. the ordinal number of fifty in counting order"
+},
+{
+"word": "diatribe",
+"pos": "n",
+"zh": "n. 抨击, 谴责",
+"en": "n thunderous verbal attack"
+},
+{
+"word": "apathetic",
+"pos": "a",
+"zh": "a. 缺乏感情的, 无动于衷的, 缺乏兴趣的 / [医] 无情[感]的, 淡漠的",
+"en": "s. showing little or no emotion or animation / s. marked by a lack of interest; it is simply indifferent\""
+},
+{
+"word": "unpromising",
+"pos": "a",
+"zh": "a. 没有希望的, 没有前途的, 结果未必良好的",
+"en": "s. unlikely to bring about favorable results or enjoyment"
+},
+{
+"word": "presage",
+"pos": "n/vt/vi",
+"zh": "n. 预感, 预兆, 预知 / vt. 预示, 预言 / vi. 预感, 预言",
+"en": "n. a foreboding about what is about to happen"
+},
+{
+"word": "visage",
+"pos": "n",
+"zh": "n. 脸, 面貌, 容貌",
+"en": "n the human face (`kisser' and `smiler' and `mug' are informal terms for `face' and `phiz' is British) / n the appearanc…"
+},
+{
+"word": "iniquity",
+"pos": "n",
+"zh": "n. 不公正, 不公正行为",
+"en": "n. absence of moral or spiritual values"
+},
+{
+"word": "florid",
+"pos": "a",
+"zh": "a. 华丽的, 红润的 / [医] 鲜红的",
+"en": "s elaborately or excessively ornamented / s inclined to a healthy reddish color often associated with outdoor life"
+},
+{
+"word": "livid",
+"pos": "a",
+"zh": "a. 铁青的 / [医] 青紫的",
+"en": "s. (of a light) imparting a deathlike luminosity / s. furiously angry"
+},
+{
+"word": "auspicious",
+"pos": "a",
+"zh": "a. 吉兆的, 幸运的",
+"en": "a. auguring favorable circumstances and good luck"
+},
+{
+"word": "preen",
+"pos": "vt/vi",
+"zh": "vt. 用嘴整理, 打扮, 使得意 / vi. 打扮漂亮, 感到得意",
+"en": "v. clean with one's bill / v. pride or congratulate (oneself) for an achievement / v. dress or groom with elaborate care"
+},
+{
+"word": "personable",
+"pos": "a",
+"zh": "a. 风度好的, 讨人喜欢的, 具有行为能力的",
+"en": "s. (of persons) pleasant in appearance and personality"
+},
+{
+"word": "perfunctory",
+"pos": "a",
+"zh": "a. 敷衍的, 随随便便的, 得过且过的",
+"en": "s hasty and without attention to detail; not thorough / s as a formality only"
+},
+{
+"word": "panache",
+"pos": "n",
+"zh": "n. 羽饰, 夸示, 假威风, 炫耀",
+"en": "n. a feathered plume on a helmet"
+},
+{
+"word": "moribund",
+"pos": "a/n",
+"zh": "a. 垂死的 / n. 垂死的人",
+"en": "s. being on the point of death; breathing your last"
+},
+{
+"word": "jovial",
+"pos": "a",
+"zh": "a. 快活的, 高兴的, 愉快的 / [计] 国际算法语言的朱尔斯文本",
+"en": "s full of or showing high-spirited merriment"
+},
+{
+"word": "impregnable",
+"pos": "a",
+"zh": "a. 无法攻取的, 坚强不屈的, 驳不倒的",
+"en": "s. immune to attack; incapable of being tampered with / s. incapable of being overcome, challenged or refuted"
+},
+{
+"word": "extrovert",
+"pos": "n",
+"zh": "n. 外向性格的人 / [医] 外倾[性格]者",
+"en": "n. (psychology) a person concerned more with practical realities than with inner thoughts and feelings / s. being concer…"
+},
+{
+"word": "dutiful",
+"pos": "a",
+"zh": "a. 尽职的, 忠实的, 顺从的, 守本分的",
+"en": "s. willingly obedient out of a sense of duty and respect;"
+},
+{
+"word": "upswing",
+"pos": "n",
+"zh": "n. 回升时期, 上升, 向上摆动, 跃进 / [经] 上升, 向上摆动",
+"en": ""
+},
+{
+"word": "berserk",
+"pos": "a/adv",
+"zh": "a. 狂暴的, 疯的 / adv. 狂暴地, 疯地",
+"en": "n one of the ancient Norse warriors legendary for working themselves into a frenzy before a battle and fighting with rec…"
+},
+{
+"word": "banister",
+"pos": "n",
+"zh": "n. 栏杆的支柱, 楼梯的扶栏",
+"en": "n a railing at the side of a staircase or balcony to prevent people from falling"
+},
+{
+"word": "upstage",
+"pos": "a/adv/vt",
+"zh": "a. 在舞台后部的, 傲慢的, 自负的 / adv. 在舞台后方 / vt. 抢戏",
+"en": "n. the rear part of the stage / v. treat snobbishly, put in one's place / v. move upstage, forcing the other actors to t…"
+},
+{
+"word": "retroactive",
+"pos": "a",
+"zh": "a. 反动的, 追溯的, 有追溯效力的 / [经] 有追溯效力的",
+"en": "a. descriptive of any event or stimulus or process that has an effect on the effects of events or stimuli or process tha…"
+},
+{
+"word": "catharsis",
+"pos": "n",
+"zh": "n. 陶冶, 净化, 导泻 / [医] 导泻, 泻法, 精神发泄",
+"en": "n. (psychoanalysis) purging of emotional tensions / n. purging the body by the use of a cathartic to stimulate evacuatio…"
+},
+{
+"word": "scornful",
+"pos": "a",
+"zh": "a. 轻蔑的",
+"en": "s expressing extreme contempt"
+},
+{
+"word": "cajole",
+"pos": "vt",
+"zh": "vt. 以甜言蜜语哄骗, 勾引",
+"en": "v influence or urge by gentle urging, caressing, or flattering"
+},
+{
+"word": "enjoin",
+"pos": "vt",
+"zh": "vt. 吩咐, 命令, 嘱咐, 禁止 / [法] 责成, 命令, 嘱咐",
+"en": "v. issue an injunction"
+},
+{
+"word": "elixir",
+"pos": "n",
+"zh": "n. 炼金药, 不老长寿药, 万能药 / [化] 酏剂",
+"en": "n. a sweet flavored liquid (usually containing a small amount of alcohol) used in compounding medicines to be taken by m…"
+},
+{
+"word": "dentistry",
+"pos": "n",
+"zh": "n. 牙科 / [医] 牙科学, 牙科技术",
+"en": "n. the branch of medicine dealing with the anatomy and development and diseases of the teeth"
+},
+{
+"word": "glade",
+"pos": "n",
+"zh": "n. 林间空地, 沼泽地",
+"en": "n a tract of land with few or no trees in the middle of a wooded area"
+},
+{
+"word": "mangle",
+"pos": "vt/n",
+"zh": "vt. 乱砍, 损坏, 轧布 / n. 轧布机",
+"en": "n. clothes dryer for drying and ironing laundry by passing it between two heavy heated rollers / v. press with a mangle …"
+},
+{
+"word": "thatch",
+"pos": "n/vt",
+"zh": "n. 盖屋顶的茅草, 用草盖的屋顶, 浓密头发 / vt. 用茅草覆盖",
+"en": "n. hair resembling thatched roofing material / n. plant stalks used as roofing material / n. a house roof made with a pl…"
+},
+{
+"word": "imperious",
+"pos": "a",
+"zh": "a. 专横的, 傲慢的, 迫切的 / [医] 强制的, 不随意的",
+"en": "s having or showing arrogant superiority to and disdain of those one views as unworthy"
+},
+{
+"word": "glib",
+"pos": "a",
+"zh": "a. 能说善道的, 流畅的",
+"en": "s. marked by lack of intellectual depth / s. having only superficial plausibility / s. artfully persuasive in speech"
+},
+{
+"word": "confection",
+"pos": "n",
+"zh": "n. 糖果, 蜜饯 / [医] 糖膏(剂)",
+"en": "n. the act of creating something (a medicine or drink or soup etc.) by compounding or mixing a variety of components"
+},
+{
+"word": "chauvinism",
+"pos": "n",
+"zh": "n. 盲目的爱国主义, 沙文主义 / [法] 沙文主义",
+"en": "n. fanatical patriotism"
+},
+{
+"word": "repose",
+"pos": "n/vt/vi",
+"zh": "n. 休息, 睡眠, 静止 / vt. 使休息, 寄托于 / vi. 休息, 长眠, 静卧, 座落, 依靠, 信赖",
+"en": "n. a disposition free from stress or emotion / v. put or confide something in a person or thing / v. lie when dead"
+},
+{
+"word": "calligraphy",
+"pos": "n",
+"zh": "n. 笔迹, 书法",
+"en": "n. beautiful handwriting"
+},
+{
+"word": "semicircle",
+"pos": "n",
+"zh": "n. 半圆形",
+"en": "n. a plane figure with the shape of half a circle"
+},
+{
+"word": "conversant",
+"pos": "a",
+"zh": "a. 熟悉的, 亲近的, 有交情的",
+"en": "s. (usually followed by `with') well informed about or knowing thoroughly"
+},
+{
+"word": "propound",
+"pos": "vt",
+"zh": "vt. 提出供考虑 / [法] 提出建议, 提出供考虑, 提出",
+"en": "v. put forward, as of an idea"
+},
+{
+"word": "splice",
+"pos": "vt/n",
+"zh": "vt. 接合, 捻接, 胶接, 使结婚 / n. 接合, 胶接, 结婚 / [计] 接头",
+"en": "n. a junction where two things (as paper or film or magnetic tape) have been joined together / v. join the ends of / v. …"
+},
+{
+"word": "naysayer",
+"pos": "n",
+"zh": "n. 拒绝者, 否认者, 老是唱反调的人 / [法] 否定者, 投反对票者",
+"en": "n. someone with an aggressively negative attitude"
+},
+{
+"word": "acrobat",
+"pos": "n",
+"zh": "n. 表演特技者, 杂技演员",
+"en": "n. an athlete who performs acts requiring skill and agility and coordination"
+},
+{
+"word": "wrangle",
+"pos": "vi/vt/n",
+"zh": "vi. 争论, 口角 / vt. 辩驳, 放牧 / n. 口角, 吵嘴",
+"en": "v. herd and care for"
+},
+{
+"word": "incapacitate",
+"pos": "vt",
+"zh": "vt. 使无能力, 使无行为能力 / [法] 使无资格, 使无能力, 剥夺资格",
+"en": "v make unable to perform a certain action / v injure permanently"
+},
+{
+"word": "personage",
+"pos": "n",
+"zh": "n. 重要人士, 显要, 名士, 人物, 角色",
+"en": "n. another word for person; a person not meriting identification"
+},
+{
+"word": "carnal",
+"pos": "a",
+"zh": "a. 肉体的, 肉欲的 / [医] 肉的, 肉欲的",
+"en": "a. of or relating to the body or flesh"
+},
+{
+"word": "anesthetic",
+"pos": "n/a",
+"zh": "n. 麻醉剂, 麻药 / a. 麻醉的",
+"en": "n. a drug that causes temporary loss of bodily sensations / s. characterized by insensibility"
+},
+{
+"word": "sufficiency",
+"pos": "n",
+"zh": "n. 充足, 充分的数量, 自负",
+"en": "n. sufficient resources to provide comfort and meet obligations / n. the quality of being sufficient for the end in view"
+},
+{
+"word": "weatherman",
+"pos": "n",
+"zh": "n. 气象员；天气预报员",
+"en": "n. predicts the weather"
+},
+{
+"word": "faze",
+"pos": "vt",
+"zh": "vt. 打扰, 折磨, 使狼狈",
+"en": "v. disturb the composure of"
+},
+{
+"word": "sledgehammer",
+"pos": "n/a/v",
+"zh": "n. 大锤, 极有分量的事物 / a. 强力的, 手下不留情的 / v. 用大锤打, 沉重打击",
+"en": "v. beat with a sledgehammer"
+},
+{
+"word": "gavel",
+"pos": "n",
+"zh": "n. 槌 / [法] 赋税或租金, 议事槌, 小木槌",
+"en": "n. a small mallet used by a presiding officer or a judge"
+},
+{
+"word": "conflate",
+"pos": "vt",
+"zh": "vt. 合并；异文合并",
+"en": "v mix together different elements"
+}
+]

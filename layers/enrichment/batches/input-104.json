@@ -1,0 +1,602 @@
+[
+{
+"word": "spurn",
+"pos": "n/vt/vi",
+"zh": "n. 踢开, 拒斥 / vt. 踢开, 冷落, 践踏, 唾弃 / vi. 藐视, 摒弃",
+"en": "v reject with contempt"
+},
+{
+"word": "hoarse",
+"pos": "a",
+"zh": "a. 沙哑的, 嘶哑的 / [医] 声嘶的",
+"en": "s deep and harsh sounding as if from shouting or illness or emotion"
+},
+{
+"word": "gamut",
+"pos": "n",
+"zh": "n. 音阶, 整个范围, 全部, 音域",
+"en": "n. a complete extent or range: \"a face that expressed a gamut of emotions\" / n. the entire scale of musical notes"
+},
+{
+"word": "crux",
+"pos": "n",
+"zh": "n. 十字架形, 关键, 难题 / [医] 十字, 十字形",
+"en": "n. the most important point"
+},
+{
+"word": "belated",
+"pos": "a",
+"zh": "a. 迟来的 / [法] 过了期的, 落后了的",
+"en": "s. after the expected or usual time; delayed"
+},
+{
+"word": "antipathy",
+"pos": "n",
+"zh": "n. 厌恶, 反感 / [医] 反感, 厌恶; 相克疗法",
+"en": "n. a feeling of intense dislike / n. the object of a feeling of intense aversion; something to be avoided"
+},
+{
+"word": "sparrow",
+"pos": "n",
+"zh": "n. 麻雀",
+"en": "n. any of several small dull-colored singing birds feeding on seeds or insects"
+},
+{
+"word": "nexus",
+"pos": "n",
+"zh": "n. 连结, 关系 / [化] 融合膜",
+"en": "n. a connected series or group"
+},
+{
+"word": "vagary",
+"pos": "n",
+"zh": "n. 狂想, 奇特行为, 奇想",
+"en": "n. an unexpected and inexplicable change in something (in a situation or a person's behavior, etc.)"
+},
+{
+"word": "recalcitrant",
+"pos": "a/n",
+"zh": "a. 反抗的, 反对的, 顽抗的 / n. 反抗者, 顽抗者",
+"en": "s. marked by stubborn resistance to authority"
+},
+{
+"word": "cranky",
+"pos": "a",
+"zh": "a. 古怪的, 暴躁的, 脾气坏的",
+"en": "s. easily irritated or annoyed"
+},
+{
+"word": "judicious",
+"pos": "a",
+"zh": "a. 头脑精明的, 贤明的, 判断正确的",
+"en": "s. marked by the exercise of good judgment or common sense in practical matters"
+},
+{
+"word": "edifice",
+"pos": "n",
+"zh": "n. 大厦, 大建筑物",
+"en": "n a structure that has a roof and walls and stands more or less permanently in one place"
+},
+{
+"word": "sawdust",
+"pos": "n",
+"zh": "n. 锯屑 / [机] 锯屑",
+"en": "n. fine particles of wood made by sawing wood"
+},
+{
+"word": "coy",
+"pos": "a",
+"zh": "a. 腼腆的, 怕羞的, 羞怯的",
+"en": "s. affectedly modest or shy especially in a playful or provocative way / s. showing marked and often playful or irritati…"
+},
+{
+"word": "astray",
+"pos": "adv",
+"zh": "adv. 迷途地, 入歧途地 / [法] 误入歧途地, 离开正道地",
+"en": "r. away from the right path or direction"
+},
+{
+"word": "allay",
+"pos": "vt",
+"zh": "vt. 使平静, 使缓和",
+"en": "v lessen the intensity of or calm / v satisfy (thirst)"
+},
+{
+"word": "northward",
+"pos": "n/a/adv",
+"zh": "n. 北方, 北 / a. 向北的 / adv. 向北",
+"en": "n the cardinal compass point that is at 0 or 360 degrees / s moving toward the north / r in a northern direction"
+},
+{
+"word": "preempt",
+"pos": "vt/vi",
+"zh": "vt. 先买, 先取 / vi. 先发制人地叫牌",
+"en": "v. acquire for oneself before others can do so / v. take the place of or have precedence over / v. gain possession of by…"
+},
+{
+"word": "impotence",
+"pos": "n",
+"zh": "n. 无力, 虚弱, 无效, 阳萎 / [医] 阳萎, 无能力",
+"en": "n. an inability (usually of the male animal) to copulate"
+},
+{
+"word": "toothpaste",
+"pos": "n",
+"zh": "n. 牙膏 / [化] 牙膏",
+"en": "n. a dentifrice in the form of a paste"
+},
+{
+"word": "callous",
+"pos": "a/vt",
+"zh": "a. 麻木的, 无情的, 坚硬的, 硬皮的, 起老茧的 / vt. 使生茧, 使变硬",
+"en": "v. make insensitive or callous; deaden feelings or morals / s. emotionally hardened"
+},
+{
+"word": "agile",
+"pos": "a",
+"zh": "a. 敏捷的, 灵活的, 机敏的",
+"en": "s. moving quickly and lightly / s. mentally quick"
+},
+{
+"word": "prank",
+"pos": "n/vt/vi",
+"zh": "n. 开玩笑, 恶作剧, 戏谑 / vt. 盛装, 装饰, 打扮 / vi. 炫耀自己",
+"en": "v. dress or decorate showily or gaudily / v. dress up showily"
+},
+{
+"word": "pail",
+"pos": "n",
+"zh": "n. 桶, 提桶",
+"en": "n. the quantity contained in a pail"
+},
+{
+"word": "recollect",
+"pos": "vt/vi",
+"zh": "vt. 回忆, 回想, 忆起 / vi. 回忆",
+"en": "v recall knowledge from memory; have a recollection"
+},
+{
+"word": "preamble",
+"pos": "n",
+"zh": "n. 引言, 序文, 前言 / [计] 前同步; 前同步信号",
+"en": "n. a preliminary introduction to a statute or constitution (usually explaining its purpose) / v. make a preliminary intr…"
+},
+{
+"word": "interlude",
+"pos": "n",
+"zh": "n. 幕间, 幕间时间, 插曲, 穿插, 过场 / [计] 插算; 中间程序",
+"en": "n. an intervening period or episode / n. a brief show (music or dance etc) inserted between the sections of a longer per…"
+},
+{
+"word": "abrasive",
+"pos": "n/a",
+"zh": "n. 研磨料 / a. 有研磨作用的",
+"en": "n. a substance that abrades or wears down / s. causing abrasion"
+},
+{
+"word": "posterior",
+"pos": "a/n",
+"zh": "a. 在后的, 其次的, 后面的 / n. 后部, 臀部",
+"en": "a. located at or near or behind a part or near the end of a structure"
+},
+{
+"word": "reprimand",
+"pos": "n/vt",
+"zh": "n. 谴责, 惩戒, 非难 / vt. 谴责, 惩戒, 严责",
+"en": "v. rebuke formally"
+},
+{
+"word": "compensatory",
+"pos": "a",
+"zh": "a. 赔偿的, 补偿的, 代偿的 / [医] 代偿的, 补偿的",
+"en": "a. Serving for compensation; making amends."
+},
+{
+"word": "slur",
+"pos": "n/vt/vi",
+"zh": "n. 连音符, 诽谤, 玷污, 印刷模糊 / vt. 草率地看过, 忽略, 含糊地念 / vi. 模糊不清",
+"en": "n. (music) a curved line spanning notes that are to be played legato / v. play smoothly or legato / v. speak disparaging…"
+},
+{
+"word": "unwarranted",
+"pos": "a",
+"zh": "a. 未获保证的, 无保证的, 未经授权的",
+"en": "s incapable of being justified or explained / s without a basis in reason or fact / s lacking justification or authoriza…"
+},
+{
+"word": "resolute",
+"pos": "n/a",
+"zh": "n. 果断的人 / a. 坚决的, 刚毅的, 毅然的",
+"en": "a. firm in purpose or belief; characterized by firmness and determination"
+},
+{
+"word": "enliven",
+"pos": "vt",
+"zh": "vt. 使活泼, 使生动",
+"en": "v. make lively"
+},
+{
+"word": "grueling",
+"pos": "a/n",
+"zh": "a. 折磨人的, 使人精疲力尽的 / n. 痛打, 惩罚",
+"en": "s characterized by effort to the point of exhaustion; especially physical effort"
+},
+{
+"word": "slacken",
+"pos": "vt/vi",
+"zh": "vt. 使松弛, 放松, 放慢 / vi. 变松弛, 减弱, 松劲",
+"en": "v. become looser or slack / v. make slack as by lessening tension or firmness"
+},
+{
+"word": "chirp",
+"pos": "n/v",
+"zh": "n. 喳喳声, 唧唧声 / v. 吱喳而鸣",
+"en": "n. a sharp sound made by small birds or insects"
+},
+{
+"word": "reliant",
+"pos": "a",
+"zh": "a. 依赖的, 信赖的",
+"en": "s. relying on another for support"
+},
+{
+"word": "canonical",
+"pos": "a",
+"zh": "a. 依教规的, 被认为圣典的, 权威的, 典型的 / [建] 正则的",
+"en": "a appearing in a biblical canon / a of or relating to or required by canon law / s reduced to the simplest and most sign…"
+},
+{
+"word": "pandemic",
+"pos": "a",
+"zh": "a. 大流行的, 普遍的, 全世界的 / [医] 大流行的, 大流行病",
+"en": "n. an epidemic that is geographically widespread; occurring throughout a region or even throughout the world / s. epidem…"
+},
+{
+"word": "forlorn",
+"pos": "a",
+"zh": "a. 孤独的, 悲惨的, 凄凉的",
+"en": "s. marked by or showing hopelessness"
+},
+{
+"word": "vertigo",
+"pos": "n",
+"zh": "n. 眩晕, 迷惘 / [医] 眩晕",
+"en": "n a reeling sensation; a feeling that you are about to fall"
+},
+{
+"word": "disinterested",
+"pos": "a",
+"zh": "a. 无私欲的, 廉洁的, 公平的",
+"en": "s. unaffected by self-interest"
+},
+{
+"word": "eastward",
+"pos": "n/a/adv",
+"zh": "n. 朝东方向 / a. 向东方的 / adv. 向东",
+"en": "r. toward the east"
+},
+{
+"word": "springtime",
+"pos": "n",
+"zh": "n. 春天, 春季, 初期",
+"en": "n the season of growth"
+},
+{
+"word": "anemia",
+"pos": "n",
+"zh": "n. 贫血, 贫血症, 无活力 / [医] 贫血",
+"en": "n. a deficiency of red blood cells / n. a lack of vitality / n. genus of terrestrial or lithophytic ferns having pinnati…"
+},
+{
+"word": "sordid",
+"pos": "a",
+"zh": "a. 肮脏的, 贪婪的, 卑鄙的, 恶劣的, 暗淡的 / [医] 污色的",
+"en": "s. meanly avaricious and mercenary"
+},
+{
+"word": "inexorable",
+"pos": "a",
+"zh": "a. 无情的, 冷酷的",
+"en": "s not to be placated or appeased or moved by entreaty / s impervious to pleas, persuasion, requests, reason; she would h…"
+},
+{
+"word": "prodigy",
+"pos": "n",
+"zh": "n. 惊人的事物, 奇迹, 不凡的人, 奇才, 神童, 预兆",
+"en": "n. an unusually gifted or intelligent (young) person; someone whose talents excite wonder and admiration / n. an impress…"
+},
+{
+"word": "enigma",
+"pos": "n",
+"zh": "n. 谜, 费解的事物",
+"en": "n something that baffles understanding and cannot be explained / n a difficult problem"
+},
+{
+"word": "cessation",
+"pos": "n",
+"zh": "n. 停止 / [法] 中止, 中断, 停止",
+"en": "n. a stopping"
+},
+{
+"word": "cocoon",
+"pos": "n",
+"zh": "n. 茧 / [医] 茧",
+"en": "n. silky envelope spun by the larvae of many insects to protect pupas and by spiders to protect eggs / v. retreat as if …"
+},
+{
+"word": "extrapolate",
+"pos": "v",
+"zh": "v. 推断, 外推",
+"en": "v. gain knowledge of (an area not known or experienced) by extrapolating"
+},
+{
+"word": "conjecture",
+"pos": "n/v",
+"zh": "n. 推测, 猜想, 揣摩 / v. 推测, 猜想, 揣摩 / [计] 推测; 猜测",
+"en": "n. reasoning that involves the formation of conclusions from incomplete evidence"
+},
+{
+"word": "stylized",
+"pos": "a",
+"zh": "a. 程式化的；按固定格式的",
+"en": "v represent according to a conventional style / s using artistic forms and conventions to create effects; not natural or…"
+},
+{
+"word": "interminable",
+"pos": "a",
+"zh": "a. 无限的, 冗长的",
+"en": "s tiresomely long; seemingly without end"
+},
+{
+"word": "usurp",
+"pos": "vt/vi",
+"zh": "vt. 篡夺, 侵占, 夺取 / vi. 篡夺, 侵占",
+"en": "v. take the place of"
+},
+{
+"word": "turret",
+"pos": "n",
+"zh": "n. 塔楼, 角楼, 攻城用仰冲车 / [机] 转塔, 多角刀架",
+"en": "n. a small tower extending above a building"
+},
+{
+"word": "rebuff",
+"pos": "n/vt",
+"zh": "n. 断然拒绝, 严厉拒绝, 漠不关心 / vt. 严厉拒绝",
+"en": "n. a deliberate discourteous act (usually as an expression of anger or disapproval) / n. an instance of driving away or …"
+},
+{
+"word": "prudence",
+"pos": "n",
+"zh": "n. 审慎, 慎重, 精明, 节俭",
+"en": "n. discretion in practical affairs"
+},
+{
+"word": "fang",
+"pos": "n",
+"zh": "n. 尖牙, 犬牙 / [医] 牙根, 尖牙, 蛇类毒牙",
+"en": "n. a Bantu language spoken in Cameroon / n. an appendage of insects that is capable of injecting venom; usually evolved …"
+},
+{
+"word": "biosphere",
+"pos": "n",
+"zh": "n. 生物圈 / [医] 生物圈, 生物层",
+"en": "n. the regions of the surface and atmosphere of the Earth (or other planet) where living organisms exist"
+},
+{
+"word": "impervious",
+"pos": "a",
+"zh": "a. 透不过的, 不易损坏的, 无动于衷的, 不受影响的 / [医] 不能透过的",
+"en": "a. not admitting of passage or capable of being affected"
+},
+{
+"word": "yardstick",
+"pos": "n",
+"zh": "n. 码尺, 计算标准, 准绳 / [法] 尺度, 衡量标准, 任何评判或比较的标准",
+"en": "n. a measure or standard used for comparison / n. a ruler or tape that is three feet long"
+},
+{
+"word": "superstitious",
+"pos": "a",
+"zh": "a. 迷信的 / [法] 迷信的, 由迷信引起的",
+"en": "s. showing ignorance of the laws of nature and faith in magic or chance"
+},
+{
+"word": "shunt",
+"pos": "vt/vi/n",
+"zh": "vt. 使转轨, 使分流, 回避讨论, 推延 / vi. 转向一边, 转轨, 往返 / n. 转轨, 分流",
+"en": "n. a passage by which a bodily fluid (especially blood) is diverted from one channel to another / n. a conductor having …"
+},
+{
+"word": "erstwhile",
+"pos": "adv/a",
+"zh": "adv. 以前, 往昔地 / a. 以前的, 往昔的",
+"en": "s. belonging to some prior time"
+},
+{
+"word": "dumpling",
+"pos": "n",
+"zh": "n. 面团布丁, 团子",
+"en": "n. small balls or strips of boiled or steamed dough / n. dessert made by baking fruit wrapped in pastry"
+},
+{
+"word": "dew",
+"pos": "n/vt/vi",
+"zh": "n. 露珠, 露水 / vt. (用露水)沾湿 / vi. 结露水",
+"en": "n. water that has condensed on a cool surface overnight from water vapor in the air"
+},
+{
+"word": "choreograph",
+"pos": "v",
+"zh": "v. 设计舞蹈动作",
+"en": "v. compose a sequence of dance steps, often to music / v. plan and oversee the development and details of"
+},
+{
+"word": "quarantine",
+"pos": "n/vt",
+"zh": "n. 隔离, 封锁交通, 检疫期 / vt. 隔离, 排斥",
+"en": "n. enforced isolation of patients suffering from a contagious disease in order to prevent the spread of disease / n. iso…"
+},
+{
+"word": "stammer",
+"pos": "v/n",
+"zh": "v. 口吃, 结结巴巴地说 / n. 口吃, 结巴",
+"en": "n. a speech disorder involving hesitations and involuntary repetitions of certain sounds"
+},
+{
+"word": "deride",
+"pos": "vt",
+"zh": "vt. 嘲弄, 嘲笑",
+"en": "v. treat or speak of with contempt"
+},
+{
+"word": "inter",
+"pos": "vt/prep",
+"zh": "vt. 埋葬 / prep. 在中间",
+"en": "v place in a grave or tomb"
+},
+{
+"word": "reverie",
+"pos": "n",
+"zh": "n. 梦想, 沉思, 幻想曲 / [医] 出神, 幻想",
+"en": "n. absentminded dreaming while awake / n. an abstracted state of absorption"
+},
+{
+"word": "defunct",
+"pos": "a/n",
+"zh": "a. 死的, 不能使用的 / n. 死者",
+"en": "s. no longer in force or use; inactive / s. having ceased to exist or live"
+},
+{
+"word": "chum",
+"pos": "n/vi",
+"zh": "n. 密友, 室友 / vi. 结为密友",
+"en": "n. bait consisting of chopped fish and fish oils that are dumped overboard to attract fish"
+},
+{
+"word": "raven",
+"pos": "n/a/v",
+"zh": "n. 渡鸦, 掠夺 / a. 乌黑的 / v. 掠夺, 狼吞虎咽",
+"en": "n. large black bird with a straight bill and long wedge-shaped tail / v. obtain or seize by violence / v. prey on or hun…"
+},
+{
+"word": "nimble",
+"pos": "a",
+"zh": "a. 敏捷的, 伶俐的, 聪明的",
+"en": "s moving quickly and lightly / s mentally quick"
+},
+{
+"word": "acidic",
+"pos": "a",
+"zh": "a. 成酸的, 尖刻的, 酸性的 / [机] 酸性",
+"en": "a. being or containing an acid; of a solution having an excess of hydrogen atoms (having a pH of less than 7) / s. being…"
+},
+{
+"word": "diminutive",
+"pos": "a/n",
+"zh": "a. 小的, 小型的, 指小的 / n. 身材极小的人, 指小词, 爱称",
+"en": "n. a word that is formed with a suffix (such as -let or -kin) to indicate smallness"
+},
+{
+"word": "spank",
+"pos": "vt/vi/n",
+"zh": "vt. 打, 拍击, 飞跑 / vi. 飞跑 / n. 拍打, 一巴掌",
+"en": "n. a slap with the flat of the hand / v. give a spanking to; subject to a spanking"
+},
+{
+"word": "rickety",
+"pos": "a",
+"zh": "a. 患佝偻病的, 虚弱的, 摇摆的 / [医] 佝偻病的",
+"en": "s. inclined to shake as from weakness or defect / s. affected with, suffering from, or characteristic of rickets"
+},
+{
+"word": "stutter",
+"pos": "n/v",
+"zh": "n. 口吃, 结结巴巴 / v. 结结巴巴地说",
+"en": "n a speech disorder involving hesitations and involuntary repetitions of certain sounds / v speak haltingly"
+},
+{
+"word": "monolithic",
+"pos": "a",
+"zh": "a. 独石的, 完全统一的, 整体的 / [化] 整体(铸,烧结)的; 龟甲网衬里; 单片; 单块",
+"en": "s. characterized by massiveness and rigidity and total uniformity"
+},
+{
+"word": "bushel",
+"pos": "n/v",
+"zh": "n. 蒲式耳(容量单位) / v. 修整(衣物)",
+"en": "n. a United States dry measure equal to 4 pecks or 2152.42 cubic inches / n. a British imperial capacity measure (liquid…"
+},
+{
+"word": "congenial",
+"pos": "a",
+"zh": "a. 协调的, 一致的, 适意的, 趣味相同的",
+"en": "a. suitable to your needs / s. (used of plants) capable of cross-fertilization or of being grafted"
+},
+{
+"word": "husky",
+"pos": "n/a",
+"zh": "n. 强壮结实之人, 爱斯基摩人 / a. 有壳的, 声音沙哑的, 强壮的",
+"en": "n breed of heavy-coated Arctic sled dog / s muscular and heavily built / s deep and harsh sounding as if from shouting o…"
+},
+{
+"word": "squalor",
+"pos": "n",
+"zh": "n. 肮脏, 贫穷, 不干净",
+"en": "n sordid dirtiness"
+},
+{
+"word": "squalid",
+"pos": "a",
+"zh": "a. 污秽的, 肮脏的, 悲惨的, 可怜的, 卑劣的",
+"en": "s morally degraded / s foul and run-down and repulsive"
+},
+{
+"word": "conundrum",
+"pos": "n",
+"zh": "n. 谜语, 难题",
+"en": "n a difficult problem"
+},
+{
+"word": "fictitious",
+"pos": "a",
+"zh": "a. 假想的, 编造的, 虚伪的 / [法] 假定的, 假设的, 虚构的",
+"en": "s formed or conceived by the imagination / s adopted in order to deceive"
+},
+{
+"word": "snip",
+"pos": "v/n",
+"zh": "v. 剪, 剪断, 削减, 删节 / n. 剪, (剪刀的)一剪, 不足道的人",
+"en": "n. a small piece of anything (especially a piece that has been snipped off) / v. cultivate, tend, and cut back the growt…"
+},
+{
+"word": "affluence",
+"pos": "n",
+"zh": "n. 富裕, 丰富, 流注 / [医] 丰富, 流入",
+"en": "n. abundant wealth"
+},
+{
+"word": "chastise",
+"pos": "vt",
+"zh": "vt. 责骂, 惩罚 / [法] 责罚, 惩戒, 严惩",
+"en": "v. censure severely"
+},
+{
+"word": "slouch",
+"pos": "n/vi/vt",
+"zh": "n. 没精打采的样子, 耷拉, 笨人 / vi. 没精打采地走, 耷拉着 / vt. 使低垂",
+"en": "n. an incompetent person; usually used in negative constructions / n. a stooping carriage in standing and walking / v. w…"
+},
+{
+"word": "interlocking",
+"pos": "a",
+"zh": "a. 连锁的 / [化] 咬合; 咬合作用",
+"en": "n contact by fitting together / n the act of interlocking or meshing / v coordinate in such a way that all parts work to…"
+},
+{
+"word": "congested",
+"pos": "a",
+"zh": "a. 拥挤的, 堵塞的 / [医] 充血的",
+"en": "s. overfull as with blood"
+}
+]

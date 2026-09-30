@@ -1,0 +1,602 @@
+[
+{
+"word": "complication",
+"pos": "n",
+"zh": "n. 复杂化, 复杂情况 / [医] 并发症, 并发病",
+"en": "n. the act or process of complicating / n. a situation or condition that is complex or confused / n. any disease or diso…"
+},
+{
+"word": "critique",
+"pos": "n",
+"zh": "n. 评论文章, 评论",
+"en": "n an essay or article that gives a critical evaluation (as of a book or play) / n a serious examination and judgment of …"
+},
+{
+"word": "aboard",
+"pos": "adv/prep",
+"zh": "adv. 在船上, 在火车上, 在飞机上 / prep. 在...之上",
+"en": "r. on a ship, train, plane or other vehicle / r. on first or second or third base / r. side by side / r. part of a group"
+},
+{
+"word": "delicious",
+"pos": "a",
+"zh": "a. 美味的",
+"en": "n. variety of sweet eating apples"
+},
+{
+"word": "lengthy",
+"pos": "a",
+"zh": "a. 冗长的, 漫长的",
+"en": "s relatively long in duration; tediously protracted"
+},
+{
+"word": "compassion",
+"pos": "n",
+"zh": "n. 同情, 怜悯",
+"en": "n. a deep awareness of and sympathy for another's suffering / n. the humane quality of understanding the suffering of ot…"
+},
+{
+"word": "fashionable",
+"pos": "a",
+"zh": "a. 时髦的, 上流社会的, 流行的",
+"en": "a. being or in accordance with current social fashions / s. patronized by"
+},
+{
+"word": "mercy",
+"pos": "n",
+"zh": "n. 仁慈, 宽恕, 慈悲, 怜悯, 幸运 / [法] 权宜处置权, 决定权, 宽恕",
+"en": "n. something for which to be thankful / n. alleviation of distress; showing great kindness toward the distressed"
+},
+{
+"word": "beautifully",
+"pos": "adv",
+"zh": "adv. 美好地, 漂亮地",
+"en": "r. in a beautiful manner"
+},
+{
+"word": "worm",
+"pos": "n/vi/vt",
+"zh": "n. 虫, 蠕虫, 小人物, 螺纹, 蜗杆 / vi. 蠕行, 慢慢前进 / vt. 使蠕行, 慢慢地走, 除虫 / [计] 蠕虫病毒",
+"en": "n. any of numerous relatively small elongated soft-bodied animals especially of the phyla Annelida and Chaetognatha and …"
+},
+{
+"word": "competent",
+"pos": "a",
+"zh": "a. 能干的, 胜任的, 有效的, 足够的 / [经] 有权的, 授权的, 胜任的",
+"en": "a. properly or sufficiently qualified or capable or efficient / s. adequate for the purpose / a. legally qualified or su…"
+},
+{
+"word": "accumulate",
+"pos": "v",
+"zh": "v. 积聚, 堆积",
+"en": "v. collect or gather"
+},
+{
+"word": "legendary",
+"pos": "a",
+"zh": "a. 传说的, 传奇中说的, 传奇般的, 传说中的, 著名的",
+"en": "s. so celebrated as to having taken on the nature of a legend"
+},
+{
+"word": "authentic",
+"pos": "a",
+"zh": "a. 可靠的, 可信的, 真正的 / [法] 被认证的, 确认的, 可信的",
+"en": "s. conforming to fact and therefore worthy of belief / s. not counterfeit or copied"
+},
+{
+"word": "dome",
+"pos": "n/vt/vi",
+"zh": "n. 圆顶 / vt. 加圆顶 / vi. 成圆顶状",
+"en": "n. a concave shape whose distinguishing characteristic is that the concavity faces downward / n. a stadium that has a ro…"
+},
+{
+"word": "editorial",
+"pos": "n/a",
+"zh": "n. 社论, 评论 / a. 编辑的, 主笔的, 社论的",
+"en": "a. of or relating to an article stating opinions or giving perspectives / a. relating to or characteristic of an editor"
+},
+{
+"word": "locker",
+"pos": "n",
+"zh": "n. 抽屉, 小柜, 上锁人 / [机] 锁柜",
+"en": "n. a fastener that locks or closes"
+},
+{
+"word": "surroundings",
+"pos": "n",
+"zh": "n. 环境, 周围的事物 / [化] 环境",
+"en": "n the environmental condition / n the area in which something exists or lives / v extend on all sides of simultaneously;…"
+},
+{
+"word": "follower",
+"pos": "n",
+"zh": "n. 从者, 属下, 追补者 / [电] 随动机",
+"en": "n. a person who accepts the leadership of another / n. someone who travels behind or pursues another"
+},
+{
+"word": "faithful",
+"pos": "a/n",
+"zh": "a. 忠实的, 详确的, 可靠的 / n. 信徒",
+"en": "n. any loyal and steadfast following / a. steadfast in affection or allegiance / a. not having sexual relations with any…"
+},
+{
+"word": "wit",
+"pos": "n",
+"zh": "n. 机智, 智力, 头脑, 理智, 妙语, 机智的人",
+"en": "n. a message whose ingenuity or verbal skill or incongruity has the power to evoke laughter"
+},
+{
+"word": "haunt",
+"pos": "n/vt/vi",
+"zh": "n. 常到的地方, 生息地 / vt. 常到, 出没于, 萦绕于 / vi. 出没, 作祟",
+"en": "n. a frequently visited place / v. follow stealthily or recur constantly and spontaneously to / v. haunt like a ghost; p…"
+},
+{
+"word": "spectacle",
+"pos": "n",
+"zh": "n. 引人羡慕的东西, 景象, 眼镜, 场面, 公开展示",
+"en": "n. something or someone seen (especially a notable or unusual sight) / n. an elaborate and remarkable display on a lavis…"
+},
+{
+"word": "respective",
+"pos": "a",
+"zh": "a. 分别的, 各自的",
+"en": "s. considered individually"
+},
+{
+"word": "probable",
+"pos": "a/n",
+"zh": "a. 很可能的, 大概的, 可信的 / n. 很有希望的候选人, 很可能的事情",
+"en": "n. an applicant likely to be chosen / a. likely but not certain to be or become true or real / s. apparently destined"
+},
+{
+"word": "sheriff",
+"pos": "n",
+"zh": "n. 郡治安官, 县治安官 / [法] 司法行政官, 郡长, 执行吏",
+"en": "n. the principal law-enforcement officer in a county"
+},
+{
+"word": "miserable",
+"pos": "a",
+"zh": "a. 悲惨的；痛苦的；卑鄙的",
+"en": "s. very unhappy; full of misery / s. characterized by physical misery"
+},
+{
+"word": "dual",
+"pos": "a/n",
+"zh": "a. 双重的, 双的 / n. 双数",
+"en": "s. a grammatical number category referring to two items or units as opposed to one item (singular) or more than two item…"
+},
+{
+"word": "evoke",
+"pos": "vt",
+"zh": "vt. 唤起, 引起, 召(魂) / [法] 提审, 移送",
+"en": "v call forth (emotions, feelings, and responses) / v evoke or provoke to appear or occur / v deduce (a principle) or con…"
+},
+{
+"word": "comparatively",
+"pos": "adv",
+"zh": "adv. 比较地, 相对地",
+"en": "r in a relative manner; by comparison to something else"
+},
+{
+"word": "pal",
+"pos": "n/vi",
+"zh": "n. 朋友, 伙伴, 同志, 同谋 / vi. 交友, 结伴",
+"en": "v. become friends; act friendly towards"
+},
+{
+"word": "surrender",
+"pos": "vt/vi/n",
+"zh": "vt. 交出, 放弃, 使投降, 让与 / vi. 投降, 自首 / n. 交出, 放弃, 投降",
+"en": "n. the delivery of a principal into lawful custody / v. give up or agree to forgo to the power or possession of another …"
+},
+{
+"word": "scar",
+"pos": "n/vi/vt",
+"zh": "n. 疤痕, 伤痕, 悬崖 / vi. 结疤, 愈合, 痊愈 / vt. 使有伤痕",
+"en": "n. a mark left (usually on the skin) by the healing of injured tissue / v. mark with a scar"
+},
+{
+"word": "unconscious",
+"pos": "a",
+"zh": "a. 未意识到的, 无意识的, 无知觉的 / [医] 人事不省的, 神志丧失的; 无意识的",
+"en": "a. not conscious; lacking awareness and the capacity for sensory perception as if asleep or dead / s. without conscious …"
+},
+{
+"word": "variance",
+"pos": "n",
+"zh": "n. 不一致, 变化, 变异, 分歧, 不和 / [化] 方差; 变种",
+"en": "n. the second moment around the mean; the expected value of the square of the deviations of a random variable from its m…"
+},
+{
+"word": "multiply",
+"pos": "v",
+"zh": "v. 繁殖, 乘, 增加 / [计] 乘",
+"en": "v. combine by multiplication / v. combine or increase by multiplication / r. in several ways; in a multiple manner"
+},
+{
+"word": "surge",
+"pos": "n/vi/vt",
+"zh": "n. 巨涌, 汹涌, 澎湃 / vi. 汹涌, 澎湃, 颠簸, 猛冲, 突然放松 / vt. 使汹涌奔腾, 急放 / [计] 电压尖峰",
+"en": "n. a sudden or abrupt strong increase / v. see one's performance improve"
+},
+{
+"word": "amateur",
+"pos": "n",
+"zh": "n. 业余爱好者, 外行, 爱好者 / [电] 业余家",
+"en": "n. someone who pursues a study or sport as a pastime / n. an athlete who does not play for pay / s. engaged in as a past…"
+},
+{
+"word": "sailor",
+"pos": "n",
+"zh": "n. 水手, 船员, 海员 / [法] 水手, 船员, 海员",
+"en": "n. any member of a ship's crew"
+},
+{
+"word": "appraisal",
+"pos": "n",
+"zh": "n. 评价, 估价 / [经] 评价, 评估",
+"en": "n. the classification of someone or something with respect to its worth / n. a document appraising the value of somethin…"
+},
+{
+"word": "commentary",
+"pos": "n",
+"zh": "n. 注释, 评论, 说明 / [法] 注释, 评注, 评论",
+"en": "n a written explanation or criticism or illustration that is added to a book or other textual material"
+},
+{
+"word": "chemist",
+"pos": "n",
+"zh": "n. 化学家, 药剂师 / [化] 化学家; 化学师; 化学工作者; 药剂师; 药房",
+"en": "n. a scientist who specializes in chemistry"
+},
+{
+"word": "penetrate",
+"pos": "vt/vi",
+"zh": "vt. 穿透, 刺穿, 渗透, 看穿, 洞察, 了解, 使充溢 / vi. 刺入, 看穿, 渗透, 打进",
+"en": "v. pass into or through, often by overcoming resistance / v. come to understand / v. make one's way deeper into or throu…"
+},
+{
+"word": "spectator",
+"pos": "n",
+"zh": "n. 观众, 目击者, 旁观者",
+"en": "n. a close observer; someone who looks at something (such as an exhibition of some kind)"
+},
+{
+"word": "outlook",
+"pos": "n",
+"zh": "n. 观点, 景色, 前途, 了望 / [经] 展望",
+"en": "n a habitual or characteristic mental attitude that determines how you will interpret and respond to situations / n beli…"
+},
+{
+"word": "cheerful",
+"pos": "a",
+"zh": "a. 快活的, 高兴的, 兴高采烈的",
+"en": "a. being full of or promoting cheer; having or showing good spirits / s. pleasantly (even unrealistically) optimistic"
+},
+{
+"word": "hover",
+"pos": "vi/vt/n",
+"zh": "vi. 盘旋, 翱翔, 徘徊 / vt. 孵 / n. 翱翔",
+"en": "v. be undecided about something; waver between conflicting positions or courses of action / v. move to and fro / v. hang…"
+},
+{
+"word": "attain",
+"pos": "vt/vi",
+"zh": "vt. 达到, 获得 / vi. 达到",
+"en": "v to gain with effort / v reach a point in time, or a certain state or level / v find unexpectedly / v reach a destinati…"
+},
+{
+"word": "stunning",
+"pos": "a",
+"zh": "a. 打昏迷的, 弄得人昏头昏脑的, 令人震惊的",
+"en": "s. causing great astonishment and consternation / s. causing or capable of causing bewilderment or shock or insensibilit…"
+},
+{
+"word": "orthodox",
+"pos": "a",
+"zh": "a. 正统的, 传统的, 惯常的",
+"en": "a. of or pertaining to or characteristic of Judaism / a. adhering to what is commonly accepted / a. of or relating to or…"
+},
+{
+"word": "frighten",
+"pos": "vt/vi",
+"zh": "vt. 使惊吓 / vi. 惊恐",
+"en": "v. cause fear in / v. drive out by frightening"
+},
+{
+"word": "cowboy",
+"pos": "n",
+"zh": "n. 牛仔, 牛郎, 牧童",
+"en": "n. a hired hand who tends cattle and performs other duties on horseback / n. a performer who gives exhibitions of riding…"
+},
+{
+"word": "disagreement",
+"pos": "n",
+"zh": "n. 不合, 争论, 不一致 / [法] 不一致, 不同意, 陪审团的意见不一",
+"en": "n. a conflict of people's opinions or actions or characters / n. the speech act of disagreeing or arguing or disputing"
+},
+{
+"word": "snatch",
+"pos": "n/vt/vi",
+"zh": "n. 抢夺, 攫取, 片断 / vt. 夺取, 攫取 / vi. 想抢走, 攫取",
+"en": "n. a small fragment / n. a weightlift in which the barbell is lifted overhead in one rapid motion / v. to grasp hastily …"
+},
+{
+"word": "viable",
+"pos": "a",
+"zh": "a. 能养活的, 能生长发育的 / [医] 有活力的, 有生机的",
+"en": "s. capable of life or normal growth and development"
+},
+{
+"word": "precision",
+"pos": "n/a",
+"zh": "n. 精密, 精确, 精确度, 精度 / a. 精密的, 精确的 / [计] 精度",
+"en": "n the quality of being reproducible in amount or performance"
+},
+{
+"word": "countless",
+"pos": "a",
+"zh": "a. 数不尽的, 无数的",
+"en": "s. too numerous to be counted"
+},
+{
+"word": "exert",
+"pos": "vt",
+"zh": "vt. 发挥, 运用, 施以影响 / [法] 施加, 产生, 行使",
+"en": "v. put to use / v. make a great effort at a mental or physical task"
+},
+{
+"word": "ninth",
+"pos": "num",
+"zh": "num. 第九, 九分之一",
+"en": "n. position nine in a countable series of things / s. coming next after the eighth and just before the tenth in position"
+},
+{
+"word": "outbreak",
+"pos": "n",
+"zh": "n. 爆发, 暴动 / [医] 暴发",
+"en": "n. a sudden violent spontaneous occurrence (usually of some undesirable condition)"
+},
+{
+"word": "knot",
+"pos": "n/v",
+"zh": "n. 结, 群, 难题 / v. 打结, (使)纠缠",
+"en": "n. a tight cluster of people or things / n. any of various fastenings formed by looping and tying a rope (or cord) upon …"
+},
+{
+"word": "strive",
+"pos": "vi",
+"zh": "vi. 努力, 奋斗, 斗争",
+"en": "v. to exert much effort or energy"
+},
+{
+"word": "spur",
+"pos": "n/vt/vi",
+"zh": "n. 马刺, 刺激物, 鼓舞 / vt. 刺激, 激励, 用马刺策(马)前进 / vi. 用马刺驱马, 疾驰",
+"en": "n. any sharply pointed projection / n. tubular extension at the base of the corolla in some flowers / n. a sharp prod fi…"
+},
+{
+"word": "warfare",
+"pos": "n",
+"zh": "n. 战争, 战斗, 交战, 斗争, 竞争 / [法] 战事, 作战, 交战",
+"en": "n the waging of armed conflict against an enemy / n an active struggle between competing entities"
+},
+{
+"word": "tilt",
+"pos": "n/vt/vi",
+"zh": "n. 倾斜, 倾向, 船篷, 车篷 / vt. 使倾斜, 使倾侧, 用帆布篷遮盖 / vi. 倾斜, 翘起, 冲, 评击 / [计] 倾斜",
+"en": "n. a slight but noticeable partiality / n. the property possessed by a line or surface that departs from the vertical / …"
+},
+{
+"word": "propaganda",
+"pos": "n",
+"zh": "n. 宣传, 宣传活动 / [医] 宣传",
+"en": "n. information that is spread for the purpose of promoting some cause"
+},
+{
+"word": "rob",
+"pos": "v",
+"zh": "v. 抢夺, 抢掠, 剥夺",
+"en": "v. take something away by force or without the consent of the owner"
+},
+{
+"word": "biologist",
+"pos": "n",
+"zh": "n. 生物学家 / [医] 生物学家",
+"en": "n. (biology) a scientist who studies living organisms"
+},
+{
+"word": "territorial",
+"pos": "a/n",
+"zh": "a. 领土的, 土地的, 地方的, 区域性的 / n. 本土自卫队队员",
+"en": "n. nonprofessional soldier member of a territorial military unit / n. a territorial military unit / a. of or relating to…"
+},
+{
+"word": "baron",
+"pos": "n",
+"zh": "n. 男爵 / [法] 男爵, 贵族, 大王",
+"en": "n. a nobleman (in various countries) of varying rank / n. a British peer of the lowest rank / n. a very wealthy or power…"
+},
+{
+"word": "antibiotic",
+"pos": "n/a",
+"zh": "n. 抗生素 / a. 抗生的",
+"en": "n. a chemical substance derivable from a mold or bacterium that can kill microorganisms and cure bacterial infections / …"
+},
+{
+"word": "prosperity",
+"pos": "n",
+"zh": "n. 繁荣, 茂盛, 成功 / [经] 繁荣",
+"en": "n. an economic state of growth with rising profits and full employment / n. the condition of prospering; having good for…"
+},
+{
+"word": "inland",
+"pos": "a/n",
+"zh": "a. 内陆的, 国内的 / n. 内地",
+"en": "a. situated away from an area's coast or border / r. towards or into the interior of a region"
+},
+{
+"word": "exile",
+"pos": "n/vt",
+"zh": "n. 放逐, 流放, 被放逐者 / vt. 放逐, 流放, 使背井离乡",
+"en": "n. a person who is voluntarily absent from home or country / n. a person who is expelled from home or country by authori…"
+},
+{
+"word": "weep",
+"pos": "n/vi/vt",
+"zh": "n. 哭, 哭泣 / vi. 哭泣, 流泪, 哀悼, 滴落 / vt. 哭着使..., 悲叹, 滴下",
+"en": "v shed tears because of sadness, rage, or pain"
+},
+{
+"word": "implicit",
+"pos": "a",
+"zh": "a. 暗示的, 含蓄的, 固有的, 绝对的 / [经] 不讲明的, 含蓄的",
+"en": "a. implied though not directly expressed; inherent in the nature of something / s. being without doubt or reserve"
+},
+{
+"word": "architectural",
+"pos": "a",
+"zh": "a. 有关建筑的, 建筑学的",
+"en": "a. of or pertaining to the art and science of architecture"
+},
+{
+"word": "prosecute",
+"pos": "vt/vi",
+"zh": "vt. 告发, 起诉, 彻底进行, 执行, 从事 / vi. 告发, 起诉, 作检察官",
+"en": "v. conduct a prosecution in a court of law / v. bring a criminal action against (in a trial) / v. carry out or participa…"
+},
+{
+"word": "choir",
+"pos": "n/v",
+"zh": "n. 唱诗班, 唱诗班的席位 / v. 合唱",
+"en": "n. a chorus that sings as part of a religious ceremony / n. a family of similar musical instrument playing together / n.…"
+},
+{
+"word": "glow",
+"pos": "n/vi",
+"zh": "n. 赤热, 光辉, 热情, 热烈, 红光 / vi. 发红光, 红光焕发, 发热, 洋溢, 激动",
+"en": "n. a feeling of considerable warmth / n. a steady even light without flames / v. emit a steady even light without flames…"
+},
+{
+"word": "embody",
+"pos": "vt",
+"zh": "vt. 具体表达, 使具体化 / [经] 合并, 具体化, 具体表现",
+"en": "v. represent, as of a character on stage / v. represent or express something abstract in tangible form"
+},
+{
+"word": "precedent",
+"pos": "n/a",
+"zh": "n. 先例, 前例 / a. 在先的, 在前的",
+"en": "n. an example that is used to justify similar occurrences at a later time / n. a subject mentioned earlier (preceding in…"
+},
+{
+"word": "unacceptable",
+"pos": "a",
+"zh": "a. 无法接受的, 不受欢迎的 / [法] 不能接受的, 不受欢迎的, 难以承认的",
+"en": "s. not adequate to give satisfaction / a. not acceptable; not welcome / s. not conforming to standard usage; `You can ac…"
+},
+{
+"word": "integral",
+"pos": "n/a",
+"zh": "n. 整体, 积分, 整数 / a. 固有的, 整体的, 整数的, 积分的 / [计] 积分",
+"en": "n. the result of a mathematical integration; F(x) is the integral of f(x) if dF/dx = f(x) / s. constituting the undimini…"
+},
+{
+"word": "horizontal",
+"pos": "n/a",
+"zh": "n. 水平线, 水平面, 水平位置 / a. 水平线的, 平坦的, 横的 / n. 水平 / [计] 水平",
+"en": "n. something that is oriented horizontally / a. parallel to or in the plane of the horizon or a base line"
+},
+{
+"word": "fake",
+"pos": "n/a/vt/vi",
+"zh": "n. 假货, 欺骗, 诡计 / a. 假的 / vt. 假造, 仿造 / vi. 伪装",
+"en": "n. something that is a counterfeit; not what it seems to be / s. not genuine or real; being an imitation of the genuine …"
+},
+{
+"word": "crab",
+"pos": "n/vi/vt",
+"zh": "n. 螃蟹, 偏航, 脾气乖戾的人, 沙果 / vi. 捕蟹, 偏航, 发牢骚 / vt. 使偏航, 抱怨, 破坏",
+"en": "n. decapod having eyes on short stalks and a broad flattened carapace with a small abdomen folded under the thorax and p…"
+},
+{
+"word": "viewpoint",
+"pos": "n",
+"zh": "n. 观点",
+"en": "n a mental position from which things are viewed / n a place from which something can be viewed"
+},
+{
+"word": "hydrogen",
+"pos": "n",
+"zh": "n. 氢 / [化] 氢H-2",
+"en": "n. a nonmetallic univalent element that is normally a colorless and odorless highly flammable diatomic gas; the simplest…"
+},
+{
+"word": "vinegar",
+"pos": "n/vt",
+"zh": "n. 醋, 尖酸刻薄 / vt. 加醋于",
+"en": "n. sour-tasting liquid produced usually by oxidation of the alcohol in wine or cider and used as a condiment or food pre…"
+},
+{
+"word": "organizer",
+"pos": "n",
+"zh": "n. 组织者, 编制者, 创立者, 组织导体 / [医] 组织导体, 机化中心(胚)",
+"en": "n. a person who brings order and organization to an enterprise / n. someone who enlists workers to join a union"
+},
+{
+"word": "inhibit",
+"pos": "vt/vi",
+"zh": "vt. 禁止, 抑制 / vi. 起抑制作用",
+"en": "v. limit the range or extent of / v. limit, block, or decrease the action or function of / v. control and refrain from s…"
+},
+{
+"word": "inability",
+"pos": "n",
+"zh": "n. 无能, 无力",
+"en": "n. lack of ability (especially mental ability) to do something / n. lacking the power to perform"
+},
+{
+"word": "murderer",
+"pos": "n",
+"zh": "n. 凶手, 杀人者, 谋害者 / [法] 谋杀犯, 凶手",
+"en": "n. a criminal who commits homicide (who performs the unlawful premeditated killing of another human being)"
+},
+{
+"word": "hopeful",
+"pos": "n/a",
+"zh": "n. 有希望之人, 有前途之人 / a. 有希望的, 怀抱希望的, 保持乐观的",
+"en": "a. having or manifesting hope"
+},
+{
+"word": "mandatory",
+"pos": "a",
+"zh": "a. 命令的, 托管的 / [经] 受托者, 命令者",
+"en": "n the recipient of a mandate / n a territory surrendered by Turkey or Germany after World War I and put under the tutela…"
+},
+{
+"word": "adverse",
+"pos": "a",
+"zh": "a. 不利的, 敌对的, 相反的, 逆的 / [法] 相反的, 敌对的, 逆的",
+"en": "s. contrary to your interests or welfare / s. in an opposing direction"
+},
+{
+"word": "dive",
+"pos": "n/vi/vt",
+"zh": "n. 潜水, 跳水 / vi. 跳水, 俯冲, 猛冲 / vt. 把...突然伸入",
+"en": "n. a headlong plunge into water / n. a steep nose-down descent by an aircraft / v. drop steeply / v. plunge into water"
+},
+{
+"word": "soda",
+"pos": "n",
+"zh": "n. 苏打, 碳酸水 / [化] 纯碱; 苏打; 碳酸钠",
+"en": "n a sodium salt of carbonic acid; used in making soap powders and glass and paper / n a sweet drink containing carbonate…"
+},
+{
+"word": "valve",
+"pos": "n/v",
+"zh": "n. 活瓣, 阀, 活门 / v. 装阀, 用阀调节",
+"en": "n. a structure in a hollow organ (like the heart) with a flap to insure one-way flow of fluid through it / n. device in …"
+}
+]

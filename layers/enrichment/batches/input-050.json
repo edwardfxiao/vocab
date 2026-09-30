@@ -1,0 +1,602 @@
+[
+{
+"word": "flush",
+"pos": "n/a/adv/vi/vt",
+"zh": "n. 流溢, 面红, 旺盛, 发烧, 惊飞的鸟, 同花牌 / a. 丰足的, 齐平的, 满盈的, 泛滥的 / adv. 齐平地, 直接地 / vi. 脸发红, 奔涌, 旺盛, 惊飞…",
+"en": "n. a poker hand with all 5 cards in the same suit / n. a sudden rapid flow (as of water) / v. flow freely / v. glow or c…"
+},
+{
+"word": "tub",
+"pos": "n/vt/vi",
+"zh": "n. 桶, 浴盆 / vt. 装入桶, 洗澡 / vi. 洗盆浴, 被放在桶里洗",
+"en": "n. a large open vessel for holding or storing liquids / n. the amount that a tub will hold"
+},
+{
+"word": "reservoir",
+"pos": "n/vt",
+"zh": "n. 贮水池, 贮藏处, 贮备, 水库 / vt. 储藏",
+"en": "n. a large or extra supply of something / n. lake used to store water for community use / n. tank used for collecting an…"
+},
+{
+"word": "theirs",
+"pos": "pron",
+"zh": "pron. 他们的",
+"en": ""
+},
+{
+"word": "wardrobe",
+"pos": "n",
+"zh": "n. 衣橱, 衣室, 全部衣服",
+"en": "n. a tall piece of furniture that provides storage space for clothes; has a door and rails or hooks for hanging clothes …"
+},
+{
+"word": "abundance",
+"pos": "n",
+"zh": "n. 丰富, 充足, 大量 / [经] 丰富, 充裕",
+"en": "n. the property of a more than adequate quantity or supply / n. (physics) the ratio of the number of atoms of a specific…"
+},
+{
+"word": "hull",
+"pos": "n/vt",
+"zh": "n. 壳, 皮, 船体 / vt. 去壳",
+"en": "n. dry outer covering of a fruit or seed or nut / n. persistent enlarged calyx at base of e.g. a strawberry or raspberry…"
+},
+{
+"word": "renaissance",
+"pos": "n/a",
+"zh": "n. 复活, 复兴, 文艺复兴 / a. 文艺复兴的",
+"en": "n. the period of European history at the close of the Middle Ages and the rise of the modern world; a cultural rebirth f…"
+},
+{
+"word": "lime",
+"pos": "n/vt",
+"zh": "n. 石灰, 粘鸟胶, 酸橙 / vt. 以石灰处理, 粘鸟胶于, 撒石灰",
+"en": "n. any of various related trees bearing limes / n. the green acidic fruit of any of various lime trees / v. cover with l…"
+},
+{
+"word": "psychiatric",
+"pos": "a",
+"zh": "a. 精神病学的, 医精神病的 / [医] 精神病学的",
+"en": "a. relating to or used in or engaged in the practice of psychiatry"
+},
+{
+"word": "attendant",
+"pos": "n/a",
+"zh": "n. 随从, 侍者, 出席者 / a. 侍候的, 伴随的, 出席的, 在场的",
+"en": "n. someone who waits on or tends to or attends to the needs of another / n. a person who is present and participates in …"
+},
+{
+"word": "fulfill",
+"pos": "vt",
+"zh": "vt. 实践, 履行, 实行, 完成, 结束, 满足 / [法] 履行, 完成, 达到",
+"en": "v put in effect / v meet the requirements or expectations of / v fill or meet a want or need"
+},
+{
+"word": "assassination",
+"pos": "n",
+"zh": "n. 暗杀 / [法] 暗杀, 行刺",
+"en": "n. murder of a public figure by surprise attack"
+},
+{
+"word": "geographic",
+"pos": "a",
+"zh": "a. 地理(学)的, 地区(性)的",
+"en": "a. of or relating to the science of geography / a. determined by geography"
+},
+{
+"word": "strawberry",
+"pos": "n",
+"zh": "n. 草莓",
+"en": "n. sweet fleshy red fruit / n. any of various low perennial herbs with many runners and bearing white flowers followed b…"
+},
+{
+"word": "atomic",
+"pos": "a",
+"zh": "a. 原子的, 原子能的 / [医] 原子的",
+"en": "a. of or relating to or comprising atoms / s. immeasurably small"
+},
+{
+"word": "loudly",
+"pos": "adv",
+"zh": "adv. 高声地, 大声地, 吵闹地",
+"en": "r. with relatively high volume"
+},
+{
+"word": "portable",
+"pos": "a",
+"zh": "a. 可携带的, 可搬运的, 可移动的 / [计] 可移植的",
+"en": "n. a small light typewriter; usually with a case in which it can be carried / a. easily or conveniently transported / s.…"
+},
+{
+"word": "subscription",
+"pos": "n",
+"zh": "n. 捐献, 订金, 订阅, 签署, 同意 / [化] 订购",
+"en": "n. a payment for consecutive issues of a newspaper or magazine for a given period of time / n. agreement expressed by (o…"
+},
+{
+"word": "staircase",
+"pos": "n",
+"zh": "n. 楼梯, 梯子, 楼梯部分 / [医] 阶梯现象",
+"en": "n a way of access (upward and downward) consisting of a set of steps"
+},
+{
+"word": "moisture",
+"pos": "n",
+"zh": "n. 湿气, 水分, 降雨 / [化] 含水量; 含湿量",
+"en": "n. wetness caused by water"
+},
+{
+"word": "ironic",
+"pos": "a",
+"zh": "a. 冷嘲的, 挖苦的, 反话的, 讽刺的, 令人啼笑皆非的, 出乎意料的",
+"en": "s. characterized by often poignant difference or incongruity between what is expected and what actually is"
+},
+{
+"word": "superintendent",
+"pos": "n",
+"zh": "n. 监督人, 主管人, 主日学校校长 / [经] 监督人, 主管人(部门)",
+"en": "n. a caretaker for an apartment house; represents the owner as janitor and rent collector"
+},
+{
+"word": "rattle",
+"pos": "vt/vi/n",
+"zh": "vt. 使嘎嘎响, 喋喋不休地说 / vi. 格格响, 喋喋不休 / n. 格格声, 拨浪鼓, 喋喋不休的话",
+"en": "n. a rapid series of short loud sounds (as might be heard with a stethoscope in some types of respiratory disorders) / n…"
+},
+{
+"word": "fridge",
+"pos": "n",
+"zh": "n. 电冰箱",
+"en": "n a refrigerator in which the coolant is pumped around by an electric motor"
+},
+{
+"word": "shatter",
+"pos": "n/vt/vi",
+"zh": "n. 碎片, 粉碎, 落叶, 喷洒 / vt. 打碎, 使散开, 粉碎, 破坏 / vi. 粉碎, 损坏, 脱落",
+"en": "v. break into many pieces / v. damage or destroy / v. cause to break into many pieces"
+},
+{
+"word": "sniff",
+"pos": "n/vi/vt",
+"zh": "n. 以鼻吸气, 嗅, 气息 / vi. 嗅, 蔑视, 嗤之以鼻 / vt. 闻, 用力吸, 发觉",
+"en": "n. sensing an odor by inhaling through the nose / v. perceive by inhaling through the nose / v. inhale audibly through t…"
+},
+{
+"word": "startle",
+"pos": "n/vt/vi",
+"zh": "n. 惊愕, 惊恐 / vt. 吃惊, 使惊愕 / vi. 惊起",
+"en": "n. a sudden involuntary movement / v. to stimulate to action / v. move or jump suddenly, as if in surprise or alarm"
+},
+{
+"word": "gorgeous",
+"pos": "a",
+"zh": "a. 华丽的, 灿烂的",
+"en": "s. dazzlingly beautiful"
+},
+{
+"word": "variant",
+"pos": "n/a",
+"zh": "n. 变体, 异体 / a. 不同的, 有差别的 / [计] 变体型",
+"en": "s. differing from a norm or standard / s. exhibiting variation and change"
+},
+{
+"word": "tease",
+"pos": "n/vt",
+"zh": "n. 揶揄, 戏弄, 逗惹 / vt. 戏弄, 取笑, 强求, 梳理, 使起毛",
+"en": "n. someone given to teasing (as by mocking or stirring curiosity) / n. the act of harassing someone playfully or malicio…"
+},
+{
+"word": "stool",
+"pos": "n/vi/vt",
+"zh": "n. 凳子, 大便, 粪便, 厕所 / vi. 长新枝 / vt. 引诱, 诱捕",
+"en": "n. a simple seat without a back or arms / n. (forestry) the stump of a tree that has been felled or headed for the produ…"
+},
+{
+"word": "memorandum",
+"pos": "n",
+"zh": "n. 备忘录, 外交备忘录, 交易备忘录 / [经] 备忘录, 便笺, 便函",
+"en": "n a written proposal or reminder"
+},
+{
+"word": "waiter",
+"pos": "n",
+"zh": "n. 侍者",
+"en": "n. a person whose occupation is to serve at table (as in a restaurant) / n. a person who waits or awaits"
+},
+{
+"word": "formulation",
+"pos": "n",
+"zh": "n. 系统陈述, 公式化, 配制 / [化] 表述; 数学表述; 数式化; 数学表述",
+"en": "n. a substance prepared according to a formula / n. the style of expressing yourself"
+},
+{
+"word": "vow",
+"pos": "n/vi/vt",
+"zh": "n. 誓约, 誓言, 许愿 / vi. 起誓, 发誓, 郑重宣言 / vt. 立誓, 起誓要, 郑重地宣布",
+"en": "n. a solemn pledge (to oneself or to another or to a deity) to do something or to behave in a certain manner / v. make a…"
+},
+{
+"word": "semester",
+"pos": "n",
+"zh": "n. 学期",
+"en": "n. one of two divisions of an academic year / n. half a year; a period of 6 months"
+},
+{
+"word": "angrily",
+"pos": "adv",
+"zh": "adv. 愤怒地",
+"en": "r. with anger"
+},
+{
+"word": "jam",
+"pos": "n/vt/vi",
+"zh": "n. 果酱, 拥塞之物, 堵塞, 困境 / vt. 挤进, 使塞满, 混杂, 压碎, 使堵塞 / vi. 堵塞, 轧住, 拥挤",
+"en": "n. preserve of crushed fruit / v. push down forcibly / v. crush or bruise / v. interfere with or prevent the reception o…"
+},
+{
+"word": "hometown",
+"pos": "n",
+"zh": "n. 故乡, 家乡",
+"en": "n. the town (or city) where you grew up or where you have your principal residence"
+},
+{
+"word": "tumble",
+"pos": "n/vi/vt",
+"zh": "n. 跌倒, 摔跤, 翻斤斗 / vi. 翻倒, 摔倒, 倒塌, 滚动, 翻斤斗, 仓促地行动 / vt. 使摔倒, 使滚翻, 弄乱",
+"en": "n. an acrobatic feat of rolling or turning end over end / v. fall down, as if collapsing / v. roll over and over, back a…"
+},
+{
+"word": "detector",
+"pos": "n",
+"zh": "n. 发现者, 检验器, 检波器 / [计] 检波器; 检测器",
+"en": "n. any device that receives a signal or stimulus (as heat or pressure or light or motion etc.) and responds to it in a d…"
+},
+{
+"word": "rotate",
+"pos": "a/vt/vi",
+"zh": "a. 辐状的 / vt. 使旋转, 使转动, 使轮流 / vi. 旋转, 循环 / [计] 旋转",
+"en": "v. exchange on a regular basis / v. perform a job or duty on a rotating basis / v. cause to turn on an axis or center"
+},
+{
+"word": "madame",
+"pos": "n",
+"zh": "n. 夫人, 小姐, 太太, 女士, 主妇, (非正式)喜欢差使/指使别人的女子, 鸨母",
+"en": "n. title used for a married Frenchwoman"
+},
+{
+"word": "recount",
+"pos": "vt/n",
+"zh": "vt. 详述, 叙述, 重新计算 / n. 重新计算",
+"en": "n. an additional (usually a second) count; especially of the votes in a close election / v. count again"
+},
+{
+"word": "decree",
+"pos": "n/vt/vi",
+"zh": "n. 法令, 判决, 天意 / vt. 颁布, 判决 / vi. 发布命令",
+"en": "n. a legally binding command or decision entered on the court record (as if issued by a court or judge) / v. issue a dec…"
+},
+{
+"word": "spotlight",
+"pos": "n",
+"zh": "n. 照明灯, 反光灯, 聚光灯",
+"en": "n. a lamp that produces a strong beam of light to illuminate a restricted area; used to focus attention of a stage perfo…"
+},
+{
+"word": "settler",
+"pos": "n",
+"zh": "n. 移民者, 解决者, 结算员 / [化] 沉淀池; 沉降器; 澄清槽",
+"en": "n. a person who settles in a new colony or moves into new country / n. a negotiator who settles disputes / n. a clerk in…"
+},
+{
+"word": "copyright",
+"pos": "n",
+"zh": "n. 版权, 著作权 / [法] 著作权",
+"en": "n. a document granting exclusive right to publish and sell literary or musical or artistic work / v. secure a copyright …"
+},
+{
+"word": "exclaim",
+"pos": "v",
+"zh": "v. 大叫, 呼喊, 大声叫",
+"en": "v. utter aloud; often with surprise, horror, or joy"
+},
+{
+"word": "scrape",
+"pos": "n/vi/vt",
+"zh": "n. 刮, 擦, 挖, 擦痕, 刮擦声, 困境 / vi. 刮掉, 擦掉, 刮出刺耳声 / vt. 刮, 擦, 擦伤, 挖成, 积蓄",
+"en": "n. a harsh noise made by scraping / n. a deep bow with the foot drawn backwards (indicating excessive humility) / v. scr…"
+},
+{
+"word": "autonomous",
+"pos": "a",
+"zh": "a. 自治的 / [医] 自主的",
+"en": "s. (of political bodies) not controlled by outside forces / s. existing as an independent entity / s. (of persons) free …"
+},
+{
+"word": "optical",
+"pos": "a",
+"zh": "a. 眼睛的, 视觉的, 光学的 / [机] 光学上的, 光学的",
+"en": "a. of or relating to or involving light or optics"
+},
+{
+"word": "methodology",
+"pos": "n",
+"zh": "n. 方法学, 方法论 / [化] 操作法; 工艺",
+"en": "n. the branch of philosophy that analyzes the principles and procedures of inquiry in a particular discipline / n. the s…"
+},
+{
+"word": "bump",
+"pos": "n/vt/vi",
+"zh": "n. 撞击, 肿块 / vt. 碰撞 / vi. 撞, 颠簸而行",
+"en": "n. a lump on the body caused by a blow / v. knock against with force or violence / v. dance erotically or dance with the…"
+},
+{
+"word": "aggregate",
+"pos": "n/a/v",
+"zh": "n. 合计, 总计, 聚集体 / a. 合计的, 聚集的 / v. 聚集, 集合, 合计达 / [计] 聚合体; 聚集",
+"en": "n. material such as sand or gravel used with cement and water to make concrete, mortar, or plaster / n. a sum total of m…"
+},
+{
+"word": "sadness",
+"pos": "n",
+"zh": "n. 悲哀, 悲伤",
+"en": "n. emotions experienced when not in a state of well-being / n. the state of being sad"
+},
+{
+"word": "glare",
+"pos": "n/vi/vt",
+"zh": "n. 闪耀光, 刺眼 / vi. 发眩光, 瞪视 / vt. 瞪眼表示",
+"en": "n. a light within the field of vision that is brighter than the brightness to which the eyes are adapted / n. an angry s…"
+},
+{
+"word": "amnesty",
+"pos": "n",
+"zh": "n. 大赦, 赦免",
+"en": "n. a period during which offenders are exempt from punishment / n. the formal act of liberating someone / v. grant a par…"
+},
+{
+"word": "firefighter",
+"pos": "n",
+"zh": "n. <美>消防队员",
+"en": "n a member of a fire department who tries to extinguish fires"
+},
+{
+"word": "sediment",
+"pos": "n",
+"zh": "n. 沉淀物, 沉积 / [化] 沉降物; 沉积物",
+"en": "n. matter that has been deposited by some natural process / v. deposit as a sediment / v. settle as sediment"
+},
+{
+"word": "modem",
+"pos": "n",
+"zh": "n. 调制解调器 / [计] 调制解调器",
+"en": "n. (from a combination of MOdulate and DEModulate) electronic equipment consisting of a device used to connect computers…"
+},
+{
+"word": "conceptual",
+"pos": "a",
+"zh": "a. 概念的 / [医] 概念的",
+"en": "s. being or characterized by concepts or their formation"
+},
+{
+"word": "visa",
+"pos": "n/vt",
+"zh": "n. 签证 / vt. 签发",
+"en": "n. an endorsement made in a passport that allows the bearer to enter the country issuing it / v. provide (a passport) wi…"
+},
+{
+"word": "whatsoever",
+"pos": "pron",
+"zh": "pron. 无论什么",
+"en": "s one or some or every or all without specification"
+},
+{
+"word": "coincidence",
+"pos": "n",
+"zh": "n. 巧合, 同时发生 / [电] 符合计数器",
+"en": "n. an event that might have been arranged although it was really accidental / n. the quality of occupying the same posit…"
+},
+{
+"word": "overhead",
+"pos": "n/a/adv",
+"zh": "n. 经常开支, 普通用费, 天花板 / a. 在头上的, 高架的 / adv. 在头顶上, 在空中, 在高处, 从头到脚全部没入地 / [计] 总开销; 额外开销",
+"en": "n. (nautical) the top surface of an enclosed space on a ship / n. a hard return hitting the tennis ball above your head …"
+},
+{
+"word": "eve",
+"pos": "n",
+"zh": "n. 前夕, 前夜",
+"en": "n. (Old Testament) Adam's wife in Judeo-Christian mythology: the first woman and mother of the human race; God created E…"
+},
+{
+"word": "goose",
+"pos": "n/vt",
+"zh": "n. 鹅, 雌鹅, 鹅肉, 弯把熨斗 / vt. 与...性交, 突然加大油门, 使生色, 喝倒彩",
+"en": "n. web-footed long-necked typically gregarious migratory aquatic birds usually larger and less aquatic than ducks / n. f…"
+},
+{
+"word": "demolish",
+"pos": "vt",
+"zh": "vt. 毁坏, 破坏, 粉碎",
+"en": "v. destroy completely / v. defeat soundly"
+},
+{
+"word": "fireplace",
+"pos": "n",
+"zh": "n. 壁炉",
+"en": "n. an open recess in a wall at the base of a chimney where a fire can be built"
+},
+{
+"word": "peach",
+"pos": "n/vt/vi",
+"zh": "n. 桃子, 桃树, 桃色, 美人儿, 极好的事物 / vt. 告发 / vi. 告密, 检举",
+"en": "n. cultivated in temperate regions / n. downy juicy fruit with sweet yellowish or whitish flesh"
+},
+{
+"word": "summarize",
+"pos": "v",
+"zh": "v. 概述, 总结",
+"en": "v. be a summary of"
+},
+{
+"word": "nurture",
+"pos": "n/vt",
+"zh": "n. 养育, 营养物, 培育 / vt. 养育, 供给营养物, 教养",
+"en": "n the properties acquired as a consequence of the way you were treated as a child / n helping someone grow up to be an a…"
+},
+{
+"word": "tread",
+"pos": "n/vi/vt",
+"zh": "n. 踏, 步态, 梯级, 交尾, 鞋底 / vi. 踏, 行走, 交尾 / vt. 踩, 踏, 践踏, 跳(舞)",
+"en": "n. the grooved surface of a pneumatic tire / n. the part (as of a wheel or shoe) that makes contact with the ground / n.…"
+},
+{
+"word": "scrap",
+"pos": "n/vt/vi/a",
+"zh": "n. 碎片, 残余物, 些微, 片断, 铁屑, 吵架 / vt. 扔弃, 敲碎, 拆毁 / vi. 互相殴打 / a. 零碎拼凑成的, 废弃的",
+"en": "n. a small piece of something that is left over after the rest has been used / v. make into scrap or refuse"
+},
+{
+"word": "vivid",
+"pos": "a",
+"zh": "a. 生动的, 鲜明的, 鲜艳的, 活泼的, 逼真的, 清晰的",
+"en": "s. having the clarity and freshness of immediate experience"
+},
+{
+"word": "warden",
+"pos": "n",
+"zh": "n. 典狱官, 渔猎法监督官, 看守人 / [法] 看守人, 监护人, 管理员",
+"en": "n. the chief official in charge of a prison"
+},
+{
+"word": "promptly",
+"pos": "adv",
+"zh": "adv. 敏捷地, 迅速地",
+"en": "r. with little or no delay / r. in a punctual manner / r. at once (usually modifies an undesirable occurrence)"
+},
+{
+"word": "poison",
+"pos": "n/vt/vi",
+"zh": "n. 毒药, 毒, 毒物, 有毒害的事物 / vt. 毒害, 毒杀, 使中毒 / vi. 放毒, 下毒",
+"en": "n. any substance that causes injury or illness or death of a living organism / n. anything that harms or destroys / v. s…"
+},
+{
+"word": "indulge",
+"pos": "vt/vi",
+"zh": "vt. 纵情于, 使高兴, 放任, 迁就 / vi. 沉溺",
+"en": "v. give free rein to / v. enjoy to excess"
+},
+{
+"word": "disguise",
+"pos": "n/vt",
+"zh": "n. 假面目, 假装 / vt. 假装, 隐瞒",
+"en": "n. an outward semblance that misrepresents the true nature of something / n. any attire that modifies the appearance in …"
+},
+{
+"word": "flourish",
+"pos": "vi/vt/n",
+"zh": "vi. 繁荣, 茂盛, 活跃, 手舞足蹈 / vt. 挥舞, 夸耀 / n. 挥舞, 炫耀, 茂盛, 兴旺, 华丽词藻",
+"en": "n. a showy gesture / n. an ornamental embellishment in writing / n. a display of ornamental speech or language / n. the …"
+},
+{
+"word": "rocky",
+"pos": "a",
+"zh": "a. 岩石的, 多石的, 像岩石的, 无情的, 摇动的, 摇晃的",
+"en": "s. abounding in rocks or stones / s. liable to rock / s. full of hardship or trials"
+},
+{
+"word": "umbrella",
+"pos": "n/a/vt",
+"zh": "n. 伞, 雨伞, 保护伞 / a. 伞的, 包罗万象的 / vt. 用伞遮掩",
+"en": "n. a lightweight handheld collapsible canopy / n. a formation of military planes maintained over ground operations or ta…"
+},
+{
+"word": "smoothly",
+"pos": "adv",
+"zh": "adv. 平滑地, 流畅地, 流利地",
+"en": "r. with no problems or difficulties / r. in a smooth and diplomatic manner"
+},
+{
+"word": "enjoyment",
+"pos": "n",
+"zh": "n. 享乐, 快乐, 享受 / [经] 使用权",
+"en": "n. the pleasure felt when having a good time / n. act of receiving pleasure from something"
+},
+{
+"word": "attachment",
+"pos": "n",
+"zh": "n. 连接, 附属物, 连接物, 爱慕 / [计] 附加, 附件",
+"en": "n. a feeling of affection for a person or an institution / n. a supplementary part or accessory / n. a writ authorizing …"
+},
+{
+"word": "underneath",
+"pos": "adv/prep",
+"zh": "adv. 在下面 / prep. 在...的下面",
+"en": "r. on the lower or downward side; on the underside of / r. under or below an object or a surface; at a lower place or le…"
+},
+{
+"word": "batch",
+"pos": "n/v",
+"zh": "n. 一次所烘的面包, 一次所制之量, 一组, 批, 成批, 分批 / v. 成批, 分批处理 / [计] 一批",
+"en": "n. all the loaves of bread baked at the same time / n. (often followed by `of') a large number or amount or extent / n. …"
+},
+{
+"word": "spider",
+"pos": "n",
+"zh": "n. 蜘蛛, 设圈套者 / [化] 星形轮",
+"en": "n. predatory arachnid with eight legs, two poison fangs, two feelers, and usually two silk-spinning organs at the back e…"
+},
+{
+"word": "labourer",
+"pos": "n",
+"zh": "n. 劳动者, 干体力工作的工人, 劳工 / [机] 劳动者",
+"en": "n someone who works with their hands; someone engaged in manual labor"
+},
+{
+"word": "obsession",
+"pos": "n",
+"zh": "n. 困扰, 困扰人的情绪 / [医] 强迫观念",
+"en": "n. an unhealthy and compulsive preoccupation with something or someone"
+},
+{
+"word": "vigorous",
+"pos": "a",
+"zh": "a. 精力充沛的, 元气旺盛的, 茁壮的, 有力的",
+"en": "s. characterized by forceful and energetic action or activity / s. strong and active physically or mentally"
+},
+{
+"word": "nutrition",
+"pos": "n",
+"zh": "n. 营养, 营养学 / [医] 营养, 营养品",
+"en": "n. (physiology) the organic process of nourishing or being nourished; the processes by which an organism assimilates foo…"
+},
+{
+"word": "pillar",
+"pos": "n",
+"zh": "n. 柱子, 栋梁, 台柱, 重要的支持者 / [医] 柱, 脚",
+"en": "n. a fundamental principle or practice / n. a prominent supporter"
+},
+{
+"word": "obscure",
+"pos": "a/vt",
+"zh": "a. 模糊的, 昏暗的, 难解的, 晦涩的, 偏僻的, 微贱的, 无名的 / vt. 使变暗, 隐藏, 使变模糊, 使难解",
+"en": "v. make less visible or unclear / v. make obscure or unclear / v. reduce a vowel to a neutral one, such as a schwa / v. …"
+},
+{
+"word": "melody",
+"pos": "n",
+"zh": "n. 曲子, 美妙音乐, 曲调",
+"en": "n. the perception of pleasant arrangements of musical notes"
+},
+{
+"word": "restrain",
+"pos": "vt",
+"zh": "vt. 抑制, 阻止, 束缚 / [法] 抑制, 遏制, 制止",
+"en": "v. keep under control; keep in check / v. to close within bounds, limit or hold back from movement / v. hold back"
+},
+{
+"word": "paradise",
+"pos": "n",
+"zh": "n. 天堂, 乐园, 伊甸园",
+"en": "n. (Christianity) the abode of righteous souls after death"
+}
+]

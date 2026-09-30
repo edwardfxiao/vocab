@@ -1,0 +1,602 @@
+[
+{
+"word": "loyalty",
+"pos": "n",
+"zh": "n. 忠贞, 忠诚, 忠实 / [法] 忠诚, 忠心",
+"en": "n. the quality of being loyal / n. feelings of allegiance"
+},
+{
+"word": "stimulate",
+"pos": "vt/vi",
+"zh": "vt. 刺激, 激励, 鼓舞 / vi. 起刺激作用",
+"en": "v. act as a stimulant / v. stir the feelings, emotions, or peace of / v. cause to be alert and energetic / v. stir feeli…"
+},
+{
+"word": "cave",
+"pos": "n/vi/vt",
+"zh": "n. 洞, 穴 / vi. 凹陷, 塌落 / vt. 挖洞, 使凹陷, 损坏...的基础",
+"en": "n. a geological formation consisting of an underground enclosure with access from the surface of the ground or from the …"
+},
+{
+"word": "refusal",
+"pos": "n",
+"zh": "n. 拒绝, 推却, 优先决定权 / [法] 拒绝, 谢绝, 取舍权",
+"en": "n. the act of refusing / n. a message refusing to accept something that is offered"
+},
+{
+"word": "functional",
+"pos": "a",
+"zh": "a. 功能的 / [医] 机能的, 功能的, 官能的",
+"en": "a. designed for or capable of a particular function or use / a. involving or affecting function rather than physiology /…"
+},
+{
+"word": "southwest",
+"pos": "n/a/adv",
+"zh": "n. 西南, 西南方, 西南地区 / a. 西南的, 来自西南方的 / adv. 往西南, 来自西南",
+"en": "n. the compass point midway between south and west; at 225 degrees / n. the southwestern region of the United States gen…"
+},
+{
+"word": "chap",
+"pos": "n/v",
+"zh": "n. 小伙子, 颌, 龟裂 / v. 皲裂",
+"en": "n. a boy or man / n. a crack in a lip caused usually by cold / n. (usually in the plural) leather leggings without a sea…"
+},
+{
+"word": "monster",
+"pos": "n",
+"zh": "n. 怪物, 恶人, 巨物 / [医] 畸胎",
+"en": "n. an imaginary creature usually having various human and animal parts / n. a cruel wicked and inhuman person / n. (medi…"
+},
+{
+"word": "colonel",
+"pos": "n",
+"zh": "n. 陆军上校, 长官",
+"en": "n. a commissioned military officer in the United States Army or Air Force or Marines who ranks above a lieutenant colone…"
+},
+{
+"word": "diplomatic",
+"pos": "a",
+"zh": "a. 外交的, 老练的 / [法] 外交的, 外交上的, 文献上的",
+"en": "a. relating to or characteristic of diplomacy / a. using or marked by tact in dealing with sensitive matters or people"
+},
+{
+"word": "facilitate",
+"pos": "vt",
+"zh": "vt. 使容易, 促进, 帮助 / [法] 使容易, 使便利, 推进",
+"en": "v. make easier / v. increase the likelihood of (a response)"
+},
+{
+"word": "whereby",
+"pos": "adv",
+"zh": "adv. 靠什么, 如何, 为何, 靠那个, 因此, 由此 / [法] 因此, 由是",
+"en": "adv. By which; -- used relatively. / adv. By what; how; -- used interrogatively."
+},
+{
+"word": "obstacle",
+"pos": "n",
+"zh": "n. 障碍, 妨害物, 阻碍",
+"en": "n. something immaterial that stands in the way and must be circumvented or surmounted / n. an obstruction that stands in…"
+},
+{
+"word": "successor",
+"pos": "n",
+"zh": "n. 继承者, 接任者 / [计] 后继",
+"en": "n. a person who follows next in order / n. a thing or person that immediately replaces something or someone / n. a perso…"
+},
+{
+"word": "leaflet",
+"pos": "n",
+"zh": "n. 小叶, 传单 / [医] 小叶",
+"en": "n. part of a compound leaf"
+},
+{
+"word": "rip",
+"pos": "n/vi/vt",
+"zh": "n. 裂痕, 破绽, 拉裂, 浪子, 巨浪 / vi. 被拉开, 裂开, 猛冲 / vt. 撕, 扯, 劈",
+"en": "n. an opening made forcibly as by pulling apart / n. a stretch of turbulent water in a river or the sea caused by one cu…"
+},
+{
+"word": "herb",
+"pos": "n",
+"zh": "n. 药草, 香草 / [医] 草, 草本, 草药",
+"en": "n. a plant lacking a permanent woody stem; many are flowering garden plants or potherbs; some having medicinal propertie…"
+},
+{
+"word": "indicator",
+"pos": "n",
+"zh": "n. 指示器, 指示剂, 指标 / [计] 指示器",
+"en": "n. a signal for attracting attention / n. a device for showing the operating condition of some system / n. (chemistry) a…"
+},
+{
+"word": "filter",
+"pos": "n/vt/vi",
+"zh": "n. 滤波器, 过滤器, 滤光器, 过滤嘴, 去尘器 / vt. 过滤, 渗透, 走漏 / vi. 滤过, 渗入 / [计] 过滤器, 筛选",
+"en": "n. device that removes something from whatever passes through it / n. an electrical device that alters the frequency spe…"
+},
+{
+"word": "restoration",
+"pos": "n",
+"zh": "n. 恢复, 归还, 复位 / [医] 恢复, 康复, 复位, 回复, 修复",
+"en": "n. the reign of Charles II in England; 1660-1685 / n. the act of restoring something or someone to a satisfactory state …"
+},
+{
+"word": "marine",
+"pos": "n/a",
+"zh": "n. 舰队, 水兵, 海景画 / a. 海的, 海产的, 海底的, 船舶的, 海运的",
+"en": "n. a member of the United States Marine Corps / n. a soldier who serves both on shipboard and on land / a. of or relatin…"
+},
+{
+"word": "spectrum",
+"pos": "n",
+"zh": "n. 光谱, 范围, 系列 / [化] 光谱",
+"en": "n. an ordered array of the components of an emission or wave / n. a broad range of related objects or values or qualitie…"
+},
+{
+"word": "flood",
+"pos": "n/vt/vi",
+"zh": "n. 洪水, 大量之水, 涨潮 / vt. 淹没, 使泛滥, 注满 / vi. 被淹, 溢出, 涌进",
+"en": "n. the rising of a body of water and its overflowing onto normally dry land / n. an overwhelming number or amount / n. l…"
+},
+{
+"word": "formerly",
+"pos": "adv",
+"zh": "adv. 从前, 以前",
+"en": "r at a previous time;"
+},
+{
+"word": "nightmare",
+"pos": "n",
+"zh": "n. 梦魇, 恶梦, 可怕的事物(或情景、人物) / [医] 梦魇, 恶梦",
+"en": "n. a situation resembling a terrifying dream / n. a terrifying or deeply upsetting dream"
+},
+{
+"word": "supervisor",
+"pos": "n",
+"zh": "n. 管理者, 监督者, 指导者, 视导员 / [计] 管理程序",
+"en": "n. one who supervises or has charge and direction of"
+},
+{
+"word": "arena",
+"pos": "n",
+"zh": "n. 角斗场, 舞台, 场地 / [医] 尿沉渣, 尿沙; 脑沙",
+"en": "n. the central area of an ancient Roman amphitheater where contests and spectacles were held; especially an area that wa…"
+},
+{
+"word": "skirt",
+"pos": "n/vt/vi",
+"zh": "n. 裙子, 下摆, 边缘, 郊区 / vt. 位于...边缘, 绕过, 回避 / vi. 位于边缘",
+"en": "n. cloth covering that forms the part of a garment below the waist / n. a garment hanging from the waist; worn mainly by…"
+},
+{
+"word": "hierarchy",
+"pos": "n",
+"zh": "n. 等级制度, 僧侣统治, 等级体系 / [计] 分级结构; 分层结构; 新闻组, 新闻组分层",
+"en": "n. a series of ordered groupings of people or things within a system / n. the organization of people at different ranks …"
+},
+{
+"word": "mathematics",
+"pos": "n",
+"zh": "n. 数学 / [机] 数学",
+"en": "n. a science (or group of related sciences) dealing with the logic of quantity and shape and arrangement"
+},
+{
+"word": "diagnosis",
+"pos": "n",
+"zh": "n. 诊断 / [计] 诊断",
+"en": "n. identifying the nature or cause of some phenomenon"
+},
+{
+"word": "pope",
+"pos": "n",
+"zh": "n. 罗马教皇, 主教",
+"en": "n. the head of the Roman Catholic Church / n. English poet and satirist (1688-1744)"
+},
+{
+"word": "consistently",
+"pos": "adv",
+"zh": "adv. 坚固, 坚实, 一致, 始终如一, 连贯 / [计] 相容地",
+"en": "r in a systematic or consistent manner"
+},
+{
+"word": "flexibility",
+"pos": "n",
+"zh": "n. 弹性, 适应性 / [计] 灵活性; 适应性",
+"en": "n. the property of being flexible; easily bent or shaped / n. the quality of being adaptable or variable"
+},
+{
+"word": "wildlife",
+"pos": "n",
+"zh": "n. 野生动植物",
+"en": "n. all living things (except people) that are undomesticated"
+},
+{
+"word": "basement",
+"pos": "n",
+"zh": "n. 地下室, 墙脚 / [化] 地下室",
+"en": "n. the lowermost portion of a structure partly or wholly below ground level; often used for storage / n. the ground floo…"
+},
+{
+"word": "drain",
+"pos": "n/vt/vi",
+"zh": "n. 排水沟, 消耗, 排水 / vt. 排出, 喝光, 耗尽 / vi. 排水, 流干",
+"en": "n. emptying something accomplished by allowing liquid to run out of it / n. tube inserted into a body cavity (as during …"
+},
+{
+"word": "wright",
+"pos": "n",
+"zh": "n. 制作者, 工人",
+"en": "n. United States writer of detective novels (1888-1939) / n. United States writer whose work is concerned with the oppre…"
+},
+{
+"word": "productivity",
+"pos": "n",
+"zh": "n. 生产力 / [经] 生产率, 生产能力",
+"en": "n. (economics) the ratio of the quantity and quality of units produced to the labor per unit of time"
+},
+{
+"word": "doctrine",
+"pos": "n",
+"zh": "n. 教条, 学说 / [医] 学说",
+"en": "n. a belief (or system of beliefs) accepted as authoritative by some group or school"
+},
+{
+"word": "questionnaire",
+"pos": "n",
+"zh": "n. 调查表, 问卷 / [经] 调查表",
+"en": "n. a form containing a set of questions; submitted to people to gain statistical information"
+},
+{
+"word": "warrior",
+"pos": "n",
+"zh": "n. 战士, 勇士, 武士, 鼓吹战争的人, 战斗, 尚武",
+"en": "n. someone engaged in or experienced in warfare"
+},
+{
+"word": "prediction",
+"pos": "n",
+"zh": "n. 预言, 预报 / [化] 预测",
+"en": "n. the act of predicting (as by reasoning about the future) / n. a statement made about the future"
+},
+{
+"word": "graphics",
+"pos": "n",
+"zh": "n. 制图法, 制图学, 图解算法, 图形显示 / [计] 图形; DOS外部命令:打印图形方式下的屏幕内容",
+"en": "n. the drawings and photographs in the layout of a book"
+},
+{
+"word": "creditor",
+"pos": "n",
+"zh": "n. 债权人 / [法] 债权人, 债主, 贷方",
+"en": "n. a person to whom money is owed by a debtor; someone to whom an obligation exists"
+},
+{
+"word": "sociology",
+"pos": "n",
+"zh": "n. 社会学 / [医] 社会学",
+"en": "n. the study and classification of human societies"
+},
+{
+"word": "infrastructure",
+"pos": "n",
+"zh": "n. 基础结构, 基础设施 / [经] 基础设施",
+"en": "n. the basic structure or features of a system or organization / n. the stock of basic facilities and capital equipment …"
+},
+{
+"word": "outdoor",
+"pos": "a",
+"zh": "a. 户外的, 屋外的, 露天的",
+"en": "a. located, suited for, or taking place in the open air / a. pertaining to or concerning the outdoors or outdoor activit…"
+},
+{
+"word": "confused",
+"pos": "a",
+"zh": "a. 困惑的, 混乱的",
+"en": "s. lacking orderly continuity / s. having lost your bearings; confused as to time or place or personal identity / a. men…"
+},
+{
+"word": "broadcast",
+"pos": "n/a/v/adv",
+"zh": "n. 广播, 传播 / a. 广播的 / v. 广播 / adv. 经广播, 四散地 / [计] 广播命令, 广播",
+"en": "n. message that is transmitted by radio or television / n. a radio or television show / v. sow over a wide area, especia…"
+},
+{
+"word": "spare",
+"pos": "n/a/vi/vt",
+"zh": "n. 剩余, 备用品, 备件, 备用零件, 备用轮胎 / a. 多余的, 备用的, 空闲的, 节约的, 瘦的 / vi. 节约, 省掉, 宽恕 / vt. 节约, 省用, 剩下, …",
+"en": "n. a score in tenpins; knocking down all ten after rolling two balls / v. refrain from harming / v. save or relieve from…"
+},
+{
+"word": "suck",
+"pos": "vt/vi/n",
+"zh": "vt. 吸, 吮, 吸入, 吮吸, 吸收 / vi. 吸, 吸奶 / n. 吸, 吸入, 吮吸",
+"en": "v. draw into the mouth by creating a practical vacuum in the mouth / v. draw something in by or as if by a vacuum / v. a…"
+},
+{
+"word": "random",
+"pos": "n/a/adv",
+"zh": "n. 随意, 随机 / a. 任意的, 随便的, 胡乱的, 随机的 / adv. 胡乱地",
+"en": "a. lacking any definite plan or order or purpose; governed by or depending on chance"
+},
+{
+"word": "realistic",
+"pos": "a",
+"zh": "a. 现实的, 逼真的, 现实主义的, 实在论的",
+"en": "a. aware or expressing awareness of things as they really are / a. of or relating to the philosophical doctrine of reali…"
+},
+{
+"word": "intelligent",
+"pos": "a",
+"zh": "a. 聪明的, 智能的, 了解的",
+"en": "a. having the capacity for thought and reason especially to a high degree / s. possessing sound knowledge / s. endowed w…"
+},
+{
+"word": "unhappy",
+"pos": "a",
+"zh": "a. 不快乐的, 不幸的, 不适当的",
+"en": "a. experiencing or marked by or causing sadness or sorrow or discontent / s. causing discomfort"
+},
+{
+"word": "correctly",
+"pos": "adv",
+"zh": "adv. 对, 正确, 恰当, 符合一般性准则, 符合行为准则, 端正, 符合",
+"en": "r. in an accurate manner"
+},
+{
+"word": "wrist",
+"pos": "n",
+"zh": "n. 手腕, 腕关节 / [医] 腕",
+"en": "n. a joint between the distal end of the radius and the proximal row of carpal bones"
+},
+{
+"word": "unfair",
+"pos": "a",
+"zh": "a. 不公平的, 不正直的, 不正当的 / [法] 不正直的, 不公平的, 偏颇的",
+"en": "a. not fair; marked by injustice or partiality or deception"
+},
+{
+"word": "continent",
+"pos": "n/a",
+"zh": "n. 大陆, 洲 / a. 自制的",
+"en": "n. one of the large landmasses of the earth / n. the European mainland / a. having control over urination and defecation"
+},
+{
+"word": "guilt",
+"pos": "n",
+"zh": "n. 罪行, 内疚 / [法] 罪, 犯罪, 罪行",
+"en": "n. the state of having committed an offense / n. remorse caused by feeling responsible for some offense"
+},
+{
+"word": "unite",
+"pos": "vi/vt",
+"zh": "vi. 联合, 接合, 混合 / vt. 使联合, 统一, 使粘合, 使结合",
+"en": "v. act in concert or unite in a common purpose or belief / v. have or possess in combination / v. bring together for a c…"
+},
+{
+"word": "liberty",
+"pos": "n",
+"zh": "n. 自由, 特权, 许可, 冒失 / [法] 自由, 自由权, 自由区域",
+"en": "n. freedom of choice / n. personal freedom from servitude or confinement or oppression"
+},
+{
+"word": "ridiculous",
+"pos": "a",
+"zh": "a. 荒谬的, 可笑的",
+"en": "s inspiring scornful pity / s incongruous; inviting ridicule / s broadly or extravagantly humorous; resembling farce"
+},
+{
+"word": "weird",
+"pos": "a/n",
+"zh": "a. 怪异的, 超自然的, 不可思议的 / n. 命运, 预言, 符咒",
+"en": "s. strikingly odd or unusual; some weird effect of shadow\"- Bram Stoker"
+},
+{
+"word": "receipt",
+"pos": "n/vt",
+"zh": "n. 收据, 收入, 收到 / vt. 开...的收据",
+"en": "n. an acknowledgment (usually tangible) that payment has been made / v. mark or stamp as paid"
+},
+{
+"word": "avenue",
+"pos": "n",
+"zh": "n. 大街, 途径, 林荫路",
+"en": "n. a line of approach / n. a wide street or thoroughfare"
+},
+{
+"word": "dump",
+"pos": "n/vt/vi",
+"zh": "n. 垃圾场 / vt. 倾倒, 倾销 / vi. 倒垃圾, 倾销商品 / [计] 转出; 转储; 倾卸; 切断电源",
+"en": "n. a piece of land where waste materials are dumped / n. (computer science) a copy of the contents of a computer storage…"
+},
+{
+"word": "unnecessary",
+"pos": "a",
+"zh": "a. 不必要的",
+"en": "a. not necessary"
+},
+{
+"word": "uncomfortable",
+"pos": "a",
+"zh": "a. 不舒服的, 不自在的, 不安的",
+"en": "a. conducive to or feeling mental discomfort / a. providing or experiencing physical discomfort"
+},
+{
+"word": "merit",
+"pos": "n/vt/vi",
+"zh": "n. 优点, 功绩, 价值, 功过, 真相 / vt. 值得 / vi. 应受",
+"en": "n. any admirable quality or attribute"
+},
+{
+"word": "execute",
+"pos": "vt",
+"zh": "vt. 执行, 实行, 完成, 处死, 制成 / [计] 执行",
+"en": "v. kill as a means of socially sanctioned punishment / v. murder in a planned fashion / v. carry out the legalities of /…"
+},
+{
+"word": "equip",
+"pos": "vt",
+"zh": "vt. 装备, 配备 / [机] 设备, 装置",
+"en": "v. provide with (something) usually for a specific purpose / v. provide with abilities or understanding"
+},
+{
+"word": "limb",
+"pos": "n/vt",
+"zh": "n. 四肢, 枝干, 翼, 边缘 / vt. 切断...之手足",
+"en": "n. one of the jointed appendages of an animal used for locomotion or grasping: arm; leg; wing; flipper / n. any of the m…"
+},
+{
+"word": "spectacular",
+"pos": "a/n",
+"zh": "a. 公开展示的, 惊人的, 壮观的 / n. 奇观, 惊人之举, 展览物",
+"en": "n. a lavishly produced performance / s. characteristic of spectacles or drama"
+},
+{
+"word": "oak",
+"pos": "n/a",
+"zh": "n. 橡树, 橡木 / a. 橡木制的",
+"en": "n. the hard durable wood of any oak; used especially for furniture and flooring / n. a deciduous tree of the genus Querc…"
+},
+{
+"word": "nasty",
+"pos": "a",
+"zh": "a. 污秽的, 下流的, 险恶的",
+"en": "a. offensive or even (of persons) malicious / s. exasperatingly difficult to handle or circumvent"
+},
+{
+"word": "tune",
+"pos": "n/vt/vi",
+"zh": "n. 歌曲, 主旋律, 心情, 声调, 和谐, 一致, 语调, 程度 / vt. 为...调音, 调整, 调谐, 使一致 / vi. 协调, 调谐",
+"en": "n. a succession of notes forming a distinctive sequence / n. the property of producing accurately a note of a given pitc…"
+},
+{
+"word": "railroad",
+"pos": "n/vt/vi",
+"zh": "n. 铁路, 铁路公司 / vt. 铺设铁路, 用铁路运输 / vi. 在铁路工作",
+"en": "v. supply with railroad lines / v. transport by railroad"
+},
+{
+"word": "speculation",
+"pos": "n",
+"zh": "n. 沉思, 推测, 投机 / [经] 投机交易, 买空卖空",
+"en": "n. a hypothesis that has been formed by speculating or conjecturing (usually with little hard evidence) / n. an investme…"
+},
+{
+"word": "endure",
+"pos": "vt/vi",
+"zh": "vt. 忍受, 忍耐, 容忍, 耐 / vi. (正式)持久, 持续 / [计] 仍能工作, 继续工作",
+"en": "v put up with something or somebody unpleasant / v face and withstand with courage / v continue to live through hardship…"
+},
+{
+"word": "radiation",
+"pos": "n",
+"zh": "n. 辐射 / [化] 放射",
+"en": "n. energy that is radiated or transmitted in the form of rays or waves or particles / n. the act of spreading outward fr…"
+},
+{
+"word": "horn",
+"pos": "n/a/vt",
+"zh": "n. 角, 角质, 喇叭, 号角 / a. 角制的 / vt. 用角触, 长角于",
+"en": "n. a noisemaker (as at parties or games) that makes a loud noise when you blow through it / n. one of the bony outgrowth…"
+},
+{
+"word": "chronic",
+"pos": "a/n",
+"zh": "a. 慢性的, 习惯性的 / n. 慢性病患者",
+"en": "a. being long-lasting and recurrent or characterized by long suffering / s. of long duration / s. habitual"
+},
+{
+"word": "peaceful",
+"pos": "a",
+"zh": "a. 平静的, 和平的, 和平时期的, 爱好和平的, 喜爱安静的 / [法] 和平的, 爱好和平的, 和平时期的",
+"en": "a. not disturbed by strife or turmoil or war"
+},
+{
+"word": "copper",
+"pos": "n",
+"zh": "n. 铜, 警察 / [化] 铜Cu",
+"en": "n. a ductile malleable reddish-brown corrosion-resistant diamagnetic metallic element; occurs in various minerals but is…"
+},
+{
+"word": "residence",
+"pos": "n",
+"zh": "n. 住宅, 居留, 驻扎, 居住期间 / [医] 住房",
+"en": "n. any address at which you dwell more than temporarily / n. the official house or establishment of an important person …"
+},
+{
+"word": "fool",
+"pos": "n/vt/vi/a",
+"zh": "n. 愚人, 受骗者, 奶油拌水果 / vt. 愚弄, 欺骗, 浪费 / vi. 干傻事, 开玩笑, 游荡 / a. 傻的",
+"en": "n. a person who lacks good judgment / v. make a fool or dupe of"
+},
+{
+"word": "administer",
+"pos": "vt/vi",
+"zh": "vt. 管理, 料理, 执行 / vi. 执行遗产管理人的职责, 给予帮助",
+"en": "v. work in an administrative capacity; supervise or be in charge of / v. perform (a church sacrament) ritually / v. give…"
+},
+{
+"word": "simultaneously",
+"pos": "adv",
+"zh": "adv. 同时发生, 一齐, 同时, 同时存在",
+"en": "r. at the same instant"
+},
+{
+"word": "dancer",
+"pos": "n",
+"zh": "n. 舞蹈演员, 跳舞者",
+"en": "n. a performer who dances professionally / n. a person who participates in a social gathering arranged for dancing (as a…"
+},
+{
+"word": "bureau",
+"pos": "n",
+"zh": "n. 局, 办公处 / [经] 局, 司, 处",
+"en": "n an administrative unit of government / n furniture with drawers for keeping clothes"
+},
+{
+"word": "pad",
+"pos": "n/vt/vi",
+"zh": "n. 填补, 衬垫, 印色盒, 路 / vt. 填补, 走, 夸大 / vi. 步行 / [计] 焊接点; 包装配/拆卸",
+"en": "n. a number of sheets of paper fastened together along one edge / n. the large floating leaf of an aquatic plant (as the…"
+},
+{
+"word": "sadly",
+"pos": "adv",
+"zh": "adv. 悲痛地, 悲惨地, 悲伤地, 说来遗憾",
+"en": "r. in an unfortunate way / r. with sadness; in a sad manner"
+},
+{
+"word": "transmission",
+"pos": "n",
+"zh": "n. 传输, 传送, 变速器 / [计] 传输",
+"en": "n. the act of sending a message; causing a message to be transmitted / n. communication by means of transmitted signals …"
+},
+{
+"word": "isolation",
+"pos": "n",
+"zh": "n. 隔绝, 孤立, 隔离 / [化] 分离; 生物分离",
+"en": "n. a state of separation between persons or groups / n. a feeling of being disliked and alone / n. the act of isolating …"
+},
+{
+"word": "trigger",
+"pos": "n/vt/vi",
+"zh": "n. 触发器, 扳机 / vt. 触发, 发射, 引起 / vi. 松开扳柄 / [计] 切换开关",
+"en": "n. a device that activates or releases or causes something to happen / n. an act that sets in motion some course of even…"
+},
+{
+"word": "shame",
+"pos": "n/vt",
+"zh": "n. 羞耻, 羞愧, 耻辱 / vt. 使羞愧, 侮辱",
+"en": "n. a painful emotion resulting from an awareness of inadequacy or guilt / n. a state of dishonor / v. compel through a s…"
+},
+{
+"word": "separation",
+"pos": "n",
+"zh": "n. 分离, 分居, 缺口, 退职 / [化] 分离",
+"en": "n. the state of lacking unity / n. coming apart / n. sorting one thing from others / n. the social act of separating or …"
+},
+{
+"word": "spill",
+"pos": "n/vt/vi",
+"zh": "n. 溢出, 溅出, 摔下, 溢出量, 木片, 小塞子 / vt. 使溢出, 使散落, 洒, 使流出, 倒出, 使摔下 / vi. 溢出, 涌流, 摔下",
+"en": "n. liquid that is spilled / n. the act of allowing a fluid to escape / n. a sudden drop from an upright position / v. ca…"
+}
+]

@@ -1,0 +1,602 @@
+[
+{
+"word": "propellant",
+"pos": "n",
+"zh": "n. 推进剂, 发射火药, 推进者 / [化] 火药",
+"en": "n. any substance that propels / s. tending to or capable of propelling"
+},
+{
+"word": "myopic",
+"pos": "a",
+"zh": "a. [眼科]近视的；目光短浅的",
+"en": "a unable to see distant objects clearly / s lacking foresight or scope"
+},
+{
+"word": "bricklayer",
+"pos": "n",
+"zh": "n. 砌砖工人",
+"en": "n. a craftsman skilled in building with bricks"
+},
+{
+"word": "sanctify",
+"pos": "vt",
+"zh": "vt. 使神圣, 奉献给神, 使成为神圣之物",
+"en": "v render holy by means of religious rites / v make pure or free from sin or guilt"
+},
+{
+"word": "rambunctious",
+"pos": "a",
+"zh": "a. 粗暴的, 难控制的, 喧闹的",
+"en": "s noisy and lacking in restraint or discipline"
+},
+{
+"word": "monogamy",
+"pos": "n",
+"zh": "n. 一夫一妻制 / [医] 单配",
+"en": "n. having only one spouse at a time"
+},
+{
+"word": "dawdle",
+"pos": "v",
+"zh": "v. 游手好闲, 混日子",
+"en": "v take one's time; proceed slowly / v waste time / v hang (back) or fall (behind) in movement, progress, development, et…"
+},
+{
+"word": "refectory",
+"pos": "n",
+"zh": "n. 餐厅",
+"en": "n. a communal dining-hall (usually in a monastery)"
+},
+{
+"word": "leniency",
+"pos": "n",
+"zh": "n. 宽大, 温和, 慈悲为怀 / [法] 宽大, 宽恕, 仁慈",
+"en": "n mercifulness as a consequence of being lenient or tolerant / n a disposition to yield to the wishes of someone / n lig…"
+},
+{
+"word": "analgesic",
+"pos": "a/n",
+"zh": "a. 止痛的, 痛觉缺失的 / n. 止痛剂",
+"en": "n. a medicine used to relieve pain / s. capable of relieving pain"
+},
+{
+"word": "subjugate",
+"pos": "vt",
+"zh": "vt. 征服, 使服从, 抑制, 克制",
+"en": "v. make subservient; force to submit or subdue"
+},
+{
+"word": "ironclad",
+"pos": "a",
+"zh": "a. 装甲的, 铁定的 / [法] 打不破, 装甲的, 镶铁的",
+"en": "n. a wooden warship of the 19th century that is plated with iron or steel armor / s. sheathed in iron plates for protect…"
+},
+{
+"word": "colossus",
+"pos": "n",
+"zh": "n. 巨像, 巨人",
+"en": "n. a person of exceptional importance and reputation"
+},
+{
+"word": "obelisk",
+"pos": "n",
+"zh": "n. 方尖塔, 剑号, 疑问记号",
+"en": "n. a stone pillar having a rectangular cross section tapering towards a pyramidal top"
+},
+{
+"word": "revue",
+"pos": "n",
+"zh": "n. 时事剧, 活报剧",
+"en": "n. a variety show with topical sketches and songs and dancing and comedians"
+},
+{
+"word": "pinhead",
+"pos": "n",
+"zh": "n. 针头, 小东西, 微不足道的东西",
+"en": "n. the head of a pin"
+},
+{
+"word": "fluster",
+"pos": "n/vt/vi",
+"zh": "n. 慌乱, 激动, 紧张不安 / vt. 使紧张, 使慌张, 使激动 / vi. 慌乱",
+"en": "v. be flustered; behave in a confused manner / v. cause to be nervous or upset"
+},
+{
+"word": "trickery",
+"pos": "n",
+"zh": "n. 欺骗, 欺诈, 诡计 / [法] 诡计, 奸计, 诈骗",
+"en": "n. verbal misrepresentation intended to take advantage of you in some way / n. the use of tricks to deceive someone (usu…"
+},
+{
+"word": "invective",
+"pos": "n/a",
+"zh": "n. 恶言漫骂, 臭骂 / a. 漫骂的, 非难的, 恶言的",
+"en": "n abusive or venomous language used to express blame or censure or bitter deep-seated ill will"
+},
+{
+"word": "ineptitude",
+"pos": "n",
+"zh": "n. 不适当, 愚笨, 愚昧言行 / [法] 不称职, 无能, 不适当",
+"en": "n unskillfulness resulting from a lack of training / n having no qualities that would render it valuable or useful"
+},
+{
+"word": "indomitable",
+"pos": "a",
+"zh": "a. 不屈服的, 不屈不挠的",
+"en": "s. impossible to subdue"
+},
+{
+"word": "hydrate",
+"pos": "n/vt",
+"zh": "n. 水合物, 水化合物, 氢氧化物 / vt. 使成水化合物",
+"en": "n. any compound that contains water of crystallization / v. supply water or liquid to in order to maintain a healthy bal…"
+},
+{
+"word": "floodgate",
+"pos": "n",
+"zh": "n. 水门, 水闸, 防潮水闸",
+"en": "n. something that restrains a flood or outpouring"
+},
+{
+"word": "overpass",
+"pos": "n/vt",
+"zh": "n. 天桥, 旱桥, 立交桥 / vt. 超越, 胜过, 通过, 忽略, 侵犯",
+"en": "n. bridge formed by the upper level of a crossing of two highways at different levels"
+},
+{
+"word": "abhorrent",
+"pos": "a",
+"zh": "a. 令人憎恨的, 可恶的, 厌恶的, 相抵触的, 不一致的",
+"en": "s. offensive to the mind"
+},
+{
+"word": "turgid",
+"pos": "a",
+"zh": "a. 肿的, 浮夸的 / [医] 充满的, 胀满的",
+"en": "s ostentatiously lofty in style / s abnormally distended especially by fluids or gas"
+},
+{
+"word": "shrinkage",
+"pos": "n",
+"zh": "n. 收缩, 收缩量, 减低 / [化] 起皱; 收缩; 收缩量",
+"en": "n. the amount by which something shrinks"
+},
+{
+"word": "fracas",
+"pos": "n",
+"zh": "n. 喧噪, 吵闹, 纷扰",
+"en": "n noisy quarrel"
+},
+{
+"word": "starfish",
+"pos": "n",
+"zh": "n. 海星",
+"en": "n. echinoderms characterized by five arms extending from a central disk"
+},
+{
+"word": "erudite",
+"pos": "a/n",
+"zh": "a. 博学的 / n. 博学者",
+"en": "s. having or showing profound knowledge"
+},
+{
+"word": "dappled",
+"pos": "a",
+"zh": "a. 斑纹的, 花斑的",
+"en": "s. having spots or patches of color"
+},
+{
+"word": "coda",
+"pos": "n",
+"zh": "n. 尾音, 乐章结尾部, 结尾段",
+"en": "n the closing section of a musical composition"
+},
+{
+"word": "rabble",
+"pos": "n/vt",
+"zh": "n. 乌合之众, 暴民, 下层社会, 长柄耙 / vt. 聚众闹事, 用拨火棍搅动",
+"en": "n. disparaging terms for the common people"
+},
+{
+"word": "saleswoman",
+"pos": "n",
+"zh": "n. 女售货员, 女店员",
+"en": "n a woman salesperson"
+},
+{
+"word": "connive",
+"pos": "vi",
+"zh": "vi. 默许, 共谋, 纵容 / [法] 默许, 纵容, 共谋",
+"en": "v. encourage or assent to illegally or criminally"
+},
+{
+"word": "bawdy",
+"pos": "a",
+"zh": "a. 淫秽的, 言语猥亵的",
+"en": "s. humorously vulgar"
+},
+{
+"word": "gallows",
+"pos": "n",
+"zh": "n. 绞架, 绞刑 / [法] 绞刑架, 绞台, 绞刑",
+"en": "n. an instrument of execution consisting of a wooden frame from which a condemned person is executed by hanging"
+},
+{
+"word": "subjection",
+"pos": "n",
+"zh": "n. 征服, 服从, 隶属 / [法] 隶属, 服从, 屈从",
+"en": "n forced submission to control by others / n the act of conquering"
+},
+{
+"word": "colander",
+"pos": "n",
+"zh": "n. 滤器 / [建] 滤器",
+"en": "n. bowl-shaped strainer; used to wash or drain foods"
+},
+{
+"word": "insuperable",
+"pos": "a",
+"zh": "a. 不能制胜的, 不能克服的",
+"en": "s. impossible to surmount / s. incapable of being surmounted or excelled"
+},
+{
+"word": "girder",
+"pos": "n",
+"zh": "n. 大梁, 主梁 / [化] 撑杆",
+"en": "n. a beam made usually of steel; a main support in a structure"
+},
+{
+"word": "tarpaulin",
+"pos": "n",
+"zh": "n. 柏油帆布, 油布衣, 防水帽 / [医] 帆布",
+"en": "n. waterproofed canvas"
+},
+{
+"word": "moralistic",
+"pos": "a",
+"zh": "a. 道德家的, 说教的, 道德主义的",
+"en": "s. narrowly and conventionally moral"
+},
+{
+"word": "symbiosis",
+"pos": "n",
+"zh": "n. 共栖, 共同生活 / [化] 类聚效应",
+"en": "n. the relation between two different species of organisms that are interdependent; each gains benefits from the other"
+},
+{
+"word": "nonchalant",
+"pos": "a",
+"zh": "a. 不关心的, 冷淡的, 无动于衷的",
+"en": "s marked by blithe unconcern"
+},
+{
+"word": "gladiator",
+"pos": "n",
+"zh": "n. 斗士, 斗剑者, 争论者",
+"en": "n. (ancient Rome) a professional combatant or a captive who entertained the public by engaging in mortal combat"
+},
+{
+"word": "azure",
+"pos": "n/a",
+"zh": "n. 天蓝色, 碧空 / a. 蔚蓝的",
+"en": "n. a light shade of blue / v. color azure / s. of a deep somewhat purplish blue color similar to that of a clear October…"
+},
+{
+"word": "deafen",
+"pos": "vt/vi",
+"zh": "vt. 使聋 / vi. 变聋",
+"en": "v. be unbearably loud / v. make or render deaf / v. make soundproof"
+},
+{
+"word": "stylus",
+"pos": "n",
+"zh": "n. 铁笔, 尖笔, 唱针 / [计] 指示笔",
+"en": "n. a sharp pointed device attached to the cartridge of a record player / n. a pointed tool for writing or drawing or eng…"
+},
+{
+"word": "annul",
+"pos": "vt",
+"zh": "vt. 废除, 宣告无效, 取消 / [经] 撤销, 宣告无效",
+"en": "v declare invalid / v cancel officially"
+},
+{
+"word": "plenary",
+"pos": "a",
+"zh": "a. 充分的, 完全的, 全体出席的 / [经] 正式的, 充分的, 全体出席的",
+"en": "s. full in all respects"
+},
+{
+"word": "purgatory",
+"pos": "n/a",
+"zh": "n. 涤罪, 炼狱 / a. 涤罪的",
+"en": "n. a temporary condition of torment or suffering / n. (theology) in Roman Catholic theology the place where those who ha…"
+},
+{
+"word": "circuitous",
+"pos": "a",
+"zh": "a. 迂回的, 间接的, 绕行的",
+"en": "s. marked by obliqueness or indirection in speech or conduct"
+},
+{
+"word": "matchstick",
+"pos": "n",
+"zh": "n. 火柴",
+"en": "n. a short thin stick of wood used in making matches"
+},
+{
+"word": "vivacious",
+"pos": "a",
+"zh": "a. 活泼的, 快活的, 多年生的",
+"en": "s vigorous and animated"
+},
+{
+"word": "vitriolic",
+"pos": "a",
+"zh": "a. 硫酸的, 像硫酸的, 语言刻薄的",
+"en": "s harsh or corrosive in tone / s of a substance, especially a strong acid; capable of destroying or eating away by chemi…"
+},
+{
+"word": "vacuous",
+"pos": "a",
+"zh": "a. 空的, 空虚的, 没有思想的",
+"en": "s. devoid of matter"
+},
+{
+"word": "bandy",
+"pos": "a/vt",
+"zh": "a. 向外弯曲的 / vt. 打来打去, 谈论, 往复投掷",
+"en": "v. toss or strike a ball back and forth / v. exchange blows / v. discuss lightly"
+},
+{
+"word": "theocracy",
+"pos": "n",
+"zh": "n. 神权政治, 神权国",
+"en": "n. a political unit governed by a deity (or by officials thought to be divinely guided) / n. the belief in government by…"
+},
+{
+"word": "transmute",
+"pos": "vt/vi",
+"zh": "vt. 使变形, 使变质 / vi. 变形, 变质",
+"en": "v. alter the nature of (elements)"
+},
+{
+"word": "unobstructed",
+"pos": "a",
+"zh": "a. 没有障碍的, 没有阻挡的",
+"en": "a. free from impediment or obstruction or hindrance"
+},
+{
+"word": "cellulose",
+"pos": "n",
+"zh": "n. 纤维素 / [化] 纤维素",
+"en": "n. a polysaccharide that is the chief constituent of all plant tissues and fibers"
+},
+{
+"word": "propitious",
+"pos": "a",
+"zh": "a. 顺利的, 适合的, 吉祥的, 慈悲的",
+"en": "a. presenting favorable circumstances; likely to result in or show signs of success"
+},
+{
+"word": "stopwatch",
+"pos": "n",
+"zh": "n. 计时表, 码表",
+"en": "n. a timepiece that can be started or stopped for exact timing (as of a race)"
+},
+{
+"word": "dote",
+"pos": "vi",
+"zh": "vi. 昏聩, 溺爱",
+"en": "v. be foolish or senile due to old age / v. shower with love; show excessive affection for"
+},
+{
+"word": "hilarity",
+"pos": "n",
+"zh": "n. 欢喜, 高兴",
+"en": "n. great merriment"
+},
+{
+"word": "avuncular",
+"pos": "a",
+"zh": "a. 叔伯的, 叔伯似的",
+"en": "a. resembling a uncle in kindness or indulgence / a. being or relating to an uncle"
+},
+{
+"word": "potable",
+"pos": "a/n",
+"zh": "a. 适于饮用的 / n. 饮料",
+"en": "n any liquid suitable for drinking / a suitable for drinking"
+},
+{
+"word": "jubilation",
+"pos": "n",
+"zh": "n. 欢呼, 喜欢, 庆祝",
+"en": "n a feeling of extreme joy / n a joyful occasion for special festivities to mark some happy event / n the utterance of s…"
+},
+{
+"word": "aqueduct",
+"pos": "n",
+"zh": "n. 水管, 沟渠, 导管 / [医] 水管",
+"en": "n. a conduit that resembles a bridge but carries water over a valley"
+},
+{
+"word": "gallantry",
+"pos": "n",
+"zh": "n. 华丽, 豪勇, 勇敢行为",
+"en": "n. polite attentiveness to women"
+},
+{
+"word": "bookmark",
+"pos": "n",
+"zh": "n. 书签 / [计] 书签",
+"en": "n. a marker (a piece of paper or ribbon) placed between the pages of a book to mark the reader's place"
+},
+{
+"word": "synchronous",
+"pos": "a",
+"zh": "a. 同时的, 同步的 / [计] 同步",
+"en": "a. occurring or existing at the same time or having the same period or phase / a. (digital communication) pertaining to …"
+},
+{
+"word": "colloquial",
+"pos": "a",
+"zh": "a. 会话的, 口语的, 口语体的",
+"en": "s. characteristic of informal spoken language or conversation"
+},
+{
+"word": "assiduous",
+"pos": "a",
+"zh": "a. 勤勉的, 刻苦的",
+"en": "s. marked by care and persistent effort"
+},
+{
+"word": "reprise",
+"pos": "n/vt",
+"zh": "n. 年金, 重演, 重复 / vt. 重演, 重奏",
+"en": "v. repeat an earlier theme of a composition"
+},
+{
+"word": "prance",
+"pos": "n/vi/vt",
+"zh": "n. (马)腾跃, 昂首阔步 / vi. 腾跃, 昂首阔步 / vt. 使腾跃",
+"en": "v. spring forward on the hind legs / v. cause (a horse) to bound spring forward / v. ride a horse such that it springs a…"
+},
+{
+"word": "brawny",
+"pos": "a",
+"zh": "a. 肌肉结实的, 顽强的 / [医] 多肉的, 肌肤的",
+"en": "s. (of a person) possessing physical strength and weight; rugged and powerful"
+},
+{
+"word": "rivulet",
+"pos": "n",
+"zh": "n. 小河",
+"en": "n. a small stream"
+},
+{
+"word": "petulant",
+"pos": "a",
+"zh": "a. 任性的, 暴躁的, 易生气的, 难以取悦的",
+"en": "s easily irritated or annoyed"
+},
+{
+"word": "impute",
+"pos": "vt",
+"zh": "vt. 归罪, 使负责, 嫁祸于",
+"en": "v. attribute or credit to / v. attribute (responsibility or fault) to a cause or source"
+},
+{
+"word": "demystify",
+"pos": "vt",
+"zh": "vt. 使非神秘化",
+"en": "v. make less mysterious or remove the mystery from"
+},
+{
+"word": "tamp",
+"pos": "vt/n",
+"zh": "vt. 用粘土填塞, 捣固, 夯实 / n. 捣棒, 夯",
+"en": "n. a tool for tamping (e.g., for tamping tobacco into a pipe bowl or a charge into a drill hole etc.)"
+},
+{
+"word": "seaport",
+"pos": "n",
+"zh": "n. 海港, 港口城市",
+"en": "n. a sheltered port where ships can take on or discharge cargo"
+},
+{
+"word": "bludgeon",
+"pos": "n",
+"zh": "n. 大头棒 / [法] 棍, 棍打",
+"en": "n. a club used as a weapon / v. overcome or coerce as if by using a heavy club"
+},
+{
+"word": "videocassette",
+"pos": "n",
+"zh": "n. 盒式录像带",
+"en": "n. a cassette for videotape"
+},
+{
+"word": "finicky",
+"pos": "a",
+"zh": "a. 过分注意的, 过分周到的, 过分讲究的",
+"en": "s exacting especially about details"
+},
+{
+"word": "beseech",
+"pos": "v",
+"zh": "v. 恳求, 哀求",
+"en": "v ask for or request earnestly"
+},
+{
+"word": "handicraft",
+"pos": "n",
+"zh": "n. 手工艺, 手艺 / [经] 手工业, 手工",
+"en": "n. a work produced by hand labor / n. a craft that requires skillful hands"
+},
+{
+"word": "recluse",
+"pos": "a/n",
+"zh": "a. 隐遁的, 偏僻的 / n. 隐遁者, 遁世者",
+"en": "s. withdrawn from society; seeking solitude"
+},
+{
+"word": "bullion",
+"pos": "n",
+"zh": "n. 金银, 金银块, 纯金 / [经] 金银锭",
+"en": "n. a mass of precious metal / n. gold or silver in bars or ingots"
+},
+{
+"word": "depravity",
+"pos": "n",
+"zh": "n. 堕落, 腐败, 邪恶 / [法] 堕落, 腐化, 败坏",
+"en": "n. a corrupt or depraved or degenerate act or practice"
+},
+{
+"word": "infernal",
+"pos": "a",
+"zh": "a. 阴间的, 恶魔的",
+"en": "n. an inhabitant of Hell / a. characteristic of or resembling Hell / a. of or pertaining to or characteristic of a very …"
+},
+{
+"word": "transcontinental",
+"pos": "a",
+"zh": "a. 横贯大陆的, 大陆那边的",
+"en": "s. spanning or crossing or on the farther side of a continent"
+},
+{
+"word": "serenade",
+"pos": "n/v",
+"zh": "n. 小夜曲 / v. 唱小夜曲",
+"en": "n. a song characteristically played outside the house of a woman / v. sing and play for somebody"
+},
+{
+"word": "overcharge",
+"pos": "v/n",
+"zh": "v. 讨价过高, 装载过多, 过度充电, 渲染 / n. 超载, 装药过多, 过度充电",
+"en": "n. a price that is too high / v. rip off; ask an unreasonable price"
+},
+{
+"word": "embezzlement",
+"pos": "n",
+"zh": "n. 盗用, 挪用, 侵占 / [经] 贪污, 盗用(公款), 监守自盗",
+"en": "n. the fraudulent appropriation of funds or property entrusted to your care but actually owned by someone else"
+},
+{
+"word": "blotch",
+"pos": "n",
+"zh": "n. 大斑点, 污斑, 疹块 / [医] 污点, 斑点",
+"en": "n. an irregularly shaped spot"
+},
+{
+"word": "demography",
+"pos": "n",
+"zh": "n. 人口统计学 / [医] 人口学, 人口统计学",
+"en": "n. the branch of sociology that studies the characteristics of human populations"
+},
+{
+"word": "halcyon",
+"pos": "n/a",
+"zh": "n. 神翠鸟, 翡翠鸟 / a. 宁静的, 平稳的, 翡翠鸟的",
+"en": "n. a large kingfisher widely distributed in warmer parts of the Old World / n. a mythical bird said to breed at the time…"
+}
+]

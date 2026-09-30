@@ -1,0 +1,602 @@
+[
+{
+"word": "ferry",
+"pos": "n",
+"zh": "n. 渡船, 渡口 / [法] 摆渡营业权, 轮渡",
+"en": "n. a boat that transports people or vehicles across a body of water and operates on a regular schedule / n. transport by…"
+},
+{
+"word": "harassment",
+"pos": "n",
+"zh": "n. 困扰, 烦扰, 烦恼 / [法] 折磨, 骚扰, 侵扰",
+"en": "n. a feeling of intense annoyance caused by being tormented / n. the act of tormenting by continued persistent attacks a…"
+},
+{
+"word": "fame",
+"pos": "n",
+"zh": "n. 名望, 名声, 传说",
+"en": "n. the state or quality of being widely honored and acclaimed / n. favorable public reputation"
+},
+{
+"word": "manuscript",
+"pos": "n/a",
+"zh": "n. 手稿, 原稿, 底稿 / a. 手写的",
+"en": "n. the form of a literary work submitted for publication / n. handwritten book or document"
+},
+{
+"word": "graph",
+"pos": "n",
+"zh": "n. 曲线图, 图表, 图形 / [计] 图形",
+"en": "n. a visual representation of the relations between certain quantities plotted with reference to a set of axes / v. repr…"
+},
+{
+"word": "likelihood",
+"pos": "n",
+"zh": "n. 可能, 可能性",
+"en": "n. the probability of a specified outcome"
+},
+{
+"word": "carrot",
+"pos": "n",
+"zh": "n. 胡萝卜 / [医] 胡萝卜",
+"en": "n. deep orange edible root of the cultivated carrot plant / n. perennial plant widely cultivated as an annual in many va…"
+},
+{
+"word": "dwelling",
+"pos": "n",
+"zh": "n. 住处 / [医] 住房",
+"en": "n. housing that someone is living in"
+},
+{
+"word": "continuity",
+"pos": "n",
+"zh": "n. 连续性 / [化] 连续性",
+"en": "n. uninterrupted connection or union / n. a detailed script used in making a film in order to avoid discontinuities from…"
+},
+{
+"word": "toll",
+"pos": "n/vt/vi",
+"zh": "n. 通行费, 代价, 钟声 / vt. 征收, 敲钟, 鸣钟, 勾引, 引诱 / vi. 征税, 鸣钟",
+"en": "n. a fee levied for the use of roads or bridges (used for maintenance) / v. ring slowly / v. charge a fee for using"
+},
+{
+"word": "embarrassed",
+"pos": "a",
+"zh": "a. 尴尬的；窘迫的",
+"en": "s. made to feel uncomfortable because of shame or wounded pride"
+},
+{
+"word": "rim",
+"pos": "n/vt/vi",
+"zh": "n. 边, 轮缘, 框 / vt. 镶边, 为...装边 / vi. 形成边缘",
+"en": "n. the shape of a raised edge of a more or less circular object / n. (basketball) the hoop from which the net is suspend…"
+},
+{
+"word": "quota",
+"pos": "n",
+"zh": "n. 配额, 限额 / [化] 定额",
+"en": "n. a prescribed number / n. a proportional share assigned to each participant / n. a limitation on imports"
+},
+{
+"word": "blink",
+"pos": "vi/vt/n",
+"zh": "vi. 眨眼, 闪亮 / vt. 眨眼, 使闪亮 / n. 眨眼, 瞬间, 闪光, 闪烁 / [计] 闪烁",
+"en": "n. a reflex that closes and opens the eyes rapidly / v. briefly shut the eyes"
+},
+{
+"word": "heir",
+"pos": "n",
+"zh": "n. 继承人, 嗣子, 后嗣 / [法] 继承人, 后嗣",
+"en": "n. a person who is entitled by law or by the terms of a will to inherit the estate of another"
+},
+{
+"word": "eligible",
+"pos": "a/n",
+"zh": "a. 有资格当选的, 合格的 / n. 有资格者, 合格者, 适任者",
+"en": "a. qualified for or allowed or worthy of being chosen"
+},
+{
+"word": "diameter",
+"pos": "n",
+"zh": "n. 直径 / [医] 直经, 径",
+"en": "n. the length of a straight line passing through the center of a circle and connecting two points on the circumference /…"
+},
+{
+"word": "fox",
+"pos": "n/vi/vt",
+"zh": "n. 狐狸, 狡猾的人 / vi. 奸狡地行动, (书页)生斑, 变酸 / vt. 欺骗, 使变酸, 为(鞋等)换面, 使生黄斑",
+"en": "n. alert carnivorous mammal with pointed muzzle and ears and a bushy tail; most are predators that do not hunt in packs …"
+},
+{
+"word": "refuge",
+"pos": "n/vi/vt",
+"zh": "n. 避难所, 安全地带, 避难, 庇护 / vi. 躲避 / vt. 给予...庇护",
+"en": "n. a shelter from danger or hardship"
+},
+{
+"word": "chill",
+"pos": "n/a/vt/vi",
+"zh": "n. 寒冷, 寒意, 失意 / a. 寒冷的, 冷漠的 / vt. 使寒心, 冷冻 / vi. 变冷",
+"en": "n. coldness due to a cold environment / n. a sensation of cold that often marks the start of an infection and the develo…"
+},
+{
+"word": "cheer",
+"pos": "n/vi/vt",
+"zh": "n. 愉快, 振奋, 欢呼 / vi. 欢呼, 喝彩, 快活起来 / vt. 使振奋, 欢呼",
+"en": "n. a cry or shout of approval / v. give encouragement to / v. show approval or good wishes by shouting / v. cause (someb…"
+},
+{
+"word": "yacht",
+"pos": "n/vi",
+"zh": "n. 快艇, 游艇 / vi. 驾游艇, 乘游艇",
+"en": "n. an expensive vessel propelled by sail or power and used for cruising or racing / v. travel in a yacht"
+},
+{
+"word": "faction",
+"pos": "n",
+"zh": "n. 小派系, 内讧 / [法] 宗派, 派别, 小集团",
+"en": "n. a dissenting clique"
+},
+{
+"word": "steer",
+"pos": "vt/vi/n",
+"zh": "vt. 引导, 驾驶, 航行, 控制 / vi. 驾驶, 掌舵, 行驶 / n. 驾驶指示, 劝告",
+"en": "v. direct the course; determine the direction of travelling / v. direct (oneself) somewhere"
+},
+{
+"word": "intact",
+"pos": "a",
+"zh": "a. 尚未被人碰过的, 原封不动的, 完整的 / [医] 完整的, 无伤的",
+"en": "s. (of a woman) having the hymen unbroken / s. undamaged in any way"
+},
+{
+"word": "diesel",
+"pos": "n",
+"zh": "n. 内燃机, 柴油机, 柴油",
+"en": "n. German engineer (born in France) who invented the diesel engine (1858-1913) / n. an internal-combustion engine that b…"
+},
+{
+"word": "peanut",
+"pos": "n/a",
+"zh": "n. 花生, 小人物, 极小的数额 / a. 渺小的, 微不足道的",
+"en": "n. underground pod of the peanut vine / n. widely cultivated American plant cultivated in tropical and warm regions; sho…"
+},
+{
+"word": "thrive",
+"pos": "vi",
+"zh": "vi. 繁荣, 兴旺, 茁壮成长 / [经] 兴旺, 繁荣, 旺盛",
+"en": "v. make steady progress; be at the high point in one's career or reach a high point in historical significance or import…"
+},
+{
+"word": "applicable",
+"pos": "a",
+"zh": "a. 合适的, 可应用的 / [法] 适用的, 适应的",
+"en": "s. capable of being applied; having relevance"
+},
+{
+"word": "elaborate",
+"pos": "a/vt/vi",
+"zh": "a. 精细的, 详尽的, 精心计划(或制作)的 / vt. 详细地说明, 用心地制作, 发挥 / vi. 变复杂, 作详细说明",
+"en": "v. add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing / v.…"
+},
+{
+"word": "chew",
+"pos": "vt/vi/n",
+"zh": "vt. 咀嚼, 嚼碎 / vi. 咀嚼, 细想 / n. 咀嚼, 咀嚼物",
+"en": "n. a wad of something chewable as tobacco / n. biting and grinding food in your mouth so it becomes soft enough to swall…"
+},
+{
+"word": "commentator",
+"pos": "n",
+"zh": "n. 评论员, 实况广播员, 注释者, 时事评论员",
+"en": "n. a writer who reports and analyzes events of the day"
+},
+{
+"word": "valuation",
+"pos": "n",
+"zh": "n. 评价, 估价, 价值判断 / [经] 估价, 计价, 评价",
+"en": "n. assessed price"
+},
+{
+"word": "steak",
+"pos": "n",
+"zh": "n. 牛排, 鱼排, 肉排",
+"en": "n. a slice of meat cut from the fleshy part of an animal or large fish"
+},
+{
+"word": "referee",
+"pos": "n/v",
+"zh": "n. 仲裁人, 调解人, 裁判员 / v. 仲裁, 裁判",
+"en": "n. (sports) the chief official (as in boxing or American football) who is expected to ensure fair play / n. an attorney …"
+},
+{
+"word": "fossil",
+"pos": "n/a",
+"zh": "n. 化石, 古物 / a. 化石的, 陈腐的, 守旧的",
+"en": "n. the remains (or an impression) of a plant or animal that existed in a past geological age and that has been excavated…"
+},
+{
+"word": "verb",
+"pos": "n",
+"zh": "n. 动词 / [计] 动词",
+"en": "n. the word class that serves as the predicate of a sentence / n. a content word that denotes an action, occurrence, or …"
+},
+{
+"word": "scratch",
+"pos": "n/vt/vi/a",
+"zh": "n. 抓痕, 搔, 抓, 擦伤, 刮擦声, 乱写, 零分, 起跑线 / vt. 搔, 抓, 挖出, 擦, 刮, 乱涂, 勾抹掉 / vi. 搔, 抓, 发刮擦声, 勉强糊口 / a…",
+"en": "n. a competitor who has withdrawn from competition / n. (golf) a handicap of zero strokes / n. an indication of damage /…"
+},
+{
+"word": "awake",
+"pos": "a/vt/vi",
+"zh": "a. 醒着的 / vt. 唤醒, 唤起, 使意识到 / vi. 醒来, 被唤起, 意识到",
+"en": "a. not in a state of sleep; completely conscious"
+},
+{
+"word": "librarian",
+"pos": "n",
+"zh": "n. 图书馆员, 图书管理员 / [计] 程序库管理程序; 程序库生成程序",
+"en": "n. a professional person trained in library science and engaged in library services"
+},
+{
+"word": "feminist",
+"pos": "n",
+"zh": "n. 男女平等主义者",
+"en": "n. a supporter of feminism / a. of or relating to or advocating equal rights for women"
+},
+{
+"word": "bacterium",
+"pos": "n",
+"zh": "n. 细菌 / [医] [无芽胞]杆菌属",
+"en": "n (microbiology) single-celled or noncellular spherical or spiral or rod-shaped organisms lacking chlorophyll that repro…"
+},
+{
+"word": "emotionally",
+"pos": "adv",
+"zh": "adv. 在情绪上",
+"en": "r. in an emotional manner / r. with regard to emotions"
+},
+{
+"word": "clergy",
+"pos": "n",
+"zh": "n. 牧师, 僧侣, 神职人员",
+"en": "n. in Christianity, clergymen collectively (as distinguished from the laity)"
+},
+{
+"word": "rug",
+"pos": "n",
+"zh": "n. 小块地毯, 揭露某人",
+"en": "n. floor covering consisting of a piece of thick heavy fabric (usually with nap or pile)"
+},
+{
+"word": "dioxide",
+"pos": "n",
+"zh": "n. 二氧化物 / [医] 二氧化物",
+"en": "n. an oxide containing two atoms of oxygen in the molecule"
+},
+{
+"word": "butt",
+"pos": "n",
+"zh": "n. 粗大的一头, 烟头, 靶, 笑柄 / [医] 对核",
+"en": "n. thick end of the handle / n. the part of a plant from which the roots spring or the part of a stalk or trunk nearest …"
+},
+{
+"word": "lily",
+"pos": "n/a",
+"zh": "n. 百合, 百合花 / a. 洁白的, 纯白色的, 纯洁的",
+"en": "n. any liliaceous plant of the genus Lilium having showy pendulous flowers"
+},
+{
+"word": "dumb",
+"pos": "a",
+"zh": "a. 哑的, 不说话的, 无声音的 / [医] 哑的",
+"en": "s. lacking the power of human speech / s. unable to speak because of hereditary deafness"
+},
+{
+"word": "sprinkle",
+"pos": "vt/vi/n",
+"zh": "vt. 洒, 散置, 撒, 点缀 / vi. 洒, 撒, 下小雨 / n. 洒, 撒, 散置, 小雨, 少量",
+"en": "n. the act of sprinkling or splashing water / v. cause (a liquid) to spatter about, especially with force / v. rain gent…"
+},
+{
+"word": "worthy",
+"pos": "n/a",
+"zh": "n. 杰出人物 / a. 有价值的, 可敬的, 值得的",
+"en": "n. an important, honorable person (word is often used humorously) / a. having worth or merit or value; being honorable o…"
+},
+{
+"word": "doubtful",
+"pos": "a",
+"zh": "a. 可疑的, 疑心的, 不明确的 / [法] 怀疑的, 有疑问的, 未确的",
+"en": "s. open to doubt or suspicion / s. fraught with uncertainty or doubt / s. unsettled in mind or opinion"
+},
+{
+"word": "dictate",
+"pos": "vi/vt/n",
+"zh": "vi. 听写, 口述, 口授 / vt. 口述, 使听写, 命令 / n. 命令, 指挥, 指令",
+"en": "n. an authoritative rule / n. a guiding principle / v. say out loud for the purpose of recording / v. rule as a dictator"
+},
+{
+"word": "patron",
+"pos": "n",
+"zh": "n. 赞助人, 顾客, 保护人 / [法] 保护人, 庇护人, 赞助人",
+"en": "n. a regular customer / n. the proprietor of an inn / n. someone who supports or champions something"
+},
+{
+"word": "municipal",
+"pos": "a",
+"zh": "a. 市政的, 自治区的, 内政的 / [经] 市政的, 市的",
+"en": "a. relating or belonging to or characteristic of a municipality / s. of or relating to the government of a municipality"
+},
+{
+"word": "useless",
+"pos": "a",
+"zh": "a. 无用的, 无效的, 无益的 / [机] 无用, 无价值, 无效",
+"en": "a. having no beneficial use or incapable of functioning usefully"
+},
+{
+"word": "harmony",
+"pos": "n",
+"zh": "n. 协调, 和睦, 调和 / [电] 和声学",
+"en": "n. compatibility in opinion and action / n. the structure of music with respect to the composition and progression of ch…"
+},
+{
+"word": "forbid",
+"pos": "vt",
+"zh": "vt. 禁止, 不准, 妨碍 / [法] 不许, 禁止, 阻止",
+"en": "v. command against"
+},
+{
+"word": "tolerance",
+"pos": "n",
+"zh": "n. 宽容, 忍受, 容忍, 容许量, 公差 / [计] 允许误差",
+"en": "n. the power or capacity of an organism to tolerate unfavorable environmental conditions / n. the act of tolerating some…"
+},
+{
+"word": "supervise",
+"pos": "v",
+"zh": "v. 监督, 管理, 指导",
+"en": "v watch and direct / v keep tabs on; keep an eye on; keep under surveillance"
+},
+{
+"word": "goat",
+"pos": "n",
+"zh": "n. 山羊, 替罪羊, 色鬼",
+"en": "n. any of numerous agile ruminants related to sheep but having a beard and straight horns"
+},
+{
+"word": "misery",
+"pos": "n",
+"zh": "n. 痛苦, 悲惨, 不幸, 穷困",
+"en": "n. a state of ill-being due to affliction or misfortune / n. a feeling of intense unhappiness"
+},
+{
+"word": "fringe",
+"pos": "n/vt/a",
+"zh": "n. 边缘, 端, 流苏, 穗, 初步 / vt. 加穗于, 加饰边于 / a. 边缘的, 附加的",
+"en": "n. one of the light or dark bands produced by the interference and diffraction of light / n. a social group holding marg…"
+},
+{
+"word": "banana",
+"pos": "n",
+"zh": "n. 香蕉",
+"en": "n. any of several tropical and subtropical treelike herbs of the genus Musa having a terminal crown of large entire leav…"
+},
+{
+"word": "grandparent",
+"pos": "n",
+"zh": "n. 祖父母",
+"en": "n. a parent of your father or mother"
+},
+{
+"word": "fortunate",
+"pos": "a",
+"zh": "a. 幸运的, 幸福的",
+"en": "a. having unexpected good fortune / s. supremely favored / s. presaging good fortune"
+},
+{
+"word": "cruise",
+"pos": "n/v",
+"zh": "n. 巡航, 巡弋, 漫游 / v. 巡航, 巡弋, 漫游",
+"en": "n. an ocean trip taken for pleasure / v. drive around aimlessly but ostentatiously and at leisure / v. travel at a moder…"
+},
+{
+"word": "temptation",
+"pos": "n",
+"zh": "n. 诱惑, 诱惑物 / [法] 诱惑, 诱惑物",
+"en": "n. something that seduces or has the quality to seduce / n. the desire to have or do something that you know you should …"
+},
+{
+"word": "inclined",
+"pos": "a",
+"zh": "a. 倾向于...的, 想要...的, 可能的, 趋向于...的",
+"en": "a. (often followed by `to') having a preference, disposition, or tendency / a. at an angle to the horizontal or vertical…"
+},
+{
+"word": "continually",
+"pos": "adv",
+"zh": "adv. 不断地, 频繁地",
+"en": "r. seemingly without interruption"
+},
+{
+"word": "underline",
+"pos": "vt/n",
+"zh": "vt. 在...下面划线, 作...的衬里, 强调 / n. 下划线, 图下说明文字 / [计] 加下划线; 下划线",
+"en": "v. draw a line or lines underneath to call attention to"
+},
+{
+"word": "merge",
+"pos": "vt/vi",
+"zh": "vt. 使合并, 使消失, 吞没 / vi. 合并, 渐渐消失 / [计] 合并",
+"en": "v become one / v mix together different elements / v join or combine"
+},
+{
+"word": "calendar",
+"pos": "n/vt",
+"zh": "n. 日历, 日程表 / vt. 列入表中 / [计] 日历",
+"en": "n. a system of timekeeping that defines the beginning and length and divisions of the year / n. a list or register of ev…"
+},
+{
+"word": "beard",
+"pos": "n/vt",
+"zh": "n. 胡须 / vt. 抓住胡须, 公开反对",
+"en": "n. the hair growing on the lower part of a man's face / n. a tuft or growth of hairs or bristles on certain plants such …"
+},
+{
+"word": "throne",
+"pos": "n",
+"zh": "n. 王座, 君主",
+"en": "n. the chair of state for a monarch, bishop, etc. / n. the position and power of an exalted person (a sovereign or bisho…"
+},
+{
+"word": "brake",
+"pos": "n/v",
+"zh": "n. 刹车, 阻碍, 丛林 / v. 刹车",
+"en": "n. a restraint used to slow or stop a vehicle / n. any of various ferns of the genus Pteris having pinnately compound le…"
+},
+{
+"word": "grid",
+"pos": "n",
+"zh": "n. 格子, 栅格 / [计] 网格",
+"en": "n. a pattern of regularly spaced horizontal and vertical lines / n. a perforated or corrugated metal plate used in a sto…"
+},
+{
+"word": "impulse",
+"pos": "n/vt",
+"zh": "n. 冲动, 驱使, 刺激, 推动, 冲力, 建议, 脉冲 / vt. 推动",
+"en": "n. the act of applying force suddenly"
+},
+{
+"word": "width",
+"pos": "n",
+"zh": "n. 宽度, 宽广, 广博 / [医] 宽度",
+"en": "n. the extent of something from side to side"
+},
+{
+"word": "brutal",
+"pos": "a",
+"zh": "a. 残忍的, 野蛮的, 不讲理的",
+"en": "s. harsh / s. disagreeably direct and precise"
+},
+{
+"word": "temporarily",
+"pos": "adv",
+"zh": "adv. 暂时, 一时, 临时",
+"en": "r. for a limited time only; not permanently"
+},
+{
+"word": "positively",
+"pos": "adv",
+"zh": "adv. 明确地, 肯定地, 无疑地, (非正式)确实地, 真正地",
+"en": "r. extremely / r. so as to be positive; in a positive manner"
+},
+{
+"word": "predator",
+"pos": "n",
+"zh": "n. 食肉动物, 掠夺者 / [医] 捕食者",
+"en": "n. any animal that lives by preying on other animals"
+},
+{
+"word": "deliberate",
+"pos": "a/v",
+"zh": "a. 深思熟虑的, 故意的, 从容的 / v. 仔细考虑",
+"en": "s. carefully thought out in advance"
+},
+{
+"word": "fur",
+"pos": "n/vt/vi",
+"zh": "n. 毛皮 / vt. 以毛皮制作, 使生苔, 使生水垢 / vi. 生苔, 积水垢",
+"en": "n. the dressed hairy coat of a mammal / n. dense coat of fine silky hairs on mammals (e.g., cat or seal or weasel) / n. …"
+},
+{
+"word": "poke",
+"pos": "n/vt/vi",
+"zh": "n. 刺, 戳, 袋子 / vt. 戳, 捅, 拨弄, 刺 / vi. 戳, 刺, 捅, 搜索, 伸出, 行动散慢 / [计] 存数",
+"en": "n. tall coarse perennial American herb having small white flowers followed by blackish-red berries on long drooping race…"
+},
+{
+"word": "importantly",
+"pos": "adv",
+"zh": "adv. 重要地；大量地；有名望地；自命不凡地",
+"en": "r. in an important way or to an important degree / r. in an important way"
+},
+{
+"word": "persistent",
+"pos": "a",
+"zh": "a. 固执的, 坚持的, 持续的, 作用持久的 / [法] 坚持的, 固执的, 持续的",
+"en": "s. never-ceasing / a. retained; not shed"
+},
+{
+"word": "neatly",
+"pos": "adv",
+"zh": "adv. 整洁地, 干净地, 匀称地",
+"en": "r. with neatness"
+},
+{
+"word": "soar",
+"pos": "n/vi",
+"zh": "n. 高扬, 翱翔 / vi. 往上飞舞, 高耸, 翱翔",
+"en": "n. the act of rising upward into the air / v. rise rapidly / v. fly upwards or high in the sky / v. go or move upward"
+},
+{
+"word": "utterly",
+"pos": "adv",
+"zh": "adv. 完全地, 全然, 绝对",
+"en": "r completely and without qualification; used informally as intensifiers"
+},
+{
+"word": "enact",
+"pos": "vt",
+"zh": "vt. 制定法律, 扮演, 颁布 / [法] 法令, 法规, 条例",
+"en": "v. act out; represent or perform as if in a play"
+},
+{
+"word": "slim",
+"pos": "a/vi/vt",
+"zh": "a. 瘦的, 苗条的, 微小的, 稀少的, 微薄的 / vi. 变苗条 / vt. 使苗条",
+"en": "v take off weight / s being of delicate or slender build / s small in quantity"
+},
+{
+"word": "circular",
+"pos": "a",
+"zh": "a. 圆形的, 循环的, 间接的 / [医] 环状的, 循环的",
+"en": "n. an advertisement (usually printed on a page or in a leaflet) intended for wide distribution / s. describing a circle;…"
+},
+{
+"word": "thread",
+"pos": "n/vt/vi",
+"zh": "n. 线, 丝, 纤维, 线索 / vt. 穿线于, 穿过, 通过, 用线穿成 / vi. 穿过 / [计] 线索, 线程",
+"en": "n. a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving / v. pass a thread…"
+},
+{
+"word": "landmark",
+"pos": "n",
+"zh": "n. 陆标, 划时代的事, 地界标 / [医] 界标",
+"en": "n. the position of a prominent or well-known object in a particular landscape / n. an event marking a unique or importan…"
+},
+{
+"word": "privately",
+"pos": "adv",
+"zh": "adv. 秘密地；私下地",
+"en": "r. kept private or confined to those intimately concerned / r. by a private person or interest"
+},
+{
+"word": "caution",
+"pos": "n/vt",
+"zh": "n. 小心, 慎重, 警示 / vt. 警告 / [计] 警告",
+"en": "n. the trait of being cautious; being attentive to possible danger / n. a warning against certain acts / n. judiciousnes…"
+},
+{
+"word": "unpleasant",
+"pos": "a",
+"zh": "a. 使人不愉快的, 使人厌恶的, 煞风景的",
+"en": "a. disagreeable to the senses, to the mind, or feelings"
+},
+{
+"word": "threshold",
+"pos": "n",
+"zh": "n. 门槛, 入口, 开端, 阈 / [计] 阈; 阈值",
+"en": "n. the starting point for a new state or experience / n. the smallest detectable sensation"
+}
+]

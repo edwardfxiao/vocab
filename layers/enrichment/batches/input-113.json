@@ -1,0 +1,602 @@
+[
+{
+"word": "loon",
+"pos": "n",
+"zh": "n. 懒人, 潜鸟, 笨蛋",
+"en": "n. a worthless lazy fellow / n. large somewhat primitive fish-eating diving bird of the northern hemisphere having webbe…"
+},
+{
+"word": "sequester",
+"pos": "vt",
+"zh": "vt. 使隐退, 使隔绝, 扣押, 没收 / [化] 螯合剂; 多价螯合剂",
+"en": "v. requisition forcibly, as of enemy property / v. undergo sequestration by forming a stable compound with an ion / v. s…"
+},
+{
+"word": "prohibitive",
+"pos": "a",
+"zh": "a. 禁止的, 禁止性的 / [经] 禁止性的, 抑制的",
+"en": "s. tending to discourage (especially of prices)"
+},
+{
+"word": "acumen",
+"pos": "n",
+"zh": "n. 敏锐, 聪明",
+"en": "n. a tapering point"
+},
+{
+"word": "homesick",
+"pos": "a",
+"zh": "a. 思家的, 思乡病的",
+"en": "s. longing to return home"
+},
+{
+"word": "midget",
+"pos": "n/a",
+"zh": "n. 侏儒 / a. 小型的",
+"en": "n a person who is markedly small / s very small"
+},
+{
+"word": "reprehensible",
+"pos": "a",
+"zh": "a. 应斥责的, 应该谴责的 / [法] 应受严责的, 应受指责的, 应受申斥的",
+"en": "s bringing or deserving severe rebuke or censure"
+},
+{
+"word": "floodplain",
+"pos": "n",
+"zh": "n. 泛滥平原",
+"en": "n. a low plain adjacent to a river that is formed chiefly of river sediment and is subject to flooding"
+},
+{
+"word": "beehive",
+"pos": "n",
+"zh": "n. 蜂窝, 蜂箱 / [机] 集气架, 蜂巢",
+"en": "n. any workplace where people are very busy / n. a structure that provides a natural habitation for bees; as in a hollow…"
+},
+{
+"word": "gloat",
+"pos": "vi/n",
+"zh": "vi. 满足地看, 幸灾乐祸, 贪婪地盯视 / n. 贪婪的盯视, 满足的注视, 幸灾乐祸",
+"en": "n. malicious satisfaction / v. dwell on with satisfaction / v. gaze at or think about something with great self-satisfac…"
+},
+{
+"word": "magenta",
+"pos": "n",
+"zh": "n. 品红色, 洋红 / [化] (碱性)品红; 洋红",
+"en": "n. a primary subtractive color for light; a dark purple-red color; the dye for magenta was discovered in 1859, the year …"
+},
+{
+"word": "botch",
+"pos": "v/n",
+"zh": "v. 拙笨地修补, 糟蹋 / n. 拙笨的修补, 难看的补缀",
+"en": "v. make a mess of, destroy or ruin"
+},
+{
+"word": "tuber",
+"pos": "n",
+"zh": "n. 块茎, 突起, 结节 / [医] 结节; 块茎(植物)",
+"en": "n. a fleshy underground stem or root serving for reproductive and food storage / n. type genus of the Tuberaceae: fungi …"
+},
+{
+"word": "credo",
+"pos": "n",
+"zh": "n. 信条",
+"en": "n any system of principles or beliefs"
+},
+{
+"word": "polygon",
+"pos": "n",
+"zh": "n. 多角形, 多边形 / [计] 多边形",
+"en": "n. a closed plane figure bounded by straight sides"
+},
+{
+"word": "sully",
+"pos": "vt/n",
+"zh": "vt. 玷污, 弄脏 / n. 污点, 脏污",
+"en": "n. United States painter (born in England) of portraits and historical scenes (1783-1872) / n. French statesman (1560-16…"
+},
+{
+"word": "blissful",
+"pos": "a",
+"zh": "a. 充满喜悦的",
+"en": "s. completely happy and contented"
+},
+{
+"word": "decadence",
+"pos": "n",
+"zh": "n. 颓废",
+"en": "n the state of being degenerate in mental or moral qualities"
+},
+{
+"word": "cyclone",
+"pos": "n",
+"zh": "n. 龙卷风, 暴风 / [化] 旋流(分离,除尘)器",
+"en": "n. (meteorology) rapid inward circulation of air masses about a low pressure center; circling counterclockwise in the no…"
+},
+{
+"word": "veracity",
+"pos": "n",
+"zh": "n. 说话老实, 老实, 诚实",
+"en": "n. unwillingness to tell lies"
+},
+{
+"word": "antiseptic",
+"pos": "n/a",
+"zh": "n. 抗菌剂, 防腐剂 / a. 抗菌的, 防腐的",
+"en": "n. a substance that destroys micro-organisms that carry disease without harming body tissues / a. thoroughly clean and f…"
+},
+{
+"word": "steeple",
+"pos": "n",
+"zh": "n. 尖顶, (教堂的)尖塔, 锥形体",
+"en": "n. a tall tower that forms the superstructure of a building (usually a church or temple) and that tapers to a point at t…"
+},
+{
+"word": "summation",
+"pos": "n",
+"zh": "n. 总和, 和, 合计 / [医] 总和, 总合",
+"en": "n. a concluding summary (as in presenting a case before a law court) / n. (physiology) the process whereby multiple stim…"
+},
+{
+"word": "rebut",
+"pos": "vi/vt",
+"zh": "vi. 反驳 / vt. 辩驳, 反驳, 揭露",
+"en": "v overthrow by argument, evidence, or proof / v prove to be false or incorrect"
+},
+{
+"word": "lithe",
+"pos": "a",
+"zh": "a. 柔软的",
+"en": "s moving and bending with ease"
+},
+{
+"word": "schism",
+"pos": "n",
+"zh": "n. 分裂, 分立, 分裂教会罪 / [法] 分裂, 分裂宗教罪, 宗派",
+"en": "n. division of a group into opposing factions / n. the formal separation of a church into two churches or the withdrawal…"
+},
+{
+"word": "submissive",
+"pos": "a",
+"zh": "a. 服从的, 顺从的",
+"en": "a. inclined or willing to submit to orders or wishes of others or showing such inclination"
+},
+{
+"word": "wily",
+"pos": "a",
+"zh": "a. 使用计谋的, 有诡计的, 狡猾的",
+"en": "s marked by skill in deception"
+},
+{
+"word": "repugnant",
+"pos": "a",
+"zh": "a. 讨厌的, 不愉快的, 厌恶的, 不一致的, 矛盾的, 反对的 / [法] 不一致的, 不相当的, 矛盾的",
+"en": "s offensive to the mind"
+},
+{
+"word": "anvil",
+"pos": "n",
+"zh": "n. 铁砧 / [医] 砧骨; 铁砧",
+"en": "n. a heavy block of iron or steel on which hot metals are shaped by hammering"
+},
+{
+"word": "madrigal",
+"pos": "n",
+"zh": "n. 情歌, 小调, 重唱歌曲",
+"en": "n. an unaccompanied partsong for 2 or 3 voices; follows a strict poetic form / v. sing madrigals"
+},
+{
+"word": "frothy",
+"pos": "a",
+"zh": "a. 有泡的, 起泡的, 多泡的",
+"en": "s emitting or filled with bubbles as from carbonation or fermentation / s marked by high spirits or excitement"
+},
+{
+"word": "libido",
+"pos": "n",
+"zh": "n. 性的冲动, 性欲",
+"en": "n. (psychoanalysis) a Freudian term for sexual urge or desire"
+},
+{
+"word": "lexicographer",
+"pos": "n",
+"zh": "n. 辞典编纂者",
+"en": "n. a compiler or writer of a dictionary; a student of the lexical component of language"
+},
+{
+"word": "inoculate",
+"pos": "vt",
+"zh": "vt. 接种, 嫁接 / [医] 接种",
+"en": "v. introduce an idea or attitude into the mind of / v. introduce a microorganism into / v. insert a bud for propagation"
+},
+{
+"word": "vouch",
+"pos": "vi/vt",
+"zh": "vi. 担保, 保证, 证明, 确定地说 / vt. 担保, 证明, 断定, 传唤...出庭作证",
+"en": "v. give personal assurance; guarantee / v. summon (a vouchee) into court to warrant or defend a title / v. give supporti…"
+},
+{
+"word": "magma",
+"pos": "n",
+"zh": "n. 岩浆, 糊剂, 乳浆剂 / [化] 晶浆",
+"en": "n. molten rock in the earth's crust"
+},
+{
+"word": "boarder",
+"pos": "n",
+"zh": "n. 寄膳者, 寄膳宿者",
+"en": "n. someone who forces their way aboard ship / n. a pupil who lives at school during term time"
+},
+{
+"word": "untapped",
+"pos": "a",
+"zh": "a. 塞子未开的, 未利用的",
+"en": "a. not subjected to tapping / s. not drawn upon or used"
+},
+{
+"word": "travesty",
+"pos": "n/vt",
+"zh": "n. 拙劣的模仿作品, 嘲弄, 滑稽模仿 / vt. 滑稽地模仿, 歪曲",
+"en": "v. make a travesty of"
+},
+{
+"word": "windswept",
+"pos": "a",
+"zh": "a. 风刮的, 被风吹扫的, 暴露在风中的",
+"en": "s. open to or swept by wind"
+},
+{
+"word": "girth",
+"pos": "n/vt/vi",
+"zh": "n. (树的)干围, 周长, 肚带 / vt. 围绕, 包围 / vi. 围长为",
+"en": "n. the distance around a person's body"
+},
+{
+"word": "receptacle",
+"pos": "n",
+"zh": "n. 容器, 花托, 插座 / [医] 容器, [接]受器, 花托",
+"en": "n. a container that is used to put or keep things in / n. enlarged tip of a stem that bears the floral parts / n. an ele…"
+},
+{
+"word": "stethoscope",
+"pos": "n/vt",
+"zh": "n. 听诊器 / vt. 用听诊器诊断",
+"en": "n. a medical instrument for listening to the sounds generated inside the body"
+},
+{
+"word": "untimely",
+"pos": "a",
+"zh": "a. 不到时候的, 不合时令的, 不适时的",
+"en": "s badly timed / s uncommonly early or before the expected time / r too soon; in a premature manner"
+},
+{
+"word": "whir",
+"pos": "n/vi/vt",
+"zh": "n. 呼呼声, 飕飕声 / vi. 作呼呼声, 发飕飕声 / vt. 使呼呼响",
+"en": "n. sound of something in rapid motion"
+},
+{
+"word": "snowman",
+"pos": "n",
+"zh": "n. 雪人",
+"en": "n. a figure of a person made of packed snow"
+},
+{
+"word": "spindly",
+"pos": "a",
+"zh": "a. 纺锤形的, 细长的",
+"en": "s long and lean"
+},
+{
+"word": "peptic",
+"pos": "a/n",
+"zh": "a. 有助消化的, 胃液素的, 胃蛋白酶的 / n. 健胃剂, 促进消化物质",
+"en": "a. relating to or promoting digestion"
+},
+{
+"word": "esophagus",
+"pos": "n",
+"zh": "n. 食道 / [医] 食管",
+"en": "n. the passage between the pharynx and the stomach"
+},
+{
+"word": "ascetic",
+"pos": "n/a",
+"zh": "n. 苦行者, 禁欲者, 修道者 / a. 苦行的, 禁欲的",
+"en": "a. pertaining to or characteristic of an ascetic or the practice of rigorous self-discipline / s. practicing great self-…"
+},
+{
+"word": "lumen",
+"pos": "n",
+"zh": "n. 流明, 腔 / [医] 腔, 流明(光通单位)",
+"en": "n. a unit of luminous flux equal to the amount of light given out through a solid angle of 1 steradian by a point source…"
+},
+{
+"word": "orator",
+"pos": "n",
+"zh": "n. 演说者, 演讲者, 雄辩家, 原告, 请愿人 / [法] 请愿人, 原告, 雄辩者",
+"en": "n. a person who delivers a speech or oration"
+},
+{
+"word": "cubism",
+"pos": "n",
+"zh": "n. 立体派",
+"en": "n. an artistic movement in France beginning in 1907 that featured surfaces of geometrical planes"
+},
+{
+"word": "aurora",
+"pos": "n",
+"zh": "n. 曙光, 极光, 奥罗拉(曙光女神) / [电] 极光",
+"en": "n. an atmospheric phenomenon consisting of bands of light caused by charged solar particles following the earth's magnet…"
+},
+{
+"word": "mortify",
+"pos": "vt/vi",
+"zh": "vt. 抑制, 苦修, 使受辱 / vi. 禁欲, 苦修",
+"en": "v. practice self-denial of one's body and appetites / v. hold within limits and control"
+},
+{
+"word": "delirious",
+"pos": "a",
+"zh": "a. 神志昏迷的, 发狂的 / [医] 谵妄的, 发狂的, 妄想的",
+"en": "s. experiencing delirium / s. marked by uncontrolled excitement or emotion"
+},
+{
+"word": "repulse",
+"pos": "n/vt",
+"zh": "n. 击退, 拒绝 / vt. 厌恶, 击退, 拒绝",
+"en": "n an instance of driving away or warding off / v force or drive back / v be repellent to; cause aversion in / v cause to…"
+},
+{
+"word": "demote",
+"pos": "vt",
+"zh": "vt. 使降级, 使降职",
+"en": "v. assign to a lower position; reduce in rank"
+},
+{
+"word": "reticence",
+"pos": "n",
+"zh": "n. 无言, 沉默, 勉强",
+"en": "n the trait of being uncommunicative; not volunteering anything more than necessary"
+},
+{
+"word": "capitulate",
+"pos": "vi",
+"zh": "vi. (有条件)投降 / [法] 投降, 投降",
+"en": "v. surrender under agreed conditions"
+},
+{
+"word": "vengeful",
+"pos": "a",
+"zh": "a. 复仇心重的, 报复的",
+"en": "s disposed to seek revenge or intended for revenge"
+},
+{
+"word": "capacitance",
+"pos": "n",
+"zh": "n. 电容 / [化] 电容",
+"en": "n. an electrical phenomenon whereby an electric charge is stored"
+},
+{
+"word": "artifice",
+"pos": "n",
+"zh": "n. 诡计, 技巧, 巧妙",
+"en": "n a deceptive maneuver (especially to avoid capture)"
+},
+{
+"word": "gong",
+"pos": "n/vt",
+"zh": "n. 铜锣, 皿形钟 / vt. 鸣锣召唤",
+"en": "n. a percussion instrument consisting of a metal plate that is struck with a softheaded drumstick / v. sound a gong"
+},
+{
+"word": "compendium",
+"pos": "n",
+"zh": "n. 纲要, 概略 / [电] 简述",
+"en": "n. a concise but comprehensive summary of a larger work"
+},
+{
+"word": "fishy",
+"pos": "a",
+"zh": "a. 鱼似的, 多鱼的, 腥臭的, 呆滞的",
+"en": "a. of or relating to or resembling fish / s. not as expected"
+},
+{
+"word": "gaseous",
+"pos": "a",
+"zh": "a. 气体的, 气态的, 无实质的 / [医] 气[体]的",
+"en": "a. existing as or having characteristics of a gas"
+},
+{
+"word": "rancid",
+"pos": "a",
+"zh": "a. 像油脂腐臭味的, 腐臭的 / [医] 酸败的",
+"en": "s. (used of decomposing oils or fats) having a rank smell or taste usually due to a chemical change or decomposition"
+},
+{
+"word": "indiscriminately",
+"pos": "adv",
+"zh": "adv. 无差别, 任意地; 不分青红皂白地; 滥; 不分皂白",
+"en": "r in a random manner / r in an indiscriminate manner"
+},
+{
+"word": "flammable",
+"pos": "a",
+"zh": "a. 易燃的, 可燃性的 / [电] 可燃的",
+"en": "s. easily ignited"
+},
+{
+"word": "aegis",
+"pos": "n",
+"zh": "n. 羊皮盾, 保护, 庇护, 赞助, 支持 / [法] 庇护, 保护",
+"en": "n kindly endorsement and guidance / n armor plate that protects the chest; the front part of a cuirass"
+},
+{
+"word": "scuff",
+"pos": "vi/vt/n",
+"zh": "vi. 拖着脚走, 磨损 / vt. 拳打, 攻击, 用足尖触, 使磨损 / n. 拖着脚走, 磨损, 家用平底拖鞋",
+"en": "n. the act of scuffing (scraping or dragging the feet) / v. walk without lifting the feet / v. get or become scuffed"
+},
+{
+"word": "wont",
+"pos": "n/a/vi/vt",
+"zh": "n. 习惯 / a. 惯常的, 易于...的 / vi. 习惯 / vt. 使习惯于",
+"en": "n an established custom"
+},
+{
+"word": "askew",
+"pos": "a/adv",
+"zh": "a. 歪斜的 / adv. 歪斜地",
+"en": "s. turned or twisted toward one side / r. turned or twisted to one side"
+},
+{
+"word": "vindictive",
+"pos": "a",
+"zh": "a. 有报仇心的, 怀恨的, 惩罚的 / [法] 报复的, 有报仇心的, 复仇的",
+"en": "s disposed to seek revenge or intended for revenge / s showing malicious ill will and a desire to hurt; motivated by spi…"
+},
+{
+"word": "jubilant",
+"pos": "a",
+"zh": "a. 欢呼的, 喜洋洋的",
+"en": "s joyful and proud especially because of triumph or success / s full of high-spirited delight"
+},
+{
+"word": "abut",
+"pos": "v",
+"zh": "v. 邻接, 毗邻",
+"en": "v lie adjacent to another or share a boundary"
+},
+{
+"word": "driftwood",
+"pos": "n",
+"zh": "n. 漂流木, 浮木",
+"en": "n. wood that is floating or that has been washed ashore"
+},
+{
+"word": "tutelage",
+"pos": "n",
+"zh": "n. 守护, 监护, 指导 / [法] 监护, 保护, 指导",
+"en": "n. teaching pupils individually (usually by a tutor hired privately)"
+},
+{
+"word": "juggernaut",
+"pos": "n",
+"zh": "n. 世界主宰",
+"en": "n. a massive inexorable force that seems to crush everything in its way / n. a crude idol of Krishna"
+},
+{
+"word": "lithosphere",
+"pos": "n",
+"zh": "n. 岩石圈, 陆界 / [化] 岩石圈",
+"en": "n. the solid part of the earth consisting of the crust and outer mantle"
+},
+{
+"word": "jaunt",
+"pos": "n/vi",
+"zh": "n. 远足, 徒步旅游 / vi. 远足, 徒步旅游",
+"en": "n a journey taken for pleasure / v make a trip for pleasure"
+},
+{
+"word": "staccato",
+"pos": "a/adv/n",
+"zh": "a. 断奏的, 断续的, 不连贯的 / adv. 断奏地, 断续地, 不连贯地 / n. 不连贯的东西",
+"en": "a. (music) marked by or composed of disconnected parts or sounds; cut short crisply / r. separating the notes; in music"
+},
+{
+"word": "headlong",
+"pos": "a/adv",
+"zh": "a. 头向前的, 仓猝而用力的, 轻率的 / adv. 头向前地, 猛然地, 用力地",
+"en": "r. with the head foremost / r. at breakneck speed / r. in a hasty and foolhardy manner"
+},
+{
+"word": "convoluted",
+"pos": "a",
+"zh": "a. 盘绕的, 回旋的, 旋绕的, 卷绕的, 复杂的 / [医] 卷曲的, 回旋的",
+"en": "v curl, wind, or twist together / v practice sophistry; change the meaning of or be vague about in order to mislead or d…"
+},
+{
+"word": "verdant",
+"pos": "a",
+"zh": "a. 翠绿的, 青翠的, 无经验的, 不老练的",
+"en": "s. characterized by abundance of verdure"
+},
+{
+"word": "pneumatic",
+"pos": "a/n",
+"zh": "a. 充气的, 空气的, 有气胎的, 气动的, 灵魂的 / n. 充气轮胎",
+"en": "a. of or relating to or using air (or a similar gas)"
+},
+{
+"word": "wiretap",
+"pos": "v/n",
+"zh": "v. 搭线窃听 / n. 窃听",
+"en": "n. the act of tapping a telephone or telegraph line to get information / v. tap a telephone or telegraph wire to get inf…"
+},
+{
+"word": "timbre",
+"pos": "n",
+"zh": "n. 音色, 音质 / [医] 音色, 音品",
+"en": "n. (music) the distinctive property of a complex sound (a voice or noise or musical sound)"
+},
+{
+"word": "yummy",
+"pos": "a",
+"zh": "a. 美味的, 可口的, 赏心悦目的, 愉快的",
+"en": "s extremely pleasing to the sense of taste"
+},
+{
+"word": "sweltering",
+"pos": "a",
+"zh": "a. 闷热的, 热得难受的, 中暑的",
+"en": "s. excessively hot and humid or marked by sweating and faintness"
+},
+{
+"word": "tabulate",
+"pos": "vt/a",
+"zh": "vt. 作成表, 作成一览表, 使成平面 / a. 平板状的, 平面的 / [计] 制表",
+"en": "v. shape or cut with a flat surface"
+},
+{
+"word": "plagiarism",
+"pos": "n",
+"zh": "n. 剽窃, 抄袭, 剽窃物 / [法] 抄袭, 剽窃, 剽窃作品",
+"en": "n. a piece of writing that has been copied from someone else and is presented as being your own work / n. the act of pla…"
+},
+{
+"word": "restorative",
+"pos": "a/n",
+"zh": "a. 恢复健康的, 滋补的 / n. 兴奋药, 补药",
+"en": "n a medicine that strengthens and invigorates / n a device for treating injury or disease / s tending to impart new life…"
+},
+{
+"word": "ostracize",
+"pos": "vt",
+"zh": "vt. 流放, 放逐, 排斥",
+"en": "v. avoid speaking to or dealing with"
+},
+{
+"word": "hew",
+"pos": "vt/vi",
+"zh": "vt. 砍, 砍倒, 砍成 / vi. 砍, 劈, 坚持",
+"en": "v. make or shape as with an axe / v. strike with an axe; cut down, strike"
+},
+{
+"word": "foolproof",
+"pos": "a",
+"zh": "a. 十分简单的, 十分安全的",
+"en": "s. not liable to failure"
+},
+{
+"word": "fallow",
+"pos": "n/a",
+"zh": "n. 休耕地 / a. 休耕的, 淡棕色的",
+"en": "n. cultivated land that is not seeded for one or more growing seasons / s. left unplowed and unseeded during a growing s…"
+},
+{
+"word": "freshen",
+"pos": "v",
+"zh": "v. (使)显得新鲜, (使)精神饱满, (使)减少咸味",
+"en": "v. become or make oneself fresh again"
+}
+]

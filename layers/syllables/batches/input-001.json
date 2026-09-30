@@ -1,0 +1,604 @@
+[
+ {
+  "word": "our",
+  "split": "our",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'auә"
+ },
+ {
+  "word": "over",
+  "split": "over",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'әuvә"
+ },
+ {
+  "word": "really",
+  "split": "re·al·ly",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'riәli"
+ },
+ {
+  "word": "every",
+  "split": "eve·ry",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'evri"
+ },
+ {
+  "word": "interest",
+  "split": "in·ter·est",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'intrist"
+ },
+ {
+  "word": "mm",
+  "split": "mm",
+  "source": "pyphen",
+  "ref": 0,
+  "ipa": ""
+ },
+ {
+  "word": "hour",
+  "split": "hour",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "auә"
+ },
+ {
+  "word": "president",
+  "split": "pres·ident",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'prezidәnt"
+ },
+ {
+  "word": "real",
+  "split": "re·al",
+  "source": "moby",
+  "ref": 1,
+  "ipa": "'riәl"
+ },
+ {
+  "word": "several",
+  "split": "sev·er·al",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'sevәrәl"
+ },
+ {
+  "word": "require",
+  "split": "re·quire",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "ri'kwaiә"
+ },
+ {
+  "word": "education",
+  "split": "educa·tion",
+  "source": "moby",
+  "ref": 4,
+  "ipa": ".edju'keiʃәn"
+ },
+ {
+  "word": "especially",
+  "split": "es·pe·cial·ly",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "i'speʃәli"
+ },
+ {
+  "word": "unit",
+  "split": "unit",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'ju:nit"
+ },
+ {
+  "word": "theory",
+  "split": "the·o·ry",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'θiәri"
+ },
+ {
+  "word": "colour",
+  "split": "colour",
+  "source": "pyphen",
+  "ref": 2,
+  "ipa": "'kʌlә"
+ },
+ {
+  "word": "fire",
+  "split": "fire",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'faiә"
+ },
+ {
+  "word": "refer",
+  "split": "refer",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "ri'fә:"
+ },
+ {
+  "word": "entire",
+  "split": "en·tire",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "in'taiә"
+ },
+ {
+  "word": "interesting",
+  "split": "in·ter·est·ing",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'intristiŋ"
+ },
+ {
+  "word": "scientist",
+  "split": "sci·entist",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'saiәntist"
+ },
+ {
+  "word": "insurance",
+  "split": "insur·ance",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "in'ʃurәns"
+ },
+ {
+  "word": "entirely",
+  "split": "en·tire·ly",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "in'taiәli"
+ },
+ {
+  "word": "acquire",
+  "split": "ac·quire",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "ә'kwaiә"
+ },
+ {
+  "word": "hire",
+  "split": "hire",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "haiә"
+ },
+ {
+  "word": "finance",
+  "split": "finance",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "fai'næns"
+ },
+ {
+  "word": "desire",
+  "split": "de·sire",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "di'zaiә"
+ },
+ {
+  "word": "fuel",
+  "split": "fuel",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'fjuәl"
+ },
+ {
+  "word": "metal",
+  "split": "metal",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'metәl"
+ },
+ {
+  "word": "criticism",
+  "split": "crit·i·cism",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "'kritisizm"
+ },
+ {
+  "word": "scientific",
+  "split": "scientif·ic",
+  "source": "moby",
+  "ref": 4,
+  "ipa": ".saiәn'tifik"
+ },
+ {
+  "word": "temperature",
+  "split": "tem·per·a·ture",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'temprәtʃә"
+ },
+ {
+  "word": "initiative",
+  "split": "in·i·ti·a·tive",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "i'niʃiәtiv"
+ },
+ {
+  "word": "basically",
+  "split": "ba·si·cal·ly",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'beisikli"
+ },
+ {
+  "word": "catholic",
+  "split": "cath·o·lic",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'kæθәlik"
+ },
+ {
+  "word": "ourselves",
+  "split": "our·selves",
+  "source": "moby",
+  "ref": 3,
+  "ipa": ".auә'selvz"
+ },
+ {
+  "word": "elect",
+  "split": "elect",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "i'lekt"
+ },
+ {
+  "word": "foundation",
+  "split": "founda·tion",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "faun'deiʃәn"
+ },
+ {
+  "word": "mechanism",
+  "split": "mech·an·ism",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "'mekәnizm"
+ },
+ {
+  "word": "ideal",
+  "split": "i·de·al",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "ai'diәl"
+ },
+ {
+  "word": "vegetable",
+  "split": "veg·e·ta·ble",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'vedʒәtәbl"
+ },
+ {
+  "word": "tired",
+  "split": "tired",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "taiәd"
+ },
+ {
+  "word": "typically",
+  "split": "typ·i·cal·ly",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'tipikәli"
+ },
+ {
+  "word": "database",
+  "split": "data·base",
+  "source": "pyphen",
+  "ref": 3,
+  "ipa": "'deitәbeis"
+ },
+ {
+  "word": "prayer",
+  "split": "pray·er",
+  "source": "moby",
+  "ref": 1,
+  "ipa": "prєә. 'preiә"
+ },
+ {
+  "word": "valuable",
+  "split": "val·u·a·ble",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'væljuәbl"
+ },
+ {
+  "word": "empire",
+  "split": "em·pire",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'empaiә"
+ },
+ {
+  "word": "recovery",
+  "split": "re·cov·er·y",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "ri'kʌvәri"
+ },
+ {
+  "word": "laboratory",
+  "split": "lab·o·ra·to·ry",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "'læbrәtәri"
+ },
+ {
+  "word": "ratio",
+  "split": "ra·tio",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'reiʃәu"
+ },
+ {
+  "word": "wire",
+  "split": "wire",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'waiә"
+ },
+ {
+  "word": "retirement",
+  "split": "re·tire·ment",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "ri'taiәmәnt"
+ },
+ {
+  "word": "mayor",
+  "split": "mayor",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'mєә"
+ },
+ {
+  "word": "elementary",
+  "split": "el·e·men·ta·ry",
+  "source": "moby",
+  "ref": 4,
+  "ipa": ".eli'mentәri"
+ },
+ {
+  "word": "poet",
+  "split": "poet",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'pәuit"
+ },
+ {
+  "word": "extraordinary",
+  "split": "ex·traor·di·nar·y",
+  "source": "moby",
+  "ref": 6,
+  "ipa": "ik'strɒ:dәnәri"
+ },
+ {
+  "word": "chocolate",
+  "split": "choc·o·late",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'tʃɒkәlit"
+ },
+ {
+  "word": "super",
+  "split": "super",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'sju:pә"
+ },
+ {
+  "word": "enthusiasm",
+  "split": "en·thu·si·asm",
+  "source": "moby",
+  "ref": 5,
+  "ipa": "in'θju:ziæzәm"
+ },
+ {
+  "word": "automatically",
+  "split": "au·to·mat·i·cal·ly",
+  "source": "moby",
+  "ref": 5,
+  "ipa": ".ɒ:tә'mætikli"
+ },
+ {
+  "word": "conservation",
+  "split": "conserva·tion",
+  "source": "moby",
+  "ref": 4,
+  "ipa": ".kɒnsә'veiʃәn"
+ },
+ {
+  "word": "tire",
+  "split": "tire",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "taiә"
+ },
+ {
+  "word": "desperate",
+  "split": "des·per·ate",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'despәrәt"
+ },
+ {
+  "word": "opera",
+  "split": "op·er·a",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'ɒpәrә"
+ },
+ {
+  "word": "privilege",
+  "split": "priv·i·lege",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'privilidʒ"
+ },
+ {
+  "word": "medieval",
+  "split": "me·di·e·val",
+  "source": "moby",
+  "ref": 3,
+  "ipa": ".medi'i:vl"
+ },
+ {
+  "word": "petrol",
+  "split": "petrol",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'petrәl"
+ },
+ {
+  "word": "differently",
+  "split": "dif·fer·ent·ly",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'difrentli"
+ },
+ {
+  "word": "auto",
+  "split": "auto",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'ɒ:tәu"
+ },
+ {
+  "word": "rhythm",
+  "split": "rhythm",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'riðәm"
+ },
+ {
+  "word": "satisfactory",
+  "split": "sat·is·fac·to·ry",
+  "source": "moby",
+  "ref": 4,
+  "ipa": ".sætis'fæktәri"
+ },
+ {
+  "word": "piano",
+  "split": "pia·no",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "pi'ɑ:nәu"
+ },
+ {
+  "word": "dramatically",
+  "split": "dra·mat·i·cal·ly",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "drә'mætikli"
+ },
+ {
+  "word": "nursery",
+  "split": "nurse·ry",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'nә:sәri"
+ },
+ {
+  "word": "flour",
+  "split": "flour",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'flauә"
+ },
+ {
+  "word": "capitalism",
+  "split": "cap·i·tal·ism",
+  "source": "moby",
+  "ref": 5,
+  "ipa": "'kæpitәlizәm"
+ },
+ {
+  "word": "practically",
+  "split": "prac·ti·cal·ly",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'præktikli"
+ },
+ {
+  "word": "organism",
+  "split": "or·gan·ism",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "'ɒ:gәnizm"
+ },
+ {
+  "word": "edit",
+  "split": "edit",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'edit"
+ },
+ {
+  "word": "ours",
+  "split": "ours",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "'auәz"
+ },
+ {
+  "word": "alien",
+  "split": "al·ien",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'eiljәn"
+ },
+ {
+  "word": "solely",
+  "split": "sole·ly",
+  "source": "moby",
+  "ref": 3,
+  "ipa": "'sәulli"
+ },
+ {
+  "word": "socialism",
+  "split": "so·cial·ism",
+  "source": "moby",
+  "ref": 4,
+  "ipa": "'sәuʃәlizm"
+ },
+ {
+  "word": "organiser",
+  "split": "or·gan·is·er",
+  "source": "moby",
+  "ref": 0,
+  "ipa": ""
+ },
+ {
+  "word": "drawer",
+  "split": "draw·er",
+  "source": "moby",
+  "ref": 1,
+  "ipa": "'drɒ:ә"
+ },
+ {
+  "word": "ruin",
+  "split": "ruin",
+  "source": "moby",
+  "ref": 2,
+  "ipa": "ruin"
+ }
+]

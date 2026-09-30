@@ -1,0 +1,602 @@
+[
+{
+"word": "shiny",
+"pos": "a",
+"zh": "a. 有光泽的, 发光的, 辉煌的, 磨光的, 磨损的",
+"en": "s reflecting light / a having a shiny surface or coating / s made smooth and bright by or as if by rubbing; reflecting a…"
+},
+{
+"word": "memo",
+"pos": "n",
+"zh": "n. 备忘录 / [经] 备忘录",
+"en": "n. a written proposal or reminder"
+},
+{
+"word": "junk",
+"pos": "n",
+"zh": "n. 垃圾, 乌七八糟的东西, 舢板 / [计] 清除",
+"en": "n. any of various Chinese boats with a high poop and lugsails"
+},
+{
+"word": "revival",
+"pos": "n",
+"zh": "n. 复兴, 复活, 恢复精神, 苏醒 / [医] 复苏, 回生, 精神重振",
+"en": "n. bringing again into activity and prominence / n. an evangelistic meeting intended to reawaken interest in religion"
+},
+{
+"word": "stun",
+"pos": "vt/n",
+"zh": "vt. 使昏迷, 使震惊, 打昏 / n. 昏迷, 猛击",
+"en": "v. make senseless or dizzy by or as if by a blow / v. overcome as with astonishment or disbelief"
+},
+{
+"word": "reconstruction",
+"pos": "n",
+"zh": "n. 改造, 再建 / [医] 改建, 改造, 翻造",
+"en": "n. the period after the American Civil War when the southern states were reorganized and reintegrated into the Union; 18…"
+},
+{
+"word": "fury",
+"pos": "n",
+"zh": "n. 愤怒, 狂暴, 狂怒的人 / [医] 狂乱, 狂暴, 狂怒",
+"en": "n. a feeling of intense anger / n. (classical mythology) the hideous snake-haired monsters (usually three in number) who…"
+},
+{
+"word": "differentiate",
+"pos": "v",
+"zh": "v. 区别, 区分",
+"en": "v. calculate a derivative; take the derivative / v. become different during development / v. become distinct and acquire…"
+},
+{
+"word": "curl",
+"pos": "n/vt/vi",
+"zh": "n. 拳曲, 鬈发 / vt. 弄卷 / vi. 拳曲, 弯曲",
+"en": "n. American chemist who with Richard Smalley and Harold Kroto discovered fullerenes and opened a new branch of chemistry…"
+},
+{
+"word": "compatible",
+"pos": "a",
+"zh": "a. 能共处的, 可并立的, 适合的 / [计] 相容的; 兼容的",
+"en": "a. able to exist and perform in harmonious or agreeable combination / a. capable of being used with or connected to othe…"
+},
+{
+"word": "corpse",
+"pos": "n",
+"zh": "n. 尸体 / [医] 尸体",
+"en": "n the dead body of a human being"
+},
+{
+"word": "pact",
+"pos": "n",
+"zh": "n. 契约, 协定, 条约 / [化] 合同",
+"en": "n a written agreement between two states or sovereigns"
+},
+{
+"word": "predominantly",
+"pos": "adv",
+"zh": "adv. 主要地, 显著地, 大多数地, 突出地",
+"en": "r. much greater in number or influence"
+},
+{
+"word": "torch",
+"pos": "n",
+"zh": "n. 火把, 启发之物 / [化] 火炬",
+"en": "n. a light usually carried in the hand; consists of some flammable substance / v. burn maliciously, as by arson"
+},
+{
+"word": "kidney",
+"pos": "n",
+"zh": "n. 肾, 个性 / [医] 肾",
+"en": "n. either of two bean-shaped excretory organs that filter wastes (especially urea) from the blood and excrete them and w…"
+},
+{
+"word": "knight",
+"pos": "n/vt",
+"zh": "n. 骑士, 爵士 / vt. 授以爵位",
+"en": "n. originally a person of noble birth trained to arms and chivalry; today in Great Britain a person honored by the sover…"
+},
+{
+"word": "documentation",
+"pos": "n",
+"zh": "n. (总称)文件 / [计] 文件编制, 文档",
+"en": "n. confirmation that some fact or statement is true through the use of documentary evidence / n. documentary validation"
+},
+{
+"word": "booklet",
+"pos": "n",
+"zh": "n. 小册子",
+"en": "n. a small book usually having a paper cover"
+},
+{
+"word": "healing",
+"pos": "a",
+"zh": "a. 治愈的, 恢复健康的 / [计] 修复, 恢复",
+"en": "n. the natural process by which the body repairs itself"
+},
+{
+"word": "abolition",
+"pos": "n",
+"zh": "n. 废除, 废奴运动 / [医] 禁止, 消失",
+"en": "n. the act of abolishing a system or practice or institution (especially abolishing slavery)"
+},
+{
+"word": "literacy",
+"pos": "n",
+"zh": "n. 读写能力, 识字, 精通文学",
+"en": "n. the ability to read and write"
+},
+{
+"word": "destiny",
+"pos": "n",
+"zh": "n. 命运, 定数",
+"en": "n. an event (or a course of events) that will inevitably happen in the future / n. the ultimate agency regarded as prede…"
+},
+{
+"word": "solo",
+"pos": "n/a/vi",
+"zh": "n. 独奏, 独唱, 单独表演 / a. 单独的, 独奏的, 独唱的 / vi. 放单飞",
+"en": "n. any activity that is performed alone without assistance / n. a musical composition for one voice or instrument (with …"
+},
+{
+"word": "fusion",
+"pos": "n",
+"zh": "n. 熔合物, 结合, 熔合 / [化] 熔融; 熔化; 聚变",
+"en": "n. an occurrence that involves the production of a union / n. the merging of adjacent sounds or syllables or words / n. …"
+},
+{
+"word": "leak",
+"pos": "n/vi/vt",
+"zh": "n. 漏洞, 漏处, 漏出, 泄漏 / vi. 漏, 泄漏 / vt. 使渗漏",
+"en": "n. an accidental hole that allows something (fluid or light etc.) to enter or escape / n. soft watery rot in fruits and …"
+},
+{
+"word": "greenhouse",
+"pos": "n",
+"zh": "n. 温室",
+"en": "n. a building with glass walls and roof; for the cultivation and exhibition of plants under controlled conditions / a. o…"
+},
+{
+"word": "maid",
+"pos": "n",
+"zh": "n. 少女, 未婚女子, 女仆",
+"en": "n. a female domestic / n. an unmarried girl (especially a virgin)"
+},
+{
+"word": "trillion",
+"pos": "n",
+"zh": "n. 大量 / [经] 兆",
+"en": "n. the number that is represented as a one followed by 18 zeros / n. the number that is represented as a one followed by…"
+},
+{
+"word": "corps",
+"pos": "n",
+"zh": "n. 军, 队, 部队, 兵种 / [医] 对, 团; 体, 物体",
+"en": "n. an army unit usually consisting of two or more divisions and their support / n. a body of people associated together"
+},
+{
+"word": "emergence",
+"pos": "n",
+"zh": "n. 出现, 浮现, 发生",
+"en": "n. the gradual beginning or coming forth / n. the becoming visible / n. the act of emerging"
+},
+{
+"word": "homicide",
+"pos": "n",
+"zh": "n. 杀人, 杀人者 / [医] 杀人, 杀人者",
+"en": "n. the killing of a human being by another human being"
+},
+{
+"word": "herd",
+"pos": "n/vt/vi",
+"zh": "n. 兽群, 人群, 牧人 / vt. 群集, 使成群, 放牧 / vi. 聚在一起",
+"en": "n. a group of cattle or sheep or other domestic mammals all of the same kind that are herded by humans / n. a group of w…"
+},
+{
+"word": "passionate",
+"pos": "a",
+"zh": "a. 热情的, 热烈的, 易怒的, 热恋的",
+"en": "a. having or expressing strong emotions"
+},
+{
+"word": "brow",
+"pos": "n",
+"zh": "n. 眉毛, 额 / [医] 额, 眉, 睫毛",
+"en": "n. the part of the face above the eyes"
+},
+{
+"word": "pipeline",
+"pos": "n",
+"zh": "n. 管道, 传递途径 / [化] 管路; 管线",
+"en": "n. a pipe used to transport liquids or gases"
+},
+{
+"word": "tariff",
+"pos": "n/vt",
+"zh": "n. 关税, 关税表, 价格表, 收费表 / vt. 课以关税 / [计] 价目表",
+"en": "v. charge a tariff"
+},
+{
+"word": "subjective",
+"pos": "a",
+"zh": "a. 主观的, 个人的 / [医] 主观的, 自觉的",
+"en": "a. taking place within the mind and modified by individual bias"
+},
+{
+"word": "census",
+"pos": "n/vt",
+"zh": "n. 户口普查 / vt. 实施统计调查",
+"en": "n. a periodic count of the population / v. conduct a census"
+},
+{
+"word": "snack",
+"pos": "n/vi",
+"zh": "n. 小吃, 点心, 快餐 / vi. 吃零食, 吃快餐",
+"en": "n a light informal meal / v eat a snack; eat lightly"
+},
+{
+"word": "migrant",
+"pos": "n",
+"zh": "n. 候鸟, 移居者 / [法] 移居者",
+"en": "n. traveler who moves from one region or country to another / s. habitually moving from place to place especially in sea…"
+},
+{
+"word": "stride",
+"pos": "n/v",
+"zh": "n. 大步, 步幅, 步态, 进步 / v. 迈大步走, 跨过, 跨",
+"en": "n. significant progress (especially in the phrase \"make strides\") / v. walk with long steps / v. cover or traverse by ta…"
+},
+{
+"word": "synthesis",
+"pos": "n",
+"zh": "n. 综合, 组织, 综合体 / [化] 合成",
+"en": "n. the process of producing a chemical compound (usually by the union of simpler chemical compounds) / n. the combinatio…"
+},
+{
+"word": "ink",
+"pos": "n/vt",
+"zh": "n. 墨水, 墨汁 / vt. 涂墨水于, 签署, 加墨水",
+"en": "n. a liquid used for printing or writing or drawing / n. dark protective fluid ejected into the water by cuttlefish and …"
+},
+{
+"word": "adaptation",
+"pos": "n",
+"zh": "n. 适应, 改编, 改编本 / [医] 适应[作用]",
+"en": "n. a written work (as a novel) that has been recast in a new form / n. the process of adapting to something (such as env…"
+},
+{
+"word": "gasp",
+"pos": "n/vi/vt",
+"zh": "n. 喘气 / vi. 喘气, 喘息, 渴望 / vt. 气喘吁吁地说",
+"en": "n. a short labored intake of breath with the mouth open"
+},
+{
+"word": "imagery",
+"pos": "n",
+"zh": "n. 肖像, 比喻, 雕刻 / [化] 成像",
+"en": "n the ability to form mental images of things or events"
+},
+{
+"word": "pledge",
+"pos": "n/vt",
+"zh": "n. 诺言, 保证, 誓言, 抵押, 信物, 保人, 祝愿 / vt. 许诺, 保证, 使发誓, 抵押, 典当, 举杯祝...健康",
+"en": "n. a deposit of personal property as security for a debt / n. someone accepted for membership but not yet fully admitted…"
+},
+{
+"word": "infect",
+"pos": "vt",
+"zh": "vt. 传染, 感染 / [医] 传染, 感染",
+"en": "v. communicate a disease to / v. contaminate with a disease or microorganism / v. corrupt with ideas or an ideology / v.…"
+},
+{
+"word": "paradigm",
+"pos": "n",
+"zh": "n. 范例, 式样, 词形变化表, 纵聚合关系语言项",
+"en": "n. systematic arrangement of all the inflected forms of a word / n. the generally accepted perspective of a particular d…"
+},
+{
+"word": "locomotive",
+"pos": "n/a",
+"zh": "n. 火车头, 机车 / a. 运转的, 火车头的, 移动的",
+"en": "n. a wheeled vehicle consisting of a self-propelled engine that is used to draw trains along railway tracks / a. of or r…"
+},
+{
+"word": "backward",
+"pos": "adv/a",
+"zh": "adv. 向后地, 相反地 / a. 向后的, 相反的 / [计] 倒推",
+"en": "a. directed or facing toward the back or rear / a. (used of temperament or behavior) marked by a retiring nature / s. re…"
+},
+{
+"word": "yarn",
+"pos": "n",
+"zh": "n. 纱, 纱线, 故事 / [化] 纱",
+"en": "v. tell or spin a yarn"
+},
+{
+"word": "appetite",
+"pos": "n",
+"zh": "n. 食欲, 欲望, 爱好 / [医] 食欲",
+"en": "n. a feeling of craving something"
+},
+{
+"word": "shiver",
+"pos": "vi/vt/n",
+"zh": "vi. 颤抖, 哆嗦, 被打碎 / vt. 使迎风飘动, 粉碎 / n. 战栗, 碎块",
+"en": "v. shake, as from cold"
+},
+{
+"word": "offend",
+"pos": "v",
+"zh": "v. 犯罪, 冒犯, 违反, 进攻",
+"en": "v cause to feel resentment or indignation / v act in disregard of laws, rules, contracts, or promises / v strike with di…"
+},
+{
+"word": "debtor",
+"pos": "n",
+"zh": "n. 债务人, 借主, 借方 / [法] 负债者, 债务人, 借方",
+"en": "n. a person who owes a creditor; someone who has the obligation of paying a debt"
+},
+{
+"word": "mosaic",
+"pos": "n/a/vt",
+"zh": "n. 马赛克, 镶嵌细工, 镶嵌工艺 / a. 马赛克的, 镶嵌细工的, 拼花的 / vt. 用镶嵌细工装饰 / [计] Mosaic浏览程序",
+"en": "n. art consisting of a design made of small pieces of colored stone or glass / n. viral disease in solanaceous plants (t…"
+},
+{
+"word": "mammal",
+"pos": "n",
+"zh": "n. 哺乳动物 / [化] 哺乳动物",
+"en": "n. any warm-blooded vertebrate having the skin more or less covered with hair; young are born alive except for the small…"
+},
+{
+"word": "spatial",
+"pos": "a",
+"zh": "a. 空间的, 受空间条件限制的, 占地位的 / [医] 隙的, 间隙的, 腔的; 空间的, 立体的",
+"en": "a. pertaining to or involving or having the nature of space"
+},
+{
+"word": "comet",
+"pos": "n",
+"zh": "n. 彗星",
+"en": "n. (astronomy) a relatively small extraterrestrial body consisting of a frozen mass that travels around the sun in a hig…"
+},
+{
+"word": "bleed",
+"pos": "vi/vt",
+"zh": "vi. 流血, 悲痛, 渗出 / vt. 使出血, 榨取",
+"en": "v. draw blood / v. get or extort (money or other possessions) from someone / v. drain of liquid or steam"
+},
+{
+"word": "causal",
+"pos": "a/n",
+"zh": "a. 原因的, 因果关系的, 表示原因或理由的 / n. 表示原因的连词",
+"en": "s. involving or constituting a cause; causing"
+},
+{
+"word": "cocktail",
+"pos": "n/a",
+"zh": "n. 鸡尾酒, 开味品 / a. 鸡尾酒会的",
+"en": "n. a short mixed drink / n. an appetizer served as a first course at a meal"
+},
+{
+"word": "enzyme",
+"pos": "n",
+"zh": "n. 酶 / [化] 酶",
+"en": "n. any of several complex proteins that are produced by cells and act as catalysts in specific biochemical reactions"
+},
+{
+"word": "choke",
+"pos": "vt/vi/n",
+"zh": "vt. 窒息, 阻塞, 噎, 抑制 / vi. 窒息, 阻塞, 噎 / n. 窒息, 噎, 阻气门",
+"en": "n. a coil of low resistance and high inductance used in electrical circuits to pass direct current and attenuate alterna…"
+},
+{
+"word": "ensemble",
+"pos": "n",
+"zh": "n. 全体, 合唱曲, (女人的)全套服装 / [化] 总体; 整体; 系综",
+"en": "n. a group of musicians playing or singing together / n. a cast other than the principals / n. an assemblage of parts or…"
+},
+{
+"word": "pesticide",
+"pos": "n",
+"zh": "n. 杀虫剂 / [化] 农药",
+"en": "n. a chemical used to kill pests (as rodents or insects)"
+},
+{
+"word": "arsenal",
+"pos": "n",
+"zh": "n. 兵工厂, 军械库 / [机] 兵工厂",
+"en": "n. all the weapons and equipment that a country has / n. a military structure where arms and ammunition and other milita…"
+},
+{
+"word": "pea",
+"pos": "n",
+"zh": "n. 豌豆, 似豌豆的东西",
+"en": "n. seed of a pea plant used for food / n. the fruit or seed of a pea plant / n. a leguminous plant of the genus Pisum wi…"
+},
+{
+"word": "polymer",
+"pos": "n",
+"zh": "n. 聚合物, 聚合体 / [化] 多聚体; 高分子; 大分子; 聚合物",
+"en": "n. a naturally occurring or synthetic compound consisting of large molecules made up of a linked series of repeated simp…"
+},
+{
+"word": "preservation",
+"pos": "n",
+"zh": "n. 保存, 保藏, 保护 / [医] 保藏, 保存, 防腐",
+"en": "n. the activity of protecting something from loss or danger / n. the condition of being (well or ill) preserved / n. a p…"
+},
+{
+"word": "rotation",
+"pos": "n",
+"zh": "n. 旋转, 循环, 轮流 / [计] 旋转",
+"en": "n. the act of rotating as if on an axis / n. (mathematics) a transformation in which the coordinate axes are rotated by …"
+},
+{
+"word": "cautious",
+"pos": "a",
+"zh": "a. 谨慎的, 小心的",
+"en": "a. showing careful forethought; never making swift decisions\" / s. avoiding excess"
+},
+{
+"word": "affordable",
+"pos": "",
+"zh": "[计] 普及型",
+"en": "s that you have the financial means for"
+},
+{
+"word": "luxury",
+"pos": "n/a",
+"zh": "n. 奢侈, 豪华 / a. 奢侈的, 豪华的",
+"en": "n. something that is an indulgence rather than a necessity / n. wealth as evidenced by sumptuous living"
+},
+{
+"word": "tenth",
+"pos": "num",
+"zh": "num. 第十, 十分之一",
+"en": "n. position ten in a countable series of things / s. coming next after the ninth and just before the eleventh in positio…"
+},
+{
+"word": "designate",
+"pos": "vt/a",
+"zh": "vt. 指定, 指明, 称呼 / a. 已选出而未上任的",
+"en": "v. assign a name or title to / s. appointed but not yet installed in office"
+},
+{
+"word": "embarrassing",
+"pos": "a",
+"zh": "a. 令人为难的, 麻烦的",
+"en": "s. causing to feel shame or chagrin or vexation"
+},
+{
+"word": "robe",
+"pos": "n/v",
+"zh": "n. 宽松长袍, 礼服, 披肩, 覆盖物 / v. (给)穿长袍",
+"en": "n. any loose flowing garment"
+},
+{
+"word": "noisy",
+"pos": "a",
+"zh": "a. 嘈杂的, 喧闹的 / [机] 噪声的, 嘈杂的",
+"en": "a. full of or characterized by loud and nonmusical sounds / s. attracting attention by showiness or bright colors"
+},
+{
+"word": "cult",
+"pos": "n",
+"zh": "n. 膜拜, 礼拜式, 祭仪, 一群信徒 / [医] 迷信, 巫术",
+"en": "n. followers of an exclusive system of religious beliefs and practices / n. followers of an unorthodox, extremist, or fa…"
+},
+{
+"word": "incidentally",
+"pos": "adv",
+"zh": "adv. 伴随地, 偶然, 顺便",
+"en": "r. of a minor or subordinate nature"
+},
+{
+"word": "classmate",
+"pos": "n",
+"zh": "n. 同班同学",
+"en": "n an acquaintance that you go to school with"
+},
+{
+"word": "cassette",
+"pos": "n",
+"zh": "n. 盒式磁带, 珠宝箱, 暗盒 / [计] 字盒",
+"en": "n. a container that holds a magnetic tape used for recording or playing sound or video"
+},
+{
+"word": "motel",
+"pos": "n",
+"zh": "n. 汽车旅馆",
+"en": "n. a motor hotel"
+},
+{
+"word": "hatred",
+"pos": "n",
+"zh": "n. 憎恨, 仇恨, 憎恶 / [法] 敌意, 憎恨, 憎恶",
+"en": "n the emotion of intense dislike; a feeling of dislike so strong that it demands action"
+},
+{
+"word": "furnish",
+"pos": "vt",
+"zh": "vt. 供给, 提供, 装设 / [化] 供应; 供给; 配料",
+"en": "v. provide or equip with furniture"
+},
+{
+"word": "confidential",
+"pos": "a",
+"zh": "a. 机密的, 获他人信赖的, 易于信任他人的 / [经] 秘密件",
+"en": "s. entrusted with private information and the confidence of another / s. (of information) given in confidence or in secr…"
+},
+{
+"word": "enlist",
+"pos": "vt/vi",
+"zh": "vt. 征募, 参与, 谋取 / vi. 从军, 应募, 赞助",
+"en": "v. join the military / v. engage somebody to enter the army"
+},
+{
+"word": "thorough",
+"pos": "a",
+"zh": "a. 十分的, 彻底的",
+"en": "s. painstakingly careful and accurate"
+},
+{
+"word": "ignorance",
+"pos": "n",
+"zh": "n. 无知, 愚味 / [法] 无知, 不知情, 愚昧",
+"en": "n. the lack of knowledge or education"
+},
+{
+"word": "disastrous",
+"pos": "a",
+"zh": "a. 损失惨重的, 悲伤的",
+"en": "s (of events) having extremely unfortunate or dire consequences; bringing ruin"
+},
+{
+"word": "juvenile",
+"pos": "n/a",
+"zh": "n. 少年, 少年读物 / a. 少年的, 不成熟的, 适于少年的",
+"en": "n. a young person, not fully developed / a. of or relating to or characteristic of or appropriate for children or young …"
+},
+{
+"word": "gown",
+"pos": "n/vt",
+"zh": "n. 睡衣, 法衣, 大学全体师生 / vt. 使穿睡衣",
+"en": "n. a woman's dress, usually with a close-fitting bodice and a long flared skirt, often worn on formal occasions / n. the…"
+},
+{
+"word": "courtesy",
+"pos": "n",
+"zh": "n. 礼貌, 谦恭, 好意 / [法] 优待, 礼貌, 恩惠",
+"en": "n. a courteous or respectful or considerate act / n. a courteous or respectful or considerate remark / n. a courteous ma…"
+},
+{
+"word": "correlate",
+"pos": "n/vt/vi",
+"zh": "n. 有相互关系的东西, 相关物 / vt. 使有相互关系 / vi. 相关",
+"en": "n. either of two or more related or complementary variables / v. to bear a reciprocal or mutual relation / v. bring into…"
+},
+{
+"word": "lodge",
+"pos": "n/vi/vt",
+"zh": "n. 小屋, 门房, 支部, 旅舍, 分会 / vi. 临时住宿, 倒伏, 寄宿, 投宿 / vt. 安顿, 容纳, 提出, 把...射入, 存放",
+"en": "n. English physicist who studied electromagnetic radiation and was a pioneer of radiotelegraphy (1851-1940) / n. small h…"
+},
+{
+"word": "daylight",
+"pos": "n/vt/vi",
+"zh": "n. 白昼, 日光 / vt. 使沐浴于日光 / vi. 享有日光",
+"en": "n. light during the daytime"
+},
+{
+"word": "humanitarian",
+"pos": "n/a",
+"zh": "n. 人道主义者, 博爱者, 基督凡人论者 / a. 人道主义的, 博爱的, 凡人论的",
+"en": "n. someone devoted to the promotion of human welfare and to social reforms / a. of or relating to or characteristic of h…"
+},
+{
+"word": "repay",
+"pos": "v",
+"zh": "v. 偿还, 报答, 报复",
+"en": "v pay back / v make repayment for or return something / v act or give recompense in recognition of someone's behavior or…"
+}
+]

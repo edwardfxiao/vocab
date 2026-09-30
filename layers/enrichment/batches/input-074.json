@@ -1,0 +1,602 @@
+[
+{
+"word": "trinity",
+"pos": "n",
+"zh": "n. 三人一组, 三个一组的东西, 三位一体",
+"en": "n. the union of the Father and Son and Holy Ghost in one Godhead"
+},
+{
+"word": "zest",
+"pos": "n/vt",
+"zh": "n. 兴趣, 热情, 风味, 热心 / vt. 给...调味",
+"en": "v. add herbs or spices to"
+},
+{
+"word": "translucent",
+"pos": "a",
+"zh": "a. 半透明的, 透明的",
+"en": "s. allowing light to pass through diffusely"
+},
+{
+"word": "rouse",
+"pos": "n/vt/vi",
+"zh": "n. 觉醒, 奋起, 干杯 / vt. 唤醒, 鼓舞, 激动, 使振奋, 惊起 / vi. 醒来, 奋起",
+"en": "v become active / v force or drive out / v cause to be agitated, excited, or roused / v cause to become awake or conscio…"
+},
+{
+"word": "avalanche",
+"pos": "n/vi/vt",
+"zh": "n. 雪崩, 山崩, 大量 / vi. 崩塌 / vt. 大量涌至",
+"en": "n. a slide of large masses of snow and ice and mud down a mountain / n. a sudden appearance of an overwhelming number of…"
+},
+{
+"word": "sluggish",
+"pos": "a",
+"zh": "a. 偷懒的, 懒惰的, 迟钝的 / [经] 萧条的, 呆滞的",
+"en": "s. moving slowly"
+},
+{
+"word": "grope",
+"pos": "v/n",
+"zh": "v. 摸索 / n. 摸索",
+"en": "n. the act of groping; and instance of groping / v. feel about uncertainly or blindly / v. search blindly or uncertainly…"
+},
+{
+"word": "microbe",
+"pos": "n",
+"zh": "n. 微生物, 细菌 / [医] 微生物",
+"en": "n. a minute life form (especially a disease-causing bacterium); the term is not in technical use"
+},
+{
+"word": "gust",
+"pos": "n",
+"zh": "n. 突然一阵, 趣味, 爱好",
+"en": "n. a strong current of air"
+},
+{
+"word": "excavate",
+"pos": "v",
+"zh": "v. 挖空, 挖出, 凿通",
+"en": "v. recover through digging / v. find by digging in the ground / v. form by hollowing / v. remove the inner part or the c…"
+},
+{
+"word": "metric",
+"pos": "a",
+"zh": "a. 公尺的, 公制的, 计量的 / [医] 测量的, 米制的, 公制的",
+"en": "a. based on the meter as a standard of measurement"
+},
+{
+"word": "expulsion",
+"pos": "n",
+"zh": "n. 逐出, 开除, 驱逐, 排气 / [医] 逼出",
+"en": "n. the act of expelling or projecting or ejecting"
+},
+{
+"word": "predominant",
+"pos": "a",
+"zh": "a. 占主导地位的, 卓越的 / [法] 占优势的, 支配其他的, 主要的",
+"en": "s most frequent or common / s having superior power and influence"
+},
+{
+"word": "fidelity",
+"pos": "n",
+"zh": "n. 忠实, 诚实, 忠诚, 保真度 / [电] 逼真度",
+"en": "n. accuracy with which an electronic system reproduces the sound or image of its input signal / n. the quality of being …"
+},
+{
+"word": "periodical",
+"pos": "n/a",
+"zh": "n. 期刊 / a. 定期出版的, (有关)期刊的, 间歇(性的), 周期的, 定期的",
+"en": "n. a publication that appears at fixed intervals"
+},
+{
+"word": "decipher",
+"pos": "vt/n",
+"zh": "vt. 译解, 解释 / n. 密电译文",
+"en": "v. read with difficulty"
+},
+{
+"word": "deplete",
+"pos": "vt",
+"zh": "vt. 耗尽, 使衰竭 / [医] 排除, 减少",
+"en": "v use up (resources or materials)"
+},
+{
+"word": "propagate",
+"pos": "vt/vi",
+"zh": "vt. 繁殖, 传播, 传送 / vi. 繁殖, 蔓延",
+"en": "v. transmit from one generation to the next / v. travel through the air / v. transmit / v. transmit or cause to broaden …"
+},
+{
+"word": "proficiency",
+"pos": "n",
+"zh": "n. 精通, 熟练, 精练",
+"en": "n. the quality of having great facility and competence / n. skillfulness in the command of fundamentals deriving from pr…"
+},
+{
+"word": "landlady",
+"pos": "n",
+"zh": "n. 女房东, 女地主",
+"en": "n. a landlord who is a woman"
+},
+{
+"word": "archaic",
+"pos": "a",
+"zh": "a. 古体的, 过时的, 古老的, 古代的 / [医] 原始的, 古代的",
+"en": "s. little evolved from or characteristic of an earlier ancestral type"
+},
+{
+"word": "adept",
+"pos": "a/n",
+"zh": "a. 熟练的, 老练的, 巧妙的 / n. 能手, 内行",
+"en": "s. having or showing knowledge and skill and aptitude"
+},
+{
+"word": "outdated",
+"pos": "a",
+"zh": "a. 旧式的, 落伍的, 过时的",
+"en": "s. old; no longer valid or fashionable"
+},
+{
+"word": "shabby",
+"pos": "a",
+"zh": "a. 衣衫褴褛的, 低劣的, 破旧的, 吝啬的, 卑鄙的",
+"en": "s. mean and unworthy and despicable"
+},
+{
+"word": "subtract",
+"pos": "vt/vi",
+"zh": "vt. 减去, 扣掉, 减少 / vi. 做减法 / [计] 减",
+"en": "v. make a subtraction / v. take off or away"
+},
+{
+"word": "nourish",
+"pos": "vt",
+"zh": "vt. 滋养, 使健壮, 怀有",
+"en": "v. provide with nourishment"
+},
+{
+"word": "syndicate",
+"pos": "n/v",
+"zh": "n. 企业联合, 辛迪加, 财团 / v. 联合成辛迪加",
+"en": "n. a loose affiliation of gangsters in charge of organized criminal activities / n. a news agency that sells features or…"
+},
+{
+"word": "scold",
+"pos": "n/v",
+"zh": "n. 好骂街的人, 责骂 / v. 责骂",
+"en": "n. someone (especially a woman) who annoys people by constantly finding fault"
+},
+{
+"word": "infringe",
+"pos": "v",
+"zh": "v. 破坏, 侵犯, 违反",
+"en": "v go against, as of rules and laws / v advance beyond the usual limit"
+},
+{
+"word": "rust",
+"pos": "n/vi/vt",
+"zh": "n. 锈, 生锈, 衰退 / vi. 生锈, 衰退 / vt. 使生锈, 腐蚀",
+"en": "n. a red or brown oxide coating on iron or steel caused by the action of oxygen and moisture / n. a plant disease that p…"
+},
+{
+"word": "insulate",
+"pos": "vt",
+"zh": "vt. 使绝缘, 隔离 / [医] 绝缘",
+"en": "v. protect from heat, cold, or noise by surrounding with insulating material"
+},
+{
+"word": "anthology",
+"pos": "n",
+"zh": "n. 选集, 诗选",
+"en": "n. a collection of selected literary passages"
+},
+{
+"word": "unconditional",
+"pos": "a",
+"zh": "a. 无条件的, 无限制的, 绝对的 / [经] 无条件的, 无保留的",
+"en": "a. not conditional / s. not contingent; not determined or influenced by someone or something else"
+},
+{
+"word": "audition",
+"pos": "n",
+"zh": "n. 听, 听力, 试听 / [计] 审计命令",
+"en": "n. a test of the suitability of a performer / v. perform in order to get a role"
+},
+{
+"word": "projector",
+"pos": "n",
+"zh": "n. 计划人, 发起人, 规划人, 放映机, 映画器, 幻灯机, 幻灯, 探照灯, 发射器 / [计] 投影仪",
+"en": "n. an optical device for projecting a beam of light / n. an optical instrument that projects an enlarged image onto a sc…"
+},
+{
+"word": "eloquent",
+"pos": "a",
+"zh": "a. 雄辩的, 有口才的, 有说服力的",
+"en": "s. expressing yourself readily, clearly, effectively"
+},
+{
+"word": "oasis",
+"pos": "n",
+"zh": "n. 绿洲, 舒适的地方 / [医] 绿洲(沙漠中), 健岛(病变区中的健康组织)",
+"en": "n. a fertile tract in a desert (where the water table approaches the surface)"
+},
+{
+"word": "monstrous",
+"pos": "a",
+"zh": "a. 巨大的, 畸形的, 怪异的 / [法] 巨大的, 异形的, 畸形的:荒诞的",
+"en": "s. abnormally large"
+},
+{
+"word": "exposition",
+"pos": "n",
+"zh": "n. 阐述, 讲解, 说明, 博览会, 展览会 / [经] 展览会, 集市, 义卖市场",
+"en": "n. a systematic interpretation or explanation (usually written) of a specific topic / n. an account that sets forth the …"
+},
+{
+"word": "monologue",
+"pos": "n",
+"zh": "n. 独白, 独脚戏, 独白场面, (非正式)(贬)滔滔不绝的话",
+"en": "n. a long utterance by one person (especially one that prevents others from participating in the conversation) / n. a (u…"
+},
+{
+"word": "feud",
+"pos": "n/vi",
+"zh": "n. 不和, 封地, 争执 / vi. 长期不和, 擦亮",
+"en": "n. a bitter quarrel between two parties / v. carry out a feud"
+},
+{
+"word": "audible",
+"pos": "a",
+"zh": "a. 听得见的 / [电] 可闻的",
+"en": "n. a football play is changed orally after both teams have assumed their positions at the line of scrimmage / a. heard o…"
+},
+{
+"word": "idiom",
+"pos": "n",
+"zh": "n. 习语, 成语, 惯用语法, 方言",
+"en": "n. an expression whose meanings cannot be inferred from the meanings of the words that make it up"
+},
+{
+"word": "fabricate",
+"pos": "vt",
+"zh": "vt. 制造, 建造, 装配, 伪造",
+"en": "v. make up something artificial or untrue"
+},
+{
+"word": "wrench",
+"pos": "n/vt/vi",
+"zh": "n. 扳钳, 扳手, 扭伤, 歪曲, 痛苦 / vt. 猛扭, 扭伤, 曲解, 折磨 / vi. 猛扭, 猛绞",
+"en": "n. a sharp strain on muscles or ligaments / n. a hand tool that is used to hold or twist a nut or bolt / v. twist or pul…"
+},
+{
+"word": "thaw",
+"pos": "n/vt/vi",
+"zh": "n. 融解, 融化, 解冻时期 / vt. 使融解, 使缓和 / vi. 融化, 解冻",
+"en": "n. the process whereby heat changes something from a solid to a liquid / n. warm weather following a freeze; snow and ic…"
+},
+{
+"word": "slit",
+"pos": "n/vt/vi",
+"zh": "n. 裂缝, 投币口, 狭长裂口 / vt. 切开, 扯裂, 使有狭缝 / vi. 纵切, 纵裂",
+"en": "n. a long narrow opening / n. a narrow fissure / v. make a clean cut through / v. cut a slit into"
+},
+{
+"word": "magnate",
+"pos": "n",
+"zh": "n. 大官, 巨头 / [法] 大官, 权贵, 大资本家",
+"en": "n a very wealthy or powerful businessman"
+},
+{
+"word": "taboo",
+"pos": "n/a/vt",
+"zh": "n. 禁忌, 禁止接近, 禁止使用 / a. 禁忌的, 忌讳的 / vt. 禁忌, 忌讳, 禁止",
+"en": "n. a prejudice (especially in Polynesia and other South Pacific islands) that prohibits the use or mention of something …"
+},
+{
+"word": "interrogate",
+"pos": "vt/vi",
+"zh": "vt. 质问, 讯问, 审问 / vi. 质问, 讯问",
+"en": "v. transmit (a signal) for setting off an appropriate response, as in telecommunication / v. pose a series of questions …"
+},
+{
+"word": "mediocre",
+"pos": "a",
+"zh": "a. 不好不坏的, 通常, 平凡的",
+"en": "s. moderate to inferior in quality / s. poor to middling in quality"
+},
+{
+"word": "detergent",
+"pos": "n",
+"zh": "n. 清洁剂 / [化] 洗涤剂",
+"en": "n. a surface-active chemical widely used in industry and laundering / n. a cleansing agent that differs from soap but ca…"
+},
+{
+"word": "encyclopedia",
+"pos": "n",
+"zh": "n. 百科全书",
+"en": "n. a reference work (often in several volumes) containing articles on various topics (often arranged in alphabetical ord…"
+},
+{
+"word": "remorse",
+"pos": "n",
+"zh": "n. 懊悔, 良心不安, 自责, 同情 / [法] 悔恨, 自责, 懊悔",
+"en": "n a feeling of deep regret (usually for some misdeed)"
+},
+{
+"word": "malignant",
+"pos": "a",
+"zh": "a. 有恶意的, 恶性的, 有害的 / [化] 恶性的",
+"en": "a. dangerous to health; characterized by progressive and uncontrolled growth (especially of a tumor)"
+},
+{
+"word": "scroll",
+"pos": "n/v",
+"zh": "n. 卷轴, 画卷, 名册, 条幅, 滚动 / v. (使)成卷形 / [计] 滚动",
+"en": "n. a document that can be rolled up (as for storage) / v. move through text or graphics in order to display parts that d…"
+},
+{
+"word": "alloy",
+"pos": "n/vt/vi",
+"zh": "n. 合金 / vt. 将...铸成合金, 减低成色 / vi. 合铸",
+"en": "n. a mixture containing two or more metallic elements or metallic and nonmetallic elements usually fused together or dis…"
+},
+{
+"word": "parody",
+"pos": "n/vt",
+"zh": "n. 打油诗文, 诙谐的模仿诗文, 拙劣的模仿 / vt. 拙劣模仿, 作模仿诗文",
+"en": "n. a composition that imitates or misrepresents somebody's style, usually in a humorous way / n. humorous or satirical m…"
+},
+{
+"word": "yawn",
+"pos": "n/vi/vt",
+"zh": "n. 哈欠 / vi. 打哈欠, 裂开 / vt. 打着哈欠说",
+"en": "n. an involuntary intake of breath through a wide open mouth; usually triggered by fatigue or boredom / v. utter a yawn,…"
+},
+{
+"word": "neutralize",
+"pos": "vt/vi",
+"zh": "vt. 使中立, 使成中立地带, 使中和, 抵销 / vi. 中立化, 变无效, 中和",
+"en": "v. make politically neutral and thus inoffensive / v. make ineffective by counterbalancing the effect of / v. get rid of…"
+},
+{
+"word": "paranoia",
+"pos": "n",
+"zh": "n. 偏执狂, 多疑症 / [法] 妄想狂, 偏执狂",
+"en": "n. a psychological disorder characterized by delusions of persecution or grandeur"
+},
+{
+"word": "reptile",
+"pos": "n/a",
+"zh": "n. 爬行动物, 爬虫, 卑鄙的人 / a. 爬行的, 爬虫类的, 卑鄙的",
+"en": "n. any cold-blooded vertebrate of the class Reptilia including tortoises, turtles, snakes, lizards, alligators, crocodil…"
+},
+{
+"word": "majestic",
+"pos": "a",
+"zh": "a. 宏伟的, 庄严的",
+"en": "s. majestic in manner or bearing; superior to mundane matters"
+},
+{
+"word": "resilience",
+"pos": "n",
+"zh": "n. 弹回, 有弹力, 恢复力 / [化] 回弹; 弹性; 弹回性; 回能; 弹能",
+"en": "n. the physical property of a material that can return to its original shape or position after deformation that does not…"
+},
+{
+"word": "edible",
+"pos": "n/a",
+"zh": "n. 食品, 食物 / a. 可食用的",
+"en": "a. suitable for use as food"
+},
+{
+"word": "bumper",
+"pos": "n/a",
+"zh": "n. 缓冲器, 满杯 / a. 大胜利的",
+"en": "n. a glass filled to the brim (especially as a toast) / n. a mechanical device consisting of bars at either end of a veh…"
+},
+{
+"word": "expend",
+"pos": "vt",
+"zh": "vt. 花费, 消耗, 用光",
+"en": "v use up, consume fully / v pay out"
+},
+{
+"word": "hilarious",
+"pos": "a",
+"zh": "a. 喜不自禁的, 欢闹的, 引人发笑的",
+"en": "s. marked by or causing boisterous merriment or convulsive laughter"
+},
+{
+"word": "tertiary",
+"pos": "a/n",
+"zh": "a. 第三的, 第三位的, 第三产业的 / n. 第三修道会会员, 第三纪 / 第三的; 三代的(指无机盐)",
+"en": "n. from 63 million to 2 million years ago"
+},
+{
+"word": "bribe",
+"pos": "n/vt/vi",
+"zh": "n. 贿赂 / vt. 贿赂, 收买 / vi. 行贿",
+"en": "n. payment made to a person in a position of trust to corrupt his judgment / v. make illegal payments to in exchange for…"
+},
+{
+"word": "automation",
+"pos": "n",
+"zh": "n. 自动化, 自动操作 / [计] 自动学; 自动化",
+"en": "n. the act of implementing the control of equipment with advanced technology; usually involving electronic hardware / n.…"
+},
+{
+"word": "depletion",
+"pos": "n",
+"zh": "n. 消耗, 耗尽, 放血 / [医] 排除, 缺失(液体), 衰竭[状态](由于缺液)",
+"en": "n. the act of decreasing something markedly / n. the state of being depleted"
+},
+{
+"word": "generalize",
+"pos": "vt/vi",
+"zh": "vt. 一般化, 概括, 推广 / vi. 形成概念, 笼统讲",
+"en": "v. draw from specific cases for more general cases / v. speak or write in generalities / v. become systemic and spread t…"
+},
+{
+"word": "enrolment",
+"pos": "n",
+"zh": "n. 登记, 注册, 入伍, 入学, 入会, 注册人数, 入学人数",
+"en": "n the act of enrolling"
+},
+{
+"word": "dwindle",
+"pos": "vi/vt",
+"zh": "vi. 减少, 缩小, 衰落 / vt. 使缩小",
+"en": "v. become smaller or lose substance"
+},
+{
+"word": "transistor",
+"pos": "n",
+"zh": "n. 晶体管 / [化] 晶体管",
+"en": "n. a semiconductor device capable of amplification"
+},
+{
+"word": "quiver",
+"pos": "n/vi/vt/a",
+"zh": "n. 震动, 颤抖, 箭袋 / vi. 颤抖, 振动 / vt. 使颤动 / a. 敏捷的",
+"en": "n. case for holding arrows / v. shake with fast, tremulous movements"
+},
+{
+"word": "glitter",
+"pos": "n/vi",
+"zh": "n. 灿烂, 闪烁, 辉耀 / vi. 灿烂, 闪烁, 辉耀",
+"en": "n. the quality of shining with a bright reflected light / n. the occurrence of a small flash or spark / v. be shiny, as …"
+},
+{
+"word": "propulsion",
+"pos": "n",
+"zh": "n. 推进, 推进力 / [医] 前冲, 慌张步态",
+"en": "n. a propelling force / n. the act of propelling"
+},
+{
+"word": "antarctic",
+"pos": "a/n",
+"zh": "a. 南极的, 南极地带的 / n. 南极地区",
+"en": "n. the region around the south pole: Antarctica and surrounding waters"
+},
+{
+"word": "temperate",
+"pos": "a",
+"zh": "a. 温和的, 适度的, 有节制的, 温带的",
+"en": "a. (of weather or climate) free from extremes; mild; or characteristic of such weather or climate / a. not extreme in be…"
+},
+{
+"word": "funnel",
+"pos": "n",
+"zh": "n. 漏斗, 漏斗状的东西, 烟囱 / [化] 漏斗",
+"en": "n. a conical shape with a wider and a narrower opening at the two ends / n. a conically shaped utensil having a narrow t…"
+},
+{
+"word": "fanatic",
+"pos": "n/a",
+"zh": "n. 狂热者, 盲信 / a. 狂热的, 盲信的",
+"en": "n. a person motivated by irrational enthusiasm (as for a cause) / s. marked by excessive enthusiasm for and intense devo…"
+},
+{
+"word": "thirst",
+"pos": "n/vi",
+"zh": "n. 口渴, 渴望 / vi. 口渴, 渴望",
+"en": "n. a physiological need to drink / v. feel the need to drink"
+},
+{
+"word": "tame",
+"pos": "a/vt/vi",
+"zh": "a. 驯服的, 柔顺的, 被开垦的, 顺从的, 乏味的, 平淡的 / vt. 驯养, 驯服, 制服, 失去锋芒 / vi. 变得驯服",
+"en": "v. correct by punishment or discipline / s. flat and uninspiring / a. very restrained or quiet / a. brought from wildnes…"
+},
+{
+"word": "jolt",
+"pos": "n/vi/vt",
+"zh": "n. 震摇, 摇动, 颠簸 / vi. 颠簸而行, 震摇 / vt. 使颠簸, 使慌张, 猛击",
+"en": "n. a sudden jarring impact / v. move or cause to move with a sudden jerky motion / v. disturb (someone's) composure"
+},
+{
+"word": "ardent",
+"pos": "a",
+"zh": "a. 热心的, 激动的, 燃烧般的 / [医] 灼热的; 热心的",
+"en": "s. characterized by intense emotion / s. characterized by strong enthusiasm / s. glowing or shining like fire"
+},
+{
+"word": "synonym",
+"pos": "n",
+"zh": "n. 同义词",
+"en": "n. two words that can be interchanged in a context are said to be synonymous relative to that context"
+},
+{
+"word": "righteous",
+"pos": "a",
+"zh": "a. 公正的, 正义的, 正直的 / [法] 正直的, 正当的, 正义的",
+"en": "a. characterized by or proceeding from accepted standards of morality or justice / s. morally justified"
+},
+{
+"word": "rave",
+"pos": "n/v",
+"zh": "n. 狂吼, 狂暴 / v. 愤怒地说, 叫嚷, 咆哮",
+"en": "n. a dance party that lasts all night and electronically synthesized music is played / n. an extravagantly enthusiastic …"
+},
+{
+"word": "burrow",
+"pos": "n/vi/vt",
+"zh": "n. 洞穴, 藏身处 / vi. 掘洞穴, 躲藏 / vt. 掘, 打洞",
+"en": "n. a hole made by an animal, usually for shelter / v. move through by or as by digging"
+},
+{
+"word": "refund",
+"pos": "n/vt/vi",
+"zh": "n. 偿还 / vt. 付还, 偿还借款 / vi. 归还, 偿还",
+"en": "n. money returned to a payer / n. the act of returning money received previously / v. pay back"
+},
+{
+"word": "saline",
+"pos": "a/n",
+"zh": "a. 盐的, 苦涩的, 由碱金属(或含镁之盐类)组成的 / n. 盐湖, 盐田, 碱盐泻药, 生理盐水",
+"en": "s. containing salt"
+},
+{
+"word": "smother",
+"pos": "vt/vi/n",
+"zh": "vt. 使喘不过气, 使窒息, 闷熄, 忍住, 抑制, 覆盖 / vi. 窒息, 被抑制 / n. 浓烟, 窒息状态, 杂乱无章",
+"en": "n. a stifling cloud of smoke / v. envelop completely / v. deprive of oxygen and prevent from breathing / v. conceal or h…"
+},
+{
+"word": "eject",
+"pos": "vt",
+"zh": "vt. 逐放, 放逐, 喷射 / [化] 排出",
+"en": "v. put out or expel from a place / v. leave an aircraft rapidly, using an ejection seat or capsule"
+},
+{
+"word": "overdue",
+"pos": "a",
+"zh": "a. 过期的, 未兑的, 迟到的, 早就成熟的 / [经] 过期未付的",
+"en": "s past due; not paid at the scheduled time"
+},
+{
+"word": "censor",
+"pos": "n/vt",
+"zh": "n. 检查员 / vt. 检查, 审查, 删改",
+"en": "n. someone who censures or condemns / n. a person who is authorized to read publications or correspondence or to watch t…"
+},
+{
+"word": "overhaul",
+"pos": "vt/n",
+"zh": "vt. 分解检查, 翻修, 精细检查, 彻底革新 / n. 分解检查, 精细检查, 大检修",
+"en": "n. periodic maintenance on a car or machine / v. make repairs, renovations, revisions or adjustments to"
+},
+{
+"word": "conducive",
+"pos": "a",
+"zh": "a. 有益于...的, 有助于...的, 助长的",
+"en": "s. tending to bring about; being partly responsible for"
+},
+{
+"word": "disable",
+"pos": "vt",
+"zh": "vt. 使失去能力, 使残废, (律)使无资格 / [计] 使无效, 禁止, 关闭",
+"en": "v. make unable to perform a certain action / v. injure permanently"
+}
+]
