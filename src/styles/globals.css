@@ -42,3 +42,4 @@
   .fullrow[data-state='dont_know'] { color: #b53e4d; }
   .fullrow[data-state='dont_know']::after { content: '✗'; }
 }
+

@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState, type ReactNode } from 'react';
 import { Link, useLocation, useNavigate, useParams } from 'react-router';
 import { ArrowLeft, ArrowRight, Download, Info } from 'lucide-react';
 import { Button } from '@/components/ui/button.tsx';
+import { Flashcards } from '@/components/Flashcards.tsx';
 import { StoryQuiz } from '@/components/StoryQuiz.tsx';
 import { WordHoverCard } from '@/components/WordHoverCard.tsx';
 import { datasetSlug } from '@/lib/datasets.ts';
@@ -202,6 +203,7 @@ export function StoryPage() {
         ); })}
       </ol>
       <StoryQuiz key={`${story.n}${story.variant ?? ''}`} glossary={story.glossary} slug={slug} exportLabel={`story-${story.n}${story.variant ?? ''}-missed`} practiceHref={`/${slug}/practice?s=${story.n}`} />
+      <Flashcards key={`fc-${story.n}${story.variant ?? ''}`} glossary={story.glossary} slug={slug} />
       <div className="mt-6 flex justify-between">
         <Button variant="outline" disabled={story.n <= 1} onClick={() => navigate(`/${slug}/stories/${story.n - 1}`)}><ArrowLeft className="mr-1 h-3.5 w-3.5" />Story {story.n - 1}</Button>
         <Button variant="outline" onClick={() => navigate(`/${slug}/stories/${story.n + 1}`)}>Story {story.n + 1}<ArrowRight className="ml-1 h-3.5 w-3.5" /></Button>

@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState } from 'react';
 import { Link, useSearchParams } from 'react-router';
 import { BookOpen } from 'lucide-react';
 import { Button } from '@/components/ui/button.tsx';
+import { Flashcards } from '@/components/Flashcards.tsx';
 import { StoryQuiz } from '@/components/StoryQuiz.tsx';
 import { StorySourceBar } from '@/components/StorySourceBar.tsx';
 import { datasetSlug } from '@/lib/datasets.ts';
@@ -90,7 +91,7 @@ export function PracticePage() {
       {selected.length > 0 && (
         <p className="mt-4 text-sm text-muted-foreground">{selected.length} {selected.length === 1 ? 'story' : 'stories'} selected · {glossary.length.toLocaleString()} words{stories.length < selected.length ? ' · loading…' : ''} · <Link to={`/${slug}/stories/${selected[0]}`} className="text-primary hover:underline">read Story {selected[0]}</Link></p>
       )}
-      {glossary.length > 0 && stories.length === selected.length ? <StoryQuiz key={selectedKey} glossary={glossary} slug={slug} exportLabel={`stories-${selected.join('-')}-missed`} /> : selected.length === 0 && index && <p className="mt-6 text-muted-foreground">Pick a story above to start.</p>}
+      {glossary.length > 0 && stories.length === selected.length ? <><StoryQuiz key={selectedKey} glossary={glossary} slug={slug} exportLabel={`stories-${selected.join('-')}-missed`} /><Flashcards key={`fc-${selectedKey}`} glossary={glossary} slug={slug} /></> : selected.length === 0 && index && <p className="mt-6 text-muted-foreground">Pick a story above to start.</p>}
     </section>
   );
 }
