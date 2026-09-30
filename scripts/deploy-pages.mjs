@@ -21,7 +21,12 @@ const base = repo.toLowerCase() === `${user.toLowerCase()}.github.io` ? '/' : `/
 const site = buildSite(base);
 
 const work = fs.mkdtempSync(path.join(os.tmpdir(), 'gh-pages-'));
-sh('git worktree prune');                                   // forget worktrees left behind by an interrupted run
+sh('git worktree prune');                                   // forget worktrees whose folder is gone
+// …and remove any leftover worktree (folder still there) that holds gh-pages, else `worktree add` refuses
+for (const block of sh('git worktree list --porcelain').split('\n\n')) {
+  const dir = block.match(/^worktree (.+)$/m)?.[1];
+  if (dir && /^branch refs\/heads\/gh-pages$/m.test(block) && path.resolve(dir) !== ROOT) sh(`git worktree remove --force "${dir}"`);
+}
 let remoteHasBranch = false;
 try { sh('git fetch origin gh-pages', { stdio: 'inherit' }); remoteHasBranch = true; } catch { /* no gh-pages on the remote yet */ }
 const localHasBranch = sh('git branch --list gh-pages') !== '';
