@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { Link } from 'react-router';
-import { ArrowLeft, ArrowRight, Download, RotateCcw } from 'lucide-react';
+import { ArrowLeft, ArrowRight, Download, Info, RotateCcw } from 'lucide-react';
 import { Button } from '@/components/ui/button.tsx';
 import { WordHoverCard } from '@/components/WordHoverCard.tsx';
 import { entryByWord, statusOf, useAppState } from '@/state/store.ts';
@@ -40,6 +40,19 @@ function buildQuestions(glossary: StoryGlossaryEntry[], order: Order, only: Read
   });
 }
 const normalize = (s: string): string => s.trim().toLowerCase().replace(/\s+/g, ' ');
+
+/** Small “i” next to a word option (看中选英): opens the word's hover card without choosing it. */
+function OptionInfo({ word, zh, slug }: { word: string; zh: string; slug: string }) {
+  const [open, setOpen] = useState(false);
+  const ratings = useAppState(st => st.ratings);
+  const entry = entryByWord(word);
+  if (!entry) return null;
+  return (
+    <WordHoverCard entry={entry} status={statusOf(ratings, entry.id)} slug={slug} zh={zh} onOpen={w => window.open(withBase(`${slug}/w/${encodeURIComponent(w)}`), '_blank', 'noopener')} open={open} onOpenChange={setOpen}>
+      <button type="button" onClick={() => setOpen(o => !o)} className="shrink-0 rounded p-1 text-muted-foreground hover:bg-accent/60 hover:text-primary" title="Show the card" aria-label={`Show the card of ${word}`}><Info className="h-4 w-4" /></button>
+    </WordHoverCard>
+  );
+}
 
 /** 复习练习: pick the meaning of each story word from four choices, in story order or shuffled. Keys A–D / 1–4 answer, Enter or → continues. */
 export function StoryQuiz({ glossary, slug, practiceHref, exportLabel = 'missed' }: { glossary: StoryGlossaryEntry[]; slug: string; practiceHref?: string; exportLabel?: string }) {
@@ -173,9 +186,9 @@ export function StoryQuiz({ glossary, slug, practiceHref, exportLabel = 'missed'
               const isAnswer = i === q.answer; const isPicked = i === picked;
               const state = picked === null ? 'idle' : isAnswer ? 'right' : isPicked ? 'wrong' : 'dim';
               return (
-                <li key={i}>
+                <li key={i} className={cn(mode === 'zh2en' && 'flex items-center gap-1')}>
                   <button type="button" onClick={() => pick(i)} disabled={picked !== null} aria-pressed={isPicked}
-                    className={cn('flex w-full items-start gap-3 rounded-lg border px-4 py-2.5 text-left text-[15px] transition-colors',
+                    className={cn('flex w-full min-w-0 flex-1 items-start gap-3 rounded-lg border px-4 py-2.5 text-left text-[15px] transition-colors',
                       state === 'idle' && 'hover:border-primary hover:bg-accent/40',
                       state === 'right' && 'border-know-line bg-know-soft text-know',
                       state === 'wrong' && 'border-dontknow-line bg-dontknow-soft text-dontknow',
@@ -183,6 +196,7 @@ export function StoryQuiz({ glossary, slug, practiceHref, exportLabel = 'missed'
                     <span className="mt-0.5 grid h-5 w-5 shrink-0 place-items-center rounded border text-xs font-semibold">{LETTERS[i]}</span>
                     <span>{opt}</span>
                   </button>
+                  {mode === 'zh2en' && <OptionInfo word={opt} zh={glossary.find(g => g.word === opt)?.zh ?? ''} slug={slug} />}
                 </li>
               );
             })}
