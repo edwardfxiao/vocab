@@ -49,6 +49,11 @@ For development run `npm run dev` (rspack dev server with hot reload on **http:/
 from this folder). `npm run check` runs the type check, eslint and the vitest suite (`npm run typecheck`,
 `npm run lint`, `npm test` individually).
 
+The moon / sun button in the header switches between the light and dark theme (remembered in `word-by-word.theme.v1`;
+until you choose, the system preference applies and is followed live). Every colour, including the three rating
+colours, is a CSS variable with a light and a dark value, so new components should use the Tailwind tokens
+(`bg-card`, `bg-panel`, `text-know` …) rather than fixed colours.
+
 Card features: a global **Always show meaning** switch (remembered), the meaning area grows to fit, relation chips (look-alikes, same root, family, synonyms, antonyms, variants, compounds, suffix) jump to that word and record a trail, and **Back to …** retraces the chain word by word. Clicking the root line opens the root page.
 
 The app reads the canonical CSV files directly. Serve the project over localhost; opening `dist/index.html` as

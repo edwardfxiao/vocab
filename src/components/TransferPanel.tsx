@@ -20,11 +20,11 @@ const STUDY: { kind: ExportKind; label: string; hint?: string; className: string
   { kind: 'not_sure', label: 'Not sure', className: 'border-unsure-line bg-unsure-soft text-unsure hover:bg-unsure-soft hover:brightness-95' },
   { kind: 'dont_know', label: 'Don’t know', className: 'border-dontknow-line bg-dontknow-soft text-dontknow hover:bg-dontknow-soft hover:brightness-95' },
   { kind: 'definitely_know', label: 'Definitely know', className: 'border-know-line bg-know-soft text-know hover:bg-know-soft hover:brightness-95' },
-  { kind: 'filtered', label: 'Current view', className: 'border-[#c2d0ff] bg-accent text-primary hover:bg-accent hover:brightness-95' },
+  { kind: 'filtered', label: 'Current view', className: 'border-info bg-accent text-primary hover:bg-accent hover:brightness-95' },
 ];
 
 function Count({ n, primary }: { n: number; primary?: boolean }) {
-  return <span className={cn('rounded-full px-1.5 py-0.5 text-xs leading-none tabular-nums', primary ? 'bg-white/25 text-white' : 'bg-black/5 text-muted-foreground')}>{n.toLocaleString()}</span>;
+  return <span className={cn('rounded-full px-1.5 py-0.5 text-xs leading-none tabular-nums', primary ? 'bg-white/25 text-white' : 'bg-foreground/5 text-muted-foreground')}>{n.toLocaleString()}</span>;
 }
 
 export function TransferPanel({ queue }: { queue: WordEntry[] }) {
@@ -70,7 +70,7 @@ export function TransferPanel({ queue }: { queue: WordEntry[] }) {
 
   return (
     <section aria-label="Export study lists, back up and restore progress" className="my-5 grid grid-cols-[minmax(0,3fr)_minmax(0,2fr)] gap-3 max-[850px]:grid-cols-1">
-      <div className="rounded-xl border bg-white px-4 py-3.5">
+      <div className="rounded-xl border bg-card px-4 py-3.5">
         <div className="mb-2.5 flex flex-col gap-0.5"><strong className="text-sm">Export study lists · 导出学习清单</strong><span className="text-sm text-muted-foreground">One CSV per status. Send “To study” to your assistant. 按状态导出，数字为词数。</span></div>
         <div className="flex flex-wrap gap-2">
           {STUDY.map(b => { const n = countFor(b.kind); const primary = b.kind === 'to_study'; return (
@@ -80,7 +80,7 @@ export function TransferPanel({ queue }: { queue: WordEntry[] }) {
           ); })}
         </div>
       </div>
-      <div className="rounded-xl border border-dashed bg-[#f8f9fd] px-4 py-3.5">
+      <div className="rounded-xl border border-dashed bg-panel px-4 py-3.5">
         <div className="mb-2.5 flex flex-col gap-0.5"><strong className="text-sm">Back up &amp; restore · 备份与恢复</strong><span className="text-sm text-muted-foreground">Ratings and notes live in this browser only. Back up before clearing data; restore shows a preview first. 评分和笔记只存在本浏览器。</span></div>
         <div className="flex flex-wrap gap-2">
           <Button variant="outline" size="sm" disabled={loading || !data.length} onClick={() => exportCSV('all')} className="gap-1.5"><Download className="h-3.5 w-3.5" />Back up all progress<Count n={data.length} /></Button>

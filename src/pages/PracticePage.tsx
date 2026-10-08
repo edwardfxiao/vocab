@@ -50,9 +50,9 @@ export function PracticePage() {
   }, [stories]);
   const toStudy = (words: string[]): number => words.filter(w => { const e = entryByWord(w); const s = e ? statusOf(ratings, e.id) : 'unreviewed'; return s === 'not_sure' || s === 'dont_know'; }).length;
 
-  if (config && !available) return <section className="rounded-xl border bg-white px-4 py-5 sm:px-8 sm:py-6"><h2 className="text-2xl font-bold tracking-tight sm:text-3xl">Practice · 练习</h2><p className="mt-2 text-muted-foreground">Practice uses the story glossaries, and {config.label.split(' · ')[0]} has no stories yet. <Link to={`/${slug}/stories`} className="text-primary hover:underline">See which collections have stories</Link> · <Link to={`/${slug}/practice/list`} className="text-primary hover:underline">Practice from a CSV →</Link></p><div className="mt-4"><StorySourceBar /></div></section>;
+  if (config && !available) return <section className="rounded-xl border bg-card px-4 py-5 sm:px-8 sm:py-6"><h2 className="text-2xl font-bold tracking-tight sm:text-3xl">Practice · 练习</h2><p className="mt-2 text-muted-foreground">Practice uses the story glossaries, and {config.label.split(' · ')[0]} has no stories yet. <Link to={`/${slug}/stories`} className="text-primary hover:underline">See which collections have stories</Link> · <Link to={`/${slug}/practice/list`} className="text-primary hover:underline">Practice from a CSV →</Link></p><div className="mt-4"><StorySourceBar /></div></section>;
   return (
-    <section className="rounded-xl border bg-white px-4 py-5 sm:px-8 sm:py-6">
+    <section className="rounded-xl border bg-card px-4 py-5 sm:px-8 sm:py-6">
       <div className="mb-4 flex flex-wrap items-end justify-between gap-3">
         <div>
           <h2 className="text-2xl font-bold tracking-tight sm:text-3xl">Practice · 练习</h2>
@@ -82,7 +82,7 @@ export function PracticePage() {
         );
         if (all.length === 1) return <div key={round}>{grid}</div>;
         return (
-          <details key={round} open={ri === 0} className="mb-3 rounded-lg border bg-[#f8f9fd] px-3 py-2">
+          <details key={round} open={ri === 0} className="mb-3 rounded-lg border bg-panel px-3 py-2">
             <summary className="cursor-pointer text-sm"><b>Round {round} · 第 {round} 轮</b> <span className="text-muted-foreground">· {list.length} word groups{ri === 0 ? ' · latest' : ''}</span></summary>
             <div className="mt-2">{grid}</div>
           </details>

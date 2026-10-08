@@ -8,7 +8,7 @@ import { entryByWord, getState, jumpToWord, setTrail, statusOf, trailWithCurrent
 import { cn } from '@/lib/utils.ts';
 
 const STATE_CLASS: Record<Status, string> = {
-  unreviewed: 'border-border bg-white', definitely_know: 'border-know-line bg-know-soft text-know',
+  unreviewed: 'border-border bg-card', definitely_know: 'border-know-line bg-know-soft text-know',
   not_sure: 'border-unsure-line bg-unsure-soft text-unsure', dont_know: 'border-dontknow-line bg-dontknow-soft text-dontknow',
 };
 
@@ -33,7 +33,7 @@ export function RootPage() {
     navigate(`/${slug}/w/${encodeURIComponent(t.word)}`, { state: { trail: nextTrail } });
   };
   return (
-    <section className="rounded-xl border bg-white px-4 py-5 sm:px-8 sm:py-6">
+    <section className="rounded-xl border bg-card px-4 py-5 sm:px-8 sm:py-6">
       <div className="mb-4 flex flex-wrap items-center justify-between gap-3">
         <div>
           <Link to={`/${slug}`} className="text-sm text-primary hover:underline"><ArrowLeft className="mr-1 inline h-3.5 w-3.5" />Back to the checker</Link>

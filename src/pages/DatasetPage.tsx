@@ -57,7 +57,7 @@ export function DatasetPage() {
       <div className="grid grid-cols-[250px_minmax(0,1fr)] gap-5 max-[850px]:grid-cols-1">
         <WordList queue={queue} />
         {loadError ? (
-          <section className="flex min-h-[420px] flex-col items-center justify-center rounded-xl border bg-white px-4 py-14 text-center">
+          <section className="flex min-h-[420px] flex-col items-center justify-center rounded-xl border bg-card px-4 py-14 text-center">
             <h2 className="text-2xl font-semibold">Could not load this collection.</h2>
             <p className="mt-2 text-muted-foreground">{loadError} Start the dev server from the app folder with “npm run dev”.</p>
           </section>

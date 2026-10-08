@@ -30,7 +30,7 @@ export function StorySourceBar() {
   if (!config) return null;
   const folder = config.stories;
   return (
-    <div className="flex flex-wrap items-center justify-between gap-2 rounded-lg border border-dashed bg-[#f8f9fd] px-3 py-2 text-sm">
+    <div className="flex flex-wrap items-center justify-between gap-2 rounded-lg border border-dashed bg-panel px-3 py-2 text-sm">
       <span className="text-muted-foreground">
         <b className="text-foreground">Stories source · 故事来源：</b>{' '}
         {imported ? <>imported bundle{bundle ? ` · ${bundle.stories.length} stories · ${bundle.name ?? 'bundle.json'}${bundle.imported_at ? ` · ${new Date(bundle.imported_at).toLocaleString()}` : ''}` : ''}{folder ? ` (overrides ${folder})` : ''}</>

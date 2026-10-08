@@ -31,7 +31,7 @@ export function Filters() {
       </div>
       <div className="flex flex-col gap-1">
         <span className="text-sm text-muted-foreground">Invert</span>
-        <div className={cn('flex h-11 items-center gap-2 whitespace-nowrap rounded-md border bg-white px-3 text-sm', view.invert && 'border-primary bg-accent text-primary', (loading || view.filter === 'all') && 'opacity-50')}>
+        <div className={cn('flex h-11 items-center gap-2 whitespace-nowrap rounded-md border bg-card px-3 text-sm', view.invert && 'border-primary bg-accent text-primary', (loading || view.filter === 'all') && 'opacity-50')}>
           <Switch id="invert" checked={view.invert} disabled={loading || view.filter === 'all'} onCheckedChange={v => setView({ invert: v })} /><label htmlFor="invert" className="cursor-pointer select-none">Show the rest · 反选</label>
         </div>
       </div>

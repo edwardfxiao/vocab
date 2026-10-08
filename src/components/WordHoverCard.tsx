@@ -8,7 +8,7 @@ import { cn } from '@/lib/utils.ts';
 import type { WordEntry } from '@/lib/words.ts';
 import { syllablesOf, useAppState } from '@/state/store.ts';
 
-const BADGE_CLASS: Record<Status, string> = { unreviewed: 'bg-[#f0f3f9] text-[#495771]', definitely_know: 'bg-[#e6f5ec] text-know', not_sure: 'bg-[#fff3d8] text-unsure', dont_know: 'bg-[#ffebee] text-dontknow' };
+const BADGE_CLASS: Record<Status, string> = { unreviewed: 'bg-badge text-badge-foreground', definitely_know: 'bg-know-soft text-know', not_sure: 'bg-unsure-soft text-unsure', dont_know: 'bg-dontknow-soft text-dontknow' };
 
 /** Hover (or controlled) card for a word: syllables, phonetic, rating badge, gloss, copy / Google / Images, and “Open card”.
  *  The word itself opens the card in a new tab; `onOpen` navigates in-app. Used by story words, relation chips and root-page items. */
@@ -30,7 +30,7 @@ export function WordHoverCard({ entry, status, slug, zh, onOpen, open, onOpenCha
           <span className={cn('shrink-0 rounded-full px-2 py-0.5 text-xs', BADGE_CLASS[status])}>{LABELS[status]}</span>
         </div>
         <p className="mt-2 text-[15px] leading-snug text-foreground">{zh || entry.meaning_zh.split('\n')[0]}</p>
-        {note && <p className="mt-1.5 whitespace-pre-wrap rounded-md border border-[#e7d09b] bg-[#fffdf5] px-2 py-1 text-[13px] leading-snug text-[#775012]">我的理解：{note}</p>}
+        {note && <p className="mt-1.5 whitespace-pre-wrap rounded-md border border-note-line bg-note px-2 py-1 text-[13px] leading-snug text-warn-foreground">我的理解：{note}</p>}
         <div className="mt-2 flex items-center justify-between border-t pt-2 text-xs text-muted-foreground">
           <WordActions word={entry.word} size={15} />
           <button type="button" onClick={() => onOpen(entry.word)} className="text-primary hover:underline">Open card →</button>

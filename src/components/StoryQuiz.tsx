@@ -144,7 +144,7 @@ export function StoryQuiz({ glossary, slug, practiceHref, exportLabel = 'missed'
       {!questions.length ? (
         <p className="mt-4 rounded-xl border bg-know-soft px-5 py-4 text-know">全部掌握 · Every word here is rated Definitely know. Switch off “只考还不会的” to practise them anyway.</p>
       ) : done ? (
-        <div className="mt-4 rounded-xl border bg-[#f8f9fd] px-5 py-4">
+        <div className="mt-4 rounded-xl border bg-panel px-5 py-4">
           <p className="text-lg font-semibold">完成 · {questions.length} 题，答对 {correct}，答错 {questions.length - correct - unknown}{unknown ? `，不知道 ${unknown}` : ''}</p>
           {missed.length > 0 && (
             <>
@@ -162,7 +162,7 @@ export function StoryQuiz({ glossary, slug, practiceHref, exportLabel = 'missed'
           </div>
         </div>
       ) : q && (
-        <div className="mt-4 rounded-xl border bg-white px-3 py-3 sm:px-5 sm:py-4">
+        <div className="mt-4 rounded-xl border bg-card px-3 py-3 sm:px-5 sm:py-4">
           {mode !== 'en2zh' && <p className="text-xl font-medium leading-snug sm:text-2xl">{q.zh}</p>}
           {(mode === 'en2zh' || picked !== null) && (() => {   // the word, with the same hover card as in the story (shown after answering in the meaning-first modes)
             const entry = entryByWord(q.word);
@@ -177,7 +177,7 @@ export function StoryQuiz({ glossary, slug, practiceHref, exportLabel = 'missed'
           {mode === 'spell' && (
             <form className="mt-4 flex flex-wrap items-center gap-2" onSubmit={e => { e.preventDefault(); submitSpelling(); }}>
               <input ref={inputRef} value={picked === null ? draft : (typed[index] ?? '')} onChange={e => setDraft(e.target.value)} disabled={picked !== null} placeholder="Type the English word · 输入英文" autoComplete="off" autoCapitalize="off" autoCorrect="off" spellCheck={false}
-                className={cn('h-11 min-w-0 flex-1 rounded-lg border px-3 font-mono text-lg outline-none focus:border-primary', picked === null ? 'bg-white' : picked === q.answer ? 'border-know-line bg-know-soft text-know' : 'border-dontknow-line bg-dontknow-soft text-dontknow line-through')} />
+                className={cn('h-11 min-w-0 flex-1 rounded-lg border px-3 font-mono text-lg outline-none focus:border-primary', picked === null ? 'bg-card' : picked === q.answer ? 'border-know-line bg-know-soft text-know' : 'border-dontknow-line bg-dontknow-soft text-dontknow line-through')} />
               <Button type="submit" disabled={picked !== null || !normalize(draft)}>提交</Button>
             </form>
           )}

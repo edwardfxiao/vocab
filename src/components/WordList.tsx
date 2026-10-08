@@ -21,7 +21,7 @@ export function WordList({ queue }: { queue: WordEntry[] }) {
   return (
     // The wrapper takes the row height from the card (the aside is absolutely positioned, so its own content never makes the row taller).
     <div className="relative min-h-[440px] max-[850px]:hidden">
-    <aside aria-label="Filtered word list" className="absolute inset-0 flex flex-col overflow-hidden rounded-xl border bg-white">
+    <aside aria-label="Filtered word list" className="absolute inset-0 flex flex-col overflow-hidden rounded-xl border bg-card">
       <div className="flex items-center justify-between border-b px-4 py-3 text-sm"><strong>In this view</strong><span>{queue.length.toLocaleString()}</span></div>
       <div className="min-h-0 flex-1 overflow-auto p-2">
         {queue.slice(shown * PAGE, (shown + 1) * PAGE).map(r => (

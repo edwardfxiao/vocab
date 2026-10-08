@@ -36,7 +36,7 @@ export function StatsBar() {
           const active = view.filter === c.filter && !view.invert;
           return (
             <button key={c.filter} type="button" aria-pressed={active} onClick={() => setView({ filter: c.filter })}
-              className={cn('flex min-w-0 items-baseline gap-1.5 rounded-lg border bg-white px-2.5 py-1.5 text-left transition-colors hover:bg-accent sm:gap-2 sm:px-3 sm:py-2', active && 'border-primary bg-accent')}>
+              className={cn('flex min-w-0 items-baseline gap-1.5 rounded-lg border bg-card px-2.5 py-1.5 text-left transition-colors hover:bg-accent sm:gap-2 sm:px-3 sm:py-2', active && 'border-primary bg-accent')}>
               <strong className={cn('text-lg leading-tight tracking-tight sm:text-xl', c.color)}>{values[c.filter].toLocaleString()}</strong>
               <span className="truncate text-[13px]">{c.label}</span>
             </button>
@@ -44,7 +44,7 @@ export function StatsBar() {
         })}
       </section>
       <div className="mt-3 flex justify-between text-sm text-muted-foreground"><span>{done.toLocaleString()} of {data.length.toLocaleString()} reviewed</span><span>{(data.length ? 100 * done / data.length : 0).toFixed(1)}%</span></div>
-      <progress className="mt-2 block h-1.5 w-full overflow-hidden rounded-full [&::-webkit-progress-bar]:bg-[#dce2ed] [&::-webkit-progress-value]:bg-primary" max={data.length || 1} value={done} aria-label="Words reviewed" />
+      <progress className="mt-2 block h-1.5 w-full overflow-hidden rounded-full [&::-webkit-progress-bar]:bg-track [&::-webkit-progress-value]:bg-primary" max={data.length || 1} value={done} aria-label="Words reviewed" />
     </>
   );
 }

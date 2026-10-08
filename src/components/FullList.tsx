@@ -20,7 +20,7 @@ export function FullList({ data, ratings, label, slug, onOpen }: { data: WordEnt
     onOpen(a.querySelector('.fullrow-word')?.textContent ?? a.textContent ?? '');
   };
   return (
-    <section aria-label="Full word list of the current dataset as plain text" className="mt-5 overflow-hidden rounded-xl border bg-white">
+    <section aria-label="Full word list of the current dataset as plain text" className="mt-5 overflow-hidden rounded-xl border bg-card">
       <div className="flex flex-wrap items-baseline gap-3 border-b px-4 py-3">
         <strong className="text-sm">Full word list of current dataset: {label}</strong>
         <span className="text-sm text-muted-foreground">{data.length.toLocaleString()} words</span>

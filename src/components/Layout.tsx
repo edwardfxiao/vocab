@@ -1,4 +1,7 @@
+import { useEffect, useState } from 'react';
 import { Link, NavLink, Outlet, useLocation, useNavigate } from 'react-router';
+import { Moon, Sun } from 'lucide-react';
+import { currentTheme, setTheme, watchSystemTheme, type Theme } from '@/lib/theme.ts';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select.tsx';
 import { DATASETS, datasetSlug } from '@/lib/datasets.ts';
 import { clearNotice, useAppState } from '@/state/store.ts';
@@ -15,10 +18,13 @@ export function Layout() {
   const loadError = useAppState(s => s.loadError);
   const notice = useAppState(s => s.notice);
   const total = useAppState(s => s.data.length);
+  const [theme, setThemeState] = useState<Theme>(() => currentTheme());
+  useEffect(() => watchSystemTheme(), []);
+  const toggleTheme = (): void => { const next: Theme = theme === 'dark' ? 'light' : 'dark'; setTheme(next); setThemeState(next); };
   const saveStatus = loading ? 'Loading collection…' : loadError ? 'Collection unavailable' : storageOK ? 'Progress saved in this browser' : 'Auto-save unavailable · export a backup';
   return (
     <div className="min-h-screen">
-      <header className="border-b bg-white">
+      <header className="border-b bg-card">
         <div className="mx-auto flex max-w-[1240px] flex-wrap items-center justify-between gap-x-4 gap-y-2 px-4 py-3 sm:px-8 sm:py-4">
           <Link to={`/${slug}`} className="flex items-center gap-2.5 whitespace-nowrap text-lg font-bold tracking-tight hover:text-primary sm:gap-3 sm:text-[21px]" title="Checker">
             <span className="grid h-8 w-8 place-items-center rounded-lg bg-primary font-serif text-white sm:h-9 sm:w-9" aria-hidden>w</span> Word by word
@@ -28,6 +34,7 @@ export function Layout() {
             <NavLink to={`/${slug}/stories`} className={({ isActive }) => cn('text-sm hover:text-primary', isActive && 'font-semibold text-primary')}>Stories</NavLink>
             <NavLink to={`/${slug}/practice`} className={({ isActive }) => cn('text-sm hover:text-primary', isActive && 'font-semibold text-primary')}>Practice</NavLink>
             <div className="w-full text-xs text-muted-foreground md:w-auto md:text-right md:text-sm" role="status">{saveStatus}</div>
+            <button type="button" onClick={toggleTheme} aria-label={theme === 'dark' ? 'Switch to light theme' : 'Switch to dark theme'} title={theme === 'dark' ? '亮色 · Light' : '暗色 · Dark'} className="grid h-9 w-9 place-items-center rounded-lg border text-muted-foreground hover:border-primary hover:text-primary">{theme === 'dark' ? <Sun className="h-4 w-4" /> : <Moon className="h-4 w-4" />}</button>
           </div>
         </div>
       </header>
@@ -47,7 +54,7 @@ export function Layout() {
           </Select>
         </div>
         {notice && (
-          <div role="status" className={cn('mb-4 flex items-start justify-between gap-3 rounded-lg border px-4 py-3 text-sm', notice.warn ? 'border-[#e7d09b] bg-[#fff5dd] text-[#775012]' : 'border-[#c2d0ff] bg-[#edf2ff] text-[#243f90]')}>
+          <div role="status" className={cn('mb-4 flex items-start justify-between gap-3 rounded-lg border px-4 py-3 text-sm', notice.warn ? 'border-note-line bg-warn text-warn-foreground' : 'border-info bg-accent text-accent-foreground')}>
             <span>{notice.text}</span>
             <button type="button" className="text-xs opacity-70 hover:opacity-100" onClick={clearNotice} aria-label="Dismiss">✕</button>
           </div>

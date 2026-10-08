@@ -56,7 +56,7 @@ export function Flashcards({ glossary, slug }: { glossary: StoryGlossaryEntry[];
       <p className="mt-1 text-sm text-muted-foreground">左右滑动或拖动翻卡，也可用箭头，到底后回到第一张；点单词看卡片；眼睛按钮显示或隐藏释义。</p>
       <div className="mt-4 flex items-stretch gap-2">
         <Button variant="outline" size="icon" className="h-auto w-10 shrink-0 max-sm:hidden" onClick={() => slider.current?.prev()} aria-label="Previous card"><ArrowLeft className="h-4 w-4" /></Button>
-        <div key={`deck-${seed}-${shuffled ? 's' : 'o'}-${cards.length}`} ref={ref} className="keen-slider h-[340px] flex-1 cursor-grab rounded-xl border bg-white active:cursor-grabbing sm:h-[400px]">
+        <div key={`deck-${seed}-${shuffled ? 's' : 'o'}-${cards.length}`} ref={ref} className="keen-slider h-[340px] flex-1 cursor-grab rounded-xl border bg-card active:cursor-grabbing sm:h-[400px]">
           {cards.map(g => <Card key={g.word} g={g} slug={slug} showZh={showZh} />)}
         </div>
         <Button variant="outline" size="icon" className="h-auto w-10 shrink-0 max-sm:hidden" onClick={() => slider.current?.next()} aria-label="Next card"><ArrowRight className="h-4 w-4" /></Button>

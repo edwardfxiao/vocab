@@ -151,13 +151,13 @@ export function StoryPage() {
     jumpToWord(t.id);
     navigate(`/${slug}/w/${encodeURIComponent(t.word)}`, { state: { trail: nextTrail } });
   };
-  if (story === undefined) return <section className="rounded-xl border bg-white px-4 py-5 sm:px-8 sm:py-6 text-muted-foreground">Loading story…</section>;
-  if (!story) return <section className="rounded-xl border bg-white px-4 py-5 sm:px-8 sm:py-6"><p className="text-muted-foreground">{available ? `Story ${n}${variant ? ' ' + variant.toUpperCase() : ''} does not exist in this collection.` : 'This collection has no stories yet.'}</p><Link to={`/${slug}/stories`} className="text-primary hover:underline">All stories</Link></section>;
+  if (story === undefined) return <section className="rounded-xl border bg-card px-4 py-5 sm:px-8 sm:py-6 text-muted-foreground">Loading story…</section>;
+  if (!story) return <section className="rounded-xl border bg-card px-4 py-5 sm:px-8 sm:py-6"><p className="text-muted-foreground">{available ? `Story ${n}${variant ? ' ' + variant.toUpperCase() : ''} does not exist in this collection.` : 'This collection has no stories yet.'}</p><Link to={`/${slug}/stories`} className="text-primary hover:underline">All stories</Link></section>;
   const zhFor = (w: string): string => story.glossary.find(g => g.word.toLowerCase() === w)?.zh ?? enrichment.words[w]?.gloss ?? '';
   const targetSet = new Set(story.words.map(w => w.toLowerCase()));
   const trailBack = trail.at(-1);
   return (
-    <section className="rounded-xl border bg-white px-4 py-5 sm:px-8 sm:py-6">
+    <section className="rounded-xl border bg-card px-4 py-5 sm:px-8 sm:py-6">
       <div className="mb-4 flex flex-wrap items-center justify-between gap-2 text-sm sm:mb-5 sm:gap-3">
         <div className="flex items-center gap-3">
           <Link to={`/${slug}/stories`} className="text-primary hover:underline"><ArrowLeft className="mr-1 inline h-3.5 w-3.5" />All stories</Link>

@@ -26,7 +26,7 @@ export function StoriesPage() {
   if (config && !available) {
     const others = DATASETS.filter(d => d.stories);
     return (
-      <section className="rounded-xl border bg-white px-4 py-5 sm:px-8 sm:py-6">
+      <section className="rounded-xl border bg-card px-4 py-5 sm:px-8 sm:py-6">
         <h2 className="text-2xl font-bold tracking-tight sm:text-3xl">Stories · 单词故事</h2>
         <p className="mt-2 text-muted-foreground">No stories for {config.label.split(' · ')[0]} in this browser or in the data folder. Stories are made from one collection’s review (Not sure / Don’t know words), so each collection has its own set; a private set can be kept as a bundle file and imported here, like a ratings backup. 这个词库还没有故事：可以导入 bundle.json。</p>
         <div className="mt-4"><StorySourceBar /></div>
@@ -37,7 +37,7 @@ export function StoriesPage() {
   }
   const toStudy = (words: string[]): number => words.filter(w => { const e = entryByWord(w); const s = e ? statusOf(ratings, e.id) : 'unreviewed'; return s === 'not_sure' || s === 'dont_know'; }).length;
   return (
-    <section className="rounded-xl border bg-white px-4 py-5 sm:px-8 sm:py-6">
+    <section className="rounded-xl border bg-card px-4 py-5 sm:px-8 sm:py-6">
       <div className="mb-4 flex flex-wrap items-end justify-between gap-3">
         <div>
           <h2 className="text-2xl font-bold tracking-tight sm:text-3xl">Stories · 单词故事</h2>
@@ -70,7 +70,7 @@ export function StoriesPage() {
         if (all.length === 1) return <div key={round}>{cards}{shown.length === 0 && <p className="text-muted-foreground">Every word in these stories is learned. 全部掌握了。</p>}</div>;
         // several rounds: the latest is open, earlier ones fold away (still readable)
         return (
-          <details key={round} open={ri === 0} className="mb-3 rounded-lg border bg-[#f8f9fd] px-4 py-2">
+          <details key={round} open={ri === 0} className="mb-3 rounded-lg border bg-panel px-4 py-2">
             <summary className="cursor-pointer text-sm"><b>Round {round} · 第 {round} 轮</b> <span className="text-muted-foreground">· {groups.length} word groups · {list.length} stories{ri === 0 ? ' · latest' : ''}{!loading ? ` · ${groups.reduce((a, g) => a + toStudy(g[0].words), 0).toLocaleString()} still to study` : ''}</span></summary>
             <div className="mt-2 pb-1">{cards}{shown.length === 0 && <p className="text-sm text-muted-foreground">Every word in this round is learned.</p>}</div>
           </details>

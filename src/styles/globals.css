@@ -26,6 +26,48 @@
     --input: 222 30% 90%;
     --ring: 229 74% 52%;
     --radius: 0.6rem;
+    /* app palette (light) */
+    --panel: 225 50% 98%;            /* soft panel backgrounds */
+    --note: 50 100% 98%;  --note-line: 42 60% 76%;           /* 我的理解 note box */
+    --warn: 41 100% 93%;  --warn-foreground: 36 72% 27%;     /* warning notices */
+    --info-line: 229 100% 88%;       /* trail / info borders */
+    --badge: 222 36% 96%; --badge-foreground: 219 20% 37%;  /* neutral badges */
+    --track: 222 29% 90%;            /* progress bar track */
+    --know: 157 66% 27%;     --know-soft: 142 44% 95%;     --know-line: 144 35% 85%;
+    --unsure: 37 78% 33%;    --unsure-soft: 41 100% 96%;   --unsure-line: 41 56% 81%;
+    --dontknow: 352 49% 48%; --dontknow-soft: 352 100% 97%; --dontknow-line: 348 48% 88%;
+    color-scheme: light;
+  }
+  .dark {
+    --background: 222 30% 9%;
+    --foreground: 222 20% 92%;
+    --card: 222 28% 12%;
+    --card-foreground: 222 20% 92%;
+    --popover: 222 28% 12%;
+    --popover-foreground: 222 20% 92%;
+    --primary: 229 90% 72%;
+    --primary-foreground: 222 40% 10%;
+    --secondary: 222 20% 17%;
+    --secondary-foreground: 222 20% 92%;
+    --muted: 222 20% 17%;
+    --muted-foreground: 219 14% 68%;
+    --accent: 229 40% 20%;
+    --accent-foreground: 229 90% 82%;
+    --destructive: 352 60% 60%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 222 18% 22%;
+    --input: 222 18% 22%;
+    --ring: 229 90% 72%;
+    --panel: 222 25% 13%;
+    --note: 48 25% 12%;   --note-line: 42 35% 32%;
+    --warn: 41 40% 14%;   --warn-foreground: 41 70% 70%;
+    --info-line: 229 40% 35%;
+    --badge: 222 20% 18%; --badge-foreground: 219 15% 75%;
+    --track: 222 18% 24%;
+    --know: 150 55% 62%;     --know-soft: 150 30% 14%;     --know-line: 150 30% 26%;
+    --unsure: 38 80% 64%;    --unsure-soft: 38 40% 14%;    --unsure-line: 38 35% 28%;
+    --dontknow: 352 75% 70%; --dontknow-soft: 352 40% 15%; --dontknow-line: 352 35% 30%;
+    color-scheme: dark;
   }
   * { @apply border-border; }
   body { @apply bg-background text-foreground antialiased; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
@@ -36,10 +78,10 @@
   .fullrow { display: flex; height: 22px; align-items: center; justify-content: space-between; gap: 8px; overflow: hidden; white-space: nowrap; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 13px; line-height: 22px; color: inherit; text-decoration: none; contain: strict; }
   .fullrow:hover .fullrow-word { text-decoration: underline; text-underline-offset: 3px; }
   .fullrow::after { content: ''; flex: none; width: 1.5em; text-align: center; font-weight: 700; }
-  .fullrow[data-state='definitely_know']::after { content: '✓'; color: #177151; }
-  .fullrow[data-state='not_sure'] { color: #966312; }
+  .fullrow[data-state='definitely_know']::after { content: '✓'; color: hsl(var(--know)); }
+  .fullrow[data-state='not_sure'] { color: hsl(var(--unsure)); }
   .fullrow[data-state='not_sure']::after { content: '?'; }
-  .fullrow[data-state='dont_know'] { color: #b53e4d; }
+  .fullrow[data-state='dont_know'] { color: hsl(var(--dontknow)); }
   .fullrow[data-state='dont_know']::after { content: '✗'; }
 }
 

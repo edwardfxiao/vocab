@@ -18,7 +18,7 @@ export function ExtrasPanel() {
     if (addExtra(w, zh)) { setWord(''); setZh(''); }
   };
   return (
-    <section aria-label="Extra words" className="my-5 rounded-xl border bg-white px-4 py-3.5">
+    <section aria-label="Extra words" className="my-5 rounded-xl border bg-card px-4 py-3.5">
       <div className="mb-2.5 flex flex-wrap items-baseline gap-x-3 gap-y-0.5">
         <strong className="text-sm">Extra words · 词表外补充</strong>
         <span className="text-sm text-muted-foreground">Words the collection lacks (abbot…) with your own gloss. They are highlighted in the stories and included in “Extra words” exports. 不在词表里的词，记在这里。</span>

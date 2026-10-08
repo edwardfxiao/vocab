@@ -58,7 +58,7 @@ export function PracticeListPage() {
 
   return (
     <>
-      <section className="mb-5 rounded-xl border bg-white px-4 py-5 sm:px-8 sm:py-6">
+      <section className="mb-5 rounded-xl border bg-card px-4 py-5 sm:px-8 sm:py-6">
         <div className="flex flex-wrap items-end justify-between gap-3">
           <div>
             <h2 className="text-2xl font-bold tracking-tight sm:text-3xl">Practice a list · 按清单练习</h2>
@@ -74,9 +74,9 @@ export function PracticeListPage() {
           <div className="mt-3 text-sm text-muted-foreground">
             <ul className="flex flex-wrap gap-2">
               {list.sources.map(src => (
-                <li key={src.name} className="flex items-center gap-2 rounded-lg border bg-[#f8f9fd] py-1 pl-3 pr-1" title={src.imported_at ? `Imported ${new Date(src.imported_at).toLocaleString()}` : undefined}>
+                <li key={src.name} className="flex items-center gap-2 rounded-lg border bg-panel py-1 pl-3 pr-1" title={src.imported_at ? `Imported ${new Date(src.imported_at).toLocaleString()}` : undefined}>
                   <b className="text-foreground">{src.name}</b><span>{src.ids.length.toLocaleString()} words</span>
-                  <button type="button" onClick={() => removeSource(src.name)} aria-label={`Remove ${src.name}`} className="rounded p-1 hover:bg-black/5 hover:text-foreground"><X className="h-3.5 w-3.5" /></button>
+                  <button type="button" onClick={() => removeSource(src.name)} aria-label={`Remove ${src.name}`} className="rounded p-1 hover:bg-foreground/5 hover:text-foreground"><X className="h-3.5 w-3.5" /></button>
                 </li>
               ))}
             </ul>
@@ -85,19 +85,19 @@ export function PracticeListPage() {
         )}
       </section>
       {loading ? <p className="text-muted-foreground">Loading collection…</p> : !list ? (
-        <section className="flex min-h-[240px] flex-col items-center justify-center rounded-xl border bg-white px-4 py-10 text-center">
+        <section className="flex min-h-[240px] flex-col items-center justify-center rounded-xl border bg-card px-4 py-10 text-center">
           <p className="text-lg font-semibold">No list yet.</p>
           <p className="mt-1 max-w-[520px] text-sm text-muted-foreground">Export “答错和不知道的” from a quiz or tick words in a story glossary, then import that file here. Ratings you give in the card are saved like anywhere else.</p>
         </section>
       ) : entries.length === 0 ? (
-        <section className="rounded-xl border bg-white px-4 py-5 sm:px-8 sm:py-6 text-muted-foreground">None of the listed words are in this collection. Import another CSV or switch collection.</section>
+        <section className="rounded-xl border bg-card px-4 py-5 sm:px-8 sm:py-6 text-muted-foreground">None of the listed words are in this collection. Import another CSV or switch collection.</section>
       ) : (
         <>
           <div className="grid grid-cols-[250px_minmax(0,1fr)] gap-5 max-[850px]:grid-cols-1">
             <WordList queue={entries} />
             <WordCard queue={entries} keyHints={false} />
           </div>
-          <section className="mt-5 rounded-xl border bg-white px-4 py-5 sm:px-8 sm:py-6">
+          <section className="mt-5 rounded-xl border bg-card px-4 py-5 sm:px-8 sm:py-6">
             <StoryQuiz key={ids.join(',')} glossary={glossary} slug={slug} exportLabel="list-missed" />
           </section>
         </>
