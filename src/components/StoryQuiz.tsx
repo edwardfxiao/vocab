@@ -18,7 +18,12 @@ const MODE_KEY = 'word-by-word.quiz-mode.v1';
 interface Question { word: string; zh: string; options: string[]; answer: number }
 const LETTERS = ['A', 'B', 'C', 'D'];
 const UNKNOWN_KEY = 'word-by-word.quiz-unknown.v1';
+const RESULT_GLOSS_KEY = 'word-by-word.quiz-result-gloss.v1';
+const RESULT_WORD_KEY = 'word-by-word.quiz-result-word.v1';
 const DONT_KNOW = -1;   // stored answer for “I don't know”: shows the answer, counts separately, never auto-advances
+
+const readVisible = (key: string): boolean => { try { return localStorage.getItem(key) !== 'hidden'; } catch { return true; } };
+const saveVisible = (key: string, visible: boolean): void => { try { localStorage.setItem(key, visible ? 'shown' : 'hidden'); } catch { /* storage unavailable */ } };
 
 function shuffle<T>(xs: readonly T[]): T[] {
   const a = [...xs];
@@ -54,11 +59,55 @@ function OptionInfo({ word, zh, slug }: { word: string; zh: string; slug: string
   );
 }
 
+/** The result list supports the same recall modes as the story glossary. */
+function MissedWords({ words, slug }: { words: (Question & { picked: number | null })[]; slug: string }) {
+  const [showWord, setShowWord] = useState(() => readVisible(RESULT_WORD_KEY));
+  const [showGloss, setShowGloss] = useState(() => !readVisible(RESULT_WORD_KEY) || readVisible(RESULT_GLOSS_KEY));
+  const [peeked, setPeeked] = useState<ReadonlySet<string>>(new Set());
+  const toggleGloss = (): void => { saveVisible(RESULT_GLOSS_KEY, !showGloss); setShowGloss(!showGloss); };
+  const toggleWord = (): void => {
+    saveVisible(RESULT_WORD_KEY, !showWord); setShowWord(!showWord); setPeeked(new Set());
+    if (showWord && !showGloss) { saveVisible(RESULT_GLOSS_KEY, true); setShowGloss(true); }
+  };
+  const togglePeek = (word: string): void => setPeeked(before => { const next = new Set(before); if (next.has(word)) next.delete(word); else next.add(word); return next; });
+  return (
+    <div className="mt-3" aria-label="Missed words">
+      <div className="flex flex-wrap items-center justify-between gap-2">
+        <p className="text-sm text-muted-foreground">答错和不知道的词 · Missed words</p>
+        <div className="flex flex-wrap gap-2">
+          <Button variant="outline" size="sm" onClick={toggleGloss} aria-pressed={!showGloss} disabled={!showWord}>{showGloss ? '隐藏释义' : '显示释义'}</Button>
+          <Button variant="outline" size="sm" onClick={toggleWord} aria-pressed={!showWord} title="Hide the English words; click a blank to peek">{showWord ? '隐藏英文' : '显示英文'}</Button>
+        </div>
+      </div>
+      <ul className="mt-2 grid grid-cols-[repeat(auto-fill,minmax(min(280px,100%),1fr))] gap-x-6 gap-y-1.5 text-[15px]">
+        {words.map((r, i) => {
+          const color = r.picked === DONT_KNOW ? 'text-unsure' : 'text-dontknow';
+          const revealed = peeked.has(r.word);
+          return (
+            <li key={r.word} className="flex items-baseline gap-2">
+              {showWord ? <a href={withBase(`${slug}/w/${encodeURIComponent(r.word)}`)} target="_blank" rel="noopener" className={cn('font-semibold hover:underline', color)}>{r.word}</a>
+                : <span className="inline-flex shrink-0 items-center gap-1">
+                  <button type="button" onClick={() => togglePeek(r.word)} aria-expanded={revealed} aria-label={`${revealed ? '隐藏' : '显示'}第 ${i + 1} 个英文`} title={revealed ? 'Click to hide again' : 'Peek'}
+                    className={cn('rounded', revealed ? `px-0.5 font-semibold hover:brightness-95 ${color}` : 'border border-dashed px-2 text-xs text-muted-foreground hover:border-primary hover:text-primary')}>{revealed ? r.word : '…'}</button>
+                  <OptionInfo word={r.word} zh={r.zh} slug={slug} />
+                </span>}
+              {showGloss && <span className="text-muted-foreground">{r.zh}</span>}
+            </li>
+          );
+        })}
+      </ul>
+    </div>
+  );
+}
+
 /** 复习练习: pick the meaning of each story word from four choices, in story order or shuffled. Keys A–D / 1–4 answer, Enter or → continues. */
 export function StoryQuiz({ glossary, slug, practiceHref, exportLabel = 'missed' }: { glossary: StoryGlossaryEntry[]; slug: string; practiceHref?: string; exportLabel?: string }) {
   const cardHref = (word: string): string => withBase(`${slug}/w/${encodeURIComponent(word)}`);   // opened in a new tab so the quiz keeps its place
   const ratings = useAppState(st => st.ratings);
   const [hover, setHover] = useState(false);
+  const [hoveredOption, setHoveredOption] = useState<number | null>(null);
+  const [showOptions, setShowOptions] = useState(false);   // revealing options applies only to this question, in either choice mode
+  const [peekedOptions, setPeekedOptions] = useState<ReadonlySet<number>>(new Set());
 
   const [order, setOrder] = useState<Order>('shuffled');   // shuffled by default
   const [mode, setMode] = useState<Mode>(() => { try { const m = localStorage.getItem(MODE_KEY); return MODES.some(x => x.mode === m) ? m as Mode : 'en2zh'; } catch { return 'en2zh'; } });
@@ -81,7 +130,13 @@ export function StoryQuiz({ glossary, slug, practiceHref, exportLabel = 'missed'
   const unknown = answered.filter(x => x.picked === DONT_KNOW).length;
   const missed = answered.filter(x => x.picked !== x.answer);
 
-  const restart = (next: Order = order, subset: ReadonlySet<string> | null = null): void => { setOrder(next); setOnly(subset); setRun(r => r + 1); setIndex(0); setAnswers([]); setTyped([]); setDraft(''); setAutoFrom(null); setHover(false); };
+  const clearQuestion = (): void => { setAutoFrom(null); setHover(false); setHoveredOption(null); setShowOptions(false); setPeekedOptions(new Set()); setDraft(''); };
+  const restart = (next: Order = order, subset: ReadonlySet<string> | null = null): void => { setOrder(next); setOnly(subset); setRun(r => r + 1); setIndex(0); setAnswers([]); setTyped([]); clearQuestion(); };
+  const toggleOptions = (): void => {
+    if (mode === 'spell') return;
+    setShowOptions(before => !before); setPeekedOptions(new Set());
+  };
+  const toggleOptionPeek = (i: number): void => setPeekedOptions(before => { const next = new Set(before); if (next.has(i)) next.delete(i); else next.add(i); return next; });
   const switchMode = (m: Mode): void => { setMode(m); try { localStorage.setItem(MODE_KEY, m); } catch { /* storage unavailable */ } restart(order, null); };
   const submitSpelling = (): void => {
     if (!q || picked !== null) return;
@@ -96,14 +151,14 @@ export function StoryQuiz({ glossary, slug, practiceHref, exportLabel = 'missed'
     setAnswers(a => { const b = [...a]; b[index] = i; return b; });
     setAutoFrom(index);
   };
-  const next = (): void => { if (picked === null) return; setAutoFrom(null); setHover(false); setDraft(''); setIndex(i => i + 1); };
-  const prev = (): void => { setAutoFrom(null); setHover(false); setDraft(''); setIndex(i => Math.max(0, i - 1)); };
-  useEffect(() => { if (mode === 'spell' && picked === null) inputRef.current?.focus(); }, [mode, index, picked]);
+  const next = (): void => { if (picked === null) return; clearQuestion(); setIndex(i => i + 1); };
+  const prev = (): void => { clearQuestion(); setIndex(i => Math.max(0, i - 1)); };
+  useEffect(() => { if (mode === 'spell' && picked === null) inputRef.current?.focus(); }, [mode, index, picked, run]);
   // Auto-advance after answering: a correct pick moves on almost at once (a short green flash), a wrong one waits 2 s so the
   // answer can be read. Going back or forward by hand cancels it, and revisited questions never auto-advance.
   useEffect(() => {
     if (autoFrom === null || autoFrom !== index || !q || picked === null || picked === DONT_KNOW) return;
-    const t = window.setTimeout(() => { setAutoFrom(null); setIndex(i => i + 1); }, picked === q.answer ? 0 : 2000);
+    const t = window.setTimeout(next, picked === q.answer ? 0 : 2000);
     return () => window.clearTimeout(t);
   }, [autoFrom, index, picked, q]);
 
@@ -146,14 +201,7 @@ export function StoryQuiz({ glossary, slug, practiceHref, exportLabel = 'missed'
       ) : done ? (
         <div className="mt-4 rounded-xl border bg-panel px-5 py-4">
           <p className="text-lg font-semibold">完成 · {questions.length} 题，答对 {correct}，答错 {questions.length - correct - unknown}{unknown ? `，不知道 ${unknown}` : ''}</p>
-          {missed.length > 0 && (
-            <>
-              <p className="mt-3 text-sm text-muted-foreground">答错的词 · Missed words (open the card in a new tab):</p>
-              <ul className="mt-1 grid grid-cols-[repeat(auto-fill,minmax(min(280px,100%),1fr))] gap-x-6 gap-y-1 text-[15px]">
-                {missed.map(r => <li key={r.word} className="flex gap-2"><a href={cardHref(r.word)} target="_blank" rel="noopener" className={cn('font-semibold hover:underline', r.picked === DONT_KNOW ? 'text-unsure' : 'text-dontknow')}>{r.word}</a><span className="text-muted-foreground">{r.zh}</span></li>)}
-              </ul>
-            </>
-          )}
+          {missed.length > 0 && <MissedWords key={run} words={missed} slug={slug} />}
           <div className="mt-4 flex flex-wrap gap-2">
             <Button variant="outline" onClick={prev}><ArrowLeft className="mr-1 h-3.5 w-3.5" />Back to the questions</Button>
             {missed.length > 0 && <Button onClick={retryMissed} className="bg-dontknow text-white hover:bg-dontknow hover:brightness-95">只练答错和不知道的 · Retry {missed.length}</Button>}
@@ -162,7 +210,7 @@ export function StoryQuiz({ glossary, slug, practiceHref, exportLabel = 'missed'
           </div>
         </div>
       ) : q && (
-        <div className="mt-4 rounded-xl border bg-card px-3 py-3 sm:px-5 sm:py-4">
+        <div key={`${run}-${mode}-${index}`} className="mt-4 rounded-xl border bg-card px-3 py-3 sm:px-5 sm:py-4">
           {mode !== 'en2zh' && <p className="text-xl font-medium leading-snug sm:text-2xl">{q.zh}</p>}
           {(mode === 'en2zh' || picked !== null) && (() => {   // the word, with the same hover card as in the story (shown after answering in the meaning-first modes)
             const entry = entryByWord(q.word);
@@ -181,21 +229,28 @@ export function StoryQuiz({ glossary, slug, practiceHref, exportLabel = 'missed'
               <Button type="submit" disabled={picked !== null || !normalize(draft)}>提交</Button>
             </form>
           )}
-          <ol className="mt-4 grid gap-2">
+          {mode !== 'spell' && <div className="mt-4 flex flex-wrap items-center gap-2" aria-label="Option visibility">
+            <Button variant="outline" size="sm" onClick={toggleOptions} aria-pressed={!showOptions}>{showOptions ? '隐藏' : '显示'}{mode === 'en2zh' ? '释义' : '英文'}</Button>
+            {!showOptions && <span className="text-xs text-muted-foreground">点击「…」查看，再点击选项作答；下一题重新隐藏。</span>}
+          </div>}
+          <ol className="mt-2 grid gap-2">
             {q.options.map((opt, i) => {
               const isAnswer = i === q.answer; const isPicked = i === picked;
               const state = picked === null ? 'idle' : isAnswer ? 'right' : isPicked ? 'wrong' : 'dim';
+              const visible = picked !== null || showOptions || peekedOptions.has(i);
               return (
-                <li key={i} className={cn(mode === 'zh2en' && 'flex items-center gap-1')}>
-                  <button type="button" onClick={() => pick(i)} disabled={picked !== null} aria-pressed={isPicked}
-                    className={cn('flex w-full min-w-0 flex-1 items-start gap-3 rounded-lg border px-4 py-2.5 text-left text-[15px] transition-colors',
-                      state === 'idle' && 'hover:border-primary hover:bg-accent/40',
+                <li key={i} className="flex items-center gap-1">
+                  <button type="button" onClick={() => visible ? pick(i) : toggleOptionPeek(i)} disabled={picked !== null} aria-pressed={isPicked} aria-label={visible ? undefined : `显示选项 ${LETTERS[i]} 的${mode === 'en2zh' ? '释义' : '英文'}`}
+                    onPointerMove={() => setHoveredOption(i)} onPointerLeave={() => setHoveredOption(null)}
+                    className={cn('flex w-full min-w-0 flex-1 items-start gap-3 rounded-lg border px-4 py-2.5 text-left text-[15px] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring',
+                      state === 'idle' && hoveredOption === i && 'border-primary bg-accent/40',
                       state === 'right' && 'border-know-line bg-know-soft text-know',
                       state === 'wrong' && 'border-dontknow-line bg-dontknow-soft text-dontknow',
                       state === 'dim' && 'opacity-50')}>
                     <span className="mt-0.5 grid h-5 w-5 shrink-0 place-items-center rounded border text-xs font-semibold">{LETTERS[i]}</span>
-                    <span>{opt}</span>
+                    <span>{visible ? opt : '…'}</span>
                   </button>
+                  {!showOptions && peekedOptions.has(i) && picked === null && <button type="button" onClick={() => toggleOptionPeek(i)} className="shrink-0 rounded px-2 py-1 text-xs text-muted-foreground hover:bg-accent/60 hover:text-primary" aria-label={`隐藏选项 ${LETTERS[i]}`}>隐藏</button>}
                   {mode === 'zh2en' && <OptionInfo word={opt} zh={glossary.find(g => g.word === opt)?.zh ?? ''} slug={slug} />}
                 </li>
               );
